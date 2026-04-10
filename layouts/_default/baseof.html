@@ -54,7 +54,13 @@
             <p class="footer-links">
                 <a href="https://github.com/chris/breach-notes">Source Code</a>
                 <span>|</span>
-                <a href="{{ "about/" | relURL }}">About</a>
+                {{ with .OutputFormats.Get "RSS" }}
+                <a href="{{ .RelPermalink }}">RSS</a>
+                {{ else }}
+                {{ with $.Site.Home.OutputFormats.Get "RSS" }}
+                <a href="{{ .RelPermalink }}">RSS</a>
+                {{ end }}
+                {{ end }}
             </p>
         </div>
     </footer>

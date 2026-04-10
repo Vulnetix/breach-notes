@@ -3,9 +3,9 @@ source_url: https://bkex.zendesk.com/hc/en-us/articles/19022106904729
 date_of_breach: '2023-05-29'
 date_of_disclosure: '2023-05-29'
 category: other
-notes: The BKEX crypto exchange announced on May 29 that they would be suspending
-  withdrawals, claiming it was related to a police investigation. "Recently, the platform
-  users' funds were involved in 'money laundering' and BKEX is currently cooperating
-  with the police to collect evidence, for which we will suspend withdrawals to cooperate
-  with the work", they wrote in an announcement on their website.The exchange offered
-  no estimate of when withdrawals might be re-enabled.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: BKEX
+notes: The BKEX crypto exchange announced on May 29 that they would be suspending withdrawals, claiming it was related to
+  a police investigation. "Recently, the platform users' funds were involved in 'money laundering' and BKEX is currently cooperating
+  with the police to collect evidence, for which we will suspend withdrawals to cooperate with the work", they wrote in an
+  announcement on their website.The exchange offered no estimate of when withdrawals might be re-enabled.

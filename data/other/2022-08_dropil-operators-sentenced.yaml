@@ -1,12 +1,13 @@
-source_name: '"Two Orange County Men Sentenced to Federal Prison for Conning Investors
-  Out of $1.9 Million Through Cryptocurrency Offering"'
+source_name: '"Two Orange County Men Sentenced to Federal Prison for Conning Investors Out of $1.9 Million Through Cryptocurrency
+  Offering"'
 source_url: https://www.justice.gov/usao-cdca/pr/two-orange-county-men-sentenced-federal-prison-conning-investors-out-19-million-through
 date_of_breach: '2022-08-01'
 date_of_disclosure: '2022-08-01'
 category: other
-notes: Two men who ran an "investment management service" called Dropil were sentenced
-  to 2&#189; and 3 years in prison after stealing around $1.9 million from more than
-  2,000 people. They convinced people to buy DROP tokens, which they said would provide
-  access to an automated trading bot that would return up to 63% in annual returns.
-  In reality, there was no functional trading bot. When the SEC inquired, the two
-  men forged profitability reports and lied under oath about the project.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Dropil operators
+affected_count: 2000
+notes: Two men who ran an "investment management service" called Dropil were sentenced to 2&#189; and 3 years in prison after
+  stealing around $1.9 million from more than 2,000 people. They convinced people to buy DROP tokens, which they said would
+  provide access to an automated trading bot that would return up to 63% in annual returns. In reality, there was no functional
+  trading bot. When the SEC inquired, the two men forged profitability reports and lied under oath about the project.

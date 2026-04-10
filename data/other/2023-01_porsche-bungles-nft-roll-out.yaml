@@ -3,19 +3,16 @@ source_url: https://www.coindesk.com/web3/2023/01/24/porsche-hits-brakes-on-nft-
 date_of_breach: '2023-01-24'
 date_of_disclosure: '2023-01-24'
 category: other
-notes: For some reason, Porsche decided they needed to release a set of Porsche 911
-  NFTs so that customers could buy "the opportunity to co-create Porsche's future
-  in the Web3 universe" (whatever that means). The set of 7,500 NFTs were available
-  to mint for 0.911 ETH apiece, or around $1,490. If the project sold out, Porsche
-  would have been looking at a windfall of more than $11 million.Unfortunately for
-  them, things didn't quite go as planned, with collectors balking at the high pricetag.
-  Mints slowed to a crawl far before the 7,500 limit was reached, and the NFTs quickly
-  began trading at a discount on secondary markets (meaning it was cheaper to buy
-  a resold NFT than mint a new one).Porsche decided to pump the brakes on the mint
-  when fewer than 2,000 had sold. However, they botched that too — they announced
-  they had stopped the mint before they actually did so, which caused the collection's
-  secondary floor price to rise back above the mint price in anticipation of higher
-  scarcity. Observant traders who noticed this were able to arbitrage the price difference,
-  minting new NFTs and immediately flipping them for a profit on secondary markets.NFT
-  collectors criticized Porsche for appearing to try to jump into web3 without knowing
-  the space, and asking for an exorbitant mint price without a clear plan.
+vendor_product: Porsche bungles NFT roll-out
+blockchain: ethereum
+notes: For some reason, Porsche decided they needed to release a set of Porsche 911 NFTs so that customers could buy "the
+  opportunity to co-create Porsche's future in the Web3 universe" (whatever that means). The set of 7,500 NFTs were available
+  to mint for 0.911 ETH apiece, or around $1,490. If the project sold out, Porsche would have been looking at a windfall of
+  more than $11 million.Unfortunately for them, things didn't quite go as planned, with collectors balking at the high pricetag.
+  Mints slowed to a crawl far before the 7,500 limit was reached, and the NFTs quickly began trading at a discount on secondary
+  markets (meaning it was cheaper to buy a resold NFT than mint a new one).Porsche decided to pump the brakes on the mint
+  when fewer than 2,000 had sold. However, they botched that too — they announced they had stopped the mint before they actually
+  did so, which caused the collection's secondary floor price to rise back above the mint price in anticipation of higher
+  scarcity. Observant traders who noticed this were able to arbitrage the price difference, minting new NFTs and immediately
+  flipping them for a profit on secondary markets.NFT collectors criticized Porsche for appearing to try to jump into web3
+  without knowing the space, and asking for an exorbitant mint price without a clear plan.

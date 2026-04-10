@@ -1,17 +1,15 @@
-source_name: '"Marvel NFT partner Veve closes its marketplace after an in-app token
-  exploit"'
+source_name: '"Marvel NFT partner Veve closes its marketplace after an in-app token exploit"'
 source_url: https://cointelegraph.com/news/marvel-nft-partner-veve-closes-its-marketplace-after-an-in-app-token-exploit
 date_of_breach: '2022-03-22'
 date_of_disclosure: '2022-03-22'
 category: data-leak
-notes: The VeVe marketplace has developed a bit of a reputation as the partner of
-  choice for some big names who have dipped their toes into "licensed digital collectible"
-  NFTs, including Marvel, Pixar, and Coca-Cola. It is also notable for using in-app
-  tokens called Gems, which can be purchased with credit cards, but have been impossible
-  to cash out since the mid-2021 launch (though VeVe has very recently said they are
-  beta testing a cashout system).On March 22, VeVe tweeted that "We have become aware
-  of an exploit of our systems which resulted in a large amount of gems being acquired
-  illegitimately", and that they had closed the market, as well as purchases and transfers
-  of Gems. The market remained closed for over a day as VeVe apparently triaged the
-  problem. It's not clear yet what the impact has been to the platform or its users,
-  though many reported that their NFTs appeared to have plunged in value.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: VeVe
+notes: The VeVe marketplace has developed a bit of a reputation as the partner of choice for some big names who have dipped
+  their toes into "licensed digital collectible" NFTs, including Marvel, Pixar, and Coca-Cola. It is also notable for using
+  in-app tokens called Gems, which can be purchased with credit cards, but have been impossible to cash out since the mid-2021
+  launch (though VeVe has very recently said they are beta testing a cashout system).On March 22, VeVe tweeted that "We have
+  become aware of an exploit of our systems which resulted in a large amount of gems being acquired illegitimately", and that
+  they had closed the market, as well as purchases and transfers of Gems. The market remained closed for over a day as VeVe
+  apparently triaged the problem. It's not clear yet what the impact has been to the platform or its users, though many reported
+  that their NFTs appeared to have plunged in value.

@@ -3,18 +3,18 @@ source_url: https://cointelegraph.com/news/nft-influencer-falls-victim-to-cybera
 date_of_breach: '2023-01-04'
 date_of_disclosure: '2023-01-04'
 category: data-leak
-notes: 'Crypto influencer CryptoNovo tweeted, "I just got hacked!!! Are you kidding
-  me!?!" with a screenshot of valuable CryptoPunk NFTs being transferred from their
-  account. An attacker apparently transferred from CryptoNovo''s wallet two or three
-  CryptoPunks, one Bored Ape, one Mutant Ape, three Meebits, and two CloneX NFTs —
-  all "blue chip" NFTs that fetch high prices.The thief quickly flipped all of the
-  NFTs for around 417 ETH ($525,000). It''s unclear if one of the CryptoPunks was
-  stolen, as it was transferred to a wallet to whom CryptoNovo has previously made
-  transfers, but that NFT too was sold for 75 ETH ($94,200).The thief made a pretty
-  penny, but the loss to CryptoNovo is more substantial based on how much money they
-  spent on the NFTs. They had purchased the Bored Ape in August 2021 for 30 ETH (then
-  around $100,000), and CryptoPunk #4608 in September 2021 for 290 ETH (then $850,000).The
-  attack appears to have been phishing-related.
+initial_attack_vector: Phishing attack
+vendor_product: CryptoNovo NFT theft
+blockchain: ethereum
+financial_loss_usd: 524788
+notes: 'Crypto influencer CryptoNovo tweeted, "I just got hacked!!! Are you kidding me!?!" with a screenshot of valuable CryptoPunk
+  NFTs being transferred from their account. An attacker apparently transferred from CryptoNovo''s wallet two or three CryptoPunks,
+  one Bored Ape, one Mutant Ape, three Meebits, and two CloneX NFTs — all "blue chip" NFTs that fetch high prices.The thief
+  quickly flipped all of the NFTs for around 417 ETH ($525,000). It''s unclear if one of the CryptoPunks was stolen, as it
+  was transferred to a wallet to whom CryptoNovo has previously made transfers, but that NFT too was sold for 75 ETH ($94,200).The
+  thief made a pretty penny, but the loss to CryptoNovo is more substantial based on how much money they spent on the NFTs.
+  They had purchased the Bored Ape in August 2021 for 30 ETH (then around $100,000), and CryptoPunk #4608 in September 2021
+  for 290 ETH (then $850,000).The attack appears to have been phishing-related.
 
 
   Total loss estimated at $524,788.'

@@ -1,24 +1,20 @@
-source_name: '"SEC Charges DeFi Platform Rari Capital and its Founders With Misleading
-  Investors and Acting as Unregistered Brokers"'
+source_name: '"SEC Charges DeFi Platform Rari Capital and its Founders With Misleading Investors and Acting as Unregistered
+  Brokers"'
 source_url: https://www.sec.gov/newsroom/press-releases/2024-138
 date_of_breach: '2024-09-18'
 date_of_disclosure: '2024-09-18'
 category: other
-notes: The defi lending protocol Rari Capital, and its three co-founders, have settled
-  charges from the SEC that it misled investors and engaged in unregistered broker
-  activity. Rari Capital entities also settled charges that they conducted unregistered
-  offerings of three securities, and engaged in unregistered securities offerings
-  and unregistered broker activity. The SEC alleged that the firm and its co-founders
-  made false statements to investors about supposedly automatic re-balancing of assets
-  into the highest yield opportunities when, in fact, rebalancing was also done manually.
-  The SEC also alleged that the company and its co-founders made misleading statements
-  about the supposedly high yield from the platform, which they said did not account
-  for fees, and which ultimately caused many investors to lose money.The company and
-  co-founders will pay fines, and the individuals will agree to five-year bans from
-  serving as officers or directors.The regional SEC director stated, "We will not
-  be deterred by someone labeling a product as 'decentralized' and 'autonomous',"
-  alluding to crypto firms' tendencies to try to skirt securities regulations by claiming
-  to be "decentralized".Rari has featured on Web3 is Going Just Great before, when
-  they were exploited for around $80 million in April 2022 and when they were exploited
-  for around $15 million in May 2021. The project effectively wound down soon after
-  the second theft.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Rari Capital
+notes: The defi lending protocol Rari Capital, and its three co-founders, have settled charges from the SEC that it misled
+  investors and engaged in unregistered broker activity. Rari Capital entities also settled charges that they conducted unregistered
+  offerings of three securities, and engaged in unregistered securities offerings and unregistered broker activity. The SEC
+  alleged that the firm and its co-founders made false statements to investors about supposedly automatic re-balancing of
+  assets into the highest yield opportunities when, in fact, rebalancing was also done manually. The SEC also alleged that
+  the company and its co-founders made misleading statements about the supposedly high yield from the platform, which they
+  said did not account for fees, and which ultimately caused many investors to lose money.The company and co-founders will
+  pay fines, and the individuals will agree to five-year bans from serving as officers or directors.The regional SEC director
+  stated, "We will not be deterred by someone labeling a product as 'decentralized' and 'autonomous'," alluding to crypto
+  firms' tendencies to try to skirt securities regulations by claiming to be "decentralized".Rari has featured on Web3 is
+  Going Just Great before, when they were exploited for around $80 million in April 2022 and when they were exploited for
+  around $15 million in May 2021. The project effectively wound down soon after the second theft.

@@ -3,25 +3,20 @@ source_url: https://twitter.com/MultichainOrg/status/1679768407628185600
 date_of_breach: '2023-07-14'
 date_of_disclosure: '2023-07-14'
 category: other
-notes: After a months-long saga involving "stuck" transactions, Multichain announcing
-  they couldn't get in contact with their CEO, rumors that the whole team was arrested,
-  and several suspicious transactions of more than $100 million each, Multichain has
-  finally announced that their CEO — known only as Zhaojun — was arrested on May 21.
-  According to the project, all of his devices, hardware wallets, and mnemonic phrases
-  were taken by Chinese police during the arrest. "Since the inception of the project,
-  all operational funds and investments from investors have been under Zhaojun's control.
-  This also means that all the team's funds and access to the servers are with Zhaojun
-  and the police," they wrote.The Multichain project claimed in a lengthy Twitter
-  thread that the team attempted to keep the project running by using stored credentials
-  on Zhaojun's home computer, thanks to access provided by his sister. However, they
-  say that the July 6–7 movement of $130 million out of the project was an "abnormal"
-  transfer by an unknown party. They claim that the July 9–10 transfer of around $107
-  million was his sister attempting to preserve assets by moving them into wallets
-  she controlled. According to the team, his sister also was arrested on July 13,
-  and "the status of the assets she has preserved is uncertain"."Due to the lack of
-  alternative sources of information and corresponding operational funds, the team
-  is forced to cease operations," they wrote. They also claimed that they don't have
-  control over the domain pointing to the frontend of the project, and so are unable
-  to take the project offline, and resorted to pleading with GoDaddy for help in doing
-  so."Honestly he deserves jail for this level of cryptography incompetence alone,"
-  wrote crypto personality 0xfoobar on Twitter.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Multichain finally confirms their CEO was arrested in China
+notes: After a months-long saga involving "stuck" transactions, Multichain announcing they couldn't get in contact with their
+  CEO, rumors that the whole team was arrested, and several suspicious transactions of more than $100 million each, Multichain
+  has finally announced that their CEO — known only as Zhaojun — was arrested on May 21. According to the project, all of
+  his devices, hardware wallets, and mnemonic phrases were taken by Chinese police during the arrest. "Since the inception
+  of the project, all operational funds and investments from investors have been under Zhaojun's control. This also means
+  that all the team's funds and access to the servers are with Zhaojun and the police," they wrote.The Multichain project
+  claimed in a lengthy Twitter thread that the team attempted to keep the project running by using stored credentials on Zhaojun's
+  home computer, thanks to access provided by his sister. However, they say that the July 6–7 movement of $130 million out
+  of the project was an "abnormal" transfer by an unknown party. They claim that the July 9–10 transfer of around $107 million
+  was his sister attempting to preserve assets by moving them into wallets she controlled. According to the team, his sister
+  also was arrested on July 13, and "the status of the assets she has preserved is uncertain"."Due to the lack of alternative
+  sources of information and corresponding operational funds, the team is forced to cease operations," they wrote. They also
+  claimed that they don't have control over the domain pointing to the frontend of the project, and so are unable to take
+  the project offline, and resorted to pleading with GoDaddy for help in doing so."Honestly he deserves jail for this level
+  of cryptography incompetence alone," wrote crypto personality 0xfoobar on Twitter.

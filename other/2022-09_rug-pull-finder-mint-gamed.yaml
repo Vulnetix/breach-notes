@@ -3,21 +3,20 @@ source_url: https://twitter.com/rugpullfinder/status/1565734576630145024
 date_of_breach: '2022-09-02'
 date_of_disclosure: '2022-09-02'
 category: other
-notes: 'The group Rug Pull Finder aims to combat fraud, scams, and hacks in the NFT
-  space, often investigating crypto rug pulls and offering audits for projects and
-  smart contracts. They decided to launch their own NFT project, "Bad Guys", which
-  is themed around a group of baddies who steal NFTs.Ironically, a flaw in the project''s
-  smart contract allowed individual wallets to mint many NFTs at once, rather than
-  one per wallet, allowing two people to game the system and snap up more than 450
-  NFTs rather than the one they were allowed. Rug Pull Finder wrote that "An exploit
-  was shared with us 30 minutes before mint went live. After reviewing it with 3 different
-  dev teams, we did not believe the credibility of the information sent to us... We
-  were clearly wrong, and we are truly truly sorry".Rug Pull Finder announced that
-  they had reached an agreement with the people who gamed the mint, and would buy
-  back the 366 NFTs the duo still held for 2.5 ETH (~$4,000).Crypto security researcher
-  OKHotshot wrote, "I think its concerning when security minded projects like RugPullFinder
-  get their discord breached and their code exploited yet they''re offering those
-  exact services to customers."
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Bad Guys promotional artwork
+blockchain: ethereum
+financial_loss_usd: 4000
+notes: 'The group Rug Pull Finder aims to combat fraud, scams, and hacks in the NFT space, often investigating crypto rug
+  pulls and offering audits for projects and smart contracts. They decided to launch their own NFT project, "Bad Guys", which
+  is themed around a group of baddies who steal NFTs.Ironically, a flaw in the project''s smart contract allowed individual
+  wallets to mint many NFTs at once, rather than one per wallet, allowing two people to game the system and snap up more than
+  450 NFTs rather than the one they were allowed. Rug Pull Finder wrote that "An exploit was shared with us 30 minutes before
+  mint went live. After reviewing it with 3 different dev teams, we did not believe the credibility of the information sent
+  to us... We were clearly wrong, and we are truly truly sorry".Rug Pull Finder announced that they had reached an agreement
+  with the people who gamed the mint, and would buy back the 366 NFTs the duo still held for 2.5 ETH (~$4,000).Crypto security
+  researcher OKHotshot wrote, "I think its concerning when security minded projects like RugPullFinder get their discord breached
+  and their code exploited yet they''re offering those exact services to customers."
 
 
   Total loss estimated at $4,000.'

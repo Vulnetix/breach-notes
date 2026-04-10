@@ -1,18 +1,16 @@
-source_name: '"Swapping More Than $157M of ETH for stETH and Levering Up, the Wormhole
-  Network Exploiter Is a DeFi Degen"'
+source_name: '"Swapping More Than $157M of ETH for stETH and Levering Up, the Wormhole Network Exploiter Is a DeFi Degen"'
 source_url: https://www.coindesk.com/business/2023/01/24/swapping-more-than-157m-of-eth-for-steth-and-levering-up-the-wormhole-network-exploiter-is-a-defi-degen
 date_of_breach: '2023-01-23'
 date_of_disclosure: '2023-01-23'
 category: other
-notes: After the $320 million hack of the Wormhole blockchain bridge in February 2022,
-  much of the funds remained dormant. Now, however, the hacker seems to have returned.
-  On January 23, they took 95,360 ETH (~$157 million) of the 120,000 ETH they stole
-  (now worth substantially less) and used it to lever up a position in stETH. stETH
-  is Lido-staked Ether, an asset representing ETH that has been staked on Ethereum
-  since it moved to the proof-of-stake model.Ultimately, the Wormhole hacker became
-  the third-largest holder of stETH as a result. The size of the swaps was so large
-  that it moved the stETH market, increasing trading volume by 3000% and temporarily
-  causing the asset to move above its usual 1:1 peg with Ethereum.The move, which
-  many crypto enthusiasts took as an indication that the Wormhole hacker was a "crypto
-  degen", is unlike the activities of many crypto hackers, who typically try to launder
-  the money and exit into fiat rather than keep it within the crypto ecosystem.
+vendor_product: Wormhole
+blockchain: ethereum
+notes: After the $320 million hack of the Wormhole blockchain bridge in February 2022, much of the funds remained dormant.
+  Now, however, the hacker seems to have returned. On January 23, they took 95,360 ETH (~$157 million) of the 120,000 ETH
+  they stole (now worth substantially less) and used it to lever up a position in stETH. stETH is Lido-staked Ether, an asset
+  representing ETH that has been staked on Ethereum since it moved to the proof-of-stake model.Ultimately, the Wormhole hacker
+  became the third-largest holder of stETH as a result. The size of the swaps was so large that it moved the stETH market,
+  increasing trading volume by 3000% and temporarily causing the asset to move above its usual 1:1 peg with Ethereum.The move,
+  which many crypto enthusiasts took as an indication that the Wormhole hacker was a "crypto degen", is unlike the activities
+  of many crypto hackers, who typically try to launder the money and exit into fiat rather than keep it within the crypto
+  ecosystem.

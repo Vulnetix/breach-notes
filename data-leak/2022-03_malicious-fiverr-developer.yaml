@@ -3,21 +3,20 @@ source_url: https://twitter.com/zachxbt/status/1501213506116497418
 date_of_breach: '2022-03-01'
 date_of_disclosure: '2022-03-01'
 category: data-leak
-notes: 'A developer offering his services on the freelancer marketplace Fiverr was
-  hired by 32 different NFT projects, for which he wrote and deployed the smart contracts.
-  The first project to be compromised via the malicious code was "TheStarsLab" project,
-  when the developer renounced ownership on the mint contract, making it impossible
-  for the project team to access the funds. The developer is the only one who has
-  the ability to move the money out of the project contract, though as of a month
-  after the attack on the project, the 197 ETH stuck in the contract (~$580,000 at
-  the time of the attack; ~$648,000 as of April 10).About 2/3 of the other affected
-  projects had yet to launch or had no social media presence. Crypto sleuth zachxbt
-  tried to contact the other 1/3, and some of the projects were able to migrate contracts
-  before any malicious actions. zachxbt wrote, "Funny enough when I reached out to
-  all the different projects the ones that responded said they either didn''t read
-  over the smart contract beforehand or weren''t the most technically inclined teams."
-  On April 7, OpenSea contacted zachxbt to say they had frozen trading for all contracts
-  created by the developer.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Malicious Fiverr developer
+blockchain: ethereum
+financial_loss_usd: 580325
+notes: 'A developer offering his services on the freelancer marketplace Fiverr was hired by 32 different NFT projects, for
+  which he wrote and deployed the smart contracts. The first project to be compromised via the malicious code was "TheStarsLab"
+  project, when the developer renounced ownership on the mint contract, making it impossible for the project team to access
+  the funds. The developer is the only one who has the ability to move the money out of the project contract, though as of
+  a month after the attack on the project, the 197 ETH stuck in the contract (~$580,000 at the time of the attack; ~$648,000
+  as of April 10).About 2/3 of the other affected projects had yet to launch or had no social media presence. Crypto sleuth
+  zachxbt tried to contact the other 1/3, and some of the projects were able to migrate contracts before any malicious actions.
+  zachxbt wrote, "Funny enough when I reached out to all the different projects the ones that responded said they either didn''t
+  read over the smart contract beforehand or weren''t the most technically inclined teams." On April 7, OpenSea contacted
+  zachxbt to say they had frozen trading for all contracts created by the developer.
 
 
   Total loss estimated at $580,325.'

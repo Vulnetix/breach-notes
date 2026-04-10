@@ -3,17 +3,14 @@ source_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4184367
 date_of_breach: '2022-08-12'
 date_of_disclosure: '2022-08-12'
 category: other
-notes: It's no secret that insider trading has happened at Coinbase, with the U.S.
-  Attorney's Office of the Southern District of New York filing charges in July against
-  three individuals, including a former Coinbase product manager, for their involvement
-  in a scheme to trade on non-public information. However, researchers at the University
-  of Technology Sydney have published a study showing that a group of four connected
-  wallets appeared to trade based on the knowledge of tokens that were about to be
-  listed by Coinbase. The trader(s) took positions in the coins ahead of the announcements,
-  then sold the tokens soon after the listing announcement when they increased in
-  value based on the news. The wallets involved in the trading scheme made a total
-  profit of around 1,003 ETH ($1.88 million), which the researchers note is a conservative
-  estimate of insider profits at Coinbase.However, some have pointed out that issues
-  with Coinbase's API leaked information about which coins were about to be listed,
-  which could have enabled people to obtain the information allowing them to make
-  such trades without an insider connection.
+vendor_product: Coinbase insider trading report
+notes: It's no secret that insider trading has happened at Coinbase, with the U.S. Attorney's Office of the Southern District
+  of New York filing charges in July against three individuals, including a former Coinbase product manager, for their involvement
+  in a scheme to trade on non-public information. However, researchers at the University of Technology Sydney have published
+  a study showing that a group of four connected wallets appeared to trade based on the knowledge of tokens that were about
+  to be listed by Coinbase. The trader(s) took positions in the coins ahead of the announcements, then sold the tokens soon
+  after the listing announcement when they increased in value based on the news. The wallets involved in the trading scheme
+  made a total profit of around 1,003 ETH ($1.88 million), which the researchers note is a conservative estimate of insider
+  profits at Coinbase.However, some have pointed out that issues with Coinbase's API leaked information about which coins
+  were about to be listed, which could have enabled people to obtain the information allowing them to make such trades without
+  an insider connection.

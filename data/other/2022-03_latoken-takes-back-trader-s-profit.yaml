@@ -1,13 +1,13 @@
-source_name: '"I made $458,000 in a flash crash buying XRP at 0.00004USDT each, then
-  the exchange reversed the trades and took my profits"'
+source_name: '"I made $458,000 in a flash crash buying XRP at 0.00004USDT each, then the exchange reversed the trades and
+  took my profits"'
 source_url: https://www.reddit.com/r/CryptoCurrency/comments/tcht0f/i_made_458000_in_a_flash_crash_buying_xrp_at/
 date_of_breach: '2022-03-12'
 date_of_disclosure: '2022-03-12'
 category: other
-notes: A trader set very low limit order on Ripple's XRP token, and was delighted
-  to see it executed with XRP very briefly plummeted in value in what's known as a
-  flash crash. The price recovered quickly, and the trader found themselves $458,000
-  wealthier. However, when they tried to withdraw some of their money from the exchange
-  they were using, LAToken, the withdrawal was declined and their account was restricted
-  for 24 hours for an unspecified terms of use violation. When the trader regained
+vendor_product: LATOKEN takes back trader's profit
+blockchain: ripple
+notes: A trader set very low limit order on Ripple's XRP token, and was delighted to see it executed with XRP very briefly
+  plummeted in value in what's known as a flash crash. The price recovered quickly, and the trader found themselves $458,000
+  wealthier. However, when they tried to withdraw some of their money from the exchange they were using, LAToken, the withdrawal
+  was declined and their account was restricted for 24 hours for an unspecified terms of use violation. When the trader regained
   access to their account, the XRP they bought was nowhere to be found.

@@ -1,10 +1,9 @@
-source_name: '"No, Kroger won''t accept Bitcoin Cash. Fake cryptocurrency press release
-  dupes people again."'
+source_name: '"No, Kroger won''t accept Bitcoin Cash. Fake cryptocurrency press release dupes people again."'
 source_url: https://mashable.com/article/bitcoin-cash-kroger-fake-press-release
 date_of_breach: '2021-11-05'
 date_of_disclosure: '2021-11-05'
 category: other
-notes: PR Newswire republished a fake press release which claimed that the Kroger
-  supermarket chain would begin accepting "Bitcoin Cash" (not to be confused with
-  Bitcoin) at its outlets. The fake press release was briefly successful in pumping
+vendor_product: Fake press release about Bitcoin Cash
+notes: PR Newswire republished a fake press release which claimed that the Kroger supermarket chain would begin accepting
+  "Bitcoin Cash" (not to be confused with Bitcoin) at its outlets. The fake press release was briefly successful in pumping
   the value of the currency before it was revealed to be a hoax.

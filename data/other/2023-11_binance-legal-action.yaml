@@ -3,15 +3,13 @@ source_url: https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-
 date_of_breach: '2023-11-21'
 date_of_disclosure: '2023-11-21'
 category: other
-notes: Binance founder Changpeng "CZ" Zhao pleaded guilty to money laundering charges
-  and agreed to step down as CEO of Binance, the largest global cryptocurrency exchange.
-  He will pay a $50 million fine and faces the possibility of 18 months in prison.Binance
-  agreed to pay $4.3 billion in restitution for widespread wrongdoing including failure
-  to implement proper anti-money laundering programs, unlicensed money transmitting,
-  and sanctions violations. Binance will be allowed to continue operating, but will
-  be subjected to a three-year-long monitorship program to ensure AML and sanctions
-  compliance.Simultaneously with the DOJ action, Binance reached agreements with the
-  CFTC, FinCen, and OFAC on ongoing legal issues. Notably, the SEC lawsuit was not
-  among those settled.CZ posted a long thread on Twitter, admitting "I made mistakes,
-  and I must take responsibility," carefully sidestepping mentioning what any of those
-  mistakes were.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Binance legal action
+notes: Binance founder Changpeng "CZ" Zhao pleaded guilty to money laundering charges and agreed to step down as CEO of Binance,
+  the largest global cryptocurrency exchange. He will pay a $50 million fine and faces the possibility of 18 months in prison.Binance
+  agreed to pay $4.3 billion in restitution for widespread wrongdoing including failure to implement proper anti-money laundering
+  programs, unlicensed money transmitting, and sanctions violations. Binance will be allowed to continue operating, but will
+  be subjected to a three-year-long monitorship program to ensure AML and sanctions compliance.Simultaneously with the DOJ
+  action, Binance reached agreements with the CFTC, FinCen, and OFAC on ongoing legal issues. Notably, the SEC lawsuit was
+  not among those settled.CZ posted a long thread on Twitter, admitting "I made mistakes, and I must take responsibility,"
+  carefully sidestepping mentioning what any of those mistakes were.

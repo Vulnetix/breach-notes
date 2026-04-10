@@ -3,15 +3,14 @@ source_url: https://cryptobriefing.com/hodlnaut-cuts-staff-as-terra-exposure-is-
 date_of_breach: '2022-08-19'
 date_of_disclosure: '2022-08-19'
 category: other
-notes: When Terra was collapsing in May, concerned users of the Hodlnaut lending platform
-  asked whether the firm was exposed. CEO JT wrote on Twitter, "Hodlnaut as a firm
-  did not take any losses on UST, users who held/bought UST on our platform did".
-  Their social media manager wrote, "[Holdnaut] had 0 company exposure to [Anchor
-  Protocol]", referring to the Terra-based lending protocol.However, documents from
-  the legal proceedings surrounding the now-underwater firm revealed that Hodlnaut
-  had 317 million UST, which it liquidated at a loss when the previously dollar-pegged
-  UST hit $0.85. In the filing, they wrote, "Due to the market's lack of liquidity,
-  the average exit price of UST to USDC was around 42 cents on the dollar, resulting
-  in realized losses to Hodlnaut Trading Ltd of about USD 189.7M. As a result, Hodlnaut's
-  total debt to depositors of USD 500M became backed by realisable assets of around
-  USD 315M as of 13 May 2022 due to the de-pegging event."
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Hodlnaut lied
+blockchain: terra
+notes: When Terra was collapsing in May, concerned users of the Hodlnaut lending platform asked whether the firm was exposed.
+  CEO JT wrote on Twitter, "Hodlnaut as a firm did not take any losses on UST, users who held/bought UST on our platform did".
+  Their social media manager wrote, "[Holdnaut] had 0 company exposure to [Anchor Protocol]", referring to the Terra-based
+  lending protocol.However, documents from the legal proceedings surrounding the now-underwater firm revealed that Hodlnaut
+  had 317 million UST, which it liquidated at a loss when the previously dollar-pegged UST hit $0.85. In the filing, they
+  wrote, "Due to the market's lack of liquidity, the average exit price of UST to USDC was around 42 cents on the dollar,
+  resulting in realized losses to Hodlnaut Trading Ltd of about USD 189.7M. As a result, Hodlnaut's total debt to depositors
+  of USD 500M became backed by realisable assets of around USD 315M as of 13 May 2022 due to the de-pegging event."

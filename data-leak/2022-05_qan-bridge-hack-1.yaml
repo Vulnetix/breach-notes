@@ -3,14 +3,15 @@ source_url: https://twitter.com/QANplatform/status/1527005958228131842
 date_of_breach: '2022-05-18'
 date_of_disclosure: '2022-05-18'
 category: data-leak
-notes: 'The $QANX token for the QAN project suddenly plummeted in value as an attacker
-  stole more than 4 million QANX from the project. The attacker subsequently swapped
-  the tokens for around 370 ETH ($707,000). In a video posted to Twitter, the project
-  CEO stated that it was "definitely a bridge issue", and that they''d shut down the
-  project''s bridge. They also said they had contacted exchanges to freeze the wallets
-  that had been involved in the "issue".QAN describes itself as a blockchain that
-  helps "resist quantum attacks", though apparently not the types of bridge attacks
-  that have become fairly common in the past year or so.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: QAN bridge
+financial_loss_usd: 707000
+notes: 'The $QANX token for the QAN project suddenly plummeted in value as an attacker stole more than 4 million QANX from
+  the project. The attacker subsequently swapped the tokens for around 370 ETH ($707,000). In a video posted to Twitter, the
+  project CEO stated that it was "definitely a bridge issue", and that they''d shut down the project''s bridge. They also
+  said they had contacted exchanges to freeze the wallets that had been involved in the "issue".QAN describes itself as a
+  blockchain that helps "resist quantum attacks", though apparently not the types of bridge attacks that have become fairly
+  common in the past year or so.
 
 
   Total loss estimated at $707,000.'

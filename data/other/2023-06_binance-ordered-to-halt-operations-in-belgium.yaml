@@ -1,15 +1,13 @@
-source_name: '"FSMA orders Binance to cease immediately all offers of virtual currency
-  services in Belgium"'
+source_name: '"FSMA orders Binance to cease immediately all offers of virtual currency services in Belgium"'
 source_url: https://www.fsma.be/en/news/fsma-orders-binance-cease-immediately-all-offers-virtual-currency-services-belgium
 date_of_breach: '2023-06-23'
 date_of_disclosure: '2023-06-23'
 category: other
-notes: Belgium's Financial Services and Markets Authority alleged on June 2023 is
-  violating prohibitions against "offering and providing exchange services in Belgium
-  between virtual currencies and legal currencies, as well as custody wallet services,
-  from countries that are not members of the European Economic Area". The  regulator
-  ordered Binance to immediately stop providing "any and all such services" in the
-  country.The regulator also demanded Binance return all crypto assets to customers,
-  or transfer them to a company authorized in Belgium. They also noted that "The Crown
-  Prosecutor of Brussels has been informed of the acts that are liable to constitute
-  a criminal offence."
+initial_attack_vector: Regulatory / legal action
+vendor_product: Binance
+notes: Belgium's Financial Services and Markets Authority alleged on June 2023 is violating prohibitions against "offering
+  and providing exchange services in Belgium between virtual currencies and legal currencies, as well as custody wallet services,
+  from countries that are not members of the European Economic Area". The  regulator ordered Binance to immediately stop providing
+  "any and all such services" in the country.The regulator also demanded Binance return all crypto assets to customers, or
+  transfer them to a company authorized in Belgium. They also noted that "The Crown Prosecutor of Brussels has been informed
+  of the acts that are liable to constitute a criminal offence."

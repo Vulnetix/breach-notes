@@ -1,18 +1,18 @@
-source_name: '"''Critical'' Polygon bug put $24 billion in tokens at risk until recent
-  hard fork"'
+source_name: '"''Critical'' Polygon bug put $24 billion in tokens at risk until recent hard fork"'
 source_url: https://www.theblockcrypto.com/post/128784/polygon-critical-bug-24-billion-matic-tokens-at-risk-hard-fork
 date_of_breach: '2021-12-04'
 date_of_disclosure: '2021-12-04'
 category: data-leak
-notes: 'Polygon lost a bit over $2 million after a hacker exploited a bug involving
-  a lack of balance/allowance check in their MRC20 contract. Polygon had been in the
-  process of releasing a patch for the vulnerability, which had been reported by a
-  white-hat hacker, and released an emergency upgrade the following day. The silent,
-  zero-warning hard fork raised some eyebrows, and Polygon didn''t release details
-  until several weeks later. Polygon ultimately paid about $3.5 million in bug bounties
-  to two white-hat hackers who submitted reports, which was far less than the total
-  value of Polygon''s $MATIC tokens, all 9.2 billion of which (worth around $24 billion)
-  could have been stolen by an attacker using this vulnerability.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Polygon
+blockchain: polygon
+financial_loss_usd: 2068130
+notes: 'Polygon lost a bit over $2 million after a hacker exploited a bug involving a lack of balance/allowance check in their
+  MRC20 contract. Polygon had been in the process of releasing a patch for the vulnerability, which had been reported by a
+  white-hat hacker, and released an emergency upgrade the following day. The silent, zero-warning hard fork raised some eyebrows,
+  and Polygon didn''t release details until several weeks later. Polygon ultimately paid about $3.5 million in bug bounties
+  to two white-hat hackers who submitted reports, which was far less than the total value of Polygon''s $MATIC tokens, all
+  9.2 billion of which (worth around $24 billion) could have been stolen by an attacker using this vulnerability.
 
 
   Total loss estimated at $2,068,130.'

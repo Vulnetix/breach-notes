@@ -3,22 +3,21 @@ source_url: https://behindmlm.com/companies/exw-wallet-indictments-arrests-crimi
 date_of_breach: '2023-12-13'
 date_of_disclosure: '2023-12-13'
 category: other
-notes: 'There was surprise in an Austrian courtroom when a defendant suddenly gave
-  up any pretense of innocence, proclaiming, "I''ve run out of steam, I''ve finished
-  driving... I plead guilty in full and ask for a lenient and speedy sentence". The
-  judge then had to back up and understand what exactly he was pleading guilty to.
-  The same defendant had earlier admitted to some guilt, but denied the fraud had
-  been planned from the start. Later, he said that he had indeed planned from the
-  beginning to steal the funds.The scam in question was a Ponzi scheme  called EXW,
-  in which the eight defendants stole at least €17.6 million (~$19.3 million) from
-  at least 40,000 victims in late 2019 and 2020. The fraud later resurfaced under
-  a different name. However, in court, the ex-girlfriend of the main defendant testified
-  that the scam had actually brought in €80–100 million ($88—$110 million).One of
-  the defendants, who from reports seems to be the same one who just admitted his
-  guilt in court, reportedly feigned being autistic when he was arrested by police,
-  somehow earning himself enough time to erase the contents of his phone.He and seven
-  other defendants have been charged with fraud, money laundering, running a pyramid
-  scheme, and operating a criminal organization.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: EXW fraud
+financial_loss_usd: 19300000
+affected_count: 40000
+notes: 'There was surprise in an Austrian courtroom when a defendant suddenly gave up any pretense of innocence, proclaiming,
+  "I''ve run out of steam, I''ve finished driving... I plead guilty in full and ask for a lenient and speedy sentence". The
+  judge then had to back up and understand what exactly he was pleading guilty to. The same defendant had earlier admitted
+  to some guilt, but denied the fraud had been planned from the start. Later, he said that he had indeed planned from the
+  beginning to steal the funds.The scam in question was a Ponzi scheme  called EXW, in which the eight defendants stole at
+  least €17.6 million (~$19.3 million) from at least 40,000 victims in late 2019 and 2020. The fraud later resurfaced under
+  a different name. However, in court, the ex-girlfriend of the main defendant testified that the scam had actually brought
+  in €80–100 million ($88—$110 million).One of the defendants, who from reports seems to be the same one who just admitted
+  his guilt in court, reportedly feigned being autistic when he was arrested by police, somehow earning himself enough time
+  to erase the contents of his phone.He and seven other defendants have been charged with fraud, money laundering, running
+  a pyramid scheme, and operating a criminal organization.
 
 
   Total loss estimated at $19,300,000.'

@@ -1,21 +1,18 @@
-source_name: '"Cybercriminals who breached Nvidia issue one of the most unusual demands
-  ever"'
+source_name: '"Cybercriminals who breached Nvidia issue one of the most unusual demands ever"'
 source_url: https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/
 date_of_breach: '2022-03-01'
 date_of_disclosure: '2022-03-01'
 category: data-leak
-notes: 'In late February, the Lapsus$ ransomware group claimed to have breached Nvidia''s
-  corporate network and stolen more than a terabyte of data, which they say includes
-  schematics and source code for drivers and firmware, as well as employee credentials.
-  Instead of the typical monetary ransom, Lapsus$ demanded something unusual: that
-  Nvidia remove the "Lite Hash Rate" (LHR) feature from their graphics card. LHR is
-  an artificial limitation that Nvidia has applied to their line of gaming chips,
-  which makes them less attractive to cryptominers who have otherwise been causing
-  shortages in GPUs.Lapsus$ initially promised that if Nvidia removed LHR from their
-  30-series line of chips, they would "forget about [the hardware] folder (it''s a
-  big folder)". However, they updated their demand on March 1, demanding that Nvidia
-  either make all current and future drivers for all of their cards open source ("while
-  keeping the Verilog and chipset trade secrets... well, secret"), or else they would
-  publish all files for Nvidia chips. They wrote that Nvidia had until March 4 to
-  make a decision. As of March 3, Nvidia had not made a statement around whether they
-  would acquiesce to the hackers'' demands.'
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Hackers demand NVIDIA removes GPU constraints
+blockchain: ethereum
+notes: 'In late February, the Lapsus$ ransomware group claimed to have breached Nvidia''s corporate network and stolen more
+  than a terabyte of data, which they say includes schematics and source code for drivers and firmware, as well as employee
+  credentials. Instead of the typical monetary ransom, Lapsus$ demanded something unusual: that Nvidia remove the "Lite Hash
+  Rate" (LHR) feature from their graphics card. LHR is an artificial limitation that Nvidia has applied to their line of gaming
+  chips, which makes them less attractive to cryptominers who have otherwise been causing shortages in GPUs.Lapsus$ initially
+  promised that if Nvidia removed LHR from their 30-series line of chips, they would "forget about [the hardware] folder (it''s
+  a big folder)". However, they updated their demand on March 1, demanding that Nvidia either make all current and future
+  drivers for all of their cards open source ("while keeping the Verilog and chipset trade secrets... well, secret"), or else
+  they would publish all files for Nvidia chips. They wrote that Nvidia had until March 4 to make a decision. As of March
+  3, Nvidia had not made a statement around whether they would acquiesce to the hackers'' demands.'

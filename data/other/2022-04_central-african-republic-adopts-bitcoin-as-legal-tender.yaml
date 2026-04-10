@@ -3,12 +3,12 @@ source_url: https://www.bbc.com/news/world-africa-61248809
 date_of_breach: '2022-04-27'
 date_of_disclosure: '2022-04-27'
 category: other
-notes: The Central African Republic became the second country to adopt Bitcoin as
-  legal tender, after El Salvador did the same in September 2021. It's a strange move,
-  in a country where only 4% of people have Internet access, whose currency (the Central
-  African CFA franc) is fairly stable, and which already has access to digital currencies
-  via services like Orange Money.The Bank of Central African States (BEAC) has expressed
-  surprise at the CAR's choice, saying that they only learned about it along with
-  the rest of the public. Two former prime ministers of the CAR co-authored a letter
-  stating that adopting Bitcoin as legal tender without guidance from the BEAC was
-  a "serious offence".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Central African Republic adopts Bitcoin as legal tender
+blockchain: bitcoin
+notes: The Central African Republic became the second country to adopt Bitcoin as legal tender, after El Salvador did the
+  same in September 2021. It's a strange move, in a country where only 4% of people have Internet access, whose currency (the
+  Central African CFA franc) is fairly stable, and which already has access to digital currencies via services like Orange
+  Money.The Bank of Central African States (BEAC) has expressed surprise at the CAR's choice, saying that they only learned
+  about it along with the rest of the public. Two former prime ministers of the CAR co-authored a letter stating that adopting
+  Bitcoin as legal tender without guidance from the BEAC was a "serious offence".

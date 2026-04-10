@@ -3,12 +3,14 @@ source_url: https://rekt.news/defilabs-rekt/
 date_of_breach: '2023-07-27'
 date_of_disclosure: '2023-07-27'
 category: other
-notes: 'A defi project called DeFiLabs was able to rug pull for $1.6 million thanks
-  to a backdoor written into the smart contract. After traders bought into the project,
-  its creator was able to call the withdrawFunds function to make off with the project''s
-  assets.DeFiLabs claimed on Twitter that the platform "encountered an unexpected
-  issue" while "undergoing maintenance and updates".DeFiLabs had been audited by blockchain
-  security firm CertiK.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: DeFiLabs
+blockchain: bsc
+financial_loss_usd: 1600000
+notes: 'A defi project called DeFiLabs was able to rug pull for $1.6 million thanks to a backdoor written into the smart contract.
+  After traders bought into the project, its creator was able to call the withdrawFunds function to make off with the project''s
+  assets.DeFiLabs claimed on Twitter that the platform "encountered an unexpected issue" while "undergoing maintenance and
+  updates".DeFiLabs had been audited by blockchain security firm CertiK.
 
 
   Total loss estimated at $1,600,000.'

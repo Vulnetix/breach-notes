@@ -3,16 +3,16 @@ source_url: https://www.sec.gov/litigation/litreleases/2022/lr25547.htm
 date_of_breach: '2022-09-19'
 date_of_disclosure: '2022-09-19'
 category: other
-notes: 'CryptoFX is a crypto-based scheme targeted specifically to Latines, promising
-  to invest its victims'' assets in cryptocurrencies and teach its customers how to
-  trade crypto. It also reportedly functioned as a pyramid scheme, using a "referral
-  program" to incentivize people to recruit friends, family, and people in their communities.The
-  United States Securities and Exchange Commission filed an emergency action to stop
-  the fraud and freeze assets, which was granted on September 29, 2022. The SEC then
-  filed a complaint against the company and its leaders Mauricio Chavez and Giorgio
-  "Gio" Benvenuto. The SEC alleged CryptoFX had raised at least $12 million from 5,000
-  investors, which ostensibly would be put into crypto markets but instead was primarily
-  used to "fund [Chavez''s] real estate company and extravagant lifestyle".
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: CryptoFX pyramid scheme
+financial_loss_usd: 12000000
+notes: 'CryptoFX is a crypto-based scheme targeted specifically to Latines, promising to invest its victims'' assets in cryptocurrencies
+  and teach its customers how to trade crypto. It also reportedly functioned as a pyramid scheme, using a "referral program"
+  to incentivize people to recruit friends, family, and people in their communities.The United States Securities and Exchange
+  Commission filed an emergency action to stop the fraud and freeze assets, which was granted on September 29, 2022. The SEC
+  then filed a complaint against the company and its leaders Mauricio Chavez and Giorgio "Gio" Benvenuto. The SEC alleged
+  CryptoFX had raised at least $12 million from 5,000 investors, which ostensibly would be put into crypto markets but instead
+  was primarily used to "fund [Chavez''s] real estate company and extravagant lifestyle".
 
 
   Total loss estimated at $12,000,000.'

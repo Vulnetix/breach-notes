@@ -3,10 +3,10 @@ source_url: https://www.coindesk.com/tech/2022/05/13/popular-crypto-data-sites-t
 date_of_breach: '2022-05-13'
 date_of_disclosure: '2022-05-13'
 category: data-leak
-notes: Popular cryptocurrency websites including Etherscan, CoinGecko, and DeFi Pulse
-  were showing users a pop-up prompting them to connect their MetaMask wallets. CoinGecko
-  founder Bobby Ong stated that he believed the culprit was a malicious advertising
-  script from a crypto ad network called Coinzilla. The advertisement appeared to
-  be from a site mimicking the popular Bored Apes Yacht Club NFT project, which was
-  taken down after the scam was discovered. It's as yet unclear how many users accepted
-  the prompt, or what malicious actions (if any) were taken.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Phishing attack via Etherscan and CoinGecko
+notes: Popular cryptocurrency websites including Etherscan, CoinGecko, and DeFi Pulse were showing users a pop-up prompting
+  them to connect their MetaMask wallets. CoinGecko founder Bobby Ong stated that he believed the culprit was a malicious
+  advertising script from a crypto ad network called Coinzilla. The advertisement appeared to be from a site mimicking the
+  popular Bored Apes Yacht Club NFT project, which was taken down after the scam was discovered. It's as yet unclear how many
+  users accepted the prompt, or what malicious actions (if any) were taken.

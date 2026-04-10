@@ -3,11 +3,14 @@ source_url: https://twitter.com/FTX_Official/status/1591071832823959552
 date_of_breach: '2022-11-11'
 date_of_disclosure: '2022-11-11'
 category: other
-notes: 'Aaaand there it goes.FTX announced that it had filed for Chapter 11 bankruptcy
-  in the United States. Sam Bankman-Fried resigned as CEO.SBF had spoken about trying
-  to raise additional funds. In leaked Slack messages, he had allegedly written that
-  "One could maybe say, if they wanted to be optimistic, that we have a lot theoretically
-  in and/or potentially for the raise". No one was actually saying this.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: FTX
+financial_loss_usd: 1700000000
+financial_recovered_usd: 7000000000
+notes: 'Aaaand there it goes.FTX announced that it had filed for Chapter 11 bankruptcy in the United States. Sam Bankman-Fried
+  resigned as CEO.SBF had spoken about trying to raise additional funds. In leaked Slack messages, he had allegedly written
+  that "One could maybe say, if they wanted to be optimistic, that we have a lot theoretically in and/or potentially for the
+  raise". No one was actually saying this.
 
 
   Total loss estimated at $1,700,000,000.'

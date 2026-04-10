@@ -3,14 +3,16 @@ source_url: https://twitter.com/CertiKAlert/status/1529180042311389184
 date_of_breach: '2022-05-24'
 date_of_disclosure: '2022-05-24'
 category: other
-notes: 'The creators of the Decentraworld project, and its associated $DEWO token,
-  rug pulled for 3127 BNB, valued at just over $1 million. The project promised an
-  "ecosystem of dapps with privacy protocols by default". The website spoke of how
-  "governments around the world want to keep controlling their citizens by fighting
-  the one thing they can''t control, the blockchain and crypto-assets", and the project
-  promised to "help humanity maintain its privacy, control, and financial freedom".
-  Unfortunately for the believers, this turned out not to be true when the project
-  drained the funds and deleted their online presence.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: DecentraWorld
+blockchain: bsc
+financial_loss_usd: 1008207
+notes: 'The creators of the Decentraworld project, and its associated $DEWO token, rug pulled for 3127 BNB, valued at just
+  over $1 million. The project promised an "ecosystem of dapps with privacy protocols by default". The website spoke of how
+  "governments around the world want to keep controlling their citizens by fighting the one thing they can''t control, the
+  blockchain and crypto-assets", and the project promised to "help humanity maintain its privacy, control, and financial freedom".
+  Unfortunately for the believers, this turned out not to be true when the project drained the funds and deleted their online
+  presence.
 
 
   Total loss estimated at $1,008,207.'

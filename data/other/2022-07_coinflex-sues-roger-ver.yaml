@@ -3,12 +3,11 @@ source_url: https://cryptoslate.com/embattled-exchange-coinflex-sues-roger-ver-i
 date_of_breach: '2022-07-09'
 date_of_disclosure: '2022-07-09'
 category: other
-notes: When CoinFLEX suspended withdrawals on June 23, they blamed "continued uncertainty
-  involving a counterparty".Although they initially dodged naming the counterparty,
-  CEO Mark Lamb eventually publicly stated that this counterparty was Roger "Bitcoin
-  Jesus" Ver, who he said failed to meet a $47 million margin call. However, Ver publicly
-  refuted this claim, stating that CoinFLEX in fact owed him money. Both parties went
-  back and forth, each accusing the other of misrepresenting the situation.On July
-  9, the company stated that they would be seeking arbitration to recover $84 million
-  from Ver — an updated figure that they said factored in the "significant loss in
-  liquidating his significant FLEX coin positions".
+initial_attack_vector: Regulatory / legal action
+vendor_product: CoinFLEX sues Roger Ver
+notes: When CoinFLEX suspended withdrawals on June 23, they blamed "continued uncertainty involving a counterparty".Although
+  they initially dodged naming the counterparty, CEO Mark Lamb eventually publicly stated that this counterparty was Roger
+  "Bitcoin Jesus" Ver, who he said failed to meet a $47 million margin call. However, Ver publicly refuted this claim, stating
+  that CoinFLEX in fact owed him money. Both parties went back and forth, each accusing the other of misrepresenting the situation.On
+  July 9, the company stated that they would be seeking arbitration to recover $84 million from Ver — an updated figure that
+  they said factored in the "significant loss in liquidating his significant FLEX coin positions".

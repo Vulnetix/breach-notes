@@ -3,23 +3,21 @@ source_url: https://twitter.com/zachxbt/status/1514620779043778567
 date_of_breach: '2022-04-14'
 date_of_disclosure: '2022-04-14'
 category: other
-notes: 'Influencer, conservationist, and exotic animal whisperer "The Real Tarzann"
-  (a.k.a. Mike Holston) announced in October 2021 his plans for an NFT project called
-  "Tribes of Ogun". The project promised an ambitious roadmap that included creating
-  a strategy game, generous giveaways including trips to Africa, and donations to
-  the World Wildlife Fund. Various prominent influencers and athletes helped to hype
-  the project in advance of its mint.The project ultimately minted only 3,179 of the
-  5,500 planned NFTs, but at 0.068 ETH a pop this still brought in 216 ETH (just under
-  $700,000). The project quickly reduced the supply to avoid the appearance of a lukewarm
-  mint. The NFTs themselves are all illustrations of men wearing various animal heads
-  as headdresses — an odd choice for an animal conservation project.In November 2021,
-  much of the team suddenly disappeared and stopped posting to Instagram or Twitter.
-  One mod in the Discord has remained positive for months since the apparent rug pull,
-  urging the remaining community members to remain positive. In March 2022, the mod
-  wrote, "I need a huge favor this week from everyone to not spam the accounts of
-  NFT.com guys and Tarzan, it is EXTREMELY IMPORTANT that stops if we want this to
-  comeback, hopefully huge news to follow this week." No such news appears to have
-  come.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: The Real Tarzann
+blockchain: ethereum
+financial_loss_usd: 700000
+notes: 'Influencer, conservationist, and exotic animal whisperer "The Real Tarzann" (a.k.a. Mike Holston) announced in October
+  2021 his plans for an NFT project called "Tribes of Ogun". The project promised an ambitious roadmap that included creating
+  a strategy game, generous giveaways including trips to Africa, and donations to the World Wildlife Fund. Various prominent
+  influencers and athletes helped to hype the project in advance of its mint.The project ultimately minted only 3,179 of the
+  5,500 planned NFTs, but at 0.068 ETH a pop this still brought in 216 ETH (just under $700,000). The project quickly reduced
+  the supply to avoid the appearance of a lukewarm mint. The NFTs themselves are all illustrations of men wearing various
+  animal heads as headdresses — an odd choice for an animal conservation project.In November 2021, much of the team suddenly
+  disappeared and stopped posting to Instagram or Twitter. One mod in the Discord has remained positive for months since the
+  apparent rug pull, urging the remaining community members to remain positive. In March 2022, the mod wrote, "I need a huge
+  favor this week from everyone to not spam the accounts of NFT.com guys and Tarzan, it is EXTREMELY IMPORTANT that stops
+  if we want this to comeback, hopefully huge news to follow this week." No such news appears to have come.
 
 
   Total loss estimated at $700,000.'

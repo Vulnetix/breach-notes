@@ -3,10 +3,10 @@ source_url: https://x.com/1984_is_today/status/1882616341926162653
 date_of_breach: '2025-01-23'
 date_of_disclosure: '2025-01-23'
 category: other
-notes: The ThorChain project is in crisis amid news that the project is insolvent.
-  In order to prevent what would effectively be a bank run and likely death spiral,
-  the project has paused portions of the protocol while determining how best to handle
-  the problem. According to Twitter user TCB, the project has almost $200 million
-  in liabilities, with only $107 million in assets — assets which can be quickly withdrawn
-  or depleted in the case of a panic.The team has announced that the pause will last
-  for 90 days as they explore options to save the project.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Thorchain
+notes: The ThorChain project is in crisis amid news that the project is insolvent. In order to prevent what would effectively
+  be a bank run and likely death spiral, the project has paused portions of the protocol while determining how best to handle
+  the problem. According to Twitter user TCB, the project has almost $200 million in liabilities, with only $107 million in
+  assets — assets which can be quickly withdrawn or depleted in the case of a panic.The team has announced that the pause
+  will last for 90 days as they explore options to save the project.

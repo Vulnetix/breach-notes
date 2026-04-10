@@ -1,18 +1,14 @@
-source_name: '"Silvergate Raced to Cover $8.1 Billion in Withdrawals During Crypto
-  Meltdown"'
+source_name: '"Silvergate Raced to Cover $8.1 Billion in Withdrawals During Crypto Meltdown"'
 source_url: https://www.wsj.com/articles/silvergate-raced-to-cover-8-1-billion-in-withdrawals-during-crypto-meltdown-11672895207
 date_of_breach: '2023-01-05'
 date_of_disclosure: '2023-01-05'
 category: other
-notes: Silvergate, a Californian bank that primarily serves the crypto industry, and
-  which was FTX's primary banking partner, scrambled to cover $8.1 billion in withdrawals
-  during the chaos surrounding the FTX collapse. This forced the bank to sell some
-  assets at steep losses, liquidating debt at a $718 million loss. This loss far exceeds
-  the bank's total profits since at least 2013, writes the Wall Street Journal.Silvergate
-  announced that they would be cutting 40% of their staff — around 200 employees.
-  They also announced that they would be taking a $196 million impairment charge on
-  assets they purchased from Diem — Facebook's blockchain-based payment system once
-  known as Libra. "Given the significant changes in the digital asset industry landscape,
-  this charge reflects the Company’s belief that the launch of a blockchain-based
-  payment solution by Silvergate is no longer imminent," they wrote.Silvergate's stock
-  plunged 41% on the news.
+vendor_product: Silvergate bank takes $718 million loss liquidating debt during FTX
+notes: Silvergate, a Californian bank that primarily serves the crypto industry, and which was FTX's primary banking partner,
+  scrambled to cover $8.1 billion in withdrawals during the chaos surrounding the FTX collapse. This forced the bank to sell
+  some assets at steep losses, liquidating debt at a $718 million loss. This loss far exceeds the bank's total profits since
+  at least 2013, writes the Wall Street Journal.Silvergate announced that they would be cutting 40% of their staff — around
+  200 employees. They also announced that they would be taking a $196 million impairment charge on assets they purchased from
+  Diem — Facebook's blockchain-based payment system once known as Libra. "Given the significant changes in the digital asset
+  industry landscape, this charge reflects the Company’s belief that the launch of a blockchain-based payment solution by
+  Silvergate is no longer imminent," they wrote.Silvergate's stock plunged 41% on the news.

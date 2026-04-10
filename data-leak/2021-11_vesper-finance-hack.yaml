@@ -3,10 +3,12 @@ source_url: https://twitter.com/VesperFi/status/1455567032536248324
 date_of_breach: '2021-11-02'
 date_of_disclosure: '2021-11-02'
 category: data-leak
-notes: 'By manipulating the price of a low-liquidity, beta-stage stablecoin, an attacker
-  was able to borrow all tokens in a Rari Fuse pool using the initial token as (inflated)
-  collateral. They then swapped the tokens for Ethereum, and made off with more than
-  $3 million.
+initial_attack_vector: Oracle price manipulation
+vendor_product: Vesper Finance
+financial_loss_usd: 3000000
+notes: 'By manipulating the price of a low-liquidity, beta-stage stablecoin, an attacker was able to borrow all tokens in
+  a Rari Fuse pool using the initial token as (inflated) collateral. They then swapped the tokens for Ethereum, and made off
+  with more than $3 million.
 
 
   Total loss estimated at $3,000,000.'

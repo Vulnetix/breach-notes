@@ -3,12 +3,11 @@ source_url: https://www.coindesk.com/business/2022/09/01/second-round-of-layoffs
 date_of_breach: '2022-09-01'
 date_of_disclosure: '2022-09-01'
 category: other
-notes: 2TM, the holding company for the Brazilian crypto exchange Mercado, announced
-  they would be laying off 15% of their workforce — about 100 people. The company
-  had previously laid off more than 80 employees in June. Mercado raised a $200 million
-  Series B funding round in July 2021, which valued the company at $2.1 billion —
-  the highest-valued crypto exchange in Brazil.Describing the layoffs, a spokesperson
-  for 2TM said that Mercado was suffering for playing by the rules. "The competitive
-  environment remains deteriorated and unfair, lacking the approval of the legal framework
-  for crypto-activities, as players following the law are penalized by companies that
-  ignore local rules."
+vendor_product: 2TM layoffs
+affected_count: 100
+notes: 2TM, the holding company for the Brazilian crypto exchange Mercado, announced they would be laying off 15% of their
+  workforce — about 100 people. The company had previously laid off more than 80 employees in June. Mercado raised a $200
+  million Series B funding round in July 2021, which valued the company at $2.1 billion — the highest-valued crypto exchange
+  in Brazil.Describing the layoffs, a spokesperson for 2TM said that Mercado was suffering for playing by the rules. "The
+  competitive environment remains deteriorated and unfair, lacking the approval of the legal framework for crypto-activities,
+  as players following the law are penalized by companies that ignore local rules."

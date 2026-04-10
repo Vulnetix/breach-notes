@@ -1,17 +1,14 @@
-source_name: '"Sparkster to Pay $35 Million to Harmed Investor Fund for Unregistered
-  Crypto Asset Offering"'
+source_name: '"Sparkster to Pay $35 Million to Harmed Investor Fund for Unregistered Crypto Asset Offering"'
 source_url: https://www.sec.gov/news/press-release/2022-167
 date_of_breach: '2022-09-19'
 date_of_disclosure: '2022-09-19'
 category: other
-notes: The firm Sparkster and its CEO Sajjad Daya settled with the U.S. SEC after
-  a cease-and-desist arguing that Sparkster sold securities worth at least $30 million
-  without registration. The firm and Daya agreed to settle with the SEC, and will
-  pay more than $35 million to a fund that will be distributed to the investors who
-  were harmed.The SEC also charged crypto influencer Ian Balina for his involvement
-  with the scheme. He allegedly accepted a 30% bonus on the $5 million worth of SPRK
-  tokens he purchased in an agreement to promote the project on YouTube, Telegram,
-  and other channels, but did not disclose his compensation. He also organized an
-  investing pool with more than 50 investors, and also didn't register it with the
-  SEC. Balina had advertised that he could help people "make millions with initial
-  coin offerings".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Sparkster SEC settlement
+notes: The firm Sparkster and its CEO Sajjad Daya settled with the U.S. SEC after a cease-and-desist arguing that Sparkster
+  sold securities worth at least $30 million without registration. The firm and Daya agreed to settle with the SEC, and will
+  pay more than $35 million to a fund that will be distributed to the investors who were harmed.The SEC also charged crypto
+  influencer Ian Balina for his involvement with the scheme. He allegedly accepted a 30% bonus on the $5 million worth of
+  SPRK tokens he purchased in an agreement to promote the project on YouTube, Telegram, and other channels, but did not disclose
+  his compensation. He also organized an investing pool with more than 50 investors, and also didn't register it with the
+  SEC. Balina had advertised that he could help people "make millions with initial coin offerings".

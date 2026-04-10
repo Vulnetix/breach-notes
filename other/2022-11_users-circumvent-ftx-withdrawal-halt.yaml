@@ -3,23 +3,19 @@ source_url: https://cointelegraph.com/news/ftx-customers-attempt-roundabout-ways
 date_of_breach: '2022-11-10'
 date_of_disclosure: '2022-11-10'
 category: other
-notes: Users panicked when FTX stopped processing withdrawals, particularly those
-  with substantial amounts of funds locked in the exchange. When the exchange tweeted
-  that they had "begun to facilitate withdrawals of Bahamian funds", some saw an opportunity."Any
-  FTX employees willing to change my accounts country of residence to Bahamas to facilitate
-  withdrawal I am offering $1 million and unlimited legal fees", wrote one trader
-  (who later claimed to be joking).A popular crypto Twitter user named "Algod" offered
-  $100,000 to any FTX employee who would process their KYC documents, allowing them
-  to withdraw. He was subsequently seen to be successfully withdrawing over $2 million
-  in assets from the platform. He also shared links to a Telegram group where his
-  partner was offering to buy people's FTX accounts for 10¢ on the dollar, from customers
-  who feared they may never see the money again, or would only regain access to a
-  fraction of it after years of court proceedings. Algod later denied "erroneous and
-  defamatory statements" that he'd bought discounted claims/assets", admitting that
-  he'd considered it, but claiming he ultimately decided not to.Some observers noticed
-  over $21 million withdrawn via NFT trades, that appeared to be being used as a way
-  to bypass the internal blocks on users transferring balances to one another. People
-  with funds locked in FTX bought NFTs from Bahamas-based users, spending their full
-  account balance on the NFT and thus enabling the Bahamian user to then withdraw
-  the funds. "This appears to be the first recorded case of NFT utility in existence
-  👍", wrote Cobie.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Users circumvent FTX withdrawal halt
+notes: Users panicked when FTX stopped processing withdrawals, particularly those with substantial amounts of funds locked
+  in the exchange. When the exchange tweeted that they had "begun to facilitate withdrawals of Bahamian funds", some saw an
+  opportunity."Any FTX employees willing to change my accounts country of residence to Bahamas to facilitate withdrawal I
+  am offering $1 million and unlimited legal fees", wrote one trader (who later claimed to be joking).A popular crypto Twitter
+  user named "Algod" offered $100,000 to any FTX employee who would process their KYC documents, allowing them to withdraw.
+  He was subsequently seen to be successfully withdrawing over $2 million in assets from the platform. He also shared links
+  to a Telegram group where his partner was offering to buy people's FTX accounts for 10¢ on the dollar, from customers who
+  feared they may never see the money again, or would only regain access to a fraction of it after years of court proceedings.
+  Algod later denied "erroneous and defamatory statements" that he'd bought discounted claims/assets", admitting that he'd
+  considered it, but claiming he ultimately decided not to.Some observers noticed over $21 million withdrawn via NFT trades,
+  that appeared to be being used as a way to bypass the internal blocks on users transferring balances to one another. People
+  with funds locked in FTX bought NFTs from Bahamas-based users, spending their full account balance on the NFT and thus enabling
+  the Bahamian user to then withdraw the funds. "This appears to be the first recorded case of NFT utility in existence 👍",
+  wrote Cobie.

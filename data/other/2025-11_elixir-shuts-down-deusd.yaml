@@ -3,10 +3,11 @@ source_url: https://x.com/elixir/status/1986443495351927257
 date_of_breach: '2025-11-06'
 date_of_disclosure: '2025-11-06'
 category: other
-notes: After the defi yield platform Stream Finance announced a $93 million loss,
-  Elixir announced it would be discontinuing its deUSD synthetic stablecoin. Stream
-  Finance owes $68 million to Elixir, and holds around $75 million deUSD.Elixir has
-  announced that they plan to allow deUSD holders to redeem their tokens for USDC
-  through a process that will also eliminate the risk of Stream Finance cashing out
-  their deUSD without repaying their loan. According to Elixir, "Stream comprised
-  of 99%+ of the lending positions (and has decided to not repay or close positions)".
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Elixir
+blockchain: ethereum
+notes: After the defi yield platform Stream Finance announced a $93 million loss, Elixir announced it would be discontinuing
+  its deUSD synthetic stablecoin. Stream Finance owes $68 million to Elixir, and holds around $75 million deUSD.Elixir has
+  announced that they plan to allow deUSD holders to redeem their tokens for USDC through a process that will also eliminate
+  the risk of Stream Finance cashing out their deUSD without repaying their loan. According to Elixir, "Stream comprised of
+  99%+ of the lending positions (and has decided to not repay or close positions)".

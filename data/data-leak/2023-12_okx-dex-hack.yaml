@@ -3,15 +3,15 @@ source_url: https://cointelegraph.com/news/okx-dex-2-7-m-exploit-proxy-admin-con
 date_of_breach: '2023-12-12'
 date_of_disclosure: '2023-12-12'
 category: data-leak
-notes: 'OKX DEX is a service by OKX that aggregates decentralized exchanges (or DEXes)
-  to help users access features and prices across multiple projects. On December 12,
-  an attacker appeared to gain administrative control of the DEX''s smart contract.
-  They upgraded the contract such that they could transfer tokens to themselves, then
-  proceeded to do exactly that until they had stolen around $2.7 million in various
-  cryptocurrencies.It appears the attacker was able to gain access to the smart contract
-  admin key, which gave them the ability to upgrade the contracts to enable malicious
-  functionality.OKX announced that they would reimburse the losses, and pursue legal
-  action against the exploiter.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: OKX DEX
+financial_loss_usd: 2700000
+notes: 'OKX DEX is a service by OKX that aggregates decentralized exchanges (or DEXes) to help users access features and prices
+  across multiple projects. On December 12, an attacker appeared to gain administrative control of the DEX''s smart contract.
+  They upgraded the contract such that they could transfer tokens to themselves, then proceeded to do exactly that until they
+  had stolen around $2.7 million in various cryptocurrencies.It appears the attacker was able to gain access to the smart
+  contract admin key, which gave them the ability to upgrade the contracts to enable malicious functionality.OKX announced
+  that they would reimburse the losses, and pursue legal action against the exploiter.
 
 
   Total loss estimated at $2,700,000.'

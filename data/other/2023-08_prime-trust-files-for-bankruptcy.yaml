@@ -3,13 +3,12 @@ source_url: https://cointelegraph.com/news/prime-trust-files-for-bankruptcy-dela
 date_of_breach: '2023-08-15'
 date_of_disclosure: '2023-08-15'
 category: other
-notes: After the Nevada Financial Institutions Division issued a cease and desist
-  describing Prime Trust as insolvent in June, then successfully requested the company
-  be placed into receivership days later, it's no huge surprise that Prime Trust has
-  filed for bankruptcy.Prime Trust is a crypto custodian that previously served companies
-  including Binance US, Swan Bitcoin, and BitGo. Just a year ago, the company announced
-  they had raised $100 million in a Series B funding round, and planned to add crypto
-  retirement accounts to its list of products. It's probably a good thing that didn't
-  pan out.According to bankruptcy documents, Prime Trust has between $50 million and
-  $100 million in assets, but between $100 million and $500 million in liabilities.
-  They report having between 25,000 and 50,000 creditors.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Prime Trust files for bankruptcy
+notes: After the Nevada Financial Institutions Division issued a cease and desist describing Prime Trust as insolvent in June,
+  then successfully requested the company be placed into receivership days later, it's no huge surprise that Prime Trust has
+  filed for bankruptcy.Prime Trust is a crypto custodian that previously served companies including Binance US, Swan Bitcoin,
+  and BitGo. Just a year ago, the company announced they had raised $100 million in a Series B funding round, and planned
+  to add crypto retirement accounts to its list of products. It's probably a good thing that didn't pan out.According to bankruptcy
+  documents, Prime Trust has between $50 million and $100 million in assets, but between $100 million and $500 million in
+  liabilities. They report having between 25,000 and 50,000 creditors.

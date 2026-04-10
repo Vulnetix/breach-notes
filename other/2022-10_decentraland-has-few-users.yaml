@@ -1,12 +1,11 @@
-source_name: '"It''s Lonely in the Metaverse: Decentraland’s 38 Daily Active Users
-  in a $1.3B Ecosystem"'
+source_name: '"It''s Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem"'
 source_url: https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/
 date_of_breach: '2022-10-07'
 date_of_disclosure: '2022-10-07'
 category: other
-notes: According to CoinDesk, the metaverse platform Decentraland is entertaining
-  roughly 38 users a day these days. This isn't much for its "valuation" of $1.3 billion
-  — although CoinDesk seems to be estimating this on "market cap". Its competitor,
-  the Sandbox (also "valued" at around $1.3 billion), is doing a bit better — with
-  a whopping 522 daily active users.Not only that, the most users Decentraland has
-  ever had in one day is only 675; The Sandbox had 4,503 at one point.
+vendor_product: Decentraland has few users
+affected_count: 38
+notes: According to CoinDesk, the metaverse platform Decentraland is entertaining roughly 38 users a day these days. This
+  isn't much for its "valuation" of $1.3 billion — although CoinDesk seems to be estimating this on "market cap". Its competitor,
+  the Sandbox (also "valued" at around $1.3 billion), is doing a bit better — with a whopping 522 daily active users.Not only
+  that, the most users Decentraland has ever had in one day is only 675; The Sandbox had 4,503 at one point.

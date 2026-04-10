@@ -3,23 +3,20 @@ source_url: https://rekt.news/pharma-bro/
 date_of_breach: '2024-06-18'
 date_of_disclosure: '2024-06-18'
 category: other
-notes: After Arkham Intelligence announced a $150,000 bounty for anyone who could
-  prove the identity of the person behind a Donald Trump memecoin called $DJT, blockchain
-  sleuth zachxbt quickly rose to the occasion. He submitted evidence that Martin Shkreli,
-  the "pharma bro" who spent years in federal prison for financial fraud and who was
-  previously known for hiking the price of an anti-malaria drug 56×, was behind the
-  token. This wouldn't have been Shkreli's first foray into the blockchain world,
-  after he launched a "web3 drug discovery platform", and then later dubiously claimed
-  to have been hacked for over $450,000 after his computer was infected by a trojan
-  after he torrented a porn video.Shkreli attempted to frontrun the news in a Twitter
-  space, and came out with his own claims that he had collaborated with Barron Trump
-  to create the token, and with Andrew Tate to pump its price. However, fellow felon
-  and memecoin pumper Roger Stone subsequently crawled out of the woodwork to claim
-  that neither Barron nor Donald Trump was involved with $DJT.Shkreli has yet to provide
-  solid proof that he created the memecoin, though zachxbt's research tends to be
-  very strong. If true, Shkreli faces potential legal repercussions, as he is still
-  on parole after his release in 2022. The terms of his parole require him to "refrain
-  from engaging in self-employment which involves access to client's assets, investments,
-  or money, or solicitation of assets, investments, or money", and to make financial
-  disclosures to the courts. Shkreli was also banned from the securities industry
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Martin Shkreli claims to have been behind a Donald Trump memecoin
+blockchain: solana
+notes: After Arkham Intelligence announced a $150,000 bounty for anyone who could prove the identity of the person behind
+  a Donald Trump memecoin called $DJT, blockchain sleuth zachxbt quickly rose to the occasion. He submitted evidence that
+  Martin Shkreli, the "pharma bro" who spent years in federal prison for financial fraud and who was previously known for
+  hiking the price of an anti-malaria drug 56×, was behind the token. This wouldn't have been Shkreli's first foray into the
+  blockchain world, after he launched a "web3 drug discovery platform", and then later dubiously claimed to have been hacked
+  for over $450,000 after his computer was infected by a trojan after he torrented a porn video.Shkreli attempted to frontrun
+  the news in a Twitter space, and came out with his own claims that he had collaborated with Barron Trump to create the token,
+  and with Andrew Tate to pump its price. However, fellow felon and memecoin pumper Roger Stone subsequently crawled out of
+  the woodwork to claim that neither Barron nor Donald Trump was involved with $DJT.Shkreli has yet to provide solid proof
+  that he created the memecoin, though zachxbt's research tends to be very strong. If true, Shkreli faces potential legal
+  repercussions, as he is still on parole after his release in 2022. The terms of his parole require him to "refrain from
+  engaging in self-employment which involves access to client's assets, investments, or money, or solicitation of assets,
+  investments, or money", and to make financial disclosures to the courts. Shkreli was also banned from the securities industry
   in 2018, as part of a settlement with the SEC.

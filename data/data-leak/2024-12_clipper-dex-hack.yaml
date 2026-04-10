@@ -3,15 +3,16 @@ source_url: https://x.com/Clipper_DEX/status/1863263893470003460
 date_of_breach: '2024-12-01'
 date_of_disclosure: '2024-12-01'
 category: data-leak
-notes: 'The Clipper decentralized exchange suffered a $450,000 exploit across two
-  Ethereum layer-2 chains. Although some speculated that the issue may have been a
-  private key leak, Clipper denied this, and instead said that an attacker had exploited
-  a feature allowing people to make withdrawals denominated in a single token by performing
-  swaps along with the withdrawal.Although the $450,000 theft is relatively small
-  compared to some other crypto hacks, it represented around 6% of the total value
-  locked on Clipper. Clipper stated they were working to trace and attempt to recover
-  funds, and asked the hacker to contact them to potentially negotiate a return of
-  some funds.
+initial_attack_vector: Private key compromise
+vendor_product: Clipper DEX
+blockchain: ethereum
+financial_loss_usd: 450000
+notes: 'The Clipper decentralized exchange suffered a $450,000 exploit across two Ethereum layer-2 chains. Although some speculated
+  that the issue may have been a private key leak, Clipper denied this, and instead said that an attacker had exploited a
+  feature allowing people to make withdrawals denominated in a single token by performing swaps along with the withdrawal.Although
+  the $450,000 theft is relatively small compared to some other crypto hacks, it represented around 6% of the total value
+  locked on Clipper. Clipper stated they were working to trace and attempt to recover funds, and asked the hacker to contact
+  them to potentially negotiate a return of some funds.
 
 
   Total loss estimated at $450,000.'

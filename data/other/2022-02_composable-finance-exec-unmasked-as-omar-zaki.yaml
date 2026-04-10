@@ -3,18 +3,16 @@ source_url: https://twitter.com/zachxbt/status/1494766254242123788
 date_of_breach: '2022-02-20'
 date_of_disclosure: '2022-02-20'
 category: other
-notes: Composable Finance is a company that makes infrastructure tools for defi. Until
-  recently, their head of product has been known only as 0xbrainjar, and has operated
-  pseudonymously. However, on February 18, the crypto detective zachxbt revealed his
-  discovery that 0xbrainjar was actually Omar Zaki. Zaki was charged with fraud by
-  the SEC in 2019 for misleading investors while operating an unregistered investment
-  adviser and hedge fund. He ultimately settled the case for a $25,000 fine, and a
-  three-year ban from working in the investment industry. Although I personally think
-  it's reasonable not to describe anything crypto-related as an "investment", I'm
-  curious how the SEC might feel about him working on defi projects.On February 20,
-  0xbrainjar confirmed that he was indeed Zaki. He wrote, "I did this so that my efforts
-  to build up a suite of products would not be shadowed by a mistake that I made in
-  my past.... 0xbrainjar was a place for me to not be defined by this serious misstep
-  (which has been settled and was amplified by the media)". He also wrote on Twitter
-  that "I do not want a mistake in my youth to cloud all of the team's efforts", though
-  the SEC charge was filed less than three years ago, when Zaki was 21.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Composable Finance exec unmasked as Omar Zaki
+notes: Composable Finance is a company that makes infrastructure tools for defi. Until recently, their head of product has
+  been known only as 0xbrainjar, and has operated pseudonymously. However, on February 18, the crypto detective zachxbt revealed
+  his discovery that 0xbrainjar was actually Omar Zaki. Zaki was charged with fraud by the SEC in 2019 for misleading investors
+  while operating an unregistered investment adviser and hedge fund. He ultimately settled the case for a $25,000 fine, and
+  a three-year ban from working in the investment industry. Although I personally think it's reasonable not to describe anything
+  crypto-related as an "investment", I'm curious how the SEC might feel about him working on defi projects.On February 20,
+  0xbrainjar confirmed that he was indeed Zaki. He wrote, "I did this so that my efforts to build up a suite of products would
+  not be shadowed by a mistake that I made in my past.... 0xbrainjar was a place for me to not be defined by this serious
+  misstep (which has been settled and was amplified by the media)". He also wrote on Twitter that "I do not want a mistake
+  in my youth to cloud all of the team's efforts", though the SEC charge was filed less than three years ago, when Zaki was
+  21.

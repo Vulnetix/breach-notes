@@ -1,13 +1,12 @@
-source_name: '"Ubisoft is done creating new content for Ghost Recon Breakpoint, even
-  if you bought an NFT"'
+source_name: '"Ubisoft is done creating new content for Ghost Recon Breakpoint, even if you bought an NFT"'
 source_url: https://www.theverge.com/2022/4/6/23013346/ubisoft-ghost-recon-breakpoint-content-nft-digits-quartz
 date_of_breach: '2022-04-05'
 date_of_disclosure: '2022-04-05'
 category: other
-notes: Ubisoft announced in December that they would be incorporating NFTs in to their
-  Tom Clancy's Ghost Recon Breakpoint title, much to the chagrin of its players and
-  some employees as well. On April 5, Ubisoft announced that they would no longer
-  be releasing updates to the game, nor would they be minting any additional NFTs.Although
-  the Formula 1 blockchain game that shut down earlier this month made halfhearted
-  promises to allow NFT holders to swap their NFTs for ones used in a different game,
-  Ubisoft has made no such promises.
+vendor_product: Ubisoft abandons Tom Clancy NFT game
+blockchain: ethereum
+notes: Ubisoft announced in December that they would be incorporating NFTs in to their Tom Clancy's Ghost Recon Breakpoint
+  title, much to the chagrin of its players and some employees as well. On April 5, Ubisoft announced that they would no longer
+  be releasing updates to the game, nor would they be minting any additional NFTs.Although the Formula 1 blockchain game that
+  shut down earlier this month made halfhearted promises to allow NFT holders to swap their NFTs for ones used in a different
+  game, Ubisoft has made no such promises.

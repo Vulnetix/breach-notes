@@ -1,13 +1,11 @@
-source_name: '"A.P. Moller - Maersk and IBM to discontinue TradeLens, a blockchain-enabled
-  global trade platform"'
+source_name: '"A.P. Moller - Maersk and IBM to discontinue TradeLens, a blockchain-enabled global trade platform"'
 source_url: https://www.maersk.com/news/articles/2022/11/29/maersk-and-ibm-to-discontinue-tradelens
 date_of_breach: '2022-11-30'
 date_of_disclosure: '2022-11-30'
 category: other
-notes: 'Tough news for folks who insist that blockchains'' obvious use case is for
-  supply chains: IBM and Maersk have discontinued their private blockchain-based TradeLens
-  platform due to lack of interest.The idea was to use a private blockchain to "promote
-  more efficient and secure global trade" by allowing shipping companies to share
-  information including shipping container contents and tracking. However, it was
-  apparently tough to convince these companies to actually adopt the project, and
-  Maersk and IBM pulled the plug.'
+vendor_product: Maersk and IBM shutter blockchain project
+notes: 'Tough news for folks who insist that blockchains'' obvious use case is for supply chains: IBM and Maersk have discontinued
+  their private blockchain-based TradeLens platform due to lack of interest.The idea was to use a private blockchain to "promote
+  more efficient and secure global trade" by allowing shipping companies to share information including shipping container
+  contents and tracking. However, it was apparently tough to convince these companies to actually adopt the project, and Maersk
+  and IBM pulled the plug.'

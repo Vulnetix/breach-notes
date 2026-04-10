@@ -1,15 +1,14 @@
-source_name: '"DFS Superintendent Harris Announces $30 Million Penalty on Robinhood
-  Crypto for Significant Anti-money Laundering, Cybersecurity &amp; Consumer Protection
-  Violations"'
+source_name: '"DFS Superintendent Harris Announces $30 Million Penalty on Robinhood Crypto for Significant Anti-money Laundering,
+  Cybersecurity &amp; Consumer Protection Violations"'
 source_url: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202208021
 date_of_breach: '2022-08-02'
 date_of_disclosure: '2022-08-02'
 category: other
-notes: The New York Department of Financial Services levied a $30 million fine against
-  Robinhood, an app used for stock trading that has also branched into crypto. According
-  to the DFS, Robinhood Crypto demonstrated "significant failures" in its anti-money
-  laundering and cybersecurity obligations.Robinhood Crypto had certified to the DFS
-  in 2019 that they were in compliance with those regulations, despite the fact that
-  they were not. The DFS imposed a $30 million fine to the company, and also ordered
-  them to hire an outside party to evaluate their regulatory compliance and efforts
-  to remediate the problems with their platform.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Robinhood fined
+notes: The New York Department of Financial Services levied a $30 million fine against Robinhood, an app used for stock trading
+  that has also branched into crypto. According to the DFS, Robinhood Crypto demonstrated "significant failures" in its anti-money
+  laundering and cybersecurity obligations.Robinhood Crypto had certified to the DFS in 2019 that they were in compliance
+  with those regulations, despite the fact that they were not. The DFS imposed a $30 million fine to the company, and also
+  ordered them to hire an outside party to evaluate their regulatory compliance and efforts to remediate the problems with
+  their platform.

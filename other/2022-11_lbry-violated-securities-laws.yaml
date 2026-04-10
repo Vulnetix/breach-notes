@@ -3,13 +3,12 @@ source_url: https://www.coindesk.com/policy/2022/11/07/lbry-sold-tokens-as-secur
 date_of_breach: '2022-11-07'
 date_of_disclosure: '2022-11-07'
 category: other
-notes: LBRY is a blockchain-based social network and video sharing protocol that was
-  described by a researcher at The International Centre for the Study of Radicalisation
-  and Political Violence as "the new YouTube for the far-right" in 2021.In March 2021,
-  the SEC sued LBRY over their LBC tokens, which were used for paid streaming, tipping,
-  and as rewards for using the platform inviting other users. On November 7, 2022,
-  a federal judge of the District Court for the District of New Hampshire ruled that
-  "because no reasonable trier of fact could reject the SEC's contention that LBRY
-  offered LBC as a security, and LBRY does not have a triable defense that it lacked
-  fair notice, the SEC is entitled to judgment." The judge granted the SEC's motion
-  for summary judgment, meaning the case will not go to trial.
+initial_attack_vector: Regulatory / legal action
+vendor_product: LBRY violated securities laws
+notes: LBRY is a blockchain-based social network and video sharing protocol that was described by a researcher at The International
+  Centre for the Study of Radicalisation and Political Violence as "the new YouTube for the far-right" in 2021.In March 2021,
+  the SEC sued LBRY over their LBC tokens, which were used for paid streaming, tipping, and as rewards for using the platform
+  inviting other users. On November 7, 2022, a federal judge of the District Court for the District of New Hampshire ruled
+  that "because no reasonable trier of fact could reject the SEC's contention that LBRY offered LBC as a security, and LBRY
+  does not have a triable defense that it lacked fair notice, the SEC is entitled to judgment." The judge granted the SEC's
+  motion for summary judgment, meaning the case will not go to trial.

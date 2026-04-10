@@ -1,12 +1,11 @@
-source_name: '"Kraken to release NFTs, drawing questions about true commitment to
-  environment"'
+source_name: '"Kraken to release NFTs, drawing questions about true commitment to environment"'
 source_url: https://sports.yahoo.com/nhl-kraken-to-release-nft-climate-pledge-arena-environmentally-friendly-185211633.html
 date_of_breach: '2021-12-13'
 date_of_disclosure: '2021-12-13'
 category: other
-notes: The Seattle Kraken announced that they would be releasing a set of NFTs. Although
-  several sports groups have released NFTs, people were particularly surprised to
-  see it coming from a team that is known for its environmental advocacy. Though the
-  NFT release will be on a proof-of-stake blockchain that claims to be net-zero emissions
-  (Avalanche), many were up in arms about the team engaging in something that they
-  see as antithetical to environmentalism.
+vendor_product: Seattle Kraken NFTs announcement
+blockchain: avalanche
+notes: The Seattle Kraken announced that they would be releasing a set of NFTs. Although several sports groups have released
+  NFTs, people were particularly surprised to see it coming from a team that is known for its environmental advocacy. Though
+  the NFT release will be on a proof-of-stake blockchain that claims to be net-zero emissions (Avalanche), many were up in
+  arms about the team engaging in something that they see as antithetical to environmentalism.

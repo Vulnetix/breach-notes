@@ -3,13 +3,14 @@ source_url: https://tinymanorg.medium.com/official-announcement-about-the-incide
 date_of_breach: '2022-01-01'
 date_of_disclosure: '2022-01-01'
 category: data-leak
-notes: 'Tinyman, a defi platform that bills itself as "decentralized, secure trading",
-  had all liquidity drained from its goBTC and goETH pools after an attacker found
-  a bug in their smart contracts. Liquidity throughout Tinyman dropped from about
-  $43 million to around $20 million within hours of the attack, though the platform
-  says they believe that most of this money was withdrawn by its rightful owners and
-  not stolen. Tinyman asked users to remove liquidity from all pools while they work
-  to patch their smart contracts, and announced they would reimburse affected users.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Tinyman
+financial_loss_usd: 3000000
+notes: 'Tinyman, a defi platform that bills itself as "decentralized, secure trading", had all liquidity drained from its
+  goBTC and goETH pools after an attacker found a bug in their smart contracts. Liquidity throughout Tinyman dropped from
+  about $43 million to around $20 million within hours of the attack, though the platform says they believe that most of this
+  money was withdrawn by its rightful owners and not stolen. Tinyman asked users to remove liquidity from all pools while
+  they work to patch their smart contracts, and announced they would reimburse affected users.
 
 
   Total loss estimated at $3,000,000.'

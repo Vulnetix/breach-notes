@@ -3,12 +3,11 @@ source_url: https://www.nytimes.com/2023/09/07/technology/ftx-guilty-plea.html
 date_of_breach: '2023-09-07'
 date_of_disclosure: '2023-09-07'
 category: other
-notes: Former CEO of FTX's Bahamian entity, Ryan Salame, has pleaded guilty to two
-  criminal charges in the ongoing case against FTX and founder Sam Bankman-Fried.
-  Salame (pronounced "Salem") is the fourth exec to plead guilty, following pleas
-  from Caroline Ellison and Gary Wang in December 2022, and another from Nishad Singh
-  in February 2023.As part of the deal, Salame has agreed to forfeit $1.5 billion.
-  He will also pay $5.6 million restitution to FTX debtors and $6 million to the U.S.
-  government, and will forfeit two homes in the Berkshires and a 2021 Porsche 911.
-  According to the New York Times, he is not cooperating with the investigation.Salame's
-  sentencing is scheduled for March 2024.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Ryan Salame plea
+notes: Former CEO of FTX's Bahamian entity, Ryan Salame, has pleaded guilty to two criminal charges in the ongoing case against
+  FTX and founder Sam Bankman-Fried. Salame (pronounced "Salem") is the fourth exec to plead guilty, following pleas from
+  Caroline Ellison and Gary Wang in December 2022, and another from Nishad Singh in February 2023.As part of the deal, Salame
+  has agreed to forfeit $1.5 billion. He will also pay $5.6 million restitution to FTX debtors and $6 million to the U.S.
+  government, and will forfeit two homes in the Berkshires and a 2021 Porsche 911. According to the New York Times, he is
+  not cooperating with the investigation.Salame's sentencing is scheduled for March 2024.

@@ -3,12 +3,14 @@ source_url: https://www.tomshardware.com/news/aws-45000-usd-bill-for-crypto-mini
 date_of_breach: '2021-12-14'
 date_of_disclosure: '2021-12-14'
 category: data-leak
-notes: 'A hacker gained access to someone''s Amazon Web Services account and used
-  it to spin up servers to run Monero miners, ultimately netting 6 Monero (XMR) worth
-  a total of about $800 over the couple of weeks they were running. All this work,
-  however, cost the hacked individual about $45,000 in AWS fees, providing a particularly
-  salient example of why people don''t typically use AWS to mine crypto. Fortunately,
-  Amazon waived the bill for the owner of the compromised account.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Tweet by the owner of the hacked AWS account
+blockchain: monero
+financial_loss_usd: 45000
+notes: 'A hacker gained access to someone''s Amazon Web Services account and used it to spin up servers to run Monero miners,
+  ultimately netting 6 Monero (XMR) worth a total of about $800 over the couple of weeks they were running. All this work,
+  however, cost the hacked individual about $45,000 in AWS fees, providing a particularly salient example of why people don''t
+  typically use AWS to mine crypto. Fortunately, Amazon waived the bill for the owner of the compromised account.
 
 
   Total loss estimated at $45,000.'

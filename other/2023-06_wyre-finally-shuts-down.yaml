@@ -3,10 +3,10 @@ source_url: https://twitter.com/sendwyre/status/1669688772844220418
 date_of_breach: '2023-06-16'
 date_of_disclosure: '2023-06-16'
 category: other
-notes: The crypto payments platform Wyre finally announced they would be winding down
-  "due to market conditions". This came after a January announcement from the CEO,
-  where it was not entirely clear whether the company was shutting down or just massively
-  "scaling back".Wyre had been a partner of Binance US, through which Binance was
-  able to accept USD deposits. However, Binance US is now the target of SEC regulatory
-  action, and has suspended US dollar deposits. Wyre wrote in their announcement that
-  the closure "is not due to any regulatory agency direction". Sure thing.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Wyre finally
+notes: The crypto payments platform Wyre finally announced they would be winding down "due to market conditions". This came
+  after a January announcement from the CEO, where it was not entirely clear whether the company was shutting down or just
+  massively "scaling back".Wyre had been a partner of Binance US, through which Binance was able to accept USD deposits. However,
+  Binance US is now the target of SEC regulatory action, and has suspended US dollar deposits. Wyre wrote in their announcement
+  that the closure "is not due to any regulatory agency direction". Sure thing.

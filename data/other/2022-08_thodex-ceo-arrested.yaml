@@ -1,17 +1,14 @@
-source_name: '"CEO of collapsed Turkish crypto exchange Thodex faces extradition from
-  Albania following arrest"'
+source_name: '"CEO of collapsed Turkish crypto exchange Thodex faces extradition from Albania following arrest"'
 source_url: https://www.theblock.co/post/166475/ceo-of-collapsed-turkish-crypto-exchange-thodex-faces-extradition-from-albania-following-arrest?utm_source=rss&utm_medium=rss
 date_of_breach: '2022-08-30'
 date_of_disclosure: '2022-08-30'
 category: other
-notes: Faruk Fatih Özer, the CEO of the Thodex cryptocurrency exchange, swore that
-  when they halted trading and shut off customers' access to accounts in April 2021,
-  it was just to investigate suspicious activity. Then he disappeared, leaving behind
-  a collapsed exchange and total losses estimated to be anywhere from $24 million
-  and $2.5 billion in assets (depending who you ask). He left a statement in which
-  he claimed that he was only on the lam in order to "work and repay my debts" to
-  customers, after which he would turn himself in to Turkish authorities.His plan
-  to somehow work off anywhere from $24 million to $2.5 billion in debts was stymied
-  when he was apprehended by Albanian authorities. He faces extradition to Turkey,
-  where a prosecutor has asked for sentences of 40,564 years for him and other executives
-  (just in case, I guess).
+initial_attack_vector: Regulatory / legal action
+vendor_product: Thodex CEO arrested
+notes: Faruk Fatih Özer, the CEO of the Thodex cryptocurrency exchange, swore that when they halted trading and shut off customers'
+  access to accounts in April 2021, it was just to investigate suspicious activity. Then he disappeared, leaving behind a
+  collapsed exchange and total losses estimated to be anywhere from $24 million and $2.5 billion in assets (depending who
+  you ask). He left a statement in which he claimed that he was only on the lam in order to "work and repay my debts" to customers,
+  after which he would turn himself in to Turkish authorities.His plan to somehow work off anywhere from $24 million to $2.5
+  billion in debts was stymied when he was apprehended by Albanian authorities. He faces extradition to Turkey, where a prosecutor
+  has asked for sentences of 40,564 years for him and other executives (just in case, I guess).

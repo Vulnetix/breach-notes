@@ -1,14 +1,13 @@
-source_name: '"FDIC Orders Crypto Exchange FTX US, 4 Others to Cease ''Misleading''
-  Claims"'
+source_name: '"FDIC Orders Crypto Exchange FTX US, 4 Others to Cease ''Misleading'' Claims"'
 source_url: https://www.coindesk.com/policy/2022/08/19/fdic-orders-ftx-us-4-other-companies-to-cease-and-desist-misleading-consumers/
 date_of_breach: '2022-08-19'
 date_of_disclosure: '2022-08-19'
 category: other
-notes: The Federal Deposit Insurance Corporation (FDIC) sent cease and desist notices
-  to the FTX US crypto exchange and four websites that they allege are falsely claiming
-  their products are FDIC-insured. Most people are familiar with FDIC insurance because
-  it covers up to $250,000 per account with federally regulated banks, but crypto
-  companies enjoy no such protections.In July, the FDIC and Federal Reserve sent a
-  cease and desist to Voyager, a company currently undergoing bankruptcy proceedings,
-  which drew in customers with false promises that USD entrusted to the company were
-  safe from any potential Voyager collapse thanks to FDIC insurance.
+initial_attack_vector: Regulatory / legal action
+vendor_product: FDIC cease and desist letters
+notes: The Federal Deposit Insurance Corporation (FDIC) sent cease and desist notices to the FTX US crypto exchange and four
+  websites that they allege are falsely claiming their products are FDIC-insured. Most people are familiar with FDIC insurance
+  because it covers up to $250,000 per account with federally regulated banks, but crypto companies enjoy no such protections.In
+  July, the FDIC and Federal Reserve sent a cease and desist to Voyager, a company currently undergoing bankruptcy proceedings,
+  which drew in customers with false promises that USD entrusted to the company were safe from any potential Voyager collapse
+  thanks to FDIC insurance.

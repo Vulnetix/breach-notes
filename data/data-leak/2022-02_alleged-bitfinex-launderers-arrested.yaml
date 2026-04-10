@@ -3,13 +3,13 @@ source_url: https://www.washingtonpost.com/national-security/2022/02/08/bitfinex
 date_of_breach: '2022-02-08'
 date_of_disclosure: '2022-02-08'
 category: data-leak
-notes: The U.S. Department of Justice announced that they had arrested a New York
-  couple and seized more than $3.6 billion in Bitcoin that they were allegedly trying
-  to launder. The fortune was a portion of what was stolen in the 2016 Bitfinex breach,
-  which saw the exchange lose around 120,000 BTC — then valued at around $71 million
-  but worth around $4.5 billion at today's BTC prices. The husband and wife pair,
-  Ilya Lichtenstein and Heather Morgan, both describe themselves as tech entrepreneurs;
-  Morgan also describes herself as a "surrealist rapper", and her work sure is surreal.News
-  of the arrest came only a week after 20,000 BTC from the Bitfinex hack was observed
-  being moved. Although the DOJ didn't explicitly say that this movement led to the
-  arrest, it seems like a safe bet.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Alleged Bitfinex launderers arrested
+blockchain: bitcoin
+notes: The U.S. Department of Justice announced that they had arrested a New York couple and seized more than $3.6 billion
+  in Bitcoin that they were allegedly trying to launder. The fortune was a portion of what was stolen in the 2016 Bitfinex
+  breach, which saw the exchange lose around 120,000 BTC — then valued at around $71 million but worth around $4.5 billion
+  at today's BTC prices. The husband and wife pair, Ilya Lichtenstein and Heather Morgan, both describe themselves as tech
+  entrepreneurs; Morgan also describes herself as a "surrealist rapper", and her work sure is surreal.News of the arrest came
+  only a week after 20,000 BTC from the Bitfinex hack was observed being moved. Although the DOJ didn't explicitly say that
+  this movement led to the arrest, it seems like a safe bet.

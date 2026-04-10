@@ -3,13 +3,14 @@ source_url: https://rekt.news/dforce-network-rekt/
 date_of_breach: '2023-02-13'
 date_of_disclosure: '2023-02-13'
 category: data-leak
-notes: An attacker using flash loans to exploit a common re-entrancy vulnerability
-  siphoned $3.65 million from the dForce defi project on both Arbitrum and Optimism,
-  which are Ethereum layer-2 networks. The exploit, which involves manipulating the
-  oracle price in Curve liquidity pools, is a common one that was first reported to
-  Curve in April 2022 and disclosed in October 2022. It has been used to attack various
-  other projects, including QiDAO.dForce contacted the hacker via blockchain transaction,
-  offering to negotiate a bounty. Several days later, the project tweeted that the
-  attacker had "c[o]me forward as a whitehat", and that the funds had been fully returned.
-  "We have agreed to offer a bounty and will drop all on-going investigation and law
-  enforcement actions," they announced.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: dForce Network
+blockchain: ethereum
+financial_recovered_usd: 3650000
+notes: An attacker using flash loans to exploit a common re-entrancy vulnerability siphoned $3.65 million from the dForce
+  defi project on both Arbitrum and Optimism, which are Ethereum layer-2 networks. The exploit, which involves manipulating
+  the oracle price in Curve liquidity pools, is a common one that was first reported to Curve in April 2022 and disclosed
+  in October 2022. It has been used to attack various other projects, including QiDAO.dForce contacted the hacker via blockchain
+  transaction, offering to negotiate a bounty. Several days later, the project tweeted that the attacker had "c[o]me forward
+  as a whitehat", and that the funds had been fully returned. "We have agreed to offer a bounty and will drop all on-going
+  investigation and law enforcement actions," they announced.

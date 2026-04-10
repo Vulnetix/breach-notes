@@ -3,17 +3,17 @@ source_url: https://twitter.com/zachxbt/status/1762028433574650347
 date_of_breach: '2024-02-26'
 date_of_disclosure: '2024-02-26'
 category: other
-notes: 'The Hong Kong-based BitForex cryptocurrency exchange has shut down access
-  to its platform after a suspicious outflow of around $57 million on several blockchains.
-  Users who have tried to log in see a CloudFlare page explaining that they are blocked
-  from accessing the website by CloudFlare''s DDoS protection service.The withdrawals
-  were first noticed by blockchain detective zachxbt, who also noted that the exchange
-  has stopped processing withdrawals and has not been replying to customer support
-  inquiries.It seems likely that the outflows were an exit scam rather than an outside
-  attack, particularly given the lack of communication and somewhat shady status of
-  the exchange. The firm faced regulatory scrutiny in Japan in mid-2023 for operating
-  without a license, and has been accused of inflating its trading volume. Its CEO
-  resigned in January, but promised a new team would be taking over.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: BitForex withdrawals
+financial_loss_usd: 57000000
+notes: 'The Hong Kong-based BitForex cryptocurrency exchange has shut down access to its platform after a suspicious outflow
+  of around $57 million on several blockchains. Users who have tried to log in see a CloudFlare page explaining that they
+  are blocked from accessing the website by CloudFlare''s DDoS protection service.The withdrawals were first noticed by blockchain
+  detective zachxbt, who also noted that the exchange has stopped processing withdrawals and has not been replying to customer
+  support inquiries.It seems likely that the outflows were an exit scam rather than an outside attack, particularly given
+  the lack of communication and somewhat shady status of the exchange. The firm faced regulatory scrutiny in Japan in mid-2023
+  for operating without a license, and has been accused of inflating its trading volume. Its CEO resigned in January, but
+  promised a new team would be taking over.
 
 
   Total loss estimated at $57,000,000.'

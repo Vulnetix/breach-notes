@@ -3,15 +3,14 @@ source_url: https://www.reuters.com/business/finance/bulgaria-launches-probe-cry
 date_of_breach: '2023-01-12'
 date_of_disclosure: '2023-01-12'
 category: other
-notes: Bulgarian prosecutors raided more than 15 locations in Sofia, Bulgaria in relation
-  to the Nexo cryptocurrency lender. A spokesperson for the prosecutors has said that
-  the raids are "part of a pre-trial investigation aimed at neutralising an illegal
-  criminal activity of crypto lender Nexo". These activities reportedly include setting
-  up of an organized crime group, tax crimes, money laundering, banking activity without
-  a license and computer fraud. Bulgarian authorities allege that Nexo has processed
-  $94 billion through its platform over the past five years.Authorities charged four
-  individuals with various crimes shortly after the raid. Two were arrested and released
-  on bail; authorities are still looking for the other two. Police have also confiscated
-  money, computers, and crypto assets.Within a 24-hour period after the raid was announced,
-  Nexo experienced $45 million in withdrawals — about the same amount they normally
-  process in an entire week — as customers rushed to get their money off the platform.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Nexo raided by Bulgarian authorities
+notes: Bulgarian prosecutors raided more than 15 locations in Sofia, Bulgaria in relation to the Nexo cryptocurrency lender.
+  A spokesperson for the prosecutors has said that the raids are "part of a pre-trial investigation aimed at neutralising
+  an illegal criminal activity of crypto lender Nexo". These activities reportedly include setting up of an organized crime
+  group, tax crimes, money laundering, banking activity without a license and computer fraud. Bulgarian authorities allege
+  that Nexo has processed $94 billion through its platform over the past five years.Authorities charged four individuals with
+  various crimes shortly after the raid. Two were arrested and released on bail; authorities are still looking for the other
+  two. Police have also confiscated money, computers, and crypto assets.Within a 24-hour period after the raid was announced,
+  Nexo experienced $45 million in withdrawals — about the same amount they normally process in an entire week — as customers
+  rushed to get their money off the platform.

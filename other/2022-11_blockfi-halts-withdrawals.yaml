@@ -3,16 +3,14 @@ source_url: https://twitter.com/BlockFi/status/1590875997351866368
 date_of_breach: '2022-11-10'
 date_of_disclosure: '2022-11-10'
 category: other
-notes: BlockFi had a tough time this past June, floundering after substantial losses
-  in the crypto downturn. They were bailed out by FTX, who extended them a $250 million
-  loan, then shortly after reached a deal that would give them the option to acquire
-  BlockFi, and also extended BlockFi $400 million in revolving credit.Now, the bailer
-  is the one requiring the bailing, and the possible bailout of FTX by Binance fell
-  through. This means that BlockFi is in a tough and uncertain spot, which is why
-  they announced through Twitter that "until there is further clarity, we are limiting
-  platform activity, including pausing client withdrawals". They also wrote that they
-  had learned about the FTX collapse via Twitter.BlockFi founder and COO Flori Marquez
-  had tweeted only two days prior, just after the FTX news, that "All BlockFi products
-  are fully operational. BlockFi is an independent business entity. We have a $400MM
-  line of credit from FTX.US (not FTX.com) and will remain an independent entity until
-  at least July 2023. We are processing all client withdrawals."
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: BlockFi
+notes: BlockFi had a tough time this past June, floundering after substantial losses in the crypto downturn. They were bailed
+  out by FTX, who extended them a $250 million loan, then shortly after reached a deal that would give them the option to
+  acquire BlockFi, and also extended BlockFi $400 million in revolving credit.Now, the bailer is the one requiring the bailing,
+  and the possible bailout of FTX by Binance fell through. This means that BlockFi is in a tough and uncertain spot, which
+  is why they announced through Twitter that "until there is further clarity, we are limiting platform activity, including
+  pausing client withdrawals". They also wrote that they had learned about the FTX collapse via Twitter.BlockFi founder and
+  COO Flori Marquez had tweeted only two days prior, just after the FTX news, that "All BlockFi products are fully operational.
+  BlockFi is an independent business entity. We have a $400MM line of credit from FTX.US (not FTX.com) and will remain an
+  independent entity until at least July 2023. We are processing all client withdrawals."

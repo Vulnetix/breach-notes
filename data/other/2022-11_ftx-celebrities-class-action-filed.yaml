@@ -1,14 +1,13 @@
-source_name: '"Tom Brady, Giselle Bündchen, Larry David &amp; Steph Curry Caught In
-  FTX Crypto Fallout With Class Action Suit"'
+source_name: '"Tom Brady, Giselle Bündchen, Larry David &amp; Steph Curry Caught In FTX Crypto Fallout With Class Action Suit"'
 source_url: https://deadline.com/2022/11/tom-brady-giselle-bundchen-ftx-lawsuit-larry-david-steph-curry-crypto-1235174541/
 date_of_breach: '2022-11-16'
 date_of_disclosure: '2022-11-16'
 category: other
-notes: 'A class action lawsuit has been filed against Sam Bankman-Fried and a slew
-  of celebrities who helped to promote FTX as a safe place to hold and trade crypto.
-  Defendants include Tom Brady, Gisele Bündchen, Steph
+initial_attack_vector: Regulatory / legal action
+vendor_product: FTX celebrities class action filed
+notes: 'A class action lawsuit has been filed against Sam Bankman-Fried and a slew of celebrities who helped to promote FTX
+  as a safe place to hold and trade crypto. Defendants include Tom Brady, Gisele Bündchen, Steph
 
-  Curry, Shaquille O''Neal, David Ortiz, Naomi Osaka, and Larry David.The suit alleges
-  that the celebrities violated the anti-touting provisions of securities laws by
-  failing to disclose the nature, scope, and amount they were compensated to promote
-  the platform.'
+  Curry, Shaquille O''Neal, David Ortiz, Naomi Osaka, and Larry David.The suit alleges that the celebrities violated the anti-touting
+  provisions of securities laws by failing to disclose the nature, scope, and amount they were compensated to promote the
+  platform.'

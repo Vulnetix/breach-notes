@@ -3,12 +3,14 @@ source_url: https://twitter.com/CertiKAlert/status/1779834754289779178
 date_of_breach: '2024-04-15'
 date_of_disclosure: '2024-04-15'
 category: data-leak
-notes: 'Grand Base, a real world assets platform built on the Base layer-2 blockchain,
-  has seen $2 million exit the platform in a hack or rug pull.The team behind the
-  project claimed that the deployer wallet had been compromised, allowing an attacker
-  to drain the project''s liquidity pool. Altogether, 615 ETH (~$2 million) was taken
-  from the project.Grand Base is a platform where users can trade "gAssets", which
-  are crypto tokens that represent stocks in tech companies including Amazon, Apple,
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Grand Base theft
+blockchain: ethereum
+financial_loss_usd: 1972305
+notes: 'Grand Base, a real world assets platform built on the Base layer-2 blockchain, has seen $2 million exit the platform
+  in a hack or rug pull.The team behind the project claimed that the deployer wallet had been compromised, allowing an attacker
+  to drain the project''s liquidity pool. Altogether, 615 ETH (~$2 million) was taken from the project.Grand Base is a platform
+  where users can trade "gAssets", which are crypto tokens that represent stocks in tech companies including Amazon, Apple,
   Google, Meta, and Microsoft.
 
 

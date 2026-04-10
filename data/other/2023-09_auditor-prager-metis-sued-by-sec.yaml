@@ -1,16 +1,14 @@
-source_name: '"SEC Charges International Accounting Firm Prager Metis with Hundreds
-  of Auditor Independence Violations"'
+source_name: '"SEC Charges International Accounting Firm Prager Metis with Hundreds of Auditor Independence Violations"'
 source_url: https://www.sec.gov/news/press-release/2023-214
 date_of_breach: '2023-09-29'
 date_of_disclosure: '2023-09-29'
 category: other
-notes: The U.S. Securities and Exchange Commission filed a lawsuit against auditor
-  Prager Metis, who they allege violated auditor independence rules and aided and
-  abetted their clients' violations of federal securities laws. According to the SEC,
-  Prager Metis included indemnification provisions in more than 200 audits, reviews,
-  and exams, which renders the firm no longer independent in its investigations of
-  those clients.Prager Metis is among the auditors who audited FTX, and was noted
-  by FTX's CEO-in-bankruptcy John J. Ray III for advertising itself as "the first
-  CPA firm to officially open its headquarters inside the metaverse".None of the clients
-  involved with the faulty audits were disclosed in the lawsuit, and the SEC has not
-  issued any statements connecting the charges to the FTX collapse.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Auditor Prager Metis sued by SEC
+notes: The U.S. Securities and Exchange Commission filed a lawsuit against auditor Prager Metis, who they allege violated
+  auditor independence rules and aided and abetted their clients' violations of federal securities laws. According to the
+  SEC, Prager Metis included indemnification provisions in more than 200 audits, reviews, and exams, which renders the firm
+  no longer independent in its investigations of those clients.Prager Metis is among the auditors who audited FTX, and was
+  noted by FTX's CEO-in-bankruptcy John J. Ray III for advertising itself as "the first CPA firm to officially open its headquarters
+  inside the metaverse".None of the clients involved with the faulty audits were disclosed in the lawsuit, and the SEC has
+  not issued any statements connecting the charges to the FTX collapse.

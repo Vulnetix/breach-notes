@@ -3,20 +3,19 @@ source_url: https://twitter.com/carsonturner/status/1477520574620606465
 date_of_breach: '2022-01-01'
 date_of_disclosure: '2022-01-01'
 category: other
-notes: 'Carson Turner accused ACYCapital of "exploiting @BoredApeYC through a glitch
-  in @rarible" after they bought his Bored Ape NFT that he had listed for sale (and
-  which he has apparently dubbed "Joe RogApe", cringe). Evidently, if a person transfers
-  an NFT that is listed for sale on OpenSea out of their wallet and back again, it
-  appears not to be for sale despite still being available to buyers. Some people
-  have mistakenly thought they could use this "hack" to delist NFTs if they change
-  their mind about selling them, in order to avoid the gas fees associated with canceling
-  a sale. This "glitch" resulted in Turner''s Bored Ape #2643 being bought even though
-  he thought it was no longer for sale, and he ended up spending 10 ETH (about $38,000)
-  to get it back. Twitter user lexomis wrote, "On the human side this kinda is a bummer
-  but it isn''t a hack or theft or an exploit. It''s being your own bank level stuff.
-  To be your own bank requires you to understand a lot of these nuances...." It''s
-  hard for me to feel too bad for Turner, though, given he found himself with $1.1
-  million after "winning the NFT lottery" in August.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Carson Turner NFT loss
+financial_loss_usd: 38000
+notes: 'Carson Turner accused ACYCapital of "exploiting @BoredApeYC through a glitch in @rarible" after they bought his Bored
+  Ape NFT that he had listed for sale (and which he has apparently dubbed "Joe RogApe", cringe). Evidently, if a person transfers
+  an NFT that is listed for sale on OpenSea out of their wallet and back again, it appears not to be for sale despite still
+  being available to buyers. Some people have mistakenly thought they could use this "hack" to delist NFTs if they change
+  their mind about selling them, in order to avoid the gas fees associated with canceling a sale. This "glitch" resulted in
+  Turner''s Bored Ape #2643 being bought even though he thought it was no longer for sale, and he ended up spending 10 ETH
+  (about $38,000) to get it back. Twitter user lexomis wrote, "On the human side this kinda is a bummer but it isn''t a hack
+  or theft or an exploit. It''s being your own bank level stuff. To be your own bank requires you to understand a lot of these
+  nuances...." It''s hard for me to feel too bad for Turner, though, given he found himself with $1.1 million after "winning
+  the NFT lottery" in August.
 
 
   Total loss estimated at $38,000.'

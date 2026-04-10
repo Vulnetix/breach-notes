@@ -3,9 +3,9 @@ source_url: https://www.vice.com/en/article/wxdnxy/amazons-server-outage-took-do
 date_of_breach: '2021-12-08'
 date_of_disclosure: '2021-12-08'
 category: other
-notes: During a widespread AWS outage, supposedly-decentralized DeFi platform dYdX
-  went down. dYdX is an Ethereum exchange that touts itself as the "world's leading
-  decentralized exchange", and indeed it is estimated to be the fourth largest exchange.
-  Whether it's decentralized or not, however, is much more in question following the
-  outage. Other major platforms (that are more known to run on centralized infrastructure)
-  such as Binance and Coinbase were also affected by the AWS blip.
+vendor_product: dYdX outage
+blockchain: ethereum
+notes: During a widespread AWS outage, supposedly-decentralized DeFi platform dYdX went down. dYdX is an Ethereum exchange
+  that touts itself as the "world's leading decentralized exchange", and indeed it is estimated to be the fourth largest exchange.
+  Whether it's decentralized or not, however, is much more in question following the outage. Other major platforms (that are
+  more known to run on centralized infrastructure) such as Binance and Coinbase were also affected by the AWS blip.

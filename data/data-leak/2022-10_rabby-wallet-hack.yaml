@@ -3,15 +3,16 @@ source_url: https://twitter.com/Rabby_io/status/1579877793642737665
 date_of_breach: '2022-10-11'
 date_of_disclosure: '2022-10-11'
 category: data-leak
-notes: 'Rabby Swap, a feature of the Rabby crypto wallet, was exploited a month after
-  it was first rolled out. An attacker discovered an apparent vulnerability in the
-  Rabby Swap smart contract that enabled them to arbitrarily transfer other users''
-  funds. Rabby urged its users to revoke approvals for the contracts across multiple
-  chains.The attack impacted assets on multiple chains. The attacker tumbled 114 ETH
-  (~$146,000) through Tornado Cash shortly after the hack, along with 179 BNB (~$48,500).
-  The full extent of the attack is still being measured. The buggy contract that enabled
-  the attack had been audited by blockchain security firm PeckShield, but the vulnerability
-  had apparently gone undetected.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Rabby Wallet
+blockchain: ethereum
+financial_loss_usd: 194500
+notes: 'Rabby Swap, a feature of the Rabby crypto wallet, was exploited a month after it was first rolled out. An attacker
+  discovered an apparent vulnerability in the Rabby Swap smart contract that enabled them to arbitrarily transfer other users''
+  funds. Rabby urged its users to revoke approvals for the contracts across multiple chains.The attack impacted assets on
+  multiple chains. The attacker tumbled 114 ETH (~$146,000) through Tornado Cash shortly after the hack, along with 179 BNB
+  (~$48,500). The full extent of the attack is still being measured. The buggy contract that enabled the attack had been audited
+  by blockchain security firm PeckShield, but the vulnerability had apparently gone undetected.
 
 
   Total loss estimated at $194,500.'

@@ -3,14 +3,15 @@ source_url: https://www.coindesk.com/tech/2023/06/27/chibi-finance-rug-pulls-use
 date_of_breach: '2023-06-27'
 date_of_disclosure: '2023-06-27'
 category: other
-notes: 'Chibi Finance was a defi project built on the Arbitrum Ethereum layer 2 network.
-  Its Twitter bio described the project as "ChibiVerse For Chads, by Chibis. Compound
-  dem yields!" What''s not to love.On June 27, the developers set the governance role
-  to a malicious smart contract, which used a "panic" function to withdraw funds from
-  the Chibi project. They then quickly swapped the funds to 555 wETH (~$1.05 million),
-  bridged them to the Ethereum main chain, and laundered them through Tornado Cash.Chibi
-  Finance has since deleted its website and Twitter profile. Meanwhile, some crypto
-  influencers who had promoted the project caught heat for doing so.
+vendor_product: Chibi Finance
+blockchain: ethereum
+financial_loss_usd: 1000000
+notes: 'Chibi Finance was a defi project built on the Arbitrum Ethereum layer 2 network. Its Twitter bio described the project
+  as "ChibiVerse For Chads, by Chibis. Compound dem yields!" What''s not to love.On June 27, the developers set the governance
+  role to a malicious smart contract, which used a "panic" function to withdraw funds from the Chibi project. They then quickly
+  swapped the funds to 555 wETH (~$1.05 million), bridged them to the Ethereum main chain, and laundered them through Tornado
+  Cash.Chibi Finance has since deleted its website and Twitter profile. Meanwhile, some crypto influencers who had promoted
+  the project caught heat for doing so.
 
 
   Total loss estimated at $1,000,000.'

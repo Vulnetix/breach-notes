@@ -3,21 +3,20 @@ source_url: https://twitter.com/MagicEden/status/1610659356693106696
 date_of_breach: '2023-01-04'
 date_of_disclosure: '2023-01-04'
 category: data-leak
-notes: 'Magic Eden, as with many NFT marketplaces, has a verification layer that shows
-  popular projects as "verified" to reduce the chances of people being tricked by
-  NFTs with the same images and names that are not a part of the official collection.
-  However, someone was able to list NFTs they had arbitrarily created on the Magic
-  Eden marketplace in such a way that they appeared as though they were a part of
-  a verified collection of "ABCs" NFTs. The issue also affected a handful of other
-  collections, including the popular "y00ts" collection.Magic Eden acknowledged the
-  issue in a tweet, asking users to contact their support if they had bought any of
-  the fake NFTs. Various users on Twitter had reported buying the spoofed NFTs, paying
-  20–50 SOL ($266–$666) for fake NFTs that appeared as though they were a part of
-  a verified collection that usually sold for around 165 SOL ($2,200).Clicking in
-  to the NFT details showed that they were a part of a different collection that was
-  not verified, but they appeared in listings among the verified NFTs, and were in
-  some cases quickly purchased by collectors who thought they were taking advantage
-  of a seller''s mistake in listing the NFT.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Magic Eden lists fake NFTs
+blockchain: solana
+financial_loss_usd: 5000
+notes: 'Magic Eden, as with many NFT marketplaces, has a verification layer that shows popular projects as "verified" to reduce
+  the chances of people being tricked by NFTs with the same images and names that are not a part of the official collection.
+  However, someone was able to list NFTs they had arbitrarily created on the Magic Eden marketplace in such a way that they
+  appeared as though they were a part of a verified collection of "ABCs" NFTs. The issue also affected a handful of other
+  collections, including the popular "y00ts" collection.Magic Eden acknowledged the issue in a tweet, asking users to contact
+  their support if they had bought any of the fake NFTs. Various users on Twitter had reported buying the spoofed NFTs, paying
+  20–50 SOL ($266–$666) for fake NFTs that appeared as though they were a part of a verified collection that usually sold
+  for around 165 SOL ($2,200).Clicking in to the NFT details showed that they were a part of a different collection that was
+  not verified, but they appeared in listings among the verified NFTs, and were in some cases quickly purchased by collectors
+  who thought they were taking advantage of a seller''s mistake in listing the NFT.
 
 
   Total loss estimated at $5,000.'

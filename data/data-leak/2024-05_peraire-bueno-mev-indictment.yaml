@@ -1,27 +1,25 @@
-source_name: '"Two Brothers Arrested for Attacking Ethereum Blockchain and Stealing
-  $25M in Cryptocurrency"'
+source_name: '"Two Brothers Arrested for Attacking Ethereum Blockchain and Stealing $25M in Cryptocurrency"'
 source_url: https://www.justice.gov/opa/pr/two-brothers-arrested-attacking-ethereum-blockchain-and-stealing-25m-cryptocurrency
 date_of_breach: '2024-05-15'
 date_of_disclosure: '2024-05-15'
 category: data-leak
-notes: 'Two brothers, Anton and James Peraire-Bueno, were indicted for a theft involving
-  MEV — maximal extractable value. MEV involves previewing upcoming transactions on
-  a blockchain and taking actions to extract additional profits — which can sometimes
-  be substantial — based on that information.According to the Justice Department,
-  the Peraire-Buenos exploited a flaw in popular MEV software called "MEV-boost",
-  which is used by most Ethereum validators. By creating their own validators and
-  "bait transactions", they were able to trick MEV bots into proposing transactions
-  involving illiquid cryptocurrencies, which the brothers then frontran. They were
-  able to create false signatures that tricked a MEV-boost relay into releasing information
-  about upcoming blocks that they were able to tamper with.The brothers were charged
-  with conspiracy to commit wire fraud, wire fraud, and conspiracy to commit money
-  laundering, and face up to 20 years in prison for each charge.The Justice Department
-  is describing the case as a "first-of-its-kind manipulation of the Ethereum blockchain".
-  The case is an interesting one, as some believe the practice of MEV itself exploits
-  Ethereum users. Others believe anything you can do with code should be allowed —
-  "code is law". However, by signing false transactions and tricking the relay into
-  releasing private information, the brothers'' actions do seem to go beyond simply
-  making profits in a "code is law" Wild West, and into the realm of actual fraud.
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Peraire-Bueno MEV indictment
+blockchain: ethereum
+financial_loss_usd: 25000000
+notes: 'Two brothers, Anton and James Peraire-Bueno, were indicted for a theft involving MEV — maximal extractable value.
+  MEV involves previewing upcoming transactions on a blockchain and taking actions to extract additional profits — which can
+  sometimes be substantial — based on that information.According to the Justice Department, the Peraire-Buenos exploited a
+  flaw in popular MEV software called "MEV-boost", which is used by most Ethereum validators. By creating their own validators
+  and "bait transactions", they were able to trick MEV bots into proposing transactions involving illiquid cryptocurrencies,
+  which the brothers then frontran. They were able to create false signatures that tricked a MEV-boost relay into releasing
+  information about upcoming blocks that they were able to tamper with.The brothers were charged with conspiracy to commit
+  wire fraud, wire fraud, and conspiracy to commit money laundering, and face up to 20 years in prison for each charge.The
+  Justice Department is describing the case as a "first-of-its-kind manipulation of the Ethereum blockchain". The case is
+  an interesting one, as some believe the practice of MEV itself exploits Ethereum users. Others believe anything you can
+  do with code should be allowed — "code is law". However, by signing false transactions and tricking the relay into releasing
+  private information, the brothers'' actions do seem to go beyond simply making profits in a "code is law" Wild West, and
+  into the realm of actual fraud.
 
 
   Total loss estimated at $25,000,000.'

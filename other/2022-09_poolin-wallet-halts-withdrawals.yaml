@@ -3,14 +3,12 @@ source_url: https://help.poolin.me/hc/en-us/articles/10207618877977-Announcement
 date_of_breach: '2022-09-05'
 date_of_disclosure: '2022-09-05'
 category: other
-notes: PoolinWallet is a crypto wallet service provided by Poolin, which runs the
-  fourth-largest Bitcoin mining pool and third-largest Ethereum mining pool in the
-  world. In the announcement they wrote that "Poolin Wallet is currently facing some
-  liquidity problems due to recent increasing demands on withdrawals. But please be
-  assured, all user assets are safe and the company's net worth is positive." The
-  firm also urged users to ignore rumors of a rug pull.Poolin users had been complaining
-  about issues withdrawing from their Poolin wallets since at least August, which
-  had sparked rumors of liquidity problems prior to the announcement. Poolin said
-  in their announcement that they would announce their plans to resume withdrawals
-  within two weeks. However, a week later, they instead told customers they would
-  be receiving "IOU" tokens.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Poolin
+notes: PoolinWallet is a crypto wallet service provided by Poolin, which runs the fourth-largest Bitcoin mining pool and third-largest
+  Ethereum mining pool in the world. In the announcement they wrote that "Poolin Wallet is currently facing some liquidity
+  problems due to recent increasing demands on withdrawals. But please be assured, all user assets are safe and the company's
+  net worth is positive." The firm also urged users to ignore rumors of a rug pull.Poolin users had been complaining about
+  issues withdrawing from their Poolin wallets since at least August, which had sparked rumors of liquidity problems prior
+  to the announcement. Poolin said in their announcement that they would announce their plans to resume withdrawals within
+  two weeks. However, a week later, they instead told customers they would be receiving "IOU" tokens.

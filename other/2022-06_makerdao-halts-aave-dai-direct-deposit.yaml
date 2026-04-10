@@ -3,13 +3,11 @@ source_url: https://www.bloomberg.com/news/articles/2022-06-18/defi-platform-mak
 date_of_breach: '2022-06-17'
 date_of_disclosure: '2022-06-17'
 category: other
-notes: MakerDAO voted to disable the Aave—DAI direct deposit module, which previously
-  allowed users to mint DAI (MakerDAO's stablecoin) and deposit it into the Aave lending
-  protocol. According to a MakerDAO team member, 100 million of the 200 million DAI
-  borrowed on the Aave project is borrowed by Celsius and collateralized primarily
-  by stETH. Celsius paused withdrawals several days before MakerDAO's decision, and
-  is apparently underwater. stETH is Lido-staked Ether, which also has been encountering
-  issues amidst the market downturn and heightened withdrawal pressures.The same MakerDAO
-  team member wrote in the forum that "Contagion risks in DeFi are increasing", and
-  that the project wanted to "cut exposure" to projects that were in trouble. "We
-  could be dealing with Lehman's moment in crypto," he wrote.
+vendor_product: MakerDAO
+notes: MakerDAO voted to disable the Aave—DAI direct deposit module, which previously allowed users to mint DAI (MakerDAO's
+  stablecoin) and deposit it into the Aave lending protocol. According to a MakerDAO team member, 100 million of the 200 million
+  DAI borrowed on the Aave project is borrowed by Celsius and collateralized primarily by stETH. Celsius paused withdrawals
+  several days before MakerDAO's decision, and is apparently underwater. stETH is Lido-staked Ether, which also has been encountering
+  issues amidst the market downturn and heightened withdrawal pressures.The same MakerDAO team member wrote in the forum that
+  "Contagion risks in DeFi are increasing", and that the project wanted to "cut exposure" to projects that were in trouble.
+  "We could be dealing with Lehman's moment in crypto," he wrote.

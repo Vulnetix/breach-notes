@@ -3,11 +3,10 @@ source_url: https://www.bloomberg.com/news/articles/2024-03-19/exchange-investig
 date_of_breach: '2024-03-19'
 date_of_disclosure: '2024-03-19'
 category: other
-notes: A "very small number of accounts" were able to crash the bitcoin price on the
-  BitMEX exchange from its roughly $66,000 price to as low as $8,900. BitMEX attributed
-  the incident to "aggressive selling behavior" by that small group.The incident underscores
-  the thinness of the bitcoin markets on some cryptocurrency exchanges, and the ease
-  with which a few whales can manipulate token prices.BitMEX used to be among the
-  largest cryptocurrency trading platforms, though its popularity diminished after
-  its founders were hit with criminal charges in 2020 for violations of the Bank Secrecy
-  Act.
+vendor_product: Bitcoin flash crashes on BitMEX
+blockchain: bitcoin
+notes: A "very small number of accounts" were able to crash the bitcoin price on the BitMEX exchange from its roughly $66,000
+  price to as low as $8,900. BitMEX attributed the incident to "aggressive selling behavior" by that small group.The incident
+  underscores the thinness of the bitcoin markets on some cryptocurrency exchanges, and the ease with which a few whales can
+  manipulate token prices.BitMEX used to be among the largest cryptocurrency trading platforms, though its popularity diminished
+  after its founders were hit with criminal charges in 2020 for violations of the Bank Secrecy Act.

@@ -1,12 +1,12 @@
-source_name: '"South Korea issues arrest warrant for developer of failed cryptocurrency
-  Luna"'
+source_name: '"South Korea issues arrest warrant for developer of failed cryptocurrency Luna"'
 source_url: https://www.cnn.com/2022/09/14/business/south-korea-cryptocurrency-luna-arrest-intl-hnk/index.html
 date_of_breach: '2022-09-14'
 date_of_disclosure: '2022-09-14'
 category: other
-notes: A South Korean court has issued a warrant for the arrest of Do Kwon, the founder
-  of the Terra ecosystem, as well as five other people. According to Bloomberg the
-  allegations include violations of Korea's capital markets law.Kwon and the others
-  named in the warrant are currently in Singapore. In June, Korea banned current and
-  former Terraform Labs employees from leaving the country, and in July Korean authorities
-  raided multiple exchanges in connection to their investigation.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Do Kwon arrest warrant issued
+blockchain: terra
+notes: A South Korean court has issued a warrant for the arrest of Do Kwon, the founder of the Terra ecosystem, as well as
+  five other people. According to Bloomberg the allegations include violations of Korea's capital markets law.Kwon and the
+  others named in the warrant are currently in Singapore. In June, Korea banned current and former Terraform Labs employees
+  from leaving the country, and in July Korean authorities raided multiple exchanges in connection to their investigation.

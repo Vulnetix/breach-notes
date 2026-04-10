@@ -3,10 +3,10 @@ source_url: https://www.bloomberg.com/news/articles/2022-07-11/three-arrows-foun
 date_of_breach: '2022-07-08'
 date_of_disclosure: '2022-07-08'
 category: other
-notes: Kyle Davies and Zhu Su, the founders of Three Arrows Capital, have apparently
-  disappeared after the firm entered bankruptcy proceedings. Although lawyers for
-  the duo have said they intend to cooperate with the proceedings, their whereabouts
-  are unknown, and the liquidators' lawyers stated they had "not yet received any
-  meaningful cooperation" from either. Those lawyers have expressed concerns that
-  the pair might make off with the remaining funds — a substantial portion of which
-  are cash, cryptocurrencies, and NFTs, and could be easily transferred.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Three Arrows Capital founders abscond
+notes: Kyle Davies and Zhu Su, the founders of Three Arrows Capital, have apparently disappeared after the firm entered bankruptcy
+  proceedings. Although lawyers for the duo have said they intend to cooperate with the proceedings, their whereabouts are
+  unknown, and the liquidators' lawyers stated they had "not yet received any meaningful cooperation" from either. Those lawyers
+  have expressed concerns that the pair might make off with the remaining funds — a substantial portion of which are cash,
+  cryptocurrencies, and NFTs, and could be easily transferred.

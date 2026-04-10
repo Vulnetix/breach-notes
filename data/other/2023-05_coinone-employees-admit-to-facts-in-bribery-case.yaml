@@ -1,18 +1,15 @@
-source_name: '"Coinone exec admits to ‘facts’ prosecutors shared in South Korea corruption
-  trial"'
+source_name: '"Coinone exec admits to ‘facts’ prosecutors shared in South Korea corruption trial"'
 source_url: https://protos.com/coinone-exec-admits-to-facts-prosecutors-shared-in-south-korea-corruption-trial/
 date_of_breach: '2023-05-26'
 date_of_disclosure: '2023-05-26'
 category: other
-notes: A lawyer for a broker and the former director of the South Korean cryptocurrency
-  exchange Coinone have told a court that their clients "admit the facts of the prosecution".
-  The director, "Mr. Jeon", is accused of accepting more than ₩2 billion (~$1.5 million)
-  in bribes in exchange for listing shady tokens on the exchange. In one case, the
-  exchange was the only platform to list a token called "Furiever Coin", which has
-  been linked to a kidnapping and murder investigation in Seoul.Four executives were
-  arrested in connection to the investigation in April, under suspicion that they
-  had received ₩2.4 billion (~$2.2 million) in bribes in exchange for listing dozens
-  of coins.Coinone is one of the most popular South Korean cryptocurrency exchanges.
-  In July 2022, it was among the seven exchanges raided by Korean authorities in the
-  wake of the Terra/Luna collapse, as the country began applying harsher scrutiny
-  to crypto platforms.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Coinone employees "admit to facts" in bribery case
+notes: A lawyer for a broker and the former director of the South Korean cryptocurrency exchange Coinone have told a court
+  that their clients "admit the facts of the prosecution". The director, "Mr. Jeon", is accused of accepting more than ₩2
+  billion (~$1.5 million) in bribes in exchange for listing shady tokens on the exchange. In one case, the exchange was the
+  only platform to list a token called "Furiever Coin", which has been linked to a kidnapping and murder investigation in
+  Seoul.Four executives were arrested in connection to the investigation in April, under suspicion that they had received
+  ₩2.4 billion (~$2.2 million) in bribes in exchange for listing dozens of coins.Coinone is one of the most popular South
+  Korean cryptocurrency exchanges. In July 2022, it was among the seven exchanges raided by Korean authorities in the wake
+  of the Terra/Luna collapse, as the country began applying harsher scrutiny to crypto platforms.

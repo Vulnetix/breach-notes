@@ -1,14 +1,15 @@
-source_name: '"United States Files Forfeiture Action to Recover Cryptocurrency Traceable
-  to Pig Butchering Romance Scam"'
+source_name: '"United States Files Forfeiture Action to Recover Cryptocurrency Traceable to Pig Butchering Romance Scam"'
 source_url: https://www.justice.gov/usao-ma/pr/united-states-files-forfeiture-action-recover-cryptocurrency-traceable-pig-butchering
 date_of_breach: '2024-03-13'
 date_of_disclosure: '2024-03-13'
 category: data-leak
-notes: 'The U.S. Attorney''s Office in the District of Massachusetts announced that
-  they had filed a civil forfeiture action to seize cryptocurrency priced at around
-  $2.3 million from two Binance accounts. Those accounts had received cryptocurrency
-  of various kinds from at least 37 American victims, one of whom was based in Massachusetts
-  and who lost $400,000 in crypto assets to the scammers.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Massachusetts crypto romance
+financial_loss_usd: 2300000
+notes: 'The U.S. Attorney''s Office in the District of Massachusetts announced that they had filed a civil forfeiture action
+  to seize cryptocurrency priced at around $2.3 million from two Binance accounts. Those accounts had received cryptocurrency
+  of various kinds from at least 37 American victims, one of whom was based in Massachusetts and who lost $400,000 in crypto
+  assets to the scammers.
 
 
   Total loss estimated at $2,300,000.'

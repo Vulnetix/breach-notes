@@ -3,15 +3,13 @@ source_url: https://www.aex.com/announcement/en/blog/2022/06/16/12124.html/
 date_of_breach: '2022-06-16'
 date_of_disclosure: '2022-06-16'
 category: other
-notes: The AEX crypto exchange is among a growing number of exchanges to limit customer
-  withdrawals amidst a crypto downturn. In an announcement, AEX wrote that "we honestly
-  admit that AEX Global platform has met some problems, which involve a bank run of
-  more than 1 billion USD".The exchange then announced they would be delaying the
-  withdrawals of most popular cryptocurrencies for 36 hours "to avoid unnecessary
-  panic withdrawal". A follow-up blog post the next day announced they would be allowing
-  users to withdraw, but only up to $500 a day. They later adjusted the withdrawal
-  limits to a more flexible model, but left them in place.As an apology to their customers,
-  AEX promised "AEX Shareholder Badges" to the people with the most funds in their
-  platform. They also announced a Texas Hold'em Carnival to show their "appreciation"
-  of their users, but they canceled it the same day. Perhaps focusing on the liquidity
-  issue is the right choice...
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: AEX limits withdrawals
+notes: The AEX crypto exchange is among a growing number of exchanges to limit customer withdrawals amidst a crypto downturn.
+  In an announcement, AEX wrote that "we honestly admit that AEX Global platform has met some problems, which involve a bank
+  run of more than 1 billion USD".The exchange then announced they would be delaying the withdrawals of most popular cryptocurrencies
+  for 36 hours "to avoid unnecessary panic withdrawal". A follow-up blog post the next day announced they would be allowing
+  users to withdraw, but only up to $500 a day. They later adjusted the withdrawal limits to a more flexible model, but left
+  them in place.As an apology to their customers, AEX promised "AEX Shareholder Badges" to the people with the most funds
+  in their platform. They also announced a Texas Hold'em Carnival to show their "appreciation" of their users, but they canceled
+  it the same day. Perhaps focusing on the liquidity issue is the right choice...

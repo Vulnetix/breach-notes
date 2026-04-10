@@ -3,10 +3,9 @@ source_url: https://twitter.com/Bojjisama_AoA/status/1482292095335673860
 date_of_breach: '2022-01-15'
 date_of_disclosure: '2022-01-15'
 category: other
-notes: Shortly after it was discovered that the images used for the NFT project "InvertedCulture"
-  were nothing more than unauthorized flipped copies from a different NFT project,
-  DNA Cultura, the creator deleted the project's Twitter account and transferred funds
-  out of the project. Simultaneously, another project called "MadHashers" also deleted
-  their Twitter account and drained funds. It didn't take long for people to realize
-  that the money from both projects was going to the same account, suggesting that
-  that the same person was behind both scams.
+vendor_product: InvertedCulture and MadHashers
+notes: Shortly after it was discovered that the images used for the NFT project "InvertedCulture" were nothing more than unauthorized
+  flipped copies from a different NFT project, DNA Cultura, the creator deleted the project's Twitter account and transferred
+  funds out of the project. Simultaneously, another project called "MadHashers" also deleted their Twitter account and drained
+  funds. It didn't take long for people to realize that the money from both projects was going to the same account, suggesting
+  that that the same person was behind both scams.

@@ -3,8 +3,9 @@ source_url: https://www.sheppnews.com.au/aap-finance/aust-crypto-exchange-suspen
 date_of_breach: '2022-11-15'
 date_of_disclosure: '2022-11-15'
 category: other
-notes: The Brisbane-based cryptocurrency exchange Digital Surge announced that they
-  would be suspending deposits and withdrawals. "Due to the impact of FTX Australia's
-  administration, we are not able to operate business as usual and have suspended
-  all deposits and withdrawals until further notice," they wrote. They also disclosed
-  in an email that they had "some limited exposure to FTX".
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Digital Surge
+notes: The Brisbane-based cryptocurrency exchange Digital Surge announced that they would be suspending deposits and withdrawals.
+  "Due to the impact of FTX Australia's administration, we are not able to operate business as usual and have suspended all
+  deposits and withdrawals until further notice," they wrote. They also disclosed in an email that they had "some limited
+  exposure to FTX".

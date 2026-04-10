@@ -3,18 +3,18 @@ source_url: https://twitter.com/0xQuit/status/1511198290565509120
 date_of_breach: '2022-04-04'
 date_of_disclosure: '2022-04-04'
 category: data-leak
-notes: 'A trader who owned a Bored Ape and two Mutant Ape NFTs apparently reached
-  a deal to trade them for three different Bored Ape NFTs. Because OpenSea doesn''t
-  support swapping NFTs directly, only buying and selling them for ETH, the traders
-  used a less-known platform called KiwiSwap to do the trade. Like many platforms,
-  KiwiSwap aims to help users spot faked NFTs by showing a "verified" badge — however,
-  because the platform shows the badge overlaid on the NFT image, a scammer was able
-  to create imitation Bored Apes that included the same checkmark as a part of the
-  image, making them appear legitimate. KiwiSwap also does not include functionality
-  that would allow a user to click through to verify the NFT is the one it claims
-  to be.When the user confirmed the transaction, they transferred their three pricey
-  apes to the scammer, receiving three worthless ones in return. NFT trader 0xQuit
-  estimated the loss at around $587,000.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: s27 NFT theft
+blockchain: ethereum
+financial_loss_usd: 587000
+notes: 'A trader who owned a Bored Ape and two Mutant Ape NFTs apparently reached a deal to trade them for three different
+  Bored Ape NFTs. Because OpenSea doesn''t support swapping NFTs directly, only buying and selling them for ETH, the traders
+  used a less-known platform called KiwiSwap to do the trade. Like many platforms, KiwiSwap aims to help users spot faked
+  NFTs by showing a "verified" badge — however, because the platform shows the badge overlaid on the NFT image, a scammer
+  was able to create imitation Bored Apes that included the same checkmark as a part of the image, making them appear legitimate.
+  KiwiSwap also does not include functionality that would allow a user to click through to verify the NFT is the one it claims
+  to be.When the user confirmed the transaction, they transferred their three pricey apes to the scammer, receiving three
+  worthless ones in return. NFT trader 0xQuit estimated the loss at around $587,000.
 
 
   Total loss estimated at $587,000.'

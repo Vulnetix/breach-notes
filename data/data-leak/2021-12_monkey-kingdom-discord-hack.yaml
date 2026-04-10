@@ -3,12 +3,13 @@ source_url: https://twitter.com/commenstar/status/1473310287789162496
 date_of_breach: '2021-12-21'
 date_of_disclosure: '2021-12-21'
 category: data-leak
-notes: "An NFT trader hoping to get in on the \"Monkey Kingdom\" NFT collection was\
-  \ duped by a scam link in the project's official Discord channel, and sent 650 SOL\
-  \ (about $116,000) to a scammer. \"It is important money to my family: my wife,\
-  \ my son\", the victim wrote on Twitter. Another person replied to the tweet to\
-  \ say they too had been duped by the Discord scammer, to the tune of about 19.5\
-  \ SOL (about $3,500). In total, the phishing link netted the attacker about $1.3\
-  \ million. The scam was apparently made possible by a compromise of the \"Grape\
-  \ Protocol\" Discord tools, a hack that was also used to target users of the Fractal\
-  \ project's Discord that same day. \n\nTotal loss estimated at $1,300,000."
+initial_attack_vector: Phishing attack
+vendor_product: Monkey Kingdom Discord
+blockchain: solana
+financial_loss_usd: 1300000
+notes: "An NFT trader hoping to get in on the \"Monkey Kingdom\" NFT collection was duped by a scam link in the project's\
+  \ official Discord channel, and sent 650 SOL (about $116,000) to a scammer. \"It is important money to my family: my wife,\
+  \ my son\", the victim wrote on Twitter. Another person replied to the tweet to say they too had been duped by the Discord\
+  \ scammer, to the tune of about 19.5 SOL (about $3,500). In total, the phishing link netted the attacker about $1.3 million.\
+  \ The scam was apparently made possible by a compromise of the \"Grape Protocol\" Discord tools, a hack that was also used\
+  \ to target users of the Fractal project's Discord that same day. \n\nTotal loss estimated at $1,300,000."

@@ -3,19 +3,19 @@ source_url: https://twitter.com/zachxbt/status/1698712407177150729
 date_of_breach: '2023-09-04'
 date_of_disclosure: '2023-09-04'
 category: data-leak
-notes: 'Attackers managed to make transactions from hot wallets operated by the Stake
-  betting platform, stealing approximately $15.7 million from their Ethereum wallet
-  and around $25.6 million from BSC and Polygon. Blockchain analysis project Cyvers
-  attributed the theft to a private key leak, though Stake co-founder Edward Craven
-  later denied that. Craven claimed that the attack was achieved through a "sophisticated
-  breach" targeting a service the company uses to approve transactions.Stake acknowledged
-  the attack on their Twitter account, writing that "We are investigating and will
-  get the wallets up as soon as they''re completely re-secured."Stake is an Australia-based
-  cryptocurrency casino and sports betting platform that has enjoyed endorsements
-  from various celebrities, and which shelled out $100 million in 2022 for an endorsement
-  deal with Drake.On September 6, the FBI announced that they believed the Lazarus
-  Group was behind the theft. Lazarus is a group of North Korean state-sponsored hackers
-  allegedly responsible for crypto hacks totaling hundreds of millions of dollars.
+initial_attack_vector: Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise
+vendor_product: Stake
+blockchain: bsc, polygon, ethereum
+financial_loss_usd: 41300000
+notes: 'Attackers managed to make transactions from hot wallets operated by the Stake betting platform, stealing approximately
+  $15.7 million from their Ethereum wallet and around $25.6 million from BSC and Polygon. Blockchain analysis project Cyvers
+  attributed the theft to a private key leak, though Stake co-founder Edward Craven later denied that. Craven claimed that
+  the attack was achieved through a "sophisticated breach" targeting a service the company uses to approve transactions.Stake
+  acknowledged the attack on their Twitter account, writing that "We are investigating and will get the wallets up as soon
+  as they''re completely re-secured."Stake is an Australia-based cryptocurrency casino and sports betting platform that has
+  enjoyed endorsements from various celebrities, and which shelled out $100 million in 2022 for an endorsement deal with Drake.On
+  September 6, the FBI announced that they believed the Lazarus Group was behind the theft. Lazarus is a group of North Korean
+  state-sponsored hackers allegedly responsible for crypto hacks totaling hundreds of millions of dollars.
 
 
   Total loss estimated at $41,300,000.'

@@ -3,8 +3,9 @@ source_url: https://www.reuters.com/article/netherlands-coinbase-fine/dutch-cent
 date_of_breach: '2023-01-26'
 date_of_disclosure: '2023-01-26'
 category: other
-notes: The Dutch central bank levied a €3.3 million ($3.6 million) fine against Coinbase,
-  who began operating in the Netherlands without properly registering. The fine is
-  reportedly unusually large, because of Coinbase's prominence and because it had
-  accumulated a significant number of Dutch customers without the proper registration.
-  Coinbase had been noncompliant from November 2020 to August 2022.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Coinbase
+notes: The Dutch central bank levied a €3.3 million ($3.6 million) fine against Coinbase, who began operating in the Netherlands
+  without properly registering. The fine is reportedly unusually large, because of Coinbase's prominence and because it had
+  accumulated a significant number of Dutch customers without the proper registration. Coinbase had been noncompliant from
+  November 2020 to August 2022.

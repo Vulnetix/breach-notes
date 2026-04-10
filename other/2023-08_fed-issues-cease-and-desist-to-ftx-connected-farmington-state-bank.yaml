@@ -3,11 +3,11 @@ source_url: https://www.nytimes.com/2022/11/23/business/ftx-cryptocurrency-bank.
 date_of_breach: '2023-08-18'
 date_of_disclosure: '2023-08-18'
 category: other
-notes: Farmington State Bank, also known as Moonstone Bank, is a tiny Washington state
-  bank that drew scrutiny after the FTX collapse for receiving an outsized investment
-  from the firm. The investment appeared to be an attempt by FTX to gain control of
-  a US bank, and raised questions over how the purchase was approved by federal regulators.Now,
-  the Federal Reserve Board has issued a cease and desist to Farmington State/Moonstone,
-  claiming they have violated the commitments they made while going through the approval
-  process. Despite promises not to do so, the bank engaged in digital asset activity,
-  reportedly working with stablecoin issuers.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Fed issues cease and desist to FTX-connected Farmington State Bank
+notes: Farmington State Bank, also known as Moonstone Bank, is a tiny Washington state bank that drew scrutiny after the FTX
+  collapse for receiving an outsized investment from the firm. The investment appeared to be an attempt by FTX to gain control
+  of a US bank, and raised questions over how the purchase was approved by federal regulators.Now, the Federal Reserve Board
+  has issued a cease and desist to Farmington State/Moonstone, claiming they have violated the commitments they made while
+  going through the approval process. Despite promises not to do so, the bank engaged in digital asset activity, reportedly
+  working with stablecoin issuers.

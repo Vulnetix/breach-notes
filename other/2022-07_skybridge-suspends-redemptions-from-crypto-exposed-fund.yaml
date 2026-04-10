@@ -3,9 +3,9 @@ source_url: https://www.bloomberg.com/news/articles/2022-07-18/scaramucci-halts-
 date_of_breach: '2022-07-18'
 date_of_disclosure: '2022-07-18'
 category: other
-notes: SkyBridge Capital, an investment firm founded by Anthony Scaramucci, reportedly
-  suspended redemptions from its "Legion Strategies" fund. Around 18% of the $230
-  million fund is allocated to crypto-related investments, including Bitcoin and Sam
-  Bankman-Fried's private FTX crypto exchange.The fund is down 30% YTD. According
-  to Scaramucci, the suspension was to avoid "damag[ing] investors that want to stay
-  in the funds" if many investors decide to exit in a less than "orderly" fashion.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: SkyBridge suspends redemptions from crypto-exposed fund
+notes: SkyBridge Capital, an investment firm founded by Anthony Scaramucci, reportedly suspended redemptions from its "Legion
+  Strategies" fund. Around 18% of the $230 million fund is allocated to crypto-related investments, including Bitcoin and
+  Sam Bankman-Fried's private FTX crypto exchange.The fund is down 30% YTD. According to Scaramucci, the suspension was to
+  avoid "damag[ing] investors that want to stay in the funds" if many investors decide to exit in a less than "orderly" fashion.

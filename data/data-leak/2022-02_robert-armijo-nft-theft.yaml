@@ -3,39 +3,32 @@ source_url: https://www.courtlistener.com/docket/63124201/1/armijo-v-ozone-netwo
 date_of_breach: '2022-02-28'
 date_of_disclosure: '2022-02-28'
 category: data-leak
-notes: 'Robert Armijo is the former owner of three valuable NFTs — one Bored Ape and
-  two Mutant Apes — which he bought for a total of around $300,000 between November
-  2021 and January 2022. On February 28, he filed a lawsuit against the NFT marketplaces
-  OpenSea and LooksRare, as well as the company behind the Bored and Mutant Ape projects,
-  Yuga Labs. The lawsuit was filed only ten days after another former Bored Apes owner
-  filed suit against OpenSea for allegedly failing to secure their platform.On February
-  1, he was the victim of a phishing attack in which he lost the three pricey NFTs.
-  He had agreed to trade one of his Mutant Apes for another NFT he was interested
-  in, but he and the prospective buyer had to perform the transaction through a platform
-  other than OpenSea or LooksRare because it was a swap rather than a purchase for
-  ETH. Armijo turned down several suggestions of platforms by the other party, saying
-  he was unfamiliar with them, and instead suggested one of his own choosing. However,
-  the other party was still able to send him a trading link that appeared to be from
-  the site he had suggested, and Armijo approved what turned out to be an illegitimate
-  transaction that allowed the other party to take all three of his NFTs for nothing
-  in return. Armijo alleges that although he quickly realized he''d been phished,
-  he was not able to get OpenSea or LooksRare to freeze sales of the stolen NFTs,
-  and they were flipped for resale within days.Armijo alleges that OpenSea and LooksRare
-  have "utterly failed to protect consumers or do anything to disincentivize or stop
-  the thefts" because they profit from each trade on their platform. He has also named
-  the company behind the Apes NFTs, Yuga Labs, in his lawsuit, stating that they have
-  not done enough to disincentivize theft by failing to "monitor its proprietary and
-  exclusive ape community by denying entry to individuals whose access is predicated
-  on a stolen BAYC NFT". Once again, my heart goes out to the judge hearing this case.In
-  terms of damages, Armijo states he has been "deprived not only of the significant
-  monetary value of the NFTs he owned, but also [has been] strip[ped] of his membership
-  in the BAYC community and the commercialization rights he possessed in his underlying
-  Bored Ape and Mutant Ape images", and as such is seeking damages "in no event less
-  than $6 million". Interestingly, the name Robert Armijo also appears as a defendant
-  in SEC charges from June 2021, where the individual is alleged to have unlawfully
-  sold securities managed by an organization also alleged by the SEC to be a Ponzi
-  scheme. It''s not immediately clear if this is the same person, or someone who shares
-  a name.
+initial_attack_vector: Phishing attack
+vendor_product: Robert Armijo NFT theft
+blockchain: ethereum
+financial_loss_usd: 300000
+notes: 'Robert Armijo is the former owner of three valuable NFTs — one Bored Ape and two Mutant Apes — which he bought for
+  a total of around $300,000 between November 2021 and January 2022. On February 28, he filed a lawsuit against the NFT marketplaces
+  OpenSea and LooksRare, as well as the company behind the Bored and Mutant Ape projects, Yuga Labs. The lawsuit was filed
+  only ten days after another former Bored Apes owner filed suit against OpenSea for allegedly failing to secure their platform.On
+  February 1, he was the victim of a phishing attack in which he lost the three pricey NFTs. He had agreed to trade one of
+  his Mutant Apes for another NFT he was interested in, but he and the prospective buyer had to perform the transaction through
+  a platform other than OpenSea or LooksRare because it was a swap rather than a purchase for ETH. Armijo turned down several
+  suggestions of platforms by the other party, saying he was unfamiliar with them, and instead suggested one of his own choosing.
+  However, the other party was still able to send him a trading link that appeared to be from the site he had suggested, and
+  Armijo approved what turned out to be an illegitimate transaction that allowed the other party to take all three of his
+  NFTs for nothing in return. Armijo alleges that although he quickly realized he''d been phished, he was not able to get
+  OpenSea or LooksRare to freeze sales of the stolen NFTs, and they were flipped for resale within days.Armijo alleges that
+  OpenSea and LooksRare have "utterly failed to protect consumers or do anything to disincentivize or stop the thefts" because
+  they profit from each trade on their platform. He has also named the company behind the Apes NFTs, Yuga Labs, in his lawsuit,
+  stating that they have not done enough to disincentivize theft by failing to "monitor its proprietary and exclusive ape
+  community by denying entry to individuals whose access is predicated on a stolen BAYC NFT". Once again, my heart goes out
+  to the judge hearing this case.In terms of damages, Armijo states he has been "deprived not only of the significant monetary
+  value of the NFTs he owned, but also [has been] strip[ped] of his membership in the BAYC community and the commercialization
+  rights he possessed in his underlying Bored Ape and Mutant Ape images", and as such is seeking damages "in no event less
+  than $6 million". Interestingly, the name Robert Armijo also appears as a defendant in SEC charges from June 2021, where
+  the individual is alleged to have unlawfully sold securities managed by an organization also alleged by the SEC to be a
+  Ponzi scheme. It''s not immediately clear if this is the same person, or someone who shares a name.
 
 
   Total loss estimated at $300,000.'

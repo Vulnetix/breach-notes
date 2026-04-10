@@ -3,12 +3,15 @@ source_url: https://twitter.com/zachxbt/status/1584955933452484613
 date_of_breach: '2022-10-25'
 date_of_disclosure: '2022-10-25'
 category: data-leak
-notes: 'A phishing scammer called "Monkey Drainer" stole around 700 ETH (~$940,000)
-  in 24 hours on October 25, according to blockchain sleuth zachxbt. The scammer used
-  malicious phishing sites to trick users into signing transactions that then drained
-  cryptocurrencies and NFTs from their wallets. Some individual victims lost crypto
-  valued at hundreds of thousands of dollars, and others lost NFT collections. Zachxbt
-  estimated the total amount solen by Monkey Drainer to be around $3.5 million.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Monkey Drainer phishing
+blockchain: ethereum
+financial_loss_usd: 3500000
+notes: 'A phishing scammer called "Monkey Drainer" stole around 700 ETH (~$940,000) in 24 hours on October 25, according to
+  blockchain sleuth zachxbt. The scammer used malicious phishing sites to trick users into signing transactions that then
+  drained cryptocurrencies and NFTs from their wallets. Some individual victims lost crypto valued at hundreds of thousands
+  of dollars, and others lost NFT collections. Zachxbt estimated the total amount solen by Monkey Drainer to be around $3.5
+  million.
 
 
   Total loss estimated at $3,500,000.'

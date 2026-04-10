@@ -1,25 +1,21 @@
-source_name: Two Defendants Charged In Non-Fungible Token (“NFT”) Fraud And Money
-  Laundering Scheme
+source_name: Two Defendants Charged In Non-Fungible Token (“NFT”) Fraud And Money Laundering Scheme
 source_url: https://www.justice.gov/usao-sdny/pr/two-defendants-charged-non-fungible-token-nft-fraud-and-money-laundering-scheme-0
 date_of_breach: '2022-03-24'
 date_of_disclosure: '2022-03-24'
 category: other
-notes: 'On January 9, an ice cream-themed NFT project called "Frosties" made off with
-  $1.1 million in a rug pull only an hour after the NFTs were launched. Less than
-  three months later, the U.S. Attorney''s Office for the Southern District of New
-  York announced that they had charged the two 20-year-old individuals behind the
-  scheme with conspiracy to commit wire fraud and conspiracy to commit money laundering.
-  Although it is bizarrely common to see people question whether NFT rug pulls are
-  actually crimes, the USAO was quite clear: "Rather than providing the benefits advertised
-  to Frosties NFT purchasers, Nguyen and Llacuna transferred the cryptocurrency proceeds
-  of the scheme to various cryptocurrency wallets under their control." The Special
-  Agent in Charge stated, "the same rules apply to an investment in an NFT or a real
-  estate development. You can''t solicit funds for a business opportunity, abandon
-  that business and abscond with money investors provided you."The statement also
-  alleged that the duo were working on another NFT project called "Embers", which
-  they hoped would generate around $1.5 million. The project was set to mint on March
-  26, and the 60,000-member Discord has been thrown into disarray. Some of the community
-  moderators began deleting links to the D.O.J. announcement, and attempted to suggest
-  that the Department of Justice website had been faked to "FUD" the project.The individuals
-  behind the Frosties scheme face charges that each carry a maximum sentence of 20
-  years in prison, if they are convicted.'
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Frosties
+blockchain: ethereum
+notes: 'On January 9, an ice cream-themed NFT project called "Frosties" made off with $1.1 million in a rug pull only an hour
+  after the NFTs were launched. Less than three months later, the U.S. Attorney''s Office for the Southern District of New
+  York announced that they had charged the two 20-year-old individuals behind the scheme with conspiracy to commit wire fraud
+  and conspiracy to commit money laundering. Although it is bizarrely common to see people question whether NFT rug pulls
+  are actually crimes, the USAO was quite clear: "Rather than providing the benefits advertised to Frosties NFT purchasers,
+  Nguyen and Llacuna transferred the cryptocurrency proceeds of the scheme to various cryptocurrency wallets under their control."
+  The Special Agent in Charge stated, "the same rules apply to an investment in an NFT or a real estate development. You can''t
+  solicit funds for a business opportunity, abandon that business and abscond with money investors provided you."The statement
+  also alleged that the duo were working on another NFT project called "Embers", which they hoped would generate around $1.5
+  million. The project was set to mint on March 26, and the 60,000-member Discord has been thrown into disarray. Some of the
+  community moderators began deleting links to the D.O.J. announcement, and attempted to suggest that the Department of Justice
+  website had been faked to "FUD" the project.The individuals behind the Frosties scheme face charges that each carry a maximum
+  sentence of 20 years in prison, if they are convicted.'

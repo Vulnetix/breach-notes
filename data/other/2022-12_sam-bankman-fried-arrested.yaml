@@ -1,10 +1,10 @@
-source_name: '"FTX founder Sam Bankman-Fried arrested in the Bahamas after U.S. files
-  criminal charges"'
+source_name: '"FTX founder Sam Bankman-Fried arrested in the Bahamas after U.S. files criminal charges"'
 source_url: https://www.cnbc.com/2022/12/12/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas-after-us-files-criminal-charges.html
 date_of_breach: '2022-12-12'
 date_of_disclosure: '2022-12-12'
 category: other
-notes: Sam Bankman-Fried has been arrested by Bahamian authorities, who said in a
-  press release that they took the action "follow[ing] receipt of formal notification
-  from the United States that it has filed criminal charges against SBF and is likely
-  to request his extradition".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Sam Bankman-Fried arrested
+notes: Sam Bankman-Fried has been arrested by Bahamian authorities, who said in a press release that they took the action
+  "follow[ing] receipt of formal notification from the United States that it has filed criminal charges against SBF and is
+  likely to request his extradition".

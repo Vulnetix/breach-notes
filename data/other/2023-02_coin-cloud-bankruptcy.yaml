@@ -1,26 +1,23 @@
-source_name: Cash Cloud, Inc. (dba Coin Cloud) Declaration in Support of First Day
-  Motions
+source_name: Cash Cloud, Inc. (dba Coin Cloud) Declaration in Support of First Day Motions
 source_url: https://www.courtlistener.com/docket/66794474/19/cash-cloud-inc/
 date_of_breach: '2023-02-07'
 date_of_disclosure: '2023-02-07'
 category: other
-notes: 'The US-based company Coin Cloud, which operates crypto ATMs in the US and
-  Brazil, filed for bankruptcy on February 7. They are the second largest crypto ATM
-  operator in the world, and also in the US.The company disclosed liabilities between
-  $100 million and $500 million, and assets between $50 million and $100 million.
-  In a filing, they reported they had 5,001–10,000 creditors.By far the largest creditor
-  is Genesis, a crypto lending firm that is also undergoing bankruptcy proceedings.
-  Coin Cloud has a $116 million loan from Genesis, around $108 million of which is
-  unsecured. Coin Cloud also owes a $7.6 million secured debt to crypto lending firm
-  Enigma.According to Coin Cloud, contributing to their bankruptcy was a $35 million
-  deal with a vendor who they allege sold them faulty ATMs in February 2021, and with
-  whom they are in litigation. Furthermore, in September 2021, the firm providing
-  Coin Cloud''s ATM software tried to terminate their software agreement, and pushed
-  a software update that rendered the machines inoperable, causing days- or weeks-long
-  outages. Coin Cloud decided to deploy unfinished ATM software that they had been
-  using internally, and which was quickly hacked for around $6.5 million. Finally,
-  Coin Cloud claims a chief marketing officer they hired lied about his credentials,
-  and then spent $20 million more than he was budgeted.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Coin Cloud bankruptcy
+financial_loss_usd: 123600000
+notes: 'The US-based company Coin Cloud, which operates crypto ATMs in the US and Brazil, filed for bankruptcy on February
+  7. They are the second largest crypto ATM operator in the world, and also in the US.The company disclosed liabilities between
+  $100 million and $500 million, and assets between $50 million and $100 million. In a filing, they reported they had 5,001–10,000
+  creditors.By far the largest creditor is Genesis, a crypto lending firm that is also undergoing bankruptcy proceedings.
+  Coin Cloud has a $116 million loan from Genesis, around $108 million of which is unsecured. Coin Cloud also owes a $7.6
+  million secured debt to crypto lending firm Enigma.According to Coin Cloud, contributing to their bankruptcy was a $35 million
+  deal with a vendor who they allege sold them faulty ATMs in February 2021, and with whom they are in litigation. Furthermore,
+  in September 2021, the firm providing Coin Cloud''s ATM software tried to terminate their software agreement, and pushed
+  a software update that rendered the machines inoperable, causing days- or weeks-long outages. Coin Cloud decided to deploy
+  unfinished ATM software that they had been using internally, and which was quickly hacked for around $6.5 million. Finally,
+  Coin Cloud claims a chief marketing officer they hired lied about his credentials, and then spent $20 million more than
+  he was budgeted.
 
 
   Total loss estimated at $123,600,000.'

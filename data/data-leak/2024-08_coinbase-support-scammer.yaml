@@ -1,24 +1,21 @@
-source_name: '"A Coinbase user thought he called customer support. Instead he lost
-  $100,000 in 20 minutes to scammers"'
+source_name: '"A Coinbase user thought he called customer support. Instead he lost $100,000 in 20 minutes to scammers"'
 source_url: https://fortune.com/crypto/2024/08/15/a-coinbase-user-thought-he-called-customer-support-instead-he-lost-100000-in-20-minutes-to-scammers/
 date_of_breach: '2024-08-15'
 date_of_disclosure: '2024-08-15'
 category: data-leak
-notes: 'After encountering issues trading his cryptocurrency holdings on Coinbase,
-  a man in his 60s decided to contact Coinbase support for help. He Googled "Coinbase"
-  and clicked on a promoted result that displayed a Coinbase support phone number.
-  After calling the number, the man was convinced to share his Coinbase password and
-  to open his online banking account with the person on the other end, who was in
-  fact a scammer impersonating Coinbase''s customer support. By the time the man realized
-  what was happening, thanks to a fraud alert from his bank, he had lost $100,000
-  in bitcoin, ether, and US dollars.Scammers impersonating crypto company support
-  representatives are everywhere on social media and elsewhere. Now, it seems, they
-  are purchasing Google ads to rise to the top of Google search rankings. While Google
-  says they attempt to remove fraudulent advertisers, some slip through the cracks.While
-  phishing attacks like this are prevalent both in crypto and in tradfi, crypto platforms
-  often do not have similar safeguards as major banking platforms to try to thwart
-  unauthorized transactions, nor do they have the same ability to reverse transactions
-  that are made.
+initial_attack_vector: Phishing attack
+vendor_product: Coinbase support
+financial_loss_usd: 100000
+notes: 'After encountering issues trading his cryptocurrency holdings on Coinbase, a man in his 60s decided to contact Coinbase
+  support for help. He Googled "Coinbase" and clicked on a promoted result that displayed a Coinbase support phone number.
+  After calling the number, the man was convinced to share his Coinbase password and to open his online banking account with
+  the person on the other end, who was in fact a scammer impersonating Coinbase''s customer support. By the time the man realized
+  what was happening, thanks to a fraud alert from his bank, he had lost $100,000 in bitcoin, ether, and US dollars.Scammers
+  impersonating crypto company support representatives are everywhere on social media and elsewhere. Now, it seems, they are
+  purchasing Google ads to rise to the top of Google search rankings. While Google says they attempt to remove fraudulent
+  advertisers, some slip through the cracks.While phishing attacks like this are prevalent both in crypto and in tradfi, crypto
+  platforms often do not have similar safeguards as major banking platforms to try to thwart unauthorized transactions, nor
+  do they have the same ability to reverse transactions that are made.
 
 
   Total loss estimated at $100,000.'

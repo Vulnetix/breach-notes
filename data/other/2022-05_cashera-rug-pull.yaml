@@ -3,14 +3,15 @@ source_url: https://web.archive.org/web/20220429231821/http://cashera.io/
 date_of_breach: '2022-05-08'
 date_of_disclosure: '2022-05-08'
 category: other
-notes: 'Cashera was a project claiming to provide a "banking revolution" with its
-  CSR crypto token. The project did many things to try to appear legitimate, including
-  linking to government records showing a company with their name is registered in
-  the UK and undergoing a smart contract audit by AuditRateTech. Their website boasted
-  "partners" including VISA, PayPal, Netflix, and Spotify.Despite all this, the project
-  deployer suddenly minted 23 million CSR tokens, which they swapped for almost $90,000
-  in other assets, crashing the token value in the process by about 70%. The development
-  team also took the project website offline.
+vendor_product: Cashera
+blockchain: bsc
+financial_loss_usd: 89200
+notes: 'Cashera was a project claiming to provide a "banking revolution" with its CSR crypto token. The project did many things
+  to try to appear legitimate, including linking to government records showing a company with their name is registered in
+  the UK and undergoing a smart contract audit by AuditRateTech. Their website boasted "partners" including VISA, PayPal,
+  Netflix, and Spotify.Despite all this, the project deployer suddenly minted 23 million CSR tokens, which they swapped for
+  almost $90,000 in other assets, crashing the token value in the process by about 70%. The development team also took the
+  project website offline.
 
 
   Total loss estimated at $89,200.'

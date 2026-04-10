@@ -3,15 +3,14 @@ source_url: https://www.courtlistener.com/docket/66623942/1/adonis-real-v-yuga-l
 date_of_breach: '2022-12-08'
 date_of_disclosure: '2022-12-08'
 category: other
-notes: 'A class action lawsuit against the company behind Bored Apes and its executives,
-  those on the board of "Ape DAO", a whole host of celebrity promoters and brands,
-  and the MoonPay service has accused the group of a scheme to employ celebrities
-  to promote Bored Ape NFTs and ApeCoin without proper disclosures. The suit goes
-  on to claim that MoonPay, a service known for brokering big-ticket celebrity crypto
-  purchases, was used to obfuscate payoffs, and itself benefitted from the publicity
-  earned from brokering these deals. The suit alleges that each of the "promoters"
-  were compensated in some way, either through direct payments or via financial stake
-  in MoonPay.The promoters listed in the lawsuit are: talent manager Guy Oseary, digital
-  artist Beeple, Madonna, Paris Hilton, Jimmy Fallon and related entities, Justin
-  Bieber, Gwyneth Paltrow, Serena Williams, Diplo, Post Malone, Snoop Dogg, Kevin
-  Hart, the Chainsmokers, Steph Curry, Future, The Weeknd, DJ Khaled, and Adidas.'
+initial_attack_vector: Regulatory / legal action
+vendor_product: Celebrity class action filed
+blockchain: ethereum
+notes: 'A class action lawsuit against the company behind Bored Apes and its executives, those on the board of "Ape DAO",
+  a whole host of celebrity promoters and brands, and the MoonPay service has accused the group of a scheme to employ celebrities
+  to promote Bored Ape NFTs and ApeCoin without proper disclosures. The suit goes on to claim that MoonPay, a service known
+  for brokering big-ticket celebrity crypto purchases, was used to obfuscate payoffs, and itself benefitted from the publicity
+  earned from brokering these deals. The suit alleges that each of the "promoters" were compensated in some way, either through
+  direct payments or via financial stake in MoonPay.The promoters listed in the lawsuit are: talent manager Guy Oseary, digital
+  artist Beeple, Madonna, Paris Hilton, Jimmy Fallon and related entities, Justin Bieber, Gwyneth Paltrow, Serena Williams,
+  Diplo, Post Malone, Snoop Dogg, Kevin Hart, the Chainsmokers, Steph Curry, Future, The Weeknd, DJ Khaled, and Adidas.'

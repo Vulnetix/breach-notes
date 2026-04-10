@@ -3,10 +3,10 @@ source_url: https://announcements.bybit.com/article/notice-on-exit-from-canadian
 date_of_breach: '2023-05-30'
 date_of_disclosure: '2023-05-30'
 category: other
-notes: The cryptocurrency exchange Bybit announced that they would be exiting Canada.
-  The company cited "recent regulatory development" in the country for their decision
-  to stop offering services to Canadian customers.In June 2022, Bybit settled a complaint
-  from the Ontario Securities Commission for operating an unregistered platform and
-  offering unregistered securities to Ontarian investors. The company disgorged CA$2.5
-  million (US$1.9 million) as result. At the time, the OSC stated that Bybit was working
-  to come into compliance with the OSC's requirements.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Bybit exits Canada
+notes: The cryptocurrency exchange Bybit announced that they would be exiting Canada. The company cited "recent regulatory
+  development" in the country for their decision to stop offering services to Canadian customers.In June 2022, Bybit settled
+  a complaint from the Ontario Securities Commission for operating an unregistered platform and offering unregistered securities
+  to Ontarian investors. The company disgorged CA$2.5 million (US$1.9 million) as result. At the time, the OSC stated that
+  Bybit was working to come into compliance with the OSC's requirements.

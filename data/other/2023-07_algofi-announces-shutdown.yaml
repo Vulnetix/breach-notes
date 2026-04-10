@@ -1,17 +1,15 @@
-source_name: '"Algorand decentralized lending protocol Algofi to shut down by end
-  of year"'
+source_name: '"Algorand decentralized lending protocol Algofi to shut down by end of year"'
 source_url: https://cointelegraph.com/news/algorand-decentralized-lending-protocol-algofi-shut-down-by-end-of-year
 date_of_breach: '2023-07-10'
 date_of_disclosure: '2023-07-10'
 category: other
-notes: AlgoFi, a lending protocol built on the Algorand blockchain, announced that
-  they will begin winding down the project. They were vague about the specific reasons,
-  writing only that "a confluence of events has taken place that no longer makes building
-  and maintaining the Algofi platform to the highest standards a viable path for our
-  company". Although AlgoFi is nominally decentralized, like many defi projects, its
-  fate ultimately rested with the small team building it.AlgoFi had raised a seed
-  funding round of $2.8 million in November 2021, and was backed by groups including
-  Union Square Ventures, Arrington XRP Capital, Pillar VC, and Y Combinator. They
-  had also received other investments from groups including Jump Capital and Coinbase
-  Ventures.AlgoFi accounts for over half of the value on the Algorand blockchain,
-  which itself has experienced a marked decline from earlier this year.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: AlgoFi
+notes: AlgoFi, a lending protocol built on the Algorand blockchain, announced that they will begin winding down the project.
+  They were vague about the specific reasons, writing only that "a confluence of events has taken place that no longer makes
+  building and maintaining the Algofi platform to the highest standards a viable path for our company". Although AlgoFi is
+  nominally decentralized, like many defi projects, its fate ultimately rested with the small team building it.AlgoFi had
+  raised a seed funding round of $2.8 million in November 2021, and was backed by groups including Union Square Ventures,
+  Arrington XRP Capital, Pillar VC, and Y Combinator. They had also received other investments from groups including Jump
+  Capital and Coinbase Ventures.AlgoFi accounts for over half of the value on the Algorand blockchain, which itself has experienced
+  a marked decline from earlier this year.

@@ -3,9 +3,10 @@ source_url: https://www.coindesk.com/business/2023/09/08/nft-video-startup-glass
 date_of_breach: '2023-09-08'
 date_of_disclosure: '2023-09-08'
 category: other
-notes: The NFT startup Glass was operating under the assumption that YouTubers and
-  others who post video content for fans online might want to mint those videos as
-  NFTs, which their fans could then buy. Unfortunately for them, they have since "come
-  to the conclusion that there is not sustainable demand for video NFTs".In September
-  2022, the startup managed to raise $5 million from investors including TCG Crypto
-  and 1kx. Either that money's run out, or they're cutting their losses early.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: NFT startup Glass
+blockchain: ethereum, solana
+notes: The NFT startup Glass was operating under the assumption that YouTubers and others who post video content for fans
+  online might want to mint those videos as NFTs, which their fans could then buy. Unfortunately for them, they have since
+  "come to the conclusion that there is not sustainable demand for video NFTs".In September 2022, the startup managed to raise
+  $5 million from investors including TCG Crypto and 1kx. Either that money's run out, or they're cutting their losses early.

@@ -3,11 +3,10 @@ source_url: https://www.bloomberg.com/news/articles/2022-02-12/blockfi-to-pay-10
 date_of_breach: '2022-02-11'
 date_of_disclosure: '2022-02-11'
 category: other
-notes: Bloomberg reported that BlockFi is preparing to pay $100 million to settle
-  allegations from the Securities and Exchange Commission (SEC) and state regulators
-  that it provided a service allowing people to loan their cryptocurrencies to others
-  in exchange for high interest rates. BlockFi will also not be allowed to provide
-  new high-yield accounts to most Americans following the settlement. BlockFi is only
-  one of several crypto firms, including Celsius, Gemini, and Voyager Digital Ltd.,
-  who are facing scrutiny from regulators over concerns of unregistered securities
-  sales.
+initial_attack_vector: Regulatory / legal action
+vendor_product: BlockFi SEC settlement
+notes: Bloomberg reported that BlockFi is preparing to pay $100 million to settle allegations from the Securities and Exchange
+  Commission (SEC) and state regulators that it provided a service allowing people to loan their cryptocurrencies to others
+  in exchange for high interest rates. BlockFi will also not be allowed to provide new high-yield accounts to most Americans
+  following the settlement. BlockFi is only one of several crypto firms, including Celsius, Gemini, and Voyager Digital Ltd.,
+  who are facing scrutiny from regulators over concerns of unregistered securities sales.

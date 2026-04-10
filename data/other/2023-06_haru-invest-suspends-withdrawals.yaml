@@ -1,20 +1,17 @@
-source_name: '"South Korean Crypto Yield Platform Haru Invest Pauses Withdrawals and
-  Deposits"'
+source_name: '"South Korean Crypto Yield Platform Haru Invest Pauses Withdrawals and Deposits"'
 source_url: https://www.coindesk.com/markets/2023/06/13/south-korean-crypto-yield-platform-haru-invest-pauses-withdrawals-and-deposits/
 date_of_breach: '2023-06-13'
 date_of_disclosure: '2023-06-13'
 category: other
-notes: 'The South Korean yield platform Haru Invest abruptly suspended withdrawals
-  and deposits on June 13. They wrote in a blog post that they were experiencing "a
-  certain issue" with an unnamed partner, later announcing that "we have discovered
-  through our internal inspection process that certain information provided by a consignment
-  operator was suspected to be false."The following day, the company named the partner
-  as B&amp;S Holdings (formerly Aventus), and announced that they were taking legal
-  action against the company for filing falsified management reports.Haru Invest advertised
-  APR in the double digits.On June 22, Haru laid off 100 employees. Haru explained
-  in a blog post: "after much consideration, it comes with a heavy heart to inform
-  you that we will be minimizing the operations of Haru Invest and its affiliated
-  companies to prevent further damages that are likely to be incurred". Haru''s CEO
-  told local media that Haru''s offices were empty because employees were working
-  from home for their own safety. After Haru halted withdrawals, they closed their
-  office, and CoinDesk reported that "all company officials disappeared".'
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Haru Invest suspends withdrawals
+notes: 'The South Korean yield platform Haru Invest abruptly suspended withdrawals and deposits on June 13. They wrote in
+  a blog post that they were experiencing "a certain issue" with an unnamed partner, later announcing that "we have discovered
+  through our internal inspection process that certain information provided by a consignment operator was suspected to be
+  false."The following day, the company named the partner as B&amp;S Holdings (formerly Aventus), and announced that they
+  were taking legal action against the company for filing falsified management reports.Haru Invest advertised APR in the double
+  digits.On June 22, Haru laid off 100 employees. Haru explained in a blog post: "after much consideration, it comes with
+  a heavy heart to inform you that we will be minimizing the operations of Haru Invest and its affiliated companies to prevent
+  further damages that are likely to be incurred". Haru''s CEO told local media that Haru''s offices were empty because employees
+  were working from home for their own safety. After Haru halted withdrawals, they closed their office, and CoinDesk reported
+  that "all company officials disappeared".'

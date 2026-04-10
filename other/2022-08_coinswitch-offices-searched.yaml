@@ -3,13 +3,12 @@ source_url: https://www.reuters.com/world/india/indias-coinswitch-cooperating-wi
 date_of_breach: '2022-08-25'
 date_of_disclosure: '2022-08-25'
 category: other
-notes: Financial crime agents from India's Directorate of Enforcement searched the
-  offices of CoinSwitch and the residences of some of its executives. CoinSwitch is
-  the largest crypto company in India, and is backed by Andreessen Horowitz, Tiger
-  Global, and Coinbase Ventures.According to the CEO, there's nothing to worry about,
-  the search had nothing to do with money laundering (that's specific), and the agency
-  only executed the search to learn more about its business model and user onboarding.
-  Seems like a pretty weird way to do that, but what do I know.TechCrunch, however,
-  reported that four people familiar with the investigation stated the investigation
-  was to do with potential violations of foreign exchange laws, and that the agency
+initial_attack_vector: Regulatory / legal action
+vendor_product: CoinSwitch offices searched
+notes: Financial crime agents from India's Directorate of Enforcement searched the offices of CoinSwitch and the residences
+  of some of its executives. CoinSwitch is the largest crypto company in India, and is backed by Andreessen Horowitz, Tiger
+  Global, and Coinbase Ventures.According to the CEO, there's nothing to worry about, the search had nothing to do with money
+  laundering (that's specific), and the agency only executed the search to learn more about its business model and user onboarding.
+  Seems like a pretty weird way to do that, but what do I know.TechCrunch, however, reported that four people familiar with
+  the investigation stated the investigation was to do with potential violations of foreign exchange laws, and that the agency
   suspects CoinSwitch acquired $200 million in shares in violation of forex laws.

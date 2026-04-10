@@ -3,9 +3,9 @@ source_url: https://cryptobriefing.com/waves-stablecoin-crash-sparks-death-spira
 date_of_breach: '2022-04-04'
 date_of_disclosure: '2022-04-04'
 category: other
-notes: The stablecoin belonging to the Waves protocol, "Neutrino dollar" (aka USDN),
-  crashed nearly 20%, despite intending to maintain its 1:1 ratio to the US dollar.
-  The volatility occurred amidst flying accusations on Twitter, where various people
-  first accused the Waves team of manipulating the price of their own token and running
-  a Ponzi scheme, and then Waves' CEO accused an outside trading firm of manipulating
-  the $WAVES price and "organiz[ing] FUD campaigns to trigger panic  selling".
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Waves stablecoin
+notes: The stablecoin belonging to the Waves protocol, "Neutrino dollar" (aka USDN), crashed nearly 20%, despite intending
+  to maintain its 1:1 ratio to the US dollar. The volatility occurred amidst flying accusations on Twitter, where various
+  people first accused the Waves team of manipulating the price of their own token and running a Ponzi scheme, and then Waves'
+  CEO accused an outside trading firm of manipulating the $WAVES price and "organiz[ing] FUD campaigns to trigger panic  selling".

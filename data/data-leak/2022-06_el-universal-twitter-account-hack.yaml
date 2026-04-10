@@ -3,15 +3,16 @@ source_url: https://twitter.com/NFTherder/status/1534839844005978112
 date_of_breach: '2022-06-09'
 date_of_disclosure: '2022-06-09'
 category: data-leak
-notes: 'Scammers successfully compromised the Twitter account for El Universal, a
-  Venezuelan newspaper. The account is verified, and has five million followers. The
-  scammers used the account to promote "goblintowm" (note the m on the end), a fake
-  website pretending to be the recently-popular Goblintown project. Users who connected
-  their wallets to try to mint the free NFTs instead saw their wallets drained of
-  their cryptocurrency and NFTs.One of the wallets used by the scammers had stolen
-  64 NFTs, though most of them were low in value. The address had also pulled in 16.5
-  ETH (~$30,000). However, most scammers rotate wallets, and this likely doesn''t
-  reflect the total damage from the scam.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: El Universal Twitter account
+blockchain: ethereum
+financial_loss_usd: 30000
+notes: 'Scammers successfully compromised the Twitter account for El Universal, a Venezuelan newspaper. The account is verified,
+  and has five million followers. The scammers used the account to promote "goblintowm" (note the m on the end), a fake website
+  pretending to be the recently-popular Goblintown project. Users who connected their wallets to try to mint the free NFTs
+  instead saw their wallets drained of their cryptocurrency and NFTs.One of the wallets used by the scammers had stolen 64
+  NFTs, though most of them were low in value. The address had also pulled in 16.5 ETH (~$30,000). However, most scammers
+  rotate wallets, and this likely doesn''t reflect the total damage from the scam.
 
 
   Total loss estimated at $30,000.'

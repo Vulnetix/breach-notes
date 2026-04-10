@@ -3,19 +3,18 @@ source_url: https://blockworks.co/news/multichain-anyswap-exploit
 date_of_breach: '2023-07-06'
 date_of_disclosure: '2023-07-06'
 category: data-leak
-notes: 'Blockchain watchers observed $130 million in various assets flowing out of
-  the Multichain blockchain bridge, questioning whether there had been an exploit.
-  Multichain tweeted, "The team is not sure what happened and is currently investigating,"
-  and recommended users stop using the service and revoke contract approvals.Several
-  hours later, Multichain wrote that they had stopped service, and that "all bridge
-  transactions will be stuck on the source chains. There is no confirmed resume time."In
-  May, Multichain suffered a bizarre slew of issues, culminating in the project team
-  admitting that their CEO had gone missing and could not be contacted. So far, they
-  have not reported his return.This is also not the first hack suffered by Multichain.
-  In January 2022, the project, bafflingly, publicly announced a security vulnerability
-  that was affecting their tokens, without first instructing users to safeguard their
-  tokens. Attackers quickly followed the instruction manual provided to them by Multichain,
-  making off with around $3 million in assets.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Multichain suspected
+financial_loss_usd: 130000000
+notes: 'Blockchain watchers observed $130 million in various assets flowing out of the Multichain blockchain bridge, questioning
+  whether there had been an exploit. Multichain tweeted, "The team is not sure what happened and is currently investigating,"
+  and recommended users stop using the service and revoke contract approvals.Several hours later, Multichain wrote that they
+  had stopped service, and that "all bridge transactions will be stuck on the source chains. There is no confirmed resume
+  time."In May, Multichain suffered a bizarre slew of issues, culminating in the project team admitting that their CEO had
+  gone missing and could not be contacted. So far, they have not reported his return.This is also not the first hack suffered
+  by Multichain. In January 2022, the project, bafflingly, publicly announced a security vulnerability that was affecting
+  their tokens, without first instructing users to safeguard their tokens. Attackers quickly followed the instruction manual
+  provided to them by Multichain, making off with around $3 million in assets.
 
 
   Total loss estimated at $130,000,000.'

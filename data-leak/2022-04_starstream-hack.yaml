@@ -3,11 +3,14 @@ source_url: https://twitter.com/CertiKAlert/status/1512155452217479171
 date_of_breach: '2022-04-07'
 date_of_disclosure: '2022-04-07'
 category: data-leak
-notes: 'Starstream, a defi project built on the Andromeda layer 2 Ethereum protocol,
-  had its treasury drained. Blockchain security company CertiK reported that the treasury
-  appeared to have contained around $4 million in STARS, all of which was stolen.
-  Shortly after the hack, the attacker transferred 900 ETH ($2.9 million) to a crypto
-  tumbler. Starstream had been audited by two security firms prior to the exploit.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Starstream
+blockchain: ethereum
+financial_loss_usd: 4000000
+notes: 'Starstream, a defi project built on the Andromeda layer 2 Ethereum protocol, had its treasury drained. Blockchain
+  security company CertiK reported that the treasury appeared to have contained around $4 million in STARS, all of which was
+  stolen. Shortly after the hack, the attacker transferred 900 ETH ($2.9 million) to a crypto tumbler. Starstream had been
+  audited by two security firms prior to the exploit.
 
 
   Total loss estimated at $4,000,000.'

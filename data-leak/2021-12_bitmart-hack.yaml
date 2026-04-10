@@ -3,9 +3,11 @@ source_url: https://www.vice.com/en/article/akvewk/hackers-steal-dollar150m-from
 date_of_breach: '2021-12-04'
 date_of_disclosure: '2021-12-04'
 category: data-leak
-notes: 'BitMart, "the most trusted cryptocurrency trading platform", experienced a
-  major breach in which attackers stole approximately $200 million of various cryptocurrencies.
-  The CEO attributed the exploit to a stolen private key, and promised to compensate
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: BitMart
+financial_loss_usd: 200000000
+notes: 'BitMart, "the most trusted cryptocurrency trading platform", experienced a major breach in which attackers stole approximately
+  $200 million of various cryptocurrencies. The CEO attributed the exploit to a stolen private key, and promised to compensate
   users who were impacted.
 
 

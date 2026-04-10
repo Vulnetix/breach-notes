@@ -3,16 +3,15 @@ source_url: https://www.justice.gov/usao-ndtx/pr/doctor-bitcoin-pleads-guilty-il
 date_of_breach: '2022-09-04'
 date_of_disclosure: '2022-09-04'
 category: other
-notes: Mark Hopkins, also known as "Doctor Bitcoin" or "Rizzn", announced on social
-  media that he would be spending between 6 and 15 months in federal prison "for the
-  crime of selling Bitcoin a few years ago". His charge carried a maximum sentence
-  of five years imprisonment.In 2019, his home was raided in connection to a Nigerian
-  lottery scam, for which he converted between half a million and $1.5 million to
-  cryptocurrency over the span of half a year. He was ultimately charged with "illegally
-  operating a cash-to-cryptocurrency conversion business", to which he pleaded guilty
-  (by his telling, in an attempt to get charges against his family members dropped).Hopkins
-  claims that "any time anyone with a crypto trades p2p (i.e., not with an exchange),
-  they're legally liable under this statute as it's currently interpreted", though
-  authorities have claimed that Hopkins knowingly aided the lottery scammer by telling
-  them "I'm set up as a marketing company, so tell them you're paying for a marketing
-  campaign".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Mark Hopkins
+blockchain: bitcoin
+notes: Mark Hopkins, also known as "Doctor Bitcoin" or "Rizzn", announced on social media that he would be spending between
+  6 and 15 months in federal prison "for the crime of selling Bitcoin a few years ago". His charge carried a maximum sentence
+  of five years imprisonment.In 2019, his home was raided in connection to a Nigerian lottery scam, for which he converted
+  between half a million and $1.5 million to cryptocurrency over the span of half a year. He was ultimately charged with "illegally
+  operating a cash-to-cryptocurrency conversion business", to which he pleaded guilty (by his telling, in an attempt to get
+  charges against his family members dropped).Hopkins claims that "any time anyone with a crypto trades p2p (i.e., not with
+  an exchange), they're legally liable under this statute as it's currently interpreted", though authorities have claimed
+  that Hopkins knowingly aided the lottery scammer by telling them "I'm set up as a marketing company, so tell them you're
+  paying for a marketing campaign".

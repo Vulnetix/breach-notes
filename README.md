@@ -14,8 +14,8 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 | With CVE/GHSA references | 70 (2%) |
 | Unique CVEs/GHSAs | 78 |
 | With malware identified | 272 (8%) |
-| Supply chain claimed | 815 (24%) |
-| Unique vendor products | 946 |
+| Supply chain claimed | 821 (24%) |
+| Unique vendor products | 2793 |
 | Median disclosure lag (days) | 0 |
 | Max disclosure lag (days) | 3474 |
 
@@ -169,20 +169,20 @@ CVE-2026-33634
 | Attack Vector | Incidents |
 |--------------|----------|
 | Compromise of third-party service provider / vendor relationship | 556 |
+| Smart contract exploit / hack | 361 |
+| Regulatory / legal action | 279 |
+| Protocol collapse / insolvency | 111 |
+| Exit scam / rug pull | 101 |
+| On-chain theft (attributed by zachxbt) | 66 |
+| Flash loan attack on smart contract | 60 |
+| Software bug / unintentional loss | 58 |
+| Phishing attack | 53 |
+| Ponzi / pyramid scheme | 42 |
+| Withdrawal halt / insolvency | 39 |
+| Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise | 22 |
+| AI-assisted attack or AI-generated exploit | 19 |
+| Oracle price manipulation | 18 |
 | CWE-284: Improper Access Control | 15 |
-| Cl0p ransomware group exploited four zero-day vulnerabilities (CVE-2021-27101 through CVE-2021-27104) in Accellion's legacy File Transfer Appliance (FTA); the FTA was a 20-year-old product that Accellion was actively trying to migrate customers away from | 10 |
-| CWE-307: Improper Restriction of Excessive Authentication Attempts (stolen credentials reused against Snowflake tenant with no MFA) | 5 |
-| Cl0p exploited CVE-2023-0669, a pre-authentication remote code injection vulnerability in Fortra GoAnywhere MFT's administrative interface; attackers installed a web shell ('Truebot') and exfiltrated data before the vulnerability was publicly known | 5 |
-| Web skimmer / malicious code injected into third-party payment page | 4 |
-| Attackers used social engineering to target Mailchimp customer-facing operations staff, obtaining credentials to access internal tools used by Mailchimp's customer support and account administration teams; the attackers then used this access to view and export customer list data | 3 |
-| CWE-522: Insufficiently Protected Credentials (infostealer-harvested credentials, no MFA on Snowflake) | 2 |
-| 0ktapus / Scattered Spider threat actors phished an employee of an unnamed third-party vendor with access to DoorDash systems via SMS phishing (smishing), then used the stolen credentials to access DoorDash's internal tools and customer data | 1 |
-| A Columbia University physician decommissioned a personal server that was connected to the shared Columbia/NYP network without following proper procedures; the server lacked server-level firewall protections, resulting in approximately 6,800 patient records becoming accessible on the internet | 1 |
-| A Dropbox employee reused their LinkedIn password for their Dropbox work account; when the 2012 LinkedIn breach exposed that password, attackers used it to log into the employee's Dropbox work account, which contained a document with hashed Dropbox user passwords | 1 |
-| A First Republic Bank employee with legitimate AWS access used their credentials to exfiltrate customer data from AWS-hosted banking systems | 1 |
-| A Mercedes-Benz employee inadvertently included a GitHub API token in a public GitHub repository; the token provided unrestricted read access (with no expiration date) to the entire Mercedes-Benz Enterprise GitHub organization, allowing access to all private repositories | 1 |
-| A VA data analyst took home a VA-issued laptop and external hard drive containing 26.5 million veterans' PII without authorization; the equipment was stolen from his home in a burglary | 1 |
-| A bug in Cloudflare's HTML parser (introduced 22 September 2016) caused the parser to read past the end of a buffer when processing certain HTML constructs (including server-side includes, email obfuscation, and automatic HTTPS rewrites); the overrun memory contained data from other Cloudflare customers' HTTP requests including authentication tokens, session cookies, passwords, and private messages — this data was served in HTTP responses to users and cached by Google, Bing, and other search engines | 1 |
 
 ## Incident Index
 

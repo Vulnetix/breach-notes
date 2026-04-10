@@ -1,20 +1,16 @@
-source_name: '"Justin Bieber "bought" an NFT for $1.3 million. But he didn''t pay
-  for it."'
+source_name: '"Justin Bieber "bought" an NFT for $1.3 million. But he didn''t pay for it."'
 source_url: https://dirtybubblemedia.substack.com/p/justin-bieber-bought-an-nft-for-13
 date_of_breach: '2022-01-29'
 date_of_disclosure: '2022-01-29'
 category: other
-notes: The media went a bit nuts when Justin Bieber reportedly bought a Bored Ape
-  (for several times what it was "worth", for some reason). This served to generate
-  hype for several NFT projects, including Bored Apes, that Bieber has reportedly
-  bought. However, some investigation by &#64;interlunations and Dirty Bubble Media
-  showed that something shady is going on, and neither possibility looks great for
-  Bieber. Either Bieber does own the wallet that spent millions on the Bored Ape NFT
-  and hundreds of others, in which case he was paid more than $2 million by the inBetweeners
-  project — this would mean that inBetweeners lied about not paying influencers to
-  promote their projects, and it would mean that Bieber never disclosed the financial
-  relationship (in violation of FTC rules). If Bieber doesn't own the wallet, then
-  Bieber has lied about owning the Bored Ape he supposedly "bought", as have the projects
-  (though possibly unknowingly) who are generating hype by telling everyone Bieber
-  owns one of their NFTs. The full investigation by Dirty Bubble Media is worth a
-  read.
+vendor_product: Justin Bieber acquires Bored Ape
+blockchain: ethereum
+notes: The media went a bit nuts when Justin Bieber reportedly bought a Bored Ape (for several times what it was "worth",
+  for some reason). This served to generate hype for several NFT projects, including Bored Apes, that Bieber has reportedly
+  bought. However, some investigation by &#64;interlunations and Dirty Bubble Media showed that something shady is going on,
+  and neither possibility looks great for Bieber. Either Bieber does own the wallet that spent millions on the Bored Ape NFT
+  and hundreds of others, in which case he was paid more than $2 million by the inBetweeners project — this would mean that
+  inBetweeners lied about not paying influencers to promote their projects, and it would mean that Bieber never disclosed
+  the financial relationship (in violation of FTC rules). If Bieber doesn't own the wallet, then Bieber has lied about owning
+  the Bored Ape he supposedly "bought", as have the projects (though possibly unknowingly) who are generating hype by telling
+  everyone Bieber owns one of their NFTs. The full investigation by Dirty Bubble Media is worth a read.

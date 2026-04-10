@@ -1,21 +1,18 @@
-source_name: '"SEC Charges NBA Hall of Famer Paul Pierce for Unlawfully Touting and
-  Making Misleading Statements about Crypto Security"'
+source_name: '"SEC Charges NBA Hall of Famer Paul Pierce for Unlawfully Touting and Making Misleading Statements about Crypto
+  Security"'
 source_url: https://www.sec.gov/news/press-release/2023-34
 date_of_breach: '2023-02-17'
 date_of_disclosure: '2023-02-17'
 category: other
-notes: In the second big-name slapdown from the SEC relating to the EthereumMax token,
-  former Celtics player Paul Pierce has agreed to pay a $1.4 million fine to settle
-  charges that he violated anti-touting provisions of federal securities laws.Pierce
-  had made posts on Twitter, including writing shortly after he was fired from ESPN
-  that "ESPN I don't need you. I got EthereumMax. I made more money with this crypto
-  in the past month than I did with y'all in a year. TRUTH shall set u Free". The
-  SEC pointed out that although he had been given EMAX tokens prior to the post, they
-  were priced at around $46,000, not nearly the more than $1 million he'd made at
-  ESPN over the previous year. Pierce later made a post claiming that he held more
-  than $2.5 million of EMAX tokens, but the SEC alleged in the lawsuit that "his own
-  personal holdings were in fact far lower" and that Pierce had been provided the
-  screenshot of another person's holdings.In October 2022, Kim Kardashian paid $1.26
-  million to settle charges over touting the same cryptocurrency, a fairly unknown
-  token that nevertheless splashed out heavily for influencer and celebrity promotion
-  in what appears to be a pump-and-dump scheme.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Paul Pierce to pay $1.4 million fine over undisclosed touting
+notes: In the second big-name slapdown from the SEC relating to the EthereumMax token, former Celtics player Paul Pierce has
+  agreed to pay a $1.4 million fine to settle charges that he violated anti-touting provisions of federal securities laws.Pierce
+  had made posts on Twitter, including writing shortly after he was fired from ESPN that "ESPN I don't need you. I got EthereumMax.
+  I made more money with this crypto in the past month than I did with y'all in a year. TRUTH shall set u Free". The SEC pointed
+  out that although he had been given EMAX tokens prior to the post, they were priced at around $46,000, not nearly the more
+  than $1 million he'd made at ESPN over the previous year. Pierce later made a post claiming that he held more than $2.5
+  million of EMAX tokens, but the SEC alleged in the lawsuit that "his own personal holdings were in fact far lower" and that
+  Pierce had been provided the screenshot of another person's holdings.In October 2022, Kim Kardashian paid $1.26 million
+  to settle charges over touting the same cryptocurrency, a fairly unknown token that nevertheless splashed out heavily for
+  influencer and celebrity promotion in what appears to be a pump-and-dump scheme.

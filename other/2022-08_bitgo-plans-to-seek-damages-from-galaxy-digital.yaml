@@ -1,18 +1,15 @@
-source_name: '"BitGo seeks $100M in damages from Galaxy Digital for calling off $1.2B
-  acquisition"'
+source_name: '"BitGo seeks $100M in damages from Galaxy Digital for calling off $1.2B acquisition"'
 source_url: https://techcrunch.com/2022/08/15/galaxy-digital-calls-off-its-1-2-billion-acquisition-of-bitgo/
 date_of_breach: '2022-08-15'
 date_of_disclosure: '2022-08-15'
 category: other
-notes: In May 2021, investment management firm Galaxy Digital announced their plans
-  to acquire crypto custodian BitGo for $1.2 billion in what would be the first $1
-  billion dollar deal for the crypto industry. At the time, crypto prices were near
-  all-time-highs.Galaxy Digital claims that BitGo failed to provide audited financial
-  statements for 2021 by the deadline they had agreed upon, and for that reason they
-  decided to end the deal.BitGo claims they've still got time to provide the statements,
-  and that Galaxy Digital owes them $100 million for breaking the deal, which they
-  plan to pursue in court.Galaxy Digital just reported a ~$555 million dollar loss
-  in the second quarter, which may have contributed towards their choice to back out
-  of the acquisition.In June 2023, the Delaware Court of Chancery dismissed BitGo's
-  complaint with prejudice, finding that Galaxy Digital had a "clean termination right"
-  based on BitGo's failure to provide financial statements.
+initial_attack_vector: Regulatory / legal action
+vendor_product: BitGo plans to seek damages from Galaxy Digital
+notes: In May 2021, investment management firm Galaxy Digital announced their plans to acquire crypto custodian BitGo for
+  $1.2 billion in what would be the first $1 billion dollar deal for the crypto industry. At the time, crypto prices were
+  near all-time-highs.Galaxy Digital claims that BitGo failed to provide audited financial statements for 2021 by the deadline
+  they had agreed upon, and for that reason they decided to end the deal.BitGo claims they've still got time to provide the
+  statements, and that Galaxy Digital owes them $100 million for breaking the deal, which they plan to pursue in court.Galaxy
+  Digital just reported a ~$555 million dollar loss in the second quarter, which may have contributed towards their choice
+  to back out of the acquisition.In June 2023, the Delaware Court of Chancery dismissed BitGo's complaint with prejudice,
+  finding that Galaxy Digital had a "clean termination right" based on BitGo's failure to provide financial statements.

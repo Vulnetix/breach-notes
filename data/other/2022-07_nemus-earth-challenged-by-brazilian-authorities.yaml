@@ -3,20 +3,18 @@ source_url: http://www.mpf.mp.br/am/sala-de-imprensa/noticias-am/mpf-aciona-empr
 date_of_breach: '2022-07-25'
 date_of_disclosure: '2022-07-25'
 category: other
-notes: Nemus is an NFT project already described in W3IGG for its plans to become
-  "Guardians" of the Amazon rainforest and saviors of its Indigenous populations by
-  selling Ethereum NFTs and reopening a Brazil nut plantation.On July 20, they issued
-  a press release claiming that "the World's First Non-Fungible Territory has been
-  officially renamed by indigenous people in Brazil in coalition with Nemus". The
-  company claims to own 41,000 hectares (~100,000 acres) of land in the Amazon.On
-  July 25, Brazil's Federal Prosecution Office (MPF) issued a statement that they
-  had demanded Nemus provide proof of ownership of the areas they claim, clarification
-  on the projects they've been promising online they would undertake, and proof that
-  they've received authorization by the National Indian Foundation (FUNAI) or any
-  other public body that would allow them to operate in the area and engage with various
-  Indigenous groups.According to the MPF, members of Indigenous groups in the area
-  reported the company had violated their rights. They also explained that Nemus had
-  expressed to them their plans to use heavy machinery to open an airstrip and build
-  a road in order to access Brazil nut groves in the area. Apurinã leaders alleged
-  that company representatives had pressured Indigenous people who do not read well
-  to sign documents, and did not provide them with copies.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Nemus Earth challenged by Brazilian authorities
+blockchain: ethereum
+notes: Nemus is an NFT project already described in W3IGG for its plans to become "Guardians" of the Amazon rainforest and
+  saviors of its Indigenous populations by selling Ethereum NFTs and reopening a Brazil nut plantation.On July 20, they issued
+  a press release claiming that "the World's First Non-Fungible Territory has been officially renamed by indigenous people
+  in Brazil in coalition with Nemus". The company claims to own 41,000 hectares (~100,000 acres) of land in the Amazon.On
+  July 25, Brazil's Federal Prosecution Office (MPF) issued a statement that they had demanded Nemus provide proof of ownership
+  of the areas they claim, clarification on the projects they've been promising online they would undertake, and proof that
+  they've received authorization by the National Indian Foundation (FUNAI) or any other public body that would allow them
+  to operate in the area and engage with various Indigenous groups.According to the MPF, members of Indigenous groups in the
+  area reported the company had violated their rights. They also explained that Nemus had expressed to them their plans to
+  use heavy machinery to open an airstrip and build a road in order to access Brazil nut groves in the area. Apurinã leaders
+  alleged that company representatives had pressured Indigenous people who do not read well to sign documents, and did not
+  provide them with copies.

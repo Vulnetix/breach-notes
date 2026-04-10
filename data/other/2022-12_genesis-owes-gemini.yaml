@@ -3,11 +3,12 @@ source_url: https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974
 date_of_breach: '2022-12-03'
 date_of_disclosure: '2022-12-03'
 category: other
-notes: 'After a domino effect in which Gemini suspended withdrawals from its "Earn"
-  lending product due to Genesis suspending withdrawals due to FTX''s collapse, it''s
-  been revealed by the FT that Genesis holds around $900 million in Gemini customer
-  assets.Gemini has formed a creditor committee to try to recoup funds from Genesis,
-  as well as Genesis parent company DCG.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Genesis owes Gemini
+financial_loss_usd: 900000000
+notes: 'After a domino effect in which Gemini suspended withdrawals from its "Earn" lending product due to Genesis suspending
+  withdrawals due to FTX''s collapse, it''s been revealed by the FT that Genesis holds around $900 million in Gemini customer
+  assets.Gemini has formed a creditor committee to try to recoup funds from Genesis, as well as Genesis parent company DCG.
 
 
   Total loss estimated at $900,000,000.'

@@ -3,16 +3,14 @@ source_url: https://www.ssb.texas.gov/sites/default/files/2023-06/ENF_23_CDO_187
 date_of_breach: '2023-06-15'
 date_of_disclosure: '2023-06-15'
 category: other
-notes: In an emergency cease-and-desist issued on June 15, the Texas State Securities
-  Board alleged that the Abra crypto lending firm was "insolvent or nearly insolvent"
-  as of interviews conducted on March 31. The filing alleged that Abra and its founder
-  William Barhydt had made investment offerings that were materially misleading, accusing
-  them of securities fraud. Despite not contesting securities regulators' conclusion
-  that Abra was insolvent, Abra repeatedly posted statements on social media such
-  as the one on June 11, where they wrote "Abra is not bankrupt".According to the
-  complaint, although Abra claimed it stored customer funds with the Fireblocks crypto
-  custodian, they had actually been "secretly transferring assets" to Binance.The
-  regulator also alleged that Abra had around $30 million in assets with Babel Finance,
-  $30 million with Genesis, and $10 million with Three Arrows Capital — three companies
-  in various stages of liquidation or bankruptcy. They also have $8.8 million with
-  Auros, a firm that was in liquidation but has since exited the process.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Abra insolvency
+notes: In an emergency cease-and-desist issued on June 15, the Texas State Securities Board alleged that the Abra crypto lending
+  firm was "insolvent or nearly insolvent" as of interviews conducted on March 31. The filing alleged that Abra and its founder
+  William Barhydt had made investment offerings that were materially misleading, accusing them of securities fraud. Despite
+  not contesting securities regulators' conclusion that Abra was insolvent, Abra repeatedly posted statements on social media
+  such as the one on June 11, where they wrote "Abra is not bankrupt".According to the complaint, although Abra claimed it
+  stored customer funds with the Fireblocks crypto custodian, they had actually been "secretly transferring assets" to Binance.The
+  regulator also alleged that Abra had around $30 million in assets with Babel Finance, $30 million with Genesis, and $10
+  million with Three Arrows Capital — three companies in various stages of liquidation or bankruptcy. They also have $8.8
+  million with Auros, a firm that was in liquidation but has since exited the process.

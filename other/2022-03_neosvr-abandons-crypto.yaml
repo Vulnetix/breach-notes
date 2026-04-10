@@ -3,18 +3,15 @@ source_url: https://twitter.com/Frooxius/status/1491880566479892483
 date_of_breach: '2022-03-04'
 date_of_disclosure: '2022-03-04'
 category: other
-notes: NeosVR, a virtual reality project originally released in 2018, introduced "Neos
-  Credits" (NCR) in 2018 with the idea that it could enable in-game transactions.
-  The crypto component was primarily managed by Karel Hulec, one of the project's
-  team members. After cryptocurrencies and metaverse projects experienced a boom in
-  2021, crypto enthusiasts flooded into the project and drove up the value of the
-  token. Some project members described the influx of people from the crypto community
-  as having a strongly negative effect on the community, with one person writing they
-  brought "all of its true slur-lovin' pepe-wearing glory to Neos". After some discontent
-  within the team about the crypto side of operations, members of the team traded
-  public statements with allegations about other members. On March 4, after Hulec
-  released an updated whitepaper fraudulently (but perhaps mistakenly) "signed" by
-  the rest of the team, the project creator and developer announced a proposal to
-  allow Hulec to operate the cryptocurrency "on top of our work, but as a 3rd party
-  solution, under a company solely under his ownership and direction", and for the
-  primary team to cease involvement with the crypto component of the project.
+vendor_product: NeosVR abandons crypto
+blockchain: ethereum
+notes: NeosVR, a virtual reality project originally released in 2018, introduced "Neos Credits" (NCR) in 2018 with the idea
+  that it could enable in-game transactions. The crypto component was primarily managed by Karel Hulec, one of the project's
+  team members. After cryptocurrencies and metaverse projects experienced a boom in 2021, crypto enthusiasts flooded into
+  the project and drove up the value of the token. Some project members described the influx of people from the crypto community
+  as having a strongly negative effect on the community, with one person writing they brought "all of its true slur-lovin'
+  pepe-wearing glory to Neos". After some discontent within the team about the crypto side of operations, members of the team
+  traded public statements with allegations about other members. On March 4, after Hulec released an updated whitepaper fraudulently
+  (but perhaps mistakenly) "signed" by the rest of the team, the project creator and developer announced a proposal to allow
+  Hulec to operate the cryptocurrency "on top of our work, but as a 3rd party solution, under a company solely under his ownership
+  and direction", and for the primary team to cease involvement with the crypto component of the project.

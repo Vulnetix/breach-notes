@@ -1,14 +1,13 @@
-source_name: '"Ethereum Holesky testnet launch flops, relaunch is expected in coming
-  weeks"'
+source_name: '"Ethereum Holesky testnet launch flops, relaunch is expected in coming weeks"'
 source_url: https://cryptoslate.com/ethereum-holesky-testnet-launch-flops-relaunch-is-expected-in-coming-weeks/
 date_of_breach: '2023-09-15'
 date_of_disclosure: '2023-09-15'
 category: other
-notes: Ethereum prepared to launch a new test network, called "Holesky", which was
-  supposed to be massive compared to the mainnet in order to work on scaling problems.
-  The launch was supposed to coincide with Ethereum's September 2022 "Merge", in which
-  the network finally pulled off the long-awaited switch from proof of work to proof
-  of stake.However, the Holesky launch was a failure when developers misconfigured
-  the network, causing it to fail to initiate. Developers announced they would try
-  to relaunch the project a week after its intended go-live date. At least it was
-  just a testnet.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Ethereum bungles "Holesky" testnet launch
+blockchain: ethereum
+notes: Ethereum prepared to launch a new test network, called "Holesky", which was supposed to be massive compared to the
+  mainnet in order to work on scaling problems. The launch was supposed to coincide with Ethereum's September 2022 "Merge",
+  in which the network finally pulled off the long-awaited switch from proof of work to proof of stake.However, the Holesky
+  launch was a failure when developers misconfigured the network, causing it to fail to initiate. Developers announced they
+  would try to relaunch the project a week after its intended go-live date. At least it was just a testnet.

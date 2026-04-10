@@ -1,14 +1,12 @@
-source_name: '"Australian crypto platform Immutable sacks 6% of staff despite plans
-  to ''hire aggressively''"'
+source_name: '"Australian crypto platform Immutable sacks 6% of staff despite plans to ''hire aggressively''"'
 source_url: https://www.news.com.au/finance/business/technology/australian-crypto-platform-immutable-sacks-17-of-staff-despite-plans-to-hire-aggressively/news-story/efb79889c00b92ef92324ddd94e22666
 date_of_breach: '2022-07-25'
 date_of_disclosure: '2022-07-25'
 category: other
-notes: The Australian crypto company Immutable fired 17% of staff from its gaming
-  division. Immutable has said this amounted to 18 workers, though the Games Workers
-  Australia union disputed the number and said that 30 roles were cut. The fired employees
-  all worked on the Gods Unchained blockchain-based trading card game, and were given
-  24–48 hours notice of their firing.The fired employees quickly began preparing a
-  legal fight against immutable, questioning whether their firing was legitimate when
-  many of the people who were sacked were about to reach the vesting date for more
-  than $1 million in stock options.
+vendor_product: Immutable layoffs
+blockchain: ethereum
+notes: The Australian crypto company Immutable fired 17% of staff from its gaming division. Immutable has said this amounted
+  to 18 workers, though the Games Workers Australia union disputed the number and said that 30 roles were cut. The fired employees
+  all worked on the Gods Unchained blockchain-based trading card game, and were given 24–48 hours notice of their firing.The
+  fired employees quickly began preparing a legal fight against immutable, questioning whether their firing was legitimate
+  when many of the people who were sacked were about to reach the vesting date for more than $1 million in stock options.

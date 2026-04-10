@@ -3,17 +3,18 @@ source_url: https://github.com/monero-project/meta/issues/916
 date_of_breach: '2023-11-01'
 date_of_disclosure: '2023-11-01'
 category: data-leak
-notes: 'Monero''s Community Crowdfunding System (CCS) funds projects that aim to improve
-  the ecosystem of Monero, a privacycoin. The CCS is funded by donations, and up until
-  September 1, 2023, held a balance of 2675.73 XMR (~$460,000). Two months after the
-  fact, "Luigi" (a Monero developer and one of the two people with access to the wallet
-  seed phrase) disclosed on Github that the wallet had been drained entirely. According
-  to Luigi, he only discovered this a month after the theft.The other person with
-  access to the wallet is a former Monero developer named "fluffypony", or Ricardo
-  Spagni. He surrendered to US authorities in July 2023 for extradition to South Africa,
-  where he has been charged with invoice fraud against  a cookie company (think chocolate
-  chip, not software). However, he was released in late September, and has been working
-  to "address this matter" while free but under court supervision.
+initial_attack_vector: Seed phrase / wallet compromise
+vendor_product: Monero community wallet
+blockchain: monero
+financial_loss_usd: 460895
+notes: 'Monero''s Community Crowdfunding System (CCS) funds projects that aim to improve the ecosystem of Monero, a privacycoin.
+  The CCS is funded by donations, and up until September 1, 2023, held a balance of 2675.73 XMR (~$460,000). Two months after
+  the fact, "Luigi" (a Monero developer and one of the two people with access to the wallet seed phrase) disclosed on Github
+  that the wallet had been drained entirely. According to Luigi, he only discovered this a month after the theft.The other
+  person with access to the wallet is a former Monero developer named "fluffypony", or Ricardo Spagni. He surrendered to US
+  authorities in July 2023 for extradition to South Africa, where he has been charged with invoice fraud against  a cookie
+  company (think chocolate chip, not software). However, he was released in late September, and has been working to "address
+  this matter" while free but under court supervision.
 
 
   Total loss estimated at $460,895.'

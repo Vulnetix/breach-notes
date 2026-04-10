@@ -1,17 +1,14 @@
-source_name: '"Bitcoin Miner Argo Blockchain Says It''s Close to Restructuring Without
-  Having to Declare Bankruptcy"'
+source_name: '"Bitcoin Miner Argo Blockchain Says It''s Close to Restructuring Without Having to Declare Bankruptcy"'
 source_url: https://www.coindesk.com/business/2022/12/12/bitcoin-miner-argo-blockchain-says-its-close-to-restructuring-without-having-to-declare-bankruptcy
 date_of_breach: '2022-12-12'
 date_of_disclosure: '2022-12-12'
 category: other
-notes: When the company accidentally published draft bankruptcy documents to its website,
-  Argo Blockchain was forced to reveal that it is in last-ditch negotiations to raise
-  capital. The company stated that they were still hoping to avoid a Chapter 11 filing,
-  but that they were "at risk of having insufficient cash to support ongoing business
-  operations within the next month". The company has been trying to raise $25–35 million
-  since late August, and when a $27 million equity deal fell through in early November,
-  the miner acknowledged it might soon have negative cash flow.As a result of the
-  inadvertent publication of bankruptcy documents, the London Stock Exchange and Nasdaq
-  paused trading on the company's stock. The company published a statement saying
-  they had requested trading be re-enabled, since they had not actually filed for
-  bankruptcy (yet).
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Argo Blockchain warns of bankruptcy
+notes: When the company accidentally published draft bankruptcy documents to its website, Argo Blockchain was forced to reveal
+  that it is in last-ditch negotiations to raise capital. The company stated that they were still hoping to avoid a Chapter
+  11 filing, but that they were "at risk of having insufficient cash to support ongoing business operations within the next
+  month". The company has been trying to raise $25–35 million since late August, and when a $27 million equity deal fell through
+  in early November, the miner acknowledged it might soon have negative cash flow.As a result of the inadvertent publication
+  of bankruptcy documents, the London Stock Exchange and Nasdaq paused trading on the company's stock. The company published
+  a statement saying they had requested trading be re-enabled, since they had not actually filed for bankruptcy (yet).

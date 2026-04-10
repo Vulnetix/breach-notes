@@ -3,20 +3,20 @@ source_url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.322287/gov
 date_of_breach: '2023-05-17'
 date_of_disclosure: '2023-05-17'
 category: other
-notes: 'Nevin Shetty, the former chief financial officer of the Fabric e-commerce
-  platform, was federally indicted for wire fraud after allegedly misappropriating
-  $35 million from Fabric to put into his cryptocurrency platform HighTower. Shetty
-  stole the money in April 2022, shortly after being told he would be fired from Fabric
-  for performance reasons.According to the grand jury indictment, Shetty planned to
-  put the funds into cryptocurrency positions that "could have yielded returns of
-  20 percent or more annually", and planned to return 6% to Fabric, keeping the difference.
-  This so-called "investment" contradicted the conservative investment strategy that
-  Shetty had helped to draft for Fabric, and he concealed both the existence of the
-  transfer and his involvement with HighTower.Shetty "lost virtually all of [Fabric''s]
-  money" "within a matter of weeks", at which point he fessed up to Fabric. Shetty
-  had placed all of the funds into protocols based around the Terra stablecoin, which
-  collapsed dramatically only a month later.Shetty has pled not guilty, and has been
-  released on bond.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Fabric CFO funds misappropriation
+blockchain: terra
+financial_loss_usd: 35000000
+notes: 'Nevin Shetty, the former chief financial officer of the Fabric e-commerce platform, was federally indicted for wire
+  fraud after allegedly misappropriating $35 million from Fabric to put into his cryptocurrency platform HighTower. Shetty
+  stole the money in April 2022, shortly after being told he would be fired from Fabric for performance reasons.According
+  to the grand jury indictment, Shetty planned to put the funds into cryptocurrency positions that "could have yielded returns
+  of 20 percent or more annually", and planned to return 6% to Fabric, keeping the difference. This so-called "investment"
+  contradicted the conservative investment strategy that Shetty had helped to draft for Fabric, and he concealed both the
+  existence of the transfer and his involvement with HighTower.Shetty "lost virtually all of [Fabric''s] money" "within a
+  matter of weeks", at which point he fessed up to Fabric. Shetty had placed all of the funds into protocols based around
+  the Terra stablecoin, which collapsed dramatically only a month later.Shetty has pled not guilty, and has been released
+  on bond.
 
 
   Total loss estimated at $35,000,000.'

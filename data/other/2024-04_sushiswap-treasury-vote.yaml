@@ -3,17 +3,15 @@ source_url: https://decrypt.co/225431/sushiswap-community-cries-foul-over-vote
 date_of_breach: '2024-04-04'
 date_of_disclosure: '2024-04-04'
 category: other
-notes: The leadership team behind SushiSwap, a popular defi platform, submitted proposals
-  for a DAO governance vote that would transfer control of around $40 million from
-  the DAO to a small centralized organization called "Sushi Labs". That organization
-  would also receive all future airdrops awarded to SushiSwap. According to the proposal,
-  this was motivated by a desire for efficiency and faster development.The "yes" votes
-  are currently in the lead with a 63% margin. The most yes votes came from sushigov.eth,
-  the official SushiSwap team address, which also created the proposal. It is the
-  first time that address has ever participated in a governance proposal.The 5.5 million
-  yes votes from the team wallet, plus another 3.1 million delegated from other community
-  members, were enough to push the vote to majority support. A former SushiSwap contributor
-  has also alleged that the SushiSwap team was manipulating the vote with additional
-  wallets.On Twitter, Sushi's "Head Chef" claimed that he had consulted with lawyers
-  and then authorized the voting activity out of fear of an "extortative [sic] governance
+initial_attack_vector: Governance attack / malicious on-chain proposal
+vendor_product: SushiSwap treasury vote
+notes: The leadership team behind SushiSwap, a popular defi platform, submitted proposals for a DAO governance vote that would
+  transfer control of around $40 million from the DAO to a small centralized organization called "Sushi Labs". That organization
+  would also receive all future airdrops awarded to SushiSwap. According to the proposal, this was motivated by a desire for
+  efficiency and faster development.The "yes" votes are currently in the lead with a 63% margin. The most yes votes came from
+  sushigov.eth, the official SushiSwap team address, which also created the proposal. It is the first time that address has
+  ever participated in a governance proposal.The 5.5 million yes votes from the team wallet, plus another 3.1 million delegated
+  from other community members, were enough to push the vote to majority support. A former SushiSwap contributor has also
+  alleged that the SushiSwap team was manipulating the vote with additional wallets.On Twitter, Sushi's "Head Chef" claimed
+  that he had consulted with lawyers and then authorized the voting activity out of fear of an "extortative [sic] governance
   attack attempt".

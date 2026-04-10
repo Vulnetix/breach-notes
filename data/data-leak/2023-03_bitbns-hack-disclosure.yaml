@@ -3,15 +3,15 @@ source_url: https://twitter.com/zachxbt/status/1630665458134163476
 date_of_breach: 2023-03-01
 date_of_disclosure: 2023-03-01
 category: data-leak
-notes: 'An investigation by crypto sleuth zachxbt uncovered that the Indian crypto
-  exchange BitBNS had been hacked on February 1, 2022, but hid it from users. After
-  experiencing a $7.5 million theft, the exchange tweeted "system maintenance in progress",
-  suggesting they were having problems with Amazon Web Services.After zachxbt''s investigation,
-  BitBNS admitted that they had hidden the hack from customers. "Law enforcement advised
-  us that the users should be educated about the incident only after the investigation
-  is completed or reaches a dead end," said BitBNS CEO Guarav Dahake, who also said
-  that some funds were ultimately recovered thanks to law enforcement and cooperation
-  from other exchanges.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: BitBNS
+financial_loss_usd: 7500000
+notes: 'An investigation by crypto sleuth zachxbt uncovered that the Indian crypto exchange BitBNS had been hacked on February
+  1, 2022, but hid it from users. After experiencing a $7.5 million theft, the exchange tweeted "system maintenance in progress",
+  suggesting they were having problems with Amazon Web Services.After zachxbt''s investigation, BitBNS admitted that they
+  had hidden the hack from customers. "Law enforcement advised us that the users should be educated about the incident only
+  after the investigation is completed or reaches a dead end," said BitBNS CEO Guarav Dahake, who also said that some funds
+  were ultimately recovered thanks to law enforcement and cooperation from other exchanges.
 
 
   Total loss estimated at $7,500,000.'

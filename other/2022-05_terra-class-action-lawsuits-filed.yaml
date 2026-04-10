@@ -3,13 +3,13 @@ source_url: https://cryptopotato.com/terra-co-founders-face-lawsuit-from-korean-
 date_of_breach: '2022-05-18'
 date_of_disclosure: '2022-05-18'
 category: other
-notes: Following the collapse of the Terra ecosystem and its tokens TerraUSD and Luna,
-  affected Korean investors have filed both criminal and civil lawsuits against the
-  project's creator, Do Kwon. Represented by RKB &amp; Partners, the lawsuit seeks
-  to seize Kwon's assets and pursue fraud charges.Another Korean group, calling themselves
-  "Victims of Luna, UST coins", has amassed 1,500 members and reportedly plans to
-  file a lawsuit against Kwon and Terraform Labs' other cofounder, Shin Hyun-Seong
-  (who is also known as Daniel Shin, and is no longer with Terraform Labs).This development
-  may be particularly inconvenient for Kwon and Shin, given Terra's legal team quit
-  the company the previous day.On June 17, another investor filed a separate lawsuit
-  against Terraform Labs, Kwon, and various others in a US court.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Terra class action lawsuits filed
+blockchain: terra
+notes: Following the collapse of the Terra ecosystem and its tokens TerraUSD and Luna, affected Korean investors have filed
+  both criminal and civil lawsuits against the project's creator, Do Kwon. Represented by RKB &amp; Partners, the lawsuit
+  seeks to seize Kwon's assets and pursue fraud charges.Another Korean group, calling themselves "Victims of Luna, UST coins",
+  has amassed 1,500 members and reportedly plans to file a lawsuit against Kwon and Terraform Labs' other cofounder, Shin
+  Hyun-Seong (who is also known as Daniel Shin, and is no longer with Terraform Labs).This development may be particularly
+  inconvenient for Kwon and Shin, given Terra's legal team quit the company the previous day.On June 17, another investor
+  filed a separate lawsuit against Terraform Labs, Kwon, and various others in a US court.

@@ -1,19 +1,17 @@
-source_name: '"Bitcoin miner Core Scientific issues bankruptcy warning and the stock
-  is down 97% for the year"'
+source_name: '"Bitcoin miner Core Scientific issues bankruptcy warning and the stock is down 97% for the year"'
 source_url: https://www.cnbc.com/2022/10/27/bitcoin-miner-core-scientific-warns-it-might-go-bankrupt-stock-plunges.html
 date_of_breach: '2022-10-27'
 date_of_disclosure: '2022-10-27'
 category: other
-notes: One of the largest public crypto mining firms in the United States, Core Scientific,
-  filed a notice with the SEC that they would miss upcoming debt payments due in October
-  and November. They also wrote that the company "potentially could seek relief under
-  the applicable bankruptcy or insolvency laws. In the event of a bankruptcy proceeding
-  or insolvency, or restructuring of our capital structure, holders of the Company's
-  common stock could suffer a total loss of their investment."Core Scientific blamed
-  their precarious financial situation on "the prolonged decrease in the price of
-  bitcoin, the increase in electricity costs, the increase in the global bitcoin network
-  hash rate and the litigation with Celsius Networks LLC and its affiliates". Bankrupt
-  crypto platform Celsius owes Core Scientific around $5.4 million.Core Scientific's
-  stock plummeted from around $1 a share to around $0.20 on the news, an 80% decrease.
-  The stock started the year at $10.43 a share, and has decreased in value by 98%
-  year-to-date.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Core Scientific warns of bankruptcy
+blockchain: bitcoin
+notes: One of the largest public crypto mining firms in the United States, Core Scientific, filed a notice with the SEC that
+  they would miss upcoming debt payments due in October and November. They also wrote that the company "potentially could
+  seek relief under the applicable bankruptcy or insolvency laws. In the event of a bankruptcy proceeding or insolvency, or
+  restructuring of our capital structure, holders of the Company's common stock could suffer a total loss of their investment."Core
+  Scientific blamed their precarious financial situation on "the prolonged decrease in the price of bitcoin, the increase
+  in electricity costs, the increase in the global bitcoin network hash rate and the litigation with Celsius Networks LLC
+  and its affiliates". Bankrupt crypto platform Celsius owes Core Scientific around $5.4 million.Core Scientific's stock plummeted
+  from around $1 a share to around $0.20 on the news, an 80% decrease. The stock started the year at $10.43 a share, and has
+  decreased in value by 98% year-to-date.

@@ -5,17 +5,15 @@ source_url: https://leastauthority.com/blog/disclosure-of-security-vulnerabiliti
 date_of_breach: '2022-02-10'
 date_of_disclosure: '2022-02-10'
 category: other
-notes: Atomic Wallet is a cryptocurrency wallet that claims to have more than 3 million
-  downloads and advertises that "we provide users with the exceptional safety of their
-  funds". However, an April 2021 audit by the Least Authority security firm "found
-  that the design and implementation of the Atomic Wallet system does not sufficiently
-  demonstrate considerations for security and places current users of the wallet at
-  significant risk." When the Atomic Wallet team returned to the auditing firm in
-  November to show them they'd addressed the issues, Least Authority found that "a
-  significant number of issues and suggestions remain unresolved and that the implementation
-  in its current state continues to be a security risk for users". After the Atomic
-  Wallet team continued to ignore issues raised by the Least Authority team, the security
-  researchers took the last-ditch step of publicly disclosing that there are serious
-  issues with the platform, and recommending that the software not be used. The researchers
-  did not disclose the specific issues they had found, in hopes of avoiding malicious
-  actors exploiting the outstanding bugs.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Atomic Wallet vulnerabilities
+notes: Atomic Wallet is a cryptocurrency wallet that claims to have more than 3 million downloads and advertises that "we
+  provide users with the exceptional safety of their funds". However, an April 2021 audit by the Least Authority security
+  firm "found that the design and implementation of the Atomic Wallet system does not sufficiently demonstrate considerations
+  for security and places current users of the wallet at significant risk." When the Atomic Wallet team returned to the auditing
+  firm in November to show them they'd addressed the issues, Least Authority found that "a significant number of issues and
+  suggestions remain unresolved and that the implementation in its current state continues to be a security risk for users".
+  After the Atomic Wallet team continued to ignore issues raised by the Least Authority team, the security researchers took
+  the last-ditch step of publicly disclosing that there are serious issues with the platform, and recommending that the software
+  not be used. The researchers did not disclose the specific issues they had found, in hopes of avoiding malicious actors
+  exploiting the outstanding bugs.

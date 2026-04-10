@@ -1,21 +1,19 @@
-source_name: '"Founder of Miami-Based Cryptocurrency Token CluCoin Pleads Guilty to
-  Wire Fraud"'
+source_name: '"Founder of Miami-Based Cryptocurrency Token CluCoin Pleads Guilty to Wire Fraud"'
 source_url: https://www.justice.gov/usao-sdfl/pr/founder-miami-based-cryptocurrency-token-clucoin-pleads-guild-wire-fraud
 date_of_breach: '2024-08-15'
 date_of_disclosure: '2024-08-15'
 category: data-leak
-notes: 'In January 2023, Twitch streamer DNP3 issued a statement admitting that he
-  had gambled away investor funds while chasing losses. "Eventually I lost everything.
-  In addition to my own life savings, I also irresponsibly used investor funds to
-  try and ''get my money back'' from the casino," he wrote. He had founded crypto
-  projects including CluCloin, the Gridcraft metaverse project, and the Goobers NFT
-  project.Now, Austin "DNP3" Taylor has pleaded guilty to wire fraud after stealing
-  around $1.14 million in investor funds from his CluCoin project, which had claimed
-  it would "help others in need". DNP3 himself had built up a reputation of making
-  generous gifts while livestreaming. He transferred the stolen funds to online casinos,
-  where he then gambled them away.Taylor faces up to 20 years in prison. The statement
-  from the U.S. Attorney''s Office announced that authorities would be notifying identified
-  victims via NFT, and encouraging them to submit statements to the FBI.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Austin "DNP3" Taylor
+financial_loss_usd: 1140000
+notes: 'In January 2023, Twitch streamer DNP3 issued a statement admitting that he had gambled away investor funds while chasing
+  losses. "Eventually I lost everything. In addition to my own life savings, I also irresponsibly used investor funds to try
+  and ''get my money back'' from the casino," he wrote. He had founded crypto projects including CluCloin, the Gridcraft metaverse
+  project, and the Goobers NFT project.Now, Austin "DNP3" Taylor has pleaded guilty to wire fraud after stealing around $1.14
+  million in investor funds from his CluCoin project, which had claimed it would "help others in need". DNP3 himself had built
+  up a reputation of making generous gifts while livestreaming. He transferred the stolen funds to online casinos, where he
+  then gambled them away.Taylor faces up to 20 years in prison. The statement from the U.S. Attorney''s Office announced that
+  authorities would be notifying identified victims via NFT, and encouraging them to submit statements to the FBI.
 
 
   Total loss estimated at $1,140,000.'

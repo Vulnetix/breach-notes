@@ -1,17 +1,15 @@
-source_name: '"Crypto Twitter Reacts to Arkham’s New ''Dox-to-Earn'' Intelligence
-  Exchange"'
+source_name: '"Crypto Twitter Reacts to Arkham’s New ''Dox-to-Earn'' Intelligence Exchange"'
 source_url: https://decrypt.co/147920/crypto-twitter-reacts-arkhams-new-dox-earn-intelligence-exchange
 date_of_breach: '2023-07-10'
 date_of_disclosure: '2023-07-10'
 category: data-leak
-notes: Arkham Intelligence, a blockchain intelligence company with the tagline "deanonymizing
-  the blockchain", announced the launch of its "on-chain intelligence exchange", inviting
-  people to "buy and sell information on the owner of any blockchain wallet address—anonymously,
-  via smart contract." In the crypto world where transaction data is largely public,
-  maintaining pseudonymity is often a critical part of maintaining safety and privacy.
-  Needless to say, this had a mixed reception, with many terming the exchange "dox-to-earn"."hey
-  isn't the most profitable use of this just to put a bounty on whale wallets and
-  then kidnap people? like ... did that come up in any meetings?" wrote one Twitter
-  user. "We are now one step closer to onchain assassination markets", wrote another.
-  Others, however, were more optimistic, speaking about "doxx[ing] scammers", "democratiz[ing]
-  tools [the government] already has", and, in the longer term, "accelerat[ing] privacy".
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Arkham Intelligence intelligence exchange
+notes: Arkham Intelligence, a blockchain intelligence company with the tagline "deanonymizing the blockchain", announced the
+  launch of its "on-chain intelligence exchange", inviting people to "buy and sell information on the owner of any blockchain
+  wallet address—anonymously, via smart contract." In the crypto world where transaction data is largely public, maintaining
+  pseudonymity is often a critical part of maintaining safety and privacy. Needless to say, this had a mixed reception, with
+  many terming the exchange "dox-to-earn"."hey isn't the most profitable use of this just to put a bounty on whale wallets
+  and then kidnap people? like ... did that come up in any meetings?" wrote one Twitter user. "We are now one step closer
+  to onchain assassination markets", wrote another. Others, however, were more optimistic, speaking about "doxx[ing] scammers",
+  "democratiz[ing] tools [the government] already has", and, in the longer term, "accelerat[ing] privacy".

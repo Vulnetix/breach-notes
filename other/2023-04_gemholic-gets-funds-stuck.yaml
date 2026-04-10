@@ -3,11 +3,10 @@ source_url: https://twitter.com/0xedenau/status/1644016993996247040
 date_of_breach: '2023-04-06'
 date_of_disclosure: '2023-04-06'
 category: other
-notes: The Gemholic project raised 921 ETH (~$1.7 million) in a token sale only to
-  discover there was no way for them to transfer those funds out of the smart contract.
-  The project is built on the zkSync layer 2, and the smart contract developers implemented
-  their transfer function using .transfer() — a common function used with Ethereum
-  projects that is not supported by zkSync.The zkSync project evidently came to the
-  rescue of Gemholic, announcing that they would change the protocol in a new release
-  to add support for Solidity functions such as .transfer(), which will ultimately
-  free Gemoholic's locked funds.
+vendor_product: Gemholic gets funds stuck
+blockchain: ethereum
+notes: The Gemholic project raised 921 ETH (~$1.7 million) in a token sale only to discover there was no way for them to transfer
+  those funds out of the smart contract. The project is built on the zkSync layer 2, and the smart contract developers implemented
+  their transfer function using .transfer() — a common function used with Ethereum projects that is not supported by zkSync.The
+  zkSync project evidently came to the rescue of Gemholic, announcing that they would change the protocol in a new release
+  to add support for Solidity functions such as .transfer(), which will ultimately free Gemoholic's locked funds.

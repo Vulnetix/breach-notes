@@ -3,17 +3,14 @@ source_url: https://fid.nv.gov/uploadedFiles/fidnvgov/content/Opinion/Prime%20Tr
 date_of_breach: '2023-06-22'
 date_of_disclosure: '2023-06-22'
 category: other
-notes: The Nevada Financial Institutions Division issued a cease and desist to the
-  Prime Trust crypto custodian. Earlier in the month, the apparently embattled Prime
-  Trust signed a non-binding letter of intent of acquisition with BitGo, but BitGo
-  announced the deal was off on June 22. The same day, Stably announced that they
-  had received a letter from Prime Trust announcing that deposits and withdrawals
-  would be halted, which attributed the move to an order from the NFID.Now, the cease
-  and desist, filed June 21, has become public. It alleges that "the overall financial
-  condition of [Prime Trust] has considerably deteriorated to a critically deficient
-  level" and that "On or about June 21, 2023, Respondent was unable to honor customer
-  withdrawals due to a shortfall of customer funds". The NFID alleged that Prime Trust
-  "has materially and willfully breached its fiduciary duties to its customers by
-  failing to safeguard assets under its custody and is unable to meet all customer
-  disbursement requests."Prime Trust had been a partner of the TrueUSD stablecoin,
-  which halted minting on June 10 for undisclosed reasons.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Prime Trust
+notes: The Nevada Financial Institutions Division issued a cease and desist to the Prime Trust crypto custodian. Earlier in
+  the month, the apparently embattled Prime Trust signed a non-binding letter of intent of acquisition with BitGo, but BitGo
+  announced the deal was off on June 22. The same day, Stably announced that they had received a letter from Prime Trust announcing
+  that deposits and withdrawals would be halted, which attributed the move to an order from the NFID.Now, the cease and desist,
+  filed June 21, has become public. It alleges that "the overall financial condition of [Prime Trust] has considerably deteriorated
+  to a critically deficient level" and that "On or about June 21, 2023, Respondent was unable to honor customer withdrawals
+  due to a shortfall of customer funds". The NFID alleged that Prime Trust "has materially and willfully breached its fiduciary
+  duties to its customers by failing to safeguard assets under its custody and is unable to meet all customer disbursement
+  requests."Prime Trust had been a partner of the TrueUSD stablecoin, which halted minting on June 10 for undisclosed reasons.

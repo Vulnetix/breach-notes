@@ -3,13 +3,12 @@ source_url: https://twitter.com/LFG_org/status/1526126703046582272
 date_of_breach: '2022-05-16'
 date_of_disclosure: '2022-05-16'
 category: other
-notes: Many were eagerly awaiting a report from Luna Foundation Guard (LFG) on what
-  happened to the several billion dollars' worth of Bitcoin reserves they once held,
-  which they transferred during the UST collapse. The organization tweeted an explanation
-  of the actions they took with those funds on May 16, describing how they began to
-  convert Bitcoin to UST. They referred to transferring BTC and other reserves to
-  "a counterparty", who traded them UST in exchange. They didn't name who these counterparties
-  were.More than a few people were unsatisfied with this reporting, asking more transparency
-  around who these "counterparties" were. Ultimately, this action benefited the "counterparties",
-  providing liquidity to these whales who were able to exit their now risky UST positions
-  for a good price, and did not help most of the individuals holding UST.
+vendor_product: Luna Foundation Guard report
+blockchain: terra
+notes: Many were eagerly awaiting a report from Luna Foundation Guard (LFG) on what happened to the several billion dollars'
+  worth of Bitcoin reserves they once held, which they transferred during the UST collapse. The organization tweeted an explanation
+  of the actions they took with those funds on May 16, describing how they began to convert Bitcoin to UST. They referred
+  to transferring BTC and other reserves to "a counterparty", who traded them UST in exchange. They didn't name who these
+  counterparties were.More than a few people were unsatisfied with this reporting, asking more transparency around who these
+  "counterparties" were. Ultimately, this action benefited the "counterparties", providing liquidity to these whales who were
+  able to exit their now risky UST positions for a good price, and did not help most of the individuals holding UST.

@@ -3,16 +3,15 @@ source_url: https://crypto.com/product-news/luna-trading-incident/
 date_of_breach: '2022-05-13'
 date_of_disclosure: '2022-05-13'
 category: other
-notes: One of the features of crypto that its proponents sometimes highlight is that
-  transactions can't be reversed. This, of course, is not true when making trades
-  on exchanges like Crypto.com, who can largely do whatever they want with the wallets
-  they maintain and the coins they keep track of on users' behalf.On May 13, the company
-  announced it would be reversing transactions made during an hour-long period on
-  May 12 when "users who traded LUNA were quoted an incorrect price". Some users were
-  able to profit off the discrepancy, but later were told that their transactions
-  were being reversed. Crypto.com offered $10 in CRO, their cryptocurrency token,
-  "for the inconvenience caused". Crypto.com halted Luna trading after discovering
-  the issue, and it remains halted as of May 13.The issue sounds quite similar to
-  issues that affected various defi projects around the same time. Several projects
-  who failed to account for unexpected Luna price data coming from blockchain oracles
-  including Chainlink suffered major attacks.
+initial_attack_vector: Oracle price manipulation
+vendor_product: Crypto.com reverses Luna trades
+blockchain: terra
+notes: One of the features of crypto that its proponents sometimes highlight is that transactions can't be reversed. This,
+  of course, is not true when making trades on exchanges like Crypto.com, who can largely do whatever they want with the wallets
+  they maintain and the coins they keep track of on users' behalf.On May 13, the company announced it would be reversing transactions
+  made during an hour-long period on May 12 when "users who traded LUNA were quoted an incorrect price". Some users were able
+  to profit off the discrepancy, but later were told that their transactions were being reversed. Crypto.com offered $10 in
+  CRO, their cryptocurrency token, "for the inconvenience caused". Crypto.com halted Luna trading after discovering the issue,
+  and it remains halted as of May 13.The issue sounds quite similar to issues that affected various defi projects around the
+  same time. Several projects who failed to account for unexpected Luna price data coming from blockchain oracles including
+  Chainlink suffered major attacks.

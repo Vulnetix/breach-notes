@@ -1,22 +1,18 @@
-source_name: '"Global Cryptocurrency Exchange BitMEX Fined $100 Million For Violating
-  Bank Secrecy Act"'
+source_name: '"Global Cryptocurrency Exchange BitMEX Fined $100 Million For Violating Bank Secrecy Act"'
 source_url: https://www.justice.gov/usao-sdny/pr/global-cryptocurrency-exchange-bitmex-fined-100-million-violating-bank-secrecy-act
 date_of_breach: '2025-01-15'
 date_of_disclosure: '2025-01-15'
 category: other
-notes: 'Although BitMEX had previously tried to argue that they should not face additional
-  penalties after being fined $110 million in 2024 for Bank Secrecy Act violations,
-  a judge has disagreed. BitMEX pleaded guilty to failing to implement an adequate
-  anti-money laundering program, as required by US regulations. During the five-year
-  period of "willful" non-compliance, the firm allegedly drew $1.3 billion in revenues.BitMEX
-  was not supposed to serve US customers, yet Americans made up around 11.5% of their
-  customers. "BITMEX policies nominally in place to prevent such trading were toothless
-  or easily overridden to serve BITMEX''s bottom line goal of obtaining revenue through
-  the U.S. market without regard to U.S. criminal laws," alleged a press release by
-  the US Attorney''s Office of the Southern District of New York. They added: "Corporate
-  executives took affirmative steps purportedly designed to exempt BITMEX from the
-  application of U.S. laws like AML and KYC requirements, despite knowing of BITMEX''s
-  obligation to implement such programs by operating in the U.S. As part of BITMEX''s
-  willful evasion of U.S. AML laws, the company lied to a bank about the purpose and
-  nature of a subsidiary to allow BITMEX to pump millions of dollars through the U.S.
-  financial system."'
+initial_attack_vector: Regulatory / legal action
+vendor_product: BitMex
+notes: 'Although BitMEX had previously tried to argue that they should not face additional penalties after being fined $110
+  million in 2024 for Bank Secrecy Act violations, a judge has disagreed. BitMEX pleaded guilty to failing to implement an
+  adequate anti-money laundering program, as required by US regulations. During the five-year period of "willful" non-compliance,
+  the firm allegedly drew $1.3 billion in revenues.BitMEX was not supposed to serve US customers, yet Americans made up around
+  11.5% of their customers. "BITMEX policies nominally in place to prevent such trading were toothless or easily overridden
+  to serve BITMEX''s bottom line goal of obtaining revenue through the U.S. market without regard to U.S. criminal laws,"
+  alleged a press release by the US Attorney''s Office of the Southern District of New York. They added: "Corporate executives
+  took affirmative steps purportedly designed to exempt BITMEX from the application of U.S. laws like AML and KYC requirements,
+  despite knowing of BITMEX''s obligation to implement such programs by operating in the U.S. As part of BITMEX''s willful
+  evasion of U.S. AML laws, the company lied to a bank about the purpose and nature of a subsidiary to allow BITMEX to pump
+  millions of dollars through the U.S. financial system."'

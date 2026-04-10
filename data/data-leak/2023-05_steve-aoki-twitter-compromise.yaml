@@ -3,16 +3,17 @@ source_url: https://twitter.com/zachxbt/status/1661902544648503296
 date_of_breach: '2023-05-25'
 date_of_disclosure: '2023-05-25'
 category: data-leak
-notes: 'Twitter account compromises remain a lucrative way to scam crypto enthusiasts.
-  Someone was able to compromise the Twitter account belonging to electronic musician
-  and crypto enthusiast Steve Aoki, posting a fake link to his NFT project that drained
-  unsuspecting traders'' wallets.The scam was helped along by ben.eth, a Twitter personality
-  who retweeted one of the tweets by the compromised account in which Aoki appeared
-  to endorse a token created by ben.eth. According to crypto sleuth zachxbt, multiple
-  followers of ben.eth were impacted by his retweet, which zachxbt characterized as
-  "quote tweet[ing] a phishing scam posted by the compromised @steveaoki account for
-  clout". Ben.eth ultimately promised to reimburse his fans who lost money thanks
-  to his tweets.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Steve Aoki Twitter compromise
+blockchain: ethereum
+financial_loss_usd: 170000
+notes: 'Twitter account compromises remain a lucrative way to scam crypto enthusiasts. Someone was able to compromise the
+  Twitter account belonging to electronic musician and crypto enthusiast Steve Aoki, posting a fake link to his NFT project
+  that drained unsuspecting traders'' wallets.The scam was helped along by ben.eth, a Twitter personality who retweeted one
+  of the tweets by the compromised account in which Aoki appeared to endorse a token created by ben.eth. According to crypto
+  sleuth zachxbt, multiple followers of ben.eth were impacted by his retweet, which zachxbt characterized as "quote tweet[ing]
+  a phishing scam posted by the compromised @steveaoki account for clout". Ben.eth ultimately promised to reimburse his fans
+  who lost money thanks to his tweets.
 
 
   Total loss estimated at $170,000.'

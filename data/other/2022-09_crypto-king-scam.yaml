@@ -1,30 +1,26 @@
-source_name: '"Luxury cars seized from 23-year-old ''Crypto King'' as investors try
-  to recoup millions"'
+source_name: '"Luxury cars seized from 23-year-old ''Crypto King'' as investors try to recoup millions"'
 source_url: https://www.cbc.ca/news/canada/toronto/luxury-cars-seized-crypto-king-investors-try-recoup-millions-1.6583982
 date_of_breach: '2022-09-20'
 date_of_disclosure: '2022-09-20'
 category: other
-notes: '"[I] was a 20-something-year-old kid" said Aiden Pleterski, when asked why
-  he kept his "investment" scheme going when he knew he couldn''t repay his existing
-  customers. Although he once described himself as the "Crypto King" in several articles
-  he paid to have run, Pleterski is now undergoing a bankruptcy process and facing
-  multiple lawsuits, where creditors are trying to first find and then recoup the
-  more than CA$41.5 million (~US$30.5 million) they''ve collectively entrusted to
-  him.So far, the court has seized two McLarens, two BMWs, and a Lamborghini — only
-  a few cars out of the eleven luxury cars Pleterski owned, plus another four he was
-  renting. Investors have also asked about the CA$45,000-a-month (~US$30,000) lakefront
-  mansion he was renting in Ontario, watches, and gold bars, hoping they could be
-  liquidated to repay some of his debts.Pleterski had promised investors that he would
-  invest on their behalf, taking 30% of any capital gains, with a goal of achieving
-  10–20% gains biweekly. He also promised that any loss on the initial investment
-  would be paid back in full. Pleterski had made some money in crypto as a teenager,
-  but according to him, he lost most of the money he was given to invest in late 2021
-  and early 2022 "in a series of margin calls and bad trades". An investor claims
-  that at one point, he was given pictures and videos of financial statements showing
-  an account with $311 million, but when he checked with the company supposedly maintaining
-  the account, they said they had no accounts with that kind of funds. So far, the
-  court and investors alike have struggled to untangle Pleterski''s mess — according
-  to him, he was unorganized and didn''t track his finances or debts.
+initial_attack_vector: Regulatory / legal action
+vendor_product: '"Crypto King"'
+financial_loss_usd: 31500000
+financial_recovered_usd: 2000000
+notes: '"[I] was a 20-something-year-old kid" said Aiden Pleterski, when asked why he kept his "investment" scheme going when
+  he knew he couldn''t repay his existing customers. Although he once described himself as the "Crypto King" in several articles
+  he paid to have run, Pleterski is now undergoing a bankruptcy process and facing multiple lawsuits, where creditors are
+  trying to first find and then recoup the more than CA$41.5 million (~US$30.5 million) they''ve collectively entrusted to
+  him.So far, the court has seized two McLarens, two BMWs, and a Lamborghini — only a few cars out of the eleven luxury cars
+  Pleterski owned, plus another four he was renting. Investors have also asked about the CA$45,000-a-month (~US$30,000) lakefront
+  mansion he was renting in Ontario, watches, and gold bars, hoping they could be liquidated to repay some of his debts.Pleterski
+  had promised investors that he would invest on their behalf, taking 30% of any capital gains, with a goal of achieving 10–20%
+  gains biweekly. He also promised that any loss on the initial investment would be paid back in full. Pleterski had made
+  some money in crypto as a teenager, but according to him, he lost most of the money he was given to invest in late 2021
+  and early 2022 "in a series of margin calls and bad trades". An investor claims that at one point, he was given pictures
+  and videos of financial statements showing an account with $311 million, but when he checked with the company supposedly
+  maintaining the account, they said they had no accounts with that kind of funds. So far, the court and investors alike have
+  struggled to untangle Pleterski''s mess — according to him, he was unorganized and didn''t track his finances or debts.
 
 
   Total loss estimated at $31,500,000.'

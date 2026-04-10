@@ -3,12 +3,13 @@ source_url: https://cointelegraph.com/news/crypto-exchange-xt-com-withdrawal-hal
 date_of_breach: '2024-11-28'
 date_of_disclosure: '2024-11-28'
 category: data-leak
-notes: 'On November 28, cryptocurrency exchange XT.com abruptly suspended withdrawals,
-  citing a "wallet upgrade and maintenance". However, after a blockchain security
-  firm identified $1.7 million in suspicious transfers, XT.com acknowledged that they
-  had "detected an abnormal transfer from our platform wallet". According to an announcement,
-  the stolen funds were company assets, rather than cryptocurrencies belonging to
-  users.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: XT.com
+financial_loss_usd: 1700000
+notes: 'On November 28, cryptocurrency exchange XT.com abruptly suspended withdrawals, citing a "wallet upgrade and maintenance".
+  However, after a blockchain security firm identified $1.7 million in suspicious transfers, XT.com acknowledged that they
+  had "detected an abnormal transfer from our platform wallet". According to an announcement, the stolen funds were company
+  assets, rather than cryptocurrencies belonging to users.
 
 
   Total loss estimated at $1,700,000.'

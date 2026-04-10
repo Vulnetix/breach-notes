@@ -3,21 +3,17 @@ source_url: https://twitter.com/manifoldxyz/status/1508515738457305091
 date_of_breach: '2022-03-28'
 date_of_disclosure: '2022-03-28'
 category: other
-notes: 'Collectors were excited for a chance to obtain NFTs from the artist Pak''s
-  upcoming collection, "Ash Chapter II: Metamorphosis". Pak is an extremely popular
-  digital artist, and his newest collection boasted collaborators including Pussy
-  Riot, Paris Hilton, and others.Unfortunately, the drop did not go smoothly. Heavy
-  botting caused gas fees to spike, and the project claimed there were issues with
-  MetaMask''s estimation of gas fees. Outside parties have suggested the issue was
-  not with MetaMask, but rather with a poorly-implemented smart contract.People wound
-  up making transactions that ran out of gas before completing, meaning they lost
-  their gas fees and did not successfully receive any NFTs. Others paid sufficient
-  gas, but ran into other errors with the contract that meant they didn''t get an
-  NFT. The spiking gas fees meant some people lost a considerable amount of money
-  — people reported failed transactions that cost them amounts ranging from 0.1 and
-  0.8 ETH (between $338 and $2,700). Some who did successfully receive NFTs also claimed
-  to have lost value as a result of the rocky mint, which they said contributed to
-  a lower-valued NFT.manifold.xyz, the group behind the mint, reported that they planned
-  to reimburse people who lost gas trying to mint NFTs. Some people seemed happy with
-  this solution, while others were upset that they missed their chance to obtain an
-  NFT they wanted as a result of the problems.'
+vendor_product: Pak NFT transaction failures
+blockchain: ethereum
+notes: 'Collectors were excited for a chance to obtain NFTs from the artist Pak''s upcoming collection, "Ash Chapter II: Metamorphosis".
+  Pak is an extremely popular digital artist, and his newest collection boasted collaborators including Pussy Riot, Paris
+  Hilton, and others.Unfortunately, the drop did not go smoothly. Heavy botting caused gas fees to spike, and the project
+  claimed there were issues with MetaMask''s estimation of gas fees. Outside parties have suggested the issue was not with
+  MetaMask, but rather with a poorly-implemented smart contract.People wound up making transactions that ran out of gas before
+  completing, meaning they lost their gas fees and did not successfully receive any NFTs. Others paid sufficient gas, but
+  ran into other errors with the contract that meant they didn''t get an NFT. The spiking gas fees meant some people lost
+  a considerable amount of money — people reported failed transactions that cost them amounts ranging from 0.1 and 0.8 ETH
+  (between $338 and $2,700). Some who did successfully receive NFTs also claimed to have lost value as a result of the rocky
+  mint, which they said contributed to a lower-valued NFT.manifold.xyz, the group behind the mint, reported that they planned
+  to reimburse people who lost gas trying to mint NFTs. Some people seemed happy with this solution, while others were upset
+  that they missed their chance to obtain an NFT they wanted as a result of the problems.'

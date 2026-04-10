@@ -3,10 +3,10 @@ source_url: https://cointelegraph.com/news/yield-app-liquidates-blames-ftx-losse
 date_of_breach: '2024-06-28'
 date_of_disclosure: '2024-06-28'
 category: other
-notes: Yield App, a crypto investment platform, has announced that it will be entering
-  liquidation proceedings. Citing "significant financial challenges", the project
-  announced that the platform would be suspended pending liquidation.In the immediate
-  aftermath of the FTX collapse in November 2022, Yield App CEO Tim Frost had assured
-  customers that "Yield App has no exposure to Alameda or the FTT token, and no signifiant
-  exposure to FTX". However, Yield is now — going on two years after the FTX collapse
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Yield App
+notes: Yield App, a crypto investment platform, has announced that it will be entering liquidation proceedings. Citing "significant
+  financial challenges", the project announced that the platform would be suspended pending liquidation.In the immediate aftermath
+  of the FTX collapse in November 2022, Yield App CEO Tim Frost had assured customers that "Yield App has no exposure to Alameda
+  or the FTT token, and no signifiant exposure to FTX". However, Yield is now — going on two years after the FTX collapse
   — claiming to be suing "several hedge funds" that had lost money on FTX.

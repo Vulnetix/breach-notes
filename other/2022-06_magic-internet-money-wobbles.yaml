@@ -3,19 +3,15 @@ source_url: https://cointelegraph.com/news/magic-internet-money-token-depegs-as-
 date_of_breach: '2022-06-18'
 date_of_disclosure: '2022-06-18'
 category: other
-notes: A stablecoin called Magic Internet Money (yes, really) is one of the latest
-  to have trouble maintaining its peg. The stablecoin is issued by the Abracadabra
-  lending platform, which was founded by Daniele Sesta. Some may recognize the name
-  from the Wonderland project failure in January, during which it was also discovered
-  that the pseudonymous chief developer on the project was Michael Patryn, a shady
-  character with a history of financial crimes.On June 17, $MIM began to lose its
-  $1 peg, and on June 18 it dropped below $0.91. Later on June 18, it returned above
-  $0.95, but continued to be priced below its intended peg.The supply of $MIM dropped
-  precipitously in the wake of the Terra collapse, as traders lost confidence in algorithmic
-  stablecoins more broadly. Amidst plummeting markets, rumors have surfaced that Abracadabra
-  is "nearly insolvent" due to bad debt left over from the Terra crash. Sesta has
-  refuted the claim, writing on Twitter that the "treasury has more money than the
-  debt" and that the rumors were simply people "spread[ing] FUD [to] try to recover
-  your losses from shorting a bit". The project announced that it would be implementing
-  "peg stability measures", including increasing interest rates on one of their lending
-  markets.
+vendor_product: Magic Internet Money wobbles
+notes: A stablecoin called Magic Internet Money (yes, really) is one of the latest to have trouble maintaining its peg. The
+  stablecoin is issued by the Abracadabra lending platform, which was founded by Daniele Sesta. Some may recognize the name
+  from the Wonderland project failure in January, during which it was also discovered that the pseudonymous chief developer
+  on the project was Michael Patryn, a shady character with a history of financial crimes.On June 17, $MIM began to lose its
+  $1 peg, and on June 18 it dropped below $0.91. Later on June 18, it returned above $0.95, but continued to be priced below
+  its intended peg.The supply of $MIM dropped precipitously in the wake of the Terra collapse, as traders lost confidence
+  in algorithmic stablecoins more broadly. Amidst plummeting markets, rumors have surfaced that Abracadabra is "nearly insolvent"
+  due to bad debt left over from the Terra crash. Sesta has refuted the claim, writing on Twitter that the "treasury has more
+  money than the debt" and that the rumors were simply people "spread[ing] FUD [to] try to recover your losses from shorting
+  a bit". The project announced that it would be implementing "peg stability measures", including increasing interest rates
+  on one of their lending markets.

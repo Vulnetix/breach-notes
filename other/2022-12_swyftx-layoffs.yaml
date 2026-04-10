@@ -1,12 +1,12 @@
-source_name: '"‘Worst-case scenario’: Local crypto exchange Swyftx lays off 40% of
-  staff"'
+source_name: '"‘Worst-case scenario’: Local crypto exchange Swyftx lays off 40% of staff"'
 source_url: https://www.brisbanetimes.com.au/business/companies/worst-case-scenario-local-crypto-exchange-swyftx-lays-off-40-percent-of-staff-20221205-p5c3mu.html
 date_of_breach: '2022-12-05'
 date_of_disclosure: '2022-12-05'
 category: other
-notes: Following a round of layoffs in August that cut 21% of their workforce, Australian
-  cryptocurrency exchange Swyftx has just performed another round of layoffs less
-  than four months later. This time they're cutting 40% of their staff, around 90
-  people.Swyftx's CEO admitted the company had grown too fast. He attributed the decision
-  to the continued downturn in the crypto market and shaken trust as a result of FTX,
-  though Swyftx says they had no direct exposure to the bankrupt crypto exchange.
+vendor_product: Swyftx layoffs
+affected_count: 90
+notes: Following a round of layoffs in August that cut 21% of their workforce, Australian cryptocurrency exchange Swyftx has
+  just performed another round of layoffs less than four months later. This time they're cutting 40% of their staff, around
+  90 people.Swyftx's CEO admitted the company had grown too fast. He attributed the decision to the continued downturn in
+  the crypto market and shaken trust as a result of FTX, though Swyftx says they had no direct exposure to the bankrupt crypto
+  exchange.

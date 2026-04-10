@@ -1,30 +1,27 @@
-source_name: '"Friendsies NFT Collection Deletes Twitter After ''Pause'' Announcement
-  Spurs Rug Pull Accusations"'
+source_name: '"Friendsies NFT Collection Deletes Twitter After ''Pause'' Announcement Spurs Rug Pull Accusations"'
 source_url: https://www.coindesk.com/web3/2023/02/21/friendsies-nft-collection-deletes-twitter-after-pause-announcement-spurs-rug-pull-accusations/
 date_of_breach: '2023-02-21'
 date_of_disclosure: '2023-02-21'
 category: other
-notes: 'After earning $5.3 million in their initial sale, creators of the Friendsies
-  NFT project suddenly announced they would be "pausing" their project due to "market
-  volatility". The project promised buyers "a companion for the metaverse and beyond",
-  that would "be your AR/AI friend to help guide you for life", and that they would
-  eventually develop a "Tomogatchi-like game that is play-to-earn". No game ever emerged,
-  nor did promises of a community treasury or other plans to "build out the brand".After
-  partnering with the renowned auction house Christies to sell nine early-access mint
-  passes, the NFTs were launched in April 2022. Each one started minting at 3.33 ETH
-  in a Dutch auction, which at the time was around $12,000. Now, the NFTs have been
-  selling for around 0.01 ETH (~$17).The project''s social media accounts went dormant
-  late in 2022. On February 21, 2023, the project announced that "As the project founders,
-  we have decided that it would be best to put a pause on Friendsies and all future
-  digital goods for the time being... However the volatility and challenges of the
-  market have made it very difficult to move this project forward in a way we can
-  be proud of. For now, we have decided that it''s best to allow the space to further
-  mature." Some who asked questions like "So no AI friendsies as promised in your
-  roadmap? What''s going on?" found themselves blocked, and shortly afterwards the
-  project deleted its Twitter account.After being called out by crypto sleuth zachxbt
-  for rug-pulling, the Twitter account returned to insist that they were not rug-pulling,
-  and that "we were overwhelmed with hate and threats". Some Friendsies holders also
-  blamed crypto influencers who had promoted the project near the beginning.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Friendsies
+blockchain: ethereum
+financial_loss_usd: 5300000
+notes: 'After earning $5.3 million in their initial sale, creators of the Friendsies NFT project suddenly announced they would
+  be "pausing" their project due to "market volatility". The project promised buyers "a companion for the metaverse and beyond",
+  that would "be your AR/AI friend to help guide you for life", and that they would eventually develop a "Tomogatchi-like
+  game that is play-to-earn". No game ever emerged, nor did promises of a community treasury or other plans to "build out
+  the brand".After partnering with the renowned auction house Christies to sell nine early-access mint passes, the NFTs were
+  launched in April 2022. Each one started minting at 3.33 ETH in a Dutch auction, which at the time was around $12,000. Now,
+  the NFTs have been selling for around 0.01 ETH (~$17).The project''s social media accounts went dormant late in 2022. On
+  February 21, 2023, the project announced that "As the project founders, we have decided that it would be best to put a pause
+  on Friendsies and all future digital goods for the time being... However the volatility and challenges of the market have
+  made it very difficult to move this project forward in a way we can be proud of. For now, we have decided that it''s best
+  to allow the space to further mature." Some who asked questions like "So no AI friendsies as promised in your roadmap? What''s
+  going on?" found themselves blocked, and shortly afterwards the project deleted its Twitter account.After being called out
+  by crypto sleuth zachxbt for rug-pulling, the Twitter account returned to insist that they were not rug-pulling, and that
+  "we were overwhelmed with hate and threats". Some Friendsies holders also blamed crypto influencers who had promoted the
+  project near the beginning.
 
 
   Total loss estimated at $5,300,000.'

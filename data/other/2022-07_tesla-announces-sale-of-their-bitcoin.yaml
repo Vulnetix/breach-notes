@@ -3,14 +3,12 @@ source_url: https://decrypt.co/105594/elon-musk-tesla-sold-75-percent-bitcoin
 date_of_breach: '2022-07-20'
 date_of_disclosure: '2022-07-20'
 category: other
-notes: Tesla announced in their Q2 financial report that they had sold about 75% of
-  the Bitcoin they had been holding. The company first bought $1.5 billion of Bitcoin
-  in January 2021, at between $30,000 and $40,000, but sold 10% of that shortly after.In
-  their report, Tesla stated that "Conversions in Q2 added $936M to our balance sheet."
-  Assuming this is all Bitcoin, this suggests Tesla sold at around $28,900  — a 7–10%
-  decrease from their buy price. The company stated in a shareholder presentation
-  that the "Bitcoin impairment" had damaged the company's Q2 profitability.This is
-  grim news for some crypto enthusiasts, a group that overlaps considerably with Tesla
-  and Musk superfans. Musk's Bitcoin purchases helped to convince many new people
-  to buy in, and the news of Tesla's decision caused a sharp 2.5% decrease in Bitcoin
-  prices.
+vendor_product: Tesla
+blockchain: bitcoin
+notes: Tesla announced in their Q2 financial report that they had sold about 75% of the Bitcoin they had been holding. The
+  company first bought $1.5 billion of Bitcoin in January 2021, at between $30,000 and $40,000, but sold 10% of that shortly
+  after.In their report, Tesla stated that "Conversions in Q2 added $936M to our balance sheet." Assuming this is all Bitcoin,
+  this suggests Tesla sold at around $28,900  — a 7–10% decrease from their buy price. The company stated in a shareholder
+  presentation that the "Bitcoin impairment" had damaged the company's Q2 profitability.This is grim news for some crypto
+  enthusiasts, a group that overlaps considerably with Tesla and Musk superfans. Musk's Bitcoin purchases helped to convince
+  many new people to buy in, and the news of Tesla's decision caused a sharp 2.5% decrease in Bitcoin prices.

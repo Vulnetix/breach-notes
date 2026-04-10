@@ -3,24 +3,22 @@ source_url: https://twitter.com/zachxbt/status/1534537264637825024
 date_of_breach: '2022-06-08'
 date_of_disclosure: '2022-06-08'
 category: other
-notes: 'Crypto-sleuth zachxbt reported on June 8 that Players Only, and NFT project
-  created by a group of NBA players including Michael Carter-Williams and Jerami Grant,
-  appears to be a rug pull. The players used their star power to drum up interest
-  in the project and its somewhat unsettling NFTs of various bobblehead-esque sports
-  players. The project promised close involvement from the athletes who founded it,
-  with a roadmap advertising autographed merchandise, real life and metaverse meetups
-  with the players, and other giveaways.Although the project team promised that "every
-  single one of our holders will win something", the collectors were in for a lot
-  of disappointment: players never showed up for events, and Zoom meetups were never
-  scheduled despite repeated requests, and merchandise was never sent. One person
-  who was promised a signed jersey instead received a t-shirt, apparently devoid of
-  any signature.In mid-May, two project creators announced they would be "stepping
-  back on the project as [they] cannot seem to please the community". The announcement
-  broadly blamed the project''s failures on "lack of interest" in the project. They
-  said they would no longer be providing physical items, and would focus on "athlete
-  utility", though in the time since then the project has remained similarly stagnant.Collectors
-  minted Players Only NFTs in early December for 0.08 ETH each (~$144). One NFT from
-  the project has been sold on the secondary market in the last month, for $0.001
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Players Only NFT
+blockchain: ethereum
+financial_loss_usd: 1400000
+notes: 'Crypto-sleuth zachxbt reported on June 8 that Players Only, and NFT project created by a group of NBA players including
+  Michael Carter-Williams and Jerami Grant, appears to be a rug pull. The players used their star power to drum up interest
+  in the project and its somewhat unsettling NFTs of various bobblehead-esque sports players. The project promised close involvement
+  from the athletes who founded it, with a roadmap advertising autographed merchandise, real life and metaverse meetups with
+  the players, and other giveaways.Although the project team promised that "every single one of our holders will win something",
+  the collectors were in for a lot of disappointment: players never showed up for events, and Zoom meetups were never scheduled
+  despite repeated requests, and merchandise was never sent. One person who was promised a signed jersey instead received
+  a t-shirt, apparently devoid of any signature.In mid-May, two project creators announced they would be "stepping back on
+  the project as [they] cannot seem to please the community". The announcement broadly blamed the project''s failures on "lack
+  of interest" in the project. They said they would no longer be providing physical items, and would focus on "athlete utility",
+  though in the time since then the project has remained similarly stagnant.Collectors minted Players Only NFTs in early December
+  for 0.08 ETH each (~$144). One NFT from the project has been sold on the secondary market in the last month, for $0.001
   ETH (less than $2).
 
 

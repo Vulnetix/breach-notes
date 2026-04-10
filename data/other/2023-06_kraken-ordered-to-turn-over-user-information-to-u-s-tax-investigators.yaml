@@ -3,12 +3,11 @@ source_url: https://www.bloomberg.com/news/articles/2023-06-30/kraken-ordered-to
 date_of_breach: '2023-06-30'
 date_of_disclosure: '2023-06-30'
 category: other
-notes: Bad news for wealthy crypto traders on Kraken, who previously might have hoped
-  to evade paying taxes on their past crypto trades. A judge has ordered the exchange
-  to turn over information to the U.S. Internal Revenue Service on users who engaged
-  in at least $20,000 in trades in any year between 2016 and 2020.Although Kraken
-  argued against the order, describing it as an "unjustified treasure hunt", the judge
-  determined that the IRS was justified in its request, and ordered Kraken to cough
-  up the records. The IRS alleged that although the exchange has more than 4 million
-  users, and has processed $140 billion in trades since its inception in 2011, only
-  288,330 of those users have filed tax returns.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Kraken ordered to turn over user information to U.S. tax investigators
+notes: Bad news for wealthy crypto traders on Kraken, who previously might have hoped to evade paying taxes on their past
+  crypto trades. A judge has ordered the exchange to turn over information to the U.S. Internal Revenue Service on users who
+  engaged in at least $20,000 in trades in any year between 2016 and 2020.Although Kraken argued against the order, describing
+  it as an "unjustified treasure hunt", the judge determined that the IRS was justified in its request, and ordered Kraken
+  to cough up the records. The IRS alleged that although the exchange has more than 4 million users, and has processed $140
+  billion in trades since its inception in 2011, only 288,330 of those users have filed tax returns.

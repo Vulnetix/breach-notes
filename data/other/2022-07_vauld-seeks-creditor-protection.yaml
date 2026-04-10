@@ -1,12 +1,11 @@
-source_name: '"Peter Thiel-Backed Crypto Lender Vauld Files for Protection Against
-  Creditors"'
+source_name: '"Peter Thiel-Backed Crypto Lender Vauld Files for Protection Against Creditors"'
 source_url: https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-files-for-protection-against-creditors-11658337252
 date_of_breach: '2022-07-08'
 date_of_disclosure: '2022-07-08'
 category: other
-notes: Cryptocurrency exchange Vauld, who suspended withdrawals on July 4, filed for
-  a moratorium against creditors in Singapore, a process that's conceptually similar
-  to Chapter 11 bankruptcy proceedings in the U.S.In late June, the exchange laid
-  off 30% of staff and took other measures to cut costs. They later disclosed they
-  were short $70 million, partly from exposure to the Terra ecosystem which collapsed
-  in May.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Vauld seeks creditor protection
+notes: Cryptocurrency exchange Vauld, who suspended withdrawals on July 4, filed for a moratorium against creditors in Singapore,
+  a process that's conceptually similar to Chapter 11 bankruptcy proceedings in the U.S.In late June, the exchange laid off
+  30% of staff and took other measures to cut costs. They later disclosed they were short $70 million, partly from exposure
+  to the Terra ecosystem which collapsed in May.

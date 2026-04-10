@@ -3,12 +3,11 @@ source_url: https://www.bleepingcomputer.com/news/security/hackers-clone-coinbas
 date_of_breach: '2022-06-12'
 date_of_disclosure: '2022-06-12'
 category: data-leak
-notes: The Confiant security research group has discovered a group that is backdooring
-  and distributing versions of legitimate crypto wallets including Coinbase Wallet,
-  MetaMask, TokenPocket, and imToken. The hackers have created reverse-engineered
-  versions of the crypto wallets that operate as designed, but also steal the user's
-  seed phrase, later using it to drain the users' cryptocurrency.The attackers have
-  distributed the tampered applications through websites that clone the legitimate
-  applications' websites. Through search engine poisoning, primarily via Chinese search
-  engines like Baidu, the attackers have successfully gotten unsuspecting users to
-  install the malicious programs.
+initial_attack_vector: Seed phrase / wallet compromise
+vendor_product: SeaFlower
+notes: The Confiant security research group has discovered a group that is backdooring and distributing versions of legitimate
+  crypto wallets including Coinbase Wallet, MetaMask, TokenPocket, and imToken. The hackers have created reverse-engineered
+  versions of the crypto wallets that operate as designed, but also steal the user's seed phrase, later using it to drain
+  the users' cryptocurrency.The attackers have distributed the tampered applications through websites that clone the legitimate
+  applications' websites. Through search engine poisoning, primarily via Chinese search engines like Baidu, the attackers
+  have successfully gotten unsuspecting users to install the malicious programs.

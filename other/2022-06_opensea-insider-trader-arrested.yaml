@@ -3,18 +3,15 @@ source_url: https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace
 date_of_breach: '2022-06-01'
 date_of_disclosure: '2022-06-01'
 category: other
-notes: Nate Chastain was asked to resign from his position as Head of Product at OpenSea
-  in September 2021 following allegations of NFT insider trading. Online sleuths had
-  discovered that he had apparently bought NFTs based on insider knowledge that they
-  would later be featured on OpenSea's front page. On June 1, the U.S. Attorney's
-  Office of the Southern District of New York unsealed an indictment charging Chastain
-  with wire fraud and money laundering, alleging that he had used anonymous crypto
-  wallets and OpenSea accounts to buy NFTs before they were featured on the front
-  page, then resell them for two to five times what he paid for them.After leaving
-  OpenSea in the wake of the allegations, Chastain began pitching a new NFT platform
-  called "Oval" to investors, seeking $3 million in seed funding.Chastain was arrested
-  on June 1. The two charges he faces each carry a maximum sentence of twenty years
-  in prison. The Attorney's Office described the charges as the first ever relating
-  to insider trading of digital assets, and stated that, "today's charges demonstrate
-  the commitment of this Office to stamping out insider trading — whether it occurs
-  on the stock market or the blockchain."
+initial_attack_vector: Regulatory / legal action
+vendor_product: OpenSea insider trader arrested
+notes: Nate Chastain was asked to resign from his position as Head of Product at OpenSea in September 2021 following allegations
+  of NFT insider trading. Online sleuths had discovered that he had apparently bought NFTs based on insider knowledge that
+  they would later be featured on OpenSea's front page. On June 1, the U.S. Attorney's Office of the Southern District of
+  New York unsealed an indictment charging Chastain with wire fraud and money laundering, alleging that he had used anonymous
+  crypto wallets and OpenSea accounts to buy NFTs before they were featured on the front page, then resell them for two to
+  five times what he paid for them.After leaving OpenSea in the wake of the allegations, Chastain began pitching a new NFT
+  platform called "Oval" to investors, seeking $3 million in seed funding.Chastain was arrested on June 1. The two charges
+  he faces each carry a maximum sentence of twenty years in prison. The Attorney's Office described the charges as the first
+  ever relating to insider trading of digital assets, and stated that, "today's charges demonstrate the commitment of this
+  Office to stamping out insider trading — whether it occurs on the stock market or the blockchain."

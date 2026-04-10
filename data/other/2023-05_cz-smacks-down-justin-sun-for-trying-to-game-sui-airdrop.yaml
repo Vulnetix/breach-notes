@@ -3,17 +3,14 @@ source_url: https://twitter.com/cz_binance/status/1652949031524376579
 date_of_breach: '2023-05-01'
 date_of_disclosure: '2023-05-01'
 category: other
-notes: '"Binance LaunchPool are meant as air drops for our retail users, not just
-  for a few whales," tweeted Changpeng "CZ" Zhao, the CEO of Binance, after seeing
-  an alert showing that Justin Sun had transferred $56 million to Binance. "LaunchPool"
-  is a process in which Binance users can farm various tokens — now including SUI
-  — and receive rewards. "Our team told Justin, if he uses any of these to grab the
-  LaunchPool Sui token, we will ''take action against it''. SMH." wrote CZ.Indeed,
-  it later turned out that Sun''s team had farmed around 279,000 SUI (SUI does not
-  yet have a reliable dollar price because it is set to launch later this month).
-  Sun blamed the event on a TUSD market maker, writing, "Regrettably, some of our
-  team members were not fully aware of the intended purpose for these funds and inadvertently
-  used a portion of them to participate in exchange campaigns. Upon realizing this
-  error, we immediately contacted the exchange team and arranged for a full refund
-  of the funds." Those replying to his comment seemed more than a little skeptical
-  that the incident was truly a mistake.'
+vendor_product: CZ smacks down Justin Sun for trying to game SUI airdrop
+blockchain: sui
+notes: '"Binance LaunchPool are meant as air drops for our retail users, not just for a few whales," tweeted Changpeng "CZ"
+  Zhao, the CEO of Binance, after seeing an alert showing that Justin Sun had transferred $56 million to Binance. "LaunchPool"
+  is a process in which Binance users can farm various tokens — now including SUI — and receive rewards. "Our team told Justin,
+  if he uses any of these to grab the LaunchPool Sui token, we will ''take action against it''. SMH." wrote CZ.Indeed, it
+  later turned out that Sun''s team had farmed around 279,000 SUI (SUI does not yet have a reliable dollar price because it
+  is set to launch later this month). Sun blamed the event on a TUSD market maker, writing, "Regrettably, some of our team
+  members were not fully aware of the intended purpose for these funds and inadvertently used a portion of them to participate
+  in exchange campaigns. Upon realizing this error, we immediately contacted the exchange team and arranged for a full refund
+  of the funds." Those replying to his comment seemed more than a little skeptical that the incident was truly a mistake.'

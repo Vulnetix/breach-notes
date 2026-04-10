@@ -3,11 +3,10 @@ source_url: https://www.algorand.foundation/news/algorand-foundation-exposure-to
 date_of_breach: '2022-09-09'
 date_of_disclosure: '2022-09-09'
 category: other
-notes: The Algorand Foundation is a group responsible for managing Algorand, a proof-of-stake
-  blockchain. On September 9 they disclosed that they had put $35 million of the project's
-  treasury into Hodlnaut, a lending firm that halted withdrawals on August 8 and applied
-  for creditor protection a week later. Hodlnaut was in turn heavily exposed to Terra,
-  the ecosystem that collapsed in May.The Algorand Foundation reassured people that
-  the funds potentially lost to Hodlnaut were less than 3% of the Foundation's assets,
-  and "we do not anticipate operational or liquidity issues due to this action". They
-  also wrote that they would be "pursuing all legal remedies to maximize asset recovery".
+vendor_product: Algorand Foundation exposure to Hodlnaut
+notes: The Algorand Foundation is a group responsible for managing Algorand, a proof-of-stake blockchain. On September 9 they
+  disclosed that they had put $35 million of the project's treasury into Hodlnaut, a lending firm that halted withdrawals
+  on August 8 and applied for creditor protection a week later. Hodlnaut was in turn heavily exposed to Terra, the ecosystem
+  that collapsed in May.The Algorand Foundation reassured people that the funds potentially lost to Hodlnaut were less than
+  3% of the Foundation's assets, and "we do not anticipate operational or liquidity issues due to this action". They also
+  wrote that they would be "pursuing all legal remedies to maximize asset recovery".

@@ -3,19 +3,19 @@ source_url: https://rekt.news/transit-swap-rekt/
 date_of_breach: '2022-10-01'
 date_of_disclosure: '2022-10-01'
 category: data-leak
-notes: 'Transit Swap is a multi-chain decentralized exchange aggregator. Users of
-  the project were collectively exploited for approximately $21 million when an attacker
-  took advantage of a bug in the project''s smart contract that allows arbitrary external
-  calls. The attacker used this vulnerability to steal tokens that had been approved
-  for swap by Transit Swap users. Amusingly, the hacker lost about $1 million of their
-  ill-gotten funds to a MEV bot that was able to successfully front-run the swap.Multiple
-  cryptocurrency security companies collaborated to investigate the hack shortly after
-  it occurred. Transit Swap announced that "through the joint efforts of the SlowMist
-  security team, the Bitrace security team, the PeckShield security team, the TokenPocket
-  team and the TransitFinance technical team, we now have a lot of valid information
-  such as hacker''s IP, email address, and associated on-chain addresses." They subsequently
-  announced that the attacker had returned around 70% of the stolen funds ($14–$15
-  million).
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Transit Swap
+financial_loss_usd: 6000000
+financial_recovered_usd: 15000000
+notes: 'Transit Swap is a multi-chain decentralized exchange aggregator. Users of the project were collectively exploited
+  for approximately $21 million when an attacker took advantage of a bug in the project''s smart contract that allows arbitrary
+  external calls. The attacker used this vulnerability to steal tokens that had been approved for swap by Transit Swap users.
+  Amusingly, the hacker lost about $1 million of their ill-gotten funds to a MEV bot that was able to successfully front-run
+  the swap.Multiple cryptocurrency security companies collaborated to investigate the hack shortly after it occurred. Transit
+  Swap announced that "through the joint efforts of the SlowMist security team, the Bitrace security team, the PeckShield
+  security team, the TokenPocket team and the TransitFinance technical team, we now have a lot of valid information such as
+  hacker''s IP, email address, and associated on-chain addresses." They subsequently announced that the attacker had returned
+  around 70% of the stolen funds ($14–$15 million).
 
 
   Total loss estimated at $6,000,000.'

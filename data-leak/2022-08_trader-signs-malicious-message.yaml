@@ -3,13 +3,14 @@ source_url: https://twitter.com/korpi87/status/1560416631678910464
 date_of_breach: '2022-08-18'
 date_of_disclosure: '2022-08-18'
 category: data-leak
-notes: 'An experienced crypto trader lost $470,000 to a hack when they signed a malicious
-  message that permitted an attacker to drain all of their USDC stablecoins from their
-  crypto hot wallet. Unlike most crypto hacks that involve approving malicious contracts,
-  this hack was perpetrated when the trader was tricked into simply signing a malicious
-  message. Signing a message tends to be a safer and more common action with crypto
-  wallets, and so traders are not always as careful, though as this trader discovered,
-  it can still have catastrophic impacts.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Trader signs malicious message
+financial_loss_usd: 469146
+notes: 'An experienced crypto trader lost $470,000 to a hack when they signed a malicious message that permitted an attacker
+  to drain all of their USDC stablecoins from their crypto hot wallet. Unlike most crypto hacks that involve approving malicious
+  contracts, this hack was perpetrated when the trader was tricked into simply signing a malicious message. Signing a message
+  tends to be a safer and more common action with crypto wallets, and so traders are not always as careful, though as this
+  trader discovered, it can still have catastrophic impacts.
 
 
   Total loss estimated at $469,146.'

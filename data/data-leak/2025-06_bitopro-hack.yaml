@@ -3,12 +3,12 @@ source_url: https://t.me/investigations/254
 date_of_breach: '2025-06-02'
 date_of_disclosure: '2025-06-02'
 category: data-leak
-notes: "The Taiwanese cryptocurrency exchange BitoPro disclosed that they had suffered\
-  \ a theft from one of their hot wallets, which they said occurred during a system\
-  \ upgrade in which they were transferring assets between wallets.The theft was originally\
-  \ noticed by crypto sleuth zachxbt, who observed a suspicious transfer of around\
-  \ $11.5 million in crypto assets on May 8. The funds sold on decentralized exchanges\
-  \ and then laundered through various cryptocurrency mixing services.BitoPro originally\
-  \ only told customers that the platform was offline for \"maintenance\", but disclosed\
-  \ the theft on June 2 after zachxbt published his findings. \n\nTotal loss estimated\
-  \ at $11,500,000."
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: BitoPro
+financial_loss_usd: 11500000
+notes: "The Taiwanese cryptocurrency exchange BitoPro disclosed that they had suffered a theft from one of their hot wallets,\
+  \ which they said occurred during a system upgrade in which they were transferring assets between wallets.The theft was\
+  \ originally noticed by crypto sleuth zachxbt, who observed a suspicious transfer of around $11.5 million in crypto assets\
+  \ on May 8. The funds sold on decentralized exchanges and then laundered through various cryptocurrency mixing services.BitoPro\
+  \ originally only told customers that the platform was offline for \"maintenance\", but disclosed the theft on June 2 after\
+  \ zachxbt published his findings. \n\nTotal loss estimated at $11,500,000."

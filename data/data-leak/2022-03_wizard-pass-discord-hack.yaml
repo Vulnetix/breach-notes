@@ -3,18 +3,19 @@ source_url: https://twitter.com/SerpentAU/status/1503232264938745857
 date_of_breach: '2022-03-14'
 date_of_disclosure: '2022-03-14'
 category: data-leak
-notes: 'Wizard Pass is an NFT trading community and package of various software tools
-  that can be joined for a price: a collection of 3,000 NFTs gates access to the community.
-  The NFTs had a successful mint on March 7, and since then have been trading for
-  around 0.3 ETH ($800) on the secondary market. Although the project stated that
-  they would never mint more passes, members of the Discord were excited when the
-  project''s founder announced they would be doing a public sale for an additional
-  1,000 NFTs, at 0.1 ETH ($250) apiece. Unfortunately, there was no such mint, and
-  it turned out the founder''s Discord account had been hacked. As of midday on March
-  14, the hacker had received 66.4 ETH ($169,000) from 290 wallets.A Twitter thread
-  by SerpentAU suggested that the malicious minting website had not only accepted
-  ETH from victims and provided nothing in return, but had also prompted users to
-  grant full access to their NFT wallet, allowing valuable NFTs to be stolen. It''s
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Wizard Pass Discord
+blockchain: ethereum
+financial_loss_usd: 169000
+affected_count: 290
+notes: 'Wizard Pass is an NFT trading community and package of various software tools that can be joined for a price: a collection
+  of 3,000 NFTs gates access to the community. The NFTs had a successful mint on March 7, and since then have been trading
+  for around 0.3 ETH ($800) on the secondary market. Although the project stated that they would never mint more passes, members
+  of the Discord were excited when the project''s founder announced they would be doing a public sale for an additional 1,000
+  NFTs, at 0.1 ETH ($250) apiece. Unfortunately, there was no such mint, and it turned out the founder''s Discord account
+  had been hacked. As of midday on March 14, the hacker had received 66.4 ETH ($169,000) from 290 wallets.A Twitter thread
+  by SerpentAU suggested that the malicious minting website had not only accepted ETH from victims and provided nothing in
+  return, but had also prompted users to grant full access to their NFT wallet, allowing valuable NFTs to be stolen. It''s
   not yet clear how many NFTs were stolen as a result.
 
 

@@ -1,16 +1,14 @@
-source_name: '"Decentral Bank fixes bug that let one user mint 10 trillion USN for
-  just $10"'
+source_name: '"Decentral Bank fixes bug that let one user mint 10 trillion USN for just $10"'
 source_url: https://www.theblock.co/post/156328/decentral-bank-fixes-bug-that-let-one-user-mint-10-trillion-usn-for-just-10
 date_of_breach: '2022-07-06'
 date_of_disclosure: '2022-07-06'
 category: other
-notes: A user tried twice to swap $5 of the USN stablecoin for Tether on the Decentral
-  Bank platform. Both times, the transaction failed due to a bug that prevented users
-  who didn't already hold Tether from swapping other currencies for Tether. The refund
-  mechanism also had a bug, and both times the system failed to process the transaction,
-  the user ended up being refunded $5 trillion instead of $5.Decentral Bank paused
-  the smart contract upon noticing the decimal point bug, and burned the excess $10
-  trillion supply to restore the proper amount of stablecoins in circulation.Luckily
-  for them, they were able to pause the contract before anyone exploited it in ways
-  that were not so easily rectified. The ability to receive $1 trillion in USN out
-  of $1 could have easily been used to drain the USN/USDT liquidity pool.
+initial_attack_vector: Smart contract vulnerability exploit
+vendor_product: Decentral Bank bug
+notes: A user tried twice to swap $5 of the USN stablecoin for Tether on the Decentral Bank platform. Both times, the transaction
+  failed due to a bug that prevented users who didn't already hold Tether from swapping other currencies for Tether. The refund
+  mechanism also had a bug, and both times the system failed to process the transaction, the user ended up being refunded
+  $5 trillion instead of $5.Decentral Bank paused the smart contract upon noticing the decimal point bug, and burned the excess
+  $10 trillion supply to restore the proper amount of stablecoins in circulation.Luckily for them, they were able to pause
+  the contract before anyone exploited it in ways that were not so easily rectified. The ability to receive $1 trillion in
+  USN out of $1 could have easily been used to drain the USN/USDT liquidity pool.

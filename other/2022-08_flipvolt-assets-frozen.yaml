@@ -1,18 +1,15 @@
-source_name: '"India seizes $46 million from crypto exchange Vauld in money-laundering
-  probe"'
+source_name: '"India seizes $46 million from crypto exchange Vauld in money-laundering probe"'
 source_url: https://techcrunch.com/2022/08/12/india-seizes-46-million-from-crypto-exchange-vauld-in-money-laundering-probe/
 date_of_breach: '2022-08-12'
 date_of_disclosure: '2022-08-12'
 category: other
-notes: India's Enforcement Directorate froze $46.5 million of assets belonging to
-  FlipVolt, the Indian branch of the Vauld cryptocurrency exchange. Vauld had previously
-  filed for protection from creditors — a process in Singapore that is similar to
-  Chapter 11 bankruptcy in the U.S. — on July 8, only four days after suspending withdrawals.
-  Vauld subsequently announced a shortfall of around $70 million due to the Terra
-  collapse and other factors, and reportedly owes creditors $363 million.According
-  to India's ED, 23 entities deposited Rs 370 crore (~$46.5 million) into FlipVolt,
-  which the ED says were the proceeds of criminal activity. FlipVolt had "very lax
-  KYC norms, no EDD [enhanced due diligence] mechanism, no check on the source of
-  funds of the depositors, no mechanism of raising STRs [suspicious transaction reports],
-  etc" and reportedly enabled the entities to launder the proceeds of crimes via the
-  exchange.
+initial_attack_vector: Regulatory / legal action
+vendor_product: FlipVolt assets frozen
+notes: India's Enforcement Directorate froze $46.5 million of assets belonging to FlipVolt, the Indian branch of the Vauld
+  cryptocurrency exchange. Vauld had previously filed for protection from creditors — a process in Singapore that is similar
+  to Chapter 11 bankruptcy in the U.S. — on July 8, only four days after suspending withdrawals. Vauld subsequently announced
+  a shortfall of around $70 million due to the Terra collapse and other factors, and reportedly owes creditors $363 million.According
+  to India's ED, 23 entities deposited Rs 370 crore (~$46.5 million) into FlipVolt, which the ED says were the proceeds of
+  criminal activity. FlipVolt had "very lax KYC norms, no EDD [enhanced due diligence] mechanism, no check on the source of
+  funds of the depositors, no mechanism of raising STRs [suspicious transaction reports], etc" and reportedly enabled the
+  entities to launder the proceeds of crimes via the exchange.

@@ -1,14 +1,13 @@
-source_name: '"U.S. regulators order Voyager Digital to stop ''false and misleading''
-  deposit insurance claims"'
+source_name: '"U.S. regulators order Voyager Digital to stop ''false and misleading'' deposit insurance claims"'
 source_url: https://www.reuters.com/business/finance/us-regulators-order-voyager-digital-stop-false-misleading-deposit-insurance-2022-07-28/
 date_of_breach: '2022-07-28'
 date_of_disclosure: '2022-07-28'
 category: other
-notes: One of the ways Voyager Digital drew in customers was by promising that their
-  funds in USD were protected from a collapse of the company by FDIC deposit insurance,
-  which normally applies to bank accounts. When Voyager declared bankruptcy earlier
-  this month, some of their customers were horrified to discover this was not the
-  case.The Federal Reserve and the FDIC sent a cease-and-desist to Voyager, asking
-  them to remove the misleading statements about deposit insurance. It would have
-  been nice if this had come a bit earlier — perhaps before people had deposited money
-  into accounts with the company and could no longer get it out.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Regulators order Voyager to stop saying they're FDIC insured
+notes: One of the ways Voyager Digital drew in customers was by promising that their funds in USD were protected from a collapse
+  of the company by FDIC deposit insurance, which normally applies to bank accounts. When Voyager declared bankruptcy earlier
+  this month, some of their customers were horrified to discover this was not the case.The Federal Reserve and the FDIC sent
+  a cease-and-desist to Voyager, asking them to remove the misleading statements about deposit insurance. It would have been
+  nice if this had come a bit earlier — perhaps before people had deposited money into accounts with the company and could
+  no longer get it out.

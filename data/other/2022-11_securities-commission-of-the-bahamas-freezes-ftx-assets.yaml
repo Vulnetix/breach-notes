@@ -3,11 +3,10 @@ source_url: https://www.scb.gov.bs/wp-content/uploads/2022/11/Securities-Commiss
 date_of_breach: '2022-11-10'
 date_of_disclosure: '2022-11-10'
 category: other
-notes: The Securities Commission of the Bahamas (where FTX is headquartered) announced
-  they had frozen the assets of FTX and "related parties" — presumably Alameda. They
-  also disclosed that they had suspended FTX's registration, and appointed a provisional
-  liquidator.The announcement went on to say, "The Commission is aware of public statements
-  suggesting that clients' assets were mishandled, mismanaged and/or transferred to
-  Alameda Research. Based on the Commission's information, any such actions would
-  have been contrary to normal governance, without client consent and potentially
-  unlawful."
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Securities Commission of the Bahamas freezes FTX assets
+notes: The Securities Commission of the Bahamas (where FTX is headquartered) announced they had frozen the assets of FTX and
+  "related parties" — presumably Alameda. They also disclosed that they had suspended FTX's registration, and appointed a
+  provisional liquidator.The announcement went on to say, "The Commission is aware of public statements suggesting that clients'
+  assets were mishandled, mismanaged and/or transferred to Alameda Research. Based on the Commission's information, any such
+  actions would have been contrary to normal governance, without client consent and potentially unlawful."

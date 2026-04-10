@@ -3,10 +3,10 @@ source_url: https://www.barrons.com/news/french-surgeon-attempts-to-sell-batacla
 date_of_breach: '2022-01-22'
 date_of_disclosure: '2022-01-22'
 category: other
-notes: French surgeon Emmanuel Masmejean  minted an NFT of an x-ray image of a bullet
-  embedded in the fractured forearm of a person who was shot in the November 2015
-  Paris Bataclan attack. The NFT, which was listed on OpenSea for a starting price
-  of around $2,800, was created without the consent of the victim. The doctor quickly
-  took down the listing after it was noticed by media, and the head of Paris's public
-  hospital system announced that the doctor would be facing criminal and professional
+vendor_product: Bataclan attack victim NFT
+blockchain: ethereum
+notes: French surgeon Emmanuel Masmejean  minted an NFT of an x-ray image of a bullet embedded in the fractured forearm of
+  a person who was shot in the November 2015 Paris Bataclan attack. The NFT, which was listed on OpenSea for a starting price
+  of around $2,800, was created without the consent of the victim. The doctor quickly took down the listing after it was noticed
+  by media, and the head of Paris's public hospital system announced that the doctor would be facing criminal and professional
   complaints.

@@ -3,16 +3,14 @@ source_url: https://www.coindesk.com/markets/2023/01/06/huobi-exchange-token-dow
 date_of_breach: '2023-01-05'
 date_of_disclosure: '2023-01-05'
 category: other
-notes: The major cryptocurrency exchange Huobi confirmed they planned to lay off 20%
-  of employees, shortly after Huobi's advisor and somewhat its public face, Justin
-  Sun, denied any layoffs were planned.Crypto reporter Colin Wu has also reported
-  that the company is requiring all employees to begin accepting their salaries in
-  Tether or USDC stablecoins, or face dismissal. Rumors on Twitter emerged that internal
-  communications channels had been shut down to quell dissent over the change.Some
-  crypto advocates commenting on the change maintained that there should be no difference
-  to employees if they receive salaries in stablecoins vs. real money, but none seemed
-  able to elucidate any legitimate reason that an exchange might find itself unable
-  to pay salaries except in stablecoins.At least they're not being asked to take salaries
-  in USDD, the Tron-based stablecoin associated with Justin Sun. USDD depegged even
-  further from its peg (which has been unstable since around October 2022), dipping
-  to around $0.97.
+vendor_product: Huobi lays off employees
+blockchain: tron
+notes: The major cryptocurrency exchange Huobi confirmed they planned to lay off 20% of employees, shortly after Huobi's advisor
+  and somewhat its public face, Justin Sun, denied any layoffs were planned.Crypto reporter Colin Wu has also reported that
+  the company is requiring all employees to begin accepting their salaries in Tether or USDC stablecoins, or face dismissal.
+  Rumors on Twitter emerged that internal communications channels had been shut down to quell dissent over the change.Some
+  crypto advocates commenting on the change maintained that there should be no difference to employees if they receive salaries
+  in stablecoins vs. real money, but none seemed able to elucidate any legitimate reason that an exchange might find itself
+  unable to pay salaries except in stablecoins.At least they're not being asked to take salaries in USDD, the Tron-based stablecoin
+  associated with Justin Sun. USDD depegged even further from its peg (which has been unstable since around October 2022),
+  dipping to around $0.97.

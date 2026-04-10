@@ -3,11 +3,11 @@ source_url: https://decrypt.co/153124/nft-platform-recur-to-shut-down-despite-50
 date_of_breach: '2023-08-18'
 date_of_disclosure: '2023-08-18'
 category: other
-notes: In September 2021, the Recur NFT platform announced it had raised $50 million
-  in a Series A funding round that saw the startup valued at $333 million.In December
-  2021, the company offered $300 "Recur Passes", which promised holders early access
-  to NFT drops and other perks. One of them resold for $88,888 in February 2022.Now,
-  Recur has announced they will be closing up shop, and warned users to migrate their
-  assets away from the platform in advance of a November shutdown. The company cited
-  "unforeseen challenges and shifts in the business landscape".As for the Recur Passes,
-  they're currently selling for somewhere between $7 and $11.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Recur NFT platform
+notes: In September 2021, the Recur NFT platform announced it had raised $50 million in a Series A funding round that saw
+  the startup valued at $333 million.In December 2021, the company offered $300 "Recur Passes", which promised holders early
+  access to NFT drops and other perks. One of them resold for $88,888 in February 2022.Now, Recur has announced they will
+  be closing up shop, and warned users to migrate their assets away from the platform in advance of a November shutdown. The
+  company cited "unforeseen challenges and shifts in the business landscape".As for the Recur Passes, they're currently selling
+  for somewhere between $7 and $11.

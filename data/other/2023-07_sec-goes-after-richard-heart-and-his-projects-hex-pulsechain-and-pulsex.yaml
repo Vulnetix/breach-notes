@@ -1,16 +1,14 @@
-source_name: '"SEC Charges Hex Founder Richard Heart with Misappropriating Millions
-  of Dollars of Investor Funds from Unregistered Crypto Asset Securities Offerings
-  that Raised more than $1 Billion"'
+source_name: '"SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars of Investor Funds from Unregistered
+  Crypto Asset Securities Offerings that Raised more than $1 Billion"'
 source_url: https://www.sec.gov/news/press-release/2023-143
 date_of_breach: '2023-07-31'
 date_of_disclosure: '2023-07-31'
 category: other
-notes: The SEC filed charges against Richard Heart, the operator of Hex, PulseChain,
-  and PulseX. Despite Heart's best attempts at evading securities laws — including
-  by asking people to "sacrifice" tokens in exchange for PLS and PLSX to avoid using
-  the term "invest" — the SEC says he's been conducting unregistered securities offerings
-  amounting to more than $1 billion.In addition to the unregistered offerings charge,
-  the SEC alleges Heart and PulseChain misappropriated $12.1 million to fund Heart's
-  lavish lifestyle. Among other things, he purchased a McLaren sports car, five luxury
-  watches, and a $4.3 million 555-carat black diamond called "Enigma", allegedly using
-  funds from the sale.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC goes after Richard Heart and his projects Hex, PulseChain, and PulseX
+notes: The SEC filed charges against Richard Heart, the operator of Hex, PulseChain, and PulseX. Despite Heart's best attempts
+  at evading securities laws — including by asking people to "sacrifice" tokens in exchange for PLS and PLSX to avoid using
+  the term "invest" — the SEC says he's been conducting unregistered securities offerings amounting to more than $1 billion.In
+  addition to the unregistered offerings charge, the SEC alleges Heart and PulseChain misappropriated $12.1 million to fund
+  Heart's lavish lifestyle. Among other things, he purchased a McLaren sports car, five luxury watches, and a $4.3 million
+  555-carat black diamond called "Enigma", allegedly using funds from the sale.

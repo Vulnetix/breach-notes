@@ -3,11 +3,11 @@ source_url: https://cointelegraph.com/news/2-executives-of-crypto-exchange-aax-a
 date_of_breach: '2022-12-23'
 date_of_disclosure: '2022-12-23'
 category: other
-notes: The Hong Kong-headquartered AAX cryptocurrency exchange suddenly halted withdrawals
-  on November 13, claiming they were performing temporary system maintenance. However,
-  withdrawals were never re-enabled, and customers quickly realized the exchange was
-  unlikely to resume withdrawals. Some even began searching for the whereabouts of
-  AAX execs, showing up at offices in Hong Kong and Singapore.Now, Hong Kong police
-  have arrested Liang Haoming and Thor Chan, two executives connected to AAX. Police
-  have reportedly accused the men of using the maintenance excuse to halt customer
-  withdrawals while dealing with a liquidity crisis.
+initial_attack_vector: Regulatory / legal action
+vendor_product: AAX executives arrested
+notes: The Hong Kong-headquartered AAX cryptocurrency exchange suddenly halted withdrawals on November 13, claiming they were
+  performing temporary system maintenance. However, withdrawals were never re-enabled, and customers quickly realized the
+  exchange was unlikely to resume withdrawals. Some even began searching for the whereabouts of AAX execs, showing up at offices
+  in Hong Kong and Singapore.Now, Hong Kong police have arrested Liang Haoming and Thor Chan, two executives connected to
+  AAX. Police have reportedly accused the men of using the maintenance excuse to halt customer withdrawals while dealing with
+  a liquidity crisis.

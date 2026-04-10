@@ -1,17 +1,14 @@
-source_name: '"Crypto criminals laundered $540 million by using a service called RenBridge,
-  new report shows"'
+source_name: '"Crypto criminals laundered $540 million by using a service called RenBridge, new report shows"'
 source_url: https://www.cnbc.com/2022/08/10/crypto-criminals-laundered-540-million-using-renbridge-elliptic-says.html
 date_of_breach: '2022-08-10'
 date_of_disclosure: '2022-08-10'
 category: other
-notes: Two days after OFAC sanctioned crypto tumbler Tornado Cash, the blockchain
-  analytics firm Elliptic pointed to cryptocurrency bridges as a likely future target
-  for sanctions if the Treasury Department continues its attempts to crack down on
-  crypto money laundering. In addition to their purpose of allowing different currencies
-  to be used cross-chain, cryptocurrency bridges are a useful tool for obscuring the
-  path of cryptocurrencies, as it can be difficult for outside observers to link cryptocurrencies
-  flowing into a bridge with the destination wallet(s) on the other end.Elliptic singled
-  out the RenBridge chain in particular, saying that at least $540 million in funds
-  linked to crimes have been moved through the bridge in the last two years. $153
-  million of this, they say, originated from ransomware plots, and $53 million is
-  allegedly linked to the Russia-based group behind the Conti ransomware.
+vendor_product: RenBridge money laundering report
+notes: Two days after OFAC sanctioned crypto tumbler Tornado Cash, the blockchain analytics firm Elliptic pointed to cryptocurrency
+  bridges as a likely future target for sanctions if the Treasury Department continues its attempts to crack down on crypto
+  money laundering. In addition to their purpose of allowing different currencies to be used cross-chain, cryptocurrency bridges
+  are a useful tool for obscuring the path of cryptocurrencies, as it can be difficult for outside observers to link cryptocurrencies
+  flowing into a bridge with the destination wallet(s) on the other end.Elliptic singled out the RenBridge chain in particular,
+  saying that at least $540 million in funds linked to crimes have been moved through the bridge in the last two years. $153
+  million of this, they say, originated from ransomware plots, and $53 million is allegedly linked to the Russia-based group
+  behind the Conti ransomware.

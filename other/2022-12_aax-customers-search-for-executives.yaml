@@ -3,14 +3,13 @@ source_url: https://cointelegraph.com/news/aax-exec-leaves-the-crypto-exchange-a
 date_of_breach: '2022-12-03'
 date_of_disclosure: '2022-12-03'
 category: other
-notes: On November 13, the AAX cryptocurrency exchange suspended withdrawals, claiming
-  they were dealing with a botched system upgrade. Shortly before, they had reassured
-  their customers that they had stable reserves and no exposure to FTX.On November
-  28, the company's vice president for global marketing and communications acknowledged
-  that he had resigned from the company, explaining on Twitter that "I did fight for
-  the community but none of the initiatives we came up with were accepted."Upon realizing
-  that the exchange was unlikely to resume withdrawals, some customers have taken
-  it upon themselves to try to find AAX's executives. Some showed up at the Hong Kong
-  headquarters, only to find it deserted. Another user appeared at their Singaporean
-  coworking space, also to find it empty. Users have been posting leaked personal
-  identity documents of listed executives on Telegram, hoping to locate them.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: AAX customers search for executives
+notes: On November 13, the AAX cryptocurrency exchange suspended withdrawals, claiming they were dealing with a botched system
+  upgrade. Shortly before, they had reassured their customers that they had stable reserves and no exposure to FTX.On November
+  28, the company's vice president for global marketing and communications acknowledged that he had resigned from the company,
+  explaining on Twitter that "I did fight for the community but none of the initiatives we came up with were accepted."Upon
+  realizing that the exchange was unlikely to resume withdrawals, some customers have taken it upon themselves to try to find
+  AAX's executives. Some showed up at the Hong Kong headquarters, only to find it deserted. Another user appeared at their
+  Singaporean coworking space, also to find it empty. Users have been posting leaked personal identity documents of listed
+  executives on Telegram, hoping to locate them.

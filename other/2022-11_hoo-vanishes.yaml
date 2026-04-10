@@ -3,19 +3,16 @@ source_url: https://www.securities.io/hoo-com-exchange-vanishes-after-refusing-t
 date_of_breach: '2022-11-18'
 date_of_disclosure: '2022-11-18'
 category: other
-notes: 'On June 19, the Hong Kong-based crypto exchange Hoo announced that they would
-  be pausing withdrawals for "24–72 hours" while they transferred some assets to top
-  up their hot wallet.Since then, there has been little communication and a series
-  of shady activities. According to HOO CEO Rexy Wang on Twitter on July 15, Hoo employee
-  and former Binance head of security Fang Wenbin (known as "Top") "took advantage
-  of his position at Hoo to delete the company system privately, causing everyone
-  in the company to be unable to access the system, resulting in a temporary failure
-  of the main domain name". Top replied to allege that, "Rexy himself has transferred
-  most of the assets from the platform. Employee salaries and platform users cannot
-  withdraw coins".At some point after that, Wang made his Twitter private. Hoo''s
-  social media channels have been inactive. On November 18, the exchange website was
-  replaced with a post that identified the "Hoo de facto controller", Xu Tong Hua,
-  and said: "Currently all permissions for Hoo''s wallet and website programs are
-  controlled by Mr Xu, so please contact the official email if you have any questions."Meanwhile,
-  customers have been active on social media complaining about the apparent fraud,
-  and some have formed an informal group pushing for legal action against Hoo.'
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Hoo vanishes
+notes: 'On June 19, the Hong Kong-based crypto exchange Hoo announced that they would be pausing withdrawals for "24–72 hours"
+  while they transferred some assets to top up their hot wallet.Since then, there has been little communication and a series
+  of shady activities. According to HOO CEO Rexy Wang on Twitter on July 15, Hoo employee and former Binance head of security
+  Fang Wenbin (known as "Top") "took advantage of his position at Hoo to delete the company system privately, causing everyone
+  in the company to be unable to access the system, resulting in a temporary failure of the main domain name". Top replied
+  to allege that, "Rexy himself has transferred most of the assets from the platform. Employee salaries and platform users
+  cannot withdraw coins".At some point after that, Wang made his Twitter private. Hoo''s social media channels have been inactive.
+  On November 18, the exchange website was replaced with a post that identified the "Hoo de facto controller", Xu Tong Hua,
+  and said: "Currently all permissions for Hoo''s wallet and website programs are controlled by Mr Xu, so please contact the
+  official email if you have any questions."Meanwhile, customers have been active on social media complaining about the apparent
+  fraud, and some have formed an informal group pushing for legal action against Hoo.'

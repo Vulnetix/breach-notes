@@ -3,14 +3,16 @@ source_url: https://drops.scamsniffer.io/post/1-25m-stolen-due-to-nft-airdrop-ph
 date_of_breach: '2023-06-23'
 date_of_disclosure: '2023-06-23'
 category: data-leak
-notes: 'A phishing scam in which scammers airdropped fake NFTs impersonating real
-  projects has landed the scammers around $1.25 million in the last two months. The
-  scammers have created more than 1,350 fake NFTs appearing to come from real projects
-  including RocketPool, ApeCoin, Polygon, Uniswap, and Aave, then airdropped them
-  to more than 500,000 wallets. When they viewed the NFTs, the victims were directed
-  to phishing sites where they signed malicious signatures.Around $1.25 million in
-  various assets have been stolen thus far, with the largest single loss exceeding
-  $150,000.
+initial_attack_vector: Phishing attack
+vendor_product: Inferno Drainer thefts on Polygon
+blockchain: polygon
+financial_loss_usd: 1250000
+affected_count: 500000
+notes: 'A phishing scam in which scammers airdropped fake NFTs impersonating real projects has landed the scammers around
+  $1.25 million in the last two months. The scammers have created more than 1,350 fake NFTs appearing to come from real projects
+  including RocketPool, ApeCoin, Polygon, Uniswap, and Aave, then airdropped them to more than 500,000 wallets. When they
+  viewed the NFTs, the victims were directed to phishing sites where they signed malicious signatures.Around $1.25 million
+  in various assets have been stolen thus far, with the largest single loss exceeding $150,000.
 
 
   Total loss estimated at $1,250,000.'

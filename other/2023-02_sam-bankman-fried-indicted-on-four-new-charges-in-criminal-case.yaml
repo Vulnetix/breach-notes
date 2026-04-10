@@ -3,16 +3,14 @@ source_url: https://www.courtlistener.com/docket/66631292/80/united-states-v-ban
 date_of_breach: '2023-02-23'
 date_of_disclosure: '2023-02-23'
 category: other
-notes: Sam Bankman-Fried, the founder and former CEO of the now-bankrupt FTX exchange,
-  was already facing eight criminal charges for offenses including wire fraud, securities
-  fraud, money laundering, and campaign finance violations. Now, US prosecutors have
-  slapped him with four more charges including conspiracy to operate an unlicensed
-  money-transmitting business and conspiracy to commit bank fraud.The new indictment
-  includes additional information about Bankman-Fried's alleged fraud. The indictment
-  details SBF's attempts to circumvent due diligence by US banks by creating a fake
-  company called North Dimension. Via North Dimension, SBF diverted funds to FTX,
-  which was unable to get a bank account.Bankman-Fried has entered a not guilty plea
-  to the original eight charges, but has not yet entered a plea for the additional
-  four.These criminal charges add to securities fraud and other civil charges from
-  the SEC, as well as civil charges out of the CFTC. Both civil cases have been stayed
+initial_attack_vector: Regulatory / legal action
+vendor_product: Sam Bankman-Fried indicted on four new charges in criminal case
+notes: Sam Bankman-Fried, the founder and former CEO of the now-bankrupt FTX exchange, was already facing eight criminal charges
+  for offenses including wire fraud, securities fraud, money laundering, and campaign finance violations. Now, US prosecutors
+  have slapped him with four more charges including conspiracy to operate an unlicensed money-transmitting business and conspiracy
+  to commit bank fraud.The new indictment includes additional information about Bankman-Fried's alleged fraud. The indictment
+  details SBF's attempts to circumvent due diligence by US banks by creating a fake company called North Dimension. Via North
+  Dimension, SBF diverted funds to FTX, which was unable to get a bank account.Bankman-Fried has entered a not guilty plea
+  to the original eight charges, but has not yet entered a plea for the additional four.These criminal charges add to securities
+  fraud and other civil charges from the SEC, as well as civil charges out of the CFTC. Both civil cases have been stayed
   pending the outcome of the criminal case.

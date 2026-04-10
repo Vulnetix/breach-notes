@@ -1,9 +1,10 @@
-source_name: '"Yearn.Finance puts expanded treasury to use by repaying victims of
-  $11M hack"'
+source_name: '"Yearn.Finance puts expanded treasury to use by repaying victims of $11M hack"'
 source_url: https://cointelegraph.com/news/yearn-finance-puts-expanded-treasury-to-use-by-repaying-victims-of-11m-hack
 date_of_breach: '2021-02-04'
 date_of_disclosure: '2021-02-04'
 category: data-leak
-notes: "An exploit in Yearn Finance's yDAI vault resulted in an $11 million loss to\
-  \ the platform, though \"only\" $2.8 million of this went to the hacker. \n\nTotal\
-  \ loss estimated at $11,000,000."
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Yearn Finance
+financial_loss_usd: 11000000
+notes: "An exploit in Yearn Finance's yDAI vault resulted in an $11 million loss to the platform, though \"only\" $2.8 million\
+  \ of this went to the hacker. \n\nTotal loss estimated at $11,000,000."

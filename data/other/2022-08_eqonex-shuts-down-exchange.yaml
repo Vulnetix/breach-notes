@@ -1,12 +1,11 @@
-source_name: '"Blockchain Services Firm Eqonex Closes Crypto Exchange, Citing Volatility
-  and Dwindling Volume"'
+source_name: '"Blockchain Services Firm Eqonex Closes Crypto Exchange, Citing Volatility and Dwindling Volume"'
 source_url: https://www.coindesk.com/business/2022/08/15/blockchain-services-firm-equonex-closes-crypto-exchange-citing-volatility-and-dwindling-volume/?utm_medium=referral&utm_source=rss&utm_campaign=headlines
 date_of_breach: '2022-08-15'
 date_of_disclosure: '2022-08-15'
 category: other
-notes: The Nasdaq-listed firm Eqonex has announced they will close their "underperforming"
-  crypto exchange, hoping to change their money allocation to "reflect the current
-  market conditions and the opportunities that we are best placed to capture". They
-  cited " extreme market volatility and declining trading volumes" as making it challenging
-  to keep the exchange afloat.They announced that the exchange will stop trading on
-  August 22, and customers have a month to withdraw their funds.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Eqonex
+notes: The Nasdaq-listed firm Eqonex has announced they will close their "underperforming" crypto exchange, hoping to change
+  their money allocation to "reflect the current market conditions and the opportunities that we are best placed to capture".
+  They cited " extreme market volatility and declining trading volumes" as making it challenging to keep the exchange afloat.They
+  announced that the exchange will stop trading on August 22, and customers have a month to withdraw their funds.

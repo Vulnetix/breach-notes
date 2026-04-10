@@ -1,18 +1,15 @@
-source_name: '"Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered
-  Offering of Crypto Asset Lending Product"'
+source_name: '"Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered Offering of Crypto Asset Lending Product"'
 source_url: https://www.sec.gov/news/press-release/2023-11
 date_of_breach: '2023-01-19'
 date_of_disclosure: '2023-01-19'
 category: other
-notes: 'More bad news for Nexo, whose Bulgarian offices were raided a week prior amidst
-  allegations of organized financial crime. Now, the United States SEC and state securities
-  regulators have fined the company a total of $45 million for violations of securities
-  law — only the latest in a string of regulatory enforcement actions against companies
-  offering interest-earning cryptocurrency accounts or lending services.In a spin
-  attempt rivaling those of Olympic gymnasts, Nexo wrote that the large fine was good,
-  actually: "Nexo believes that the company has been recognized for what it truly
-  is - a pioneer, like Uber and Airbnb, providing disruptive solutions in a fast-paced
-  environment," they wrote.In February, following similar action against BlockFi,
-  Nexo stopped offering their interest program to new customers in the US. Now, Nexo
-  will also stop offering its lending product to US customers as part of the settlement
-  agreement.'
+initial_attack_vector: Regulatory / legal action
+vendor_product: Nexo
+notes: 'More bad news for Nexo, whose Bulgarian offices were raided a week prior amidst allegations of organized financial
+  crime. Now, the United States SEC and state securities regulators have fined the company a total of $45 million for violations
+  of securities law — only the latest in a string of regulatory enforcement actions against companies offering interest-earning
+  cryptocurrency accounts or lending services.In a spin attempt rivaling those of Olympic gymnasts, Nexo wrote that the large
+  fine was good, actually: "Nexo believes that the company has been recognized for what it truly is - a pioneer, like Uber
+  and Airbnb, providing disruptive solutions in a fast-paced environment," they wrote.In February, following similar action
+  against BlockFi, Nexo stopped offering their interest program to new customers in the US. Now, Nexo will also stop offering
+  its lending product to US customers as part of the settlement agreement.'

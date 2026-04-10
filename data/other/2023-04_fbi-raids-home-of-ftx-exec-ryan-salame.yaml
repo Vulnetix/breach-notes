@@ -3,16 +3,14 @@ source_url: https://www.nytimes.com/2023/04/27/technology/ftx-ryan-salame-sam-ba
 date_of_breach: '2023-04-27'
 date_of_disclosure: '2023-04-27'
 category: other
-notes: The FBI raided the home of Ryan Salame, the former co-CEO of FTX Digital Markets
-  (FTX's Bahamian subsidiary). Salame was close with Sam Bankman-Fried, although it
-  came out in bankruptcy proceedings that Salame had contacted Bahamian securities
-  regulators during the FTX collapse to tip them off to the improper transfer of FTX
-  client funds to Alameda Research.Salame was also a major donor to Republican candidates
-  in the 2022 midterm elections, splashing out around $24 million in campaign contributions.
-  However, court filings suggest that much of the money donated to political and other
-  causes by FTX executives may truly have been misappropriated customer funds.Salame
-  is, at the moment at least, not facing charges in connection to the FTX collapse.
-  In July 2023, the Wall Street Journal reported that the search was likely a part
-  of an investigation into Salame and his girlfriend Michelle Bond over possible campaign
-  finance violations pertaining to Bond's 2022 congressional campaign, and was not
-  related to FTX.
+initial_attack_vector: Regulatory / legal action
+vendor_product: FBI raids home of FTX exec Ryan Salame
+notes: The FBI raided the home of Ryan Salame, the former co-CEO of FTX Digital Markets (FTX's Bahamian subsidiary). Salame
+  was close with Sam Bankman-Fried, although it came out in bankruptcy proceedings that Salame had contacted Bahamian securities
+  regulators during the FTX collapse to tip them off to the improper transfer of FTX client funds to Alameda Research.Salame
+  was also a major donor to Republican candidates in the 2022 midterm elections, splashing out around $24 million in campaign
+  contributions. However, court filings suggest that much of the money donated to political and other causes by FTX executives
+  may truly have been misappropriated customer funds.Salame is, at the moment at least, not facing charges in connection to
+  the FTX collapse. In July 2023, the Wall Street Journal reported that the search was likely a part of an investigation into
+  Salame and his girlfriend Michelle Bond over possible campaign finance violations pertaining to Bond's 2022 congressional
+  campaign, and was not related to FTX.

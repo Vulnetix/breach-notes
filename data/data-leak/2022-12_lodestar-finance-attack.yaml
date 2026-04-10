@@ -3,15 +3,15 @@ source_url: https://twitter.com/LodestarFinance/status/1601686921566375936
 date_of_breach: '2022-12-10'
 date_of_disclosure: '2022-12-10'
 category: data-leak
-notes: 'The Arbitrum-based crypto lending platform Lodestar Finance was attacked by
-  an exploiter who was able to manipulate the price of the plvGLP token, allowing
-  them to "borrow" the entire available liquidity of the Lodestar platform with the
-  inflated token. The attacker made around $6.4 million in profit. Some of the stolen
-  tokens were burned—hence the difference between the attacker profit and the loss
-  to the platform.According to Lodestar, they think they may be able to recover around
-  $2.4 million of the stolen funds. Meanwhile, they have attempted to contact the
-  thief to try to negotiate the return of stolen funds. "We will generously reward
-  your collaboration," they wrote on Twitter.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Lodestar Finance attack
+financial_loss_usd: 6900000
+notes: 'The Arbitrum-based crypto lending platform Lodestar Finance was attacked by an exploiter who was able to manipulate
+  the price of the plvGLP token, allowing them to "borrow" the entire available liquidity of the Lodestar platform with the
+  inflated token. The attacker made around $6.4 million in profit. Some of the stolen tokens were burned—hence the difference
+  between the attacker profit and the loss to the platform.According to Lodestar, they think they may be able to recover around
+  $2.4 million of the stolen funds. Meanwhile, they have attempted to contact the thief to try to negotiate the return of
+  stolen funds. "We will generously reward your collaboration," they wrote on Twitter.
 
 
   Total loss estimated at $6,900,000.'

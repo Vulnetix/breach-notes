@@ -3,9 +3,10 @@ source_url: https://techraptor.net/gaming/news/wolf-game-highlights-challenges-o
 date_of_breach: '2021-11-22'
 date_of_disclosure: '2021-11-22'
 category: other
-notes: Because Wolf Game put their entire source code into the blockchain, they were
-  unable to patch an exploit once it was discovered. They had to completely recreate
-  the game, reissuing all new tokens to players, because of the immutable nature of
-  the blockchain. They've created a bug bounty program for any future bugs, though
-  given their storage technique any patch would likely require a similarly extreme
-  remedy.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Wolf Game bug
+blockchain: ethereum
+notes: Because Wolf Game put their entire source code into the blockchain, they were unable to patch an exploit once it was
+  discovered. They had to completely recreate the game, reissuing all new tokens to players, because of the immutable nature
+  of the blockchain. They've created a bug bounty program for any future bugs, though given their storage technique any patch
+  would likely require a similarly extreme remedy.

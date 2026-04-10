@@ -3,13 +3,12 @@ source_url: https://twitter.com/coinpapi69/status/1610352387197382656
 date_of_breach: '2023-01-03'
 date_of_disclosure: '2023-01-03'
 category: data-leak
-notes: Users of NFT marketplaces and explorer applications including Magic Eden, NFT
-  Explorer, and Rand Gallery were briefly shown pornographic images and still frames
-  from the Big Bang Theory television show instead of the expected NFT images after
-  someone compromised a third-party image caching service. The affected NFTs used
-  images stored on the decentralized storage system IPFS, and the NFTs themselves
-  were not impacted. However, a third-party caching service used by the NFT platforms
-  caused in some cases very unexpected images to display instead."What the fuck is
-  happening, why my 5 years old kid watching porn JPEGs on [Magic Eden's] website"
-  tweeted one shocked user.The issue was resolved fairly quickly, although some visitors
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: NFT marketplaces display porn
+notes: Users of NFT marketplaces and explorer applications including Magic Eden, NFT Explorer, and Rand Gallery were briefly
+  shown pornographic images and still frames from the Big Bang Theory television show instead of the expected NFT images after
+  someone compromised a third-party image caching service. The affected NFTs used images stored on the decentralized storage
+  system IPFS, and the NFTs themselves were not impacted. However, a third-party caching service used by the NFT platforms
+  caused in some cases very unexpected images to display instead."What the fuck is happening, why my 5 years old kid watching
+  porn JPEGs on [Magic Eden's] website" tweeted one shocked user.The issue was resolved fairly quickly, although some visitors
   continued to see the unsavory images for a while longer due to browser caching.

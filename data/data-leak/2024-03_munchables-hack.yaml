@@ -3,18 +3,17 @@ source_url: https://cointelegraph.com/news/nft-game-munchables-blast-exploited-6
 date_of_breach: '2024-03-26'
 date_of_disclosure: '2024-03-26'
 category: data-leak
-notes: 'The "Munchables" crypto game explains: "Schnibbles grow on every realm across
-  the Munchable''s world. Each realm has their own unique and distinctive schniblet,
-  and the Munchables react differently based on their compatibility to the schniblets
-  fed to them. When creating an account for the Munchables, you must choose the location
-  of your snuggery." Right then.Things went awry in the land of the schnibbles and
-  snuggeries when an attacker siphoned around 17,400 ETH ($62.5 million). Various
-  descriptions of the attack circulated, with blockchain sleuth zachxbt attributing
-  it to a recently hired developer, and crypto developer 0xQuit claiming the theft
-  appeared to have been "planned since deploy".Some began discussing the possibility
-  that the Blast layer-2 blockchain might forcibly roll back the chain to "undo" the
-  hack. Some have argued this is contra to the crypto ethos or would set a bad precedent,
-  while others have argued that as a blockchain focused more on gaming and experimentation
-  and less on decentralization and other facets of crypto ideology, it would be a
-  reasonable step.Some hours after the attack, the exploiter was convinced to return
-  the funds.'
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Munchables
+blockchain: ethereum
+financial_recovered_usd: 62500000
+notes: 'The "Munchables" crypto game explains: "Schnibbles grow on every realm across the Munchable''s world. Each realm has
+  their own unique and distinctive schniblet, and the Munchables react differently based on their compatibility to the schniblets
+  fed to them. When creating an account for the Munchables, you must choose the location of your snuggery." Right then.Things
+  went awry in the land of the schnibbles and snuggeries when an attacker siphoned around 17,400 ETH ($62.5 million). Various
+  descriptions of the attack circulated, with blockchain sleuth zachxbt attributing it to a recently hired developer, and
+  crypto developer 0xQuit claiming the theft appeared to have been "planned since deploy".Some began discussing the possibility
+  that the Blast layer-2 blockchain might forcibly roll back the chain to "undo" the hack. Some have argued this is contra
+  to the crypto ethos or would set a bad precedent, while others have argued that as a blockchain focused more on gaming and
+  experimentation and less on decentralization and other facets of crypto ideology, it would be a reasonable step.Some hours
+  after the attack, the exploiter was convinced to return the funds.'

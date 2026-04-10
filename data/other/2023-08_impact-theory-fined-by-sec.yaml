@@ -1,17 +1,15 @@
-source_name: '"SEC Charges LA-Based Media and Entertainment Co. Impact Theory for
-  Unregistered Offering of NFTs"'
+source_name: '"SEC Charges LA-Based Media and Entertainment Co. Impact Theory for Unregistered Offering of NFTs"'
 source_url: https://www.sec.gov/news/press-release/2023-163
 date_of_breach: '2023-08-28'
 date_of_disclosure: '2023-08-28'
 category: other
-notes: Entertainment company Impact Theory has agreed to a $6.1 million payment to
-  settle charges from the SEC that its sales of its "Founder's Keys" NFTs constituted
-  an unregistered crypto asset securities offering. This is the first time the SEC
-  has taken action against issuers of NFTs as unregistered securities offerings.As
-  a part of the agreement, Impact will destroy all remaining Founder's Keys NFTs,
-  forgo royalties from future secondary sales, and publish a notice of the order on
-  its websites and social media.Founder's Keys in the rarest tier have recently sold
-  for $1,500 apiece, and promised to give their holders access to Impact Theory's
-  self-help content, which supposedly taught viewers how to "unlock their potential
-  and pursue greatness". According to the SEC, the company encouraged holders to view
-  the tokens as an investment into the business.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Legendary "Founder's Key" NFT
+blockchain: ethereum
+notes: Entertainment company Impact Theory has agreed to a $6.1 million payment to settle charges from the SEC that its sales
+  of its "Founder's Keys" NFTs constituted an unregistered crypto asset securities offering. This is the first time the SEC
+  has taken action against issuers of NFTs as unregistered securities offerings.As a part of the agreement, Impact will destroy
+  all remaining Founder's Keys NFTs, forgo royalties from future secondary sales, and publish a notice of the order on its
+  websites and social media.Founder's Keys in the rarest tier have recently sold for $1,500 apiece, and promised to give their
+  holders access to Impact Theory's self-help content, which supposedly taught viewers how to "unlock their potential and
+  pursue greatness". According to the SEC, the company encouraged holders to view the tokens as an investment into the business.

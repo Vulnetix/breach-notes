@@ -3,8 +3,11 @@ source_url: https://www.theblockcrypto.com/linked/113482/defi-platform-popsicle-
 date_of_breach: '2021-08-03'
 date_of_disclosure: '2021-08-03'
 category: data-leak
-notes: 'Popsicle Finance, a DeFi platform, lost $25 million to a bug exploited with
-  flash loans. The organization later reimbursed users who lost money to the exploit.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Popsicle Finance
+financial_loss_usd: 25000000
+notes: 'Popsicle Finance, a DeFi platform, lost $25 million to a bug exploited with flash loans. The organization later reimbursed
+  users who lost money to the exploit.
 
 
   Total loss estimated at $25,000,000.'

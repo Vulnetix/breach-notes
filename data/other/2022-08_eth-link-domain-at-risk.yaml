@@ -3,19 +3,17 @@ source_url: https://twitter.com/ENS_DAO/status/1562998396968873984
 date_of_breach: '2022-08-25'
 date_of_disclosure: '2022-08-25'
 category: other
-notes: Some people might be familiar with ENS, the "Ethereum Name Service", which
-  seeks to be a web3 equivalent of DNS. If you've seen people with usernames ending
-  in .eth, that's an ENS address. The problem is that .eth is not a functional top-level
-  domain, and so many services relied on eth.link to surface these DNS records to
-  other services.However, the eth.link domain is only rented for a set period of time
-  and needs to be renewed. ENS DAO tweeted that the domain's owner, Virgil Griffith,
-  is "unavailable". By this, they mean that he is currently serving his first of five
-  years in prison for helping North Korea evade sanctions. With Griffith "unavailable",
-  the project has found itself at the mercy of GoDaddy. Welcome to the decentralized
-  web3 we've all been promised!Although GoDaddy previously allowed another person
-  to renew the domain on Griffith's behalf, they reversed that decision, and now say
-  they intend to allow the domain to expire on September 5.The ENS DAO issued a series
-  of tweets urging people to switch to a different service, given the risk that the
-  domain could be snapped up. "If the name expires and is acquired by someone with
-  ill intent, the damage they could do via phishing is substantial - so please update
+initial_attack_vector: Phishing attack
+vendor_product: eth.link domain at risk
+blockchain: ethereum
+notes: Some people might be familiar with ENS, the "Ethereum Name Service", which seeks to be a web3 equivalent of DNS. If
+  you've seen people with usernames ending in .eth, that's an ENS address. The problem is that .eth is not a functional top-level
+  domain, and so many services relied on eth.link to surface these DNS records to other services.However, the eth.link domain
+  is only rented for a set period of time and needs to be renewed. ENS DAO tweeted that the domain's owner, Virgil Griffith,
+  is "unavailable". By this, they mean that he is currently serving his first of five years in prison for helping North Korea
+  evade sanctions. With Griffith "unavailable", the project has found itself at the mercy of GoDaddy. Welcome to the decentralized
+  web3 we've all been promised!Although GoDaddy previously allowed another person to renew the domain on Griffith's behalf,
+  they reversed that decision, and now say they intend to allow the domain to expire on September 5.The ENS DAO issued a series
+  of tweets urging people to switch to a different service, given the risk that the domain could be snapped up. "If the name
+  expires and is acquired by someone with ill intent, the damage they could do via phishing is substantial - so please update
   your links and alert your users of the issue immediately," they wrote.

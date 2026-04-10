@@ -1,13 +1,11 @@
-source_name: '"MoviePass will track people’s eyes through their phone’s cameras to
-  make sure they don’t look away from ads"'
+source_name: '"MoviePass will track people’s eyes through their phone’s cameras to make sure they don’t look away from ads"'
 source_url: https://www.independent.co.uk/tech/moviepass-track-eyes-phone-cameras-b2013273.html
 date_of_breach: '2022-02-11'
 date_of_disclosure: '2022-02-11'
 category: other
-notes: Remember MoviePass, the completely unsustainable and shady business that allowed
-  people to go see unlimited movies in theaters (until it didn't)? Well, it's back.
-  This time they promise you'll be able to earn cryptocurrency by watching ads, which
-  I guess you can then spend to watch more movies. Not only that, they promise to
-  prevent that pesky issue of people putting their phones down while the ads are playing
-  by using eye tracking to make sure you're firmly glued to the screen. I wonder if
-  they screen A Clockwork Orange.
+vendor_product: MoviePass
+notes: Remember MoviePass, the completely unsustainable and shady business that allowed people to go see unlimited movies
+  in theaters (until it didn't)? Well, it's back. This time they promise you'll be able to earn cryptocurrency by watching
+  ads, which I guess you can then spend to watch more movies. Not only that, they promise to prevent that pesky issue of people
+  putting their phones down while the ads are playing by using eye tracking to make sure you're firmly glued to the screen.
+  I wonder if they screen A Clockwork Orange.

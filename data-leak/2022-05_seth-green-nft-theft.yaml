@@ -3,18 +3,18 @@ source_url: https://twitter.com/SethGreen/status/1526588358859759617
 date_of_breach: '2022-05-17'
 date_of_disclosure: '2022-05-17'
 category: data-leak
-notes: 'Actor Seth Green tweeted that he had been targeted with a phishing attack
-  that resulted in the theft of four pricey NFTs: a Bored Ape, two Mutant Apes, and
-  a Doodle. The thief quickly flipped three of the four NFTs for sale, netting 145.5
-  ETH (about $300,000).The theft occurred on May 8, though Green only seemed to notice
-  on May 17 when he tweeted, "Well frens it happened to me. Got phished and had 4NFT
-  stolen."The loss of the Bored Ape was later revealed to have put Green in a bit
-  of a pickle, when he released the trailer for a new animated series he was developing
-  that starred his pilfered primate. Given that BAYC ownership grants commercial usage
-  rights (which are presumably transferred to the new owners when the NFT changes
-  hands), the person who bought the NFT flipped by the phisher could have possibly
-  brought a lawsuit against Green if he moved forward with the series.Green ultimately
-  spent about $300,000 to buy his ape back from the hacker.
+initial_attack_vector: Phishing attack
+vendor_product: Seth Green NFT theft
+blockchain: ethereum
+financial_loss_usd: 300000
+notes: 'Actor Seth Green tweeted that he had been targeted with a phishing attack that resulted in the theft of four pricey
+  NFTs: a Bored Ape, two Mutant Apes, and a Doodle. The thief quickly flipped three of the four NFTs for sale, netting 145.5
+  ETH (about $300,000).The theft occurred on May 8, though Green only seemed to notice on May 17 when he tweeted, "Well frens
+  it happened to me. Got phished and had 4NFT stolen."The loss of the Bored Ape was later revealed to have put Green in a
+  bit of a pickle, when he released the trailer for a new animated series he was developing that starred his pilfered primate.
+  Given that BAYC ownership grants commercial usage rights (which are presumably transferred to the new owners when the NFT
+  changes hands), the person who bought the NFT flipped by the phisher could have possibly brought a lawsuit against Green
+  if he moved forward with the series.Green ultimately spent about $300,000 to buy his ape back from the hacker.
 
 
   Total loss estimated at $300,000.'

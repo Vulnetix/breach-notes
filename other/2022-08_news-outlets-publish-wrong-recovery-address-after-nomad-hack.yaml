@@ -3,13 +3,12 @@ source_url: https://twitter.com/zachxbt/status/1554888923633131521
 date_of_breach: '2022-08-03'
 date_of_disclosure: '2022-08-03'
 category: other
-notes: 'After the August 1 Nomad bridge exploit, Nomad created an address where people
-  who took money out of the bridge could return it.However, that was not the address
-  that CoinGape published in their article titled "Breaking: Nomad Announces ENS Address
-  And Bounty For Returning Funds" article, which was syndicated to Binance''s news
-  feed. Instead, they indicated that people should send funds to a different address,
-  a scammer who had been sending on-chain messages to various people who took money
-  out of Nomad during the exploit, asking they return it.Although CoinGape removed
-  the article fairly quickly, it remained live on Binance''s site for over an hour.
-  Fortunately, it doesn''t appear anyone besides the writers have fallen for the scam,
-  as no cryptocurrency has been sent to the address.'
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: News outlets publish wrong recovery address after Nomad
+notes: 'After the August 1 Nomad bridge exploit, Nomad created an address where people who took money out of the bridge could
+  return it.However, that was not the address that CoinGape published in their article titled "Breaking: Nomad Announces ENS
+  Address And Bounty For Returning Funds" article, which was syndicated to Binance''s news feed. Instead, they indicated that
+  people should send funds to a different address, a scammer who had been sending on-chain messages to various people who
+  took money out of Nomad during the exploit, asking they return it.Although CoinGape removed the article fairly quickly,
+  it remained live on Binance''s site for over an hour. Fortunately, it doesn''t appear anyone besides the writers have fallen
+  for the scam, as no cryptocurrency has been sent to the address.'

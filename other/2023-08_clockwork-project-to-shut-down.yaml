@@ -3,12 +3,12 @@ source_url: https://twitter.com/time_composer/status/1695852843633172489
 date_of_breach: '2023-08-27'
 date_of_disclosure: '2023-08-27'
 category: other
-notes: A year after raising $4 million in a seed round joined by Multicoin Capital,
-  Solana Ventures, and Asymmetric, Clockwork co-founder Nick Garfield announced that
-  the Solana-based automation platform would be shutting down. He wrote, "Ultimately
-  the reason we are stepping away now is simple opportunity cost. We admittedly see
-  limited commercial upside in continuing to develop the protocol, and have a growing
-  personal interest to explore new opportunities."A user asked what would happen to
-  remaining seed money, if any, in a Twitter reply. Garfield answered that they "still
-  have a meaningful portion of our seed funding" but that he hadn't decided what to
-  do with it.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Clockwork project to
+blockchain: solana
+notes: A year after raising $4 million in a seed round joined by Multicoin Capital, Solana Ventures, and Asymmetric, Clockwork
+  co-founder Nick Garfield announced that the Solana-based automation platform would be shutting down. He wrote, "Ultimately
+  the reason we are stepping away now is simple opportunity cost. We admittedly see limited commercial upside in continuing
+  to develop the protocol, and have a growing personal interest to explore new opportunities."A user asked what would happen
+  to remaining seed money, if any, in a Twitter reply. Garfield answered that they "still have a meaningful portion of our
+  seed funding" but that he hadn't decided what to do with it.

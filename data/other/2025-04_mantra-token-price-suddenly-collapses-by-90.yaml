@@ -3,10 +3,10 @@ source_url: https://protos.com/mantra-ceo-says-reckless-exchanges-caused-om-toke
 date_of_breach: '2025-04-14'
 date_of_disclosure: '2025-04-14'
 category: other
-notes: Mantra's $OM token price suddenly crashed by around 90%, with the project's
-  supposed "market cap" shrinking by around $5 billion in the span of hours. Mantra
-  is a layer-1 blockchain project aiming to support real-world asset trading.Some
-  have accused Mantra of rug-pulling or accused Mantra investors like Laser Digital
-  of mass sell-offs. However, Mantra claims that the flash crash was due to "reckless
-  forced closures initiated by centralized exchanges on OM account holders" — a claim
-  that has been questioned by those observing the rapidity of the crash.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Mantra
+notes: Mantra's $OM token price suddenly crashed by around 90%, with the project's supposed "market cap" shrinking by around
+  $5 billion in the span of hours. Mantra is a layer-1 blockchain project aiming to support real-world asset trading.Some
+  have accused Mantra of rug-pulling or accused Mantra investors like Laser Digital of mass sell-offs. However, Mantra claims
+  that the flash crash was due to "reckless forced closures initiated by centralized exchanges on OM account holders" — a
+  claim that has been questioned by those observing the rapidity of the crash.

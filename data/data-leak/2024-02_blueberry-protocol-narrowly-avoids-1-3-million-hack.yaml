@@ -3,15 +3,17 @@ source_url: https://twitter.com/CertiKAlert/status/1760961269270548809
 date_of_breach: '2024-02-22'
 date_of_disclosure: '2024-02-22'
 category: data-leak
-notes: 'The Blueberry defi leverage project had a bug in their lending contract, where
-  improper decimal handling allowed for an exploit. An attacker tried to exploit the
-  vulnerability, but was front-run by c0ffeebabe.eth, a well-known MEV bot operator
-  and whitehat who has in the past been able to front-run other exploits and return
-  the funds to the projects.About 457.7 ETH ($1.35 million) was drained from the project,
-  but 366.6 ETH ($1.08 million) of that was able to be returned. The remaining ~91
-  ETH (~$265,000) was lost to validator payments.Blueberry paused their protocol as
-  they investigated the hack, and stated that they "aim for a full repayment to users
-  as the goal".
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Blueberry Protocol narrowly avoids $1.3 million
+blockchain: ethereum
+financial_loss_usd: 265000
+financial_recovered_usd: 1080000
+notes: 'The Blueberry defi leverage project had a bug in their lending contract, where improper decimal handling allowed for
+  an exploit. An attacker tried to exploit the vulnerability, but was front-run by c0ffeebabe.eth, a well-known MEV bot operator
+  and whitehat who has in the past been able to front-run other exploits and return the funds to the projects.About 457.7
+  ETH ($1.35 million) was drained from the project, but 366.6 ETH ($1.08 million) of that was able to be returned. The remaining
+  ~91 ETH (~$265,000) was lost to validator payments.Blueberry paused their protocol as they investigated the hack, and stated
+  that they "aim for a full repayment to users as the goal".
 
 
   Total loss estimated at $265,000.'

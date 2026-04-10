@@ -3,17 +3,19 @@ source_url: https://twitter.com/spreekaway/status/1643313471180644360
 date_of_breach: '2023-04-04'
 date_of_disclosure: '2023-04-04'
 category: data-leak
-notes: 'The Sentiment liquidity protocol on the Arbitrum blockchain was attacked on
-  April 4 for almost $1 million in various tokens, including wrapped Bitcoin and Ether,
-  and several different stablecoins.The attacker apparently took advantage of a re-entrancy
-  vulnerability to execute the theft, then swapped the tokens and bridged them to
-  the Ethereum main chain.Sentiment tweeted that they were aware of the attack and
-  investigating what had happened. They also stated that they were working with law
-  enforcement. Later that evening, they sent a message to the hacker, offering to
-  let them keep 10% of the stolen funds as a bounty if they returned the rest. Sentiment
-  was audited by two crypto security firms.On April 6, Sentiment announced that the
-  exploiter had returned 90% of the funds, keeping $95,000 and receiving a promise
-  from the organization that they would not try to prosecute the theft.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Sentiment
+blockchain: ethereum
+financial_loss_usd: 95000
+financial_recovered_usd: 905000
+notes: 'The Sentiment liquidity protocol on the Arbitrum blockchain was attacked on April 4 for almost $1 million in various
+  tokens, including wrapped Bitcoin and Ether, and several different stablecoins.The attacker apparently took advantage of
+  a re-entrancy vulnerability to execute the theft, then swapped the tokens and bridged them to the Ethereum main chain.Sentiment
+  tweeted that they were aware of the attack and investigating what had happened. They also stated that they were working
+  with law enforcement. Later that evening, they sent a message to the hacker, offering to let them keep 10% of the stolen
+  funds as a bounty if they returned the rest. Sentiment was audited by two crypto security firms.On April 6, Sentiment announced
+  that the exploiter had returned 90% of the funds, keeping $95,000 and receiving a promise from the organization that they
+  would not try to prosecute the theft.
 
 
   Total loss estimated at $95,000.'

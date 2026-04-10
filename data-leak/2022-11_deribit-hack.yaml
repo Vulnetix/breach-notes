@@ -3,9 +3,10 @@ source_url: https://twitter.com/DeribitExchange/status/1587701883778523136
 date_of_breach: '2022-11-01'
 date_of_disclosure: '2022-11-01'
 category: data-leak
-notes: "Major crypto exchange Deribit suffered a hot wallet compromise that resulted\
-  \ in a $28 million theft. The exchange halted withdrawals to perform security checks,\
-  \ but urged that customer funds were safe and that the loss was covered by company\
-  \ reserves.Deribit is also among the primary creditors of failed crypto hedge fund\
-  \ Three Arrows Capital, which defaulted on an $80 million loan from the exchange.\
-  \ \n\nTotal loss estimated at $28,000,000."
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Deribit
+financial_loss_usd: 28000000
+notes: "Major crypto exchange Deribit suffered a hot wallet compromise that resulted in a $28 million theft. The exchange\
+  \ halted withdrawals to perform security checks, but urged that customer funds were safe and that the loss was covered by\
+  \ company reserves.Deribit is also among the primary creditors of failed crypto hedge fund Three Arrows Capital, which defaulted\
+  \ on an $80 million loan from the exchange. \n\nTotal loss estimated at $28,000,000."

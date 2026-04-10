@@ -3,13 +3,12 @@ source_url: https://hotbit.zendesk.com/hc/en-us/articles/8074249353495-Announcem
 date_of_breach: '2022-08-10'
 date_of_disclosure: '2022-08-10'
 category: other
-notes: The Hotbit cryptocurrency exchange abruptly announced they would be suspending
-  services because they were under criminal investigation, and law enforcement had
-  frozen some of their assets. Hotbit claims that the investigation pertains to a
-  former employee who was involved in a "project" unbeknownst to Hotbit, which investigators
-  believe was illegal. Hotbit urged that all customer funds were safe, which seems
-  a bit of a bold statement when their funds are currently frozen to the point where
-  the exchange can no longer operate.Hotbit announced the suspension on Twitter with
-  a GIF of a crying Anya from the anime series Spy × Family which, despite demonstrating
-  their good taste in shows, does not seem like it would exactly inspire confidence
-  among customers.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Hotbit suspends trading
+notes: The Hotbit cryptocurrency exchange abruptly announced they would be suspending services because they were under criminal
+  investigation, and law enforcement had frozen some of their assets. Hotbit claims that the investigation pertains to a former
+  employee who was involved in a "project" unbeknownst to Hotbit, which investigators believe was illegal. Hotbit urged that
+  all customer funds were safe, which seems a bit of a bold statement when their funds are currently frozen to the point where
+  the exchange can no longer operate.Hotbit announced the suspension on Twitter with a GIF of a crying Anya from the anime
+  series Spy × Family which, despite demonstrating their good taste in shows, does not seem like it would exactly inspire
+  confidence among customers.

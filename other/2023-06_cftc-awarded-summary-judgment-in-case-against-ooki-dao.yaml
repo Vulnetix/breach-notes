@@ -3,12 +3,11 @@ source_url: https://www.courtlistener.com/docket/65369411/76/commodity-futures-t
 date_of_breach: '2023-06-09'
 date_of_disclosure: '2023-06-09'
 category: other
-notes: Ooki DAO was sued in September of last year for allowing illegal trading of
-  digital assets, engaging in activities only allowed by registered futures commission
-  merchants, and not performing proper KYC. It was a potentially landmark case, as
-  one of the first actions to be taken against a DAO and an opportunity to test various
-  DAOs' claims that by decentralizing governance, they can skirt regulatory enforcement.Now,
-  a judge has awarded default judgment in the case, requiring the DAO to pay a more
-  than $640,000 penalty, close down its website, and stop trading. The court held
-  that the Ooki DAO was a "person" under the Commodity Exchange Act and thus could
-  be held liable for violations of the law.
+initial_attack_vector: Regulatory / legal action
+vendor_product: CFTC awarded summary judgment in case against Ooki DAO
+notes: Ooki DAO was sued in September of last year for allowing illegal trading of digital assets, engaging in activities
+  only allowed by registered futures commission merchants, and not performing proper KYC. It was a potentially landmark case,
+  as one of the first actions to be taken against a DAO and an opportunity to test various DAOs' claims that by decentralizing
+  governance, they can skirt regulatory enforcement.Now, a judge has awarded default judgment in the case, requiring the DAO
+  to pay a more than $640,000 penalty, close down its website, and stop trading. The court held that the Ooki DAO was a "person"
+  under the Commodity Exchange Act and thus could be held liable for violations of the law.

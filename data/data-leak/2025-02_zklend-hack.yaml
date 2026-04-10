@@ -3,12 +3,13 @@ source_url: https://x.com/CyversAlerts/status/1889582024861663421
 date_of_breach: '2025-02-12'
 date_of_disclosure: '2025-02-12'
 category: data-leak
-notes: 'The Starknet-based lending platform zkLend was exploited for around $9.5 million.
-  zkLend paused the protocol after the attack was discovered, and began working with
-  various crypto security groups to try to trace the stolen funds and identify the
-  thief. zkLend also sent a message to the attacker, offering a 10% "bounty" and a
-  "release from any and all liability" if they returned 90% of the funds. As of twelve
-  hours after the hack, no reply had been made.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: zkLend
+financial_loss_usd: 9500000
+notes: 'The Starknet-based lending platform zkLend was exploited for around $9.5 million. zkLend paused the protocol after
+  the attack was discovered, and began working with various crypto security groups to try to trace the stolen funds and identify
+  the thief. zkLend also sent a message to the attacker, offering a 10% "bounty" and a "release from any and all liability"
+  if they returned 90% of the funds. As of twelve hours after the hack, no reply had been made.
 
 
   Total loss estimated at $9,500,000.'

@@ -1,13 +1,12 @@
-source_name: '" ''Jack Dorsey''s First Tweet'' NFT Went on Sale for $48M. It Ended
-  With a Top Bid of Just $280"'
+source_name: '" ''Jack Dorsey''s First Tweet'' NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280"'
 source_url: https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/
 date_of_breach: '2022-04-13'
 date_of_disclosure: '2022-04-13'
 category: other
-notes: After Jack Dorsey made an NFT out of his first-ever tweet, then-cryptocurrency
-  executive Sina Estavi won the auction in March 2021 with a 1,630 ETH bid (then around
-  $2.9 million). A little over a year later, on April 6, Estavi tweeted that he would
-  be selling the NFT. He listed the NFT on Opensea for 14,969 ETH (around $46 million),
-  in an auction slated to last a week. When the auction closed, there were seven offers
-  ranging from 0.0019 ETH ($6) to 0.09 ETH ($277). It's still up to Estavi whether
-  or not to accept a bid.
+vendor_product: NFT collector gets low bids for Jack Dorsey tweet
+blockchain: polygon, ethereum
+notes: After Jack Dorsey made an NFT out of his first-ever tweet, then-cryptocurrency executive Sina Estavi won the auction
+  in March 2021 with a 1,630 ETH bid (then around $2.9 million). A little over a year later, on April 6, Estavi tweeted that
+  he would be selling the NFT. He listed the NFT on Opensea for 14,969 ETH (around $46 million), in an auction slated to last
+  a week. When the auction closed, there were seven offers ranging from 0.0019 ETH ($6) to 0.09 ETH ($277). It's still up
+  to Estavi whether or not to accept a bid.

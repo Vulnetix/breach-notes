@@ -1,12 +1,12 @@
-source_name: '"Bitcoin ASIC manufacturer Bitmain pauses employee salary payments:
-  Report"'
+source_name: '"Bitcoin ASIC manufacturer Bitmain pauses employee salary payments: Report"'
 source_url: https://cointelegraph.com/news/bitcoin-asic-manufacturer-bitmain-pauses-employee-salary-payments
 date_of_breach: '2023-10-09'
 date_of_disclosure: '2023-10-09'
 category: other
-notes: Bitmain, the manufacturer of popular Bitcoin mining equipment (known as ASICs),
-  is apparently in such dire financial straits that it can no longer pay employee
-  salaries. Local media reported that all "bonuses and incentives" were nixed by the
-  Beijing-based company, and the firm is considering cutting all wages by 50%. They
-  also wrote a letter to employees, informing them that they would not be paying out
-  September salaries until a review later in the month.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Bitmain stops paying employees
+blockchain: bitcoin
+notes: Bitmain, the manufacturer of popular Bitcoin mining equipment (known as ASICs), is apparently in such dire financial
+  straits that it can no longer pay employee salaries. Local media reported that all "bonuses and incentives" were nixed by
+  the Beijing-based company, and the firm is considering cutting all wages by 50%. They also wrote a letter to employees,
+  informing them that they would not be paying out September salaries until a review later in the month.

@@ -1,18 +1,15 @@
-source_name: '"Five U.S. States Reach Settlement With GS Partners, Investors to Get
-  Full Refunds"'
+source_name: '"Five U.S. States Reach Settlement With GS Partners, Investors to Get Full Refunds"'
 source_url: https://www.coindesk.com/policy/2024/09/09/five-us-states-reach-settlement-with-gs-partners-investors-to-get-full-refunds/?utm_medium=referral&utm_source=rss&utm_campaign=headlines
 date_of_breach: '2024-09-09'
 date_of_disclosure: '2024-09-09'
 category: data-leak
-notes: 'Five states have settled with the European crypto firm GS Partners over several
-  crypto investment pyramid schemes. These included one in which the firm sold crypto
-  "vouchers", each representing a single square inch of a 36-floor Dubai sksycraper,
-  which they said would allow holders to earn passive income from rental leases. The
-  group reportedly offered a 5% weekly guaranteed return. Other schemes involved selling
-  metaverse land and a token purportedly backed by gold. GS Partners worked with various
-  celebrity spokespeople, including eternal moth-to-the-flame of scammy crypto projects,
-  Floyd Mayweather. The GS Partners firm shut down in the United States as of December
-  2023.Terms of the settlement include 100% repayment of investments made by victims
-  in the five states that settled: Texas, Alabama, Arizona, Arkansas, and Georgia.GS
-  Partners has also faced regulatory scrutiny in other US states, as well as in Canada,
-  Australia, and South Africa.'
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: GS Partners settlements
+notes: 'Five states have settled with the European crypto firm GS Partners over several crypto investment pyramid schemes.
+  These included one in which the firm sold crypto "vouchers", each representing a single square inch of a 36-floor Dubai
+  sksycraper, which they said would allow holders to earn passive income from rental leases. The group reportedly offered
+  a 5% weekly guaranteed return. Other schemes involved selling metaverse land and a token purportedly backed by gold. GS
+  Partners worked with various celebrity spokespeople, including eternal moth-to-the-flame of scammy crypto projects, Floyd
+  Mayweather. The GS Partners firm shut down in the United States as of December 2023.Terms of the settlement include 100%
+  repayment of investments made by victims in the five states that settled: Texas, Alabama, Arizona, Arkansas, and Georgia.GS
+  Partners has also faced regulatory scrutiny in other US states, as well as in Canada, Australia, and South Africa.'

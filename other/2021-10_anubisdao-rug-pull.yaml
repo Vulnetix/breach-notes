@@ -1,15 +1,15 @@
-source_name: '"This crypto investor says he just lost $470,000 on a dog-inspired DeFi
-  project"'
+source_name: '"This crypto investor says he just lost $470,000 on a dog-inspired DeFi project"'
 source_url: https://www.cnbc.com/2021/10/29/crypto-investor-says-he-lost-6-figures-on-a-dog-inspired-defi-project.html
 date_of_breach: '2021-10-29'
 date_of_disclosure: '2021-10-29'
 category: other
-notes: 'A project called AnubisDAO launched a coin called ANKH, and were quickly flooded
-  with cash from investors hoping to find another dog-themed memecoin success like
-  Dogecoin or Shiba Inu. In less than 24 hours, the money vanished from the liquidity
-  pool in what project creators claim was a phishing attack, but more likely was a
-  rug pull. One investor interviewed by CNBC said he had invested nearly $470,000
-  in the coin before the money was drained.
+initial_attack_vector: Phishing attack
+vendor_product: AnubisDAO
+financial_loss_usd: 60000000
+notes: 'A project called AnubisDAO launched a coin called ANKH, and were quickly flooded with cash from investors hoping to
+  find another dog-themed memecoin success like Dogecoin or Shiba Inu. In less than 24 hours, the money vanished from the
+  liquidity pool in what project creators claim was a phishing attack, but more likely was a rug pull. One investor interviewed
+  by CNBC said he had invested nearly $470,000 in the coin before the money was drained.
 
 
   Total loss estimated at $60,000,000.'

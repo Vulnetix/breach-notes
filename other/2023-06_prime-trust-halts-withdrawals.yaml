@@ -3,11 +3,11 @@ source_url: https://protos.com/prime-trust-halts-withdrawals-and-deposits-as-acq
 date_of_breach: '2023-06-22'
 date_of_disclosure: '2023-06-22'
 category: other
-notes: The planned acquisition by BitGo of the Prime Trust crypto custodian fell through
-  on June 22, as BitGo announced that they had "made the hard decision to terminate
-  its acquisition" after "considerable effort and work to find a path forward". BitGo
-  had announced its intention to acquire Prime Trust on June 8.Shortly after BitGo's
-  announcement, Prime Trust client Stably announced that they had received a letter
-  from Prime Trust announcing that deposits and withdrawals would be halted. Prime
-  Trust stated that the halt was by order of the Nevada Financial Institution Division,
-  which had been issued the previous day.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Prime Trust
+notes: The planned acquisition by BitGo of the Prime Trust crypto custodian fell through on June 22, as BitGo announced that
+  they had "made the hard decision to terminate its acquisition" after "considerable effort and work to find a path forward".
+  BitGo had announced its intention to acquire Prime Trust on June 8.Shortly after BitGo's announcement, Prime Trust client
+  Stably announced that they had received a letter from Prime Trust announcing that deposits and withdrawals would be halted.
+  Prime Trust stated that the halt was by order of the Nevada Financial Institution Division, which had been issued the previous
+  day.

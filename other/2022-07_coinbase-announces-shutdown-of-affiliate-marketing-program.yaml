@@ -1,17 +1,14 @@
-source_name: '"Leaked emails: Crypto exchange Coinbase is ''temporarily shutting down''
-  its US affiliate-marketing program"'
+source_name: '"Leaked emails: Crypto exchange Coinbase is ''temporarily shutting down'' its US affiliate-marketing program"'
 source_url: https://www.businessinsider.com/coinbase-temporarily-shutting-down-us-affiliate-marketing-program-for-influencers-2022-7
 date_of_breach: '2022-07-15'
 date_of_disclosure: '2022-07-15'
 category: other
-notes: A leaked email revealed that Coinbase is planning to temporarily end its affiliate-marketing
-  program, which pays influencers to convince their followers to sign up. Some influencers
-  were earning $40 for each person they pulled on to the platform in early 2022, though
-  the rewards had reportedly dwindled to as low as $2/person more recently. In the
-  leaked email, Coinbase stated that they would be shutting down the program on July
-  19 "due to crypto market conditions and the outlook for the remainder of 2022".
-  They also said they planned to re-enable the program at some point in 2023.The news
-  sparked rumors about Coinbase, including that they might be facing a liquidity crisis
-  or insolvency. Others dismissed those rumors as unfounded, and normal behavior for
-  a company facing a market downturn. Coinbase CEO Brian Armstrong tweeted that Coinbase
-  was "well capitalized".
+vendor_product: Coinbase
+notes: A leaked email revealed that Coinbase is planning to temporarily end its affiliate-marketing program, which pays influencers
+  to convince their followers to sign up. Some influencers were earning $40 for each person they pulled on to the platform
+  in early 2022, though the rewards had reportedly dwindled to as low as $2/person more recently. In the leaked email, Coinbase
+  stated that they would be shutting down the program on July 19 "due to crypto market conditions and the outlook for the
+  remainder of 2022". They also said they planned to re-enable the program at some point in 2023.The news sparked rumors about
+  Coinbase, including that they might be facing a liquidity crisis or insolvency. Others dismissed those rumors as unfounded,
+  and normal behavior for a company facing a market downturn. Coinbase CEO Brian Armstrong tweeted that Coinbase was "well
+  capitalized".

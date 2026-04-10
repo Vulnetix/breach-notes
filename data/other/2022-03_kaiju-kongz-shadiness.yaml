@@ -3,19 +3,16 @@ source_url: https://nftevening.com/new-nft-project-kaiju-kongz-will-burn-your-nf
 date_of_breach: '2022-03-18'
 date_of_disclosure: '2022-03-18'
 category: other
-notes: An NFT project's value is often discussed in terms of its floor price — that
-  is, the lowest price at which any given NFT in a collection is listed for sale.
-  The new NFT project Kaiju Kongz decided to take advantage of the fact that you can
-  pretty much do anything you want with a smart contract to ensure that the floor
-  price of its project only increases shortly after the NFTs are launched. They released
-  their project with a "burn schedule" — a list price that gradually increases as
-  time goes on, where if someone lists their NFT below that price, it will automatically
-  be burnt — the closest thing to "destroying" an NFT that's possible. This serves
-  to ensure that the floor price stays above the minimum value the project creators
-  want, which doubles daily from 0.065 ETH (~$190) on the day of launch to 0.64 (~$1900)
-  on March 22.Some NFT collectors criticized the choice. One described it as "illegal
-  market manipulation tactics", and others said the project should grow the floor
-  "organically". Given the rampant manipulation in the NFT space, one wonders if the
-  real criticism collectors have with the project is that they were too transparent
-  about their price manipulation, and should've just done it quietly like other projects
-  have.
+vendor_product: Kaiju Kongz shadiness
+blockchain: ethereum
+notes: An NFT project's value is often discussed in terms of its floor price — that is, the lowest price at which any given
+  NFT in a collection is listed for sale. The new NFT project Kaiju Kongz decided to take advantage of the fact that you can
+  pretty much do anything you want with a smart contract to ensure that the floor price of its project only increases shortly
+  after the NFTs are launched. They released their project with a "burn schedule" — a list price that gradually increases
+  as time goes on, where if someone lists their NFT below that price, it will automatically be burnt — the closest thing to
+  "destroying" an NFT that's possible. This serves to ensure that the floor price stays above the minimum value the project
+  creators want, which doubles daily from 0.065 ETH (~$190) on the day of launch to 0.64 (~$1900) on March 22.Some NFT collectors
+  criticized the choice. One described it as "illegal market manipulation tactics", and others said the project should grow
+  the floor "organically". Given the rampant manipulation in the NFT space, one wonders if the real criticism collectors have
+  with the project is that they were too transparent about their price manipulation, and should've just done it quietly like
+  other projects have.

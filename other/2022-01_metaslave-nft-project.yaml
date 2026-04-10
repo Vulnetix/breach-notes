@@ -3,11 +3,10 @@ source_url: https://www.vice.com/en/article/5dgw9a/racist-meta-slave-nft-project
 date_of_breach: '2022-01-25'
 date_of_disclosure: '2022-01-25'
 category: other
-notes: 'A project called "Meta Slave" launched, offering NFTs made from photographs
-  of Black people (all apparently algorithmically-generated). Backlash was swift and
-  intense, and the project has tried several times to respond: first by claiming that
-  they are trying to support Black Lives Matter and honor George Floyd (much like
-  the "Floydies" project in December), then rebranding to "Meta Humans" and throwing
-  a couple photos of white and Asian people into the collection. The project has,
-  thankfully, not enjoyed much success. I, for one, think it''s likely to be a troll
-  project by 4channers, but who''s to say.'
+vendor_product: MetaSlave NFT project
+blockchain: ethereum
+notes: 'A project called "Meta Slave" launched, offering NFTs made from photographs of Black people (all apparently algorithmically-generated).
+  Backlash was swift and intense, and the project has tried several times to respond: first by claiming that they are trying
+  to support Black Lives Matter and honor George Floyd (much like the "Floydies" project in December), then rebranding to
+  "Meta Humans" and throwing a couple photos of white and Asian people into the collection. The project has, thankfully, not
+  enjoyed much success. I, for one, think it''s likely to be a troll project by 4channers, but who''s to say.'

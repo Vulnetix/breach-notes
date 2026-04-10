@@ -3,18 +3,15 @@ source_url: https://www.theblock.co/post/232120/multichain-pledges-to-compensate
 date_of_breach: '2023-05-24'
 date_of_disclosure: '2023-05-24'
 category: other
-notes: The Multichain blockchain bridge, formerly known as Anyswap, encountered an
-  apparent issue as users' funds were delayed for over 24 hours in getting to their
-  destination. Some reported delays since as far back as May 21. The delay was blamed
-  on a backend upgrade "taking longer than expected". Multichain later tweeted that
-  "some of the cross-chain routes are unavailable due to force majeure, and the time
-  for service to resume is unknown". They also announced that they would compensate
-  affected users.Meanwhile, rumors swirled that the Multichain team had been arrested
-  by Chinese police, though there doesn't seem to be much corroborating evidence of
-  this.The issues and the rumors sparked a drop in token price of around 30%. Several
-  large parties also appeared to distance themselves from the project and its token,
-  including the Fantom Foundation, which withdrew 449,740 MULTI (~$2.4 million) in
-  liquidity on SushiSwap.On May 31, Multichain issued a statement that "we are currently
-  unable to contact CEO Zhaojun and obtain the necessary server access for maintenance",
-  and wrote that even more bridges were being impacted by the same issues as in the
-  previous week.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Multichain malfunction
+notes: The Multichain blockchain bridge, formerly known as Anyswap, encountered an apparent issue as users' funds were delayed
+  for over 24 hours in getting to their destination. Some reported delays since as far back as May 21. The delay was blamed
+  on a backend upgrade "taking longer than expected". Multichain later tweeted that "some of the cross-chain routes are unavailable
+  due to force majeure, and the time for service to resume is unknown". They also announced that they would compensate affected
+  users.Meanwhile, rumors swirled that the Multichain team had been arrested by Chinese police, though there doesn't seem
+  to be much corroborating evidence of this.The issues and the rumors sparked a drop in token price of around 30%. Several
+  large parties also appeared to distance themselves from the project and its token, including the Fantom Foundation, which
+  withdrew 449,740 MULTI (~$2.4 million) in liquidity on SushiSwap.On May 31, Multichain issued a statement that "we are currently
+  unable to contact CEO Zhaojun and obtain the necessary server access for maintenance", and wrote that even more bridges
+  were being impacted by the same issues as in the previous week.

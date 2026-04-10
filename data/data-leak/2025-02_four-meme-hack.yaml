@@ -3,10 +3,13 @@ source_url: https://x.com/four_meme_/status/1889198796695044138
 date_of_breach: '2025-02-11'
 date_of_disclosure: '2025-02-11'
 category: data-leak
-notes: 'A BNB Chain memecoin platform, Four.Meme, announced on Twitter that they were
-  "currently experiencing a malicious attack". The team briefly paused a portion of
-  the service while deploying a fix, but brought it back online later that day. Around
-  $183,000 was lost to the attack.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Four.Meme
+blockchain: bsc
+financial_loss_usd: 183000
+notes: 'A BNB Chain memecoin platform, Four.Meme, announced on Twitter that they were "currently experiencing a malicious
+  attack". The team briefly paused a portion of the service while deploying a fix, but brought it back online later that day.
+  Around $183,000 was lost to the attack.
 
 
   Total loss estimated at $183,000.'

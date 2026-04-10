@@ -3,10 +3,10 @@ source_url: https://www.bloomberg.com/news/articles/2022-08-09/crypto-exchange-c
 date_of_breach: '2022-08-09'
 date_of_disclosure: '2022-08-09'
 category: other
-notes: The cryptocurrency exchange CoinFLEX announced they had filed for restructuring,
-  a move that probably didn't surprise too many people after they stopped customer
-  withdrawals in June, sued Roger Ver over $84 million they claimed he owed them in
-  July, and then significantly cut staff in order to try to massively reduce their
-  costs.As tends to happen with insolvent exchanges, they are hoping to "compensate"
-  their depositors with a mix of CoinFLEX-issued tokens and equity, rather than actual
-  money or more liquid, established cryptocurrencies.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: CoinFLEX restructuring
+notes: The cryptocurrency exchange CoinFLEX announced they had filed for restructuring, a move that probably didn't surprise
+  too many people after they stopped customer withdrawals in June, sued Roger Ver over $84 million they claimed he owed them
+  in July, and then significantly cut staff in order to try to massively reduce their costs.As tends to happen with insolvent
+  exchanges, they are hoping to "compensate" their depositors with a mix of CoinFLEX-issued tokens and equity, rather than
+  actual money or more liquid, established cryptocurrencies.

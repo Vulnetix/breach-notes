@@ -3,25 +3,20 @@ source_url: https://home.treasury.gov/policy-issues/financial-sanctions/recent-a
 date_of_breach: '2022-08-08'
 date_of_disclosure: '2022-08-08'
 category: other
-notes: 'The U.S. Office of Foreign Assets Control (OFAC) added Tornado Cash to its
-  SDN list: a list of "Specially Designated Nationals And Blocked Persons" with whom
-  U.S. individuals and organizations are prohibited from doing business.Tornado Cash
-  is the most prominent cryptocurrency tumbler (or "mixer") and has been used in a
-  multitude of instances to launder proceeds from cryptocurrency hacks and scams.
-  In a press release, the Treasury Department named the North Korea-sponsored Lazarus
-  Group''s $625 million hack of Axie Infinity in March, the $100 million theft from
-  Horizon Bridge in June, and the $190 million hack of the Nomad bridge in August
-  as contributing to the decision.Although Tornado Cash had claimed to be complying
-  with sanctions in the wake of the Axie hack, the Treasury Department wrote in their
-  press release that, "Tornado Cash has repeatedly failed to impose effective controls
-  designed to stop it from laundering funds for malicious cyber actors on a regular
-  basis and without basic measures to address its risks".Tornado Cash is also widely
-  used to maintain privacy in a world where transactions are publicly visible, and
-  it remains to be seen how the cryptocurrency ecosystem will react to this major
-  development. Tornado Cash is also relatively decentralized in its operations, meaning
-  it may be difficult for the sanctions list to be kept up to date and for the sanctions
-  to be enforced.The fallout from the sanction was swift: in the days following the
-  action, Tornado''s source code repository was removed from Github and the accounts
-  of some of its developers were suspended; the project''s Gitcoin funding page was
-  taken down; and the project''s own website, governance pages, and Discord server
-  went offline.'
+initial_attack_vector: Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise
+vendor_product: OFAC sanctions Tornado Cash
+notes: 'The U.S. Office of Foreign Assets Control (OFAC) added Tornado Cash to its SDN list: a list of "Specially Designated
+  Nationals And Blocked Persons" with whom U.S. individuals and organizations are prohibited from doing business.Tornado Cash
+  is the most prominent cryptocurrency tumbler (or "mixer") and has been used in a multitude of instances to launder proceeds
+  from cryptocurrency hacks and scams. In a press release, the Treasury Department named the North Korea-sponsored Lazarus
+  Group''s $625 million hack of Axie Infinity in March, the $100 million theft from Horizon Bridge in June, and the $190 million
+  hack of the Nomad bridge in August as contributing to the decision.Although Tornado Cash had claimed to be complying with
+  sanctions in the wake of the Axie hack, the Treasury Department wrote in their press release that, "Tornado Cash has repeatedly
+  failed to impose effective controls designed to stop it from laundering funds for malicious cyber actors on a regular basis
+  and without basic measures to address its risks".Tornado Cash is also widely used to maintain privacy in a world where transactions
+  are publicly visible, and it remains to be seen how the cryptocurrency ecosystem will react to this major development. Tornado
+  Cash is also relatively decentralized in its operations, meaning it may be difficult for the sanctions list to be kept up
+  to date and for the sanctions to be enforced.The fallout from the sanction was swift: in the days following the action,
+  Tornado''s source code repository was removed from Github and the accounts of some of its developers were suspended; the
+  project''s Gitcoin funding page was taken down; and the project''s own website, governance pages, and Discord server went
+  offline.'

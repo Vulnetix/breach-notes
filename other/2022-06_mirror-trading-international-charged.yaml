@@ -1,18 +1,16 @@
-source_name: '"CFTC Charges South African Bitcoin Club Mirror Trading International
-  With $1.7B Fraud"'
+source_name: '"CFTC Charges South African Bitcoin Club Mirror Trading International With $1.7B Fraud"'
 source_url: https://www.coindesk.com/policy/2022/06/30/cftc-charges-south-african-bitcoin-club-mti-in-17b-fraud/
 date_of_breach: '2022-06-30'
 date_of_disclosure: '2022-06-30'
 category: other
-notes: Mirror Trading International was a South African Bitcoin pool operator that
-  advertised to investors that it would generate 10% returns a month, with bonuses
-  for referring friends and family. In reality, the project was a global pyramid scheme
-  that lied to investors about the existence of a "trading bot", falsified account
-  statements, engaged in no profitable forex trading, and used participants' deposits
-  to pay out "returns" to other investors. The company operated from May 2018 until
-  its bankruptcy and liquidation in early 2021, pulling in more than $1.7 billion.Mirror
-  Trading International was founded and operated by Cornelius Johannes Steynberg,
-  who had been on the run from South African police until recently being detained
-  in Brazil on an INTERPOL warrant. The CFTC is seeking full restitution, disgorgement,
-  and bans from future trading.On September 7, 2023, a U.S. District Court ordered
-  MTI to pay $1.7 billion in restitution.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Mirror Trading International charged
+blockchain: bitcoin
+notes: Mirror Trading International was a South African Bitcoin pool operator that advertised to investors that it would generate
+  10% returns a month, with bonuses for referring friends and family. In reality, the project was a global pyramid scheme
+  that lied to investors about the existence of a "trading bot", falsified account statements, engaged in no profitable forex
+  trading, and used participants' deposits to pay out "returns" to other investors. The company operated from May 2018 until
+  its bankruptcy and liquidation in early 2021, pulling in more than $1.7 billion.Mirror Trading International was founded
+  and operated by Cornelius Johannes Steynberg, who had been on the run from South African police until recently being detained
+  in Brazil on an INTERPOL warrant. The CFTC is seeking full restitution, disgorgement, and bans from future trading.On September
+  7, 2023, a U.S. District Court ordered MTI to pay $1.7 billion in restitution.

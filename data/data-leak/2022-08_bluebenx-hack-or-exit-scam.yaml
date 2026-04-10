@@ -3,12 +3,14 @@ source_url: https://cointelegraph.com/news/bluebenx-fires-employees-halts-funds-
 date_of_breach: '2022-08-14'
 date_of_disclosure: '2022-08-14'
 category: data-leak
-notes: 'The Brazilian crypto lending platform BlueBenx suddenly shut its doors after
-  announcing they had suffered an "extremely aggressive" hack of 160 million BRL (US$32
-  million). However, they shared very little in the way of details, leading investors
-  to question the veracity of their story.All 22,000 customers of BlueBenx suddenly
-  found them unable to withdraw funds from the platform. The platform also reportedly
-  laid off the majority of its employees.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: BlueBenx
+financial_loss_usd: 32000000
+affected_count: 22000
+notes: 'The Brazilian crypto lending platform BlueBenx suddenly shut its doors after announcing they had suffered an "extremely
+  aggressive" hack of 160 million BRL (US$32 million). However, they shared very little in the way of details, leading investors
+  to question the veracity of their story.All 22,000 customers of BlueBenx suddenly found them unable to withdraw funds from
+  the platform. The platform also reportedly laid off the majority of its employees.
 
 
   Total loss estimated at $32,000,000.'

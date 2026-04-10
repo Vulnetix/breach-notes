@@ -1,14 +1,14 @@
-source_name: '"Owners and Operators of Online Cryptocurrency Companies Indicted for
-  Defrauding Investors"'
+source_name: '"Owners and Operators of Online Cryptocurrency Companies Indicted for Defrauding Investors"'
 source_url: https://www.justice.gov/usao-edny/pr/owners-and-operators-online-cryptocurrency-companies-indicted-defrauding-investors
 date_of_breach: '2022-03-08'
 date_of_disclosure: '2022-03-08'
 category: data-leak
-notes: Four individuals who owned and operated EmpowerCoin, ECoinPlus, and Jet-Coin
-  were indicted on wire fraud, money laundering, and obstruction of justice charges.
-  They allegedly "engaged in a sophisticated scheme that preyed on unsuspecting investors
-  nationwide with false promises of guaranteed returns and virtual currency trading
-  opportunities", then tried to destroy evidence and obfuscate what they'd done after
-  everything fell apart even before any actual trading happened. The group allegedly
-  defrauded investors of more than $40 million over the four months in 2017 that the
-  three companies were active, and they now face up to 20 years in prison if convicted.
+initial_attack_vector: Regulatory / legal action
+vendor_product: EmpowerCoin indictment
+blockchain: bitcoin
+notes: Four individuals who owned and operated EmpowerCoin, ECoinPlus, and Jet-Coin were indicted on wire fraud, money laundering,
+  and obstruction of justice charges. They allegedly "engaged in a sophisticated scheme that preyed on unsuspecting investors
+  nationwide with false promises of guaranteed returns and virtual currency trading opportunities", then tried to destroy
+  evidence and obfuscate what they'd done after everything fell apart even before any actual trading happened. The group allegedly
+  defrauded investors of more than $40 million over the four months in 2017 that the three companies were active, and they
+  now face up to 20 years in prison if convicted.

@@ -3,18 +3,15 @@ source_url: https://twitter.com/NFTethics/status/1487818777869828096
 date_of_breach: '2022-01-23'
 date_of_disclosure: '2022-01-23'
 category: other
-notes: 'The enormously popular Cryptopunks project, created by the LarvaLabs group,
-  is actually on its second version. A bug in the original smart contract allowed
-  users to retrieve their money after buying the original NFT, allowing people to
-  "steal" the v1 NFTs, and so the project largely faded into obscurity in favor of
-  the patched version 2. However, recently the NFT marketplace LooksRare allowed a
-  project where people "wrap" their original punks and can trade them properly without
-  encountering the bug. This apparently didn''t go over so well with LarvaLabs: on
-  January 31, the project tweeted, "PSA: ''V1 Punks'' are not official Cryptopunks.
-  We don''t like them, and we''ve got 1,000 of them... so draw your own conclusions."
-  However, &#64;NFTethics noticed that one of the LarvaLabs founders sold all 40 V1
-  punks that he owned between January 23 and 25. Trading them shortly before the project
-  released the tweet declaring they viewed them as worthless sure looks a lot like
-  insider trading. The trades earned the founder a handsome total of 260 ETH (about
-  $625,000). Fortunately for buyers of the wrapped V1 punks, LarvaLabs'' announcement
-  doesn''t appear to have impacted trading price very much.'
+vendor_product: Cryptopunks insider trading
+blockchain: ethereum
+notes: 'The enormously popular Cryptopunks project, created by the LarvaLabs group, is actually on its second version. A bug
+  in the original smart contract allowed users to retrieve their money after buying the original NFT, allowing people to "steal"
+  the v1 NFTs, and so the project largely faded into obscurity in favor of the patched version 2. However, recently the NFT
+  marketplace LooksRare allowed a project where people "wrap" their original punks and can trade them properly without encountering
+  the bug. This apparently didn''t go over so well with LarvaLabs: on January 31, the project tweeted, "PSA: ''V1 Punks''
+  are not official Cryptopunks. We don''t like them, and we''ve got 1,000 of them... so draw your own conclusions." However,
+  &#64;NFTethics noticed that one of the LarvaLabs founders sold all 40 V1 punks that he owned between January 23 and 25.
+  Trading them shortly before the project released the tweet declaring they viewed them as worthless sure looks a lot like
+  insider trading. The trades earned the founder a handsome total of 260 ETH (about $625,000). Fortunately for buyers of the
+  wrapped V1 punks, LarvaLabs'' announcement doesn''t appear to have impacted trading price very much.'

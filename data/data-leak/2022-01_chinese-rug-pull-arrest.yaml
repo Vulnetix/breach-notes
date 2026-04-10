@@ -3,10 +3,12 @@ source_url: https://www.coindesk.com/policy/2022/01/18/chinese-police-arrest-8-p
 date_of_breach: '2022-01-14'
 date_of_disclosure: '2022-01-14'
 category: data-leak
-notes: 'Eight people were arrested in China after being connected to a rug pull. One
-  investor lost ¥590,000 ($90,000) he had poured into the token in June, when project
-  owners took the website offline and pulled all of the money out. A total of ¥50
-  million (a bit below $7.9 million) was lost to the scam.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Chinese
+financial_loss_usd: 7800000
+notes: 'Eight people were arrested in China after being connected to a rug pull. One investor lost ¥590,000 ($90,000) he had
+  poured into the token in June, when project owners took the website offline and pulled all of the money out. A total of
+  ¥50 million (a bit below $7.9 million) was lost to the scam.
 
 
   Total loss estimated at $7,800,000.'

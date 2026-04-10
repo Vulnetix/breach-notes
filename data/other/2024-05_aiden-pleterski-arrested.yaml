@@ -1,22 +1,18 @@
-source_name: '"Ontario''s ''Crypto King'' arrested after Durham police''s largest
-  fraud investigation ever"'
+source_name: '"Ontario''s ''Crypto King'' arrested after Durham police''s largest fraud investigation ever"'
 source_url: https://www.cbc.ca/news/canada/toronto/aiden-pieterski-charges-police-update-1.7205820
 date_of_breach: '2024-05-16'
 date_of_disclosure: '2024-05-16'
 category: other
-notes: Aiden Pleterski, a 25-year-old who goes by "Crypto King", has finally been
-  arrested and charged with fraud and money laundering. In 2022, he was sued by a
-  group of investors who have lost at least CA$41.5 million (~US$30.5 million) they
-  entrusted to him to invest on their behalf. He had promised massive profits, and
-  told them that any losses on their initial investments would be repaid in full.
-  A judge froze his assets in July 2022, and the court ordered him and his company
-  into bankruptcy the following month. The bankruptcy proceedings have so far recovered
-  around CA$3 million (US$2.2 million).Investigators for the bankruptcy proceedings
-  found that Pleterski had invested less than 2% of customer funds. Around $16 million
-  instead went to personal expenses, including luxury cars, a $45,000-a-month lakefront
-  mansion, private jets, and vacations.Even after being sued, filing for bankruptcy,
-  and being kidnapped and beaten by angry investors, Pleterski flaunted his supposed
-  wealth online. Much to the indignation of the creditors in his bankruptcy, he has
-  continued to regularly livestream himself gambling for hours, spending $150,000
-  on Legos, and driving luxury cars.Pleterski was released the same day he was arrested,
+initial_attack_vector: Regulatory / legal action
+vendor_product: Aiden Pleterski arrested
+notes: Aiden Pleterski, a 25-year-old who goes by "Crypto King", has finally been arrested and charged with fraud and money
+  laundering. In 2022, he was sued by a group of investors who have lost at least CA$41.5 million (~US$30.5 million) they
+  entrusted to him to invest on their behalf. He had promised massive profits, and told them that any losses on their initial
+  investments would be repaid in full. A judge froze his assets in July 2022, and the court ordered him and his company into
+  bankruptcy the following month. The bankruptcy proceedings have so far recovered around CA$3 million (US$2.2 million).Investigators
+  for the bankruptcy proceedings found that Pleterski had invested less than 2% of customer funds. Around $16 million instead
+  went to personal expenses, including luxury cars, a $45,000-a-month lakefront mansion, private jets, and vacations.Even
+  after being sued, filing for bankruptcy, and being kidnapped and beaten by angry investors, Pleterski flaunted his supposed
+  wealth online. Much to the indignation of the creditors in his bankruptcy, he has continued to regularly livestream himself
+  gambling for hours, spending $150,000 on Legos, and driving luxury cars.Pleterski was released the same day he was arrested,
   thanks to a CA$100,000 (~US$75,000) surety bond posted by his parents.

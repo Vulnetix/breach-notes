@@ -1,14 +1,13 @@
-source_name: '"Exclusive: U.S. Justice Dept is split over charging Binance as crypto
-  world falters, sources say"'
+source_name: '"Exclusive: U.S. Justice Dept is split over charging Binance as crypto world falters, sources say"'
 source_url: https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/
 date_of_breach: '2022-12-12'
 date_of_disclosure: '2022-12-12'
 category: other
-notes: Reuters has reported that the U.S. Department of Justice is considering filing
-  criminal charges against Binance executives, including CEO Changpeng Zhao ("CZ").
-  This comes as a part of a four-year-long criminal investigation into money laundering
-  and sanctions evasions. According to Reuters, DoJ prosecutors are "split" on whether
-  to take aggressive actions against Binance executives, or to spend more time reviewing
-  evidence.Reuters reports that Binance's defense attorneys have argued, among other
-  things, that "a criminal prosecution would wreak havoc on a crypto market already
-  in a prolonged downturn." Well then.
+initial_attack_vector: Regulatory / legal action
+vendor_product: DoJ considers criminal charges for Binance
+notes: Reuters has reported that the U.S. Department of Justice is considering filing criminal charges against Binance executives,
+  including CEO Changpeng Zhao ("CZ"). This comes as a part of a four-year-long criminal investigation into money laundering
+  and sanctions evasions. According to Reuters, DoJ prosecutors are "split" on whether to take aggressive actions against
+  Binance executives, or to spend more time reviewing evidence.Reuters reports that Binance's defense attorneys have argued,
+  among other things, that "a criminal prosecution would wreak havoc on a crypto market already in a prolonged downturn."
+  Well then.

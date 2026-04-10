@@ -3,12 +3,14 @@ source_url: https://twitter.com/zachxbt/status/1553036424617787400
 date_of_breach: '2022-01-09'
 date_of_disclosure: '2022-01-09'
 category: other
-notes: 'The Rich Dwarves Tribe was an NFT project announced in December 2021, which
-  minted in January 2022. The project had been heavily promoted by musicians including
-  NeYo, Jason Derulo, BowWow, and Fred Durst. It promised a metaverse "tavern", giveaways,
-  a crypto project incubator, and NFTs that would "mine coins for you". However, shortly
-  after the project minted out, its creators disappeared with the funds and abandoned
-  the project.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Rich Dwarves Tribe
+blockchain: ethereum
+financial_loss_usd: 2916665
+notes: 'The Rich Dwarves Tribe was an NFT project announced in December 2021, which minted in January 2022. The project had
+  been heavily promoted by musicians including NeYo, Jason Derulo, BowWow, and Fred Durst. It promised a metaverse "tavern",
+  giveaways, a crypto project incubator, and NFTs that would "mine coins for you". However, shortly after the project minted
+  out, its creators disappeared with the funds and abandoned the project.
 
 
   Total loss estimated at $2,916,665.'

@@ -3,12 +3,13 @@ source_url: https://www.trmlabs.com/post/exploit-radar-solfire-finance-burns-vic
 date_of_breach: '2022-01-23'
 date_of_disclosure: '2022-01-23'
 category: other
-notes: 'The Solana-based asset management protocol Solfire attracted users with its
-  promises of over 500% APY. Partnerships and mentions from other prominent Solana
-  projects helped the project earn legitimacy, and they enjoyed over $12 million TVL
-  at the project''s peak.However, on January 23, the project developers drained around
-  $4.8 million from the project before deleting the project''s website and social
-  media accounts.
+vendor_product: Solfire Finance
+blockchain: solana
+financial_loss_usd: 4800000
+notes: 'The Solana-based asset management protocol Solfire attracted users with its promises of over 500% APY. Partnerships
+  and mentions from other prominent Solana projects helped the project earn legitimacy, and they enjoyed over $12 million
+  TVL at the project''s peak.However, on January 23, the project developers drained around $4.8 million from the project before
+  deleting the project''s website and social media accounts.
 
 
   Total loss estimated at $4,800,000.'

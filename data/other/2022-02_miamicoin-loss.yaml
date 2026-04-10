@@ -3,15 +3,13 @@ source_url: https://www.ft.com/content/f2907890-c2da-4959-bc39-589ada847b0a
 date_of_breach: '2022-02-02'
 date_of_disclosure: '2022-02-02'
 category: other
-notes: Miami mayor Francis Suarez eagerly hyped "MiamiCoin" ($MIA), a cryptocurrency
-  created by a private company and not actually controlled by Miami. Suarez appeared
-  on CoinDesk TV to say that MiamiCoin has "been mainstreaming significantly faster
-  than bitcoin", despite trading for pennies, and not being listed on any exchange
-  aside from the Singaporean OKCoin.On February 2, Suarez excitedly announced that
-  they had received their "first-ever disbursement... totaling $5.25M". He didn't
-  mention that the coin is trading at 90% below its all-time-high and 35% less than
-  its initial price of $0.01. Both the OKCoin exchange and the coin creator previously
-  advertised that buyers could earn "430% APY" by participating in some sort of staking
-  program with the coin. All current holders of the coin, such as the Miamians Suarez
-  encouraged to invest, have lost money even when factoring in staking rewards, says
-  Protos.
+vendor_product: MiamiCoin loss
+blockchain: bitcoin
+notes: Miami mayor Francis Suarez eagerly hyped "MiamiCoin" ($MIA), a cryptocurrency created by a private company and not
+  actually controlled by Miami. Suarez appeared on CoinDesk TV to say that MiamiCoin has "been mainstreaming significantly
+  faster than bitcoin", despite trading for pennies, and not being listed on any exchange aside from the Singaporean OKCoin.On
+  February 2, Suarez excitedly announced that they had received their "first-ever disbursement... totaling $5.25M". He didn't
+  mention that the coin is trading at 90% below its all-time-high and 35% less than its initial price of $0.01. Both the OKCoin
+  exchange and the coin creator previously advertised that buyers could earn "430% APY" by participating in some sort of staking
+  program with the coin. All current holders of the coin, such as the Miamians Suarez encouraged to invest, have lost money
+  even when factoring in staking rewards, says Protos.

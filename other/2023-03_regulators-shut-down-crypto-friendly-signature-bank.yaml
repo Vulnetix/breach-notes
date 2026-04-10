@@ -3,15 +3,13 @@ source_url: https://www.bloomberg.com/news/articles/2023-03-12/signature-bank-cl
 date_of_breach: '2023-03-12'
 date_of_disclosure: '2023-03-12'
 category: other
-notes: Two days after the collapse of Silicon Valley Bank and four days after the
-  collapse of Silvergate Bank, the New York Department of Financial Services announced
-  they had taken possession of Signature Bank, a New York-based bank that was a major
-  bank partner for cryptocurrency companies. The bank was placed into receivership
-  with the Federal Deposit Insurance Corporation (FDIC). According to a Signature
-  board member, a bank run of billions of dollars began on Friday after the seizure
-  of Silicon Valley Bank.A joint statement from federal regulators announced that
-  "All depositors of this institution will be made whole... no losses will be borne
-  by the taxpayer. Shareholders and certain unsecured debtholders will not be protected.
-  Senior management has also been removed."The shutdown of Signature and the collapse
-  of Silvergate leave many companies in the crypto industry without much access to
-  the US banking system.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Regulators
+notes: Two days after the collapse of Silicon Valley Bank and four days after the collapse of Silvergate Bank, the New York
+  Department of Financial Services announced they had taken possession of Signature Bank, a New York-based bank that was a
+  major bank partner for cryptocurrency companies. The bank was placed into receivership with the Federal Deposit Insurance
+  Corporation (FDIC). According to a Signature board member, a bank run of billions of dollars began on Friday after the seizure
+  of Silicon Valley Bank.A joint statement from federal regulators announced that "All depositors of this institution will
+  be made whole... no losses will be borne by the taxpayer. Shareholders and certain unsecured debtholders will not be protected.
+  Senior management has also been removed."The shutdown of Signature and the collapse of Silvergate leave many companies in
+  the crypto industry without much access to the US banking system.

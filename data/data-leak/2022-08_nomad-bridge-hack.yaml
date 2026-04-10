@@ -3,15 +3,16 @@ source_url: https://twitter.com/0xfoobar/status/1554234268884389888
 date_of_breach: '2022-08-01'
 date_of_disclosure: '2022-08-01'
 category: data-leak
-notes: 'After an attacker began exploiting a vulnerability in the Nomad bridge, many
-  people rushed to replicate the attack and steal some of the roughly $190 million
-  of various cryptocurrencies in the bridge. Some didn''t seem to think through the
-  consequences of using wallets tied to their real-life identities to exploit the
-  vulnerability, which should be interesting to watch.Nomad posted on Discord and
-  tweeted that they were "aware of the incident" and "investigating", but the attack
-  was ongoing over an hour after the acknowledgement.Four days before the attack,
-  Nomad announced that they''d raised a $22.4 million seed round from investors including
-  Coinbase, OpenSea, and Crypto.com.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Nomad bridge
+financial_loss_usd: 153000000
+financial_recovered_usd: 37000000
+notes: 'After an attacker began exploiting a vulnerability in the Nomad bridge, many people rushed to replicate the attack
+  and steal some of the roughly $190 million of various cryptocurrencies in the bridge. Some didn''t seem to think through
+  the consequences of using wallets tied to their real-life identities to exploit the vulnerability, which should be interesting
+  to watch.Nomad posted on Discord and tweeted that they were "aware of the incident" and "investigating", but the attack
+  was ongoing over an hour after the acknowledgement.Four days before the attack, Nomad announced that they''d raised a $22.4
+  million seed round from investors including Coinbase, OpenSea, and Crypto.com.
 
 
   Total loss estimated at $153,000,000.'

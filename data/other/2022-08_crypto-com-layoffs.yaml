@@ -1,20 +1,17 @@
-source_name: '"Crypto.com laid off 260 employees — then quietly let go of hundreds
-  more"'
+source_name: '"Crypto.com laid off 260 employees — then quietly let go of hundreds more"'
 source_url: https://www.theverge.com/2022/8/18/23309439/crypto-com-layoffs-unannounced-july-august-bear-market
 date_of_breach: '2022-08-18'
 date_of_disclosure: '2022-08-18'
 category: other
-notes: 'In mid-June, Crypto.com announced they would be laying off 260 people, or
-  around 5% of their employees. However, The Verge has reported that "hundreds more"
-  employees were quietly laid off since then. They report: "Crypto.com has been trying
-  to limit knowledge of the extent of these departures even within the company, with
-  CEO Kris Marszalek refusing to answer a question about the total figure in a recent
-  employees-only town hall meeting."Marszalek also tried to discourage employees from
-  leaking about the layoffs, saying at a company town hall: "A number [of employees
-  laid off] makes for a great headline, it''s a great thing to gossip about. [But]
-  as co-owners of this company, you should ask yourself, ''is it in my interest for
-  this number to be out there?''" One employee told The Verge that this did nothing
-  to assuage their fears about the layoffs, and that "[it felt like] I got told to
-  shut up and get back to work. It felt insulting."One recent review on Glassdoor
-  claims that Crypto.com had laid off "more than 1,000 employees", and alleged that
-  "They''ve removed the company directory so we can''t see the numbers go down."'
+vendor_product: Crypto.com layoffs
+affected_count: 260
+notes: 'In mid-June, Crypto.com announced they would be laying off 260 people, or around 5% of their employees. However, The
+  Verge has reported that "hundreds more" employees were quietly laid off since then. They report: "Crypto.com has been trying
+  to limit knowledge of the extent of these departures even within the company, with CEO Kris Marszalek refusing to answer
+  a question about the total figure in a recent employees-only town hall meeting."Marszalek also tried to discourage employees
+  from leaking about the layoffs, saying at a company town hall: "A number [of employees laid off] makes for a great headline,
+  it''s a great thing to gossip about. [But] as co-owners of this company, you should ask yourself, ''is it in my interest
+  for this number to be out there?''" One employee told The Verge that this did nothing to assuage their fears about the layoffs,
+  and that "[it felt like] I got told to shut up and get back to work. It felt insulting."One recent review on Glassdoor claims
+  that Crypto.com had laid off "more than 1,000 employees", and alleged that "They''ve removed the company directory so we
+  can''t see the numbers go down."'

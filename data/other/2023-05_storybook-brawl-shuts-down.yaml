@@ -3,13 +3,12 @@ source_url: https://protos.com/sam-bankman-frieds-game-storybook-brawl-is-shutti
 date_of_breach: '2023-05-01'
 date_of_disclosure: '2023-05-01'
 category: other
-notes: Storybook Brawl, a card based autobattler game that was beloved by Sam Bankman-Fried,
-  took its servers offline on May 1. The game had no connection to the crypto industry
-  until its studio was acquired by FTX Ventures in March 2022. This was not taken
-  well by its existing playerbase, who left a flood of negative reviews on Steam based
-  on the developers' intentions to incorporate cryptocurrencies and NFTs. According
-  to SBF, Storybook Brawl was going to be "the vanguard for the ethical integration
-  of gaming and crypto transactions."The end of FTX seems to have directly spelled
-  the end of Storybook Brawl, which stopped announcing updates in November. However,
-  Protos has pointed out that the game may likely be auctioned off as a part of FTX
-  bankruptcy proceedings.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Storybook Brawl
+notes: Storybook Brawl, a card based autobattler game that was beloved by Sam Bankman-Fried, took its servers offline on May
+  1. The game had no connection to the crypto industry until its studio was acquired by FTX Ventures in March 2022. This was
+  not taken well by its existing playerbase, who left a flood of negative reviews on Steam based on the developers' intentions
+  to incorporate cryptocurrencies and NFTs. According to SBF, Storybook Brawl was going to be "the vanguard for the ethical
+  integration of gaming and crypto transactions."The end of FTX seems to have directly spelled the end of Storybook Brawl,
+  which stopped announcing updates in November. However, Protos has pointed out that the game may likely be auctioned off
+  as a part of FTX bankruptcy proceedings.

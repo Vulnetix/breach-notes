@@ -1,26 +1,23 @@
-source_name: '"NFT Collector ''ILovePonzi'' Loses Valuable Ape NFTs to Hackers, Is
-  Upset"'
+source_name: '"NFT Collector ''ILovePonzi'' Loses Valuable Ape NFTs to Hackers, Is Upset"'
 source_url: https://www.vice.com/en/article/5dg5xq/nft-collector-iloveponzi-loses-valuable-ape-nfts-to-hackers-is-upset
 date_of_breach: '2022-01-31'
 date_of_disclosure: '2022-01-31'
 category: data-leak
-notes: 'NFT collecter "iloveponzi", aka Larry Lawliet, apparently authorized what
-  he thought was a legitimate application to access his NFT wallet. Unfortunately
-  for him, he had actually authorized another person to transfer all his NFTs: one
-  Bored Ape, five Mutant Apes, and one Doodle. The hack, which affected iloveponzi
-  and several others, was made possible after the Discord for the "Moshi Mochi" NFT
-  project was compromised, and the attacker sent out an "official announcement" for
-  a final round of NFT minting that actually enabled them to steal NFTs. The attacker
-  then flipped the NFTs for a total profit of a little less than $700,000. Iloveponzi
-  said they believed that the attacker could''ve sold the NFTs for millions (though
-  they admittedly have a vested interest in the NFTs sounding valuable). Iloveponzi
-  also said they believe the hacker just sold quickly and cheaply to try to beat OpenSea
-  freezing the NFTs, which OpenSea did later do. The hacker appears to be an old hand
-  at shady NFT dealings — although they netted "only" $700,000 from this scam, the
-  wallet used has moved around 600 ETH in total (worth around $1.5 million) through
-  the cryptocurrency tumbler Tornado Cash. Slightly over a month earlier, iloveponzi
-  reported that another of their Bored Apes had been stolen, "because of some coincidences
-  and my carelessness".
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: iloveponzi NFT theft
+blockchain: ethereum
+financial_loss_usd: 700000
+notes: 'NFT collecter "iloveponzi", aka Larry Lawliet, apparently authorized what he thought was a legitimate application
+  to access his NFT wallet. Unfortunately for him, he had actually authorized another person to transfer all his NFTs: one
+  Bored Ape, five Mutant Apes, and one Doodle. The hack, which affected iloveponzi and several others, was made possible after
+  the Discord for the "Moshi Mochi" NFT project was compromised, and the attacker sent out an "official announcement" for
+  a final round of NFT minting that actually enabled them to steal NFTs. The attacker then flipped the NFTs for a total profit
+  of a little less than $700,000. Iloveponzi said they believed that the attacker could''ve sold the NFTs for millions (though
+  they admittedly have a vested interest in the NFTs sounding valuable). Iloveponzi also said they believe the hacker just
+  sold quickly and cheaply to try to beat OpenSea freezing the NFTs, which OpenSea did later do. The hacker appears to be
+  an old hand at shady NFT dealings — although they netted "only" $700,000 from this scam, the wallet used has moved around
+  600 ETH in total (worth around $1.5 million) through the cryptocurrency tumbler Tornado Cash. Slightly over a month earlier,
+  iloveponzi reported that another of their Bored Apes had been stolen, "because of some coincidences and my carelessness".
 
 
   Total loss estimated at $700,000.'

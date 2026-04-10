@@ -3,15 +3,16 @@ source_url: https://twitter.com/zachxbt/status/1694914871165345997
 date_of_breach: '2023-08-25'
 date_of_disclosure: '2023-08-25'
 category: other
-notes: 'Magnate Finance, a lending protocol built on the new Base layer-2 blockchain,
-  rug pulled within hours of a warning from crypto sleuth zachxbt. Zachxbt had discovered
-  that a wallet address used by Magnate Finance was directly linked to Solfire Finance,
-  a project that rug pulled for almost $5 million in January 2022. He warned his followers
-  in a tweet that the project "will likely exit scam in the near future."Sure enough,
-  within an hour of zachxbt''s tweet, the project drained $5.2 million from the protocol
-  and deleted its website and Telegram group.According to zachxbt, the project also
-  shared on-chain links to the March 2023 Kokomo Finance rug pull, which saw its perpetrators
-  profit around $4.5 million.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Magnate Finance
+blockchain: ethereum
+financial_loss_usd: 5268000
+notes: 'Magnate Finance, a lending protocol built on the new Base layer-2 blockchain, rug pulled within hours of a warning
+  from crypto sleuth zachxbt. Zachxbt had discovered that a wallet address used by Magnate Finance was directly linked to
+  Solfire Finance, a project that rug pulled for almost $5 million in January 2022. He warned his followers in a tweet that
+  the project "will likely exit scam in the near future."Sure enough, within an hour of zachxbt''s tweet, the project drained
+  $5.2 million from the protocol and deleted its website and Telegram group.According to zachxbt, the project also shared
+  on-chain links to the March 2023 Kokomo Finance rug pull, which saw its perpetrators profit around $4.5 million.
 
 
   Total loss estimated at $5,268,000.'

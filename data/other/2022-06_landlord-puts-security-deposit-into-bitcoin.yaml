@@ -3,12 +3,11 @@ source_url: https://www.reddit.com/r/legaladvice/comments/v39qbw/landlord_held_m
 date_of_breach: '2022-06-02'
 date_of_disclosure: '2022-06-02'
 category: other
-notes: A Reddit poster asking for legal advice reported that when they moved out of
-  their apartment, they received only $1600 of the $3000 they provided to their landlord
-  as an initial security deposit. When they asked what happened to the rest of the
-  money, the landlord explained that they had put the money into a "money market account"
-  that had lost value, then admitted they'd invested it into Bitcoin. The landlord
-  tried to claim that "this is how a lot of landlords operate now", despite most likely
-  falling afoul of guidelines on how landlords are supposed to hold deposits.Personally,
-  I'm looking forward to telling my landlord that I can only pay half my rent because
-  I lost the money I'd set aside for it in the crypto markets.
+vendor_product: Landlord puts security deposit into Bitcoin
+blockchain: bitcoin
+notes: A Reddit poster asking for legal advice reported that when they moved out of their apartment, they received only $1600
+  of the $3000 they provided to their landlord as an initial security deposit. When they asked what happened to the rest of
+  the money, the landlord explained that they had put the money into a "money market account" that had lost value, then admitted
+  they'd invested it into Bitcoin. The landlord tried to claim that "this is how a lot of landlords operate now", despite
+  most likely falling afoul of guidelines on how landlords are supposed to hold deposits.Personally, I'm looking forward to
+  telling my landlord that I can only pay half my rent because I lost the money I'd set aside for it in the crypto markets.

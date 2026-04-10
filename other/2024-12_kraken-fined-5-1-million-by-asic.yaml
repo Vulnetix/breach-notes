@@ -4,7 +4,7 @@ date_of_breach: '2024-12-12'
 date_of_disclosure: '2024-12-12'
 category: other
 initial_attack_vector: Regulatory / legal action
-vendor_product: Kraken fined $5.1 million by ASIC
+vendor_product: Kraken
 affected_count: 1100
 notes: The US-based cryptocurrency exchange Kraken has been fined AU$8 million (US$5.1 million) for illegally offering margin
   trading to Australian customers. The firm had offered the margin product to more than 1,100 Australians without first undergoing

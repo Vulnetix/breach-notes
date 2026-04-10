@@ -3,13 +3,13 @@ source_url: https://www.coindesk.com/business/2023/08/21/terra-website-compromis
 date_of_breach: '2023-08-18'
 date_of_disclosure: '2023-08-18'
 category: data-leak
-notes: Despite the catastrophic Terra/Luna collapse in May 2022, the Terra blockchain
-  is still up and running. On August 19, the official Twitter account for the Terra
-  project tweeted that the project's website had been hijacked, and was being used
-  by a phisher to try to obtain access to users' wallets. When the website is opened,
-  it prompts visitors to connect their wallets, which then allows the phishers to
-  drain funds.Despite a tweet on August 19 that "sites are coming back online", and
-  a developer stating that they were "mostly back in control", the website apparently
-  remained compromised for several days. The project reiterated via tweet on August
-  20 that the website was still not safe to use.It's unclear how much was stolen as
-  a result of the hijacking.
+initial_attack_vector: DNS hijacking / domain takeover (front-end compromise)
+vendor_product: Terra website hijacked by phisher
+blockchain: terra
+notes: Despite the catastrophic Terra/Luna collapse in May 2022, the Terra blockchain is still up and running. On August 19,
+  the official Twitter account for the Terra project tweeted that the project's website had been hijacked, and was being used
+  by a phisher to try to obtain access to users' wallets. When the website is opened, it prompts visitors to connect their
+  wallets, which then allows the phishers to drain funds.Despite a tweet on August 19 that "sites are coming back online",
+  and a developer stating that they were "mostly back in control", the website apparently remained compromised for several
+  days. The project reiterated via tweet on August 20 that the website was still not safe to use.It's unclear how much was
+  stolen as a result of the hijacking.

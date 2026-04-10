@@ -1,14 +1,13 @@
-source_name: '"FTX Will Receive All of Ren Protocol''s Pegged Assets, Including Bitcoin
-  and Dogecoin"'
+source_name: '"FTX Will Receive All of Ren Protocol''s Pegged Assets, Including Bitcoin and Dogecoin"'
 source_url: https://www.coindesk.com/business/2023/04/12/ftx-will-receive-all-of-ren-protocols-pegged-assets-including-bitcoin-and-dogecoin/
 date_of_breach: '2023-04-12'
 date_of_disclosure: '2023-04-12'
 category: other
-notes: In February 2021, the Ren project announced that it had been acquired by Alameda
-  Research so that Alameda could "[help] accelerate the decentralisation" of the project.Now,
-  the Ren team has announced that they have transferred all assets on the Ren Protocol
-  "to the FTX Debtors' cold storage wallets for safeguarding".The announcement mentioned
-  "possible shutdowns of infrastructure and systems," possibly referring to Ren's
-  plans — announced shortly after the FTX collapse — to "move on from Alameda" by
-  launching "Ren 2.0" and sunsetting the 1.0 version. However, there has been little
-  public evidence that Ren 2.0 has been progressing.
+vendor_product: Ren Protocol transfers all assets to FTX bankruptcy team
+blockchain: ethereum
+notes: In February 2021, the Ren project announced that it had been acquired by Alameda Research so that Alameda could "[help]
+  accelerate the decentralisation" of the project.Now, the Ren team has announced that they have transferred all assets on
+  the Ren Protocol "to the FTX Debtors' cold storage wallets for safeguarding".The announcement mentioned "possible shutdowns
+  of infrastructure and systems," possibly referring to Ren's plans — announced shortly after the FTX collapse — to "move
+  on from Alameda" by launching "Ren 2.0" and sunsetting the 1.0 version. However, there has been little public evidence that
+  Ren 2.0 has been progressing.

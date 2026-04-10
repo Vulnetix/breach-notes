@@ -3,13 +3,11 @@ source_url: https://www.binance.com/en/support/announcement/aeur-spot-trading-te
 date_of_breach: '2023-12-05'
 date_of_disclosure: '2023-12-05'
 category: other
-notes: Binance says traders must have missed the memo on the AEUR stablecoin, which
-  was intended to be pegged to the Euro. Shortly after it was listed on Binance, high
-  demand caused the token — which had a limited supply of 5 million — to begin trading
-  for as high as €3 per token. "[U]sers ... might not have realized its standing as
-  a stablecoin" wrote Binance in an announcement, published the day after the exchange
-  suspended trading in the token due to "abnormal volatility".Binance announced a
-  compensation plan for users who purchased the token during an eligibility period
-  and who were unable to resell, in an apparent attempt to placate the angry traders
-  who accused Binance of "scamming" them by halting trading.AEUR was issued by Anchored
-  Coins, a Swiss stablecoin issuer.
+vendor_product: AEUR depeg
+notes: Binance says traders must have missed the memo on the AEUR stablecoin, which was intended to be pegged to the Euro.
+  Shortly after it was listed on Binance, high demand caused the token — which had a limited supply of 5 million — to begin
+  trading for as high as €3 per token. "[U]sers ... might not have realized its standing as a stablecoin" wrote Binance in
+  an announcement, published the day after the exchange suspended trading in the token due to "abnormal volatility".Binance
+  announced a compensation plan for users who purchased the token during an eligibility period and who were unable to resell,
+  in an apparent attempt to placate the angry traders who accused Binance of "scamming" them by halting trading.AEUR was issued
+  by Anchored Coins, a Swiss stablecoin issuer.

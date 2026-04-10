@@ -3,9 +3,11 @@ source_url: https://twitter.com/SECGov/status/1744837121406349714
 date_of_breach: '2024-01-09'
 date_of_disclosure: '2024-01-09'
 category: data-leak
-notes: As the crypto industry collectively turns blue holding its breath for a decision
-  on a raft of bitcoin spot ETFs currently in front of the SEC, the SEC Twitter account
-  was hacked. The hacker posted an announcement stating that the Commission had approved
-  bitcoin ETFs, even including a graphic with a fake quote from Chairman Gary Gensler.Bitcoin
-  briefly spiked by about $1,000 before dipping around $1,000 below its previous price,
-  as traders excitedly reacted to the news, and then the news that the news was fake.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: SEC Twitter account compromised
+blockchain: bitcoin
+notes: As the crypto industry collectively turns blue holding its breath for a decision on a raft of bitcoin spot ETFs currently
+  in front of the SEC, the SEC Twitter account was hacked. The hacker posted an announcement stating that the Commission had
+  approved bitcoin ETFs, even including a graphic with a fake quote from Chairman Gary Gensler.Bitcoin briefly spiked by about
+  $1,000 before dipping around $1,000 below its previous price, as traders excitedly reacted to the news, and then the news
+  that the news was fake.

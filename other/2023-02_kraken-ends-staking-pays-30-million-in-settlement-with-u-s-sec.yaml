@@ -3,11 +3,11 @@ source_url: https://www.sec.gov/litigation/complaints/2023/comp-pr2023-25.pdf
 date_of_breach: '2023-02-09'
 date_of_disclosure: '2023-02-09'
 category: other
-notes: U.S. cryptocurrency exchange Kraken has reportedly agreed to close up shop
-  on its crypto staking operation and pay a $30 million fine to the U.S. Securities
-  and Exchange Commission. This comes shortly after the news that the SEC was probing
-  the exchange, and rumors from Coinbase CEO Brian Armstrong that the SEC was looking
-  to "get rid of crypto staking in the U.S. for retail investors".According to the
-  SEC, Kraken had failed to register its staking-as-a-service program, which had generated
-  $147 million in revenue.This is not Kraken's first run-in with authorities, after
-  paying a $360,000 fine to OFAC in November for sanctions violations.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Kraken ends staking, pays $30 million in settlement with U.S. SEC
+notes: U.S. cryptocurrency exchange Kraken has reportedly agreed to close up shop on its crypto staking operation and pay
+  a $30 million fine to the U.S. Securities and Exchange Commission. This comes shortly after the news that the SEC was probing
+  the exchange, and rumors from Coinbase CEO Brian Armstrong that the SEC was looking to "get rid of crypto staking in the
+  U.S. for retail investors".According to the SEC, Kraken had failed to register its staking-as-a-service program, which had
+  generated $147 million in revenue.This is not Kraken's first run-in with authorities, after paying a $360,000 fine to OFAC
+  in November for sanctions violations.

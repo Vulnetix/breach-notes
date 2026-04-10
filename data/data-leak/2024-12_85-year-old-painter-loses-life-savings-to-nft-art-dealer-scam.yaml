@@ -1,18 +1,18 @@
-source_name: '"Brooklyn District Attorney Shuts Down 40 Domains Associated With NFT
-  Crypto Scam Targeting Artists, After Brooklyn Painter Lost Over $135,00"'
+source_name: '"Brooklyn District Attorney Shuts Down 40 Domains Associated With NFT Crypto Scam Targeting Artists, After Brooklyn
+  Painter Lost Over $135,00"'
 source_url: http://www.brooklynda.org/2024/12/06/brooklyn-district-attorney-shuts-down-40-domains-associated-with-nft-crypto-scam-targeting-artists-after-brooklyn-painter-lost-over-135000/
 date_of_breach: '2024-12-06'
 date_of_disclosure: '2024-12-06'
 category: data-leak
-notes: 'An 85-year-old painter from Brooklyn was convinced to send scammers $135,000
-  after they promised they would sell his artwork as NFTs on OpenSea. After agreeing
-  to have a supposed "art dealer" list and sell his artwork, the man was told he''d
-  earned $300,000. But there was a catch: he would have to pay nearly half that amount
-  in "fees" to get access to his windfall. The man liquidated his retirement, made
-  credit card payments, and took out a personal loan to acquire cryptocurrency for
-  the supposed fees, only to later realize he''d been duped.Police were unable to
-  recover his money, although they did seize around 40 websites that were spoofing
-  various real NFT marketplaces.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: 85-year-old painter
+financial_loss_usd: 135000
+notes: 'An 85-year-old painter from Brooklyn was convinced to send scammers $135,000 after they promised they would sell his
+  artwork as NFTs on OpenSea. After agreeing to have a supposed "art dealer" list and sell his artwork, the man was told he''d
+  earned $300,000. But there was a catch: he would have to pay nearly half that amount in "fees" to get access to his windfall.
+  The man liquidated his retirement, made credit card payments, and took out a personal loan to acquire cryptocurrency for
+  the supposed fees, only to later realize he''d been duped.Police were unable to recover his money, although they did seize
+  around 40 websites that were spoofing various real NFT marketplaces.
 
 
   Total loss estimated at $135,000.'

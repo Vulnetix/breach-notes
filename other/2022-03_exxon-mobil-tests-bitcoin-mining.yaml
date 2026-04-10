@@ -3,15 +3,13 @@ source_url: https://www.bloomberg.com/news/articles/2022-03-24/exxon-considers-t
 date_of_breach: '2022-03-24'
 date_of_disclosure: '2022-03-24'
 category: other
-notes: According to Bloomberg, Exxon Mobil has begun a pilot program to set up Bitcoin
-  miners at an oil well in North Dakota. The project reportedly runs off 18 million
-  ft&#179; of natural gas that would otherwise be flared. Although early proponents
-  waxed poetic about how anyone could mine Bitcoin, the increasing hardware specialization
-  and massive electricity costs have made it practical at scale only for those with
-  access to the hardware and cheap sources of electricity — including, now, the world's
-  second largest oil company.Some crypto proponents have spoken positively about using
-  excess gas that would otherwise be flared for Bitcoin mining, though climate experts
-  have spoken out against it being a sufficient or reasonable solution. "It's like
-  if you had a leaky gasoline pipeline and, instead of fixing the problem, you plugged
-  in a Humvee next to the leak and left the engine on in perpetuity with the A/C on
-  full blast," said UC Santa Barbara professor Paasha Mahdavi.
+vendor_product: Exxon Mobil tests Bitcoin mining
+blockchain: bitcoin
+notes: According to Bloomberg, Exxon Mobil has begun a pilot program to set up Bitcoin miners at an oil well in North Dakota.
+  The project reportedly runs off 18 million ft&#179; of natural gas that would otherwise be flared. Although early proponents
+  waxed poetic about how anyone could mine Bitcoin, the increasing hardware specialization and massive electricity costs have
+  made it practical at scale only for those with access to the hardware and cheap sources of electricity — including, now,
+  the world's second largest oil company.Some crypto proponents have spoken positively about using excess gas that would otherwise
+  be flared for Bitcoin mining, though climate experts have spoken out against it being a sufficient or reasonable solution.
+  "It's like if you had a leaky gasoline pipeline and, instead of fixing the problem, you plugged in a Humvee next to the
+  leak and left the engine on in perpetuity with the A/C on full blast," said UC Santa Barbara professor Paasha Mahdavi.

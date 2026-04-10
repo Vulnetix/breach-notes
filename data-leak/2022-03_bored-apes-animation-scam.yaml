@@ -3,16 +3,17 @@ source_url: https://twitter.com/zachxbt/status/1506008570327756801
 date_of_breach: '2022-03-21'
 date_of_disclosure: '2022-03-21'
 category: data-leak
-notes: 'An NFT collector fell for a scam website promising to "turn your BAYC animated".
-  After connecting their wallet, the attacker transferred their three pricey Bored
-  Ape NFTs to their own wallet, then quickly flipped them for resale for a combined
-  total of around 264 ETH ($764,000). Zachxbt, a crypto fraud sleuth who first noticed
-  the scam, estimated the NFTs'' actual value at closer to $900,000.It appeared from
-  the victim''s retweets that they had fallen for a scam shared by a verified Twitter
-  account that claimed to be one of the Bored Apes founders. However, a closer look
-  at the Twitter handle showed it was a hacked account with the username "volt_france",
-  which previously had belonged to the French branch of the Volt Europa political
-  movement.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Bored Apes animation
+blockchain: ethereum
+financial_loss_usd: 900000
+notes: 'An NFT collector fell for a scam website promising to "turn your BAYC animated". After connecting their wallet, the
+  attacker transferred their three pricey Bored Ape NFTs to their own wallet, then quickly flipped them for resale for a combined
+  total of around 264 ETH ($764,000). Zachxbt, a crypto fraud sleuth who first noticed the scam, estimated the NFTs'' actual
+  value at closer to $900,000.It appeared from the victim''s retweets that they had fallen for a scam shared by a verified
+  Twitter account that claimed to be one of the Bored Apes founders. However, a closer look at the Twitter handle showed it
+  was a hacked account with the username "volt_france", which previously had belonged to the French branch of the Volt Europa
+  political movement.
 
 
   Total loss estimated at $900,000.'

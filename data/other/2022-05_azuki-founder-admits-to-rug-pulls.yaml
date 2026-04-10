@@ -3,13 +3,13 @@ source_url: https://mirror.xyz/0x1Cb8332607fba6A780DdE78584AD3BFD1eEB1E40/yG8rI1
 date_of_breach: '2022-05-09'
 date_of_disclosure: '2022-05-09'
 category: other
-notes: In a blog post titled "A Builder's Journey", the founder of the popular Azuki
-  NFT project admitted that he had also been behind the NFT projects CryptoPhunks
-  (note the "h"), Tendies, and CryptoZunks. CryptoPhunks were simply mirrored versions
-  of the early CryptoPunks project. In his telling, he decided to "decentralize the
-  [CryptoPhunks] project by handing over the reins to our community". Many, if not
-  most, others consider CryptoPhunks to be a rug pull — abandoned by its founder in
-  a betrayal of the community. The same is true for the other two projects that Zagabond
-  admitted he ran.This news came as a shock to many lovers of Azuki NFTs, pricey NFTs
-  which regularly trade for 20–30 ETH (~$45,000–$70,000). Azuki is not without its
-  own controversies, recently facing accusations of insider trading.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: 'Azuki #2821'
+blockchain: ethereum
+notes: In a blog post titled "A Builder's Journey", the founder of the popular Azuki NFT project admitted that he had also
+  been behind the NFT projects CryptoPhunks (note the "h"), Tendies, and CryptoZunks. CryptoPhunks were simply mirrored versions
+  of the early CryptoPunks project. In his telling, he decided to "decentralize the [CryptoPhunks] project by handing over
+  the reins to our community". Many, if not most, others consider CryptoPhunks to be a rug pull — abandoned by its founder
+  in a betrayal of the community. The same is true for the other two projects that Zagabond admitted he ran.This news came
+  as a shock to many lovers of Azuki NFTs, pricey NFTs which regularly trade for 20–30 ETH (~$45,000–$70,000). Azuki is not
+  without its own controversies, recently facing accusations of insider trading.

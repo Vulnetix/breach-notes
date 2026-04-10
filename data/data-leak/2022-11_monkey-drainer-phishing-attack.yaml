@@ -3,10 +3,13 @@ source_url: https://twitter.com/zachxbt/status/1588375547582697472
 date_of_breach: '2022-11-04'
 date_of_disclosure: '2022-11-04'
 category: data-leak
-notes: 'The "Monkey Drainer" NFT phishing scammer first identified by blockchain detective
-  zachxbt has struck again. They successfully emptied 7 CryptoPunks and 20 Otherside
-  NFTs, which they flipped for 522 ETH (~$867,000). The scammer then laundered the
-  funds through the Tornado Cash cryptocurrency mixer.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Monkey Drainer phishing attack
+blockchain: ethereum
+financial_loss_usd: 867042
+notes: 'The "Monkey Drainer" NFT phishing scammer first identified by blockchain detective zachxbt has struck again. They
+  successfully emptied 7 CryptoPunks and 20 Otherside NFTs, which they flipped for 522 ETH (~$867,000). The scammer then laundered
+  the funds through the Tornado Cash cryptocurrency mixer.
 
 
   Total loss estimated at $867,042.'

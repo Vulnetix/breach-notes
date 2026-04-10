@@ -3,17 +3,18 @@ source_url: https://decrypt.co/147913/gutter-cat-gang-twitter-hacked-at-least-75
 date_of_breach: '2023-07-07'
 date_of_disclosure: '2023-07-07'
 category: data-leak
-notes: 'An attacker successfully compromised the Twitter account belonging to the
-  popular Gutter Cat Gang NFT project, as well as the one belonging to the project
-  co-founder, and used them to post links to phishing sites claiming to be a new NFT
-  airdrop. Instead of receiving the tokens they were promised, those who authorized
-  the contract had their wallets drained.One victim lost 36 NFTs, among them a Bored
-  Ape NFT they''d purchased for around $130,000. Altogether, the attackers successfully
-  stole NFTs worth between $750,000 and $900,000, depending on how resale value is
-  estimated.The following day, Gutter Cat Gang announced that they''d regained control
-  over the Twitter accounts and taken down the malicious tweets. They stated that
-  they were working with law enforcement to investigate the theft, but to the dismay
-  of some victims, did not describe any plans to compensate those who lost assets.
+initial_attack_vector: Phishing attack
+vendor_product: Gutter Cat Gang Twitter compromise
+blockchain: ethereum
+financial_loss_usd: 750000
+notes: 'An attacker successfully compromised the Twitter account belonging to the popular Gutter Cat Gang NFT project, as
+  well as the one belonging to the project co-founder, and used them to post links to phishing sites claiming to be a new
+  NFT airdrop. Instead of receiving the tokens they were promised, those who authorized the contract had their wallets drained.One
+  victim lost 36 NFTs, among them a Bored Ape NFT they''d purchased for around $130,000. Altogether, the attackers successfully
+  stole NFTs worth between $750,000 and $900,000, depending on how resale value is estimated.The following day, Gutter Cat
+  Gang announced that they''d regained control over the Twitter accounts and taken down the malicious tweets. They stated
+  that they were working with law enforcement to investigate the theft, but to the dismay of some victims, did not describe
+  any plans to compensate those who lost assets.
 
 
   Total loss estimated at $750,000.'

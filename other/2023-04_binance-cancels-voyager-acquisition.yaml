@@ -3,13 +3,12 @@ source_url: https://www.coindesk.com/policy/2023/04/26/voyager-lawyers-surprised
 date_of_breach: '2023-04-25'
 date_of_disclosure: '2023-04-25'
 category: other
-notes: After surmounting various obstacles to acquire the assets of the bankrupt Voyager
-  Digital crypto lending firm, Binance.US abruptly backed out of the $1.3 billion
-  deal.Binance cited "hostile and uncertain regulatory climate" as its reason for
-  calling off the acquisition. A recent lawsuit from the CFTC against Binance and
-  its CEO Changpeng "CZ" Zhao likely contributed to the cancellation, as it seems
-  clear that Binance is being increasingly scrutinized by US regulatory and law enforcement
-  bodies.The acquisition had been supported by a massive majority of Voyager creditors,
-  who were looking forward to recovering 73% of their assets trapped on the platform.
-  Now that number is uncertain, but likely to be a good deal lower. Attorneys for
-  Voyager estimated the recovery now would likely be between 40 and 65%.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Voyager
+notes: After surmounting various obstacles to acquire the assets of the bankrupt Voyager Digital crypto lending firm, Binance.US
+  abruptly backed out of the $1.3 billion deal.Binance cited "hostile and uncertain regulatory climate" as its reason for
+  calling off the acquisition. A recent lawsuit from the CFTC against Binance and its CEO Changpeng "CZ" Zhao likely contributed
+  to the cancellation, as it seems clear that Binance is being increasingly scrutinized by US regulatory and law enforcement
+  bodies.The acquisition had been supported by a massive majority of Voyager creditors, who were looking forward to recovering
+  73% of their assets trapped on the platform. Now that number is uncertain, but likely to be a good deal lower. Attorneys
+  for Voyager estimated the recovery now would likely be between 40 and 65%.

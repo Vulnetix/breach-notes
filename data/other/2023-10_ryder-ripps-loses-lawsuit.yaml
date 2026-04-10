@@ -3,17 +3,16 @@ source_url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.855658/gov
 date_of_breach: '2023-10-25'
 date_of_disclosure: '2023-10-25'
 category: other
-notes: A judge has ordered Ryder Ripps and his co-defendant Jeremy Cahen to pay almost
-  $1.6 million in disgorgement and damages after they created a collection of identical
-  NFTs to the popular Bored Ape collection. The duo were sued for trademark infringement
-  in June 2022 over their RR/BAYC project, which Ripps and Cahen tried to argue was
-  an art project created to draw attention to racist imagery they and others have
-  identified in the project.In August, Ripps tried unsuccessfully to get the lawsuit
-  dismissed via anti-SLAPP protections.Now they're on the hook for $1.375 million
-  in profits they earned from their copycat project and $200,000 for domain cybersquatting
-  violations. They also must transfer control of two domain names, two Twitter accounts,
-  and the RR/BAYC smart contract. Worse yet, the court found that this was an "exceptional
-  case" because of the defendants' behavior, which included being "obstructive and
-  evasive", and "unnecessarily and inappropriately ma[king] disgraceful and slanderous
-  statements about Yuga, its founders, and its counsel" throughout the case. As a
-  result, they will also have to pay Yuga's attorney's fees.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Ryder Ripps
+blockchain: ethereum
+notes: A judge has ordered Ryder Ripps and his co-defendant Jeremy Cahen to pay almost $1.6 million in disgorgement and damages
+  after they created a collection of identical NFTs to the popular Bored Ape collection. The duo were sued for trademark infringement
+  in June 2022 over their RR/BAYC project, which Ripps and Cahen tried to argue was an art project created to draw attention
+  to racist imagery they and others have identified in the project.In August, Ripps tried unsuccessfully to get the lawsuit
+  dismissed via anti-SLAPP protections.Now they're on the hook for $1.375 million in profits they earned from their copycat
+  project and $200,000 for domain cybersquatting violations. They also must transfer control of two domain names, two Twitter
+  accounts, and the RR/BAYC smart contract. Worse yet, the court found that this was an "exceptional case" because of the
+  defendants' behavior, which included being "obstructive and evasive", and "unnecessarily and inappropriately ma[king] disgraceful
+  and slanderous statements about Yuga, its founders, and its counsel" throughout the case. As a result, they will also have
+  to pay Yuga's attorney's fees.

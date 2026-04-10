@@ -3,14 +3,15 @@ source_url: https://twitter.com/LendHubDefi/status/1613846541651030018
 date_of_breach: '2023-01-12'
 date_of_disclosure: '2023-01-12'
 category: data-leak
-notes: 'In a Twitter thread, LendHub published a message stating that "hackers stole
-  about 6 million US dollars of assets from Lendhub". They wrote that they had "locked
-  the hacker''s attack address", but whatever they meant by this was not enough to
-  stop the thief from transferring 1,100 ETH (~$1,562,000) to Tornado Cash to tumble.Security
-  firm SlowMist attributed the attack to a token that had been replaced with a new
-  version, but whose original version remained active on the platform. The attacker
-  was able to mint and redeem tokens in the old market, while borrowing against them
-  in the new one, ultimately making off with the majority of the assets on the platform.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: LendHub
+financial_loss_usd: 6000000
+notes: 'In a Twitter thread, LendHub published a message stating that "hackers stole about 6 million US dollars of assets
+  from Lendhub". They wrote that they had "locked the hacker''s attack address", but whatever they meant by this was not enough
+  to stop the thief from transferring 1,100 ETH (~$1,562,000) to Tornado Cash to tumble.Security firm SlowMist attributed
+  the attack to a token that had been replaced with a new version, but whose original version remained active on the platform.
+  The attacker was able to mint and redeem tokens in the old market, while borrowing against them in the new one, ultimately
+  making off with the majority of the assets on the platform.
 
 
   Total loss estimated at $6,000,000.'

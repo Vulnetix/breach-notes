@@ -3,15 +3,12 @@ source_url: https://twitter.com/coinbase/status/1634399032767307776
 date_of_breach: '2023-03-10'
 date_of_disclosure: '2023-03-10'
 category: other
-notes: 'The collapse of the Silicon Valley Bank on March 10 led to concerns over the
-  stability of the stablecoin USDC, after it was revealed that a portion (later specified
-  at $3.3 billion) of its cash reserves were kept with SVB. This led to somewhat of
-  a run on USDC, which began wobbling from its dollar peg down to as low as $0.95
-  on some exchanges.On the evening of the tenth, Coinbase announced that they would
-  be "temporarily pausing USDC:USD conversions over the weekend while banks are closed,"
-  stating that "during periods of heightened activity, conversions rely on USD transfers
-  from the banks that clear during normal banking hours"."Your assets remain safe
-  &amp; available for on-chain sends," they said: cold comfort for those who are afraid
-  their USDC may not be worth $1 come Monday.Coinbase is one of the firms behind USDC,
-  and its decision to stop processing redemptions is likely to add to the concern
-  over the stablecoin''s... stability.'
+vendor_product: Coinbase
+notes: 'The collapse of the Silicon Valley Bank on March 10 led to concerns over the stability of the stablecoin USDC, after
+  it was revealed that a portion (later specified at $3.3 billion) of its cash reserves were kept with SVB. This led to somewhat
+  of a run on USDC, which began wobbling from its dollar peg down to as low as $0.95 on some exchanges.On the evening of the
+  tenth, Coinbase announced that they would be "temporarily pausing USDC:USD conversions over the weekend while banks are
+  closed," stating that "during periods of heightened activity, conversions rely on USD transfers from the banks that clear
+  during normal banking hours"."Your assets remain safe &amp; available for on-chain sends," they said: cold comfort for those
+  who are afraid their USDC may not be worth $1 come Monday.Coinbase is one of the firms behind USDC, and its decision to
+  stop processing redemptions is likely to add to the concern over the stablecoin''s... stability.'

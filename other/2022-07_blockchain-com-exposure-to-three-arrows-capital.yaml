@@ -1,16 +1,13 @@
-source_name: '"Crypto Exchange Blockchain.com Faces $270M Hit on Loans to Three Arrows
-  Capital"'
+source_name: '"Crypto Exchange Blockchain.com Faces $270M Hit on Loans to Three Arrows Capital"'
 source_url: https://www.coindesk.com/business/2022/07/08/crypto-exchange-blockchaincom-faces-250m-hit-on-loans-to-three-arrows-capital/
 date_of_breach: '2022-07-08'
 date_of_disclosure: '2022-07-08'
 category: other
-notes: Crypto exchange Blockchain.com announced in a letter to shareholders that they
-  could lose the $270 million in cryptocurrency and USD they loaned to Three Arrows
-  Capital, a now-insolvent crypto fund that is pursuing bankruptcy. The ripple effects
-  of the 3AC implosion have been felt throughout the crypto ecosystem, contributing
-  to liquidity issues and the outright failure of some other platforms. Blockchain.com
-  assured customers that they would not be one of those platforms, writing that the
-  company "remains liquid, solvent and our customers will not be impacted", but they
-  also would not be the first crypto company in recent weeks to assure customers that
-  everything is fine shortly before being forced to reveal that everything is not
+vendor_product: Blockchain.com exposure to Three Arrows Capital
+notes: Crypto exchange Blockchain.com announced in a letter to shareholders that they could lose the $270 million in cryptocurrency
+  and USD they loaned to Three Arrows Capital, a now-insolvent crypto fund that is pursuing bankruptcy. The ripple effects
+  of the 3AC implosion have been felt throughout the crypto ecosystem, contributing to liquidity issues and the outright failure
+  of some other platforms. Blockchain.com assured customers that they would not be one of those platforms, writing that the
+  company "remains liquid, solvent and our customers will not be impacted", but they also would not be the first crypto company
+  in recent weeks to assure customers that everything is fine shortly before being forced to reveal that everything is not
   fine at all.

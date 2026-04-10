@@ -3,21 +3,18 @@ source_url: https://www.web3isgoinggreat.com/?id=2023-03-10-5
 date_of_breach: '2023-03-10'
 date_of_disclosure: '2023-03-10'
 category: other
-notes: The major stablecoin USDC lost its peg to the US dollar on March 10. Earlier
-  that day, the collapse of the Silicon Valley Bank sent shockwaves through the financial
-  system, and some in crypto were concerned about possible contagion to crypto companies.
-  In particular, it was known that some of Circle's cash reserves backing USDC were
-  stored at SVB, but it wasn't clear quite how much. After some delay, Circle disclosed
-  that $3.3 billion of their roughly $10 billion in cash reserves were stored with
-  SVB.That evening, Coinbase announced they would be pausing USDC redemptions for
-  dollars until the following Monday, claiming it was only because in times of high
-  volume, they needed to process transfers via the traditional banking system. Despite
-  their stated reason, this deepened fears about the stability of USDC, which is supported
-  in part by Coinbase.The price of USDC began to wobble on smaller, less liquid exchanges
-  like Gemini and Kraken before the issue was reflected more widely. However, most
-  exchanges were showing USDC trading at prices between $0.90 and $0.98 later that
-  night — a noticeable departure from USDC's normally fairly steady peg.A sustained
-  de-peg would wreak havoc on the crypto industry, where USDC is the second largest
-  stablecoin and boasted a $43 billion market cap (at least before substantial outflows
-  surrounding the SVB concern). Other stablecoins even have exposure to USDC, with
-  both FRAX and DAI using USDC for significant portions of their collateral.
+vendor_product: USDC
+blockchain: ethereum
+notes: The major stablecoin USDC lost its peg to the US dollar on March 10. Earlier that day, the collapse of the Silicon
+  Valley Bank sent shockwaves through the financial system, and some in crypto were concerned about possible contagion to
+  crypto companies. In particular, it was known that some of Circle's cash reserves backing USDC were stored at SVB, but it
+  wasn't clear quite how much. After some delay, Circle disclosed that $3.3 billion of their roughly $10 billion in cash reserves
+  were stored with SVB.That evening, Coinbase announced they would be pausing USDC redemptions for dollars until the following
+  Monday, claiming it was only because in times of high volume, they needed to process transfers via the traditional banking
+  system. Despite their stated reason, this deepened fears about the stability of USDC, which is supported in part by Coinbase.The
+  price of USDC began to wobble on smaller, less liquid exchanges like Gemini and Kraken before the issue was reflected more
+  widely. However, most exchanges were showing USDC trading at prices between $0.90 and $0.98 later that night — a noticeable
+  departure from USDC's normally fairly steady peg.A sustained de-peg would wreak havoc on the crypto industry, where USDC
+  is the second largest stablecoin and boasted a $43 billion market cap (at least before substantial outflows surrounding
+  the SVB concern). Other stablecoins even have exposure to USDC, with both FRAX and DAI using USDC for significant portions
+  of their collateral.

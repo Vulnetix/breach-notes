@@ -3,13 +3,12 @@ source_url: https://cointelegraph.com/news/thai-sec-alleges-bitkub-cto-committed
 date_of_breach: '2022-08-30'
 date_of_disclosure: '2022-08-30'
 category: other
-notes: The Securities and Exchange Commission in Thailand took action against Samret
-  Wajanasathian, the chief technology officer of the Thai crypto exchange Bitkub.
-  The SEC fined him 8.5 million baht (~$234,000), and said they would bar him from
-  serving as a director or executive at any crypto firms for a year.The SEC reported
-  that Wajanasathian had purchased around $61,000 of Bitkub Coin ($KUB) just before
-  it was publicized that the Siam Commercial Bank would purchase a 51% stake in Bitkub.
-  After the announcement, the value of KUB rose 100%.Earlier that week, the SCM had
-  announced they would not be following through on purchasing the planned $500 million
-  stake in Bitkub, due to concerns over "various issues" that were raised by the Thai
-  SEC.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Bitkub
+notes: The Securities and Exchange Commission in Thailand took action against Samret Wajanasathian, the chief technology officer
+  of the Thai crypto exchange Bitkub. The SEC fined him 8.5 million baht (~$234,000), and said they would bar him from serving
+  as a director or executive at any crypto firms for a year.The SEC reported that Wajanasathian had purchased around $61,000
+  of Bitkub Coin ($KUB) just before it was publicized that the Siam Commercial Bank would purchase a 51% stake in Bitkub.
+  After the announcement, the value of KUB rose 100%.Earlier that week, the SCM had announced they would not be following
+  through on purchasing the planned $500 million stake in Bitkub, due to concerns over "various issues" that were raised by
+  the Thai SEC.

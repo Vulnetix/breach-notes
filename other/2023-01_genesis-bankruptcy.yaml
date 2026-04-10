@@ -3,15 +3,15 @@ source_url: https://www.nytimes.com/2023/01/20/technology/genesis-bankruptcy-cry
 date_of_breach: '2023-01-19'
 date_of_disclosure: '2023-01-19'
 category: other
-notes: 'The Genesis cryptocurrency lending platform filed for bankruptcy, following
-  weeks of turmoil after the FTX collapse. Genesis halted withdrawals shortly after
-  FTX''s failure, and shortly afterwards warned of possible bankruptcy if they couldn''t
-  raise at least $1 billion in new capital. The past few months have also featured
-  a public conflict between Genesis, along with its parent company DCG and DCG''s
-  CEO and founder Barry Silbert, and the Winklevoss twins behind the Gemini crypto
-  exchange.It remains to be seen what the impact of a Genesis bankruptcy may have
-  on its parent company, Digital Currency Group (DCG). DCG owes Genesis more than
-  $1.65 billion, according to bankruptcy filings, including a $1.1 billion promissory
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Genesis bankruptcy
+financial_loss_usd: 5100000000
+notes: 'The Genesis cryptocurrency lending platform filed for bankruptcy, following weeks of turmoil after the FTX collapse.
+  Genesis halted withdrawals shortly after FTX''s failure, and shortly afterwards warned of possible bankruptcy if they couldn''t
+  raise at least $1 billion in new capital. The past few months have also featured a public conflict between Genesis, along
+  with its parent company DCG and DCG''s CEO and founder Barry Silbert, and the Winklevoss twins behind the Gemini crypto
+  exchange.It remains to be seen what the impact of a Genesis bankruptcy may have on its parent company, Digital Currency
+  Group (DCG). DCG owes Genesis more than $1.65 billion, according to bankruptcy filings, including a $1.1 billion promissory
   note created to absorb Genesis losses in the Three Arrows Capital collapse.
 
 

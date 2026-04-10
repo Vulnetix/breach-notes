@@ -3,24 +3,21 @@ source_url: https://twitter.com/zachxbt/status/1560307514381459456
 date_of_breach: '2022-08-18'
 date_of_disclosure: '2022-08-18'
 category: other
-notes: 'The Bribe Protocol promised a DAO infrastructure tool where "token holders
-  get paid to govern", and raised $5.5 million in funding in January to work on their
-  extensive roadmap. However, the project leaders have effectively disappeared. There
-  are no posts on the project''s Twitter account since May, their Medium page has
-  been untouched since March, and the Discord is a ghost town aside from the occasional
-  message asking about the status of the project and the inevitable reply that the
-  developers had rug pulled.Bribe Protocol was incubated by Advanced Blockchain AG
-  and Composable. Composable might ring a bell, because in February its pseudonymous
-  head of product, 0xbrainjar, was revealed to be Omar Zaki, who had settled with
-  the SEC over charges that he had misled investors while operating an unregistered
-  investment advisement company and hedge fund. At the time, he wrote that "I do not
-  want a mistake in my youth to cloud all of the team''s efforts", though the SEC
-  charge was filed less than three years prior, when Zaki was 21.An employee of Figment
-  Capital, one of the investors in Bribe Protocol, claimed that the project had formally
-  shut down and returned 86% of the funds raised from institutional investors, though
-  "retail took a huge L". However, this doesn''t appear to have been publicly announced
-  by the project.Bribe Protocol is, of course, not to be confused with the other Bribe
-  Protocol, a defi project that was abandoned in May 2021.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Bribe Protocol
+financial_loss_usd: 5500000
+notes: 'The Bribe Protocol promised a DAO infrastructure tool where "token holders get paid to govern", and raised $5.5 million
+  in funding in January to work on their extensive roadmap. However, the project leaders have effectively disappeared. There
+  are no posts on the project''s Twitter account since May, their Medium page has been untouched since March, and the Discord
+  is a ghost town aside from the occasional message asking about the status of the project and the inevitable reply that the
+  developers had rug pulled.Bribe Protocol was incubated by Advanced Blockchain AG and Composable. Composable might ring a
+  bell, because in February its pseudonymous head of product, 0xbrainjar, was revealed to be Omar Zaki, who had settled with
+  the SEC over charges that he had misled investors while operating an unregistered investment advisement company and hedge
+  fund. At the time, he wrote that "I do not want a mistake in my youth to cloud all of the team''s efforts", though the SEC
+  charge was filed less than three years prior, when Zaki was 21.An employee of Figment Capital, one of the investors in Bribe
+  Protocol, claimed that the project had formally shut down and returned 86% of the funds raised from institutional investors,
+  though "retail took a huge L". However, this doesn''t appear to have been publicly announced by the project.Bribe Protocol
+  is, of course, not to be confused with the other Bribe Protocol, a defi project that was abandoned in May 2021.
 
 
   Total loss estimated at $5,500,000.'

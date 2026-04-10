@@ -1,18 +1,17 @@
-source_name: '"Poly Network Attacker Issues ''Worthless'' Billions in SHIB, BNB, BUSD
-  in Latest Crypto Hack"'
+source_name: '"Poly Network Attacker Issues ''Worthless'' Billions in SHIB, BNB, BUSD in Latest Crypto Hack"'
 source_url: https://www.coindesk.com/tech/2023/07/02/polynetwork-attacker-issues-worthless-billions-in-shib-bnb-busd-in-latest-crypto-hack/
 date_of_breach: '2023-07-02'
 date_of_disclosure: '2023-07-02'
 category: data-leak
-notes: 'The name Poly Network may ring a bell, because in August 2021 they were exploited
-  for an (at the time) record-setting $611 million.Now, it''s happened again, and
-  some reports are throwing around even more massive numbers like $42 billion. In
-  reality, the exploiters were able to mint massive quantities of tokens on multiple
-  networks, with their wallet balances showing numbers in the billions. However, complete
-  lack of liquidity for these tokens meant their "billions" are worth substantially
-  less.According to crypto research firm Beosin, the attackers have so far cashed
-  out around 5,196 ETH (~$10.1 million) in liquid assets. Poly Network suspended services
-  shortly after the attack.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Poly Network
+financial_loss_usd: 10100000
+notes: 'The name Poly Network may ring a bell, because in August 2021 they were exploited for an (at the time) record-setting
+  $611 million.Now, it''s happened again, and some reports are throwing around even more massive numbers like $42 billion.
+  In reality, the exploiters were able to mint massive quantities of tokens on multiple networks, with their wallet balances
+  showing numbers in the billions. However, complete lack of liquidity for these tokens meant their "billions" are worth substantially
+  less.According to crypto research firm Beosin, the attackers have so far cashed out around 5,196 ETH (~$10.1 million) in
+  liquid assets. Poly Network suspended services shortly after the attack.
 
 
   Total loss estimated at $10,100,000.'

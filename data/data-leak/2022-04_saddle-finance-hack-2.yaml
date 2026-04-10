@@ -3,12 +3,14 @@ source_url: https://twitter.com/peckshield/status/1520330006710616064
 date_of_breach: '2022-04-30'
 date_of_disclosure: '2022-04-30'
 category: data-leak
-notes: 'An exploiter used a flash loan attack to pull 3,933 ETH (~$11 million) from
-  the "decentralized automated market maker" Saddle Finance. Shortly after the attack,
-  the hacker began moving the stolen funds through the Tornado Cash tumbler to launder
-  the money.Saddle Finance had lost money once before, hours after it launched in
-  January 2021. An individual was able to arbitrage Saddle Finance pools for a profit
-  of around $275,000.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Saddle Finance
+blockchain: ethereum
+financial_loss_usd: 11078985
+notes: 'An exploiter used a flash loan attack to pull 3,933 ETH (~$11 million) from the "decentralized automated market maker"
+  Saddle Finance. Shortly after the attack, the hacker began moving the stolen funds through the Tornado Cash tumbler to launder
+  the money.Saddle Finance had lost money once before, hours after it launched in January 2021. An individual was able to
+  arbitrage Saddle Finance pools for a profit of around $275,000.
 
 
   Total loss estimated at $11,078,985.'

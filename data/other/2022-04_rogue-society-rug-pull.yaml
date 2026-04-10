@@ -3,17 +3,18 @@ source_url: https://twitter.com/zachxbt/status/1517177549398368261
 date_of_breach: '2022-04-20'
 date_of_disclosure: '2022-04-20'
 category: other
-notes: 'The Rogue Society NFT project launched in September, with an ambitious roadmap
-  that included a theme song, comic book series, 3D figurines, an augmented reality
-  app, and an animated series. The project sold out its 15,777 NFTs, which minted
-  at 0.09 ETH each ($355), for a total profit of around $5.5 million. The team stuck
-  around for a while, but by December had gone completely silent. No tasks on the
-  roadmap had been completed. The founder has withdrawn $3.4 million of the funds.Following
-  a thread by zachxbt outlining the team''s rug pull, the project founder made the
-  first post in the project Discord since December, announcing a theme song competition
-  with no acknowledgement of the team''s absence and lack of progress.This event once
-  again shows how it is people like zachxbt who are left to try to hold project creators
-  accountable in the absence of reasonable regulation or enforcement.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Rogue Society
+blockchain: ethereum
+financial_loss_usd: 5500000
+notes: 'The Rogue Society NFT project launched in September, with an ambitious roadmap that included a theme song, comic book
+  series, 3D figurines, an augmented reality app, and an animated series. The project sold out its 15,777 NFTs, which minted
+  at 0.09 ETH each ($355), for a total profit of around $5.5 million. The team stuck around for a while, but by December had
+  gone completely silent. No tasks on the roadmap had been completed. The founder has withdrawn $3.4 million of the funds.Following
+  a thread by zachxbt outlining the team''s rug pull, the project founder made the first post in the project Discord since
+  December, announcing a theme song competition with no acknowledgement of the team''s absence and lack of progress.This event
+  once again shows how it is people like zachxbt who are left to try to hold project creators accountable in the absence of
+  reasonable regulation or enforcement.
 
 
   Total loss estimated at $5,500,000.'

@@ -3,12 +3,11 @@ source_url: https://web.archive.org/web/20220723181203/https://nft.gamestop.com/
 date_of_breach: '2022-07-23'
 date_of_disclosure: '2022-07-23'
 category: other
-notes: GameStop's brand new NFT platform, which launched on July 12, is off to a less
-  than promising start. Unlike some other NFT platforms like OpenSea, Gamestop does
-  not allow just anyone to create and list NFTs — creators have to apply and be approved
-  individually.One of their artists, "Jules", created an NFT clearly modeled after
-  The Falling Man, a well-known photograph of a man falling from the upper floors
-  of the World Trade Center during the September 11 attacks in New York City. The
-  NFT is also titled Falling Man, and pictures a model in the same position, but wearing
-  an astronaut suit.Not only is GameStop selling an NFT of the victim of a tragedy,
-  it's a featured image when Googling "GameStop".
+vendor_product: Gamestop NFT platform hosts 9/11 NFT
+blockchain: ethereum
+notes: GameStop's brand new NFT platform, which launched on July 12, is off to a less than promising start. Unlike some other
+  NFT platforms like OpenSea, Gamestop does not allow just anyone to create and list NFTs — creators have to apply and be
+  approved individually.One of their artists, "Jules", created an NFT clearly modeled after The Falling Man, a well-known
+  photograph of a man falling from the upper floors of the World Trade Center during the September 11 attacks in New York
+  City. The NFT is also titled Falling Man, and pictures a model in the same position, but wearing an astronaut suit.Not only
+  is GameStop selling an NFT of the victim of a tragedy, it's a featured image when Googling "GameStop".

@@ -1,24 +1,22 @@
-source_name: '"Najveća domaća kripto prevara? Riječanin klijentima uzeo 70 milijuna
-  €. Upravo je u bijegu"'
+source_name: '"Najveća domaća kripto prevara? Riječanin klijentima uzeo 70 milijuna €. Upravo je u bijegu"'
 source_url: https://www.jutarnji.hr/vijesti/hrvatska/najveca-domaca-kripto-prevara-rijecanin-klijentima-uzeo-70-milijuna-upravo-je-u-bijegu-15337762
 date_of_breach: '2023-05-20'
 date_of_disclosure: '2023-05-20'
 category: other
-notes: 'Croatian company BitLucky told its customers that it would invest their money
-  in cryptocurrencies, promising 5–25% monthly profits. However, its director Luka
-  Burazer wrote an email to clients on May 19, explaining: "Dear clients, with a series
-  of bad trades and decisions, unfortunately, I have brought the state of the company
-  into a crisis situation. We will have more information in the following days". He
-  and the company co-founder have since gone dark, turning off their cell phones,
-  not replying to emails, and deleting their social media presence. According to Croatian
-  news outlet Jutarnji list, a secretary for the company reached on the phone explained,
-  "the director went crazy and spent all the money". The losses allegedly involve
-  crypto assets notionally worth €70 million (~$75.7 million), and affect at least
-  700 individuals.Some have expressed the opinion that BitLucky was a Ponzi scheme
-  all along, given the unreasonable promises of 5–25% monthly returns. The editor
-  of a crypto news outlet also expressed that "there was a ''line of [red] flags''",
-  including that Burazer never wanted to appear in the media or have his picture shown
-  online.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: BitLucky
+financial_loss_usd: 75700000
+affected_count: 700
+notes: 'Croatian company BitLucky told its customers that it would invest their money in cryptocurrencies, promising 5–25%
+  monthly profits. However, its director Luka Burazer wrote an email to clients on May 19, explaining: "Dear clients, with
+  a series of bad trades and decisions, unfortunately, I have brought the state of the company into a crisis situation. We
+  will have more information in the following days". He and the company co-founder have since gone dark, turning off their
+  cell phones, not replying to emails, and deleting their social media presence. According to Croatian news outlet Jutarnji
+  list, a secretary for the company reached on the phone explained, "the director went crazy and spent all the money". The
+  losses allegedly involve crypto assets notionally worth €70 million (~$75.7 million), and affect at least 700 individuals.Some
+  have expressed the opinion that BitLucky was a Ponzi scheme all along, given the unreasonable promises of 5–25% monthly
+  returns. The editor of a crypto news outlet also expressed that "there was a ''line of [red] flags''", including that Burazer
+  never wanted to appear in the media or have his picture shown online.
 
 
   Total loss estimated at $75,700,000.'

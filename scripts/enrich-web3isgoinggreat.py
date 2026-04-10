@@ -177,15 +177,28 @@ def extract_affected_count(body):
 # ─── vendor product extraction ───────────────────────────────────────────────
 
 def derive_vendor(entry):
-    """Use shortTitle or title; strip trailing incident keywords."""
+    """Extract clean vendor/product name from image caption or shortTitle."""
+    # image.caption is the cleanest source (e.g. 'Balancer logo', 'drift')
+    img = entry.get('image') or {}
+    caption = img.get('caption', '').strip()
+    if caption:
+        name = re.sub(r'\s+logo$', '', caption, flags=re.IGNORECASE).strip()
+        if 2 < len(name) < 80:
+            return name
+
+    # Fall back to shortTitle — strip trailing incident descriptors
     title = entry.get('shortTitle') or entry.get('title', '')
     title = clean_html(title)
-    # Strip trailing generic suffixes like "hacked", "exploit", "hack", "scam"
-    title = re.sub(
-        r'\s+(hack(?:ed)?|exploit(?:ed)?|scam|rug[\s-]pull|collapses?|shuts?\s+down|loses?\s+.+|suffers?.+|breach).*$',
-        '', title, flags=re.IGNORECASE
-    ).strip()
-    return title[:120] if title else ''
+    strip_pats = [
+        r'\s+(hack(?:ed)?|exploit(?:ed)?|scam|rug[\s-]pull|breach|collapses?|'
+        r'shuts?\s+down|loses?\s+.+|suffers?\s+.+|is\s+.+|thief\s+.+|'
+        r'sentenced?.+|CEO?.+|price\s+.+|token\s+price.+|'
+        r'lies\s+.+|bails?\s+.+|pauses?.+|halts?.+).*$',
+    ]
+    for pat in strip_pats:
+        title = re.sub(pat, '', title, flags=re.IGNORECASE).strip()
+    return title[:100] if title else ''
+
 
 # ─── file matching ────────────────────────────────────────────────────────────
 
@@ -335,10 +348,19 @@ def enrich_entry(entry, url_idx):
             existing['initial_attack_vector'] = vec
             changed = True
 
-    # vendor_product
-    if not existing.get('vendor_product'):
+    # vendor_product — set if missing, OR if current value looks like a narrative shortTitle
+    NOISY_VP_RE = re.compile(
+        r'\b(hack(?:ed)?|exploit(?:ed)?|scam|rug.pull|thief|founder|sentenced|'
+        r'price|token\s+price|lies\s+about|bails?\s+on|pauses?|halts?|collapses?|'
+        r'shuts?\s+down|is\s+insolvent|is\s+going|gets?\s+robbed|is\s+being|'
+        r'suddenly|launches?|announces?|cancels?|pleads?|settles?|fined|fires?)\b',
+        re.IGNORECASE
+    )
+    current_vp = existing.get('vendor_product', '')
+    vp_is_noisy = bool(NOISY_VP_RE.search(current_vp)) and len(current_vp.split()) > 2
+    if not current_vp or vp_is_noisy:
         vp = derive_vendor(entry)
-        if vp:
+        if vp and vp != current_vp:
             existing['vendor_product'] = vp
             changed = True
 

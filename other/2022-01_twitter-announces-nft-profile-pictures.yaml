@@ -3,7 +3,7 @@ source_url: https://www.theverge.com/2022/1/20/22893502/nft-twitter-profile-pict
 date_of_breach: '2022-01-20'
 date_of_disclosure: '2022-01-20'
 category: other
-notes: Although NFTs-as-profile-pictures on Twitter is nothing new, Twitter launched
-  a new feature in which users can connect their crypto wallets to verify that an
-  NFT belongs to them. Such verified NFTs will display with a hexagon shape, rather
+vendor_product: Screenshot of the Twitter NFT announcement
+notes: Although NFTs-as-profile-pictures on Twitter is nothing new, Twitter launched a new feature in which users can connect
+  their crypto wallets to verify that an NFT belongs to them. Such verified NFTs will display with a hexagon shape, rather
   than the standard circle, presumably to differentiate these users from the right-clickers.

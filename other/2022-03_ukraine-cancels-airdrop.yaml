@@ -3,20 +3,17 @@ source_url: https://www.bloomberg.com/news/articles/2022-03-03/ukraine-cancels-p
 date_of_breach: '2022-03-03'
 date_of_disclosure: '2022-03-03'
 category: other
-notes: Ukraine canceled its promised cryptocurrency token airdrop on the day it was
-  expected to happen. Government officials had previously announced that anyone who
-  donated by March 3 would receive an airdropped cryptocurrency token as a reward;
-  this was a promise that spurred a large total number of donations, though relatively
-  few of much size. Protocol reported that 95% of people donated amounts of 0.01 or
-  0.001 ETH (equivalent to $28 or $2.80), apparently primarily in hopes of getting
-  the promised reward.Some publications have speculated that the airdrop was canceled
-  because someone tried to spoof the tokens, but it doesn't appear that Ukraine has
-  given a reason for the change in plans. After the cancellation, many commenters
-  on Twitter, all of whom were hopefully joking, wrote that they had been "rugged"
-  by Ukraine — using the common slang for crypto scams in which people are convinced
-  to buy in on a project that then takes the money and doesn't follow through on its
-  promised plans. In the tweet announcing the cancellation, Ukrainian Vice President
-  Mykhailo Fedorov wrote, "After careful consideration we decided to cancel airdrop.
-  Every day there are more and more people willing to help Ukraine to fight back the
-  agression. Instead, we will announce NFTs to support Ukrainian Armed Forces soon.
-  We DO NOT HAVE any plans to issue any fungible tokens". What a world we live in.
+vendor_product: Ukraine cancels airdrop
+blockchain: ethereum
+notes: Ukraine canceled its promised cryptocurrency token airdrop on the day it was expected to happen. Government officials
+  had previously announced that anyone who donated by March 3 would receive an airdropped cryptocurrency token as a reward;
+  this was a promise that spurred a large total number of donations, though relatively few of much size. Protocol reported
+  that 95% of people donated amounts of 0.01 or 0.001 ETH (equivalent to $28 or $2.80), apparently primarily in hopes of getting
+  the promised reward.Some publications have speculated that the airdrop was canceled because someone tried to spoof the tokens,
+  but it doesn't appear that Ukraine has given a reason for the change in plans. After the cancellation, many commenters on
+  Twitter, all of whom were hopefully joking, wrote that they had been "rugged" by Ukraine — using the common slang for crypto
+  scams in which people are convinced to buy in on a project that then takes the money and doesn't follow through on its promised
+  plans. In the tweet announcing the cancellation, Ukrainian Vice President Mykhailo Fedorov wrote, "After careful consideration
+  we decided to cancel airdrop. Every day there are more and more people willing to help Ukraine to fight back the agression.
+  Instead, we will announce NFTs to support Ukrainian Armed Forces soon. We DO NOT HAVE any plans to issue any fungible tokens".
+  What a world we live in.

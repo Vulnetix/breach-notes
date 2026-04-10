@@ -3,14 +3,11 @@ source_url: https://twitter.com/cryptogle/status/1591542182346997767
 date_of_breach: '2022-11-12'
 date_of_disclosure: '2022-11-12'
 category: other
-notes: Tokensoft is a project that aims to help web3 projects launch fairly, without
-  the launches being gamed. The group evidently thought they had come across 5,000
-  or so users who had been gaming airdrops, to which their solution was to publish
-  a list of private user data about those individuals. The list included full names,
-  wallet addresses, and physical and IP addresses.Several users replied to the message
-  in shock that their data was exposed, saying they'd never done anything wrong. The
-  Tokensoft employee replied, "If you made it on the naughty list...yes, shame on
-  you....I shared your info, better luck next time".The project later deleted the
-  link from the Discord server, then tried to claim that it had never been posted
-  at all, then issued a statement that "information was mistakenly posted in Tokensoft's
-  social media channels".
+vendor_product: Tokensoft intentionally publishes user data
+notes: Tokensoft is a project that aims to help web3 projects launch fairly, without the launches being gamed. The group evidently
+  thought they had come across 5,000 or so users who had been gaming airdrops, to which their solution was to publish a list
+  of private user data about those individuals. The list included full names, wallet addresses, and physical and IP addresses.Several
+  users replied to the message in shock that their data was exposed, saying they'd never done anything wrong. The Tokensoft
+  employee replied, "If you made it on the naughty list...yes, shame on you....I shared your info, better luck next time".The
+  project later deleted the link from the Discord server, then tried to claim that it had never been posted at all, then issued
+  a statement that "information was mistakenly posted in Tokensoft's social media channels".

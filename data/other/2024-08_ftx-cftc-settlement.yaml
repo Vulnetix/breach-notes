@@ -1,15 +1,13 @@
-source_name: '"Judge approves $12.7 billion settlement between FTX and CFTC, bringing
-  20-month-long lawsuit to an end"'
+source_name: '"Judge approves $12.7 billion settlement between FTX and CFTC, bringing 20-month-long lawsuit to an end"'
 source_url: https://www.theblock.co/post/310248/ftx-cftc-settlement-approved
 date_of_breach: '2024-08-08'
 date_of_disclosure: '2024-08-08'
 category: other
-notes: FTX will pay $8.7 billion in restitution and another $4 billion in disgorgement
-  to settle the lawsuit from the CFTC, which was filed shortly after FTX collapsed
-  in November 2022. All $12.7 billion, or what is available of it among FTX's remaining
-  assets, will go to creditors rather than to the agency.Defendants Sam Bankman-Fried,
-  Caroline Ellison, and Gary Wang, as well as the FTX and Alameda Research companies,
-  will be prohibited from commodities trading, including trading bitcoin, ether, USDT,
-  or other assets considered "digital asset commodities" by the CFTC. However, with
-  Bankman-Fried already beginning a 25-year prison sentence, and Ellison and Wang
-  due to be sentenced, this may be low on their list of worries.
+initial_attack_vector: Regulatory / legal action
+vendor_product: FTX CFTC settlement
+notes: FTX will pay $8.7 billion in restitution and another $4 billion in disgorgement to settle the lawsuit from the CFTC,
+  which was filed shortly after FTX collapsed in November 2022. All $12.7 billion, or what is available of it among FTX's
+  remaining assets, will go to creditors rather than to the agency.Defendants Sam Bankman-Fried, Caroline Ellison, and Gary
+  Wang, as well as the FTX and Alameda Research companies, will be prohibited from commodities trading, including trading
+  bitcoin, ether, USDT, or other assets considered "digital asset commodities" by the CFTC. However, with Bankman-Fried already
+  beginning a 25-year prison sentence, and Ellison and Wang due to be sentenced, this may be low on their list of worries.

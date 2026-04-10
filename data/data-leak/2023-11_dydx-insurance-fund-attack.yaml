@@ -1,16 +1,17 @@
-source_name: '"dYdX’s insurance fund lost $9 million as a result of ''targeted attack'':
-  CEO"'
+source_name: '"dYdX’s insurance fund lost $9 million as a result of ''targeted attack'': CEO"'
 source_url: https://www.theblock.co/post/263632/dydxs-insurance-fund-lost-9-million-as-a-result-of-targeted-attack-ceo
 date_of_breach: '2023-11-18'
 date_of_disclosure: '2023-11-18'
 category: data-leak
-notes: 'Around 40% of the "insurance fund", intended to protect dYdX users from having
-  to backstop other traders'' losing trades, was drained in what dYdX CEO described
-  as "pretty clearly a targeted attack against dYdX". An attacker manipulated the
-  market for the Yearn Finance token, which is not normally heavily traded on dYdX,
-  but which experienced a surge in trades around the attack. By taking advantage of
-  flaws in dYdX''s risk management, the attacker was able to rack up big losses and
-  then force the dYdX insurance fund to pay out.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: dYdX insurance fund attack
+blockchain: ethereum
+financial_loss_usd: 9000000
+notes: 'Around 40% of the "insurance fund", intended to protect dYdX users from having to backstop other traders'' losing
+  trades, was drained in what dYdX CEO described as "pretty clearly a targeted attack against dYdX". An attacker manipulated
+  the market for the Yearn Finance token, which is not normally heavily traded on dYdX, but which experienced a surge in trades
+  around the attack. By taking advantage of flaws in dYdX''s risk management, the attacker was able to rack up big losses
+  and then force the dYdX insurance fund to pay out.
 
 
   Total loss estimated at $9,000,000.'

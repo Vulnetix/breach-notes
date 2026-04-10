@@ -1,12 +1,11 @@
-source_name: '"Bob Ross Died Fighting Profit-Driven Vultures Only For Them To Turn
-  Him Into A Funko Pop NFT"'
+source_name: '"Bob Ross Died Fighting Profit-Driven Vultures Only For Them To Turn Him Into A Funko Pop NFT"'
 source_url: https://kotaku.com/bob-ross-died-fighting-profit-driven-vultures-only-for-1848220722
 date_of_breach: '2021-12-21'
 date_of_disclosure: '2021-12-21'
 category: other
-notes: Because apparently the vinyl figurines known as Funko Pops aren't a sufficiently
-  useless collectible, Funko decided to get in on the NFT craze by releasing a Bob
-  Ross "Digital Pop". Ross made major changes to his will just before his death to
-  try to prevent people from merchandising his legacy, and many fans were outraged
-  by the NFT project, which they believe is exactly the sort of thing he was trying
-  to prevent from happening.
+vendor_product: Bob Ross NFT announcement
+blockchain: wax
+notes: Because apparently the vinyl figurines known as Funko Pops aren't a sufficiently useless collectible, Funko decided
+  to get in on the NFT craze by releasing a Bob Ross "Digital Pop". Ross made major changes to his will just before his death
+  to try to prevent people from merchandising his legacy, and many fans were outraged by the NFT project, which they believe
+  is exactly the sort of thing he was trying to prevent from happening.

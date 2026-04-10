@@ -1,22 +1,20 @@
-source_name: '"Attorney General James Stops Text Message Scam Targeting Vulnerable
-  New Yorkers Looking for Remote Job Opportunities"'
+source_name: '"Attorney General James Stops Text Message Scam Targeting Vulnerable New Yorkers Looking for Remote Job Opportunities"'
 source_url: https://ag.ny.gov/press-release/2025/attorney-general-james-stops-text-message-scam-targeting-vulnerable-new-yorkers
 date_of_breach: '2025-01-09'
 date_of_disclosure: '2025-01-09'
 category: data-leak
-notes: 'New York Attorney General Letitia James announced a lawsuit against a group
-  of scammers operating a scheme in which they promised fake job opportunities to
-  victims, convincing them they needed to first deposit cryptocurrency. Victims were
-  told they would be generating review data for online products, but that they needed
-  to maintain account balances equivalent or greater to the value of the products
-  they were reviewing. They were then tricked into sending the cryptocurrency into
-  digital wallets where they could be taken by the scammers. Those who tried to withdraw
-  the assets were then scammed again, told they needed to pay a "blockchain verification
-  fee" or "escrow fee".One single victim was defrauded out of more than $100,000.The
-  NYAG has seized $2.2 million in Tether, and is pursuing legal action against the
-  as-yet-unidentified scammers. Because of the unknown identities of the defendants,
-  the NYAG will serve notice of the lawsuit via NFT — something they describe as a
-  first by government regulators.
+initial_attack_vector: Regulatory / legal action
+vendor_product: $2.2 million stolen by fake job
+financial_loss_usd: 2200000
+notes: 'New York Attorney General Letitia James announced a lawsuit against a group of scammers operating a scheme in which
+  they promised fake job opportunities to victims, convincing them they needed to first deposit cryptocurrency. Victims were
+  told they would be generating review data for online products, but that they needed to maintain account balances equivalent
+  or greater to the value of the products they were reviewing. They were then tricked into sending the cryptocurrency into
+  digital wallets where they could be taken by the scammers. Those who tried to withdraw the assets were then scammed again,
+  told they needed to pay a "blockchain verification fee" or "escrow fee".One single victim was defrauded out of more than
+  $100,000.The NYAG has seized $2.2 million in Tether, and is pursuing legal action against the as-yet-unidentified scammers.
+  Because of the unknown identities of the defendants, the NYAG will serve notice of the lawsuit via NFT — something they
+  describe as a first by government regulators.
 
 
   Total loss estimated at $2,200,000.'

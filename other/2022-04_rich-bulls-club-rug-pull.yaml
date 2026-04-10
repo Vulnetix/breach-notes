@@ -3,18 +3,19 @@ source_url: https://twitter.com/zachxbt/status/1516499130675302403
 date_of_breach: '2022-04-19'
 date_of_disclosure: '2022-04-19'
 category: other
-notes: 'Crypto sleuth zachxbt researched the Rich Bulls Club, an NFT project that
-  launched in December with NFTs priced at 0.3 ETH (~$1,350) a pop. The project included
-  a clause where "selling under our minimum selling price agreement is forbidden"
-  — anyone who sold a Rich Bulls NFT for less than 3 ETH ($13,500) would find the
-  NFT image modified to a bull with a poo emoji on its head, with the text "BANNED!"
-  stamped across it in red. The project roadmap promised networking and business opportunities
-  enabled by its community members, exclusive events, opportunities to win supercars
-  or hundreds of thousands of dollars, and a "real-life Squid Game event" where one
-  person would win $1 million. Needless to say, none of this transpired, and the project
-  quietly deleted its website and Instagram accounts as the founder cashed out over
-  $3 million.Two hours after zachxbt published his research, the team made their first
-  post in three months, with multiple excuses for the issues zachxbt highlighted.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Rich Bulls Club
+blockchain: ethereum
+financial_loss_usd: 3700000
+notes: 'Crypto sleuth zachxbt researched the Rich Bulls Club, an NFT project that launched in December with NFTs priced at
+  0.3 ETH (~$1,350) a pop. The project included a clause where "selling under our minimum selling price agreement is forbidden"
+  — anyone who sold a Rich Bulls NFT for less than 3 ETH ($13,500) would find the NFT image modified to a bull with a poo
+  emoji on its head, with the text "BANNED!" stamped across it in red. The project roadmap promised networking and business
+  opportunities enabled by its community members, exclusive events, opportunities to win supercars or hundreds of thousands
+  of dollars, and a "real-life Squid Game event" where one person would win $1 million. Needless to say, none of this transpired,
+  and the project quietly deleted its website and Instagram accounts as the founder cashed out over $3 million.Two hours after
+  zachxbt published his research, the team made their first post in three months, with multiple excuses for the issues zachxbt
+  highlighted.
 
 
   Total loss estimated at $3,700,000.'

@@ -3,11 +3,9 @@ source_url: https://twitter.com/zcashmedia/status/1548772361544970240
 date_of_breach: '2022-10-05'
 date_of_disclosure: '2022-10-05'
 category: other
-notes: Zcash is a privacycoin which, unlike popular blockchains like Bitcoin and Ethereum,
-  allows users to obscure who they are sending money to and how much. Since June or
-  July, the network has been suffering from a spam attack in which attackers have
-  been submitting massive transactions that quickly fill up block space. The chain
-  has exploded in size, nearly tripling to more than 100GB since the attack began.
-  Unlike other chains which are prohibitively expensive to attack, each spammed transaction
-  costs less than a cent, and the attacker is estimated to be spending roughly $10
-  a day to execute the attack.
+vendor_product: Zcash spam attack
+notes: Zcash is a privacycoin which, unlike popular blockchains like Bitcoin and Ethereum, allows users to obscure who they
+  are sending money to and how much. Since June or July, the network has been suffering from a spam attack in which attackers
+  have been submitting massive transactions that quickly fill up block space. The chain has exploded in size, nearly tripling
+  to more than 100GB since the attack began. Unlike other chains which are prohibitively expensive to attack, each spammed
+  transaction costs less than a cent, and the attacker is estimated to be spending roughly $10 a day to execute the attack.

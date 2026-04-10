@@ -1,15 +1,13 @@
-source_name: '"NFLPA owed $41.8M in licensing and marketing payments from affiliate
-  following crypto collapse"'
+source_name: '"NFLPA owed $41.8M in licensing and marketing payments from affiliate following crypto collapse"'
 source_url: https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/
 date_of_breach: '2023-05-30'
 date_of_disclosure: '2023-05-30'
 category: other
-notes: A report from The Athletic indicates that the National Football League Players
-  Association, a labor union for NFL players, has been unable to collect nearly $42
-  million it is owed in licensing and sponsorship revenue. The Athletic cited sources
-  suggesting the issue was directly related to the collapse of the crypto industry,
-  and to its partners renegotiating licensing deals due to the downturn.The amount
-  is owed by affiliate OneTeam Partners. In April, Sportico reported that sports NFT
-  platform Dapper Labs had discussed restructuring its deal with the NFL and NFLPA
-  due to an extremely rocky year. So too had DraftKings, which had signed a deal with
-  the NFLPA for its "Reignmakers" player trading card NFTs.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: NFL labor union is out almost $42 million thanks to crypto
+notes: A report from The Athletic indicates that the National Football League Players Association, a labor union for NFL players,
+  has been unable to collect nearly $42 million it is owed in licensing and sponsorship revenue. The Athletic cited sources
+  suggesting the issue was directly related to the collapse of the crypto industry, and to its partners renegotiating licensing
+  deals due to the downturn.The amount is owed by affiliate OneTeam Partners. In April, Sportico reported that sports NFT
+  platform Dapper Labs had discussed restructuring its deal with the NFL and NFLPA due to an extremely rocky year. So too
+  had DraftKings, which had signed a deal with the NFLPA for its "Reignmakers" player trading card NFTs.

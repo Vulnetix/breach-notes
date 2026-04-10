@@ -1,18 +1,16 @@
-source_name: '"FTX closes in on a deal to buy embattled crypto lender BlockFi for
-  $25 million in a fire sale, source says"'
+source_name: '"FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million in a fire sale, source says"'
 source_url: https://www.cnbc.com/amp/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html
 date_of_breach: '2022-06-30'
 date_of_disclosure: '2022-06-30'
 category: other
-notes: 'According to CNBC, the cryptocurrency exchange FTX is hammering out the details
-  on an agreement to acquire crypto lending platform BlockFi. Earlier in June, it
-  was reported that FTX had agreed to lend BlockFi $250 million, bailing out the exchange
-  after it suffered substantial losses.BlockFi was last valued at $4.8 billion, but
-  FTX is expected to pay around $25 million to buy the company. BlockFi CEO Zac Prince
-  refuted what he described as a "market rumor": "I can 100% confirm that we aren''t
-  being sold for $25M." A leaked call with Morgan Creek Digital investors suggested
-  they were trying to counter FTX''s offer, and that BlockFi was being valued at less
-  than $500 million. The call also revealed that BlockFi''s loan to Three Arrows Capital
-  had been $1 billion, and that it was backed by collateral of $1.33 billion in Bitcoin
-  and GBTC.CNBC reported that, according to one of their sources, "equity investors
-  in BlockFi are ''wiped out'' and are now writing off the value of their losses."'
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: BlockFi nears acquisition deal with FTX
+notes: 'According to CNBC, the cryptocurrency exchange FTX is hammering out the details on an agreement to acquire crypto
+  lending platform BlockFi. Earlier in June, it was reported that FTX had agreed to lend BlockFi $250 million, bailing out
+  the exchange after it suffered substantial losses.BlockFi was last valued at $4.8 billion, but FTX is expected to pay around
+  $25 million to buy the company. BlockFi CEO Zac Prince refuted what he described as a "market rumor": "I can 100% confirm
+  that we aren''t being sold for $25M." A leaked call with Morgan Creek Digital investors suggested they were trying to counter
+  FTX''s offer, and that BlockFi was being valued at less than $500 million. The call also revealed that BlockFi''s loan to
+  Three Arrows Capital had been $1 billion, and that it was backed by collateral of $1.33 billion in Bitcoin and GBTC.CNBC
+  reported that, according to one of their sources, "equity investors in BlockFi are ''wiped out'' and are now writing off
+  the value of their losses."'

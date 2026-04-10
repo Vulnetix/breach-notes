@@ -3,10 +3,10 @@ source_url: https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti
 date_of_breach: '2023-01-04'
 date_of_disclosure: '2023-01-04'
 category: other
-notes: Coinbase agreed to a $100 million settlement with the New York State Department
-  of Financial Services over charges that the company violated anti-money laundering
-  laws by performing insufficient background checks. Coinbase will pay a $50 million
-  fine, and has committed to spending another $50 million to strengthen its KYC program.Early
-  last year, Coinbase was ordered by regulators to hire an outside monitor to oversee
-  compliance. Under the settlement agreement, Coinbase will be required to continue
-  the monitoring for at least another year as it works to improve its compliance.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Coinbase
+notes: Coinbase agreed to a $100 million settlement with the New York State Department of Financial Services over charges
+  that the company violated anti-money laundering laws by performing insufficient background checks. Coinbase will pay a $50
+  million fine, and has committed to spending another $50 million to strengthen its KYC program.Early last year, Coinbase
+  was ordered by regulators to hire an outside monitor to oversee compliance. Under the settlement agreement, Coinbase will
+  be required to continue the monitoring for at least another year as it works to improve its compliance.

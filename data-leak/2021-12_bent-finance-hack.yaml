@@ -3,15 +3,15 @@ source_url: https://cryptopotato.com/bent-finance-exploit-originated-from-deploy
 date_of_breach: '2021-12-20'
 date_of_disclosure: '2021-12-20'
 category: data-leak
-notes: 'Bent Finance informed its users of a "possible exploit", but soon after issued
-  a statement that the exploit had originated from the Bent Finance project''s own
-  deployer. Because of this, some speculated that it may have been a rug pull. Bent
-  said in a statement, "There are multiple members on this team and we will make this
-  right. We recommend you withdraw all funds until it is clear." The platform hasn''t
-  revealed how much money was lost, though a crypto fraud investigator wrote that
-  440 ETH (equivalent to about $1.8 million) appeared to have been funneled out of
-  the platform. The attack was discovered on December 20, but appeared to have been
-  ongoing since at least December 12, and possibly longer.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Bent Finance
+financial_loss_usd: 1800000
+notes: 'Bent Finance informed its users of a "possible exploit", but soon after issued a statement that the exploit had originated
+  from the Bent Finance project''s own deployer. Because of this, some speculated that it may have been a rug pull. Bent said
+  in a statement, "There are multiple members on this team and we will make this right. We recommend you withdraw all funds
+  until it is clear." The platform hasn''t revealed how much money was lost, though a crypto fraud investigator wrote that
+  440 ETH (equivalent to about $1.8 million) appeared to have been funneled out of the platform. The attack was discovered
+  on December 20, but appeared to have been ongoing since at least December 12, and possibly longer.
 
 
   Total loss estimated at $1,800,000.'

@@ -3,34 +3,26 @@ source_url: https://forum.invictusdao.fi/t/rfc-allocate-funds-for-team-operation
 date_of_breach: '2022-03-14'
 date_of_disclosure: '2022-03-14'
 category: other
-notes: 'The Sol Invictus project was an Olympus DAO-like project on the Solana blockchain,
-  much like the Wonderland project that went up in flames recently. Promising absolutely
-  massive returns, with numbers like 60,000% APY being tossed around, people bought
-  in hoping to see their money skyrocket. The project also partnered with major names
-  in the Solana ecosystem, earning legitimacy.However, although the project enjoyed
-  a spike in price in November, the token has bled value since then. On March 9, the
-  project leaders began a conversation about team salaries, where they also floated
-  the idea of redeeming the treasury and closing the project. On March 11 they began
-  a vote, which lasted only three days, and allowed members of the DAO to vote on
-  whether the project should close and distribute treasury funds to participants.
-  Much like the Wonderland vote in late January, a relatively small number of whales
-  with a large share of the votes (who bought in early and still stood to make money
-  on the project) were able to pass the vote to close the project, despite a majority
-  of voters selecting to keep the project going. Furthermore, because the Invictus
-  tokens used for voting also themselves hold the value, some people were unable to
-  vote in the poll because their tokens were locked up in lending platforms where
-  they had used them as collateral. Many participants in the project who haven''t
-  been actively watching the governance page likely don''t even know the vote happened.Some
-  members of the project wrote on Discord that they felt rugged, with one even speculating
-  that the project had been so eager to implement voting so they could pass a "community"
-  vote to close the project and make off with a profit without damaging their reputations
-  or potentially facing lawsuits. Various members of the project Discord shared how
-  much they had lost: one person said they were down $20,000, another was down $75,000,
-  and a third person reported losing $400,000. One person asked "who else is in the
-  6 figure loss club" and received three agreement emoji reactions; another person
-  said they''d lost a year''s salary. Some people already opted to try to sell their
-  tokens early, worrying that the project leaders might make off with the treasury
-  and not allow people to redeem their $IN; others waited in hopes of the redemption
-  price being higher than the current token price; and some even suggested buying
-  more $IN in hopes that they could make a profit if the redemption price is higher
-  than the current price.'
+vendor_product: Invictus DAO votes to close
+blockchain: solana
+notes: 'The Sol Invictus project was an Olympus DAO-like project on the Solana blockchain, much like the Wonderland project
+  that went up in flames recently. Promising absolutely massive returns, with numbers like 60,000% APY being tossed around,
+  people bought in hoping to see their money skyrocket. The project also partnered with major names in the Solana ecosystem,
+  earning legitimacy.However, although the project enjoyed a spike in price in November, the token has bled value since then.
+  On March 9, the project leaders began a conversation about team salaries, where they also floated the idea of redeeming
+  the treasury and closing the project. On March 11 they began a vote, which lasted only three days, and allowed members of
+  the DAO to vote on whether the project should close and distribute treasury funds to participants. Much like the Wonderland
+  vote in late January, a relatively small number of whales with a large share of the votes (who bought in early and still
+  stood to make money on the project) were able to pass the vote to close the project, despite a majority of voters selecting
+  to keep the project going. Furthermore, because the Invictus tokens used for voting also themselves hold the value, some
+  people were unable to vote in the poll because their tokens were locked up in lending platforms where they had used them
+  as collateral. Many participants in the project who haven''t been actively watching the governance page likely don''t even
+  know the vote happened.Some members of the project wrote on Discord that they felt rugged, with one even speculating that
+  the project had been so eager to implement voting so they could pass a "community" vote to close the project and make off
+  with a profit without damaging their reputations or potentially facing lawsuits. Various members of the project Discord
+  shared how much they had lost: one person said they were down $20,000, another was down $75,000, and a third person reported
+  losing $400,000. One person asked "who else is in the 6 figure loss club" and received three agreement emoji reactions;
+  another person said they''d lost a year''s salary. Some people already opted to try to sell their tokens early, worrying
+  that the project leaders might make off with the treasury and not allow people to redeem their $IN; others waited in hopes
+  of the redemption price being higher than the current token price; and some even suggested buying more $IN in hopes that
+  they could make a profit if the redemption price is higher than the current price.'

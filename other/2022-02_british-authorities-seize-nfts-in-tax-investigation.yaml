@@ -3,7 +3,8 @@ source_url: https://www.telegraph.co.uk/business/2022/02/13/taxman-makes-first-e
 date_of_breach: '2022-02-13'
 date_of_disclosure: '2022-02-13'
 category: other
-notes: British tax authorities seized three NFTs in what they said was an attempt
-  to dodge £1.4 million ($1.9M) in taxes. Officials stated that the seizure was a
-  "warning to anyone who thinks they can use crypto assets to hide money", which may
+initial_attack_vector: Regulatory / legal action
+vendor_product: British authorities seize NFTs in tax investigation
+notes: British tax authorities seized three NFTs in what they said was an attempt to dodge £1.4 million ($1.9M) in taxes.
+  Officials stated that the seizure was a "warning to anyone who thinks they can use crypto assets to hide money", which may
   come as a surprise to some of the masterminds in the crypto subreddits.

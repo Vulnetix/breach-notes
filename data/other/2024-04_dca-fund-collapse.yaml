@@ -3,13 +3,14 @@ source_url: https://www.theage.com.au/national/victoria/up-to-150-million-at-ris
 date_of_breach: '2024-04-12'
 date_of_disclosure: '2024-04-12'
 category: other
-notes: 'Liquidators have been appointed for three cryptocurrency companies owned by
-  Ash Balanian. DCA Capital, Digital Commodity Assets, and the Digital Commodity Assets
-  Fund have all entered liquidation after investors raised red flags about the fund''s
-  management and licensure.So far, losses are estimated to affect around 100 investors,
-  who have up to AU$100 million (US$65 million) in claims.Balanian had boasted of
-  his career experience as a former NASA mission planner, and targeted his fund to
-  wealthy investors with a minimum initial deposit of AU$50,000 (~US$33,000).
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Australian NGS Crypto mining fund
+financial_loss_usd: 42000000
+notes: 'Liquidators have been appointed for three cryptocurrency companies owned by Ash Balanian. DCA Capital, Digital Commodity
+  Assets, and the Digital Commodity Assets Fund have all entered liquidation after investors raised red flags about the fund''s
+  management and licensure.So far, losses are estimated to affect around 100 investors, who have up to AU$100 million (US$65
+  million) in claims.Balanian had boasted of his career experience as a former NASA mission planner, and targeted his fund
+  to wealthy investors with a minimum initial deposit of AU$50,000 (~US$33,000).
 
 
   Total loss estimated at $65,000,000.'

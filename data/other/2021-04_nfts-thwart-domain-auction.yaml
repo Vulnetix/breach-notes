@@ -3,15 +3,13 @@ source_url: https://domainnamewire.com/2021/12/21/nfts-trip-up-uniregistrys-top-
 date_of_breach: '2021-04-28'
 date_of_disclosure: '2021-04-28'
 category: other
-notes: Frank Schilling, founder of the Uni Naming & Registry (UNR) held an auction
-  for 23 TLDs (the bit at the end of the domain, like .com or .org). These included
-  .link, .help, .game, and even .christmas. The April auction grossed more than $40
-  million, but as of mid-December the transactions had not been completed. This is
-  because UNR attempted to add some marketing flair to the auction by including NFTs
-  for each of the TLDs, to go to the auction winners. ICANN, the group responsible
-  for much of the domain world, objected to and withheld consent for the transactions,
-  writing "we sought to understand the impact of the transactions on the Domain Name
-  System ('DNS'), including how Non-Fungible Tokens (NFTs) created on the Ethereum
-  Name Service (ENS) were being used, and were involved in the transactions. ICANN
-  repeatedly asked UNR for documentation or other information related to NFTs in the
-  hopes that UNR would provide fulsome and complete responses."
+vendor_product: NFTs thwart domain auction
+blockchain: ethereum
+notes: Frank Schilling, founder of the Uni Naming & Registry (UNR) held an auction for 23 TLDs (the bit at the end of the
+  domain, like .com or .org). These included .link, .help, .game, and even .christmas. The April auction grossed more than
+  $40 million, but as of mid-December the transactions had not been completed. This is because UNR attempted to add some marketing
+  flair to the auction by including NFTs for each of the TLDs, to go to the auction winners. ICANN, the group responsible
+  for much of the domain world, objected to and withheld consent for the transactions, writing "we sought to understand the
+  impact of the transactions on the Domain Name System ('DNS'), including how Non-Fungible Tokens (NFTs) created on the Ethereum
+  Name Service (ENS) were being used, and were involved in the transactions. ICANN repeatedly asked UNR for documentation
+  or other information related to NFTs in the hopes that UNR would provide fulsome and complete responses."

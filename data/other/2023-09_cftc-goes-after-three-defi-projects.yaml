@@ -1,12 +1,12 @@
-source_name: '"CFTC Issues Orders Against Operators of Three DeFi Protocols for Offering
-  Illegal Digital Asset Derivatives Trading"'
+source_name: '"CFTC Issues Orders Against Operators of Three DeFi Protocols for Offering Illegal Digital Asset Derivatives
+  Trading"'
 source_url: https://www.cftc.gov/PressRoom/PressReleases/8774-23
 date_of_breach: '2023-09-07'
 date_of_disclosure: '2023-09-07'
 category: other
-notes: 'The CFTC has announced charges and settlements against defi projects Opyn,
-  ZeroEx, and Deidex for various commodities law violations. The projects will pay
-  $250,000, $200,000, and $100,000, respectively, to settle the charges. They have
-  also agreed to cease and desist the activities.The CTFC stated: "Somewhere along
-  the way, DeFi operators got the idea that unlawful transactions become lawful when
-  facilitated by smart contracts. They do not."'
+initial_attack_vector: Regulatory / legal action
+vendor_product: CFTC goes after three defi projects
+notes: 'The CFTC has announced charges and settlements against defi projects Opyn, ZeroEx, and Deidex for various commodities
+  law violations. The projects will pay $250,000, $200,000, and $100,000, respectively, to settle the charges. They have also
+  agreed to cease and desist the activities.The CTFC stated: "Somewhere along the way, DeFi operators got the idea that unlawful
+  transactions become lawful when facilitated by smart contracts. They do not."'

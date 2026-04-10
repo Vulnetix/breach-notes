@@ -1,27 +1,24 @@
-source_name: '"Investors fear millions lost in Pennsylvania’s largest cryptocurrency
-  scandal based in South Philly"'
+source_name: '"Investors fear millions lost in Pennsylvania’s largest cryptocurrency scandal based in South Philly"'
 source_url: https://www.inquirer.com/news/pennsylvania/cryptocurrency-scandal-pennyslvania-millions-feared-lost-20220907.html
 date_of_breach: '2022-09-07'
 date_of_disclosure: '2022-09-07'
 category: data-leak
-notes: 'The Philadelphia Inquirer published a report on VBit Technologies, later Advanced
-  Mining Group, a company that promised investors to buy and operate Bitcoin miners
-  on their behalf and pay them out the returns. Much of the group''s operations relied
-  on a system of "affiliates" bringing in more investors — a sort of suspicious triangular-shaped
-  scheme — and executives and top-performing affiliates enjoyed lavish rewards including
-  expensive wines, six-figure sports cars, and fancy vacations.However, customers
-  trying to withdraw their "rewards" saw increasing delays in receiving their payouts
-  — days, then weeks, then an indefinite pause. A COO hired by the group left the
-  company only three weeks later. On June 27, the group sent an email to its customers
-  explaining that there was a "potential pending settlement" with the SEC — the first
-  customers heard of the existence of any investigation — and that they would no longer
-  serve customers in the U.S. On July 15, the company promised to refund customers
-  what they paid to sign up with the program, but no refunds or further updates have
-  materialized.The company has faced lawsuits in Washington state and Delaware, and
-  apparently operated for two years after executives had acknowledged they were violating
-  securities laws. The Delaware lawsuit describes the operation as a Ponzi scheme,
-  and alleges that the company sold packages that would have required far more computing
-  power than the company actually had access to.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: VBit Technologies Ponzi scheme
+blockchain: bitcoin
+financial_loss_usd: 11000000
+notes: 'The Philadelphia Inquirer published a report on VBit Technologies, later Advanced Mining Group, a company that promised
+  investors to buy and operate Bitcoin miners on their behalf and pay them out the returns. Much of the group''s operations
+  relied on a system of "affiliates" bringing in more investors — a sort of suspicious triangular-shaped scheme — and executives
+  and top-performing affiliates enjoyed lavish rewards including expensive wines, six-figure sports cars, and fancy vacations.However,
+  customers trying to withdraw their "rewards" saw increasing delays in receiving their payouts — days, then weeks, then an
+  indefinite pause. A COO hired by the group left the company only three weeks later. On June 27, the group sent an email
+  to its customers explaining that there was a "potential pending settlement" with the SEC — the first customers heard of
+  the existence of any investigation — and that they would no longer serve customers in the U.S. On July 15, the company promised
+  to refund customers what they paid to sign up with the program, but no refunds or further updates have materialized.The
+  company has faced lawsuits in Washington state and Delaware, and apparently operated for two years after executives had
+  acknowledged they were violating securities laws. The Delaware lawsuit describes the operation as a Ponzi scheme, and alleges
+  that the company sold packages that would have required far more computing power than the company actually had access to.
 
 
   Total loss estimated at $11,000,000.'

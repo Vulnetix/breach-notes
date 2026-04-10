@@ -3,18 +3,15 @@ source_url: https://twitter.com/zachxbt/status/1493572811700387842
 date_of_breach: '2022-02-15'
 date_of_disclosure: '2022-02-15'
 category: other
-notes: More shadiness emerges around the Jacked Ape Club as it's discovered that the
-  popular NFT influencer account Morgan (aka @helloimmorgan and morgan.eth) failed
-  to disclose being paid to promote the project, even directly denying it at one point.
-  After the JAC deal was uncovered, someone asked her how many other projects had
-  paid her that she hadn't disclosed, and she replied "I haven't been paid for anything
-  except this one". However, it appears she has been compensated for multiple other
-  giveaways for NFT projects including WomenOfCrypto and Squiggles.Last year Morgan
-  was caught up in scandal after it appeared she had bought a $24,000 Mutant Ape NFT
-  while simultaneously running a GoFundMe trying to raise $20,000 for medical bills
-  for her grandmother; she claims that the GoFundMe predated the MAYC purchase (though
-  that seems to be in some doubt as well) and that all GFM funds went to her grandmother.
-  Separately from that incident, she also created an NFT project called "Grumpkins"
-  that was supposed to give 20% of profits towards children with cleft palates and
-  also her grandmother's fund; after launching the project she quietly changed the
-  donation amount to 10%.
+vendor_product: helloimmorgan fails to disclose paid promotions
+blockchain: ethereum
+notes: More shadiness emerges around the Jacked Ape Club as it's discovered that the popular NFT influencer account Morgan
+  (aka @helloimmorgan and morgan.eth) failed to disclose being paid to promote the project, even directly denying it at one
+  point. After the JAC deal was uncovered, someone asked her how many other projects had paid her that she hadn't disclosed,
+  and she replied "I haven't been paid for anything except this one". However, it appears she has been compensated for multiple
+  other giveaways for NFT projects including WomenOfCrypto and Squiggles.Last year Morgan was caught up in scandal after it
+  appeared she had bought a $24,000 Mutant Ape NFT while simultaneously running a GoFundMe trying to raise $20,000 for medical
+  bills for her grandmother; she claims that the GoFundMe predated the MAYC purchase (though that seems to be in some doubt
+  as well) and that all GFM funds went to her grandmother. Separately from that incident, she also created an NFT project
+  called "Grumpkins" that was supposed to give 20% of profits towards children with cleft palates and also her grandmother's
+  fund; after launching the project she quietly changed the donation amount to 10%.

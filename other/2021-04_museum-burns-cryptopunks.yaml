@@ -1,15 +1,14 @@
-source_name: '"Into the ether: How a German museum accidentally lost access to two
-  highly valuable NFTs"'
+source_name: '"Into the ether: How a German museum accidentally lost access to two highly valuable NFTs"'
 source_url: https://www.theartnewspaper.com/2022/01/21/a-german-museum-has-accidentally-lost-access-to-two-highly-valuable-nfts
 date_of_breach: '2021-04-21'
 date_of_disclosure: '2021-04-21'
 category: other
-notes: An employee of the ZKM Centre for Art and Media in Karlsruhe accidentally sent
-  two of their four Cryptopunk NFTs back to its smart contract address. This is referred
-  to as "burning" the NFTs, because the address is inaccessible and the NFTs are permanently
-  impossible to trade as a result. The employee had copied the Cryptopunks contract
-  address while browsing Etherscan, and didn't realize that was what he was pasting
-  while making the transfer — wallet addresses are long hex strings like 0xb47e3cd&#8203;837ddf8e4c&#8203;57f05d70a&#8203;b865de6e&#8203;193bbb
-  and are prone to errors like this since they are not easily distinguished at a glance.
-  The two NFTs were originally acquired for the museum for approximately $100 each
+vendor_product: Museum burns Cryptopunks
+blockchain: ethereum
+notes: An employee of the ZKM Centre for Art and Media in Karlsruhe accidentally sent two of their four Cryptopunk NFTs back
+  to its smart contract address. This is referred to as "burning" the NFTs, because the address is inaccessible and the NFTs
+  are permanently impossible to trade as a result. The employee had copied the Cryptopunks contract address while browsing
+  Etherscan, and didn't realize that was what he was pasting while making the transfer — wallet addresses are long hex strings
+  like 0xb47e3cd&#8203;837ddf8e4c&#8203;57f05d70a&#8203;b865de6e&#8203;193bbb and are prone to errors like this since they
+  are not easily distinguished at a glance. The two NFTs were originally acquired for the museum for approximately $100 each
   in 2017, and are individually valued at around $187,000 as of January 2022.

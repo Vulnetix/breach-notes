@@ -3,15 +3,13 @@ source_url: https://cointelegraph.com/news/usdr-stablecoin-depeg-liquid-dai-trea
 date_of_breach: '2023-10-12'
 date_of_disclosure: '2023-10-12'
 category: other
-notes: The real-estate-backed US dollar stablecoin "Real USD" (aka USDR) lost its
-  peg, dropping from $1 to around $0.53. The website for the stablecoin was — even
-  after the depeg — promising customers 16.39% yields.The de-peg occurred amid a "liquidity
-  crunch" as holders rushed to redeem their USDR for the DAI stablecoin, draining
-  the project of its DAI reserves. The team behind the project, TangibleDAO, issued
-  a statement stating that "the real estate and digital assets backing USDR still
-  exist and will be used to support redemptions." However, despite their insistence
-  that the problem is just a liquidity issue rather than a solvency one, a dashboard
-  on their own website showed that the stablecoin isn't fully backed and has a deficit
-  of around $3.4 million.In a related incident, a trader trying to swap their $131,350
-  in USDR for the USDC stablecoin lost every penny of it when their transaction was
-  arbitraged by a MEV bot.
+initial_attack_vector: MEV / sandwich attack
+vendor_product: USDR stablecoin de-pegs
+notes: The real-estate-backed US dollar stablecoin "Real USD" (aka USDR) lost its peg, dropping from $1 to around $0.53. The
+  website for the stablecoin was — even after the depeg — promising customers 16.39% yields.The de-peg occurred amid a "liquidity
+  crunch" as holders rushed to redeem their USDR for the DAI stablecoin, draining the project of its DAI reserves. The team
+  behind the project, TangibleDAO, issued a statement stating that "the real estate and digital assets backing USDR still
+  exist and will be used to support redemptions." However, despite their insistence that the problem is just a liquidity issue
+  rather than a solvency one, a dashboard on their own website showed that the stablecoin isn't fully backed and has a deficit
+  of around $3.4 million.In a related incident, a trader trying to swap their $131,350 in USDR for the USDC stablecoin lost
+  every penny of it when their transaction was arbitraged by a MEV bot.

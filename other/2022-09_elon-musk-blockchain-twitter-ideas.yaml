@@ -3,28 +3,21 @@ source_url: https://time.com/6218578/elon-musk-texts-twitter/
 date_of_breach: '2022-09-29'
 date_of_disclosure: '2022-09-29'
 category: other
-notes: 'Texts exposed in the discovery process during the Elon Musk v. Twitter lawsuit
-  have exposed not just a number of high-profile people embarrassingly simping for
-  Musk, but also Musk''s ideas about Twitter-but-on-the-blockchain.In a text sent
-  to his brother, Musk wrote, "I have an idea for a blockchain social media system
-  that does both payments and short text messages/links like twitter. You have to
-  pay a tiny amount to register your message on the chain, which will cut out the
-  vast majority of spam and bots. There is no throat to choke, so free speech is guaranteed."
-  In another message, to the president of his Boring Company, Musk narrowed in on
-  an amount: 0.1 Doge per tweet or retweet. At today''s prices, at 0.1 Doge per tweet,
-  1¢ would buy you about 160 tweets.Musk''s idea that there is some magical amount
-  of money that ordinary people are willing to pay to send out a tweet or a retweet,
-  but that spammers are not willing to pay to spam, seems preposterous. And given
-  that "free speech is guaranteed" and blockchains are immutable, he would really
-  need to hope that he finds this amount, because otherwise there''s going to be a
-  lot of spam permanently stored on Web3 Twitter.As with many of Musk''s ideas, the
-  idea for a blockchain-based "free speech" social network is not new. On one of the
-  more popular such services, BitClout, the home page shows posts such as "are there
-  actually real ppl here, or only ''marketing'' and ai-generated art?" It costs $0.01
-  to create a profile or to begin a tutorial on how to use the site. Out of the list
-  of ten top-ranked creators on the site, the top two (Elon Musk and Naval Ravikant)
-  haven''t even signed up yet, and another five haven''t posted in months.Musk appeared
-  to later toss out his blockchain social network idea, though not for spam reasons:
-  "Blockchain twitter isn''t possible, as the bandwidth and latency requirements cannot
-  be supported by a peer to peer network, unless those ''peers'' are absolutely gigantic,
-  thus defeating the purpose of a decentralised network".'
+vendor_product: Elon Musk blockchain Twitter ideas
+notes: 'Texts exposed in the discovery process during the Elon Musk v. Twitter lawsuit have exposed not just a number of high-profile
+  people embarrassingly simping for Musk, but also Musk''s ideas about Twitter-but-on-the-blockchain.In a text sent to his
+  brother, Musk wrote, "I have an idea for a blockchain social media system that does both payments and short text messages/links
+  like twitter. You have to pay a tiny amount to register your message on the chain, which will cut out the vast majority
+  of spam and bots. There is no throat to choke, so free speech is guaranteed." In another message, to the president of his
+  Boring Company, Musk narrowed in on an amount: 0.1 Doge per tweet or retweet. At today''s prices, at 0.1 Doge per tweet,
+  1¢ would buy you about 160 tweets.Musk''s idea that there is some magical amount of money that ordinary people are willing
+  to pay to send out a tweet or a retweet, but that spammers are not willing to pay to spam, seems preposterous. And given
+  that "free speech is guaranteed" and blockchains are immutable, he would really need to hope that he finds this amount,
+  because otherwise there''s going to be a lot of spam permanently stored on Web3 Twitter.As with many of Musk''s ideas, the
+  idea for a blockchain-based "free speech" social network is not new. On one of the more popular such services, BitClout,
+  the home page shows posts such as "are there actually real ppl here, or only ''marketing'' and ai-generated art?" It costs
+  $0.01 to create a profile or to begin a tutorial on how to use the site. Out of the list of ten top-ranked creators on the
+  site, the top two (Elon Musk and Naval Ravikant) haven''t even signed up yet, and another five haven''t posted in months.Musk
+  appeared to later toss out his blockchain social network idea, though not for spam reasons: "Blockchain twitter isn''t possible,
+  as the bandwidth and latency requirements cannot be supported by a peer to peer network, unless those ''peers'' are absolutely
+  gigantic, thus defeating the purpose of a decentralised network".'

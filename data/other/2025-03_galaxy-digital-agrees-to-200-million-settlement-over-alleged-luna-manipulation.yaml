@@ -3,13 +3,12 @@ source_url: https://www.wsj.com/livecoverage/stock-market-today-dow-nasdaq-sp500
 date_of_breach: '2025-03-28'
 date_of_disclosure: '2025-03-28'
 category: other
-notes: While many crypto firms have escaped enforcement actions from federal regulators
-  thanks to massive industry lobbying, state enforcers are still on the beat. Crypto
-  investment firm Galaxy Digital, headed by Mike Novogratz, has agreed to pay $200
-  million to settle market manipulation charges from the New York Attorney General,
-  which accused Novogratz and his firm of promoting the token without disclosing they
-  had acquired discounted tokens they were selling off at substantial profit.In addition
-  to promoting the token through the usual means, Novogratz got a large tattoo on
-  his shoulder representing the token. Sadly for him, although the LUNA token would
-  later fade away after crashing in spectacular (and fraudulent) fashion, tattoos
+initial_attack_vector: Regulatory / legal action
+vendor_product: Galaxy digital agrees to $200 million settlement over alleged LUNA manipulation
+notes: While many crypto firms have escaped enforcement actions from federal regulators thanks to massive industry lobbying,
+  state enforcers are still on the beat. Crypto investment firm Galaxy Digital, headed by Mike Novogratz, has agreed to pay
+  $200 million to settle market manipulation charges from the New York Attorney General, which accused Novogratz and his firm
+  of promoting the token without disclosing they had acquired discounted tokens they were selling off at substantial profit.In
+  addition to promoting the token through the usual means, Novogratz got a large tattoo on his shoulder representing the token.
+  Sadly for him, although the LUNA token would later fade away after crashing in spectacular (and fraudulent) fashion, tattoos
   are forever.

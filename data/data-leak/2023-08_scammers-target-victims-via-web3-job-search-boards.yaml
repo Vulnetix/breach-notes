@@ -3,19 +3,19 @@ source_url: https://twitter.com/Paubonet1/status/1689033205343473664
 date_of_breach: '2023-08-08'
 date_of_disclosure: '2023-08-08'
 category: data-leak
-notes: 'Scammers are constantly coming up with creative new ways to pull off their
-  scams, and the latest seems to be targeting web3-interested individuals via dedicated
-  web3 jobs portals. One Twitter user described an experience in which he applied
-  for a beta testing job for a play-to-earn crypto game, only to have his wallet drained
-  when he downloaded what was supposed to be the game file, but was actually malware.
-  He lost 875 ARB ($1,032), 60 OP ($140), and various other tokens."Jobless and a
-  bit poorer, thanks guys!" he wrote. "You''re passionate about its technology, you
-  wanna be part of it. You DCA. You hodl. You do everything you can to do things right...
-  you''re passionate, love the space, the tech. The people. Your willingness to get
-  a job in Web3 is enormous! I stand for on-chain values, and I wanna be a part of
-  the wave!" he wrote in frustration, trying to explain how he''d gotten scammed.
-  "The apparent legitimacy of these [web3 job listing] sites made me remove the ''watch
-  out filter'', and boom."
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Scammers target victims via web3 job search boards
+blockchain: ethereum
+financial_loss_usd: 1172
+notes: 'Scammers are constantly coming up with creative new ways to pull off their scams, and the latest seems to be targeting
+  web3-interested individuals via dedicated web3 jobs portals. One Twitter user described an experience in which he applied
+  for a beta testing job for a play-to-earn crypto game, only to have his wallet drained when he downloaded what was supposed
+  to be the game file, but was actually malware. He lost 875 ARB ($1,032), 60 OP ($140), and various other tokens."Jobless
+  and a bit poorer, thanks guys!" he wrote. "You''re passionate about its technology, you wanna be part of it. You DCA. You
+  hodl. You do everything you can to do things right... you''re passionate, love the space, the tech. The people. Your willingness
+  to get a job in Web3 is enormous! I stand for on-chain values, and I wanna be a part of the wave!" he wrote in frustration,
+  trying to explain how he''d gotten scammed. "The apparent legitimacy of these [web3 job listing] sites made me remove the
+  ''watch out filter'', and boom."
 
 
   Total loss estimated at $1,172.'

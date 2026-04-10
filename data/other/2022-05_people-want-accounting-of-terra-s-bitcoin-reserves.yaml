@@ -3,21 +3,18 @@ source_url: https://www.bloomberg.com/news/articles/2022-05-14/whereabouts-of-te
 date_of_breach: '2022-05-15'
 date_of_disclosure: '2022-05-15'
 category: other
-notes: Now that the dust is settling somewhat from the dramatic collapse of Terra,
-  people are beginning to wonder when they'll hear more about what exactly happened
-  to the 80,394 Bitcoin (priced at $3.5 billion at time of purchase; priced closer
-  to $2.5 billion at the time of writing this entry) that previously belonged to Luna
-  Foundation Guard (LFG). The project had previously purchased the assets to hold
-  as reserves, and as UST began to lose its peg, LFG announced they would use those
-  reserves to buy UST to help maintain the peg. Over the next few days, the reserves
-  were emptied, but after they were moved to the Gemini exchange they became impossible
-  to trace further. Although transactions are usually quite traceable on the blockchain,
-  when funds are moved to services like the Gemini exchange, they become impossible
-  to trace using public data because of how exchanges pool funds and transactions
-  internally.Terraform Labs CEO Do Kwon tweeted on May 13 that "We are currently working
-  on documenting the use of the LFG BTC reserves during the depegging event. Please
-  be patient with us as our teams are juggling multiple tasks at the same time." It's
-  not clear when this documentation will be released. Binance CEO Changpeng Zhao joined
-  the group of people asking about the BTC reserves, tweeting, "I would like to see
-  more transparency from them. Much more! Including specific on-chain transactions
-  (txids) of all the funds. Relying on 3rd party analysis is not sufficient or accurate."
+vendor_product: People want accounting of Terra's Bitcoin reserves
+blockchain: terra, bitcoin
+notes: Now that the dust is settling somewhat from the dramatic collapse of Terra, people are beginning to wonder when they'll
+  hear more about what exactly happened to the 80,394 Bitcoin (priced at $3.5 billion at time of purchase; priced closer to
+  $2.5 billion at the time of writing this entry) that previously belonged to Luna Foundation Guard (LFG). The project had
+  previously purchased the assets to hold as reserves, and as UST began to lose its peg, LFG announced they would use those
+  reserves to buy UST to help maintain the peg. Over the next few days, the reserves were emptied, but after they were moved
+  to the Gemini exchange they became impossible to trace further. Although transactions are usually quite traceable on the
+  blockchain, when funds are moved to services like the Gemini exchange, they become impossible to trace using public data
+  because of how exchanges pool funds and transactions internally.Terraform Labs CEO Do Kwon tweeted on May 13 that "We are
+  currently working on documenting the use of the LFG BTC reserves during the depegging event. Please be patient with us as
+  our teams are juggling multiple tasks at the same time." It's not clear when this documentation will be released. Binance
+  CEO Changpeng Zhao joined the group of people asking about the BTC reserves, tweeting, "I would like to see more transparency
+  from them. Much more! Including specific on-chain transactions (txids) of all the funds. Relying on 3rd party analysis is
+  not sufficient or accurate."

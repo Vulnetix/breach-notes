@@ -1,14 +1,13 @@
-source_name: '"Spanish Fork Man and His Two Businesses Charged with Wire Fraud and
-  Money Laundering Offenses"'
+source_name: '"Spanish Fork Man and His Two Businesses Charged with Wire Fraud and Money Laundering Offenses"'
 source_url: https://www.justice.gov/usao-ut/pr/spanish-fork-man-and-his-two-businesses-charged-wire-fraud-and-money-laundering-offenses
 date_of_breach: '2022-09-22'
 date_of_disclosure: '2022-09-22'
 category: data-leak
-notes: The U.S. Attorney's Office for the District of Utah announced seven felony
-  charges against a man who is accused of several crypto-related scams.In one, he
-  conned two victims for $1.7 million by claiming to sell a powerful Bitcoin miner
-  that didn't exist; instead, a fake machine in the office was connected to a monitor
-  displaying prerecorded video to make it appear as though the machine was mining
-  cryptocurrencies.In another, he created a business he claimed would "Bank the Unbankable"
-  by providing financial services to people who couldn't access them. Instead, the
-  millions of dollars were spent on unrelated businesses.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Bitex founder charged
+notes: The U.S. Attorney's Office for the District of Utah announced seven felony charges against a man who is accused of
+  several crypto-related scams.In one, he conned two victims for $1.7 million by claiming to sell a powerful Bitcoin miner
+  that didn't exist; instead, a fake machine in the office was connected to a monitor displaying prerecorded video to make
+  it appear as though the machine was mining cryptocurrencies.In another, he created a business he claimed would "Bank the
+  Unbankable" by providing financial services to people who couldn't access them. Instead, the millions of dollars were spent
+  on unrelated businesses.

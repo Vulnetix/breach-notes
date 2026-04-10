@@ -3,17 +3,17 @@ source_url: https://x.com/zachxbt/status/1800906884666528071
 date_of_breach: '2024-06-12'
 date_of_disclosure: '2024-06-12'
 category: data-leak
-notes: 'Attentive phishers noticed when Andreessen Horowitz partner Peter Lauten changed
-  his Twitter username from @peter_lauten to @lauten, and snapped up the previous
-  username. They then began contacting various targets in the cryptocurrency world,
-  asking to set up meetings to arrange appearances on the venture capital firm''s
-  crypto podcast.The scammers followed a familiar playbook in which they asked their
-  targets to download video call software called "Vortax", which was actually wallet
-  draining malware. However, these scammers had a leg up on some others who have been
-  running that scheme: the Andreessen Horowitz website still listed Lauten''s old
-  username on their website, giving even skeptical victims some reassurance that the
-  account was legitimate.According to crypto sleuth zachxbt, who first reported on
-  this incident, one victim lost $245,000 when his wallets were drained by the malware.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Andreessen Horowitz phishing
+financial_loss_usd: 245000
+notes: 'Attentive phishers noticed when Andreessen Horowitz partner Peter Lauten changed his Twitter username from @peter_lauten
+  to @lauten, and snapped up the previous username. They then began contacting various targets in the cryptocurrency world,
+  asking to set up meetings to arrange appearances on the venture capital firm''s crypto podcast.The scammers followed a familiar
+  playbook in which they asked their targets to download video call software called "Vortax", which was actually wallet draining
+  malware. However, these scammers had a leg up on some others who have been running that scheme: the Andreessen Horowitz
+  website still listed Lauten''s old username on their website, giving even skeptical victims some reassurance that the account
+  was legitimate.According to crypto sleuth zachxbt, who first reported on this incident, one victim lost $245,000 when his
+  wallets were drained by the malware.
 
 
   Total loss estimated at $245,000.'

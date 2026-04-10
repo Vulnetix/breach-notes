@@ -1,12 +1,14 @@
-source_name: '"The Biggest Threat to Trust in Cryptocurrency: Rug Pulls Put 2021 Scam
-  Revenue Close to All-time Highs"'
+source_name: '"The Biggest Threat to Trust in Cryptocurrency: Rug Pulls Put 2021 Scam Revenue Close to All-time Highs"'
 source_url: https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/
 date_of_breach: '2021-07-31'
 date_of_disclosure: '2021-07-31'
 category: data-leak
-notes: 'Finiko, a Russian operation that turned out to be a Ponzi scheme, collapsed
-  in July 2021 after defrauding approximately $95 million from people. Investors,
-  facing difficult economic conditions in Russia, were promised they could see returns
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Finiko Ponzi scheme
+blockchain: bitcoin, ethereum
+financial_loss_usd: 95000000
+notes: 'Finiko, a Russian operation that turned out to be a Ponzi scheme, collapsed in July 2021 after defrauding approximately
+  $95 million from people. Investors, facing difficult economic conditions in Russia, were promised they could see returns
   of up to 30% a month.
 
 

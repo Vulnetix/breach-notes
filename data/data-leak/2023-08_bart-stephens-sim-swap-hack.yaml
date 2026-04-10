@@ -1,15 +1,16 @@
-source_name: '"Blockchain Capital founder allegedly loses crypto worth $6.3 million
-  in SIM swap attack"'
+source_name: '"Blockchain Capital founder allegedly loses crypto worth $6.3 million in SIM swap attack"'
 source_url: https://blockworks.co/news/stephens-blockchain-capital-hack
 date_of_breach: '2023-08-16'
 date_of_disclosure: '2023-08-16'
 category: data-leak
-notes: 'Blockchain Capital co-founder Bart Stephens has filed a lawsuit against as-yet-unknown
-  individuals who he says stole $6.3 million in cryptocurrency from him. The attackers
-  used a SIM swap attack to gain access to his crypto wallet, which they then drained
-  of various tokens.The attackers also tried to steal around 80 BTC and 6,500 ETH
-  (currently worth over $12.6 million) from a cold wallet belonging to Stephens, but
-  were thwarted by an email alert sent to Blockchain Capital employee.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Bart Stephens SIM swap
+financial_loss_usd: 6300000
+notes: 'Blockchain Capital co-founder Bart Stephens has filed a lawsuit against as-yet-unknown individuals who he says stole
+  $6.3 million in cryptocurrency from him. The attackers used a SIM swap attack to gain access to his crypto wallet, which
+  they then drained of various tokens.The attackers also tried to steal around 80 BTC and 6,500 ETH (currently worth over
+  $12.6 million) from a cold wallet belonging to Stephens, but were thwarted by an email alert sent to Blockchain Capital
+  employee.
 
 
   Total loss estimated at $6,300,000.'

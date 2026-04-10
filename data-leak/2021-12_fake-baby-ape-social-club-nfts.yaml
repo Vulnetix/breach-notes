@@ -3,9 +3,12 @@ source_url: https://twitter.com/NFTtheft/status/1476262879238111232
 date_of_breach: '2021-12-29'
 date_of_disclosure: '2021-12-29'
 category: data-leak
-notes: 'A clone of Solana''s popular "Baby Ape Social Club" project popped up on OpenSea,
-  using the Polygon blockchain. The project enjoyed 14.3 ETH in trading volume (about
-  $52,000) before OpenSea finally took them down.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fake Baby Ape Social Club NFTs
+blockchain: polygon
+financial_loss_usd: 52000
+notes: 'A clone of Solana''s popular "Baby Ape Social Club" project popped up on OpenSea, using the Polygon blockchain. The
+  project enjoyed 14.3 ETH in trading volume (about $52,000) before OpenSea finally took them down.
 
 
   Total loss estimated at $52,000.'

@@ -3,10 +3,10 @@ source_url: https://twitter.com/codenamehugs/status/1481356100582588416
 date_of_breach: '2022-01-12'
 date_of_disclosure: '2022-01-12'
 category: other
-notes: Global Game Jam, an annual event where people collaborate to make video games,
-  proudly plugged The Sandbox as their "primary headline sponsor" on Twitter. The
-  Sandbox is a platform for selling game assets on the Ethereum blockchain. After
-  swift backlash, GGJ deleted the tweet and deleted references to blockchains from
-  The Sandbox's description in their sponsor list. Needless to say this didn't go
-  unnoticed, appearing to many as an attempt to deceive their community. GGJ eventually
+vendor_product: Global Game Jam sponsorship controversy
+blockchain: ethereum
+notes: Global Game Jam, an annual event where people collaborate to make video games, proudly plugged The Sandbox as their
+  "primary headline sponsor" on Twitter. The Sandbox is a platform for selling game assets on the Ethereum blockchain. After
+  swift backlash, GGJ deleted the tweet and deleted references to blockchains from The Sandbox's description in their sponsor
+  list. Needless to say this didn't go unnoticed, appearing to many as an attempt to deceive their community. GGJ eventually
   apologized for this action, and dropped The Sandbox as a sponsor.

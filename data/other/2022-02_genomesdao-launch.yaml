@@ -3,12 +3,12 @@ source_url: https://genomes.gitbook.io/genomes.io-docs/
 date_of_breach: '2022-02-28'
 date_of_disclosure: '2022-02-28'
 category: other
-notes: GenomesDAO has created a platform which they promise will allow people who
-  wish to sell their genetic data to have more control over it. They write that genetic
-  data is "data that can be exploited in ways we cannot even imagine yet" and go into
-  a list of these possible exploits — and this is apparently why you should definitely
-  entrust it to a company building in a space known for its endless hacks. The company
-  promises to help users earn money through selling access to their genome — though
-  of course this isn't until step five in their roadmap. They're currently at step
-  two or step three, depending on which version of your roadmap you look at; both
-  steps seem focused on creating cat NFTs out of your genetic data for some reason.
+vendor_product: GenomesDAO launch
+blockchain: ethereum
+notes: GenomesDAO has created a platform which they promise will allow people who wish to sell their genetic data to have
+  more control over it. They write that genetic data is "data that can be exploited in ways we cannot even imagine yet" and
+  go into a list of these possible exploits — and this is apparently why you should definitely entrust it to a company building
+  in a space known for its endless hacks. The company promises to help users earn money through selling access to their genome
+  — though of course this isn't until step five in their roadmap. They're currently at step two or step three, depending on
+  which version of your roadmap you look at; both steps seem focused on creating cat NFTs out of your genetic data for some
+  reason.

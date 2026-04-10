@@ -3,16 +3,14 @@ source_url: https://twitter.com/zachxbt/status/1669783717236342785
 date_of_breach: '2023-06-16'
 date_of_disclosure: '2023-06-16'
 category: other
-notes: Crypto personality and creator of C.R.E.A.M. Finance Jeffrey Huang, aka "Machi
-  Big Brother", has filed a defamation lawsuit against crypto sleuth zachxbt. Huang
-  alleges that zachxbt has defamed Huang with false claims via a Medium article that
-  accuses Huang of multiple pump-and-dump schemes that enriched Huang to the tune
-  of 22,000 ETH (~$38 million at today's prices).Huang is also annoyed at zachxbt's
-  observations about the multiple hacks of C.R.E.A.M. Finance, which zachxbt wrote
-  had been exploited three times "due to negligence". "Putting aside that Cream Finance
-  was exploited two, not three times", Huang hilariously writes in the lawsuit, taking
-  issue with the fact that zachxbt supposedly intentionally omitted that some funds
-  were returned and that Huang claims to have been no longer involved with the project
-  by that point. It's not made clear in the lawsuit which of the three hacks recorded
-  on Web3 is Going Just Great — to the tune of $37.5 million (February 2021), $25–30
-  million (August 2021), and $130 million (October 27, 2021) — supposedly didn't happen.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Machi Big Brother sues zachxbt
+notes: Crypto personality and creator of C.R.E.A.M. Finance Jeffrey Huang, aka "Machi Big Brother", has filed a defamation
+  lawsuit against crypto sleuth zachxbt. Huang alleges that zachxbt has defamed Huang with false claims via a Medium article
+  that accuses Huang of multiple pump-and-dump schemes that enriched Huang to the tune of 22,000 ETH (~$38 million at today's
+  prices).Huang is also annoyed at zachxbt's observations about the multiple hacks of C.R.E.A.M. Finance, which zachxbt wrote
+  had been exploited three times "due to negligence". "Putting aside that Cream Finance was exploited two, not three times",
+  Huang hilariously writes in the lawsuit, taking issue with the fact that zachxbt supposedly intentionally omitted that some
+  funds were returned and that Huang claims to have been no longer involved with the project by that point. It's not made
+  clear in the lawsuit which of the three hacks recorded on Web3 is Going Just Great — to the tune of $37.5 million (February
+  2021), $25–30 million (August 2021), and $130 million (October 27, 2021) — supposedly didn't happen.

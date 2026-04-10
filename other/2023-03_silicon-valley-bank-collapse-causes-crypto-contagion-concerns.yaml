@@ -1,15 +1,13 @@
-source_name: '"Scrutiny Falls on $43B USDC Stablecoin’s Cash Reserves at Failed Silicon
-  Valley Bank"'
+source_name: '"Scrutiny Falls on $43B USDC Stablecoin’s Cash Reserves at Failed Silicon Valley Bank"'
 source_url: https://www.coindesk.com/markets/2023/03/10/scrutiny-falls-on-43b-usdc-stablecoins-cash-reserves-at-failed-silicon-valley-bank/
 date_of_breach: '2023-03-10'
 date_of_disclosure: '2023-03-10'
 category: other
-notes: Although it doesn't seem that it was exposure to the crypto industry that did
-  in Silicon Valley Bank (unlike with fellow failed bank Silvergate), the crypto industry
-  has been showing signs of concern that SVB's collapse may impact crypto businesses.
-  In particular, there are fears around the fact that Circle, the company that backs
-  the major USDC stablecoin, kept some of its cash reserves with SVB. Circle disclosed
-  that around $3.3 billion, or around one-third of USDC's $9.88 billion in cash reserves  backing
-  USDC, was kept with Silicon Valley Bank.SVB was also the preferred bank for various
-  giants in the crypto VC world, including Andreessen Horowitz and Sequoia Capital.
-  Pantera Capital also used SVB as a custodian.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Silicon Valley Bank
+notes: Although it doesn't seem that it was exposure to the crypto industry that did in Silicon Valley Bank (unlike with fellow
+  failed bank Silvergate), the crypto industry has been showing signs of concern that SVB's collapse may impact crypto businesses.
+  In particular, there are fears around the fact that Circle, the company that backs the major USDC stablecoin, kept some
+  of its cash reserves with SVB. Circle disclosed that around $3.3 billion, or around one-third of USDC's $9.88 billion in
+  cash reserves  backing USDC, was kept with Silicon Valley Bank.SVB was also the preferred bank for various giants in the
+  crypto VC world, including Andreessen Horowitz and Sequoia Capital. Pantera Capital also used SVB as a custodian.

@@ -4,7 +4,7 @@ date_of_breach: '2025-04-27'
 date_of_disclosure: '2025-04-27'
 category: data-leak
 initial_attack_vector: On-chain theft (attributed by zachxbt)
-vendor_product: $330 million in Bitcoin apparently stolen; laundering spikes Monero price by over 40%
+vendor_product: $330 million in Bitcoin apparently stolen; laundering spikes Monero
 blockchain: monero, bitcoin
 financial_loss_usd: 330700000
 notes: '3,250 BTC (~$330 million) were apparently stolen from a bitcoin holder and then quickly moved through multiple exchanges

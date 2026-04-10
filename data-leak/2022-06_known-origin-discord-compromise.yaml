@@ -3,8 +3,9 @@ source_url: https://twitter.com/KnownOrigin_io/status/1536552532738285568
 date_of_breach: '2022-06-14'
 date_of_disclosure: '2022-06-14'
 category: data-leak
-notes: The Discord server for Known Origin, a fairly major NFT platform, was compromised.
-  The scammer used their access to advertise a fake free NFT mint, which actually
-  would steal NFTs if a user tried to connect their wallet.This is the latest in a
-  long string of Discord compromises. Other hacked servers in recent days included
-  those for Curiosities, Meta Hunters, Parallel, Goat Society, RFTP, and Gooniez.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Known Origin Discord compromise
+notes: The Discord server for Known Origin, a fairly major NFT platform, was compromised. The scammer used their access to
+  advertise a fake free NFT mint, which actually would steal NFTs if a user tried to connect their wallet.This is the latest
+  in a long string of Discord compromises. Other hacked servers in recent days included those for Curiosities, Meta Hunters,
+  Parallel, Goat Society, RFTP, and Gooniez.

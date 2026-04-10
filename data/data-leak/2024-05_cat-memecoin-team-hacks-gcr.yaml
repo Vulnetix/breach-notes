@@ -3,17 +3,17 @@ source_url: https://x.com/zachxbt/status/1795082820177498349
 date_of_breach: '2024-05-27'
 date_of_disclosure: '2024-05-27'
 category: data-leak
-notes: 'According to crypto sleuth zachxbt, the team behind the Solana-based $CAT
-  memecoin hacked the Twitter account of "Gigantic-Cassocked-Rebirth" (@GCRClassic)
-  crypto influencer.First, the team sniped their own $CAT token launch to obtain 63%
-  of the token supply, ultimately selling a portion of it for around $5 million. Then,
-  they took out $2.3 million and $1 million long positions on the ORDI and ETHFI tokens,
-  respectively. Finally, they posted from the compromised influencer account to shill
-  the ORDI and ETHFI tokens to his massive following. Ultimately, their gambit doesn''t
-  appear to have been incredibly successful: they made around $34,000 on the ORDI
-  position, but lost $3,500 on the ETHFI position. However, as zachxbt noted, it''s
-  possible they also opened positions on centralized exchanges where the outcomes
-  aren''t publicly visible.
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: CAT memecoin team
+blockchain: ethereum
+financial_loss_usd: 30500
+notes: 'According to crypto sleuth zachxbt, the team behind the Solana-based $CAT memecoin hacked the Twitter account of "Gigantic-Cassocked-Rebirth"
+  (@GCRClassic) crypto influencer.First, the team sniped their own $CAT token launch to obtain 63% of the token supply, ultimately
+  selling a portion of it for around $5 million. Then, they took out $2.3 million and $1 million long positions on the ORDI
+  and ETHFI tokens, respectively. Finally, they posted from the compromised influencer account to shill the ORDI and ETHFI
+  tokens to his massive following. Ultimately, their gambit doesn''t appear to have been incredibly successful: they made
+  around $34,000 on the ORDI position, but lost $3,500 on the ETHFI position. However, as zachxbt noted, it''s possible they
+  also opened positions on centralized exchanges where the outcomes aren''t publicly visible.
 
 
   Total loss estimated at $30,500.'

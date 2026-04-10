@@ -1,20 +1,16 @@
-source_name: '"Coinbase to Require Recipient Information for Crypto Transfers From
-  Users in Canada, Singapore and Japan"'
+source_name: '"Coinbase to Require Recipient Information for Crypto Transfers From Users in Canada, Singapore and Japan"'
 source_url: https://www.coindesk.com/business/2022/03/25/coinbase-to-require-recipient-information-for-crypto-transfers-from-users-in-canada-singapore-and-japan/
 date_of_breach: '2022-03-26'
 date_of_disclosure: '2022-03-26'
 category: other
-notes: 'Coinbase began sending out notices to its customers who reside in Canada,
-  Singapore, and Japan, to tell them that in early April, they will need to begin
-  inputting information about the recipients of any crypto they send. Coinbase said
-  the change was in order to comply with various regulations imposed by those countries.
-  The specifics differ somewhat between the three countries: for example, in Canada,
-  the verification is only required for amounts above CA$1,000 (about US$800); Japanese
-  users need to provide verification for any amounts, but only if transferring to
-  entities outside of Japan; and Singaporean users need to verify any amounts sent
-  to anyone. Canadian and Singaporean residents will also need to provide the address
-  of the recipient of their funds, whereas Japanese customers only need to supply
-  the name and country of residence.Some Coinbase customers in these jurisdictions
-  seemed less than enthused at the announcement. One tweeted, "Wait, then what''s
-  the point of crypto/blockchain, being outside of fin.system and all.. I may be better
-  off sending fiat money".'
+initial_attack_vector: Regulatory / legal action
+vendor_product: Coinbase requires KYC from more users
+notes: 'Coinbase began sending out notices to its customers who reside in Canada, Singapore, and Japan, to tell them that
+  in early April, they will need to begin inputting information about the recipients of any crypto they send. Coinbase said
+  the change was in order to comply with various regulations imposed by those countries. The specifics differ somewhat between
+  the three countries: for example, in Canada, the verification is only required for amounts above CA$1,000 (about US$800);
+  Japanese users need to provide verification for any amounts, but only if transferring to entities outside of Japan; and
+  Singaporean users need to verify any amounts sent to anyone. Canadian and Singaporean residents will also need to provide
+  the address of the recipient of their funds, whereas Japanese customers only need to supply the name and country of residence.Some
+  Coinbase customers in these jurisdictions seemed less than enthused at the announcement. One tweeted, "Wait, then what''s
+  the point of crypto/blockchain, being outside of fin.system and all.. I may be better off sending fiat money".'

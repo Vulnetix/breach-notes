@@ -3,21 +3,20 @@ source_url: https://twitter.com/cameronmoulene/status/1508479469039718405
 date_of_breach: '2022-03-28'
 date_of_disclosure: '2022-03-28'
 category: data-leak
-notes: 'NFT collector Cameron Moulène was excited to see a link promising a merch
-  drop in the bio of an account with the same branding as Bored Ape Yacht Club, but
-  with the handle BoardApesYC (rather than BoredApesYC). Clicking the link, which
-  matched the BAYC website link except with a character swapped in ("yarht"), the
-  trader connected his wallet and soon found his favorite NFT transferred to the phisher.
-  He had originally purchased Bored Ape #5778, which he described as his "forever
-  ape" that he never planned to sell, in August 2021 for 53.88 ETH ($166,684 at the
-  time). The scammer flipped the Ape within an hour for 110 ETH ($368,660).When chastised
-  by other NFT collectors who assumed he had stored the ape on a hot wallet, Moulène
-  clarified that the NFTs had been stored in a Ledger hardware wallet. He later tweeted,
-  "Since I''ve got a platform, here''s what I learned today: COLD WALLET, does not
-  just mean storing assets in a series of ledgers/trezors. It means a wallet that
-  is NEVER Linked to anything besides MM or OS." Moulène went on to threaten legal
-  action, saying, "Oh I will spend 10x that ape tracking these fucks down and suiting
-  [sic] them into oblivion." and "I''m going to pursue legal action in the states
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Cameron Moulène NFT theft
+blockchain: ethereum
+financial_loss_usd: 368660
+notes: 'NFT collector Cameron Moulène was excited to see a link promising a merch drop in the bio of an account with the same
+  branding as Bored Ape Yacht Club, but with the handle BoardApesYC (rather than BoredApesYC). Clicking the link, which matched
+  the BAYC website link except with a character swapped in ("yarht"), the trader connected his wallet and soon found his favorite
+  NFT transferred to the phisher. He had originally purchased Bored Ape #5778, which he described as his "forever ape" that
+  he never planned to sell, in August 2021 for 53.88 ETH ($166,684 at the time). The scammer flipped the Ape within an hour
+  for 110 ETH ($368,660).When chastised by other NFT collectors who assumed he had stored the ape on a hot wallet, Moulène
+  clarified that the NFTs had been stored in a Ledger hardware wallet. He later tweeted, "Since I''ve got a platform, here''s
+  what I learned today: COLD WALLET, does not just mean storing assets in a series of ledgers/trezors. It means a wallet that
+  is NEVER Linked to anything besides MM or OS." Moulène went on to threaten legal action, saying, "Oh I will spend 10x that
+  ape tracking these fucks down and suiting [sic] them into oblivion." and "I''m going to pursue legal action in the states
   and internationally (if need be) to find the people responsible and hold them accountable."
 
 

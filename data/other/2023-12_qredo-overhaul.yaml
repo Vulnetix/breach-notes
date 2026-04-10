@@ -3,12 +3,11 @@ source_url: https://www.theblock.co/post/268682/qredo-ceo-removed-debt-financing
 date_of_breach: '2023-12-21'
 date_of_disclosure: '2023-12-21'
 category: other
-notes: Despite raising $80 million in February 2022 in a Series A round that saw the
-  company valued at $460 million, the Qredo crypto custody platform just had to secure
-  debt financing to keep the company afloat. Its lead investor also pushed to oust
-  the company's CEO and COO, and shake up the board.Qredo had already been forced
-  to perform layoffs in September and then November, and in November was searching
-  for a rescue after saying their user "activity ha[d] fallen" in the "prolonged cryptowinter".On
-  December 15, Qredo had also announced that they would be shutting down their Ankex
-  trading platform, which was previously led by Michael Moro, who was previously booted
-  as CEO from Genesis Trading.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Qredo overhaul
+notes: Despite raising $80 million in February 2022 in a Series A round that saw the company valued at $460 million, the Qredo
+  crypto custody platform just had to secure debt financing to keep the company afloat. Its lead investor also pushed to oust
+  the company's CEO and COO, and shake up the board.Qredo had already been forced to perform layoffs in September and then
+  November, and in November was searching for a rescue after saying their user "activity ha[d] fallen" in the "prolonged cryptowinter".On
+  December 15, Qredo had also announced that they would be shutting down their Ankex trading platform, which was previously
+  led by Michael Moro, who was previously booted as CEO from Genesis Trading.

@@ -3,15 +3,16 @@ source_url: https://decrypt.co/153744/pepe-plummets-team-transfers-million-dolla
 date_of_breach: '2023-08-24'
 date_of_disclosure: '2023-08-24'
 category: data-leak
-notes: 'Holders of the $PEPE memecoin sold en masse after the PEPE multisig wallet
-  transferred more than 16 trillion $PEPE (~$16.9 million) to crypto exchanges. Although
-  the multisig previously required five of eight signatories to approve transactions,
-  just before the massive transfer, the multisig was changed to require only two of
-  eight signatures — a much lower level of security.The transfers and change to the
-  multisig sparked fears that the project was rug pulling, or had been hacked. This
-  led to a massive $PEPE sell-off, with the token plunging around 17%.A day after
-  the transfers, a PEPE team member posted on the project''s Twitter account, alleging
-  that the transfers were indeed theft by three of the project''s other team members.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Suspicious PEPE transfers
+blockchain: ethereum
+financial_loss_usd: 16900000
+notes: 'Holders of the $PEPE memecoin sold en masse after the PEPE multisig wallet transferred more than 16 trillion $PEPE
+  (~$16.9 million) to crypto exchanges. Although the multisig previously required five of eight signatories to approve transactions,
+  just before the massive transfer, the multisig was changed to require only two of eight signatures — a much lower level
+  of security.The transfers and change to the multisig sparked fears that the project was rug pulling, or had been hacked.
+  This led to a massive $PEPE sell-off, with the token plunging around 17%.A day after the transfers, a PEPE team member posted
+  on the project''s Twitter account, alleging that the transfers were indeed theft by three of the project''s other team members.
 
 
   Total loss estimated at $16,900,000.'

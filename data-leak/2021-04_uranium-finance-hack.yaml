@@ -3,11 +3,14 @@ source_url: https://www.coindesk.com/markets/2021/04/28/binance-chain-defi-excha
 date_of_breach: '2021-04-28'
 date_of_disclosure: '2021-04-28'
 category: data-leak
-notes: 'A bug in Uranium Finance, a DeFi exchange based on Binance Smart Chain, allowed
-  an attacker to drain the liquidity pools for multiple token pairs. Uranium had just
-  commissioned an audit which uncovered the bug, but the attack occured two hours
-  before the patch went live. An apparent member of Uranium''s development team wrote
-  that they believed the attack had been the result of leaked information.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Uranium Finance
+blockchain: bsc
+financial_loss_usd: 50000000
+notes: 'A bug in Uranium Finance, a DeFi exchange based on Binance Smart Chain, allowed an attacker to drain the liquidity
+  pools for multiple token pairs. Uranium had just commissioned an audit which uncovered the bug, but the attack occured two
+  hours before the patch went live. An apparent member of Uranium''s development team wrote that they believed the attack
+  had been the result of leaked information.
 
 
   Total loss estimated at $50,000,000.'

@@ -1,19 +1,17 @@
-source_name: '"Attorney General James Continues Crackdown on Unregistered Cryptocurrency
-  Platforms"'
+source_name: '"Attorney General James Continues Crackdown on Unregistered Cryptocurrency Platforms"'
 source_url: https://ag.ny.gov/press-release/2023/attorney-general-james-continues-crackdown-unregistered-cryptocurrency-platforms
 date_of_breach: '2023-03-09'
 date_of_disclosure: '2023-03-09'
 category: other
-notes: New York Attorney General Letitia James announced a lawsuit against the Seychelles-based
-  KuCoin crypto exchange, after finding that users could trade on the exchange despite
-  it not being registered in the state.The NYAG took the additional step of alleging
-  that ETH is a security. Many have argued that Bitcoin and ETH, the native token
-  of Ethereum, are not securities because they are "sufficiently decentralized". The
-  NYAG, however, wrote in the press release announcing the lawsuit that, "This action
-  is one of the first times a regulator is claiming in court that ETH, one of the
-  largest cryptocurrencies available, is a security. The petition argues that ETH,
-  just like LUNA and UST, is a speculative asset that relies on the efforts of third-party
-  developers in order to provide profit to the holders of ETH."The NYAG is also going
-  after KuCoin for offering a lending and staking product, a category of product that
-  has recently been a focus of various enforcement actions. They claim that KuCoin
-  did not comply with a subpoena.
+initial_attack_vector: Regulatory / legal action
+vendor_product: New York Attorney General sues KuCoin
+blockchain: ethereum
+notes: New York Attorney General Letitia James announced a lawsuit against the Seychelles-based KuCoin crypto exchange, after
+  finding that users could trade on the exchange despite it not being registered in the state.The NYAG took the additional
+  step of alleging that ETH is a security. Many have argued that Bitcoin and ETH, the native token of Ethereum, are not securities
+  because they are "sufficiently decentralized". The NYAG, however, wrote in the press release announcing the lawsuit that,
+  "This action is one of the first times a regulator is claiming in court that ETH, one of the largest cryptocurrencies available,
+  is a security. The petition argues that ETH, just like LUNA and UST, is a speculative asset that relies on the efforts of
+  third-party developers in order to provide profit to the holders of ETH."The NYAG is also going after KuCoin for offering
+  a lending and staking product, a category of product that has recently been a focus of various enforcement actions. They
+  claim that KuCoin did not comply with a subpoena.

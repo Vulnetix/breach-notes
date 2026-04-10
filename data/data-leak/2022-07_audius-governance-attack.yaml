@@ -3,16 +3,17 @@ source_url: https://blog.audius.co/article/audius-governance-takeover-post-morte
 date_of_breach: '2022-07-23'
 date_of_disclosure: '2022-07-23'
 category: data-leak
-notes: 'An attacker was able to create and pass a governance proposal to transfer
-  out 18.5 million AUDIO tokens from the community treasury. They then successfully
-  swapped these for 705 ETH (~$1.1 million).Audius halted the token and smart contracts
-  while they patched the bug, and brought the network back online shortly afterward.
-  The attacker had found and exploited a vulnerability in the way the contracts were
-  written which allowed them to rewrite the governance voting rules and delegate 10
-  trillion AUDIO tokens to themselves for voting purposes. They then used those tokens
-  to pass the malicious proposal. The contracts had been audited by OpenZeppelin and
-  Kudelski, but neither group caught the vulnerability. Audius stated that a plan
-  for dealing with the loss of community funds was still under discussion.
+initial_attack_vector: Governance attack / malicious on-chain proposal
+vendor_product: Audius governance attack
+blockchain: ethereum
+financial_loss_usd: 1101343
+notes: 'An attacker was able to create and pass a governance proposal to transfer out 18.5 million AUDIO tokens from the community
+  treasury. They then successfully swapped these for 705 ETH (~$1.1 million).Audius halted the token and smart contracts while
+  they patched the bug, and brought the network back online shortly afterward. The attacker had found and exploited a vulnerability
+  in the way the contracts were written which allowed them to rewrite the governance voting rules and delegate 10 trillion
+  AUDIO tokens to themselves for voting purposes. They then used those tokens to pass the malicious proposal. The contracts
+  had been audited by OpenZeppelin and Kudelski, but neither group caught the vulnerability. Audius stated that a plan for
+  dealing with the loss of community funds was still under discussion.
 
 
   Total loss estimated at $1,101,343.'

@@ -1,12 +1,13 @@
-source_name: '"Attacker uses flash loans in $24.5 million exploit of DeFi protocol
-  xToken"'
+source_name: '"Attacker uses flash loans in $24.5 million exploit of DeFi protocol xToken"'
 source_url: https://www.theblockcrypto.com/post/104667/defi-protocol-xtoken-exploit-attack
 date_of_breach: '2021-05-12'
 date_of_disclosure: '2021-05-12'
 category: data-leak
-notes: 'A flash loan attack allowed hackers to exploit two vulnerabilities in the
-  xToken DeFi platform and steal $24.5 million. This was the first of two large-scale
-  hacks of the platform this year.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: xToken
+financial_loss_usd: 24500000
+notes: 'A flash loan attack allowed hackers to exploit two vulnerabilities in the xToken DeFi platform and steal $24.5 million.
+  This was the first of two large-scale hacks of the platform this year.
 
 
   Total loss estimated at $24,500,000.'

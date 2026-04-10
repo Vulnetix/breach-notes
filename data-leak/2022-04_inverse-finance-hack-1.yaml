@@ -3,13 +3,15 @@ source_url: https://twitter.com/PeckShieldAlert/status/1510220149428785156
 date_of_breach: '2022-04-02'
 date_of_disclosure: '2022-04-02'
 category: data-leak
-notes: 'An attacker targeting the defi project Inverse Finance was able to manipulate
-  the price oracle of INV/ETH, artificially inflating the apparent price of INV and
-  allowing the attacker to borrow against it. The attacker was ultimately able to
-  turn the borrowed DOLA, ETH, WBTC, and YFI tokens, priced at a total of around $15.6
-  million, into around 4300 ETH (priced at around $14.5 million). As of early April
-  2, the attacker had transferred 1,300 ETH (around $4.5 million) to a tumbler to
-  make it more difficult to trace.
+initial_attack_vector: Oracle price manipulation
+vendor_product: Inverse Finance
+blockchain: ethereum
+financial_loss_usd: 15600000
+notes: 'An attacker targeting the defi project Inverse Finance was able to manipulate the price oracle of INV/ETH, artificially
+  inflating the apparent price of INV and allowing the attacker to borrow against it. The attacker was ultimately able to
+  turn the borrowed DOLA, ETH, WBTC, and YFI tokens, priced at a total of around $15.6 million, into around 4300 ETH (priced
+  at around $14.5 million). As of early April 2, the attacker had transferred 1,300 ETH (around $4.5 million) to a tumbler
+  to make it more difficult to trace.
 
 
   Total loss estimated at $15,600,000.'

@@ -3,16 +3,16 @@ source_url: https://x.com/yalaorg/status/1967071910845649348
 date_of_breach: '2025-09-14'
 date_of_disclosure: '2025-09-14'
 category: other
-notes: 'The YU bitcoin-backed stablecoin lost its intended dollar peg after what they
-  described as "an attempted attack", later writing that there was an "unauthorized
-  transfer of funds". Although they initially wrote that "All funds are safe", they
-  later stated that they "identified the stolen assets on-chain and are actively working
-  with law enforcement to pursue recovery." Research firm Lookonchain observed a large
-  mint of the YU token that may have been related — if so, the attacker successfully
-  stole at least 1,501 ETH ($6.75 million), and holds a substantial quantity of YU
-  they still haven''t sold.Despite the project''s attempted reassurances, the YU stablecoin
-  lost its $1 peg, plummeting as low as around $0.20. As of writing, about a day later,
-  the stablecoin is still well below its peg, at around $0.94.
+vendor_product: Yala stablecoin depegs
+blockchain: bitcoin
+financial_loss_usd: 7600000
+notes: 'The YU bitcoin-backed stablecoin lost its intended dollar peg after what they described as "an attempted attack",
+  later writing that there was an "unauthorized transfer of funds". Although they initially wrote that "All funds are safe",
+  they later stated that they "identified the stolen assets on-chain and are actively working with law enforcement to pursue
+  recovery." Research firm Lookonchain observed a large mint of the YU token that may have been related — if so, the attacker
+  successfully stole at least 1,501 ETH ($6.75 million), and holds a substantial quantity of YU they still haven''t sold.Despite
+  the project''s attempted reassurances, the YU stablecoin lost its $1 peg, plummeting as low as around $0.20. As of writing,
+  about a day later, the stablecoin is still well below its peg, at around $0.94.
 
 
   Total loss estimated at $7,600,000.'

@@ -1,21 +1,17 @@
-source_name: Statement of the Chairman and Ranking Member of the Committee on Ethics
-  Regarding Representative Madison Cawthorn
+source_name: Statement of the Chairman and Ranking Member of the Committee on Ethics Regarding Representative Madison Cawthorn
 source_url: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Release_267.pdf
 date_of_breach: '2022-05-23'
 date_of_disclosure: '2022-05-23'
 category: other
-notes: The U.S. House of Representatives Committee on Ethics announced on May 23 that
-  they had unanimously voted to investigate whether Representative Madison Cawthorn
-  (R-NC) "improperly promoted a cryptocurrency in which he may have had an undisclosed
-  financial interest", as well as one unrelated allegation.On May 26, Cawthorn filed
-  a disclosure to say he had bought between $100,000 and $250,000 of the "Let's Go
-  Brandon" ($LGB) coin on December 21  — eight days before posting that the coin would
-  "go to the moon" just before a deal with NASCAR was announced. The coin then went
-  up in price and Cawthorn sold at least $100,000 of his holdings. This timing led
-  to accusations that Cawthorn had advance knowledge of the partnership.Cawthorn also
-  disclosed in the same May 26 filing that he bought between $101,000 and $265,000
-  of Ethereum in late December. Although Congressmembers are required by the STOCK
-  Act to disclose purchases of various assets (including cryptocurrencies) within
-  45 days of the transaction, Cawthorn's disclosure came five months after the purchase.
-  Cawthorn recently lost his primary, ending his chances of re-election, but his current
-  term isn't slated to end until January 2023.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Jonny Reid wallet compromise
+notes: The U.S. House of Representatives Committee on Ethics announced on May 23 that they had unanimously voted to investigate
+  whether Representative Madison Cawthorn (R-NC) "improperly promoted a cryptocurrency in which he may have had an undisclosed
+  financial interest", as well as one unrelated allegation.On May 26, Cawthorn filed a disclosure to say he had bought between
+  $100,000 and $250,000 of the "Let's Go Brandon" ($LGB) coin on December 21  — eight days before posting that the coin would
+  "go to the moon" just before a deal with NASCAR was announced. The coin then went up in price and Cawthorn sold at least
+  $100,000 of his holdings. This timing led to accusations that Cawthorn had advance knowledge of the partnership.Cawthorn
+  also disclosed in the same May 26 filing that he bought between $101,000 and $265,000 of Ethereum in late December. Although
+  Congressmembers are required by the STOCK Act to disclose purchases of various assets (including cryptocurrencies) within
+  45 days of the transaction, Cawthorn's disclosure came five months after the purchase. Cawthorn recently lost his primary,
+  ending his chances of re-election, but his current term isn't slated to end until January 2023.

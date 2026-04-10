@@ -1,26 +1,20 @@
-source_name: '"Wonderland votes out QuadrigaCX co-founder Sifu and is considering
-  shutting down"'
+source_name: '"Wonderland votes out QuadrigaCX co-founder Sifu and is considering shutting down"'
 source_url: https://www.theblockcrypto.com/post/132340/wonderland-votes-out-quadrigacx-co-founder-sifu-and-is-considering-shutting-down
 date_of_breach: '2022-01-30'
 date_of_disclosure: '2022-01-30'
 category: other
-notes: 'The Wonderland protocol had a rough week, first experiencing massive losses
-  in "cascading liquidations" and then the unmasking of the previously pseudonymous
-  lead developer as Michael Patryn, a shady operator with a long history of financial
-  crimes. The project team decided to hold a vote on whether the project should wind
-  down: "giving every wMEMO holder back the funds from the treasury that they are
-  entitled to and declar[ing] the OHM Fork experiment closed". The project leaders
-  wrote that they "strongly believe that this would be the cleanest way of moving
-  forward". The vote began on January 29 and was slated to end on January 31.By raw
-  numbers it appeared most investors opposed the idea, as many will receive miniscule
-  amounts compared to their initial investments. However, the larger holders (most
-  of whom bought in at low prices) stand to make money from the liquidation and some
-  have supported winding down. Because the DAO voting operates in a plutocratic model,
-  where people can vote based on how many tokens they hold, at one point votes from
-  a relatively small number of whales were trending the vote towards supporting winding
-  down even though 90% of individuals wanted the project to continue. The votes to
-  continue had begun to beat out the votes to wind down when Daniele Sestagalli announced
-  on Twitter on January 30, before the vote''s scheduled end, that the "Wonderland
-  experiment is coming to an end."Ultimately, Sestagalli ended up respecting the wishes
-  of the community, who decided to continue the project despite having lost 90% of
-  their money, presumably in hopes of regaining some of the losses.'
+vendor_product: Wonderland
+notes: 'The Wonderland protocol had a rough week, first experiencing massive losses in "cascading liquidations" and then the
+  unmasking of the previously pseudonymous lead developer as Michael Patryn, a shady operator with a long history of financial
+  crimes. The project team decided to hold a vote on whether the project should wind down: "giving every wMEMO holder back
+  the funds from the treasury that they are entitled to and declar[ing] the OHM Fork experiment closed". The project leaders
+  wrote that they "strongly believe that this would be the cleanest way of moving forward". The vote began on January 29 and
+  was slated to end on January 31.By raw numbers it appeared most investors opposed the idea, as many will receive miniscule
+  amounts compared to their initial investments. However, the larger holders (most of whom bought in at low prices) stand
+  to make money from the liquidation and some have supported winding down. Because the DAO voting operates in a plutocratic
+  model, where people can vote based on how many tokens they hold, at one point votes from a relatively small number of whales
+  were trending the vote towards supporting winding down even though 90% of individuals wanted the project to continue. The
+  votes to continue had begun to beat out the votes to wind down when Daniele Sestagalli announced on Twitter on January 30,
+  before the vote''s scheduled end, that the "Wonderland experiment is coming to an end."Ultimately, Sestagalli ended up respecting
+  the wishes of the community, who decided to continue the project despite having lost 90% of their money, presumably in hopes
+  of regaining some of the losses.'

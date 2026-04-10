@@ -1,23 +1,21 @@
-source_name: '"SEC Charges Former New Jersey Corrections Officer with Crypto Fraud
-  Scheme Targeting Law Enforcement Personnel"'
+source_name: '"SEC Charges Former New Jersey Corrections Officer with Crypto Fraud Scheme Targeting Law Enforcement Personnel"'
 source_url: https://www.sec.gov/news/press-release/2023-157
 date_of_breach: '2023-08-23'
 date_of_disclosure: '2023-08-23'
 category: data-leak
-notes: 'John DeSalvo, a former New Jersey corrections officer, was charged by the
-  SEC over a pump-and-dump scheme associated with his "Blazar" token, a project he
-  targeted at fellow law enforcement. With promises that the Blazar token would "guaranteed
-  minimum 100X your money", DeSalvo convinced around 222 investors to pour in at least
-  $623,888. He also made other false statements, including that the token was registered
-  with the SEC, and that he had devised a way for people to take payroll deductions
-  that would automatically be used to purchase the token.Rather than "100x-ing", the
-  token immediately plummeted when DeSalvo sold his ~41 billion Blazar tokens. DeSalvo
-  is accused of using his profits from the scheme to speculate on other crypto tokens,
-  pay for personal expenses, and reimburse one investor who threatened legal action.DeSalvo
-  is also being charged over a separate investment scheme he operated, where he solicited
-  investments on Facebook, promising to use his claimed trading expertise to earn
-  massive returns. The SEC alleges he lost most of the money in bad investments, and
-  stole the rest for himself, blaming the losses on market movements.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Blazar token SEC lawsuit
+financial_loss_usd: 623888
+notes: 'John DeSalvo, a former New Jersey corrections officer, was charged by the SEC over a pump-and-dump scheme associated
+  with his "Blazar" token, a project he targeted at fellow law enforcement. With promises that the Blazar token would "guaranteed
+  minimum 100X your money", DeSalvo convinced around 222 investors to pour in at least $623,888. He also made other false
+  statements, including that the token was registered with the SEC, and that he had devised a way for people to take payroll
+  deductions that would automatically be used to purchase the token.Rather than "100x-ing", the token immediately plummeted
+  when DeSalvo sold his ~41 billion Blazar tokens. DeSalvo is accused of using his profits from the scheme to speculate on
+  other crypto tokens, pay for personal expenses, and reimburse one investor who threatened legal action.DeSalvo is also being
+  charged over a separate investment scheme he operated, where he solicited investments on Facebook, promising to use his
+  claimed trading expertise to earn massive returns. The SEC alleges he lost most of the money in bad investments, and stole
+  the rest for himself, blaming the losses on market movements.
 
 
   Total loss estimated at $623,888.'

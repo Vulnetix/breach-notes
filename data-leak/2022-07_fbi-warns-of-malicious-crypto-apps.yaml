@@ -5,16 +5,17 @@ source_url: https://www.ic3.gov/Media/News/2022/220718.pdf
 date_of_breach: '2022-07-18'
 date_of_disclosure: '2022-07-18'
 category: data-leak
-notes: 'The FBI''s Cyber Division issued a notification about fraudulent cryptocurrency
-  investment apps that are successfully being used to defraud American investors.
-  The scammers typically claim to offer cryptocurrency investment services to their
-  targets, then convince them to download mobile apps that resemble genuine crypto
-  trading apps (sometimes mimicking actual exchanges). The apps typically show the
-  users'' accounts increasing in value, but when users try to withdraw funds they
-  find they''re unable. Sometimes the apps defraud their victims even further by claiming
-  they need to pay an additional "tax" before they can withdraw.The FBI stated they
-  had identified 244 victims, and estimated the total loss associated with these fraudulent
-  apps to be around $42.7 million.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: FBI warns of malicious crypto apps
+financial_loss_usd: 42700000
+affected_count: 244
+notes: 'The FBI''s Cyber Division issued a notification about fraudulent cryptocurrency investment apps that are successfully
+  being used to defraud American investors. The scammers typically claim to offer cryptocurrency investment services to their
+  targets, then convince them to download mobile apps that resemble genuine crypto trading apps (sometimes mimicking actual
+  exchanges). The apps typically show the users'' accounts increasing in value, but when users try to withdraw funds they
+  find they''re unable. Sometimes the apps defraud their victims even further by claiming they need to pay an additional "tax"
+  before they can withdraw.The FBI stated they had identified 244 victims, and estimated the total loss associated with these
+  fraudulent apps to be around $42.7 million.
 
 
   Total loss estimated at $42,700,000.'

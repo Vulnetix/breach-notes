@@ -3,12 +3,10 @@ source_url: https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-p
 date_of_breach: '2022-01-04'
 date_of_disclosure: '2022-01-04'
 category: other
-notes: Energy shortages and rolling blackouts plagued Kosovo towards the end of 2021,
-  leading the Kosovan government to issue a 60-day state of emergency to address the
-  crisis. The emergency authorization promised to identify and shut down any cryptocurrency
-  mining. Kosovo has attracted cryptocurrency miners because it has some of the cheapest
-  electricity prices in Europe, largely due to government subsidies and the availability
-  of lignite (the lowest grade of coal, which is extremely harmful to the environment).
-  Much of the mining takes place in the northern portions of the country, which do
-  not recognize the Kosovan government and so have not paid for electricity at all
-  in more than 20 years.
+vendor_product: Kosovo temporarily bans crypto mining
+notes: Energy shortages and rolling blackouts plagued Kosovo towards the end of 2021, leading the Kosovan government to issue
+  a 60-day state of emergency to address the crisis. The emergency authorization promised to identify and shut down any cryptocurrency
+  mining. Kosovo has attracted cryptocurrency miners because it has some of the cheapest electricity prices in Europe, largely
+  due to government subsidies and the availability of lignite (the lowest grade of coal, which is extremely harmful to the
+  environment). Much of the mining takes place in the northern portions of the country, which do not recognize the Kosovan
+  government and so have not paid for electricity at all in more than 20 years.

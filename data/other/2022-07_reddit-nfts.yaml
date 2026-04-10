@@ -3,14 +3,13 @@ source_url: https://www.theverge.com/2022/7/7/23198071/reddit-nft-profile-pictur
 date_of_breach: '2022-07-07'
 date_of_disclosure: '2022-07-07'
 category: other
-notes: Reddit announced that they will be selling "Collectible Avatars", artist variations
-  on the Reddit "Snoo" figure that users can then customize. Amusingly, Reddit's announcement
-  carefully dodges describing them as NFTs, instead writing that "Collectible Avatars
-  are backed by blockchain technology". Despite this, the avatars are indeed NFTs,
-  created on the Polygon blockchain, though users will be able to buy them with plain
-  ol' fiat.This is not Reddit's first foray into NFTs. The platform launched four
-  1-of-1 "CryptoSnoo" NFTs in June 2021, which allow the four holders to display the
-  NFTs on their profile. The "Collectible Avatars" appear to be an attempt to open
-  this same functionality to a broader group of Redditors, while simultaneously appearing
-  to try to sidestep the more negative sentiment around NFTs that has developed since
-  their last project.
+vendor_product: Reddit NFTs
+blockchain: polygon
+notes: Reddit announced that they will be selling "Collectible Avatars", artist variations on the Reddit "Snoo" figure that
+  users can then customize. Amusingly, Reddit's announcement carefully dodges describing them as NFTs, instead writing that
+  "Collectible Avatars are backed by blockchain technology". Despite this, the avatars are indeed NFTs, created on the Polygon
+  blockchain, though users will be able to buy them with plain ol' fiat.This is not Reddit's first foray into NFTs. The platform
+  launched four 1-of-1 "CryptoSnoo" NFTs in June 2021, which allow the four holders to display the NFTs on their profile.
+  The "Collectible Avatars" appear to be an attempt to open this same functionality to a broader group of Redditors, while
+  simultaneously appearing to try to sidestep the more negative sentiment around NFTs that has developed since their last
+  project.

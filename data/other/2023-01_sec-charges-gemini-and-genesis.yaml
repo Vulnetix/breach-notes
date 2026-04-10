@@ -1,16 +1,15 @@
-source_name: '"SEC Charges Genesis and Gemini for the Unregistered Offer and Sale
-  of Crypto Asset Securities through the Gemini Earn Lending Program"'
+source_name: '"SEC Charges Genesis and Gemini for the Unregistered Offer and Sale of Crypto Asset Securities through the Gemini
+  Earn Lending Program"'
 source_url: https://www.sec.gov/news/press-release/2023-7
 date_of_breach: '2023-01-12'
 date_of_disclosure: '2023-01-12'
 category: other
-notes: The SEC filed charges against Genesis Global Capital and Gemini, two crypto
-  firms that collaborated to create Gemini's embattled Earn lending program. According
-  to the SEC, their lending program constitutes an offer and sale of securities and,
-  as such, should have been registered. Other companies, such as (now bankrupt) Celsius,
-  have in the past shut down similar products in the US due to concerns over regulatory
-  action; it's not clear why Gemini thought their product would pass muster.On November
-  16, Gemini halted withdrawals from Earn after Genesis halted withdrawals after FTX
-  collapsed. Since then, Gemini and Genesis have been engaged in a very public battle,
-  with Gemini's founders accusing Genesis and its parent company of misconduct and
-  demanding the return of the $900 million in Gemini customer funds.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC charges Gemini and Genesis
+notes: The SEC filed charges against Genesis Global Capital and Gemini, two crypto firms that collaborated to create Gemini's
+  embattled Earn lending program. According to the SEC, their lending program constitutes an offer and sale of securities
+  and, as such, should have been registered. Other companies, such as (now bankrupt) Celsius, have in the past shut down similar
+  products in the US due to concerns over regulatory action; it's not clear why Gemini thought their product would pass muster.On
+  November 16, Gemini halted withdrawals from Earn after Genesis halted withdrawals after FTX collapsed. Since then, Gemini
+  and Genesis have been engaged in a very public battle, with Gemini's founders accusing Genesis and its parent company of
+  misconduct and demanding the return of the $900 million in Gemini customer funds.

@@ -3,15 +3,18 @@ source_url: https://twitter.com/PeckShieldAlert/status/1532936259877732358
 date_of_breach: '2021-08-12'
 date_of_disclosure: '2021-08-12'
 category: data-leak
-notes: 'The DAO Maker project (not to be confused with the well-known MakerDAO) is
-  a launchpad that claims to be "building the future of venture capital". Its website
-  boasts that users who stake their $DAO can "earn up to 70% APY". The project suffered
-  an exploit on June 3 in which attackers stole 7,376,245 USDC, a US dollar-pegged
-  stablecoin. Although the project had been audited by three different auditing companies,
-  hackers were able to exploit an issue in the claim portal for some tokens. According
-  to the DAO Maker team, 5,521 users were affected, and lost an average of $1,250
-  each. Attackers immediately moved some of the funds to the Tornado Cash cryptocurrency
-  tumbler, while some remained dormant for months before being moved.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: DAO Maker
+blockchain: ethereum
+financial_loss_usd: 7376245
+affected_count: 5521
+notes: 'The DAO Maker project (not to be confused with the well-known MakerDAO) is a launchpad that claims to be "building
+  the future of venture capital". Its website boasts that users who stake their $DAO can "earn up to 70% APY". The project
+  suffered an exploit on June 3 in which attackers stole 7,376,245 USDC, a US dollar-pegged stablecoin. Although the project
+  had been audited by three different auditing companies, hackers were able to exploit an issue in the claim portal for some
+  tokens. According to the DAO Maker team, 5,521 users were affected, and lost an average of $1,250 each. Attackers immediately
+  moved some of the funds to the Tornado Cash cryptocurrency tumbler, while some remained dormant for months before being
+  moved.
 
 
   Total loss estimated at $7,376,245.'

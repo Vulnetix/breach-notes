@@ -3,13 +3,14 @@ source_url: https://therecord.media/klayswap-crypto-users-lose-funds-after-bgp-h
 date_of_breach: '2022-02-03'
 date_of_disclosure: '2022-02-03'
 category: data-leak
-notes: 'Some sophisticated hackers managed a BGP hijack on the servers powering KakaoTalk,
-  a marketing and customer service application used by the South Korean KLAYswap cryptocurrency
-  exchange. The hijacking enabled the hackers to serve malicious JavaScript that allowed
-  hackers to intercept funds as a user initiated a transaction. Over a two-hour period,
-  the hackers stole cryptocurrency totaling ₩2.2 million (about $1.9 million) from
-  325 customer wallets. The exchange acknowledged the hack the same day, and promised
-  to compensate affected users.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: KLAYswap
+financial_loss_usd: 1900000
+notes: 'Some sophisticated hackers managed a BGP hijack on the servers powering KakaoTalk, a marketing and customer service
+  application used by the South Korean KLAYswap cryptocurrency exchange. The hijacking enabled the hackers to serve malicious
+  JavaScript that allowed hackers to intercept funds as a user initiated a transaction. Over a two-hour period, the hackers
+  stole cryptocurrency totaling ₩2.2 million (about $1.9 million) from 325 customer wallets. The exchange acknowledged the
+  hack the same day, and promised to compensate affected users.
 
 
   Total loss estimated at $1,900,000.'

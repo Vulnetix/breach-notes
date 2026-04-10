@@ -1,15 +1,13 @@
-source_name: '"CFTC accuses Winklevoss-owned crypto exchange Gemini of misleading
-  statements in new lawsuit"'
+source_name: '"CFTC accuses Winklevoss-owned crypto exchange Gemini of misleading statements in new lawsuit"'
 source_url: https://www.theblockcrypto.com/linked/149904/cftc-accuses-winklevoss-owned-crypto-exchange-gemini-of-misleading-statements-in-new-lawsuit
 date_of_breach: '2022-06-02'
 date_of_disclosure: '2022-06-02'
 category: other
-notes: Gemini is a major cryptocurrency exchange and market for Bitcoin futures. The
-  Commodity Futures Trading Commission (CFTC) filed a lawsuit against Gemini for making
-  false or misleading statements pertaining to their self-certification of a bitcoin
-  futures product. The complaints contains several sections detailing allegations
-  of "false or misleading statements and omissions" concerning loans and advances,
-  self-trading, fee rebates and overrides, and trading volume and liquidity. The lawsuit
-  seeks a permanent injunction preventing Gemini from engaging in trading activities,
-  as well as civil penalties and forfeiture of money earned through their alleged
-  violations of the law.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Gemini sued by CFTC
+notes: Gemini is a major cryptocurrency exchange and market for Bitcoin futures. The Commodity Futures Trading Commission
+  (CFTC) filed a lawsuit against Gemini for making false or misleading statements pertaining to their self-certification of
+  a bitcoin futures product. The complaints contains several sections detailing allegations of "false or misleading statements
+  and omissions" concerning loans and advances, self-trading, fee rebates and overrides, and trading volume and liquidity.
+  The lawsuit seeks a permanent injunction preventing Gemini from engaging in trading activities, as well as civil penalties
+  and forfeiture of money earned through their alleged violations of the law.

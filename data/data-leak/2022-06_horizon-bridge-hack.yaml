@@ -3,16 +3,17 @@ source_url: https://twitter.com/harmonyprotocol/status/1540110924400324608
 date_of_breach: '2022-06-23'
 date_of_disclosure: '2022-06-23'
 category: data-leak
-notes: 'The Horizon Bridge is a blockchain bridge allowing assets to be used across
-  Ethereum, BNB, and Harmony blockchains. The bridge is run by the Harmony blockchain
-  project.On June 23, someone was able to steal assets from the bridge that they then
-  converted to more than 85,800 ETH. The stolen funds are notionally valued at almost
-  $100 million, assuming the thief can cash them out successfully. Hours after the
-  attack, most of the funds remained in the thief''s wallet and had not yet been laundered.A
-  June 29 analysis by blockchain research firm Ellipsis claimed that "there are strong
-  indications that North Korea''s Lazarus Group may be responsible for this theft".
-  Lazarus was also behind the $625 million bridge hack in March, targeting the Axie
-  Infinity game.
+initial_attack_vector: Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise
+vendor_product: Horizon Bridge
+blockchain: bsc, ethereum
+financial_loss_usd: 100000000
+notes: 'The Horizon Bridge is a blockchain bridge allowing assets to be used across Ethereum, BNB, and Harmony blockchains.
+  The bridge is run by the Harmony blockchain project.On June 23, someone was able to steal assets from the bridge that they
+  then converted to more than 85,800 ETH. The stolen funds are notionally valued at almost $100 million, assuming the thief
+  can cash them out successfully. Hours after the attack, most of the funds remained in the thief''s wallet and had not yet
+  been laundered.A June 29 analysis by blockchain research firm Ellipsis claimed that "there are strong indications that North
+  Korea''s Lazarus Group may be responsible for this theft". Lazarus was also behind the $625 million bridge hack in March,
+  targeting the Axie Infinity game.
 
 
   Total loss estimated at $100,000,000.'

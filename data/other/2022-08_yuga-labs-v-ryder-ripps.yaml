@@ -1,21 +1,18 @@
-source_name: '"Court filing in Bored Apes lawsuit revives claims founders built NFT
-  empire on Nazi ideology"'
+source_name: '"Court filing in Bored Apes lawsuit revives claims founders built NFT empire on Nazi ideology"'
 source_url: https://www.dailydot.com/debug/bored-apes-racist-accusations-nfts/
 date_of_breach: '2022-08-15'
 date_of_disclosure: '2022-08-15'
 category: other
-notes: In a motion to dismiss a trademark lawsuit filed by Yuga Labs (the company
-  behind the Bored Ape Yacht Club NFT project) against Ryder Ripps and various others,
-  the defendants outlined in detail their beliefs that the Bored Apes project intentionally
-  includes racist and Nazi dogwhistles, and that Yuga's lawsuit is a strategic lawsuit
-  against public participation (SLAPP) intended to silence criticism.Ripps is a part
-  of a group of people who have vocally criticized the Bored Apes project for being
-  racist and antisemitic, with what they believe are intentional hat-tips to 4chan
-  culture. Ripps also created his own NFT project, called RR/BAYC, where he clones
-  the Bored Ape NFTs and sells them in what he says is a "critique [of the] hateful
-  imagery". Because Yuga Labs has never brought action against any of the many Bored
-  Ape ripoff NFT collections, he and his lawyers are arguing this lawsuit is an attempt
-  to silence his criticism.Some of Ripps' and others' individual claims about dogwhistles
-  in the project are more believable than others, but in their entirety they are pretty
-  damning. Ripps is not the only one who has been outspoken about the issue, and is
-  joined by people in and outside of the NFT world.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Yuga Labs v. Ryder Ripps
+blockchain: ethereum
+notes: In a motion to dismiss a trademark lawsuit filed by Yuga Labs (the company behind the Bored Ape Yacht Club NFT project)
+  against Ryder Ripps and various others, the defendants outlined in detail their beliefs that the Bored Apes project intentionally
+  includes racist and Nazi dogwhistles, and that Yuga's lawsuit is a strategic lawsuit against public participation (SLAPP)
+  intended to silence criticism.Ripps is a part of a group of people who have vocally criticized the Bored Apes project for
+  being racist and antisemitic, with what they believe are intentional hat-tips to 4chan culture. Ripps also created his own
+  NFT project, called RR/BAYC, where he clones the Bored Ape NFTs and sells them in what he says is a "critique [of the] hateful
+  imagery". Because Yuga Labs has never brought action against any of the many Bored Ape ripoff NFT collections, he and his
+  lawyers are arguing this lawsuit is an attempt to silence his criticism.Some of Ripps' and others' individual claims about
+  dogwhistles in the project are more believable than others, but in their entirety they are pretty damning. Ripps is not
+  the only one who has been outspoken about the issue, and is joined by people in and outside of the NFT world.

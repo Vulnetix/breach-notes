@@ -3,9 +3,12 @@ source_url: https://rekt.news/superfluid-rekt/
 date_of_breach: '2022-02-08'
 date_of_disclosure: '2022-02-08'
 category: data-leak
-notes: 'A vulnerability in the Superfluid crypto streaming protocol allowed an attacker
-  to drain $8.7 million, affecting projects including Mai Finance, Stacker Ventures,
-  Stake DAO, and the Museum of Crypto Art.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Superfluid
+blockchain: polygon
+financial_loss_usd: 8700000
+notes: 'A vulnerability in the Superfluid crypto streaming protocol allowed an attacker to drain $8.7 million, affecting projects
+  including Mai Finance, Stacker Ventures, Stake DAO, and the Museum of Crypto Art.
 
 
   Total loss estimated at $8,700,000.'

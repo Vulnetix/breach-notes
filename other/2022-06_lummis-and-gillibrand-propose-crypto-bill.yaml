@@ -3,16 +3,14 @@ source_url: https://www.wsj.com/articles/senators-to-propose-industry-friendly-c
 date_of_breach: '2022-06-07'
 date_of_disclosure: '2022-06-07'
 category: other
-notes: Senators Lummis (R-WY) and Gillibrand (D-NY) introduced the "Responsible Financial
-  Innovation Act", the first major proposal for cryptocurrency regulation in the US.
-  A press release from Lummis included statements of support from Kraken, Coinbase,
-  FTX, crypto lobbyists, and various other major players in the cryptocurrency industry
-  — unsurprising support for a bill that is incredibly friendly to the sector. Notably,
-  the bill broadly avoids classifying cryptocurrencies as securities, which would
-  be regulated by the SEC and provide some consumer protections. Instead, the Senators
-  create a foggy definition for sufficiently "decentralized" cryptocurrencies that
-  would treat them as commodities and place them under the purview of the CFTC — the
-  much smaller and less aggressive regulator that has been the preference of most
-  in the cryptocurrency industry.Senator Lummis has long been a strong supporter of
-  Bitcoin and crypto more generally, sporting a "laser eyes" profile picture on Twitter
-  and speaking at Bitcoin Miami, where she was introduced as a "champion of Bitcoin".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Lummis and Gillibrand propose crypto bill
+notes: Senators Lummis (R-WY) and Gillibrand (D-NY) introduced the "Responsible Financial Innovation Act", the first major
+  proposal for cryptocurrency regulation in the US. A press release from Lummis included statements of support from Kraken,
+  Coinbase, FTX, crypto lobbyists, and various other major players in the cryptocurrency industry — unsurprising support for
+  a bill that is incredibly friendly to the sector. Notably, the bill broadly avoids classifying cryptocurrencies as securities,
+  which would be regulated by the SEC and provide some consumer protections. Instead, the Senators create a foggy definition
+  for sufficiently "decentralized" cryptocurrencies that would treat them as commodities and place them under the purview
+  of the CFTC — the much smaller and less aggressive regulator that has been the preference of most in the cryptocurrency
+  industry.Senator Lummis has long been a strong supporter of Bitcoin and crypto more generally, sporting a "laser eyes" profile
+  picture on Twitter and speaking at Bitcoin Miami, where she was introduced as a "champion of Bitcoin".

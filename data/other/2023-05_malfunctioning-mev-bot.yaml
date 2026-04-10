@@ -3,11 +3,14 @@ source_url: https://twitter.com/ArkhamIntel/status/1662430388331991040
 date_of_breach: '2023-05-27'
 date_of_disclosure: '2023-05-27'
 category: other
-notes: 'Some traders hoping to snipe new tokens launched by Poo Finance (yes, really)
-  decided to try to use a MEV bot to snag priority ordering compared to other pending
-  blockchain transactions. They spent a combined 240 ETH (~$440,000) to be spent on
-  the tokens and on bribes paid to the bot. However, the bot sent the tokens to the
-  wrong Uniswap pool, ultimately obtaining only 4 ETH (~$7,300) of Poo Finance tokens.
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Malfunctioning MEV bot
+blockchain: ethereum
+financial_loss_usd: 440000
+notes: 'Some traders hoping to snipe new tokens launched by Poo Finance (yes, really) decided to try to use a MEV bot to snag
+  priority ordering compared to other pending blockchain transactions. They spent a combined 240 ETH (~$440,000) to be spent
+  on the tokens and on bribes paid to the bot. However, the bot sent the tokens to the wrong Uniswap pool, ultimately obtaining
+  only 4 ETH (~$7,300) of Poo Finance tokens.
 
 
   Total loss estimated at $440,000.'

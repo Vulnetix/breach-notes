@@ -3,16 +3,15 @@ source_url: https://medium.com/optyfi/optyfi-project-update-df8a97e58521
 date_of_breach: '2023-07-11'
 date_of_disclosure: '2023-07-11'
 category: other
-notes: OptyFi, a so-called "AI-powered defi" project, announced it would be shutting
-  down for a variety of reasons. First, they blamed their recent failed token sale,
-  in which they had hoped to raise $600,000. They blamed this failed sale on their
-  Discord project being hacked, and on various community members falling victim to
-  a fake token sale link.However, they stated that the main reason they decided to
-  shut down the project was the "significant and mounting regulatory challenges",
-  pointing to the recent claim by the BarnBridge defi project that they were under
-  SEC investigation. According to OptyFi, they are concerned that the $OPTY token
-  or OptyFi vault tokens could be deemed securities, or that the OptyFi vaults themselves
-  could be determined to be a "Mutual Fund type vehicle".OptyFi promised to refund
-  any tokens purchased during the most recent token sale, but many community members
-  still accused the project team of rug pulling. OptyFi had previously raised $2.4
-  million in a seed funding round in January 2022.
+initial_attack_vector: AI-assisted attack or AI-generated exploit
+vendor_product: OptyFi
+blockchain: ethereum
+notes: OptyFi, a so-called "AI-powered defi" project, announced it would be shutting down for a variety of reasons. First,
+  they blamed their recent failed token sale, in which they had hoped to raise $600,000. They blamed this failed sale on their
+  Discord project being hacked, and on various community members falling victim to a fake token sale link.However, they stated
+  that the main reason they decided to shut down the project was the "significant and mounting regulatory challenges", pointing
+  to the recent claim by the BarnBridge defi project that they were under SEC investigation. According to OptyFi, they are
+  concerned that the $OPTY token or OptyFi vault tokens could be deemed securities, or that the OptyFi vaults themselves could
+  be determined to be a "Mutual Fund type vehicle".OptyFi promised to refund any tokens purchased during the most recent token
+  sale, but many community members still accused the project team of rug pulling. OptyFi had previously raised $2.4 million
+  in a seed funding round in January 2022.

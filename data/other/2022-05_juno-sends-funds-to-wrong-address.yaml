@@ -3,17 +3,15 @@ source_url: https://www.coindesk.com/tech/2022/05/05/typo-moves-36m-in-seized-ju
 date_of_breach: '2022-05-04'
 date_of_disclosure: '2022-05-04'
 category: other
-notes: 'A protracted discussion and two different votes ended with the Juno project
-  deciding to confiscate all but 50,000 of the 3 million $JUNO accumulated by one
-  individual. When the discussions began, the 2.95 million $JUNO to be confiscated
-  were worth a combined $121 million. However, the $JUNO price has dropped from the
-  then all-time-high of around $40 to under $13, putting the value of the tokens to
-  be confiscated closer to $38 million.Juno intended to transfer the seized tokens
-  from the individual whale''s wallet to a community-controlled wallet. However, the
-  person making the transfer accidentally copied and pasted the wrong value, resulting
-  in the funds being sent to a wallet address that no one can access — effectively
-  burning the tokens.Daniel Hwang, who helps run one of the Juno validators, said
-  to CoinDesk, "We fucked up big time". He also offered an unusual opinion: "Validators
-  should have due diligenced for ourselves to actually check the code we''re executing
-  and running".Shortly after the botched transaction, the Juno community began voting
-  on a proposal to hard fork a second time to fix their mistake.'
+vendor_product: Juno sends funds to wrong address
+blockchain: cosmos
+notes: 'A protracted discussion and two different votes ended with the Juno project deciding to confiscate all but 50,000
+  of the 3 million $JUNO accumulated by one individual. When the discussions began, the 2.95 million $JUNO to be confiscated
+  were worth a combined $121 million. However, the $JUNO price has dropped from the then all-time-high of around $40 to under
+  $13, putting the value of the tokens to be confiscated closer to $38 million.Juno intended to transfer the seized tokens
+  from the individual whale''s wallet to a community-controlled wallet. However, the person making the transfer accidentally
+  copied and pasted the wrong value, resulting in the funds being sent to a wallet address that no one can access — effectively
+  burning the tokens.Daniel Hwang, who helps run one of the Juno validators, said to CoinDesk, "We fucked up big time". He
+  also offered an unusual opinion: "Validators should have due diligenced for ourselves to actually check the code we''re
+  executing and running".Shortly after the botched transaction, the Juno community began voting on a proposal to hard fork
+  a second time to fix their mistake.'

@@ -1,17 +1,16 @@
-source_name: '"SEC investigating Coinbase for its Earn product, wallet service and
-  exchange activity"'
+source_name: '"SEC investigating Coinbase for its Earn product, wallet service and exchange activity"'
 source_url: https://www.theblock.co/post/222084/sec-investigating-coinbase-for-its-earn-product-wallet-service-and-exchange-activity
 date_of_breach: '2023-03-22'
 date_of_disclosure: '2023-03-22'
 category: other
-notes: The SEC sent Coinbase a Wells notice, which is basically their way of saying
-  "we're about to file a complaint against you, here's your chance to convince us
-  not to."According to Coinbase, the Wells notice related to "aspects of the company's
-  exchange, our staking service Coinbase Earn, and Coinbase Wallet". It's not terribly
-  surprising that the SEC might have Coinbase Earn in its crosshairs, as it has recently
-  taken action against similar products, such as Kraken's staking service. In the
-  wake of the action against Kraken, Coinbase seemed to try to pre-empt SEC arguments
-  by sending an email to customers emphasizing things like "You earn rewards from
-  the protocol, not Coinbase". It doesn't look like this has shifted the SEC's thoughts
-  much, though.This should be an interesting saga to watch, partly because Coinbase
-  has expressed willingness in the past to go head to head with the SEC.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC sends a Wells notice to Coinbase
+blockchain: ethereum
+notes: The SEC sent Coinbase a Wells notice, which is basically their way of saying "we're about to file a complaint against
+  you, here's your chance to convince us not to."According to Coinbase, the Wells notice related to "aspects of the company's
+  exchange, our staking service Coinbase Earn, and Coinbase Wallet". It's not terribly surprising that the SEC might have
+  Coinbase Earn in its crosshairs, as it has recently taken action against similar products, such as Kraken's staking service.
+  In the wake of the action against Kraken, Coinbase seemed to try to pre-empt SEC arguments by sending an email to customers
+  emphasizing things like "You earn rewards from the protocol, not Coinbase". It doesn't look like this has shifted the SEC's
+  thoughts much, though.This should be an interesting saga to watch, partly because Coinbase has expressed willingness in
+  the past to go head to head with the SEC.

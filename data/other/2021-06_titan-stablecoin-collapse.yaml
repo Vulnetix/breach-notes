@@ -1,11 +1,11 @@
-source_name: '"Why the crash of crypto token ''titan'' that burned Mark Cuban may
-  not foretell a bitcoin plunge"'
+source_name: '"Why the crash of crypto token ''titan'' that burned Mark Cuban may not foretell a bitcoin plunge"'
 source_url: https://www.cnbc.com/2021/06/24/why-titan-crypto-crash-that-burned-mark-cuban-may-not-signal-similar-bitcoin-plunge.html
 date_of_breach: '2021-06-16'
 date_of_disclosure: '2021-06-16'
 category: other
-notes: The cryptocurrency "titan" dropped from $65 to $0.000000024 within a few hours,
-  despite being a stablecoin that is supposed to be much less volatile than most cryptocurrencies.
-  As the price began to drop, the smart contract encountered a bug that prevented
-  investors from selling their holdings. Among those burned by the coin's crash was
-  billionaire investor Mark Cuban, who had blogged about the token only days prior.
+initial_attack_vector: Smart contract vulnerability exploit
+vendor_product: Titan stablecoin
+notes: The cryptocurrency "titan" dropped from $65 to $0.000000024 within a few hours, despite being a stablecoin that is
+  supposed to be much less volatile than most cryptocurrencies. As the price began to drop, the smart contract encountered
+  a bug that prevented investors from selling their holdings. Among those burned by the coin's crash was billionaire investor
+  Mark Cuban, who had blogged about the token only days prior.

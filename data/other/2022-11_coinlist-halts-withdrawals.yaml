@@ -3,13 +3,12 @@ source_url: https://twitter.com/WuBlockchain/status/1595751967581933570
 date_of_breach: '2022-11-24'
 date_of_disclosure: '2022-11-24'
 category: other
-notes: Beginning in mid-November, users of the CoinList exchange and ICO platform
-  reported that they couldn't withdraw assets from the platform. On November 24, CoinList
-  tweeted, "There is a lot of FUD going around that we would like to address head
-  on. CoinList is not insolvent, illiquid, or near bankruptcy. We are experiencing
-  technical issues that are affecting deposits and withdrawals." This was not entirely
-  reassuring, given the number of companies in the crypto industry who have announced
-  they were just fine before being revealed to be deeply underwater.CoinList lost
-  $35 million in the June Three Arrows blowup. Shortly after the FTX collapse, CoinList
-  claimed to have "no material exposure to FTX, FTT,  Alameda or any credit exposure
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: CoinList
+notes: Beginning in mid-November, users of the CoinList exchange and ICO platform reported that they couldn't withdraw assets
+  from the platform. On November 24, CoinList tweeted, "There is a lot of FUD going around that we would like to address head
+  on. CoinList is not insolvent, illiquid, or near bankruptcy. We are experiencing technical issues that are affecting deposits
+  and withdrawals." This was not entirely reassuring, given the number of companies in the crypto industry who have announced
+  they were just fine before being revealed to be deeply underwater.CoinList lost $35 million in the June Three Arrows blowup.
+  Shortly after the FTX collapse, CoinList claimed to have "no material exposure to FTX, FTT,  Alameda or any credit exposure
   to any affiliate of FTX". However, they stopped processing withdrawals shortly after.

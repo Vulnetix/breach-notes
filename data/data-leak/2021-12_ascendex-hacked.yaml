@@ -1,11 +1,13 @@
-source_name: '"Ascendex Hacked — Exchange Loses $77 Million in ERC20, BSC, Polygon
-  Tokens"'
+source_name: '"Ascendex Hacked — Exchange Loses $77 Million in ERC20, BSC, Polygon Tokens"'
 source_url: https://news.bitcoin.com/ascendex-hacked-exchange-loses-77-million-in-erc20-bsc-polygon-tokens/
 date_of_breach: '2021-12-11'
 date_of_disclosure: '2021-12-11'
 category: data-leak
-notes: 'Ascendex lost $77 million in a hack targeting hot wallets. The platform said
-  it would reimburse customers for all of their lost funds.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Ascendex
+financial_loss_usd: 77000000
+notes: 'Ascendex lost $77 million in a hack targeting hot wallets. The platform said it would reimburse customers for all
+  of their lost funds.
 
 
   Total loss estimated at $77,000,000.'

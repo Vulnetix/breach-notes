@@ -3,15 +3,12 @@ source_url: https://www.wsj.com/articles/coinbase-tested-group-to-speculate-on-c
 date_of_breach: '2022-09-22'
 date_of_disclosure: '2022-09-22'
 category: other
-notes: According to a report in the Wall Street Journal, US-based cryptocurrency exchange
-  Coinbase tested a group to speculate on cryptocurrencies in hopes of earning funds
-  for the business. The WSJ said they performed a $100 million "test trade" before
-  ending the initiative. Some Coinbase employees described the project as proprietary
-  trading — something Coinbase has testified in front of Congress to say they don't
-  do. Prop trading is controversial because of the potential conflicts of interest,
-  in which firms can end up effectively trading against their own customers.Coinbase
-  has refuted the WSJ claims in a blog post, accusing the paper of confusing "client-driven
-  activities" with prop trading. In a statement to the WSJ, published in the article
-  alongside the allegations, a Coinbase spokesperson said that "Coinbase does not,
-  and has never, had a proprietary trading business. Any insinuation that we misled
-  Congress is a willful misrepresentation of the facts".
+vendor_product: Coinbase tested proprietary trading
+notes: According to a report in the Wall Street Journal, US-based cryptocurrency exchange Coinbase tested a group to speculate
+  on cryptocurrencies in hopes of earning funds for the business. The WSJ said they performed a $100 million "test trade"
+  before ending the initiative. Some Coinbase employees described the project as proprietary trading — something Coinbase
+  has testified in front of Congress to say they don't do. Prop trading is controversial because of the potential conflicts
+  of interest, in which firms can end up effectively trading against their own customers.Coinbase has refuted the WSJ claims
+  in a blog post, accusing the paper of confusing "client-driven activities" with prop trading. In a statement to the WSJ,
+  published in the article alongside the allegations, a Coinbase spokesperson said that "Coinbase does not, and has never,
+  had a proprietary trading business. Any insinuation that we misled Congress is a willful misrepresentation of the facts".

@@ -3,23 +3,18 @@ source_url: https://twitter.com/smlundberg/status/1486447254420566020
 date_of_breach: '2022-01-28'
 date_of_disclosure: '2022-01-28'
 category: other
-notes: Khan Academy, an otherwise excellent non-profit offering online educational
-  tools, announced they would be participating in an NFT charity auction on January
-  19. The auction featured an NFT playing card by Parallel, a sci-fi card game that
-  requires players to buy packs of cards (NFTs) to play. Like so many blockchain gaming
-  projects, it appears that the actual gameplay doesn't exist yet — somehow that required
-  a $500 million funding round first.The auction ended on January 21, with a winning
-  bid of 77 ETH (nearly $200,000) from ParagonsDAO, plus the promise of another 34
-  ETH ($87,000) donation from the DAO to Khan Academy. However, ParagonsDAO is a DAO
-  created specifically to "play a key role in Parallel's governance" and "support
-  the creation of an ecosystem for Parallel to thrive". Former Khan Academy employee
-  S. M. Lundberg raised their concerns about the wash trading, and "KA elevat[ing]
-  Parallel on its own channels to a largely underage and under-resourced user base"
-  in the Khan Academy Slack, and was removed from the channel by Khan Academy founder
-  Sal Khan. At least three other former employees were removed from the channel for
-  criticizing the decision to engage with the NFT project, as was an additional person
-  who protested the removal of those raising concerns.Although the auction ended with
-  more than $250,000 going to Khan Academy, it is likely that Parallel got the better
-  deal here — Khan Academy is an enormous name to have promoting one's project. Sal
-  Khan actively hyped the project in various spaces, including in an appearance on
-  CNBC's Squawk Box.
+vendor_product: Khan Academy wash trading controversy
+blockchain: ethereum
+notes: Khan Academy, an otherwise excellent non-profit offering online educational tools, announced they would be participating
+  in an NFT charity auction on January 19. The auction featured an NFT playing card by Parallel, a sci-fi card game that requires
+  players to buy packs of cards (NFTs) to play. Like so many blockchain gaming projects, it appears that the actual gameplay
+  doesn't exist yet — somehow that required a $500 million funding round first.The auction ended on January 21, with a winning
+  bid of 77 ETH (nearly $200,000) from ParagonsDAO, plus the promise of another 34 ETH ($87,000) donation from the DAO to
+  Khan Academy. However, ParagonsDAO is a DAO created specifically to "play a key role in Parallel's governance" and "support
+  the creation of an ecosystem for Parallel to thrive". Former Khan Academy employee S. M. Lundberg raised their concerns
+  about the wash trading, and "KA elevat[ing] Parallel on its own channels to a largely underage and under-resourced user
+  base" in the Khan Academy Slack, and was removed from the channel by Khan Academy founder Sal Khan. At least three other
+  former employees were removed from the channel for criticizing the decision to engage with the NFT project, as was an additional
+  person who protested the removal of those raising concerns.Although the auction ended with more than $250,000 going to Khan
+  Academy, it is likely that Parallel got the better deal here — Khan Academy is an enormous name to have promoting one's
+  project. Sal Khan actively hyped the project in various spaces, including in an appearance on CNBC's Squawk Box.

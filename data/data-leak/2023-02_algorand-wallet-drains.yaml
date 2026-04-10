@@ -3,14 +3,16 @@ source_url: https://twitter.com/myalgo_/status/1630185695791706120
 date_of_breach: '2023-02-27'
 date_of_disclosure: '2023-02-27'
 category: data-leak
-notes: 'Over a period of several days, around 25 accounts on the Algorand blockchain
-  have been drained of funds. The attack appears to be targeted at high-value accounts,
-  and over 13 million ALGO (~$3.3 million) has been drained so far.John Woods, the
-  CTO of the Algorand Foundation, acknowledged the spate of hacks, writing, "I agree
-  that there''s too many of these hacks to be a coincidence". However, he stated that
-  he was confident it was not an issue with Algorand itself. The Algorand wallet provider
-  MyAlgo subsequently urged users to withdraw funds from wallets that use mnemonic
-  phrases for recovery, suggesting that there may have been an issue with their software.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Algorand wallet drains
+financial_loss_usd: 3292000
+affected_count: 25
+notes: 'Over a period of several days, around 25 accounts on the Algorand blockchain have been drained of funds. The attack
+  appears to be targeted at high-value accounts, and over 13 million ALGO (~$3.3 million) has been drained so far.John Woods,
+  the CTO of the Algorand Foundation, acknowledged the spate of hacks, writing, "I agree that there''s too many of these hacks
+  to be a coincidence". However, he stated that he was confident it was not an issue with Algorand itself. The Algorand wallet
+  provider MyAlgo subsequently urged users to withdraw funds from wallets that use mnemonic phrases for recovery, suggesting
+  that there may have been an issue with their software.
 
 
   Total loss estimated at $3,292,000.'

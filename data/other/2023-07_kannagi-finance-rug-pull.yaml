@@ -3,9 +3,12 @@ source_url: https://www.theblock.co/post/241997/kannagi-finance-rugpull
 date_of_breach: '2023-07-29'
 date_of_disclosure: '2023-07-29'
 category: other
-notes: 'The defi yield aggregator project Kannagi Finance rug pulled on July 29 as
-  its creators drained the $2.13 million total value locked. Kannagi Finance deleted
-  its website and social media accounts following the exit scam.Blockchain security
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Kannagi Finance
+blockchain: ethereum
+financial_loss_usd: 2130000
+notes: 'The defi yield aggregator project Kannagi Finance rug pulled on July 29 as its creators drained the $2.13 million
+  total value locked. Kannagi Finance deleted its website and social media accounts following the exit scam.Blockchain security
   firm SolidProof had audited Kannagi in June.
 
 

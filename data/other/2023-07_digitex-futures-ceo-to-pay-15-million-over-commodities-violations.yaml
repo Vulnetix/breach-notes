@@ -3,15 +3,13 @@ source_url: https://www.courtlistener.com/docket/65389365/commodity-futures-trad
 date_of_breach: '2023-07-12'
 date_of_disclosure: '2023-07-12'
 category: other
-notes: Adam Todd, the CEO of the Digitex Futures exchange, has been ordered to pay
-  $3.9 million in disgorgement and $11.7 million in penalties. The Commodity Futures
-  Trading Commission won a default judgment against him in their lawsuit alleging  violations
-  of the Commodity Exchange Act, including failing to register as a derivatives exchange,
-  attempting to manipulate the price of the DGTX token, and failing to implement proper
-  KYC and anti-money laundering programs.According to Todd in a YouTube video, "We
-  do not need to do KYC. [...] You should not have to give them because the U.S. government
-  or whatever other [expletive] government in the world says that you need to. You
-  do not need to. You just do not." Well, in that case.Todd was also accused of trying
-  to artificially inflate the price of the DGTX token by buying it on third-party
-  exchanges, writing out his plans in excruciating detail with a customer who provided
-  him funds to use on pumping the token.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Digitex
+notes: Adam Todd, the CEO of the Digitex Futures exchange, has been ordered to pay $3.9 million in disgorgement and $11.7
+  million in penalties. The Commodity Futures Trading Commission won a default judgment against him in their lawsuit alleging  violations
+  of the Commodity Exchange Act, including failing to register as a derivatives exchange, attempting to manipulate the price
+  of the DGTX token, and failing to implement proper KYC and anti-money laundering programs.According to Todd in a YouTube
+  video, "We do not need to do KYC. [...] You should not have to give them because the U.S. government or whatever other [expletive]
+  government in the world says that you need to. You do not need to. You just do not." Well, in that case.Todd was also accused
+  of trying to artificially inflate the price of the DGTX token by buying it on third-party exchanges, writing out his plans
+  in excruciating detail with a customer who provided him funds to use on pumping the token.

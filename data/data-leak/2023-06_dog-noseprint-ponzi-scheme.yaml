@@ -3,15 +3,16 @@ source_url: https://www.dlnews.com/articles/people-culture/korean-blockchain-for
 date_of_breach: '2023-06-22'
 date_of_disclosure: '2023-06-22'
 category: data-leak
-notes: 'A company that promised an app that could identify dogs by their nose-prints
-  — built on the blockchain, of course — has been alleged by South Korean police to
-  be "a typical Ponzi scheme" that lured investors with promises of up to 150% returns
-  in 100 days. The company raised around ₩166.4 billion (~$127 million) from approximately
-  22,000 people. The victims, according to Korean police, are mostly "in their 60s
-  or older with no expertise in cryptocurrencies".As for the noseprint reader, well,
-  it was found to be a fake product that (shockingly) didn''t use a blockchain at
-  all. The company had also promised to build "theme parks for pets", but had not
-  leased any of the sites it had identified.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Dog noseprint Ponzi scheme
+financial_loss_usd: 127000000
+affected_count: 22000
+notes: 'A company that promised an app that could identify dogs by their nose-prints — built on the blockchain, of course
+  — has been alleged by South Korean police to be "a typical Ponzi scheme" that lured investors with promises of up to 150%
+  returns in 100 days. The company raised around ₩166.4 billion (~$127 million) from approximately 22,000 people. The victims,
+  according to Korean police, are mostly "in their 60s or older with no expertise in cryptocurrencies".As for the noseprint
+  reader, well, it was found to be a fake product that (shockingly) didn''t use a blockchain at all. The company had also
+  promised to build "theme parks for pets", but had not leased any of the sites it had identified.
 
 
   Total loss estimated at $127,000,000.'

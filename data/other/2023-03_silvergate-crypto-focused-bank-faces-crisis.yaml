@@ -3,18 +3,15 @@ source_url: https://www.ft.com/content/d25c4e79-936e-445b-a664-087af642d2f9
 date_of_breach: '2023-03-02'
 date_of_disclosure: '2023-03-02'
 category: other
-notes: 'Silvergate is a US bank that shifted its business toward primarily serving
-  crypto clients. Following the collapse of FTX, there have been concerns over Silvergate''s
-  exposure to the losses experienced within the crypto industry. Short sellers piled
-  in, making Silvergate the most shorted stock in late February.On March 1, Silvergate
-  revealed that they would miss the deadline to file their annual report with the
-  SEC, which they blamed on regulatory inquiries. They also revealed even more losses,
-  which added to the massive $887 million in losses they experienced in Q4 2022. They
-  also disclosed that they were having to evaluate whether the bank was going to be
-  able to survive.Silvergate''s stock plunged on the news, worsening its already marked
-  decline in price over 2022–23. Some crypto firms began distancing themselves from
-  the bank, as well: Coinbase announced on March 2 that they would no longer be transacting
-  with Silvergate "in light of recent developments and out of an abundance of caution".
-  Galaxy Digital, Paxos, CBOE, Gemini, Crypto.com, and Bitstamp also announced they
-  would cease transfers to and from Silvergate, and Circle announced they would be
-  "unwinding certain services with them".'
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Silvergate crypto-focused bank faces crisis
+notes: 'Silvergate is a US bank that shifted its business toward primarily serving crypto clients. Following the collapse
+  of FTX, there have been concerns over Silvergate''s exposure to the losses experienced within the crypto industry. Short
+  sellers piled in, making Silvergate the most shorted stock in late February.On March 1, Silvergate revealed that they would
+  miss the deadline to file their annual report with the SEC, which they blamed on regulatory inquiries. They also revealed
+  even more losses, which added to the massive $887 million in losses they experienced in Q4 2022. They also disclosed that
+  they were having to evaluate whether the bank was going to be able to survive.Silvergate''s stock plunged on the news, worsening
+  its already marked decline in price over 2022–23. Some crypto firms began distancing themselves from the bank, as well:
+  Coinbase announced on March 2 that they would no longer be transacting with Silvergate "in light of recent developments
+  and out of an abundance of caution". Galaxy Digital, Paxos, CBOE, Gemini, Crypto.com, and Bitstamp also announced they would
+  cease transfers to and from Silvergate, and Circle announced they would be "unwinding certain services with them".'

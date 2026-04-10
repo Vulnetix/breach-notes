@@ -3,16 +3,14 @@ source_url: https://blog.bancor.network/market-conditions-update-june-19-2022-e5
 date_of_breach: '2022-06-19'
 date_of_disclosure: '2022-06-19'
 category: other
-notes: The defi insurance protocol Bancor announced on June 19 that they would be
-  suspending their impermanent loss protection due to "hostile market conditions".
-  The feature sought to protect users from "impermanent loss", a risk when a person
-  provides liquidity to a pool, the ratio of deposited assets changes, and the person
-  winds up with more of the token that's worth less.Bancor wrote in their announcement
-  that "Withdrawals performed during this unstable period will not be eligible for
-  IL protection. Users who remain in the protocol will continue earning yields and
-  be entitled to withdraw their fully-protected value when IL protection is reactivated."
-  Many view this as Bancor holding their crypto hostage, because they would take a
-  major loss if they withdrew while IL protection was paused.The post goes on to say
-  that "two large centralized entities" (likely Celsius and Three Arrows Capital)
-  have rapidly liquidated their $BNT positions and withdrawn a large amount of liquidity;
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Bancor
+notes: The defi insurance protocol Bancor announced on June 19 that they would be suspending their impermanent loss protection
+  due to "hostile market conditions". The feature sought to protect users from "impermanent loss", a risk when a person provides
+  liquidity to a pool, the ratio of deposited assets changes, and the person winds up with more of the token that's worth
+  less.Bancor wrote in their announcement that "Withdrawals performed during this unstable period will not be eligible for
+  IL protection. Users who remain in the protocol will continue earning yields and be entitled to withdraw their fully-protected
+  value when IL protection is reactivated." Many view this as Bancor holding their crypto hostage, because they would take
+  a major loss if they withdrew while IL protection was paused.The post goes on to say that "two large centralized entities"
+  (likely Celsius and Three Arrows Capital) have rapidly liquidated their $BNT positions and withdrawn a large amount of liquidity;
   Bancor also wrote that another entity has opened a large short against $BNT.

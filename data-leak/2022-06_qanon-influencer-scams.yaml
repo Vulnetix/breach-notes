@@ -3,19 +3,18 @@ source_url: https://www.logically.ai/articles/qanon-crypto-lose-followers-2-mill
 date_of_breach: '2022-06-20'
 date_of_disclosure: '2022-06-20'
 category: data-leak
-notes: 'Research firm Logically published an investigation into two QAnon influencers
-  who successfully convinced their follower to put more than $2 million into crypto
-  scams. Telling their followers that they could predict the success of cryptocurrencies
-  because of access to "secret military intelligence", they capitalized on QAnon conspiracy
-  theories to defraud their followers through various pump-and-dump schemes. The influencers
-  made claims including that they had personal connections with Elon Musk, Donald
-  Trump, and John F. Kennedy, Jr. (who died in 1999, despite some QAnon theories),
-  or that "aliens want us to trade cryptocurrency ''as an on-ramp to familiarize ourselves
-  with the quantum financial system until we can evolve into 5D and trade assets with
-  our consciousness''".According to Logically, the "vast majority" of people following
-  the influencers'' investment advice "lost anywhere between several hundred and tens
-  of thousands of dollars". One man lost more than $100,000, resulting in him also
-  losing his house and construction business. The man ultimately died by suicide.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: QAnon influencer
+financial_loss_usd: 2000000
+notes: 'Research firm Logically published an investigation into two QAnon influencers who successfully convinced their follower
+  to put more than $2 million into crypto scams. Telling their followers that they could predict the success of cryptocurrencies
+  because of access to "secret military intelligence", they capitalized on QAnon conspiracy theories to defraud their followers
+  through various pump-and-dump schemes. The influencers made claims including that they had personal connections with Elon
+  Musk, Donald Trump, and John F. Kennedy, Jr. (who died in 1999, despite some QAnon theories), or that "aliens want us to
+  trade cryptocurrency ''as an on-ramp to familiarize ourselves with the quantum financial system until we can evolve into
+  5D and trade assets with our consciousness''".According to Logically, the "vast majority" of people following the influencers''
+  investment advice "lost anywhere between several hundred and tens of thousands of dollars". One man lost more than $100,000,
+  resulting in him also losing his house and construction business. The man ultimately died by suicide.
 
 
   Total loss estimated at $2,000,000.'

@@ -1,17 +1,17 @@
-source_name: '"Twitter user releases video showcasing mining factory with NVIDIA GeForce
-  RTX 3070 Founder’s Edition GPUs sold on the ''back end''"'
+source_name: '"Twitter user releases video showcasing mining factory with NVIDIA GeForce RTX 3070 Founder’s Edition GPUs sold
+  on the ''back end''"'
 source_url: https://wccftech.com/twitter-user-releases-video-showcasing-mining-factory-with-nvidia-geforce-rtx-3070-founders-edition-gpus-sold-on-the-back-end/
 date_of_breach: '2021-12-15'
 date_of_disclosure: '2021-12-15'
 category: other
-notes: 'Crypto miner Jaxson Davidson posted a video showing one of four buildings
-  in his crypto mining farm, showing racks of thousands of GPUs — GPUs that gamers
-  and other consumer buyers are finding painfully expensive, if available for sale
-  at all. He said the GPUs were bought "under the table", for an average price of
-  $1,200 per unit, and is using the farm to mine Ethereum and Ravencoin. Davidson
-  deleted his Twitter account following some pretty fierce backlash from gamers feeling
-  the GPU shortage, as well as crypto skeptics who were shocked at the display of
-  energy expenditure.
+vendor_product: Crypto miner tweet
+blockchain: ethereum
+financial_loss_usd: 13500
+notes: 'Crypto miner Jaxson Davidson posted a video showing one of four buildings in his crypto mining farm, showing racks
+  of thousands of GPUs — GPUs that gamers and other consumer buyers are finding painfully expensive, if available for sale
+  at all. He said the GPUs were bought "under the table", for an average price of $1,200 per unit, and is using the farm to
+  mine Ethereum and Ravencoin. Davidson deleted his Twitter account following some pretty fierce backlash from gamers feeling
+  the GPU shortage, as well as crypto skeptics who were shocked at the display of energy expenditure.
 
 
   Total loss estimated at $13,500.'

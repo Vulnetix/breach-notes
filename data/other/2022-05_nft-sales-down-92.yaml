@@ -3,12 +3,10 @@ source_url: https://www.wsj.com/articles/nft-sales-are-flatlining-11651552616
 date_of_breach: '2022-05-03'
 date_of_disclosure: '2022-05-03'
 category: other
-notes: The Wall Street Journal reported that "the NFT market is collapsing", citing
-  data from NonFungible that showed daily average sales of NFTs had dropped 92% from
-  their September peak. They also reported that active wallets had dropped 88% from
-  their November peak, suggesting fewer people were regularly trading NFTs. This may
-  reflect growing disillusionment with a sector that's increasingly earned its reputation
-  as full of scams and opportunities to lose money.However, the article must be taken
-  with a grain of salt. It's very difficult to determine in the moment what's simply
-  a temporary lull rather than a death spiral, and notoriously inconsistent NFT and
-  crypto data sources can tell wildly different stories.
+vendor_product: NFT sales down 92%
+notes: The Wall Street Journal reported that "the NFT market is collapsing", citing data from NonFungible that showed daily
+  average sales of NFTs had dropped 92% from their September peak. They also reported that active wallets had dropped 88%
+  from their November peak, suggesting fewer people were regularly trading NFTs. This may reflect growing disillusionment
+  with a sector that's increasingly earned its reputation as full of scams and opportunities to lose money.However, the article
+  must be taken with a grain of salt. It's very difficult to determine in the moment what's simply a temporary lull rather
+  than a death spiral, and notoriously inconsistent NFT and crypto data sources can tell wildly different stories.

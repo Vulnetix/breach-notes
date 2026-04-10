@@ -3,17 +3,18 @@ source_url: https://etherscan.io/address/0x33e02cC38790a07927c79D1ed75b72bcFb837
 date_of_breach: '2022-04-06'
 date_of_disclosure: '2022-04-06'
 category: data-leak
-notes: 'It''s not exactly straightforward to revoke wallet permissions once they''ve
-  been granted, and so many users use a site called revoke.cash to remove permissions
-  in the case of malicious contracts or as a precautionary measure. A clever scammer
-  created a fake website that mimics revoke.cash, called revoke.site, and then used
-  a verified Twitter account to tweet about a "huge OpenSea issue" that they claimed
-  resulted in the loss of a pricey NFT. Hoping that people would panic and try to
-  use the site to revoke permissions, in reality the website runs a script to determine
-  the highest value assets, and then prompts the user to "revoke" permissions for
-  those assets — when in reality, it sets approval for those assets to be transferred
-  to the scammer''s wallet. As of the evening of April 7, the wallet had received
-  13 NFTs, and flipped eight of them for a total profit of 4.9 ETH (~$16,000).
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fake Revoke.cash site
+blockchain: ethereum
+financial_loss_usd: 16000
+notes: 'It''s not exactly straightforward to revoke wallet permissions once they''ve been granted, and so many users use a
+  site called revoke.cash to remove permissions in the case of malicious contracts or as a precautionary measure. A clever
+  scammer created a fake website that mimics revoke.cash, called revoke.site, and then used a verified Twitter account to
+  tweet about a "huge OpenSea issue" that they claimed resulted in the loss of a pricey NFT. Hoping that people would panic
+  and try to use the site to revoke permissions, in reality the website runs a script to determine the highest value assets,
+  and then prompts the user to "revoke" permissions for those assets — when in reality, it sets approval for those assets
+  to be transferred to the scammer''s wallet. As of the evening of April 7, the wallet had received 13 NFTs, and flipped eight
+  of them for a total profit of 4.9 ETH (~$16,000).
 
 
   Total loss estimated at $16,000.'

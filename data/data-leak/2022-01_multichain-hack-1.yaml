@@ -1,13 +1,14 @@
-source_name: '"Crypto Protocol Publicly Announces Flaw, Users Relentlessly Owned by
-  Hackers"'
+source_name: '"Crypto Protocol Publicly Announces Flaw, Users Relentlessly Owned by Hackers"'
 source_url: https://www.vice.com/en/article/epxb8m/crypto-protocol-publicly-announces-flaw-users-relentlessly-owned-by-hackers
 date_of_breach: '2022-01-19'
 date_of_disclosure: '2022-01-19'
 category: data-leak
-notes: 'Multichain publicly announced a vulnerability that was affecting their tokens,
-  without first notifying users to ask them to remove vulnerable funds. Several hackers
-  quickly exploited the vulnerability, stealing around $3 million from the platform.
-  Security researchers described the saga as "the worst way to treat a vulnerability".
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Multichain
+financial_loss_usd: 3000000
+notes: 'Multichain publicly announced a vulnerability that was affecting their tokens, without first notifying users to ask
+  them to remove vulnerable funds. Several hackers quickly exploited the vulnerability, stealing around $3 million from the
+  platform. Security researchers described the saga as "the worst way to treat a vulnerability".
 
 
   Total loss estimated at $3,000,000.'

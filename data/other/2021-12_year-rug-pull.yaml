@@ -3,15 +3,15 @@ source_url: https://cointelegraph.com/news/airdrop-culture-could-pose-integral-t
 date_of_breach: '2021-12-31'
 date_of_disclosure: '2021-12-31'
 category: other
-notes: 'A token called $YEAR invited people to connect their crypto wallets and see
-  a "year in review"-style summary of their 2021 crypto and NFT transactions, with
-  an airdropped token reward based on their activity level. Some community members
-  audited the contract to look for signs of a scam, but missed a few lines of code
-  that enabled the creator to prevent people from selling the token. With people only
-  able to buy the token (on secondary exchanges) but not sell, the price rose, encouraging
-  others to buy in. Only 30 minutes after locking people out of selling, the creator
-  drained the liquidity pool of 59.7 ETH (about $225,000), dropping the coin''s value
-  to 0.
+vendor_product: $YEAR
+blockchain: ethereum
+financial_loss_usd: 225000
+notes: 'A token called $YEAR invited people to connect their crypto wallets and see a "year in review"-style summary of their
+  2021 crypto and NFT transactions, with an airdropped token reward based on their activity level. Some community members
+  audited the contract to look for signs of a scam, but missed a few lines of code that enabled the creator to prevent people
+  from selling the token. With people only able to buy the token (on secondary exchanges) but not sell, the price rose, encouraging
+  others to buy in. Only 30 minutes after locking people out of selling, the creator drained the liquidity pool of 59.7 ETH
+  (about $225,000), dropping the coin''s value to 0.
 
 
   Total loss estimated at $225,000.'

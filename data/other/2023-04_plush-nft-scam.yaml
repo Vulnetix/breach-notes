@@ -3,26 +3,23 @@ source_url: https://www.mediapart.fr/journal/france/230423/nounours-et-cryptomon
 date_of_breach: '2023-04-23'
 date_of_disclosure: '2023-04-23'
 category: other
-notes: 'Around 770 people were convinced to spend a combined almost €1.5 million (~$1.66
-  million) on NFTs of teddy bears, which sold for around €1,250 each (~$1,380). Buyers
-  were told they would become "co-producers" of the Plush animated film, which would
-  star Kev Adams and other French comedians as voice actors. Adams led the promotion
-  of the NFT project, along with a mysterious figure called "Fabi". Other French celebrities
-  and influencers were also involved in touting the project, and Bella Thorne and
-  Amaury Nolasco were listed on the site as "US voices" for the project.The NFT buyers
-  — er, "co-producers" — were promised credit in the film credits, voting rights on
-  the script, and a split of 80% of the profits. "Although there is nothing guaranteed,
-  on average, you will make six to seven times what you put in 24 months. Which is
-  huge, when you think, you go to the Caisse d''Epargne, a traditional bank, and you
-  make less than 1% in the year," said one promotional video.A report from French
-  investigative newspaper Mediapart discovered that the project was backed by a Dubai-registered
-  company called "Illuminart", which played on confusion between its name and that
-  of the France-based Universal Studios subsidiary Illumination. An Illuminart marketing
-  campaign even used Illumination titles, such as The Lorax, Minions, and Despicable
-  Me, and their box office proceeds to suggest Plush buyers were in for a 516% profit.Meanwhile,
-  the project has gone silent, and its Twitter account last posted in September 2022.
-  NFTs are no longer offered for sale on the official project website, and Illuminart''s
-  business license has expired.
+vendor_product: Plush NFT
+financial_loss_usd: 1660000
+affected_count: 770
+notes: 'Around 770 people were convinced to spend a combined almost €1.5 million (~$1.66 million) on NFTs of teddy bears,
+  which sold for around €1,250 each (~$1,380). Buyers were told they would become "co-producers" of the Plush animated film,
+  which would star Kev Adams and other French comedians as voice actors. Adams led the promotion of the NFT project, along
+  with a mysterious figure called "Fabi". Other French celebrities and influencers were also involved in touting the project,
+  and Bella Thorne and Amaury Nolasco were listed on the site as "US voices" for the project.The NFT buyers — er, "co-producers"
+  — were promised credit in the film credits, voting rights on the script, and a split of 80% of the profits. "Although there
+  is nothing guaranteed, on average, you will make six to seven times what you put in 24 months. Which is huge, when you think,
+  you go to the Caisse d''Epargne, a traditional bank, and you make less than 1% in the year," said one promotional video.A
+  report from French investigative newspaper Mediapart discovered that the project was backed by a Dubai-registered company
+  called "Illuminart", which played on confusion between its name and that of the France-based Universal Studios subsidiary
+  Illumination. An Illuminart marketing campaign even used Illumination titles, such as The Lorax, Minions, and Despicable
+  Me, and their box office proceeds to suggest Plush buyers were in for a 516% profit.Meanwhile, the project has gone silent,
+  and its Twitter account last posted in September 2022. NFTs are no longer offered for sale on the official project website,
+  and Illuminart''s business license has expired.
 
 
   Total loss estimated at $1,660,000.'

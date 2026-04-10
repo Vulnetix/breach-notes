@@ -1,21 +1,19 @@
-source_name: '"Nima Capital goes dark after dumping 9M SYN tokens, community calls
-  it VC rug"'
+source_name: '"Nima Capital goes dark after dumping 9M SYN tokens, community calls it VC rug"'
 source_url: https://cointelegraph.com/news/sny-tokens-rug-pull-nima-capital-goes-dark-after-dumping-9-m-sny-tokens-community-calls-it-vc-rug
 date_of_breach: '2023-09-04'
 date_of_disclosure: '2023-09-04'
 category: other
-notes: '"Even VCs are rugging now", remarked someone on Twitter as Nima Capital was
-  observed selling 9 million $SYN (priced at ~$3.7 million before the sudden sale
-  caused the token price to drop) and removing all stablecoin liquidity from the Synapse
-  decentralized blockchain bridge. In April 2023, Nima had entered into a deal with
-  Synapse to lock $40 million of liquidity in the project in exchange for the $SYN
-  tokens, with an agreement to not sell the tokens for twelve months. However, it
-  appears they''ve just dumped their tokens seven months early. Not only that, Nima
-  Capital took their website offline and made their Twitter account private in typical
-  rug-pull fashion.Synapse posted on Twitter that they were "investigating unusual
-  activity" on the wallets of one of their liquidity providers, and were "working
-  to get in touch with them".The $SYN token plummeted almost 25% after the sell-off,
-  later recovering somewhat.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Nima Capital
+financial_loss_usd: 3700000
+notes: '"Even VCs are rugging now", remarked someone on Twitter as Nima Capital was observed selling 9 million $SYN (priced
+  at ~$3.7 million before the sudden sale caused the token price to drop) and removing all stablecoin liquidity from the Synapse
+  decentralized blockchain bridge. In April 2023, Nima had entered into a deal with Synapse to lock $40 million of liquidity
+  in the project in exchange for the $SYN tokens, with an agreement to not sell the tokens for twelve months. However, it
+  appears they''ve just dumped their tokens seven months early. Not only that, Nima Capital took their website offline and
+  made their Twitter account private in typical rug-pull fashion.Synapse posted on Twitter that they were "investigating unusual
+  activity" on the wallets of one of their liquidity providers, and were "working to get in touch with them".The $SYN token
+  plummeted almost 25% after the sell-off, later recovering somewhat.
 
 
   Total loss estimated at $3,700,000.'

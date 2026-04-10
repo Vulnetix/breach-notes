@@ -3,15 +3,14 @@ source_url: https://www.lavanguardia.com/economia/20220707/8392339/cierre-2gethe
 date_of_breach: '2022-07-07'
 date_of_disclosure: '2022-07-07'
 category: other
-notes: The Spanish cryptocurrency platform 2gether suddenly announced that they were
-  "forced to close service for private accounts" due to "lack of resources and crypto
-  winter". Users found themselves unable to access their accounts via the website
-  or the app, which showed an "under maintenance" message. The company also closed
-  all social media accounts. The previous day, the company had announced they would
-  begin charging a €20 ($20.33) fee for users because it was "impossible to maintain
-  the free service", but apparently decided to go much further. Around 100,000 users
-  found themselves unable to withdraw their funds.2gether had previously made news
-  in August 2020, when hackers stole 114 Bitcoin and 276 ETH — then worth around €1.183
-  million ($1.2 million), and representing 15% of customer funds. The company successfully
-  raised €1.5 million ($1.52 million) in a financing round several months later to
-  cover the loss.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: 2gether closes accounts
+affected_count: 100000
+notes: The Spanish cryptocurrency platform 2gether suddenly announced that they were "forced to close service for private
+  accounts" due to "lack of resources and crypto winter". Users found themselves unable to access their accounts via the website
+  or the app, which showed an "under maintenance" message. The company also closed all social media accounts. The previous
+  day, the company had announced they would begin charging a €20 ($20.33) fee for users because it was "impossible to maintain
+  the free service", but apparently decided to go much further. Around 100,000 users found themselves unable to withdraw their
+  funds.2gether had previously made news in August 2020, when hackers stole 114 Bitcoin and 276 ETH — then worth around €1.183
+  million ($1.2 million), and representing 15% of customer funds. The company successfully raised €1.5 million ($1.52 million)
+  in a financing round several months later to cover the loss.

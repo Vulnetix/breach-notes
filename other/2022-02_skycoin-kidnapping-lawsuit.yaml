@@ -3,11 +3,10 @@ source_url: https://www.bloomberg.com/news/articles/2022-02-09/skycoin-founder-a
 date_of_breach: '2022-02-09'
 date_of_disclosure: '2022-02-09'
 category: other
-notes: Brandon Smietana, the creator of the Skycoin cryptocurrency, filed a civil
-  racketeering lawsuit on February 9 against a slew of people. He claims that the
-  people hired to market the coin and redo its website ended up damaging the website
-  to demand ransom payments, and ultimately kidnapped Smietana and his girlfriend,
-  then beat and tortured them for hours until Smietana handed over $360,000 in Bitcoin
-  and Skycoin.One defendant in the lawsuit has described the suit as "absurd" and
-  "pretty weird", and said that Smietana has "a history of blaming other people for
-  the failure of Skycoin".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Skycoin kidnapping lawsuit
+notes: Brandon Smietana, the creator of the Skycoin cryptocurrency, filed a civil racketeering lawsuit on February 9 against
+  a slew of people. He claims that the people hired to market the coin and redo its website ended up damaging the website
+  to demand ransom payments, and ultimately kidnapped Smietana and his girlfriend, then beat and tortured them for hours until
+  Smietana handed over $360,000 in Bitcoin and Skycoin.One defendant in the lawsuit has described the suit as "absurd" and
+  "pretty weird", and said that Smietana has "a history of blaming other people for the failure of Skycoin".

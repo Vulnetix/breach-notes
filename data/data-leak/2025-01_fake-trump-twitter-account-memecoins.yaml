@@ -3,19 +3,18 @@ source_url: https://x.com/SlowMist_Team/status/1881703899503136818
 date_of_breach: '2025-01-21'
 date_of_disclosure: '2025-01-21'
 category: data-leak
-notes: 'A Twitter account called @TrumpDailyPosts has more than 1.3 million followers
-  on Twitter. While the account does automatically crosspost to Twitter any posts
-  Donald Trump makes on his Truth Social account, it also posts Trump-related news
-  and other tweets.After the Trump family actually did launch the $TRUMP and $MELANIA
-  memecoins, several more tweets by the @TrumpDailyPosts account appeared to crosspost
-  additional announcements by Donald Trump on Truth Social of memecoins with names
-  like $POTUS, $WIN, $POWER, and $MAGA. The tweets contained the date and timestamps
-  that normally establish that a post on the account is a repost of Trump''s genuine
-  Truth Social posts.It''s not clear if the @TrumpDailyPosts Twitter account was hacked
-  or if those running it decided to scam their followers. However, by sharing the
-  now-deleted posts to their large following, they made around $1.25 million from
-  people who were hoping to hop on the trend and buy in early to new Trump-backed
-  memecoins.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fake Trump Twitter account memecoins
+blockchain: solana
+financial_loss_usd: 1250000
+notes: 'A Twitter account called @TrumpDailyPosts has more than 1.3 million followers on Twitter. While the account does automatically
+  crosspost to Twitter any posts Donald Trump makes on his Truth Social account, it also posts Trump-related news and other
+  tweets.After the Trump family actually did launch the $TRUMP and $MELANIA memecoins, several more tweets by the @TrumpDailyPosts
+  account appeared to crosspost additional announcements by Donald Trump on Truth Social of memecoins with names like $POTUS,
+  $WIN, $POWER, and $MAGA. The tweets contained the date and timestamps that normally establish that a post on the account
+  is a repost of Trump''s genuine Truth Social posts.It''s not clear if the @TrumpDailyPosts Twitter account was hacked or
+  if those running it decided to scam their followers. However, by sharing the now-deleted posts to their large following,
+  they made around $1.25 million from people who were hoping to hop on the trend and buy in early to new Trump-backed memecoins.
 
 
   Total loss estimated at $1,250,000.'

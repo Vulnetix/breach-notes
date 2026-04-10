@@ -3,13 +3,16 @@ source_url: https://cointelegraph.com/news/platypus-flash-loan-exploit-defi
 date_of_breach: '2023-10-12'
 date_of_disclosure: '2023-10-12'
 category: data-leak
-notes: 'At this point, they should probably just have a form email ready to go. Platypus
-  Finance has suffered a cumulative $2.23 million in losses thanks to several attacks
-  on the platform over the course of several hours. This set of hacks followed a $8.5
-  million hack in February, and another hack of at least $150,000 in July.Platypus
-  was quickly able to recover $575,000 from this latest hacker, thanks to a flaw in
-  their attack. Later, they recovered all but $167,400 of the stolen funds after coming
-  to an agreement with the attacker that they would not pursue legal action.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Platypus Finance
+blockchain: avalanche
+financial_loss_usd: 167400
+financial_recovered_usd: 1487600
+notes: 'At this point, they should probably just have a form email ready to go. Platypus Finance has suffered a cumulative
+  $2.23 million in losses thanks to several attacks on the platform over the course of several hours. This set of hacks followed
+  a $8.5 million hack in February, and another hack of at least $150,000 in July.Platypus was quickly able to recover $575,000
+  from this latest hacker, thanks to a flaw in their attack. Later, they recovered all but $167,400 of the stolen funds after
+  coming to an agreement with the attacker that they would not pursue legal action.
 
 
   Total loss estimated at $167,400.'

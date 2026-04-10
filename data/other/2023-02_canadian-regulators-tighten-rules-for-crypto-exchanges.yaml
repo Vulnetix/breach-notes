@@ -1,16 +1,14 @@
-source_name: 'Canadian Securities Administrators Staff Notice 21-332: Crypto Asset
-  Trading Platforms: Pre-Registration Undertakings: Changes to Enhance Canadian Investor
-  Protection'
+source_name: 'Canadian Securities Administrators Staff Notice 21-332: Crypto Asset Trading Platforms: Pre-Registration Undertakings:
+  Changes to Enhance Canadian Investor Protection'
 source_url: https://www.osc.ca/en/news-events/news/canadian-securities-regulators-strengthen-oversight-enhance-expectations-crypto-asset-trading
 date_of_breach: '2023-02-22'
 date_of_disclosure: '2023-02-22'
 category: other
-notes: New guidance from the Canadian Securities Administrators requires any crypto
-  asset trading platforms (CTPs) operating in Canada without formal registration to
-  commit to "pre-registration undertakings". These require them to comply with expectations
-  around crypto asset custody and segregation, prohibitions on margin or leverage
-  trading, and a ban from allowing customers to purchase or deposit stablecoins without
-  express permission from the CSA.Platforms are expected to provide the pre-registration
-  undertaking while working toward registration with Canadian regulators. Companies
-  who don't comply with the new pre-registration requirements will have to close Canadian
-  accounts and prohibit Canadian users from accessing their services.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Canadian regulators tighten rules for crypto exchanges
+notes: New guidance from the Canadian Securities Administrators requires any crypto asset trading platforms (CTPs) operating
+  in Canada without formal registration to commit to "pre-registration undertakings". These require them to comply with expectations
+  around crypto asset custody and segregation, prohibitions on margin or leverage trading, and a ban from allowing customers
+  to purchase or deposit stablecoins without express permission from the CSA.Platforms are expected to provide the pre-registration
+  undertaking while working toward registration with Canadian regulators. Companies who don't comply with the new pre-registration
+  requirements will have to close Canadian accounts and prohibit Canadian users from accessing their services.

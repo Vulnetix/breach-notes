@@ -1,20 +1,18 @@
-source_name: '"ACCC takes action over alleged misleading conduct by Meta for publishing
-  scam celebrity crypto ads on Facebook"'
+source_name: '"ACCC takes action over alleged misleading conduct by Meta for publishing scam celebrity crypto ads on Facebook"'
 source_url: https://www.accc.gov.au/media-release/accc-takes-action-over-alleged-misleading-conduct-by-meta-for-publishing-scam-celebrity-crypto-ads-on-facebook
 date_of_breach: '2022-03-18'
 date_of_disclosure: '2022-03-18'
 category: data-leak
-notes: "The Australian Competition &amp; Consumer Commission (ACCC) announced that\
-  \ they had begun federal court proceedings against Facebook, alleging that the company\
-  \ \"engaged in false, misleading or deceptive conduct by publishing scam advertisements\
-  \ featuring prominent Australian public figures\". The ACCC claims that Facebook\
-  \ ads featured prominent Australian individuals without their approval, and implied\
-  \ that the crypto schemes were associated with or endorsed by those individuals.\
-  \ When a person clicked through the link, they were invited to provide contact information\
-  \ to a group of scammers who reportedly incessantly called the targets to pressure\
-  \ them into putting money into the schemes — in one case, a Facebook user lost more\
-  \ than $650,000. The ACC alleged that Facebook \"aided and abetted or was knowingly\
-  \ concerned in false or misleading conduct and representations by the advertisers\"\
-  , but didn't take sufficient action to stop the misrepresentation, even after public\
-  \ figures raised the alarm about their likenesses being used without consent to\
-  \ scam people. \n\nTotal loss estimated at $650,000."
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Australian Facebook crypto
+financial_loss_usd: 650000
+notes: "The Australian Competition &amp; Consumer Commission (ACCC) announced that they had begun federal court proceedings\
+  \ against Facebook, alleging that the company \"engaged in false, misleading or deceptive conduct by publishing scam advertisements\
+  \ featuring prominent Australian public figures\". The ACCC claims that Facebook ads featured prominent Australian individuals\
+  \ without their approval, and implied that the crypto schemes were associated with or endorsed by those individuals. When\
+  \ a person clicked through the link, they were invited to provide contact information to a group of scammers who reportedly\
+  \ incessantly called the targets to pressure them into putting money into the schemes — in one case, a Facebook user lost\
+  \ more than $650,000. The ACC alleged that Facebook \"aided and abetted or was knowingly concerned in false or misleading\
+  \ conduct and representations by the advertisers\", but didn't take sufficient action to stop the misrepresentation, even\
+  \ after public figures raised the alarm about their likenesses being used without consent to scam people. \n\nTotal loss\
+  \ estimated at $650,000."

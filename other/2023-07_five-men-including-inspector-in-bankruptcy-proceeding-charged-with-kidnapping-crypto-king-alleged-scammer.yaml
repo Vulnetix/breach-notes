@@ -1,21 +1,17 @@
-source_name: '"Investor who lost $740K to Ontario''s Crypto King among 5 men charged
-  with kidnapping him"'
+source_name: '"Investor who lost $740K to Ontario''s Crypto King among 5 men charged with kidnapping him"'
 source_url: https://www.cbc.ca/news/canada/toronto/investor-lost-money-among-5-men-charged-kidnapping-ontario-crypto-king-1.6907548
 date_of_breach: '2023-07-17'
 date_of_disclosure: '2023-07-17'
 category: other
-notes: Five men are facing charges for allegedly kidnapping, confining, and beating
-  Aiden Pleterski, the young, self-proclaimed "Crypto King" accused of losing $35
-  million in investor funds. One of the men, Akil Heywood, reportedly lost $740,000
-  to Pleterski's scam, and had been named by other investors to be an inspector in
-  the bankruptcy proceeding, a role where he was intended to represent the interests
-  of other investors. Perhaps that's what he was trying to do when he allegedly helped
-  the group of other men kidnap Pleterski, beat him, and force him to record a video
-  explaining what happened to the funds.As an inspector in the bankruptcy, Heywood
-  would have had access to details from the investigation by the bankruptcy trustee.
-  Heywood is, incidentally, also charged with threatening the trustee in an attempt
-  to get him to pay out $2 million in crypto. Shortly before the alleged kidnapping,
-  Pleterski stated in an interview for the bankruptcy proceedings that Heywood had
-  been "still, by the way, uttering threats, and very dangerous, violent threats,
-  to me over Instagram comment sections and text messages".Heywood has told reporters
-  he is innocent.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Five men, including inspector in bankruptcy proceeding, charged with kidnapping "Crypto King" alleged
+notes: Five men are facing charges for allegedly kidnapping, confining, and beating Aiden Pleterski, the young, self-proclaimed
+  "Crypto King" accused of losing $35 million in investor funds. One of the men, Akil Heywood, reportedly lost $740,000 to
+  Pleterski's scam, and had been named by other investors to be an inspector in the bankruptcy proceeding, a role where he
+  was intended to represent the interests of other investors. Perhaps that's what he was trying to do when he allegedly helped
+  the group of other men kidnap Pleterski, beat him, and force him to record a video explaining what happened to the funds.As
+  an inspector in the bankruptcy, Heywood would have had access to details from the investigation by the bankruptcy trustee.
+  Heywood is, incidentally, also charged with threatening the trustee in an attempt to get him to pay out $2 million in crypto.
+  Shortly before the alleged kidnapping, Pleterski stated in an interview for the bankruptcy proceedings that Heywood had
+  been "still, by the way, uttering threats, and very dangerous, violent threats, to me over Instagram comment sections and
+  text messages".Heywood has told reporters he is innocent.

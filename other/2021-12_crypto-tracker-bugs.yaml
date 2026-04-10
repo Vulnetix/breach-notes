@@ -3,17 +3,17 @@ source_url: https://www.bloomberg.com/news/articles/2021-12-14/crypto-prices-go-
 date_of_breach: '2021-12-14'
 date_of_disclosure: '2021-12-14'
 category: other
-notes: 'Some people were briefly elated or devastated when they looked at Coinbase
-  or CoinMarketCap, both major cryptocurrency trackers. A glitch caused some cryptocurrency
-  investments to appear to have surged in value by millions or billions of percentage
-  points; others saw their investments appear to tank to nearly nothing. Some DeFi
-  projects relying on data from Coinbase halted trading, and erroneous data from the
-  glitch persisted into the following day. CoinMarketCap made light of the glitch
-  on Twitter, writing, "How did it feel to be a trillionaire for a couple hours? 😂"
-  Hopefully no one quit their job based on their mistaken windfall! At least one person
-  speculated that bots relying on APIs from these services may have traded on the
-  "market movement", and one project relying on their data reported losing around
-  €300,000 (about $340,000) due to the relative value of their assets being inaccurate.
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Crypto tracker bugs
+financial_loss_usd: 340000
+notes: 'Some people were briefly elated or devastated when they looked at Coinbase or CoinMarketCap, both major cryptocurrency
+  trackers. A glitch caused some cryptocurrency investments to appear to have surged in value by millions or billions of percentage
+  points; others saw their investments appear to tank to nearly nothing. Some DeFi projects relying on data from Coinbase
+  halted trading, and erroneous data from the glitch persisted into the following day. CoinMarketCap made light of the glitch
+  on Twitter, writing, "How did it feel to be a trillionaire for a couple hours? 😂" Hopefully no one quit their job based
+  on their mistaken windfall! At least one person speculated that bots relying on APIs from these services may have traded
+  on the "market movement", and one project relying on their data reported losing around €300,000 (about $340,000) due to
+  the relative value of their assets being inaccurate.
 
 
   Total loss estimated at $340,000.'

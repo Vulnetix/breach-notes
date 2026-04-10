@@ -1,14 +1,13 @@
-source_name: '"SEC Charges Crypto Asset Trading Platform Bittrex and its Former CEO
-  for Operating an Unregistered Exchange, Broker, and Clearing Agency"'
+source_name: '"SEC Charges Crypto Asset Trading Platform Bittrex and its Former CEO for Operating an Unregistered Exchange,
+  Broker, and Clearing Agency"'
 source_url: https://www.sec.gov/news/press-release/2023-78
 date_of_breach: '2023-04-17'
 date_of_disclosure: '2023-04-17'
 category: other
-notes: Several weeks after Bittrex announced it would be winding down its US operations
-  by the end of April, citing the US "regulatory and economic environment", the SEC
-  filed charges against the company and its co-founder and former CEO William Shihara
-  for operating an unregistered national securities exchange, broker, and clearing
-  agency.The complaint also alleges that Bittrex and Shihara had coordinated with
-  token issuers to dodge potential SEC action by having them remove public "problematic
-  statements" predicting price, describing an expectation of profit, or describing
-  offerings in terms of investments.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC charges Bittrex
+notes: Several weeks after Bittrex announced it would be winding down its US operations by the end of April, citing the US
+  "regulatory and economic environment", the SEC filed charges against the company and its co-founder and former CEO William
+  Shihara for operating an unregistered national securities exchange, broker, and clearing agency.The complaint also alleges
+  that Bittrex and Shihara had coordinated with token issuers to dodge potential SEC action by having them remove public "problematic
+  statements" predicting price, describing an expectation of profit, or describing offerings in terms of investments.

@@ -3,10 +3,9 @@ source_url: https://twitter.com/opensea/status/1557487545876762625
 date_of_breach: '2022-08-10'
 date_of_disclosure: '2022-08-10'
 category: other
-notes: The dominant NFT platform, OpenSea, has changed its policy around NFTs that
-  are reported as stolen. OpenSea now requires those who have reported an NFT as stolen
-  to produce a police report within seven days, or else they will re-enable trading
-  of the asset.Some have praised the change as a good step towards preventing false
-  reports, whereas others have complained that the change does not apply retroactively
-  to assets that have already been frozen from trading on the platform. Others have
-  raised concerns about the new requirement that they engage with police.
+vendor_product: OpenSea requires police report to freeze NFTs
+notes: The dominant NFT platform, OpenSea, has changed its policy around NFTs that are reported as stolen. OpenSea now requires
+  those who have reported an NFT as stolen to produce a police report within seven days, or else they will re-enable trading
+  of the asset.Some have praised the change as a good step towards preventing false reports, whereas others have complained
+  that the change does not apply retroactively to assets that have already been frozen from trading on the platform. Others
+  have raised concerns about the new requirement that they engage with police.

@@ -3,11 +3,11 @@ source_url: https://www.asc.ca/-/media/ASC-Documents-part-1/Notices-Decisions-Or
 date_of_breach: '2023-12-21'
 date_of_disclosure: '2023-12-21'
 category: data-leak
-notes: The Canadian Catalyx cryptocurrency exchange has frozen trading and halted
-  withdrawals after an emergency order by the Alberta Securities Commission on December
-  21. Catalyx consented to the order.Catalyx announced in a press release on December
-  28 that they had "recently discovered a security breach on the Platform in connection
-  with the holding of crypto assets on behalf of clients. Management suspects that
-  this security breach, which may involve an employee, has resulted in the loss of
-  a portion of the crypto assets held by the Company on behalf of its clients".Catalyx
-  did not state how much had been stolen.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Catalyx trading freeze
+notes: The Canadian Catalyx cryptocurrency exchange has frozen trading and halted withdrawals after an emergency order by
+  the Alberta Securities Commission on December 21. Catalyx consented to the order.Catalyx announced in a press release on
+  December 28 that they had "recently discovered a security breach on the Platform in connection with the holding of crypto
+  assets on behalf of clients. Management suspects that this security breach, which may involve an employee, has resulted
+  in the loss of a portion of the crypto assets held by the Company on behalf of its clients".Catalyx did not state how much
+  had been stolen.

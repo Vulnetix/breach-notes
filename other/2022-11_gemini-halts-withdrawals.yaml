@@ -3,9 +3,9 @@ source_url: https://www.gemini.com/blog/an-important-message-regarding-gemini-ea
 date_of_breach: '2022-11-16'
 date_of_disclosure: '2022-11-16'
 category: other
-notes: The Gemini cryptocurrency platform announced that they would be pausing withdrawals
-  on their lending platform. This is because they partner closely with Genesis' lending
-  products, which halted withdrawals shortly before.The company said in a blog post
-  that they were "working with the Genesis team" to restore withdrawals. Like Genesis,
-  they tried to urge that the issue would not affect other Gemini products. However,
-  a service outage that same day did little to strengthen trust in the company.
+vendor_product: Gemini
+notes: The Gemini cryptocurrency platform announced that they would be pausing withdrawals on their lending platform. This
+  is because they partner closely with Genesis' lending products, which halted withdrawals shortly before.The company said
+  in a blog post that they were "working with the Genesis team" to restore withdrawals. Like Genesis, they tried to urge that
+  the issue would not affect other Gemini products. However, a service outage that same day did little to strengthen trust
+  in the company.

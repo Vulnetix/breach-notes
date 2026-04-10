@@ -3,22 +3,18 @@ source_url: https://x.com/NickDrakon/status/1831719184041906286
 date_of_breach: '2024-09-05'
 date_of_disclosure: '2024-09-05'
 category: data-leak
-notes: 'Nick Drakon, formerly the CEO of the crypto research and venture capital firm
-  Revelo, announced on Twitter that he was resigning from the company. In the post,
-  he claimed that he "was recently targeted, surveilled and robbed by a highly sophisticated
-  group. This was an in person attack where my wife and 8 month old son were threatened.
-  The group was specifically interested in crypto assets and knew the deposit addresses
-  belonging to the crypto businesses I operate. I was forced, at gunpoint, to log
-  into a number of crypto accounts and transfer funds out. The funds stolen comprised
-  personal funds, Revelo Intel working capital &amp; retained earnings, as well as
-  Revelo Ventures (an investment syndicate) funds for deals awaiting settlement."He
-  went on to state that the "vast majority" of the stolen assets were his personal
-  funds. He also alleged that "There is some evidence to suggest that someone in the
-  Ventures syndicate is either part of the group, or passing information onto them."The
-  amount of funds stolen was not disclosed. Drakon resigned as CEO, and said that
-  he had forfeited his interest in Revolo Intel "to facilitate the return of some
-  money back to members as quickly as possible". He wrote: "To be clear, I have zero
-  financial interest in Revelo moving forward."He also stated that he would be "stepping
-  away from ''public life'' in this space", and warned others: "If you are someone
-  who is known to control large sums of money, you are a target and it is not difficult
-  at all to get to you."'
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Revelo Ventures CEO resigns after robbery
+notes: 'Nick Drakon, formerly the CEO of the crypto research and venture capital firm Revelo, announced on Twitter that he
+  was resigning from the company. In the post, he claimed that he "was recently targeted, surveilled and robbed by a highly
+  sophisticated group. This was an in person attack where my wife and 8 month old son were threatened. The group was specifically
+  interested in crypto assets and knew the deposit addresses belonging to the crypto businesses I operate. I was forced, at
+  gunpoint, to log into a number of crypto accounts and transfer funds out. The funds stolen comprised personal funds, Revelo
+  Intel working capital &amp; retained earnings, as well as Revelo Ventures (an investment syndicate) funds for deals awaiting
+  settlement."He went on to state that the "vast majority" of the stolen assets were his personal funds. He also alleged that
+  "There is some evidence to suggest that someone in the Ventures syndicate is either part of the group, or passing information
+  onto them."The amount of funds stolen was not disclosed. Drakon resigned as CEO, and said that he had forfeited his interest
+  in Revolo Intel "to facilitate the return of some money back to members as quickly as possible". He wrote: "To be clear,
+  I have zero financial interest in Revelo moving forward."He also stated that he would be "stepping away from ''public life''
+  in this space", and warned others: "If you are someone who is known to control large sums of money, you are a target and
+  it is not difficult at all to get to you."'

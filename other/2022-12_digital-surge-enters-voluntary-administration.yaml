@@ -1,14 +1,13 @@
-source_name: '"Cryptocurrency broker Digital Surge goes into administration, as the
-  FTX fallout continues"'
+source_name: '"Cryptocurrency broker Digital Surge goes into administration, as the FTX fallout continues"'
 source_url: https://www.abc.net.au/news/2022-12-09/digital-surge-administration-ftx-cryptocurrency-savings-super/101753514
 date_of_breach: '2022-12-08'
 date_of_disclosure: '2022-12-08'
 category: other
-notes: The Australian crypto broker Digital Surge entered voluntary administration
-  several weeks after suspending withdrawals in the wake of the FTX collapse. In their
-  announcement, executives proposed a "proposed rescue plan" that will be voted upon
-  by customers, and which would involve cash infusions from the company's directors.Some
-  of Digital Surge's customers reported having entrusted the company with hundreds
-  of thousands of dollars from their superannuation funds (retirement pension). "I
-  lost everything," said one customer who had put his entire superannuation of more
-  than AU$150,000 (~US$102,000) into his Digital Surge account, where it is now frozen.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Digital Surge enters voluntary administration
+notes: The Australian crypto broker Digital Surge entered voluntary administration several weeks after suspending withdrawals
+  in the wake of the FTX collapse. In their announcement, executives proposed a "proposed rescue plan" that will be voted
+  upon by customers, and which would involve cash infusions from the company's directors.Some of Digital Surge's customers
+  reported having entrusted the company with hundreds of thousands of dollars from their superannuation funds (retirement
+  pension). "I lost everything," said one customer who had put his entire superannuation of more than AU$150,000 (~US$102,000)
+  into his Digital Surge account, where it is now frozen.

@@ -3,15 +3,16 @@ source_url: https://etherscan.io/address/0x5037995759968ceacbc9a29380485221c0b1b
 date_of_breach: '2023-01-27'
 date_of_disclosure: '2023-01-27'
 category: data-leak
-notes: 'Hackers were able to compromise the Twitter account belonging to the popular
-  Azuki NFT project, which they then used to promote a fake NFT drop to its 334,000
-  followers. Users who tried to mint the NFTs instead had their wallets emptied of
-  pricey NFTs and cryptocurrencies.Stolen NFTs included 74 Otherdeeds (floor price
-  ~$2,700 each), 3 Porsche NFTs (floor ~$3,100), 57 Beanz (floor ~$2,600), 12 Doodles
-  (floor ~$10,600), 2 Mutant Apes (floor ~$24,300), and 49 Pudgy Penguins (floor ~$9,200)
-  to the attacker. Altogether, those stolen NFTs could fetch almost ~$1 million if
-  sold at floor price.One single wallet transferred 750,000 of the USDC stablecoin
-  to the attacker, resulting in a particularly brutal loss for one individual.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Azuki Twitter
+blockchain: ethereum
+financial_loss_usd: 1740000
+notes: 'Hackers were able to compromise the Twitter account belonging to the popular Azuki NFT project, which they then used
+  to promote a fake NFT drop to its 334,000 followers. Users who tried to mint the NFTs instead had their wallets emptied
+  of pricey NFTs and cryptocurrencies.Stolen NFTs included 74 Otherdeeds (floor price ~$2,700 each), 3 Porsche NFTs (floor
+  ~$3,100), 57 Beanz (floor ~$2,600), 12 Doodles (floor ~$10,600), 2 Mutant Apes (floor ~$24,300), and 49 Pudgy Penguins (floor
+  ~$9,200) to the attacker. Altogether, those stolen NFTs could fetch almost ~$1 million if sold at floor price.One single
+  wallet transferred 750,000 of the USDC stablecoin to the attacker, resulting in a particularly brutal loss for one individual.
 
 
   Total loss estimated at $1,740,000.'

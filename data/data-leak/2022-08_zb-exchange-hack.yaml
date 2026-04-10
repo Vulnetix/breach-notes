@@ -3,11 +3,12 @@ source_url: https://twitter.com/CertiKAlert/status/1554862129953607680
 date_of_breach: '2022-08-03'
 date_of_disclosure: '2022-08-03'
 category: data-leak
-notes: 'The self-described "world''s most secure digital asset exchange", ZB, suffered
-  an exploit in which attackers stole a large number of different cryptocurrencies,
-  estimated by various researchers to be valued at around $3.6 million and $4.8 million.ZB
-  announced that they were suspending deposit and withdrawal services due to "sudden
-  failure of some core applications".
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: ZB exchange
+financial_loss_usd: 3600000
+notes: 'The self-described "world''s most secure digital asset exchange", ZB, suffered an exploit in which attackers stole
+  a large number of different cryptocurrencies, estimated by various researchers to be valued at around $3.6 million and $4.8
+  million.ZB announced that they were suspending deposit and withdrawal services due to "sudden failure of some core applications".
 
 
   Total loss estimated at $3,600,000.'

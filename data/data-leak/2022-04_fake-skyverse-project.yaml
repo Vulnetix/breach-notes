@@ -3,17 +3,18 @@ source_url: https://twitter.com/tannerwoodworth/status/1513676292209709059
 date_of_breach: '2022-04-13'
 date_of_disclosure: '2022-04-13'
 category: data-leak
-notes: 'A scammer recreated the Twitter account for SkyVerse, a much-anticipated NFT
-  land project due to launch in "mid-April". More than 250 NFT collectors eager to
-  get in on a mint that has only vaguely pointed to a date have fallen prey to a scammer
-  convincing them that not only has the project started minting, but they''re rapidly
-  selling out. The scammer implemented a "counter" on the webpage that appears to
-  show the project quickly selling out in real-time, apparently hoping to increase
-  the FOMO that might encourage someone to hastily connect their wallet. However,
-  a glance at the website source shows the counter is just instantiated to a fixed
-  value, and then increments arbitrarily to show the counter approaching the maximum
-  number of NFTs that will be sold. So far, the website has drawn 50 ETH ($150,000)
-  from would-be collectors trying to mint NFTs for 0.1 ETH ($300) each.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fake SkyVerse project
+blockchain: ethereum
+financial_loss_usd: 153050
+notes: 'A scammer recreated the Twitter account for SkyVerse, a much-anticipated NFT land project due to launch in "mid-April".
+  More than 250 NFT collectors eager to get in on a mint that has only vaguely pointed to a date have fallen prey to a scammer
+  convincing them that not only has the project started minting, but they''re rapidly selling out. The scammer implemented
+  a "counter" on the webpage that appears to show the project quickly selling out in real-time, apparently hoping to increase
+  the FOMO that might encourage someone to hastily connect their wallet. However, a glance at the website source shows the
+  counter is just instantiated to a fixed value, and then increments arbitrarily to show the counter approaching the maximum
+  number of NFTs that will be sold. So far, the website has drawn 50 ETH ($150,000) from would-be collectors trying to mint
+  NFTs for 0.1 ETH ($300) each.
 
 
   Total loss estimated at $153,050.'

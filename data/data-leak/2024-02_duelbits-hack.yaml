@@ -3,10 +3,13 @@ source_url: https://twitter.com/CertiKAlert/status/1757681640384381238
 date_of_breach: '2024-02-13'
 date_of_disclosure: '2024-02-13'
 category: data-leak
-notes: 'The Duelbits crypto casino and sports betting website was drained of around
-  $4.6 million on both the Ethereum and BNB Chain blockchains. The funds were quickly
-  bridged or exchanged to ETH.It appears that the thief got access to a Duelbits wallet,
-  perhaps through a private key compromise.
+initial_attack_vector: Private key compromise
+vendor_product: Duelbits
+blockchain: ethereum, bsc
+financial_loss_usd: 4600000
+notes: 'The Duelbits crypto casino and sports betting website was drained of around $4.6 million on both the Ethereum and
+  BNB Chain blockchains. The funds were quickly bridged or exchanged to ETH.It appears that the thief got access to a Duelbits
+  wallet, perhaps through a private key compromise.
 
 
   Total loss estimated at $4,600,000.'

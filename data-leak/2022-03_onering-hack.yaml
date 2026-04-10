@@ -3,15 +3,16 @@ source_url: https://medium.com/oneringfinance/onering-finance-exploit-post-morte
 date_of_breach: '2022-03-21'
 date_of_disclosure: '2022-03-21'
 category: data-leak
-notes: 'A hacker was able to use a flash loan attack to exploit an issue with OneRing
-  Finance. By manipulating the price of tokens in the project''s liquidity pool, the
-  hacker was able to draw out 1.45 million USDC, a stablecoin pegged to the US dollar.
-  According to PeckShield, the loss to the protocol was larger than what the hacker
-  actually was able to cash out.The hacker complicated things somewhat for OneRing
-  by covering their tracks. They used a "self-destruct" mechanism — typically used
-  by developers to destroy smart contracts that are found to have a bug — to destroy
-  the contract they used to carry out the attack, making it more difficult for OneRing
-  to determine which parts of their codebase were vulnerable and led to the attack.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: OneRing
+financial_loss_usd: 1454672
+notes: 'A hacker was able to use a flash loan attack to exploit an issue with OneRing Finance. By manipulating the price of
+  tokens in the project''s liquidity pool, the hacker was able to draw out 1.45 million USDC, a stablecoin pegged to the US
+  dollar. According to PeckShield, the loss to the protocol was larger than what the hacker actually was able to cash out.The
+  hacker complicated things somewhat for OneRing by covering their tracks. They used a "self-destruct" mechanism — typically
+  used by developers to destroy smart contracts that are found to have a bug — to destroy the contract they used to carry
+  out the attack, making it more difficult for OneRing to determine which parts of their codebase were vulnerable and led
+  to the attack.
 
 
   Total loss estimated at $1,454,672.'

@@ -3,8 +3,9 @@ source_url: https://www.foxbusiness.com/markets/sec-inquiry-gensler-bitcoin-cryp
 date_of_breach: '2022-06-14'
 date_of_disclosure: '2022-06-14'
 category: other
-notes: According to FOX Business, the SEC has sent an inquiry to at least one "major
-  crypto exchange", in what their source said they believed was an investigation spanning
-  several exchanges. It's not clear whether this is a targeted probe spurred by specific
-  instances of alleged malfeasance that might be a harbinger of impending enforcement
-  action, or a broader examination pertaining to broad regulatory interest.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC insider trading probe
+notes: According to FOX Business, the SEC has sent an inquiry to at least one "major crypto exchange", in what their source
+  said they believed was an investigation spanning several exchanges. It's not clear whether this is a targeted probe spurred
+  by specific instances of alleged malfeasance that might be a harbinger of impending enforcement action, or a broader examination
+  pertaining to broad regulatory interest.

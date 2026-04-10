@@ -3,13 +3,13 @@ source_url: https://twitter.com/unifiedh/status/1538825838279663617
 date_of_breach: '2022-06-20'
 date_of_disclosure: '2022-06-20'
 category: other
-notes: 'A former employee of Terraform Labs, the company behind the Terra project
-  that collapsed in May, found that he was banned from leaving the country. According
-  to the former employee, he wasn''t notified at all: "when i found out about this,
-  the south korean prosecution told me they usually don''t notify people of this because
-  they might destroy evidence and/or leave the country beforehand".He later clarified
-  that he was willing to cooperate with the investigation against TFL, but was dismayed
-  that employees who left long before the collapse were facing an exit ban, and that
-  they weren''t notified of the ban.Terra is facing a class action lawsuit from Korean
-  investors, and local news had previously reported that South Korean authorities
-  had launched an investigation.'
+initial_attack_vector: Regulatory / legal action
+vendor_product: Terraforms Labs employees banned from leaving Korea
+blockchain: terra
+notes: 'A former employee of Terraform Labs, the company behind the Terra project that collapsed in May, found that he was
+  banned from leaving the country. According to the former employee, he wasn''t notified at all: "when i found out about this,
+  the south korean prosecution told me they usually don''t notify people of this because they might destroy evidence and/or
+  leave the country beforehand".He later clarified that he was willing to cooperate with the investigation against TFL, but
+  was dismayed that employees who left long before the collapse were facing an exit ban, and that they weren''t notified of
+  the ban.Terra is facing a class action lawsuit from Korean investors, and local news had previously reported that South
+  Korean authorities had launched an investigation.'

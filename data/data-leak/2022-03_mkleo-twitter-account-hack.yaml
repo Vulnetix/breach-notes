@@ -3,11 +3,12 @@ source_url: https://www.web3isgoinggreat.com/?id=2022-03-28-2
 date_of_breach: '2022-03-28'
 date_of_disclosure: '2022-03-28'
 category: data-leak
-notes: MkLeo, who is widely considered to be the best Smash Ultimate player in the
-  world, had his 217,000-follower Twitter account hacked and repurposed for NFT shilling.
-  The scammers changed his profile picture to a pink robot creature with green drool,
-  and began posting tweets talking about his supposed collaboration with The Possessed
-  NFT project. The link in the tweets went to a scam website that claimed to allow
-  people to mint NFTs from the actual Possessed NFT project. It's not yet clear how
-  many people fell for the malicious link, but MkLeo's Twitter account appeared to
-  be back under his control later that evening.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: MkLeo Twitter account
+blockchain: ethereum
+notes: MkLeo, who is widely considered to be the best Smash Ultimate player in the world, had his 217,000-follower Twitter
+  account hacked and repurposed for NFT shilling. The scammers changed his profile picture to a pink robot creature with green
+  drool, and began posting tweets talking about his supposed collaboration with The Possessed NFT project. The link in the
+  tweets went to a scam website that claimed to allow people to mint NFTs from the actual Possessed NFT project. It's not
+  yet clear how many people fell for the malicious link, but MkLeo's Twitter account appeared to be back under his control
+  later that evening.

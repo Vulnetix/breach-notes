@@ -3,7 +3,9 @@ source_url: https://www.bbc.com/news/technology-60709209
 date_of_breach: '2022-03-11'
 date_of_disclosure: '2022-03-11'
 category: other
-notes: All 81 functional Bitcoin ATMs in the United Kingdom are operating illegally,
-  says the UK's Financial Conduct Authority (FCA). None of the companies operating
-  them have a license to do so, and the FCA has said that they will take action against
+initial_attack_vector: Regulatory / legal action
+vendor_product: UK authorities
+blockchain: bitcoin, atms
+notes: All 81 functional Bitcoin ATMs in the United Kingdom are operating illegally, says the UK's Financial Conduct Authority
+  (FCA). None of the companies operating them have a license to do so, and the FCA has said that they will take action against
   the companies if they don't shut down the kiosks.

@@ -3,12 +3,11 @@ source_url: https://www.courtlistener.com/docket/68138107/1/united-states-v-rodn
 date_of_breach: '2024-01-09'
 date_of_disclosure: '2024-01-09'
 category: other
-notes: A crypto influencer known as "Bitcoin Rodney" was arrested by US authorities
-  for his involvement in the HyperVerse crypto scam, which fleeced victims out of
-  over $1 billion. In addition to promoting the scam, Bitcoin Rodney allegedly received
-  more than $7.8 million directly from victims, which he exchanged for HyperVerse's
-  $HU token. $5.8 million of this money was received after HyperVerse had disabled
-  converting $HU to cryptocurrency, meaning that the victims never even had the opportunity
-  to cash out their "investments".Bitcoin Rodney has been charged with operating an
-  unlicensed money transmitting business and conspiracy to operate an unlicensed money
-  transmitting business.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Bitcoin Rodney arrest
+notes: A crypto influencer known as "Bitcoin Rodney" was arrested by US authorities for his involvement in the HyperVerse
+  crypto scam, which fleeced victims out of over $1 billion. In addition to promoting the scam, Bitcoin Rodney allegedly received
+  more than $7.8 million directly from victims, which he exchanged for HyperVerse's $HU token. $5.8 million of this money
+  was received after HyperVerse had disabled converting $HU to cryptocurrency, meaning that the victims never even had the
+  opportunity to cash out their "investments".Bitcoin Rodney has been charged with operating an unlicensed money transmitting
+  business and conspiracy to operate an unlicensed money transmitting business.

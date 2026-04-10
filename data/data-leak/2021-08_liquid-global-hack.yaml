@@ -3,11 +3,12 @@ source_url: https://www.coindesk.com/markets/2021/08/19/japans-liquid-global-exc
 date_of_breach: '2021-08-19'
 date_of_disclosure: '2021-08-19'
 category: data-leak
-notes: 'Japanese cryptocurrency exchange Liquid Global suffered a hack that saw $90
-  million in various assets stolen. The exchange stated that the attack had targeted
-  the company''s MPC wallet.A week after the hack, FTX extended a $120 million loan
-  to the platform. In April 2022, FTX formally acquired Liquid for an undisclosed
-  amount.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Liquid Global
+financial_loss_usd: 90000000
+notes: 'Japanese cryptocurrency exchange Liquid Global suffered a hack that saw $90 million in various assets stolen. The
+  exchange stated that the attack had targeted the company''s MPC wallet.A week after the hack, FTX extended a $120 million
+  loan to the platform. In April 2022, FTX formally acquired Liquid for an undisclosed amount.
 
 
   Total loss estimated at $90,000,000.'

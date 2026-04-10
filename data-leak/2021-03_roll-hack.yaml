@@ -3,13 +3,15 @@ source_url: https://cryptopotato.com/social-money-platform-roll-hacked-for-5-7m-
 date_of_breach: '2021-03-14'
 date_of_disclosure: '2021-03-14'
 category: data-leak
-notes: 'Private keys for hot wallets on the Roll network were compromised, allowing
-  the theft of around $5.7 million from various "social tokens". "Friends With Benefits",
-  an a16z-backed DAO with an associated token that allows those who are approved by
-  the DAO and can afford the ~$8,000 entrance fee access to exclusive parties, was
-  one of the tokens affected, and it tanked in value by about 96%. Roll apologized
-  and announced a fund to help those affected, though the $500,000 fund was only a
-  small fraction of the money lost.
+initial_attack_vector: Private key compromise
+vendor_product: Roll
+blockchain: ethereum
+financial_loss_usd: 5700000
+notes: 'Private keys for hot wallets on the Roll network were compromised, allowing the theft of around $5.7 million from
+  various "social tokens". "Friends With Benefits", an a16z-backed DAO with an associated token that allows those who are
+  approved by the DAO and can afford the ~$8,000 entrance fee access to exclusive parties, was one of the tokens affected,
+  and it tanked in value by about 96%. Roll apologized and announced a fund to help those affected, though the $500,000 fund
+  was only a small fraction of the money lost.
 
 
   Total loss estimated at $5,700,000.'

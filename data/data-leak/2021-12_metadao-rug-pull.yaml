@@ -3,9 +3,12 @@ source_url: https://cryptobriefing.com/metadao-makes-off-with-3-2m-in-rug-pull/
 date_of_breach: '2021-12-27'
 date_of_disclosure: '2021-12-27'
 category: data-leak
-notes: 'A project that promised to be "the DAO of DAOs" managed to accumulate and
-  then make off with 800 ETH, which was worth around $3.2 million at the time of the
-  scam. The project creators took the invested tokens and quickly tumbled them using
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: MetaDAO
+blockchain: ethereum
+financial_loss_usd: 3231200
+notes: 'A project that promised to be "the DAO of DAOs" managed to accumulate and then make off with 800 ETH, which was worth
+  around $3.2 million at the time of the scam. The project creators took the invested tokens and quickly tumbled them using
   Tornado Cash.
 
 

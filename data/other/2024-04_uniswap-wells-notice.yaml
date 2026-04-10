@@ -3,15 +3,13 @@ source_url: https://blog.uniswap.org/fighting-for-defi
 date_of_breach: '2024-04-10'
 date_of_disclosure: '2024-04-10'
 category: other
-notes: The US Securities and Exchange Commission issued a warning to the Uniswap decentralized
-  exchange in the form of a Wells notice. Wells notices are used to inform the recipient
-  of an impending lawsuit, and give them a last-ditch opportunity to convince the
-  SEC that the suit is unwarranted.The notice was received with an adversarial posture
-  by Uniswap, who announced its receipt with a blog post titled "Fighting for DeFi".
-  "Taking into account the SEC's ongoing lawsuits against Coinbase and others as well
-  as their complete unwillingness to provide clarity or a path to registration to
-  those operating lawfully within the U.S., we can only conclude that this is the
-  latest political effort to target even the best actors building technology on blockchains,"
-  they wrote.The news was met with outrage in the crypto community, who generally
-  saw the action as indicative of an overly aggressive posture by the SEC to crack
-  down on defi and crypto more broadly.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Uniswap Wells notice
+notes: The US Securities and Exchange Commission issued a warning to the Uniswap decentralized exchange in the form of a Wells
+  notice. Wells notices are used to inform the recipient of an impending lawsuit, and give them a last-ditch opportunity to
+  convince the SEC that the suit is unwarranted.The notice was received with an adversarial posture by Uniswap, who announced
+  its receipt with a blog post titled "Fighting for DeFi". "Taking into account the SEC's ongoing lawsuits against Coinbase
+  and others as well as their complete unwillingness to provide clarity or a path to registration to those operating lawfully
+  within the U.S., we can only conclude that this is the latest political effort to target even the best actors building technology
+  on blockchains," they wrote.The news was met with outrage in the crypto community, who generally saw the action as indicative
+  of an overly aggressive posture by the SEC to crack down on defi and crypto more broadly.

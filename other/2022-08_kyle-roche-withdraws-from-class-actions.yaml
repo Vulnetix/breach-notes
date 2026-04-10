@@ -1,15 +1,13 @@
-source_name: '"Crypto Lawyer Kyle Roche Withdraws From Tether, Bitfinex, TRON and
-  BitMEX Lawsuits After CryptoLeaks Scandal"'
+source_name: '"Crypto Lawyer Kyle Roche Withdraws From Tether, Bitfinex, TRON and BitMEX Lawsuits After CryptoLeaks Scandal"'
 source_url: https://www.coindesk.com/business/2022/08/31/crypto-lawyer-kyle-roche-withdraws-from-tether-bitfinex-tron-and-bitmex-lawsuits-after-cryptoleaks-scandal/?utm_medium=referral&utm_source=rss&utm_campaign=headlines
 date_of_breach: '2022-08-31'
 date_of_disclosure: '2022-08-31'
 category: other
-notes: Kyle Roche, a founding partner and namesake of the Roche Freedman law firm,
-  has withdrawn from class-action lawsuits filed by the company against projects including
-  Tether and Bitfinex, the Tron Foundation, and BitMEX. This change came less than
-  a week after a whistleblower website alleged he had been paid to attack competitors
-  of the Avalanche blockchain with lawsuits intended to harm them and reveal corporate
-  secrets.Although Roche has denied the claims by the site, and stated that someone
-  deliberately got him drunk and then took clips of videos out of context, it probably
-  doesn't look so good for a lawyer to be referring to jurors as "10 idiots", or plaintiffs
-  in class-action lawsuits as "100,000 idiots".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Kyle Roche withdraws from class actions
+notes: Kyle Roche, a founding partner and namesake of the Roche Freedman law firm, has withdrawn from class-action lawsuits
+  filed by the company against projects including Tether and Bitfinex, the Tron Foundation, and BitMEX. This change came less
+  than a week after a whistleblower website alleged he had been paid to attack competitors of the Avalanche blockchain with
+  lawsuits intended to harm them and reveal corporate secrets.Although Roche has denied the claims by the site, and stated
+  that someone deliberately got him drunk and then took clips of videos out of context, it probably doesn't look so good for
+  a lawyer to be referring to jurors as "10 idiots", or plaintiffs in class-action lawsuits as "100,000 idiots".

@@ -6,9 +6,6 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
-    <!-- Iconfy Icons -->
-    <link rel="stylesheet" href="https://cdn.iconfy.com/css/icons.css">
-
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 

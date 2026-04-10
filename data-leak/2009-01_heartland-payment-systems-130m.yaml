@@ -1,0 +1,13 @@
+source_name: "Heartland Payment Systems SQL Injection Network Sniffer Breach (130M Cards)"
+source_url: "https://www.databreachtoday.com/heartland-data-breach-a-1510"
+date_of_breach: "2007-12-01"
+date_of_disclosure: "2009-01-20"
+date_of_customer_notification: "2009-01-20"
+category: "data-leak"
+initial_attack_vector: "Albert Gonzalez (TJX hacker) and accomplices used SQL injection to gain access to Heartland's payment processing network, planted a network packet sniffer in the internal payment processing system to capture card data in transit"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Heartland Payment Systems, one of the largest payment processors in the United States, disclosed in January 2009 that it had been breached by Albert Gonzalez and two Russian accomplices beginning around December 2007. Using SQL injection, they compromised Heartland's corporate network, then discovered the path to the internal payment processing segment. They planted a sniffer program inside Heartland's processing network that intercepted and captured card track data (magnetic stripe data including card numbers and expiry dates) as it flowed unencrypted through the payment processing network. Approximately 130 million payment card records were stolen — the largest card breach ever recorded at the time. Heartland became the third major breach by Albert Gonzalez after TJX and Dave & Busters. The breach had not been detected by Heartland's own systems; they were notified by Visa and Mastercard in January 2009. Heartland paid approximately $140 million in settlements with Visa, Mastercard, American Express, and Discover, plus significant legal costs. CEO Robert Carr became an industry advocate for end-to-end encryption in payment networks. Gonzalez was sentenced to 20 years in prison. The breach was a catalyst for industry-wide adoption of EMV chip cards and encryption standards in payment processing."

@@ -1,0 +1,13 @@
+source_name: "LinkedIn Unsalted SHA-1 Password Breach (117M Credentials)"
+source_url: "https://www.databreachtoday.com/linkedin-breach-a-4812"
+date_of_breach: "2012-05-01"
+date_of_disclosure: "2012-06-06"
+date_of_customer_notification: "2012-06-06"
+category: "credential-theft"
+initial_attack_vector: "SQL injection or server compromise allowed attackers to exfiltrate LinkedIn's password database containing unsalted SHA-1 password hashes; in 2016, the full scope (117M records) was revealed when the data appeared for sale"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2012, LinkedIn disclosed that a subset of member passwords had been compromised after approximately 6.5 million unsalted SHA-1 password hashes appeared on a Russian security forum. LinkedIn initially downplayed the breach. In May 2016, the full magnitude was revealed when a hacker offered 117 million LinkedIn email/password combinations for sale on dark web markets — revealing the true breach scope was approximately 18x larger than originally admitted. The breach was significant for several reasons: (1) LinkedIn stored passwords as unsalted SHA-1 hashes — a critically weak approach that allowed rainbow table and brute-force attacks to crack most passwords within days; (2) the delayed disclosure of the full scope (4 years) caused a second wave of victims as people had not changed their passwords; (3) the 117M credential set became one of the most widely used collections for credential stuffing attacks against other platforms, fueling a wave of follow-on breaches. LinkedIn settled a class action for $1.25 million and the breach drove widespread adoption of bcrypt and scrypt for password hashing."

@@ -1,0 +1,13 @@
+source_name: "Sony PlayStation Network and SOE Breach (77M Accounts, 23-Day Outage)"
+source_url: "https://www.databreachtoday.com/sony-psn-breach-a-3536"
+date_of_breach: "2011-04-17"
+date_of_disclosure: "2011-04-26"
+date_of_customer_notification: "2011-04-26"
+category: "data-leak"
+initial_attack_vector: "Attackers exploited a known vulnerability in Apache HTTP Server running on Sony's PlayStation Network infrastructure, gaining access to the PSN and Sony Online Entertainment (SOE) databases"
+cve: []
+vendor_product: "Apache HTTP Server"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between April 17-19, 2011, attackers exploited a known Apache vulnerability to breach Sony's PlayStation Network (PSN) and Sony Online Entertainment (SOE) — the online gaming and entertainment platforms serving PlayStation consoles. Sony took PSN offline on April 20 and disclosed the breach on April 26. PSN remained offline for 23 days — one of the longest major service outages in gaming history. Approximately 77 million PSN accounts and 25 million SOE accounts were compromised. Exposed data included names, email addresses, birthdates, usernames, passwords (hashed), home addresses, and PSN/SOE profile data. Credit card information may also have been compromised, though Sony stated it found no evidence of this. Sony failed to encrypt the PSN password database and was also storing 'outdated' personal data in violation of its own privacy policy. Sony faced congressional hearings, FTC investigations, and class action lawsuits across multiple countries. The UK ICO fined Sony £250,000. The breach is a landmark case in gaming platform security and highlighted the risks of unpatched web server vulnerabilities on consumer service infrastructure."

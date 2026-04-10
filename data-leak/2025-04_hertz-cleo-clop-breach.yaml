@@ -1,0 +1,13 @@
+source_name: "Hertz Cleo MFT Clop Breach (100K+ Customers including Thrifty and Dollar)"
+source_url: "https://www.bleepingcomputer.com/news/security/hertz-confirms-customer-info-drivers-licenses-stolen-in-data-breach/"
+date_of_breach: "2024-12-01"
+date_of_disclosure: "2025-04-11"
+date_of_customer_notification: "2025-04-11"
+category: "data-leak"
+initial_attack_vector: "Clop ransomware group exploited zero-day vulnerabilities in Cleo Harmony, VLTrader, and LexiCom managed file transfer software (CVE-2024-50623, CVE-2024-55956) to access Hertz's file transfer infrastructure"
+cve: ["CVE-2024-50623", "CVE-2024-55956"]
+vendor_product: "Cleo Harmony; Cleo VLTrader; Cleo LexiCom"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Hertz Corporation disclosed in April 2025 that customer data had been stolen in attacks exploiting Cleo managed file transfer (MFT) software vulnerabilities in approximately December 2024 and January 2025. Clop confirmed responsibility for the Cleo MFT exploitation campaign. Data confirmed stolen included customer names, dates of birth, driver's license numbers, credit card information, Social Security numbers, passport numbers, and Medicare/Medicaid identifiers. The breach affected Hertz brand customers and those from subsidiary brands Thrifty and Dollar. In Texas alone, over 96,000 notifications were filed; total affected individuals estimated at over 100,000. Hertz notified affected individuals starting April 11, 2025. Part of the broader Cleo MFT zero-day campaign by Clop that affected dozens of companies; see also 2024-12_cleo-mft-clop.yaml for the campaign-level entry."

@@ -1,0 +1,13 @@
+source_name: "RSA SecurID Seed Value Theft (40M Tokens Compromised)"
+source_url: "https://www.databreachtoday.com/rsa-breach-a-3534"
+date_of_breach: "2011-03-01"
+date_of_disclosure: "2011-03-17"
+date_of_customer_notification: "2011-03-17"
+category: "other"
+initial_attack_vector: "Spear-phishing email with an Excel spreadsheet exploiting an Adobe Flash zero-day (CVE-2011-0609) was opened by an RSA employee; the embedded malware installed a backdoor enabling attackers to extract the SecurID token seed database"
+cve: ["CVE-2011-0609"]
+vendor_product: "RSA SecurID (two-factor authentication tokens); Adobe Flash"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2011, RSA Security (division of EMC) suffered a breach when a spear-phishing email titled '2011 Recruitment Plan' was opened by an employee. The Excel attachment exploited CVE-2011-0609, an Adobe Flash zero-day, to install a Poison Ivy RAT backdoor. The attackers (believed to be Chinese state-sponsored, attributed to Comment Panda/APT1) used the RAT to pivot through RSA's network and ultimately exfiltrate the SecurID token seed database — the master secret values used to generate TOTP codes for approximately 40 million RSA SecurID hardware tokens. This effectively compromised the security of any two-factor authentication system depending on RSA SecurID. In May-June 2011, attackers used the stolen seed data to conduct a follow-on attack against Lockheed Martin, the US defense contractor — attempting to breach classified systems by generating valid RSA SecurID OTP codes. The attack was ultimately unsuccessful at Lockheed. RSA offered token replacements to all customers and eventually replaced or upgraded 40 million tokens. This breach is historically significant as one of the first known attacks targeting a security vendor's core product secrets as a stepping stone to attacking downstream targets — a proto-supply chain attack. EMC (RSA's parent) estimated breach-related costs of $66.3 million."

@@ -1,0 +1,13 @@
+source_name: "TJX Companies WiFi Wardriving Breach (94M Cards)"
+source_url: "https://www.databreachtoday.com/tjx-breach-a-14"
+date_of_breach: "2005-07-01"
+date_of_disclosure: "2007-01-17"
+date_of_customer_notification: "2007-01-17"
+category: "data-leak"
+initial_attack_vector: "Albert Gonzalez and ShadowCrew crew 'wardrived' TJX store parking lots with laptop antennas, cracking WEP-encrypted Wi-Fi to access in-store networks, then moved laterally to TJX's central transaction database in Framingham, MA"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "The TJX breach was the largest retail breach in history at the time of disclosure. Beginning around July 2005, Albert Gonzalez's crew drove through TJX store parking lots with laptops equipped with directional antennas and cracked TJX's weak WEP-encrypted Wi-Fi networks. Through the store Wi-Fi, they accessed the in-store network and ultimately reached TJX's central transaction processing database in Framingham, Massachusetts. The attackers operated undetected for approximately 18 months, continuously stealing payment card data. Approximately 94 million credit and debit card numbers were stolen across TJX-owned retailers including T.J. Maxx, Marshalls, HomeGoods, Bob's Stores, and others. The breach was only discovered in December 2006 and disclosed in January 2007. TJX paid approximately $256 million in settlements with banks, card brands, and regulators. Albert Gonzalez was later convicted and sentenced to 20 years. The breach drove the payment industry to mandate phasing out WEP Wi-Fi, strengthened PCI-DSS standards, and was the first major retail breach to demonstrate the vulnerability of in-store wireless networks as an attack entry point."

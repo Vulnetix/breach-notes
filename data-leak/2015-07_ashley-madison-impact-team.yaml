@@ -1,0 +1,13 @@
+source_name: "Ashley Madison Impact Team Breach and Doxing (37M Accounts)"
+source_url: "https://www.databreachtoday.com/ashley-madison-breach-a-8289"
+date_of_breach: "2015-07-12"
+date_of_disclosure: "2015-07-20"
+date_of_customer_notification: "2015-07-20"
+category: "data-leak"
+initial_attack_vector: "Impact Team claimed to have insider access to Avid Life Media's (ALM) systems; exfiltrated user account database, company email, source code, and payment records; threatened to publish unless the site was shut down"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On July 12, 2015, a hacking group calling themselves 'Impact Team' notified Ashley Madison (a dating website for married people seeking affairs, operated by Avid Life Media) that they had stolen the site's user database and demanded it shut down. When the company refused, Impact Team published the data in August 2015 — approximately 9.7 GB of data including the names, email addresses, home addresses, sexual preferences, hashed passwords, and last four digits of credit card numbers for approximately 37 million user accounts worldwide. The data also revealed that the company had charged users for a 'full delete' option that did not actually delete their data. The breach had severe real-world consequences: confirmed suicides were attributed to the exposure, marriages were destroyed, and extortion campaigns against exposed users generated millions of dollars for cybercriminals. The Ontario Information and Privacy Commissioner found that Ashley Madison had inadequate safeguards for data of such sensitivity. Avid Life Media paid a $11.2M FTC/State AG settlement. The incident is a landmark case in the ethics of data retention, the danger of pseudonymous data being deanonymized, and the disproportionate harm of exposure for sensitive behavioral data."

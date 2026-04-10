@@ -1,0 +1,13 @@
+source_name: "Global Payments Card Processor Breach (1.5M Cards, PCI Compliance Decertified)"
+source_url: "https://www.databreachtoday.com/global-payments-breach-a-4655"
+date_of_breach: "2012-01-01"
+date_of_disclosure: "2012-03-30"
+date_of_customer_notification: "2012-03-30"
+category: "data-leak"
+initial_attack_vector: "Attackers used an undisclosed method to breach Global Payments' systems and exfiltrate track 1 and track 2 magnetic stripe card data (full card data for card cloning) for approximately 1.5 million card accounts"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Global Payments, a major Atlanta-based credit card processing company, disclosed in March 2012 that it had suffered a data breach affecting approximately 1.5 million credit and debit card accounts. The attackers stole track 1 and track 2 data — the full magnetic stripe information required to clone physical payment cards. Following disclosure, Visa temporarily removed Global Payments from its list of PCI-DSS compliant service providers — a severe industry sanction. Global Payments spent approximately $84.4 million responding to the breach. The company was eventually restored to PCI-DSS compliance. The breach occurred despite Global Payments' status as a large, established payment processor that was supposedly compliant with industry security standards, reinforcing criticism that PCI-DSS compliance is a snapshot assessment that doesn't guarantee real-time security."

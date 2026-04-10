@@ -224,7 +224,7 @@ CVE-2026-33634
 | [2026-04_chipsoft-netherlands-hospitals.yaml](ransomware/2026-04_chipsoft-netherlands-hospitals.yaml) | ransomware | 2026-04-07 |  |  |  |
 | [2026-04_bitcoin-depot-hack.yaml](data-leak/2026-04_bitcoin-depot-hack.yaml) | data-leak | 2026-04-06 |  |  | $3.7M |
 | [2026-04_mercor-breach-linked-to-litellm-supply-chain-attack.yaml](credential-theft/2026-04_mercor-breach-linked-to-litellm-supply-chain-attack.yaml) | credential-theft | 2026-04-03 |  |  |  |
-| [2026-04_cisco-trivy-teamPCP-source-code.yaml](supply-chain/2026-04_cisco-trivy-teamPCP-source-code.yaml) | supply-chain | 2026-04-03 | TeamPCP Cloud Stealer |  |  |
+| [2026-04_cisco-trivy-teampcp-source-code.yaml](supply-chain/2026-04_cisco-trivy-teampcp-source-code.yaml) | supply-chain | 2026-04-03 | TeamPCP Cloud Stealer |  |  |
 | [2026-04_cryptohack-roundup-charges-in-uranium-finance-case.yaml](data-leak/2026-04_cryptohack-roundup-charges-in-uranium-finance-case.yaml) | data-leak | 2026-04-02 |  |  |  |
 | [2026-04_drift-protocol-dprk-285m.yaml](other/2026-04_drift-protocol-dprk-285m.yaml) | other | 2026-04-01 |  |  |  |
 | [2026-04_drift-exploit.yaml](data-leak/2026-04_drift-exploit.yaml) | data-leak | 2026-04-01 |  |  | $285.0M |
@@ -233,8 +233,8 @@ CVE-2026-33634
 | [2026-03_cloud-based-ehr-vendor-notifies-sec-about-hacking-incident.yaml](supply-chain/2026-03_cloud-based-ehr-vendor-notifies-sec-about-hacking-incident.yaml) | supply-chain | 2026-03-30 |  |  |  |
 | [2026-03_ai-drives-surge-in-human-centric-cyberattacks.yaml](data-leak/2026-03_ai-drives-surge-in-human-centric-cyberattacks.yaml) | data-leak | 2026-03-30 |  |  |  |
 | [2026-03_ai-shrinks-cyberattack-exploit-time-from-years-to-days.yaml](data-leak/2026-03_ai-shrinks-cyberattack-exploit-time-from-years-to-days.yaml) | data-leak | 2026-03-29 |  |  |  |
-| [2026-03_teamPCP-telnyx-pypi.yaml](supply-chain/2026-03_teamPCP-telnyx-pypi.yaml) | supply-chain | 2026-03-27 | TeamPCP Cloud Stealer |  |  |
-| [2026-03_litellm-pypi-mercor-teamPCP.yaml](supply-chain/2026-03_litellm-pypi-mercor-teamPCP.yaml) | supply-chain | 2026-03-27 |  |  |  |
+| [2026-03_teampcp-telnyx-pypi.yaml](supply-chain/2026-03_teampcp-telnyx-pypi.yaml) | supply-chain | 2026-03-27 | TeamPCP Cloud Stealer |  |  |
+| [2026-03_litellm-pypi-mercor-teampcp.yaml](supply-chain/2026-03_litellm-pypi-mercor-teampcp.yaml) | supply-chain | 2026-03-27 |  |  |  |
 | [2026-03_nyc-health-notifying-patients-of-2-third-party-hacks.yaml](supply-chain/2026-03_nyc-health-notifying-patients-of-2-third-party-hacks.yaml) | supply-chain | 2026-03-26 |  |  |  |
 | [2026-03_university-of-north-georgia-triumphs-in-dod-hacking-contest.yaml](data-leak/2026-03_university-of-north-georgia-triumphs-in-dod-hacking-contest.yaml) | data-leak | 2026-03-26 |  |  |  |
 | [2026-03_litellm-hit-in-cascading-supply-chain-attack.yaml](credential-theft/2026-03_litellm-hit-in-cascading-supply-chain-attack.yaml) | supply-chain | 2026-03-26 |  |  |  |
@@ -248,14 +248,14 @@ CVE-2026-33634
 | [2026-03_phishing-defense-tracking-adversary-in-the-middle-attacks.yaml](ransomware/2026-03_phishing-defense-tracking-adversary-in-the-middle-attacks.yaml) | ransomware | 2026-03-23 |  |  |  |
 | [2026-03_usr-stablecoin-depeg.yaml](data-leak/2026-03_usr-stablecoin-depeg.yaml) | data-leak | 2026-03-22 |  |  | $24.0M |
 | [2026-03_resolv-protocol-24m-defi-exploit.yaml](other/2026-03_resolv-protocol-24m-defi-exploit.yaml) | other | 2026-03-22 |  |  |  |
-| [2026-03_teamPCP-checkmarx-kics.yaml](supply-chain/2026-03_teamPCP-checkmarx-kics.yaml) | supply-chain | 2026-03-21 | TeamPCP Cloud Stealer |  |  |
+| [2026-03_teampcp-checkmarx-kics.yaml](supply-chain/2026-03_teampcp-checkmarx-kics.yaml) | supply-chain | 2026-03-21 | TeamPCP Cloud Stealer |  |  |
 | [2026-03_lapd-city-attorney-worldleaks.yaml](data-leak/2026-03_lapd-city-attorney-worldleaks.yaml) | data-leak | 2026-03-20 |  |  |  |
 | [2026-03_multi-month-cyberespionage-campaign-hits-libyan-oil-refinery.yaml](credential-theft/2026-03_multi-month-cyberespionage-campaign-hits-libyan-oil-refinery.yaml) | other | 2026-03-20 |  |  |  |
 | [2026-03_bitcoin-depot-crypto-theft.yaml](other/2026-03_bitcoin-depot-crypto-theft.yaml) | other | 2026-03-20 |  |  |  |
 | [2026-03_worker-benefits-administrator-notifying-2-7m-of-hack.yaml](data-leak/2026-03_worker-benefits-administrator-notifying-2-7m-of-hack.yaml) | data-leak | 2026-03-19 |  |  |  |
 | [2026-03_xbow-raises-120m-series-c-to-scale-autonomous-ai-hacking.yaml](data-leak/2026-03_xbow-raises-120m-series-c-to-scale-autonomous-ai-hacking.yaml) | data-leak | 2026-03-19 |  |  |  |
 | [2026-03_cryptohack-roundup-appsflyer-sdk-breach-enabled-theft.yaml](data-leak/2026-03_cryptohack-roundup-appsflyer-sdk-breach-enabled-theft.yaml) | supply-chain | 2026-03-19 |  |  |  |
-| [2026-03_teamPCP-trivy-github-actions.yaml](supply-chain/2026-03_teamPCP-trivy-github-actions.yaml) | supply-chain | 2026-03-19 | TeamPCP Cloud Stealer | CVE-2026-33634 |  |
+| [2026-03_teampcp-trivy-github-actions.yaml](supply-chain/2026-03_teampcp-trivy-github-actions.yaml) | supply-chain | 2026-03-19 | TeamPCP Cloud Stealer | CVE-2026-33634 |  |
 | [2026-03_microsoft-intune-mdm-gains-notoriety-after-stryker-hack.yaml](data-leak/2026-03_microsoft-intune-mdm-gains-notoriety-after-stryker-hack.yaml) | data-leak | 2026-03-19 |  |  |  |
 | [2026-03_european-commission-shinyhunters-aws.yaml](data-leak/2026-03_european-commission-shinyhunters-aws.yaml) | data-leak | 2026-03-19 |  |  |  |
 | [2026-03_operational-technology-falls-to-unsophisticated-hacks.yaml](data-leak/2026-03_operational-technology-falls-to-unsophisticated-hacks.yaml) | data-leak | 2026-03-18 |  |  |  |

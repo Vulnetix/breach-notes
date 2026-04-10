@@ -1,0 +1,13 @@
+source_name: "Blizzard Entertainment Battle.net Breach — 14 Million Accounts"
+source_url: "https://us.battle.net/support/en/article/account-security-information"
+date_of_breach: "2012-08-04"
+date_of_disclosure: "2012-08-09"
+date_of_customer_notification: "2012-08-09"
+category: "data-leak"
+initial_attack_vector: "An unauthorized party illegally accessed Battle.net's internal network and obtained information from Blizzard's user database; the specific intrusion vector was not disclosed; the attacker gained access to database servers in the Americas region"
+cve: []
+vendor_product: "Blizzard Entertainment Battle.net user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 4 August 2012, Blizzard Entertainment — maker of World of Warcraft, Diablo, and StarCraft — discovered that an unauthorized party had illegally accessed their internal network and obtained information from the Battle.net user database for accounts in the Americas region (US, Canada, Mexico, Australia, New Zealand, Southeast Asia). Blizzard disclosed the breach on 9 August 2012. Exposed data included email addresses, security question answers (cryptographically scrambled), mobile and dial-in authenticator information, and cryptographic hashes of passwords (using SRP — Secure Remote Password protocol — not traditional password hashing). Actual passwords were not directly exposed but the SRP verifiers could theoretically be used to verify guesses. No credit card or billing information was accessed (stored in separate systems). Blizzard immediately emailed all affected accounts and prompted security question resets. The breach is notable for occurring at a major gaming company with tens of millions of users at the peak of World of Warcraft's popularity. Blizzard handled the disclosure well and rapidly — notifying users within 5 days of discovery and providing clear technical detail about what was and was not compromised. The use of SRP protocol rather than traditional password hashing, while more complex, proved to be a security advantage in this incident."

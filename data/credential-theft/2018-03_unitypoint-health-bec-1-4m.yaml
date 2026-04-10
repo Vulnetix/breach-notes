@@ -1,0 +1,13 @@
+source_name: "UnityPoint Health Phishing Attack — 1.4 Million Patient Records"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2018-03-14"
+date_of_disclosure: "2018-07-31"
+date_of_customer_notification: "2018-07-31"
+category: "credential-theft"
+initial_attack_vector: "Business email compromise (BEC) phishing — a sophisticated email fraud campaign impersonating a UnityPoint Health executive directed employees to click a link and enter credentials, compromising multiple employee email accounts; the attacker used compromised email accounts to access patient data and attempt additional payroll and wire fraud"
+cve: []
+vendor_product: "UnityPoint Health employee email / patient data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March and May 2018, UnityPoint Health — a major Iowa-based health system operating approximately 32 hospitals and 280 clinics in Iowa, Illinois, and Wisconsin — suffered two related business email compromise (BEC) phishing attacks that compromised employee email accounts. The first attack ran from 14 March to 3 April 2018; the second occurred in May 2018. The attacker used emails impersonating a UnityPoint Health executive to trick employees into entering credentials on a phishing site. Approximately 1.4 million patients were potentially affected as the compromised email accounts had access to or contained patient protected health information. Exposed data included names, dates of birth, medical record numbers, treatment information, health insurance details, and for some patients, Social Security numbers. UnityPoint also suffered separate wire fraud losses from the BEC component of the attack. The health system disclosed the breach on 31 July 2018. HHS OCR opened a HIPAA investigation. A class-action lawsuit was filed. A second phishing attack against UnityPoint in 2018 was separately discovered. The dual incidents made UnityPoint one of the most severely phishing-affected health systems of 2018. Business email compromise targeting healthcare executives is particularly dangerous because compromised executive emails often have access to financial authorisation and patient data systems simultaneously."

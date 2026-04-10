@@ -1,0 +1,13 @@
+source_name: "New York-Presbyterian Hospital / Columbia University Shared Network Breach (4.8M HIPAA Fine)"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/new-york-presbyterian-hospital-columbia-university/index.html"
+date_of_breach: "2010-09-01"
+date_of_disclosure: "2011-01-01"
+date_of_customer_notification: "2011-01-01"
+category: "data-leak"
+initial_attack_vector: "A Columbia University physician decommissioned a personal server that was connected to the shared Columbia/NYP network without following proper procedures; the server lacked server-level firewall protections, resulting in approximately 6,800 patient records becoming accessible on the internet"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "New York-Presbyterian Hospital (NYP) and Columbia University Medical Center (CU) operated a shared data network that included electronic health records. In September 2010, a Columbia University physician attempted to decommission a personal computer server that was connected to the shared network — but did so without proper decommissioning procedures and without adequate firewall protection. This caused approximately 6,800 patient records to become accessible via internet searches. A patient discovered the breach by searching for information about a deceased loved one and finding their medical information in search results. HHS OCR investigated and in May 2014 imposed a record $4.8 million HIPAA civil monetary penalty settlement — the largest HIPAA settlement at that time ($3.3 million against NYP and $1.5 million against CU), split because both entities had joint responsibility for the shared network and both violated HIPAA Security Rule requirements. Key violations included: failure to implement appropriate security configurations to protect patient data on the shared network, failure to conduct adequate risk analyses, and failure to implement policies and procedures for network device security. The case established that both covered entities sharing a network can be independently liable for breaches and that misconfigured decommissioned equipment poses a HIPAA risk."

@@ -1,0 +1,13 @@
+source_name: "TRICARE / SAIC Stolen Backup Tapes (4.9M Military Health Beneficiaries)"
+source_url: "https://www.hipaajournal.com/tricare-health-care-data-breach-4-9-million-beneficiaries/"
+date_of_breach: "2011-09-14"
+date_of_disclosure: "2011-09-29"
+date_of_customer_notification: "2011-09-29"
+category: "data-leak"
+initial_attack_vector: "Physical theft — backup tapes containing TRICARE beneficiary data were stolen from an employee's car in San Antonio, Texas; the tapes were being transported between SAIC facilities by a contractor employee"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On September 14, 2011, backup tapes containing personal and protected health information for approximately 4.9 million TRICARE (US military healthcare) beneficiaries were stolen from the personal vehicle of an employee of Science Applications International Corporation (SAIC), a federal IT contractor. The theft occurred in San Antonio, Texas while the employee was transporting the tapes between SAIC facilities. TRICARE is the healthcare program for US military personnel, retirees, and their dependents. SAIC was a TRICARE contractor processing health claims data. Exposed data included Social Security numbers, names, phone numbers, addresses, and personal health and clinical data (laboratory results, diagnoses, prescriptions) — data dating from 1992. No financial information was included. TRICARE notified approximately 4.9 million affected beneficiaries in late September/October 2011. This was one of the largest healthcare breaches of 2011 and remains one of the largest involving physical media loss. A class-action lawsuit sought $4.9 billion in damages ($1,000 per affected individual); it was ultimately dismissed. SAIC was held liable and reached a $7.5 million settlement with class-action plaintiffs. The incident was a catalyst for stronger HIPAA Business Associate Agreement requirements and highlighted the risk of transporting unencrypted backup media."

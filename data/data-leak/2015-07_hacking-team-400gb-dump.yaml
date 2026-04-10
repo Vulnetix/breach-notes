@@ -1,0 +1,13 @@
+source_name: "Hacking Team Italian Surveillance Software Maker Breach — 400GB Data Dump"
+source_url: "https://arstechnica.com/tech-policy/2015/07/hacking-team-gets-hacked-attackers-claim-400gb-in-dumped-data/"
+date_of_breach: "2015-07-05"
+date_of_disclosure: "2015-07-05"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "An unknown attacker (later claimed to be Phineas Fisher, a hacktivist) penetrated Hacking Team's internal network by first attacking an embedded system (a router), pivoting to internal systems, and ultimately obtaining access to Hacking Team's source code repositories, email archives, and internal documents; tools and zero-day exploits were also stolen"
+cve: []
+vendor_product: "Hacking Team (HT S.r.l.) internal systems and source code"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 5 July 2015, Hacking Team — an Italian cybersecurity company that sold offensive surveillance software (Remote Control System, branded 'Galileo') to governments and law enforcement agencies worldwide — was itself hacked. Approximately 400 gigabytes of internal data was exfiltrated and published online via a torrent and Hacking Team's own hacked Twitter account. The data dump included: client lists (including Saudi Arabia, UAE, Ethiopia, Morocco, Egypt, Sudan, and multiple other repressive governments), internal emails, invoices, source code for their surveillance tools, and zero-day exploits for Windows, Android, iOS, and Adobe Flash. The publication of Hacking Team's zero-day exploits — including critical Flash vulnerabilities (CVE-2015-5119, CVE-2015-5122) — was particularly significant, as malware campaigns almost immediately incorporated them before patches were available. The breach exposed Hacking Team's business with governments accused of human rights abuses and revealed their tools had been used to target journalists, activists, and dissidents. Hacktivist Phineas Fisher subsequently took credit and published a detailed how-to guide of the attack methodology. Several criminal probes were opened in various countries over Hacking Team's client relationships. Adobe issued emergency patches for the Flash zero-days within days. The breach effectively destroyed Hacking Team's business."

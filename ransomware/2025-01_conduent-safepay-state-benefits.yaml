@@ -1,0 +1,13 @@
+source_name: "Conduent Business Services SafePay Ransomware - 25M+ State Benefits Recipients"
+source_url: "https://techcrunch.com/2026/02/24/conduent-data-breach-grows-affecting-at-least-25m-people/"
+date_of_breach: "2024-10-21"
+date_of_disclosure: "2025-04-09"
+date_of_customer_notification: "2026-02-01"
+category: "ransomware"
+initial_attack_vector: "SafePay ransomware gang gained unauthorized access to Conduent's systems and maintained persistence for approximately three months before triggering an operational disruption"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "SafePay"
+supply_chain_claimed: false
+notes: "An unauthorized third party had access to Conduent Business Services' systems from October 21, 2024, to January 13, 2025, when operational disruption was triggered. Conduent provides technology services for state government benefit programs (Medicaid, SNAP, child support), healthcare programs, and corporate services — functioning as an invisible data processor for tens of millions of Americans. The SafePay ransomware gang claimed responsibility on its dark web leak site in February 2025, threatening to publish 8.5 TB of stolen data. Conduent disclosed the breach in an SEC filing on April 9, 2025, with initial estimates of approximately 4 million affected. By February 2026, state-level notifications dramatically expanded the scope: Texas reported 15.4 million residents affected, Oregon 10.5 million, pushing confirmed totals to at least 25 million people. Compromised data includes full names, postal addresses, dates of birth, Social Security numbers, health insurance details, and medical information. Conduent reported $25 million in direct breach response costs. Affected parties include state benefit recipients across Texas and Oregon, and at least 17,000 Volvo Group employees. The Texas Attorney General launched an investigation."

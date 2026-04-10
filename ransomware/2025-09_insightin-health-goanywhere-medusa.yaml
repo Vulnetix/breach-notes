@@ -1,0 +1,13 @@
+source_name: "Insightin Health GoAnywhere Breach - Medusa Ransomware Claim (142K)"
+source_url: "https://www.hipaajournal.com/insightin-health-clinic-service-corporation-data-breach/"
+date_of_breach: "2025-09-17"
+date_of_disclosure: "2026-01-28"
+date_of_customer_notification: "2026-01-28"
+category: "ransomware"
+initial_attack_vector: "Unauthorized actor exploited a previously unknown vulnerability in GoAnywhere (a managed file transfer tool) used by Insightin Health, gaining access to servers for approximately 6 days"
+cve: []
+vendor_product: "GoAnywhere (managed file transfer)"
+software_package: "GoAnywhere"
+malware: "Medusa"
+supply_chain_claimed: false
+notes: "Between September 17 and September 23, 2025, an unauthorized actor exploited an unknown vulnerability in Insightin Health's GoAnywhere managed file transfer tool, gaining access to a subset of servers. Insightin Health provides AI-powered health management technology to healthcare payers and Blue Cross organizations. The company notified 142,727 individuals on January 28, 2026. Medusa ransomware group claimed responsibility, demanding $500,000 ransom and claiming to possess 378 GB of stolen data. Insightin Health has not confirmed Medusa's involvement. Compromised data includes member names, dates of birth, non-unique health plan identifiers, contract numbers, Medicare Beneficiary Identifiers, and attributed provider information. This was Insightin Health's second data security incident in two years."

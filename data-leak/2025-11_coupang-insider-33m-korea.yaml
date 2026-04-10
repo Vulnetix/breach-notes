@@ -1,0 +1,13 @@
+source_name: "Coupang Insider Data Breach - 33.7M South Korean Customer Accounts"
+source_url: "https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/"
+date_of_breach: "2025-11-08"
+date_of_disclosure: "2025-11-30"
+date_of_customer_notification: "2025-11-30"
+category: "data-leak"
+initial_attack_vector: "Insider threat: a former Coupang employee retained unauthorized access to internal systems and exfiltrated customer data; breach persisted until November 8, 2025, per South Korean government investigation"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "A former Coupang employee maintained unauthorized access to the company's systems and exfiltrated customer data, with the breach continuing until November 8, 2025. Coupang (South Korea's largest e-commerce platform, often called 'South Korea's Amazon') reported the breach to Korean authorities on November 30, 2025 — more than 53 hours after internal identification, exceeding South Korea's 24-hour reporting requirement under information network law. The breach exposed 33.7 million user accounts including names, phone numbers, delivery addresses, email addresses, and a subset of order histories. No banking, payment card, or login credentials were compromised. The South Korean government's February 2026 investigation found the breach broader than Coupang initially claimed. Coupang CEO Park Dae-jun resigned in mid-December 2025. Coupang announced a 1.69 trillion won ($1.17 billion USD) compensation plan in platform-only vouchers. Major US investors — including Greenoaks, Altimeter, Abrams Capital, Durable Capital, and Foxhaven — filed ISDS arbitration claims against the South Korean government under the US-Korea Free Trade Agreement over the breach response."

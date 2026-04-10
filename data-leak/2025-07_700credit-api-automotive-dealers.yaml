@@ -1,0 +1,13 @@
+source_name: "700Credit Automotive Credit Verification Data Breach - 5.8M Vehicle Dealer Customers"
+source_url: "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/"
+date_of_breach: "2025-07-01"
+date_of_disclosure: "2025-11-21"
+date_of_customer_notification: "2025-12-22"
+category: "data-leak"
+initial_attack_vector: "Attackers compromised a partner's system in July 2025 and gained unauthorized access to a third-party API linked to 700Credit's web application, likely via web application vulnerability or misconfiguration"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "700Credit — the largest provider of credit reporting, identity verification, fraud and compliance services for US automotive dealerships — suffered a data breach between approximately May and October 2025. Attackers compromised a partner's API access in July 2025, enabling unauthorized access to consumer data collected through the 700Credit platform. The breach was identified on October 25, 2025. 700Credit began notifying approximately 18,000 affected dealership clients on November 21, 2025, and started sending written notifications to 5.8 million affected consumers on December 22, 2025. Compromised data includes names, addresses, dates of birth, and Social Security numbers — reportedly stored in unencrypted format. The scale of unencrypted SSN exposure across such a large automotive credit ecosystem resulted in multiple class action investigations. 700Credit serves the credit-check and identity verification needs of automotive dealerships across the United States."

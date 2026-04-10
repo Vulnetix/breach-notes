@@ -1,0 +1,13 @@
+source_name: "Insight Hospital Chicago Ransomware Breach - LockBit 5.0 / Termite (360GB)"
+source_url: "https://www.hipaajournal.com/insight-hospital-medical-center-data-breach/"
+date_of_breach: "2025-08-22"
+date_of_disclosure: "2026-01-26"
+date_of_customer_notification: "2026-01-26"
+category: "ransomware"
+initial_attack_vector: "Ransomware attack on Insight Hospital and Medical Center's IT environment; unauthorized access persisted for approximately 20 days before discovery"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Termite"
+supply_chain_claimed: false
+notes: "Unauthorized access to Insight Hospital and Medical Center's (Chicago) network occurred between August 22 and September 11, 2025. The hospital issued a substitute notice on January 26, 2026. LockBit 5.0 initially claimed responsibility on December 5, 2025, claiming 200 GB of data and threatening to publish within two weeks. Termite (a separate ransomware group) subsequently also claimed the attack and leaked approximately 360 GB of stolen data on the dark web in late February 2026. Compromised data includes names, Social Security numbers, dates of birth, driver's license numbers, passport numbers, financial account information, and treatment-related health insurance information. Multiple class action law firms launched investigations following the delayed public disclosure."

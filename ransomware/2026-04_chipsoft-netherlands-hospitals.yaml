@@ -1,0 +1,13 @@
+source_name: "ChipSoft Ransomware Attack - Dutch Hospital Patient Records Software"
+source_url: "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
+date_of_breach: "2026-04-07"
+date_of_disclosure: "2026-04-08"
+date_of_customer_notification: "2026-04-08"
+category: "ransomware"
+initial_attack_vector: "Ransomware attack on ChipSoft's cloud infrastructure (SaaS Patient Portal and GP software tenant); threat actor group not yet publicly identified as of disclosure"
+cve: []
+vendor_product: "ChipSoft HiX (Electronic Patient Dossier / EPD healthcare platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On April 7, 2026, ChipSoft — a Dutch healthcare IT company providing Electronic Patient Dossier (EPD/HiX) software to approximately 80% of all Dutch hospitals — was hit by a ransomware attack that knocked its website and cloud infrastructure offline. Z-CERT (the Netherlands healthcare CERT) confirmed the ransomware incident and advised all healthcare institutions to disconnect VPN connections to ChipSoft and monitor network traffic as a precaution. At least 11 hospitals took patient portals offline. ChipSoft confirmed a 'data incident' involving 'possible unauthorized access' and could not rule out that patient data was accessed or stolen. Hospitals affected by system outages included Sint Jans Gasthuis (Weert), Laurentius (Roermond), VieCuri (Venlo), and Flevo Hospital (Almere). Major hospitals including Rijnstate, Antoni van Leeuwenhoek, and Franciscus stated patient data remained secure. The group behind the attack was not identified at time of disclosure. The incident is a critical supply-chain-style attack affecting the majority of Dutch hospital patient record infrastructure."

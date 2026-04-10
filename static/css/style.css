@@ -41,6 +41,8 @@ main {
     position: sticky;
     top: 0;
     z-index: 100;
+    /* expose height so the search bar can stack beneath it */
+    --site-header-h: 72px;
 }
 
 .header-inner {
@@ -517,5 +519,412 @@ main {
 
     .contribute-cta {
         flex-direction: column;
+    }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   TERMINAL SEARCH BAR  — 1970s phosphor-green CRT aesthetic
+   ══════════════════════════════════════════════════════════════ */
+
+/* ── Sub-header search bar ─────────────────────────────────── */
+.terminal-search-bar {
+    background: #000;
+    border-bottom: 2px solid #00ff00;
+    padding: 0.55rem 0 0.45rem;
+    position: sticky;
+    top: var(--site-header-h, 72px); /* sits just below the site-header */
+    z-index: 99;
+    /* CRT scanline overlay */
+    background-image:
+        repeating-linear-gradient(
+            0deg,
+            transparent,
+            transparent 2px,
+            rgba(0, 255, 0, 0.025) 2px,
+            rgba(0, 255, 0, 0.025) 4px
+        );
+    /* Subtle phosphor glow on the whole bar */
+    box-shadow:
+        0 2px 18px rgba(0, 255, 0, 0.12),
+        inset 0 -1px 0 rgba(0, 255, 0, 0.08);
+}
+
+.terminal-search-inner {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    position: relative;
+}
+
+/* ── Prompt label ───────────────────────────────────────────── */
+.terminal-search-prompt {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+    user-select: none;
+    line-height: 1;
+    color: #00cc00;
+}
+
+.terminal-prompt-host   { color: #00ff00; text-shadow: 0 0 6px rgba(0,255,0,0.7); }
+.terminal-prompt-sep    { color: #555; }
+.terminal-prompt-dir    { color: #00aaff; }
+.terminal-prompt-dollar { color: #888; margin: 0 2px; }
+.terminal-prompt-cmd    { color: #ffff00; letter-spacing: 0.04em; }
+.terminal-prompt-pipe   { color: #555; margin: 0 2px; }
+.terminal-prompt-grep   { color: #ff9900; }
+
+/* ── The actual input ───────────────────────────────────────── */
+.terminal-search-input {
+    flex: 1;
+    min-width: 0;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #00ff00;
+    caret-color: transparent;          /* we fake the caret with CSS */
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.92rem;
+    line-height: 1;
+    padding: 0.1rem 0.35rem;
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.55);
+    letter-spacing: 0.03em;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.terminal-search-input::placeholder {
+    color: rgba(0, 255, 0, 0.28);
+    font-style: italic;
+    letter-spacing: 0.01em;
+}
+
+/* Remove browser's default search decoration */
+.terminal-search-input::-webkit-search-cancel-button,
+.terminal-search-input::-webkit-search-decoration { display: none; }
+
+/* ── Fake blinking block cursor ─────────────────────────────── */
+.terminal-search-cursor {
+    display: inline-block;
+    width: 0.55em;
+    height: 1em;
+    background: #00ff00;
+    opacity: 0;
+    vertical-align: middle;
+    flex-shrink: 0;
+    margin-left: -2px;
+    box-shadow: 0 0 6px #00ff00;
+    animation: termCursorBlink 1.1s step-end infinite;
+    pointer-events: none;
+}
+
+.terminal-search-input:focus ~ .terminal-search-cursor {
+    opacity: 1;
+}
+
+@keyframes termCursorBlink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0; }
+}
+
+/* ── ESC hint ────────────────────────────────────────────────── */
+.terminal-search-esc {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.68rem;
+    color: #444;
+    border: 1px solid #333;
+    padding: 0.05rem 0.3rem;
+    border-radius: 3px;
+    margin-left: 0.75rem;
+    flex-shrink: 0;
+    user-select: none;
+    transition: color 0.15s, border-color 0.15s;
+}
+
+.terminal-search-input:focus ~ .terminal-search-cursor ~ .terminal-search-esc,
+.terminal-search-input:focus + .terminal-search-cursor + .terminal-search-esc {
+    color: #00aa44;
+    border-color: #00aa44;
+}
+
+/* ── Filter hint row ─────────────────────────────────────────── */
+.terminal-search-hint {
+    margin-top: 0.3rem;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.68rem;
+    color: #444;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    user-select: none;
+    padding-left: 0.1rem;
+}
+
+.hint-label {
+    color: #2a6a2a;
+    letter-spacing: 0.08em;
+    margin-right: 0.2rem;
+}
+
+.hint-tag {
+    color: #00aa44;
+    border: 1px solid #1a4a1a;
+    padding: 0.05rem 0.4rem;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: color 0.1s, border-color 0.1s, background 0.1s, text-shadow 0.1s;
+    letter-spacing: 0.02em;
+}
+
+.hint-tag:hover {
+    color: #00ff00;
+    border-color: #00ff00;
+    background: rgba(0, 255, 0, 0.07);
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+}
+
+.hint-sep {
+    color: #333;
+    font-style: italic;
+    margin-left: 0.25rem;
+}
+
+/* ── Focus glow on the whole bar ────────────────────────────── */
+.terminal-search-bar:focus-within {
+    box-shadow:
+        0 2px 24px rgba(0, 255, 0, 0.22),
+        inset 0 -1px 0 rgba(0, 255, 0, 0.15);
+    border-bottom-color: #00ff00;
+}
+
+.terminal-search-bar:focus-within .terminal-search-hint {
+    color: #2a6a2a;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   SEARCH RESULTS OVERLAY
+   ══════════════════════════════════════════════════════════════ */
+
+.search-results-overlay {
+    background: rgba(0, 0, 0, 0.97);
+    border-bottom: 2px solid rgba(0, 255, 0, 0.35);
+    padding: 1rem 0 1.5rem;
+    /* CRT phosphor scanlines */
+    background-image:
+        repeating-linear-gradient(
+            0deg,
+            transparent,
+            transparent 3px,
+            rgba(0, 255, 0, 0.018) 3px,
+            rgba(0, 255, 0, 0.018) 4px
+        );
+    box-shadow: 0 8px 40px rgba(0, 255, 0, 0.12);
+    animation: overlayDrop 0.15s ease-out;
+    max-height: 70vh;
+    overflow-y: auto;
+    /* custom scrollbar */
+    scrollbar-width: thin;
+    scrollbar-color: #00aa44 #000;
+}
+
+.search-results-overlay::-webkit-scrollbar       { width: 6px; }
+.search-results-overlay::-webkit-scrollbar-track  { background: #000; }
+.search-results-overlay::-webkit-scrollbar-thumb  { background: #00aa44; border-radius: 3px; }
+
+@keyframes overlayDrop {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Results header row ─────────────────────────────────────── */
+.search-results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(0, 255, 0, 0.15);
+}
+
+.search-results-status {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.78rem;
+    color: #00aa44;
+    letter-spacing: 0.08em;
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.35);
+}
+
+.search-results-close {
+    background: none;
+    border: 1px solid #1a4a1a;
+    color: #00aa44;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.72rem;
+    padding: 0.15rem 0.6rem;
+    cursor: pointer;
+    border-radius: 2px;
+    letter-spacing: 0.08em;
+    transition: all 0.12s;
+}
+
+.search-results-close:hover {
+    color: #ff4444;
+    border-color: #ff4444;
+    text-shadow: 0 0 6px rgba(255, 68, 68, 0.6);
+}
+
+/* ── Results list ────────────────────────────────────────────── */
+.search-results-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+
+.search-result-item {
+    border: 1px solid rgba(0, 255, 0, 0.07);
+    border-radius: 3px;
+    transition: background 0.1s, border-color 0.1s;
+}
+
+.search-result-item:hover {
+    background: rgba(0, 255, 0, 0.05);
+    border-color: rgba(0, 255, 0, 0.3);
+}
+
+.sr-link {
+    display: block;
+    padding: 0.55rem 0.75rem;
+    color: inherit;
+    text-decoration: none;
+}
+
+.sr-link:hover { text-decoration: none; }
+
+.sr-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    margin-bottom: 0.2rem;
+}
+
+.sr-index {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.72rem;
+    color: #2a5a2a;
+    flex-shrink: 0;
+    user-select: none;
+}
+
+.sr-title {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.88rem;
+    color: #00ff00;
+    text-shadow: 0 0 4px rgba(0, 255, 0, 0.3);
+    word-break: break-word;
+}
+
+.sr-link:hover .sr-title {
+    text-shadow: 0 0 8px rgba(0, 255, 0, 0.7);
+}
+
+.sr-meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.25rem;
+}
+
+.sr-date {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.72rem;
+    color: #555;
+}
+
+.sr-tag {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.68rem;
+    padding: 0.05rem 0.35rem;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.sr-category {
+    background: rgba(0, 255, 0, 0.08);
+    color: #00aa44;
+    border: 1px solid rgba(0, 255, 0, 0.2);
+}
+
+.sr-malware {
+    background: rgba(255, 80, 0, 0.08);
+    color: #ff8844;
+    border: 1px solid rgba(255, 80, 0, 0.25);
+}
+
+.sr-domain {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.72rem;
+    color: #00aaff;
+    opacity: 0.7;
+}
+
+.sr-excerpt {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.78rem;
+    color: #4a7a4a;
+    line-height: 1.5;
+    word-break: break-word;
+}
+
+.sr-excerpt mark {
+    background: rgba(0, 255, 0, 0.2);
+    color: #00ff00;
+    border-radius: 2px;
+    padding: 0 1px;
+    text-shadow: 0 0 4px rgba(0, 255, 0, 0.5);
+}
+
+.search-result-more {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.78rem;
+    color: #335533;
+    padding: 0.4rem 0.75rem;
+    font-style: italic;
+    text-align: center;
+    border-top: 1px solid rgba(0, 255, 0, 0.08);
+    margin-top: 0.5rem;
+}
+
+/* ── Responsive ──────────────────────────────────────────────── */
+@media (max-width: 768px) {
+    .terminal-search-bar {
+        top: auto;
+        position: relative;
+    }
+
+    .terminal-search-prompt {
+        font-size: 0.7rem;
+    }
+
+    .terminal-prompt-cmd,
+    .terminal-prompt-pipe,
+    .terminal-prompt-grep {
+        display: none;
+    }
+
+    .terminal-search-esc {
+        display: none;
+    }
+
+    .terminal-search-input {
+        font-size: 1rem; /* iOS doesn't zoom if ≥16px... but 1rem is fine */
+    }
+
+    .terminal-search-hint {
+        font-size: 0.62rem;
     }
 }

@@ -1,0 +1,27 @@
+{{- $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" -}}
+{{- $records := slice -}}
+{{- range $cat := $cats -}}
+  {{- range $key, $b := index hugo.Data $cat -}}
+    {{- $url := printf "/%s/%s/" $cat $key -}}
+    {{- $domain := "" -}}
+    {{- with $b.source_url -}}
+      {{- $parts := split . "/" -}}
+      {{- if ge (len $parts) 3 -}}
+        {{- $domain = index $parts 2 -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $records = $records | append (dict
+      "title"    $b.source_name
+      "url"      $url
+      "category" $cat
+      "malware"  (default "" $b.malware)
+      "cve"      (default (slice) $b.cve)
+      "date"     (default "" $b.date_of_breach)
+      "domain"   $domain
+      "vector"   (default "" $b.initial_attack_vector)
+      "notes"    (default "" $b.notes)
+      "vendor"   (default "" $b.vendor_product)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{ $records | jsonify }}

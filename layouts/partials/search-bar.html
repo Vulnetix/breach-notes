@@ -1,0 +1,45 @@
+<div class="terminal-search-bar" id="terminal-search-bar" role="search" aria-label="Breach search terminal">
+  <div class="container">
+    <div class="terminal-search-inner">
+      <span class="terminal-search-prompt" aria-hidden="true">
+        <span class="terminal-prompt-host">breach-db</span><span class="terminal-prompt-sep">:</span><span class="terminal-prompt-dir">~</span><span class="terminal-prompt-dollar">$</span>&nbsp;<span class="terminal-prompt-cmd">search</span>&nbsp;<span class="terminal-prompt-pipe">|</span>&nbsp;<span class="terminal-prompt-grep">grep</span>&nbsp;--
+      </span>
+      <input
+        type="search"
+        id="breach-search-input"
+        class="terminal-search-input"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+        placeholder="malware, category, domain, or free text…"
+        aria-label="Search breaches"
+        aria-controls="search-results-overlay"
+        aria-expanded="false"
+      >
+      <span class="terminal-search-cursor" aria-hidden="true"></span>
+      <kbd class="terminal-search-esc" aria-hidden="true">ESC</kbd>
+    </div>
+    <div class="terminal-search-hint" aria-live="polite" id="terminal-search-hint">
+      <span class="hint-label">FILTERS:</span>
+      <span class="hint-tag" data-filter-type="malware">malware:&lt;name&gt;</span>
+      <span class="hint-tag" data-filter-type="category">category:&lt;type&gt;</span>
+      <span class="hint-tag" data-filter-type="domain">domain:&lt;site&gt;</span>
+      <span class="hint-tag" data-filter-type="cve">cve:&lt;id&gt;</span>
+      <span class="hint-sep">— or just type to full-text search</span>
+    </div>
+  </div>
+</div>
+
+<!-- Search results overlay -->
+<div id="search-results-overlay" class="search-results-overlay" role="region" aria-label="Search results" hidden>
+  <div class="container">
+    <div class="search-results-header">
+      <span class="search-results-status" id="search-results-status" aria-live="assertive"></span>
+      <button class="search-results-close" id="search-results-close" aria-label="Close search results">
+        <span aria-hidden="true">[&nbsp;CLEAR&nbsp;]</span>
+      </button>
+    </div>
+    <ol class="search-results-list" id="search-results-list" aria-label="Search results list"></ol>
+  </div>
+</div>

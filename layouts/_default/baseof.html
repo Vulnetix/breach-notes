@@ -38,6 +38,7 @@
             </a>
         </div>
     </header>
+    {{ partial "search-bar.html" . }}
 
     <main>
         {{ block "main" . }}{{ end }}
@@ -57,5 +58,6 @@
     {{ if .Site.Params.hacker_imagery }}
     <script src="{{ "js/hacker-effects.js" | relURL }}"></script>
     {{ end }}
+    <script src="{{ "js/search.js" | relURL }}"></script>
 </body>
 </html>

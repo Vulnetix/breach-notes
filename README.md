@@ -3619,19 +3619,28 @@ CVE-2026-33634
 Each YAML file captures:
 
 ```yaml
-source_name: "publication or organization name"
-source_url: "direct URL to the report"
-date_of_breach: "YYYY-MM-DD or YYYY-MM or YYYY"
-date_of_disclosure: "YYYY-MM-DD or unknown"
-date_of_customer_notification: "YYYY-MM-DD or unknown"
+# ── Core fields (always present) ───────────────────────────────────────────────
+source_name: "Publication or organization reporting the breach"
+source_url: "https://example.com/direct-link-to-report"
+date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
+date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
 category: "ransomware | data-leak | supply-chain | credential-theft | other"
-initial_attack_vector: "CWE-NNN: Description or free text"
-cve: ["CVE-2021-44228"]  # list, empty if none
-vendor_product: "Vendor Product Name"
-software_package: "package-name"
-malware: "MalwareName"
-supply_chain_claimed: false
-notes: "Additional context"
+notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
+
+# ── Traditional breach fields ───────────────────────────────────────────────────
+date_of_customer_notification: ""     # YYYY-MM-DD or "" if unknown
+initial_attack_vector: "CWE-NNN: Short description, or free-text description of the attack method"
+cve: []                               # list of CVE/GHSA IDs, e.g. ["CVE-2024-3094"], empty if none
+vendor_product: "Vendor Product Name" # affected vendor or product
+software_package: ""                  # package name for software supply chain incidents, "" otherwise
+malware: ""                           # malware family name if identified, "" otherwise
+supply_chain_claimed: false           # true if a third-party vendor relationship was the attack vector
+
+# ── Crypto / Web3 fields ───────────────────────────────────────────────────────
+blockchain: "ethereum"                # blockchain(s) involved, e.g. "ethereum, solana"; omit if not applicable
+financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable
+financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable
+affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable
 ```
 
 ## Folders

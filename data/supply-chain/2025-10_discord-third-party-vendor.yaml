@@ -1,0 +1,17 @@
+source_name: Discord Third-Party Breach (October 2025)
+source_url: https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/
+date_of_breach: '2025-10-01'
+date_of_disclosure: '2025-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Discord. Data breached: Includes
+  email addresses, Discord usernames and IDs, phone numbers, partial payment information,
+  date of birth, multi-factor authentication related information, suspicious activity
+  levels, government ID photos and other internal information.. Use of third party:
+  Customer service provider. Third-party company: Third-party vendor.'

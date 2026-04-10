@@ -1,0 +1,15 @@
+source_name: Opko Health Third-Party Breach (June 2019)
+source_url: https://www.fiercehealthcare.com/tech/third-medical-testing-company-impacted-by-amca-breach-as-congress-seeks-answers
+date_of_breach: '2019-06-01'
+date_of_disclosure: '2019-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: American Medical Collection Agency
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Opko Health. Data breached:
+  422,600 patients information. Use of third party: collections vendor. Third-party
+  company: American Medical Collection Agency.'

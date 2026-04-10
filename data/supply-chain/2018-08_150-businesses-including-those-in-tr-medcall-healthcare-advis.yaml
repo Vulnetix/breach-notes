@@ -1,0 +1,20 @@
+source_name: 150 businesses including those in transport, local government and large
+  franchise chains like Piggly Wiggly, KFC, and Hampton Inn. Third-Party Breach (August
+  2018)
+source_url: https://www.itwire.com/security/84532-health-service-provider-medcall-leaves-7gb-dataset-exposed.html
+date_of_breach: '2018-08-01'
+date_of_disclosure: '2018-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: MedCall Healthcare Advisers
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for 150 businesses including
+  those in transport, local government and large franchise chains like Piggly Wiggly,
+  KFC, and Hampton Inn.. Data breached: 7GB cache of data exposed with medical information
+  for employees of 181 business locations and social security numbers for nearly 3000
+  individuals. Use of third party: Back-up pharmacy services. Third-party company:
+  MedCall Healthcare Advisers.'

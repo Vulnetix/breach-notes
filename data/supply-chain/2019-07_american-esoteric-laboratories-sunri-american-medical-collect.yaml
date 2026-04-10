@@ -1,0 +1,30 @@
+source_name: American Esoteric Laboratories, Sunrise Medical Laboratories, CBLPath,
+  Laboratory Medicine Consultants, Austin Pathology Associates, South Texas Dermatopathology,
+  Pathology Solutions, Laboratory of Dermatopathology ADX, Seacoast Pathology, Western
+  Pathology Consultants, Arizona Dermatopathology, Natera Third-Party Breach (July
+  2019)
+source_url: https://www.securityweek.com/amca-breach-many-more-impacted-healthcare-firms-come-forward
+date_of_breach: '2019-07-01'
+date_of_disclosure: '2019-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: American Medical Collection Agency
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for American Esoteric Laboratories,
+  Sunrise Medical Laboratories, CBLPath, Laboratory Medicine Consultants, Austin Pathology
+  Associates, South Texas Dermatopathology, Pathology Solutions, Laboratory of Dermatopathology
+  ADX, Seacoast Pathology, Western Pathology Consultants, Arizona Dermatopathology,
+  Natera. Data breached: 534,500 patients information and 7,400 financial data of
+  AEL, 412,000 patients information with 15,000 financial data of SML, 145,100 patients
+  information with 3,800 financial data of CBLPath, 143,400 patients information with
+  4,200 financial data of LMC, 44,700 patients information with 1,800 financial data
+  of APA, 14,900 patients information and 1,200 financial data of STD, 12,700 patients
+  information with 600 financial data of PS, 4,000 patients information and 240 financial
+  data of ADX, 9,200 patients information with 800 financial data of SP, 4,200 patients
+  information with 350 financial data of WPC, 6,500 patients information with 500
+  financial data of AD, unknown number of Natera. Use of third party: collections
+  vendor. Third-party company: American Medical Collection Agency.'

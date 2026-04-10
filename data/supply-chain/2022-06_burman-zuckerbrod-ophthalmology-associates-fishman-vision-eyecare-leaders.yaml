@@ -1,0 +1,18 @@
+source_name: Burman & Zuckerbrod Ophthalmology Associates, Fishman Vision Third-Party
+  Breach (June 2022)
+source_url: https://www.jdsupra.com/legalnews/texas-tech-university-health-science-3650638/
+date_of_breach: '2022-06-01'
+date_of_disclosure: '2022-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: EyeCare Leaders
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Burman & Zuckerbrod Ophthalmology\
+  \ Associates, Fishman Vision. Data breached: Names, Social Security numbers, addresses,\
+  \ phone numbers, driverâ\x80\x99s license numbers, email addresses, dates of birth,\
+  \ medical record numbers, and health insurance information. Use of third party:\
+  \ Eye care software provider. Third-party company: EyeCare Leaders."

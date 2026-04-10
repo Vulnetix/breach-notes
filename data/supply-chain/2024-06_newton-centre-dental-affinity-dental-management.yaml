@@ -1,0 +1,23 @@
+source_name: Newton Centre Dental Third-Party Breach (June 2024)
+source_url: https://www.hipaajournal.com/email-breach-university-medical-center/
+date_of_breach: '2024-06-01'
+date_of_disclosure: '2024-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Affinity Dental Management
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Newton Centre Dental. Data\
+  \ breached: Names, date of birth, Social Security number, tax identification number,\
+  \ IRS PIN number, passport number, driverâ\x80\x99s license/state-issued identification\
+  \ number, military identification number, non-U.S. national identification number,\
+  \ account number, routing number, financial institution name, credit or debit card\
+  \ number and security code or PIN, access information (credentials, security questions/answers,\
+  \ and digital signatures), health information (diagnosis, treatment information,\
+  \ prescriptions, provider names, medical record number/patient identification number,\
+  \ hospital account record number), and health insurance information (Medicare/Medicaid\
+  \ number or health insurance subscriber number).. Use of third party: Medical provider.\
+  \ Third-party company: Affinity Dental Management."

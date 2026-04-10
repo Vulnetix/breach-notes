@@ -1,0 +1,16 @@
+source_name: Park Mobile Third-Party Breach (April 2021)
+source_url: https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/
+date_of_breach: '2021-04-01'
+date_of_disclosure: '2021-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Park Mobile. Data breached:
+  Customer email addresses, dates of birth, phone numbers, license plate numbers,
+  hashed passwords and mailing addresses. Use of third party: Third-party software.
+  Third-party company: Not disclosed.'

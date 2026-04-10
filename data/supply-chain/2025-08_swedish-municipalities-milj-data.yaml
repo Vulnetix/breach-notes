@@ -1,0 +1,16 @@
+source_name: Swedish Municipalities Third-Party Breach (August 2025)
+source_url: https://therecord.media/sweden-municipalities-ransomware-software
+date_of_breach: '2025-08-01'
+date_of_disclosure: '2025-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: MiljÃ¶data
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Swedish Municipalities. Data
+  breached: For example, medical certificates, rehabilitation plans, work-related
+  injuries, and more.. Use of third party: Software provider. Third-party company:
+  MiljÃ¶data.'

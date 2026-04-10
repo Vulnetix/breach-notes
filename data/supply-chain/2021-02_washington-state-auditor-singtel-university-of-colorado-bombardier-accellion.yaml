@@ -1,0 +1,17 @@
+source_name: Washington State Auditor, SingTel, University of Colorado, Bombardier
+  Third-Party Breach (February 2021)
+source_url: https://www.seattletimes.com/seattle-news/politics/personal-data-of-1-6-million-washington-unemployment-claimants-exposed-in-hack-of-state-auditor/
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Accellion
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Washington State Auditor,
+  SingTel, University of Colorado, Bombardier. Data breached: Social Security numbers
+  and banking information. Use of third party: Third-party file transfer application.
+  Third-party company: Accellion.'

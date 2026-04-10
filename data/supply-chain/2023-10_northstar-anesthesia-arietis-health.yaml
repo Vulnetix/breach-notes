@@ -1,0 +1,17 @@
+source_name: NorthStar Anesthesia Third-Party Breach (October 2023)
+source_url: https://www.beckersasc.com/anesthesia/northstar-anesthesia-patients-may-have-been-affected-by-breach.html
+date_of_breach: '2023-10-01'
+date_of_disclosure: '2023-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Arietis Health
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for NorthStar Anesthesia. Data\
+  \ breached: Consumersâ\x80\x99 names, dates of birth, driverâ\x80\x99s license numbers,\
+  \ state identification card numbers, addresses, Social Security numbers and protected\
+  \ health information.. Use of third party: Corporate medical office. Third-party\
+  \ company: Arietis Health."

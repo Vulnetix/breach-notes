@@ -1,0 +1,18 @@
+source_name: Arietis Health Third-Party Breach (October 2023)
+source_url: https://healthitsecurity.com/news/rcm-company-reports-data-breach-tied-to-moveit-software-1.9m-impacted
+date_of_breach: '2023-10-01'
+date_of_disclosure: '2023-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Arietis Health. Data breached:\
+  \ Patient data, including names, driverâ\x80\x99s license numbers, Social Security\
+  \ numbers, dates of birth, medical record numbers, patient account numbers, diagnosis\
+  \ and treatment information, health insurance information, and prescription and\
+  \ provider information.. Use of third party: Medical billing service. Third-party\
+  \ company: Ipswitch, Inc.."

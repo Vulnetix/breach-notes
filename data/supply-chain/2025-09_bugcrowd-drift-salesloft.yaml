@@ -1,0 +1,18 @@
+source_name: BugCrowd Third-Party Breach (September 2025)
+source_url: https://www.bugcrowd.com/blog/update-bugcrowd-response-to-salesloft-drift-third-party-security-event/
+date_of_breach: '2025-09-01'
+date_of_disclosure: '2025-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Drift (Salesloft)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for BugCrowd. Data breached:
+  Includes commonly available business contact details (such as employee name, business
+  email address, and business phone number), billing addresses, old credentials for
+  test accounts, product pricing and quotations, and notes which may have been stored
+  in accounts.. Use of third party: Chatbot service provider. Third-party company:
+  Drift (Salesloft).'

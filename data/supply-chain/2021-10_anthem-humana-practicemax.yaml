@@ -1,0 +1,16 @@
+source_name: Anthem, Humana Third-Party Breach (October 2021)
+source_url: https://healthitsecurity.com/news/third-party-vendor-ransomware-attack-impacts-humana-anthem-members
+date_of_breach: '2021-10-01'
+date_of_disclosure: '2021-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PracticeMax
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Anthem, Humana. Data breached:
+  First and last names, birth dates, phone numbers, member ID numbers, clinical data
+  pertaining to kidney care services, and addresses.. Use of third party: IT vendor.
+  Third-party company: PracticeMax.'

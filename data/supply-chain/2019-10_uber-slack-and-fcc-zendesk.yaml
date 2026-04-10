@@ -1,0 +1,15 @@
+source_name: Uber, Slack, and FCC Third-Party Breach (October 2019)
+source_url: https://www.bleepingcomputer.com/news/security/zendesk-security-breach-may-impact-orgs-like-uber-slack-and-fcc/
+date_of_breach: '2019-10-01'
+date_of_disclosure: '2019-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Zendesk
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Uber, Slack, and FCC. Data
+  breached: 10,000 Zendesk Support and Chat accounts. Use of third party: customer
+  service software provider. Third-party company: Zendesk.'

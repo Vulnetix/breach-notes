@@ -1,0 +1,15 @@
+source_name: All Platfroms that use Facebook Login Third-Party Breach (September 2018)
+source_url: https://www.rt.com/news/439944-facebook-hack-tinder-instagram/
+date_of_breach: '2018-09-01'
+date_of_disclosure: '2018-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Facebook
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for All Platfroms that use Facebook
+  Login. Data breached: Accounts of more than 50 million users compromised. Use of
+  third party: Social Media Connection. Third-party company: Facebook.'

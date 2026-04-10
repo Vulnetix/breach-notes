@@ -1,0 +1,17 @@
+source_name: Moffitt Cancer Center Third-Party Breach (April 2024)
+source_url: https://www.hipaajournal.com/medusa-ransomware-group-leaks-american-renal-associates-data/
+date_of_breach: '2024-04-01'
+date_of_disclosure: '2024-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Gunster Yoakley and Stewart PA
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Moffitt Cancer Center. Data\
+  \ breached: Patient names, dates of birth, phone numbers, email addresses, medical\
+  \ records, Social Security numbers, copies of passports and driverâ\x80\x99s licenses,\
+  \ health insurance information, and company data.. Use of third party: Healthcare\
+  \ Provider. Third-party company: Gunster Yoakley and Stewart PA."

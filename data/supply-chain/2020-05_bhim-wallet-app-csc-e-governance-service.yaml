@@ -1,0 +1,18 @@
+source_name: BHIM wallet app Third-Party Breach (May 2020)
+source_url: https://www.deccanherald.com/specials/csc-bhim-app-data-breach-exposed-payment-personal-details-of-over-7-million-indians-844278.html
+date_of_breach: '2020-05-01'
+date_of_disclosure: '2020-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CSC e-Governance Services LTD
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for BHIM wallet app. Data breached:\
+  \ 7 million Indiansâ\x80\x99 Aadhaar number, name, gender, date of birth, biometric\
+  \ details, Permanent Account Number (PAN), scanned copies of Caste and Religion\
+  \ certificates, userâ\x80\x99s picture, residential details, professional degree\
+  \ certificates. Use of third party: Amazon Web Services S3 bucket of a third party.\
+  \ Third-party company: CSC e-Governance Services LTD."

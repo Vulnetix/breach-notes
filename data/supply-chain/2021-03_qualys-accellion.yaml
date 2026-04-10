@@ -1,0 +1,16 @@
+source_name: Qualys Third-Party Breach (March 2021)
+source_url: https://www.cyberscoop.com/qualys-breach-cloud-accellion-criminal/
+date_of_breach: '2021-03-01'
+date_of_disclosure: '2021-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Accellion
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Qualys. Data breached: Customer
+  data possibly including invoices, purchase orders, tax documents, and scan reports.
+  Use of third party: Third-party file transfer application. Third-party company:
+  Accellion.'

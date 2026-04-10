@@ -1,0 +1,17 @@
+source_name: TJ Maxx Third-Party Breach (June 2023)
+source_url: https://www.hillsboroughcounty.org/en/media-center/press-releases/2023/07/14/hillsborough-notifies-residents-vendors-of-global-data-breach
+date_of_breach: '2023-06-01'
+date_of_disclosure: '2023-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for TJ Maxx. Data breached: Protected
+  health and personal information could include first and last names, Social Security
+  numbers, dates of birth, home addresses, medical conditions and diagnoses, and disability
+  codes.. Use of third party: Department store chain. Third-party company: Ipswitch,
+  Inc..'

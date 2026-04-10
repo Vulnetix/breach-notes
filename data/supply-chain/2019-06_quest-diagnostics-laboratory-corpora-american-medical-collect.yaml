@@ -1,0 +1,18 @@
+source_name: Quest Diagnostics, Laboratory Corporation of America (LabCorp) Third-Party
+  Breach (June 2019)
+source_url: https://patch.com/connecticut/hartford/ct-opens-investigation-quest-data-breach
+date_of_breach: '2019-06-01'
+date_of_disclosure: '2019-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: American Medical Collection Agency
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Quest Diagnostics, Laboratory
+  Corporation of America (LabCorp). Data breached: 12 million patients of Quest Diagnostics,7.7
+  million Laboratory Corporation of America (LabCorp) patients information. Use of
+  third party: collections vendor. Third-party company: American Medical Collection
+  Agency.'

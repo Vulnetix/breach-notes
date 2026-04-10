@@ -1,0 +1,19 @@
+source_name: Naperville Unit District 203, Indian Prairie Unit District 204, St. Charles
+  Unit District 303 and Geneva Unit District 304 Third-Party Breach (August 2019)
+source_url: https://www.dailyherald.com/news/20190808/student-names-birth-dates-compromised-in-data-breach-affecting-suburban-school-districts
+date_of_breach: '2019-08-01'
+date_of_disclosure: '2019-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Pearson Clinical Assessment (AIMSweb)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Naperville Unit District
+  203, Indian Prairie Unit District 204, St. Charles Unit District 303 and Geneva
+  Unit District 304. Data breached: 3,700 students information in District 203, 49,000
+  students information in District 204, 3,206 students information in District 303
+  and 8,000 students information in District 304. Use of third party: learning assessment
+  platform. Third-party company: Pearson Clinical Assessment (AIMSweb).'

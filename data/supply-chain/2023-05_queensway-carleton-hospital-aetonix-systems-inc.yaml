@@ -1,0 +1,18 @@
+source_name: Queensway Carleton Hospital Third-Party Breach (May 2023)
+source_url: https://www.saltwire.com/atlantic-canada/news/data-breach-could-affect-up-to-100000-patients-at-queensway-carleton-hospital-100848399/
+date_of_breach: '2023-05-01'
+date_of_disclosure: '2023-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Aetonix Systems Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Queensway Carleton Hospital.
+  Data breached: Name, gender, date of birth, marital status and mother tongue; home
+  addresses, phone numbers, and email addresses; OHIP numbers; insurance policy numbers;
+  health care providers; patient ID numbers; patient visit ID numbers; scheduled surgical
+  dates; past medical history and procedure description.. Use of third party: Hospital.
+  Third-party company: Aetonix Systems Inc..'

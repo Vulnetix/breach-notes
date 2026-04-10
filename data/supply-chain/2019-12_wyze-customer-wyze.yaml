@@ -1,0 +1,14 @@
+source_name: Wyze customer Third-Party Breach (December 2019)
+source_url: https://www.zdnet.com/article/iot-vendor-wyze-confirms-server-leak/
+date_of_breach: '2019-12-01'
+date_of_disclosure: '2019-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Wyze
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Wyze customer. Data breached:
+  2.4 million customers. Use of third party: IoT vendor. Third-party company: Wyze.'

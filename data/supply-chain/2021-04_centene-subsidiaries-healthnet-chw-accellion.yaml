@@ -1,0 +1,16 @@
+source_name: Centene Subsidiaries (HealthNet, CHW) Third-Party Breach (April 2021)
+source_url: https://healthitsecurity.com/news/accellion-breach-tally-for-centenes-subsidiaries-1.3m-patients-impacted
+date_of_breach: '2021-04-01'
+date_of_disclosure: '2021-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Accellion
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Centene Subsidiaries (HealthNet,
+  CHW). Data breached: Contact details, dates of birth, insurance ID numbers, and
+  health information, such as treatments and medical conditions.. Use of third party:
+  File sharing application. Third-party company: Accellion.'

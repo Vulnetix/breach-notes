@@ -1,0 +1,15 @@
+source_name: K12 Schools in NY Third-Party Breach (May 2022)
+source_url: https://www.govinfosecurity.com/illuminate-education-mega-breach-affects-k-12-students-a-19032
+date_of_breach: '2022-05-01'
+date_of_disclosure: '2022-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Illuminate Education
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for K12 Schools in NY. Data breached:\
+  \ Studentsâ\x80\x99 grades and private messages with parents. Use of third party:\
+  \ Education software provider. Third-party company: Illuminate Education."

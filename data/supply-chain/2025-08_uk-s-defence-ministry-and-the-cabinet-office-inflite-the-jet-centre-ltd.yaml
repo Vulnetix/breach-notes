@@ -1,0 +1,17 @@
+source_name: "UKâ\x80\x99s defence ministry and the Cabinet Office Third-Party Breach\
+  \ (August 2025)"
+source_url: https://www.theguardian.com/uk-news/2025/aug/16/cyber-attack-on-mod-linked-contractor-exposes-data-of-afghans-in-resettlement-scheme
+date_of_breach: '2025-08-01'
+date_of_disclosure: '2025-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Inflite The Jet Centre Ltd
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for UKâ\x80\x99s defence ministry\
+  \ and the Cabinet Office. Data breached: Email addresses and more. Use of third\
+  \ party: Ground services for flights. Third-party company: Inflite The Jet Centre\
+  \ Ltd."

@@ -1,0 +1,18 @@
+source_name: 2,000 providers, including barristers, solicitor firms, and non-profit
+  organizations Third-Party Breach (May 2025)
+source_url: https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/
+date_of_breach: '2025-05-01'
+date_of_disclosure: '2025-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Legal Aid Agency (LAA)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for 2,000 providers, including
+  barristers, solicitor firms, and non-profit organizations. Data breached: Includes
+  full name, contact details, date of birth, National Insurance number, criminal records,
+  employment status, financial information such as debts and payments.. Use of third
+  party: Legal aid service provider. Third-party company: Legal Aid Agency (LAA).'

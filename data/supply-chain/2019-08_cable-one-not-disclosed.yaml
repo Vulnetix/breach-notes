@@ -1,0 +1,17 @@
+source_name: Cable One Third-Party Breach (August 2019)
+source_url: https://www.abc15.com/news/business/cable-one-email-data-breach-could-affect-employees-family-members
+date_of_breach: '2019-08-01'
+date_of_disclosure: '2019-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Cable One. Data breached:
+  14 Cable One employee accounts may include addresses, Social Security numbers, government-issued
+  identification numbers, financial account numbers, digital signatures or medical
+  and health insurance information. Use of third party: not disclosed. Third-party
+  company: not disclosed.'

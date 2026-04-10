@@ -1,0 +1,16 @@
+source_name: Access Personal Checking Services (APCS) Third-Party Breach (August 2025)
+source_url: https://www.theregister.com/2025/08/22/apcs_breach/
+date_of_breach: '2025-08-01'
+date_of_disclosure: '2025-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Intradev
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Access Personal Checking
+  Services (APCS). Data breached: Includes basic personal information, as well as
+  passport, driving license, and national insurance details.. Use of third party:
+  Software provider. Third-party company: Intradev.'

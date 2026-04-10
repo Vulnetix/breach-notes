@@ -1,0 +1,14 @@
+source_name: Red Cross Third-Party Breach (January 2022)
+source_url: https://www.darkreading.com/attacks-breaches/red-cross-hit-via-third-party-cyberattack?utm_source=dlvr.it&utm_medium=twitter
+date_of_breach: '2022-01-01'
+date_of_disclosure: '2022-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Red Cross. Data breached:
+  Not disclosed. Use of third party: Hosting provider. Third-party company: Not disclosed.'

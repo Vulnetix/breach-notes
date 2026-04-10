@@ -1,0 +1,19 @@
+source_name: "Boston Childrenâ\x80\x99s Health Physicians Third-Party Breach (October\
+  \ 2024)"
+source_url: https://www.hipaajournal.com/atsg-data-breach-909000-individuals/
+date_of_breach: '2024-10-01'
+date_of_disclosure: '2024-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Axispoint Technology Solutions Group (ATSG)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Boston Childrenâ\x80\x99\
+  s Health Physicians. Data breached: Names, addresses, medical billing and insurance\
+  \ information, medical information such as diagnoses, and demographic information\
+  \ such as dates of birth, Social Security numbers, and financial information.. Use\
+  \ of third party: IT Services Provider. Third-party company: Axispoint Technology\
+  \ Solutions Group (ATSG)."

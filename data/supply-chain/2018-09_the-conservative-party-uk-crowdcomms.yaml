@@ -1,0 +1,16 @@
+source_name: The Conservative Party (UK) Third-Party Breach (September 2018)
+source_url: https://www.esquire.com/uk/latest-news/a23541977/that-colossally-embarrassing-tory-party-conference-app-data-breach-explained/
+date_of_breach: '2018-09-01'
+date_of_disclosure: '2018-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CrowdComms
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for The Conservative Party (UK).
+  Data breached: Sensitive information about MPs, journalist and conference attendees,
+  including personal mobile numbers. Use of third party: Conference App. Third-party
+  company: CrowdComms.'

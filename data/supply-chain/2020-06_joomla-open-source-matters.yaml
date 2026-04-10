@@ -1,0 +1,17 @@
+source_name: Joomla Third-Party Breach (June 2020)
+source_url: https://www.zdnet.com/article/joomla-team-discloses-data-breach/
+date_of_breach: '2020-06-01'
+date_of_disclosure: '2020-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Open Source Matters
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Joomla. Data breached: Full
+  name,Business address, Business email address, Business phone number, Company URL,
+  Nature of business,Encrypted password (hashed),IP address, Newsletter subscription
+  preferences. Use of third party: Third-party company(CMS). Third-party company:
+  Open Source Matters.'

@@ -1,0 +1,18 @@
+source_name: Hospitals Third-Party Breach (July 2021)
+source_url: https://healthitsecurity.com/news/clearbalancedata-incidentimpactsover-200000uspatientspii
+date_of_breach: '2021-07-01'
+date_of_disclosure: '2021-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: ClearBalance
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Hospitals. Data breached:
+  Name, tax ID, social security number, date of birth, other government-issued ID,
+  telephone number, healthcare account number and balance, date of service, ClearBalance
+  loan number and balance, personal banking information, clinical information, health
+  insurance information, and full-face photographic image. Use of third party: Medical
+  loan provider. Third-party company: ClearBalance.'

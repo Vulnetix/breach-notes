@@ -1,0 +1,16 @@
+source_name: Fidelity Third-Party Breach (March 2024)
+source_url: https://www.darkreading.com/cyberattacks-data-breaches/first-bofa-now-fidelity-same-vendor-third-party-breaches
+date_of_breach: '2024-03-01'
+date_of_disclosure: '2024-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Infosys McCamish Systems (IMS)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Fidelity. Data breached:
+  Names, Social Security numbers, states of residence, bank account and routing numbers,
+  and dates of birth.. Use of third party: Financial services provider. Third-party
+  company: Infosys McCamish Systems (IMS).'

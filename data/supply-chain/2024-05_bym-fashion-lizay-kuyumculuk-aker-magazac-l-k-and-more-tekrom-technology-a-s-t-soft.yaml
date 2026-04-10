@@ -1,0 +1,17 @@
+source_name: "BYM Fashion, Lizay Kuyumculuk, Aker MagazacÄ±lÄ±k and moreâ\x80¦ Third-Party\
+  \ Breach (May 2024)"
+source_url: https://www.kvkk.gov.tr/Icerik/7898/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Tekrom-Teknoloji-A-S-T-Soft-den-Hizmet-Alan-Veri-Sorumlulari-Hk-
+date_of_breach: '2024-05-01'
+date_of_disclosure: '2024-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Tekrom Technology A.s. (T-Soft)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for BYM Fashion, Lizay Kuyumculuk,\
+  \ Aker MagazacÄ±lÄ±k and moreâ\x80¦. Data breached: Personally identifiable information\
+  \ (PII). Use of third party: Software provider. Third-party company: Tekrom Technology\
+  \ A.s. (T-Soft)."

@@ -1,0 +1,15 @@
+source_name: South Korean Organizations Third-Party Breach (August 2018)
+source_url: https://www.trendmicro.com/en_us/research/18/h/supply-chain-attack-operation-red-signature-targets-south-korean-organizations.html
+date_of_breach: '2018-08-01'
+date_of_disclosure: '2018-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Remote support solution provider
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for South Korean Organizations.
+  Data breached: Unknown amount of data. Use of third party: Remote support. Third-party
+  company: Remote support solution provider.'

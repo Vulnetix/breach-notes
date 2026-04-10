@@ -1,0 +1,16 @@
+source_name: The Australian P&N Bank Third-Party Breach (January 2020)
+source_url: https://www.scmagazine.com/home/security-news/data-breach/aussie-pn-bank-suffers-data-breach/
+date_of_breach: '2020-01-01'
+date_of_disclosure: '2020-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for The Australian P&N Bank.
+  Data breached: Name, address, email, phone number, customer number, age, account
+  number and account balance. Use of third party: Third-party CRM hosting firm. Third-party
+  company: Not disclosed.'

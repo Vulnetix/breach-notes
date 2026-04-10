@@ -1,0 +1,17 @@
+source_name: "Baylor Scott & White Medical Center â\x80\x93 Frisco Third-Party Breach\
+  \ (December 2018)"
+source_url: https://baylorfrisco.com/important-notice-regarding-a-data-security-incident/
+date_of_breach: '2018-12-01'
+date_of_disclosure: '2018-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Baylor Scott & White Medical\
+  \ Center â\x80\x93 Frisco. Data breached: approximately 47,000 patients or guarantors\
+  \ whose payment information, including partial credit card information. Use of third\
+  \ party: credit card processing system. Third-party company: not disclosed."

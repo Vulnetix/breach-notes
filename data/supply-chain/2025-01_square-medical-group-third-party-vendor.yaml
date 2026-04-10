@@ -1,0 +1,19 @@
+source_name: Square Medical Group Third-Party Breach (January 2025)
+source_url: https://www.hipaajournal.com/frederick-health-ransomware-attack/
+date_of_breach: '2025-01-01'
+date_of_disclosure: '2025-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Square Medical Group. Data
+  breached: Included names in addition to one or more of the following: date of birth,
+  Social Security number, medical treatment, procedure, and/or diagnosis information,
+  medical record number, medical provider information, medical prescription information,
+  Medicaid and/or Medicare number, dates of service, health insurance claim and/or
+  policy information.. Use of third party: IT provider. Third-party company: Third-party
+  vendor.'

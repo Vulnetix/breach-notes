@@ -1,0 +1,16 @@
+source_name: Mangatoon Third-Party Breach (May 2022)
+source_url: https://www.bleepingcomputer.com/news/security/mangatoon-data-breach-exposes-data-from-23-million-accounts/
+date_of_breach: '2022-05-01'
+date_of_disclosure: '2022-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Elasticsearch
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Mangatoon. Data breached:
+  Names, email addresses, genders, social media account identities, auth tokens from
+  social logins and salted MD5 password hashes. Use of third party: Search-powered
+  solutions provider. Third-party company: Elasticsearch.'

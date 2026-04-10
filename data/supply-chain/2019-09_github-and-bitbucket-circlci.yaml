@@ -1,0 +1,17 @@
+source_name: GitHub And Bitbucket Third-Party Breach (September 2019)
+source_url: https://www.scmagazineuk.com/circlci-data-breach-exposed-customer-github-bitbucket-logins/article/1595997
+date_of_breach: '2019-09-01'
+date_of_disclosure: '2019-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CirclCI
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for GitHub And Bitbucket. Data
+  breached: usernames and email addresses associated with GitHub and Bitbucket and
+  IP addresses and user agent strings & organisation name, repository URLs and names,
+  branch names, and repository. Use of third party: Analytics company. Third-party
+  company: CirclCI.'

@@ -1,0 +1,16 @@
+source_name: Ubiquiti Networks Third-Party Breach (February 2021)
+source_url: https://securityaffairs.co/wordpress/113296/data-breach/ubiquiti-discloses-data-breach.html
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Ubiquiti Networks. Data breached:\
+  \ User accounts â\x80\x93 including include names, email addresses, and salted and\
+  \ hashed passwords. Also home addresses and phone numbers for some users.. Use of\
+  \ third party: Cloud provider. Third-party company: Not disclosed."

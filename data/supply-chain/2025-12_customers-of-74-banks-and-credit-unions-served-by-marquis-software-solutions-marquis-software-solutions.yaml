@@ -1,0 +1,19 @@
+source_name: Customers of 74 banks and credit unions served by Marquis Software Solutions
+  Third-Party Breach (December 2025)
+source_url: https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
+date_of_breach: '2025-12-01'
+date_of_disclosure: '2025-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Marquis Software Solutions
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Customers of 74 banks and
+  credit unions served by Marquis Software Solutions. Data breached: Includes names,
+  addresses, phone numbers, Social Security numbers, Taxpayer Identification Numbers,
+  financial account information without security or access codes, and dates of birth..
+  Use of third party: Financial software provider. Third-party company: Marquis Software
+  Solutions.'

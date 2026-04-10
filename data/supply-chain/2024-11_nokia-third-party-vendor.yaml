@@ -1,0 +1,16 @@
+source_name: Nokia Third-Party Breach (November 2024)
+source_url: https://www.bleepingcomputer.com/news/security/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/
+date_of_breach: '2024-11-01'
+date_of_disclosure: '2024-11-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Nokia. Data breached: SSH
+  keys, source code, RSA keys, BitBucket logins, SMTP accounts, webhooks, and hardcoded
+  credentials.. Use of third party: Telecommunications provider. Third-party company:
+  Third-party vendor.'

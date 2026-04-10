@@ -1,0 +1,18 @@
+source_name: Clear Spring Health Third-Party Breach (July 2024)
+source_url: https://www.hipaajournal.com/southcoast-health-call-4-health-notify-patients-about-cyberattacks/
+date_of_breach: '2024-07-01'
+date_of_disclosure: '2024-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Change Healthcare
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Clear Spring Health. Data\
+  \ breached: Contact information, health insurance information, health information,\
+  \ billing information, and personal information, including Social Security numbers,\
+  \ driverâ\x80\x99s license numbers, state ID numbers, and passport numbers.. Use\
+  \ of third party: Call center operator and nurse triage service provider. Third-party\
+  \ company: Change Healthcare."

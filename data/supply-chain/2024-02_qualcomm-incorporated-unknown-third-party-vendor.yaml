@@ -1,0 +1,15 @@
+source_name: Qualcomm Incorporated Third-Party Breach (February 2024)
+source_url: https://www.hipaajournal.com/february-2024-healthcare-data-breach-report/
+date_of_breach: '2024-02-01'
+date_of_disclosure: '2024-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Unknown third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Qualcomm Incorporated. Data
+  breached: PII. Use of third party: Semiconductor Provider. Third-party company:
+  Unknown third-party vendor.'

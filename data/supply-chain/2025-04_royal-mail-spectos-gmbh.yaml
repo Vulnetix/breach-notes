@@ -1,0 +1,18 @@
+source_name: "â\x80\x8BRoyal Mail Third-Party Breach (April 2025)"
+source_url: https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-leak-claims-no-impact-on-operations/
+date_of_breach: '2025-04-01'
+date_of_disclosure: '2025-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Spectos GmbH
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for â\x80\x8BRoyal Mail. Data\
+  \ breached: Includes names, addresses, planned delivery dates, Mailchimp mailing\
+  \ lists, delivery and post office location datasets, WordPress SQL database exports,\
+  \ internal Zoom meeting recordings, and other confidential documents.. Use of third\
+  \ party: Data collection and analytics service provider. Third-party company: Spectos\
+  \ GmbH."

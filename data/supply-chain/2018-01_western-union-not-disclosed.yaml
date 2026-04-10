@@ -1,0 +1,16 @@
+source_name: Western Union Third-Party Breach (January 2018)
+source_url: https://www.theregister.com/2018/02/13/western_union_storage_hack/
+date_of_breach: '2018-01-01'
+date_of_disclosure: '2018-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Western Union. Data breached:\
+  \ Undisclosed # of customersâ\x80\x99 contact info, bank names, WU internal ID numbers,\
+  \ transaction amounts, times and ID numbers. Use of third party: Cloud-based or\
+  \ off-site backup storage provider. Third-party company: Not disclosed."

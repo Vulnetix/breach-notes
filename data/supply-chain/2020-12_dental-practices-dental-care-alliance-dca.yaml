@@ -1,0 +1,17 @@
+source_name: Dental Practices Third-Party Breach (December 2020)
+source_url: https://healthitsecurity.com/news/third-party-vendor-dental-care-alliance-breach-impacts-1m-patients
+date_of_breach: '2020-12-01'
+date_of_disclosure: '2020-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Dental Care Alliance (DCA)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Dental Practices. Data breached:\
+  \ Patient names, contact details, dental diagnoses, treatment information, patient\
+  \ account numbers, billing details, dentistsâ\x80\x99 names, bank account numbers,\
+  \ and health insurance data.. Use of third party: Support vendor-accounting billing.\
+  \ Third-party company: Dental Care Alliance (DCA)."

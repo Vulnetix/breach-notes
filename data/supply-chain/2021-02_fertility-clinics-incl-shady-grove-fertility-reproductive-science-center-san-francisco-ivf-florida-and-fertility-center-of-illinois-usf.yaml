@@ -1,0 +1,20 @@
+source_name: Fertility Clinics incl. Shady Grove Fertility, Reproductive Science Center
+  San Francisco, IVF Florida, and Fertility Center of Illinois Third-Party Breach
+  (February 2021)
+source_url: https://www.bleepingcomputer.com/news/security/ransomware-hits-largest-us-fertility-network-patient-data-stolen/
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: USF
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Fertility Clinics incl. Shady
+  Grove Fertility, Reproductive Science Center San Francisco, IVF Florida, and Fertility
+  Center of Illinois. Data breached: Contact details, dates of birth, MPI numbers,
+  medical record information, health insurance data, financial account details, passport
+  numbers, diagnoses, treatments, and Social Security numbers. Use of third party:
+  Support vendor. Third-party company: USF.'

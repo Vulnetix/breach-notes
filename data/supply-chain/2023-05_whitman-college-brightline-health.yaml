@@ -1,0 +1,16 @@
+source_name: Whitman College Third-Party Breach (May 2023)
+source_url: https://www.hipaajournal.com/brightline-at-least-964300-individuals-affected-by-fortra-goanywhere-hack/
+date_of_breach: '2023-05-01'
+date_of_disclosure: '2023-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Brightline Health
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Whitman College. Data breached:
+  Names, addresses, dates of birth, member identification numbers, date of health
+  plan coverage, and/or employer names.. Use of third party: Liberal arts college.
+  Third-party company: Brightline Health.'

@@ -1,0 +1,16 @@
+source_name: Medical Facilities Third-Party Breach (Deecember 2020)
+source_url: https://www.infosecurity-magazine.com/news/leaky-server-12m-medical-records/?&web_view=true
+date_of_breach: '2020-01-01'
+date_of_disclosure: '2020-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: iSofH
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Medical Facilities. Data
+  breached: Full names and dates of birth, postal and email addresses, phone numbers,
+  passport details, credit card numbers, medical records and recent test results and
+  diagnoses.. Use of third party: Software vendor. Third-party company: iSofH.'

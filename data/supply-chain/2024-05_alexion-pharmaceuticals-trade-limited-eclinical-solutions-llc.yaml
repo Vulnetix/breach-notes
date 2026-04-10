@@ -1,0 +1,23 @@
+source_name: Alexion Pharmaceuticals Trade Limited Third-Party Breach (May 2024)
+source_url: https://www.kvkk.gov.tr/Icerik/7904/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Alexion-Ilac-Ticaret-Limited-Sirketi
+date_of_breach: '2024-05-01'
+date_of_disclosure: '2024-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: eClinical Solutions LLC
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Alexion Pharmaceuticals Trade
+  Limited. Data breached: Participant ID (keycoded identifier), study name, status,
+  date of explicit consent, date of screen failure, random date, arm/cohort/startification,
+  date of first dose, date of current dose, date of last dose, date of last visit,
+  number of rescans , previous participant identification, age, gender, race, ethnicity,
+  end of randomized period, reason for discontinuation of treatment, date of discontinuation
+  of treatment, reason for discontinuation of study, date of discontinuation of study,
+  study completed, date of study completion, date of death, SDVTier, participant identification,
+  birth year, laboratory results, value within range, laboratory date, medications
+  used, medical history information,. Use of third party: Medicine Provider. Third-party
+  company: eClinical Solutions LLC.'

@@ -1,0 +1,17 @@
+source_name: Mitsubishi Third-Party Breach (January 2020)
+source_url: https://www.helpnetsecurity.com/2020/01/21/mitsubishi-electric-data-breach/
+date_of_breach: '2020-01-01'
+date_of_disclosure: '2020-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Mitsubishi. Data breached:
+  Company data, data of government organizations and private companies, names and
+  addresses, previous employment history, birthdates, telephone numbers of 8,122 applicants,
+  employees and retirees. Use of third party: An affiliated company in China. Third-party
+  company: Not disclosed.'

@@ -1,0 +1,15 @@
+source_name: Highmark Third-Party Breach (March 2022)
+source_url: https://www.timesleader.com/news/1543999/highmark-issues-statement-on-data-security-incident-with-vendor
+date_of_breach: '2022-03-01'
+date_of_disclosure: '2022-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Quantum Group
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Highmark. Data breached:
+  Not disclosed. Use of third party: Printing and mailing vendor. Third-party company:
+  Quantum Group.'

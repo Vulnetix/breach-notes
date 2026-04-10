@@ -1,0 +1,15 @@
+source_name: Hyatt Hotels Third-Party Breach (October 2017)
+source_url: https://threatpost.com/hyatt-hit-by-credit-card-breach-again/128440/
+date_of_breach: '2017-10-01'
+date_of_disclosure: '2017-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Hyatt Hotels. Data breached:
+  Credit card data belonging to an undisclosed number of customers at 41 hotels. Use
+  of third party: Point-of-sale system. Third-party company: Not disclosed.'

@@ -1,0 +1,15 @@
+source_name: The Central Bank of the Bahamas Third-Party Breach (June 2018)
+source_url: https://www.centralbanking.com/central-banks/3610516/bahamas-central-bank-traces-website-breach-to-third-party
+date_of_breach: '2018-06-01'
+date_of_disclosure: '2018-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for The Central Bank of the Bahamas.
+  Data breached: No indication that any personal information was been accessed or
+  viewed. Use of third party: Website hosting. Third-party company: Not disclosed.'

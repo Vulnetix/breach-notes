@@ -1,0 +1,17 @@
+source_name: Goodwin Procter, QIMR Berghofer Medical Research Institute, Allens, Jones
+  Day Third-Party Breach (February 2021)
+source_url: https://www.abajournal.com/news/article/goodwin-procter-reports-data-breach-due-to-hack-of-third-party-vendor
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Accellion
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Goodwin Procter, QIMR Berghofer\
+  \ Medical Research Institute, Allens, Jones Day. Data breached: Clientsâ\x80\x99\
+  \ confidential information. Use of third party: Third-party file transfer application.\
+  \ Third-party company: Accellion."

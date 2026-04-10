@@ -1,0 +1,18 @@
+source_name: Defense Industry & Wind River Customers Third-Party Breach (February
+  2021)
+source_url: https://www.bankinfosecurity.com/wind-river-systems-investigating-possible-data-breach-a-15917
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Wind River Systems
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Defense Industry & Wind River\
+  \ Customers. Data breached: Social Security numbers, passport and visa details,\
+  \ dates of birth and driverâ\x80\x99s license numbers, as well as health information\
+  \ and financial account information. Use of third party: Embedded software vendor.\
+  \ Third-party company: Wind River Systems."

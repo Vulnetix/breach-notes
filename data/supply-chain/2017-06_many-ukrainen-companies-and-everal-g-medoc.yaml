@@ -1,0 +1,21 @@
+source_name: "Many Ukrainen companies and everal global corporations were also infected\
+  \ â\x80\x93 including shipping giant Maersk, advertising firm WPP, pharmaceutical\
+  \ outfit Merck, and FedExâ\x80\x99s TNT Express division. Third-Party Breach (June\
+  \ 2017)"
+source_url: https://www.theregister.co.uk/2018/06/27/notpetya_anniversary/
+date_of_breach: '2017-06-01'
+date_of_disclosure: '2017-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: MeDoc
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Many Ukrainen companies and\
+  \ everal global corporations were also infected â\x80\x93 including shipping giant\
+  \ Maersk, advertising firm WPP, pharmaceutical outfit Merck, and FedExâ\x80\x99\
+  s TNT Express division.. Data breached: Unknown (lost of hundreds of million dollars\
+  \ to ransonware). Use of third party: Accounting software. Third-party company:\
+  \ MeDoc."

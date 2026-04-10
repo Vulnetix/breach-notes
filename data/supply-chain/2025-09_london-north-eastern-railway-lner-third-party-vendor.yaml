@@ -1,0 +1,16 @@
+source_name: London North Eastern Railway (LNER) Third-Party Breach (September 2025)
+source_url: https://www.lner.co.uk/news/lner-media-update-data-information/
+date_of_breach: '2025-09-01'
+date_of_disclosure: '2025-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for London North Eastern Railway
+  (LNER). Data breached: Includes customer contact details and some information about
+  previous journeys.. Use of third party: Unknown. Third-party company: Third-party
+  vendor.'

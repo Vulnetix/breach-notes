@@ -1,0 +1,16 @@
+source_name: Sharp HealthCare Third-Party Breach (February 2023)
+source_url: https://healthitsecurity.com/news/nearly-63k-impacted-by-healthcare-data-breach-from-exploited-web-server
+date_of_breach: '2023-02-01'
+date_of_disclosure: '2023-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Unknown
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Sharp HealthCare. Data breached:
+  Patient names, internal Sharp identification numbers and/or invoice numbers, payment
+  amounts, and the names of the Sharp facilities receiving the payments.. Use of third
+  party: Regional health care group. Third-party company: Unknown.'

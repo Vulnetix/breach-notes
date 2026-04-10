@@ -1,0 +1,16 @@
+source_name: Coinbase Third-Party Breach (June 2025)
+source_url: https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/
+date_of_breach: '2025-06-01'
+date_of_disclosure: '2025-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: TaskUs
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Coinbase. Data breached:
+  Includes names, email addresses, partial financial information and SSNs, transaction
+  history, and scanned identity documents.. Use of third party: Outsourced customer
+  support. Third-party company: TaskUs.'

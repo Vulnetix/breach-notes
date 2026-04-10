@@ -1,0 +1,19 @@
+source_name: Cornell University, Ithaca College, Virginia Tech University, SUNY Oswego,
+  Colorado State University, Loyola University Chicago and McMaster University Third-Party
+  Breach (March 2023)
+source_url: https://theithacan.org/news/students-bank-accounts-hacked-because-of-ticketing-software-breach/
+date_of_breach: '2023-03-01'
+date_of_disclosure: '2023-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: AudienceView
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Cornell University, Ithaca\
+  \ College, Virginia Tech University, SUNY Oswego, Colorado State University, Loyola\
+  \ University Chicago and McMaster University. Data breached: Studentsâ\x80\x99 credit\
+  \ and debit card information. Use of third party: Software vendor. Third-party company:\
+  \ AudienceView."

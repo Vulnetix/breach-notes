@@ -1,0 +1,19 @@
+source_name: American Airlines, Ford, Maryland Department of Health, New York City
+  Municipal Transportation Authority, and the state of Indiana. Third-Party Breach
+  (August 2021)
+source_url: https://healthitsecurity.com/news/microsoft-data-breach-exposes-38m-records-containing-pii
+date_of_breach: '2021-08-01'
+date_of_disclosure: '2021-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Microsoft
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for American Airlines, Ford,
+  Maryland Department of Health, New York City Municipal Transportation Authority,
+  and the state of Indiana.. Data breached: Names, COVID-19 contact tracing information,
+  vaccination appointments, Social Security numbers, employee IDs, and email addresses..
+  Use of third party: Business app. Third-party company: Microsoft.'

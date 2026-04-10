@@ -1,0 +1,17 @@
+source_name: Smile Design Management Third-Party Breach (October 2024)
+source_url: https://www.hipaajournal.com/38000-center-for-urban-community-services-cyberattack/
+date_of_breach: '2024-10-01'
+date_of_disclosure: '2024-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Smile Design Management.
+  Data breached: Names, addresses, telephone numbers, dates of birth, Social Security
+  numbers, benefit identification numbers, health information, and prescription information..
+  Use of third party: Community Services Provider. Third-party company: Third-party
+  vendor.'

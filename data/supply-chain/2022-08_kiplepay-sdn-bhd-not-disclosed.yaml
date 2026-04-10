@@ -1,0 +1,15 @@
+source_name: Kiplepay Sdn Bhd Third-Party Breach (August 2022)
+source_url: https://www.thestar.com.my/business/business-news/2022/08/16/kiplepay-informs-users-on-potential-indirect-data-breach-through-third-party-payment-gateway-provider
+date_of_breach: '2022-08-01'
+date_of_disclosure: '2022-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Kiplepay Sdn Bhd. Data breached:
+  Not disclosed for now. Use of third party: Third-party payment gateway provider.
+  Third-party company: Not disclosed.'

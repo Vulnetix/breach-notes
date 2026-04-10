@@ -1,0 +1,16 @@
+source_name: Hotels ( customers of Prestige Software) Third-Party Breach (November
+  2020)
+source_url: https://www.engadget.com/hotels-com-expedia-prestige-software-data-exposure-192013858.html
+date_of_breach: '2020-11-01'
+date_of_disclosure: '2020-11-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Prestige Software
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Hotels ( customers of Prestige
+  Software). Data breached: Names, credit card details, ID numbers and reservation
+  details. Use of third party: Channel manager. Third-party company: Prestige Software.'

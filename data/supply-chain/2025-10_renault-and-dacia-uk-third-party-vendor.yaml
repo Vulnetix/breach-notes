@@ -1,0 +1,16 @@
+source_name: Renault and Dacia UK Third-Party Breach (October 2025)
+source_url: https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/
+date_of_breach: '2025-10-01'
+date_of_disclosure: '2025-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Renault and Dacia UK. Data
+  breached: Includes full name, gender, phone number, email address, postal address,
+  vehicle identification number, vehicle registration number.. Use of third party:
+  Unknown. Third-party company: Third-party vendor.'

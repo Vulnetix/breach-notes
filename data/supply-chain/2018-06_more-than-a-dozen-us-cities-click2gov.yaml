@@ -1,0 +1,16 @@
+source_name: More than a dozen US cities Third-Party Breach (June 2018)
+source_url: https://statescoop.com/a-year-later-cities-using-click2gov-are-still-getting-hacked/
+date_of_breach: '2018-06-01'
+date_of_disclosure: '2018-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for More than a dozen US cities.\
+  \ Data breached: Over 10K individualsâ\x80\x99 names, credit card numbers, card\
+  \ expiration dates and security codes. Use of third party: Online payment system.\
+  \ Third-party company: Click2Gov."

@@ -1,0 +1,18 @@
+source_name: Florida Healthy Kids Corporation (FHKC) Third-Party Breach (February
+  2021)
+source_url: https://portswigger.net/daily-swig/florida-healthy-kids-blames-health-insurance-data-breach-on-third-party-hack
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Jelly Bean Communications Design
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Florida Healthy Kids Corporation
+  (FHKC). Data breached: Full names, dates of birth, email addresses, phone numbers,
+  physical addresses, social security numbers, secondary insurance information, familial
+  relationships to the child in question, and financial details. Use of third party:
+  Web hosting vendor. Third-party company: Jelly Bean Communications Design.'

@@ -1,0 +1,16 @@
+source_name: Atlassian, Procter & Gamble, GoDaddy, The Washington Post Third-Party
+  Breach (April 2021)
+source_url: https://www.itnews.com.au/news/us-investigators-probing-breach-at-code-testing-vendor-563505
+date_of_breach: '2021-04-01'
+date_of_disclosure: '2021-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CodeCov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Atlassian, Procter & Gamble,
+  GoDaddy, The Washington Post. Data breached: Not disclosed. Use of third party:
+  Software auditing company. Third-party company: CodeCov.'

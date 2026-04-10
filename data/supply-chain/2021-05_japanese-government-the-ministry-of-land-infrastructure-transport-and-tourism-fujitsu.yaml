@@ -1,0 +1,17 @@
+source_name: Japanese Government, The Ministry of Land, Infrastructure, Transport,
+  and Tourism Third-Party Breach (May 2021)
+source_url: https://www.itpro.co.uk/security/hacking/359705/hackers-steal-japanese-government-data-in-fujitsu-hack
+date_of_breach: '2021-05-01'
+date_of_disclosure: '2021-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Fujitsu
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Japanese Government, The
+  Ministry of Land, Infrastructure, Transport, and Tourism. Data breached: At least
+  76,000 email addresses were exposed, including those belonging to individuals outside
+  of the ministry. Use of third party: Software vendor. Third-party company: Fujitsu.'

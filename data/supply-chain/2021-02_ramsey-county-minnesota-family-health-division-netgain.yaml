@@ -1,0 +1,18 @@
+source_name: Ramsey County, (Minnesota) Family Health Division Third-Party Breach
+  (February 2021)
+source_url: https://www.bleepingcomputer.com/news/security/netgain-ransomware-incident-impacts-local-governments/
+date_of_breach: '2021-02-01'
+date_of_disclosure: '2021-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Netgain
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Ramsey County, (Minnesota)
+  Family Health Division. Data breached: Names, addresses, dates of birth, dates of
+  service, telephone numbers, account numbers, health insurance information,medical
+  information and possibly SSN. Use of third party: Managed IT services. Third-party
+  company: Netgain.'

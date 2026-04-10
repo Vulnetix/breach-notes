@@ -1,0 +1,14 @@
+source_name: European Banking Authority Third-Party Breach (March 2021)
+source_url: https://www.bbc.com/news/technology-56321567
+date_of_breach: '2021-03-01'
+date_of_disclosure: '2021-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Microsoft
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for European Banking Authority.
+  Data breached: Emails. Use of third party: Email server. Third-party company: Microsoft.'

@@ -1,0 +1,15 @@
+source_name: Google Third-Party Breach (October 2020)
+source_url: https://gizmodo.com/one-of-googles-go-to-law-firms-hit-with-data-breach-1845495155#:~:text=One%20of%20Google's%20Go%2DTo%20Law%20Firms%20Hit%20With%20Data%20Breach&text=A%20major%20immigration%20law%20firm,giant's%20current%20and%20former%20employees.
+date_of_breach: '2020-10-01'
+date_of_disclosure: '2020-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Fragomen, Del Rey, Bernsen & Loewy
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Google. Data breached: Passports,.
+  Use of third party: Law firm. Third-party company: Fragomen, Del Rey, Bernsen &
+  Loewy.'

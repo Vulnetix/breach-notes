@@ -1,0 +1,17 @@
+source_name: Lucid Software Inc. Third-Party Breach (August 2025)
+source_url: https://lucid.co/blog/response-to-drift-supply-chain-incident
+date_of_breach: '2025-08-01'
+date_of_disclosure: '2025-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Drift (Salesloft)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Lucid Software Inc.. Data
+  breached: Includes name and e-mail address, if collected, phone number, company
+  name, job title, and billing address, and initial ticket information from a limited
+  number of support requests, including similar personal data as listed above.. Use
+  of third party: Chatbot service provider. Third-party company: Drift (Salesloft).'

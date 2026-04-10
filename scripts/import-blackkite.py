@@ -100,7 +100,9 @@ def fetch_blackkite_entries() -> list[dict[str, Any]]:
 def build_filename(year: str, month: str, company: str, vendor: str) -> Path:
     month_num = MONTHS.get(month.lower(), 1)
     prefix = f"{year}-{month_num:02d}"
-    base = f"{prefix}_{slugify(company)}-{slugify(vendor)[:28]}".strip("-")
+    c = slugify(company)[:36]
+    v = slugify(vendor)[:24]
+    base = f"{prefix}_{c}-{v}".strip("-")[:100]
     path = DATA_DIR / "supply-chain" / f"{base}.yaml"
 
     if not path.exists():

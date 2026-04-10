@@ -1,0 +1,20 @@
+source_name: Hospitals Third-Party Breach (July 2021)
+source_url: https://www.govinfosecurity.com/supply-chain-ransomware-breach-affects-12-million-a-17062?&web_view=true
+date_of_breach: '2021-07-01'
+date_of_disclosure: '2021-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PracticeFirst
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Hospitals. Data breached:\
+  \ Name, address, email address, date of birth, driverâ\x80\x99s license number,\
+  \ Social Security number, diagnosis, laboratory and treatment information, patient\
+  \ identification number, medication information, health insurance identification\
+  \ and claims information, tax identification number, employee username with password,\
+  \ employee username with security questions and answers, and bank account and/or\
+  \ credit card/debit card information. Use of third party: Medical management services\
+  \ provider. Third-party company: PracticeFirst."

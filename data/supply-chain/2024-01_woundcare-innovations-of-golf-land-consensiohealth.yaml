@@ -1,0 +1,19 @@
+source_name: Woundcare Innovations of Golf Land Third-Party Breach (January 2024)
+source_url: https://www.hipaajournal.com/consensiohealth-ransomware-attack/
+date_of_breach: '2024-01-01'
+date_of_disclosure: '2024-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: ConsensioHealth
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Woundcare Innovations of\
+  \ Golf Land. Data breached: Name, address, date of birth, driverâ\x80\x99s license\
+  \ or other state identification number, Social Security number, account access credentials,\
+  \ health insurance information, medical treatment and diagnosis information, medical\
+  \ treatment cost information, patient account number, Medicare or Medicaid number,\
+  \ healthcare provider information, and prescription information.. Use of third party:\
+  \ Healthcare services provider. Third-party company: ConsensioHealth."

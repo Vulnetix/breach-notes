@@ -1,0 +1,15 @@
+source_name: The city of Charlottesville Third-Party Breach (November 2019)
+source_url: https://www.nbc29.com/2019/11/27/potential-data-breach-found-charlottesville-tax-collections/
+date_of_breach: '2019-11-01'
+date_of_disclosure: '2019-11-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for The city of Charlottesville.
+  Data breached: not disclosed. Use of third party: tax collections. Third-party company:
+  not disclosed.'

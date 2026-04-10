@@ -1,0 +1,15 @@
+source_name: "Dickeyâ\x80\x99s Barbecue Pit Third-Party Breach (October 2020)"
+source_url: https://threatpost.com/dickeys-bbq-breach-jokers-stash/160211/#:~:text=Popular%20U.S.%20smoked%2Dmeat%20franchise,Stash%20underground%20marketplace%20this%20week.
+date_of_breach: '2020-10-01'
+date_of_disclosure: '2020-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Dickeyâ\x80\x99s Barbecue\
+  \ Pit. Data breached: Names, credit card information of 3M customers. Use of third\
+  \ party: POS provider. Third-party company: Not disclosed."

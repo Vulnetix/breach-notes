@@ -1,0 +1,17 @@
+source_name: D.C. Department of Insurance, Securities and Banking (DISB) Third-Party
+  Breach (April 2024)
+source_url: https://therecord.media/dc-city-agency-ransomware-attack-lockbit
+date_of_breach: '2024-04-01'
+date_of_disclosure: '2024-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Tyler Technologies
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for D.C. Department of Insurance,
+  Securities and Banking (DISB). Data breached: Personally identifiable information
+  (PII). Use of third party: Third-party technology provider. Third-party company:
+  Tyler Technologies.'

@@ -1,0 +1,18 @@
+source_name: City of Broken Arrow, Deerfield Beach, Palm Bay, Milton, Bakersfield,
+  Coral Springs, Pocatello, Ames online payment system Third-Party Breach (September
+  2019)
+source_url: https://ktul.com/news/local/possible-data-breach-of-city-of-broken-arrow-online-payment-system
+date_of_breach: '2019-09-01'
+date_of_disclosure: '2019-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for City of Broken Arrow, Deerfield
+  Beach, Palm Bay, Milton, Bakersfield, Coral Springs, Pocatello, Ames online payment
+  system. Data breached: not disclosed. Use of third party: payment software system.
+  Third-party company: Click2Gov.'

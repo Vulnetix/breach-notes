@@ -1,0 +1,20 @@
+source_name: Healthcare institutions including Blue Cross Blue Shield of Michigan,
+  Health Alliance Plan, McLaren Health Care, and others Third-Party Breach (March
+  2019)
+source_url: https://www.cshub.com/attacks/articles/incident-of-the-week-malware-attack-exposes-patient-data
+date_of_breach: '2019-03-01'
+date_of_disclosure: '2019-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Wolverine Solutions Group
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Healthcare institutions including
+  Blue Cross Blue Shield of Michigan, Health Alliance Plan, McLaren Health Care, and
+  others. Data breached: the personal and medical information of hundreds of thousands
+  of people may have been compromised. Use of third party: contractor that provides
+  mailing and other services for hospitals and healthcare companies. Third-party company:
+  Wolverine Solutions Group.'

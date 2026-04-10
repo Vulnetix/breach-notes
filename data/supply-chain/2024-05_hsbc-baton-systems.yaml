@@ -1,0 +1,16 @@
+source_name: HSBC Third-Party Breach (May 2024)
+source_url: https://www.scmagazine.com/brief/alleged-hsbc-barclays-data-exposed-by-intelbroker
+date_of_breach: '2024-05-01'
+date_of_disclosure: '2024-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Baton Systems
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for HSBC. Data breached: Source
+  codes, database files, compiled JAR files, certification files, SQL files, JSON
+  configuration files, and email addresses. Use of third party: Financial services
+  provider. Third-party company: Baton Systems.'

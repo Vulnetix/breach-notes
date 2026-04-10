@@ -1,0 +1,17 @@
+source_name: The Bank of Queensland Third-Party Breach (March 2019)
+source_url: https://www.mortgagebusiness.com.au/breaking-news/13209-bank-warns-of-third-party-data-breach-reported
+date_of_breach: '2019-03-01'
+date_of_disclosure: '2019-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: LandMark White Limited
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for The Bank of Queensland. Data
+  breached: customer names, contact information (including phone numbers and email
+  addresses) and other details related to property evaluations. Use of third party:
+  fund management company and provider of property valuations. Third-party company:
+  LandMark White Limited.'

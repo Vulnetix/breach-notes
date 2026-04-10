@@ -1,0 +1,16 @@
+source_name: Sound Health and Wellness Trust Third-Party Breach (July 2022)
+source_url: https://www.jdsupra.com/legalnews/zenith-american-solutions-inc-announces-7714037/#:~:text=On%20July%2020%2C%202022%2C%20Zenith,of%20certain%20employees%20being%20compromised.
+date_of_breach: '2022-07-01'
+date_of_disclosure: '2022-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Zenith American Solutions
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Sound Health and Wellness
+  Trust. Data breached: Social Security numbers, names, addresses, and unique ID numbers.
+  Use of third party: Third-party administrator. Third-party company: Zenith American
+  Solutions.'

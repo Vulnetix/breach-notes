@@ -1,0 +1,16 @@
+source_name: Hard Rock Hotels & Casinos Third-Party Breach (July 2017)
+source_url: https://threatpost.com/sabre-corp-investigating-breach-of-reservation-system/125405/
+date_of_breach: '2017-07-01'
+date_of_disclosure: '2017-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Sabre Corp. (SynXis)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Hard Rock Hotels & Casinos.
+  Data breached: Credit card data belonging to an undisclosed number of customers
+  at 11 hotels. Use of third party: Travel services (reservation). Third-party company:
+  Sabre Corp. (SynXis).'

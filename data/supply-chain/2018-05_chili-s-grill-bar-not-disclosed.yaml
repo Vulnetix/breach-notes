@@ -1,0 +1,15 @@
+source_name: "Chiliâ\x80\x99s Grill & Bar Third-Party Breach (May 2018)"
+source_url: https://www.foxnews.com/tech/chilis-grill-bar-hit-in-data-breach-company-says
+date_of_breach: '2018-05-01'
+date_of_disclosure: '2018-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Chiliâ\x80\x99s Grill & Bar.\
+  \ Data breached: Credit card data belonging to an undisclosed number of customers.\
+  \ Use of third party: Point-of-sale system. Third-party company: Not disclosed."

@@ -1,0 +1,18 @@
+source_name: Stanford University, the University of Maryland, Baltimore, and the University
+  of California at Berkeley Third-Party Breach (April 2021)
+source_url: https://siliconangle.com/2021/04/04/data-three-universities-published-online-latest-accellion-related-data-breach/
+date_of_breach: '2021-04-01'
+date_of_disclosure: '2021-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Accellion
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Stanford University, the
+  University of Maryland, Baltimore, and the University of California at Berkeley.
+  Data breached: Variety of personally identifiable information, including federal
+  tax documents, passports, addresses, birth dates, bank account information and Social
+  Security numbers. Use of third party: File sharing app. Third-party company: Accellion.'

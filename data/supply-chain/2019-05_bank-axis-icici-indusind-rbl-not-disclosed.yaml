@@ -1,0 +1,15 @@
+source_name: Bank, Axis, ICICI, IndusInd, RBL Third-Party Breach (May 2019)
+source_url: https://www.mynation.com/india-news/credit-card-holder-beware-your-personal-data-might-be-at-risk-pruqr9
+date_of_breach: '2019-05-01'
+date_of_disclosure: '2019-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Bank, Axis, ICICI, IndusInd,
+  RBL. Data breached: 50.000 credit card holders information. Use of third party:
+  data management company. Third-party company: not disclosed.'

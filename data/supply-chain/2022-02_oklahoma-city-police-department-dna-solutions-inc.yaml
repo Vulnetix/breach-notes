@@ -1,0 +1,16 @@
+source_name: Oklahoma City Police Department Third-Party Breach (February 2022)
+source_url: https://freepressokc.com/okc-police-rape-kit-info-exposed-in-data-breach-of-dna-contractor/
+date_of_breach: '2022-02-01'
+date_of_disclosure: '2022-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: DNA Solutions Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Oklahoma City Police Department.\
+  \ Data breached: Victimsâ\x80\x99 last names, addresses, and health-related information.\
+  \ Use of third party: DNA research contractor. Third-party company: DNA Solutions\
+  \ Inc.."

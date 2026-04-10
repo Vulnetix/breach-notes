@@ -1,0 +1,16 @@
+source_name: FanDuels Third-Party Breach (January 2023)
+source_url: https://www.bleepingcomputer.com/news/security/fanduels-warns-of-data-breach-after-customer-info-stolen-in-vendor-hack/
+date_of_breach: '2023-01-01'
+date_of_disclosure: '2023-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: MailChimp
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for FanDuels. Data breached:
+  Email addresses and names of customers, or potential customers, that are used to
+  send marketing emails. Use of third party: Email marketing vendor. Third-party company:
+  MailChimp.'

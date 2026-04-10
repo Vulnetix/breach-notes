@@ -1,0 +1,17 @@
+source_name: 94 K-12 Schools Third-Party Breach (January 2025)
+source_url: https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/
+date_of_breach: '2025-01-01'
+date_of_disclosure: '2025-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PowerSchool
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for 94 K-12 Schools. Data breached:
+  Names and addresses. However, for some districts, it could also include Social Security
+  numbers (SSNs), personally identifiable information (PII), medical information,
+  and grades.. Use of third party: Cloud-based software solutions provider. Third-party
+  company: PowerSchool.'

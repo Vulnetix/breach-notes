@@ -1,0 +1,14 @@
+source_name: University of Sydney Third-Party Breach (September 2023)
+source_url: https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/
+date_of_breach: '2023-09-01'
+date_of_disclosure: '2023-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Unknown
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for University of Sydney. Data
+  breached: PII. Use of third party: University. Third-party company: Unknown.'

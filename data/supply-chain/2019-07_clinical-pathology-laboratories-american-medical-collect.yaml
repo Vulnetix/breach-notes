@@ -1,0 +1,16 @@
+source_name: Clinical Pathology Laboratories Third-Party Breach (July 2019)
+source_url: https://www.beckershospitalreview.com/cybersecurity/clinical-pathology-laboratories-alerts-2-2-million-patients-of-data-breach.html
+date_of_breach: '2019-07-01'
+date_of_disclosure: '2019-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: American Medical Collection Agency
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Clinical Pathology Laboratories.
+  Data breached: 2.2 million patients information and 34,500 financial information.
+  Use of third party: collections vendor. Third-party company: American Medical Collection
+  Agency.'

@@ -1,0 +1,17 @@
+source_name: Buffalo N.Y. Area Hospitals, Innova Health, NorthShore University Health
+  System Third-Party Breach (September 2020)
+source_url: https://www.govtech.com/page-not-found/?referrer=https%3A%2F%2Fwww.blackkite.wpengine.com%2Fdata-breaches-caused-by-third-parties%2F&keywords=security%2520Buffalo-NY-Area-Hospitals-Disclose-Recent-Data-Breach.html%2520
+date_of_breach: '2020-09-01'
+date_of_disclosure: '2020-09-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: BlackBaud
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Buffalo N.Y. Area Hospitals,
+  Innova Health, NorthShore University Health System. Data breached: Names, medical
+  service numbers and dates of service for patients and list of donors. Use of third
+  party: Data management software vendor. Third-party company: BlackBaud.'

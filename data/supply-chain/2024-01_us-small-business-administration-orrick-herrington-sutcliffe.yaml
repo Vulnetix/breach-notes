@@ -1,0 +1,19 @@
+source_name: US Small Business Administration Third-Party Breach (January 2024)
+source_url: https://www.securityweek.com/law-firm-orrick-reveals-extensive-data-breach-over-half-a-million-affected/
+date_of_breach: '2024-01-01'
+date_of_disclosure: '2024-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Orrick, Herrington & Sutcliffe
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for US Small Business Administration.\
+  \ Data breached: Names, addresses, dates of birth, Social Security numbers, driverâ\x80\
+  \x99s license or other government ID numbers, passport numbers, email addresses,\
+  \ financial account details, tax identification numbers, medical and health information,\
+  \ health insurance and healthcare provider details, online account credentials,\
+  \ and credit or debit card numbers.. Use of third party: Health insurance and healthcare\
+  \ provider. Third-party company: Orrick, Herrington & Sutcliffe."

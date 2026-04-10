@@ -1,0 +1,16 @@
+source_name: Lazada RedMart App Third-Party Breach (October 2020)
+source_url: https://www.cnbc.com/2020/11/02/alibaba-owned-lazada-suffers-data-breach-on-redmart.html#:~:text=Southeast%20Asian%20e%2Dcommerce%20firm,service%20in%20the%20city%2Dstate.
+date_of_breach: '2020-10-01'
+date_of_disclosure: '2020-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Lazada RedMart App. Data
+  breached: Names, phone numbers, encrypted passwords, and partial credit card numbers
+  of 1M accounts. Use of third party: Third-party database hosting provider. Third-party
+  company: Not disclosed.'

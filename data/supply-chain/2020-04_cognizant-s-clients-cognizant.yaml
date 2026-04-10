@@ -1,0 +1,15 @@
+source_name: "Cognizantâ\x80\x99s clients Third-Party Breach (April 2020)"
+source_url: https://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/
+date_of_breach: '2020-04-01'
+date_of_disclosure: '2020-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Cognizant
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Cognizantâ\x80\x99s clients.\
+  \ Data breached: Not disclosed for now. Use of third party: IT-services vendor.\
+  \ Third-party company: Cognizant."

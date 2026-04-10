@@ -1,0 +1,18 @@
+source_name: United Parcel Service (UPS) and Norfolk Southern Railroad Third-Party
+  Breach (January 2021)
+source_url: https://www.infosecurity-magazine.com/news/truckers-medical-records-leaked/?&web_view=true
+date_of_breach: '2021-01-01'
+date_of_disclosure: '2021-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Taylor Made Diagnostics (TMD)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for United Parcel Service (UPS)\
+  \ and Norfolk Southern Railroad. Data breached: Full names, Social Security numbers,\
+  \ details of medical examinations, drug and alcohol testing reports, and scans of\
+  \ driverâ\x80\x99s licenses. Use of third party: Occupational healthcare provider.\
+  \ Third-party company: Taylor Made Diagnostics (TMD)."

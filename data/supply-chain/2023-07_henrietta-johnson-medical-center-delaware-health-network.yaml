@@ -1,0 +1,17 @@
+source_name: Henrietta Johnson Medical Center Third-Party Breach (July 2023)
+source_url: https://www.hipaajournal.com/activate-healthcare-reports-security-breach-affects-up-to-93761-patients/
+date_of_breach: '2023-07-01'
+date_of_disclosure: '2023-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Delaware Health Network
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Henrietta Johnson Medical\
+  \ Center. Data breached: Names, dates of birth, addresses, Social Security numbers,\
+  \ driverâ\x80\x99s license numbers, and clinical information, such as provider names,\
+  \ dates of service, and/or diagnoses. Use of third party: Medical center. Third-party\
+  \ company: Delaware Health Network."

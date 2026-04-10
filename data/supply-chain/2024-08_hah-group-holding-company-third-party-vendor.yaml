@@ -1,0 +1,17 @@
+source_name: HAH Group Holding Company Third-Party Breach (August 2024)
+source_url: https://www.hipaajournal.com/cyberattack-help-at-home/
+date_of_breach: '2024-08-01'
+date_of_disclosure: '2024-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for HAH Group Holding Company.
+  Data breached: Names, dates of birth, Social Security numbers, financial account
+  numbers, usernames and passwords, and/or certain medical, health insurance, and/or
+  treatment information.. Use of third party: Home healthcare provider. Third-party
+  company: Third-party vendor.'

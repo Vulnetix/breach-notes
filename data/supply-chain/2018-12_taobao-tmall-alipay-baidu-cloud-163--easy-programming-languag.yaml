@@ -1,0 +1,17 @@
+source_name: Taobao, Tmall, Alipay, Baidu Cloud, 163 email service, and JD.com Third-Party
+  Breach (December 2018)
+source_url: https://news.cgtn.com/news/3d3d414e3567544d31457a6333566d54/share_p.html
+date_of_breach: '2018-12-01'
+date_of_disclosure: '2018-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Easy Programming Language
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Taobao, Tmall, Alipay, Baidu
+  Cloud, 163 email service, and JD.com. Data breached: account and password data of
+  almost 50,000 users. Use of third party: Programming software. Third-party company:
+  Easy Programming Language.'

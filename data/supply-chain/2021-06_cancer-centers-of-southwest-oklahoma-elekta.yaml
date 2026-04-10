@@ -1,0 +1,17 @@
+source_name: Cancer Centers of Southwest Oklahoma inc. Renown Health, Northwestern
+  Memorial HealthCare Third-Party Breach (June 2021)
+source_url: https://www.beckershospitalreview.com/cybersecurity/oklahoma-cancer-center-s-ehr-server-breached-by-hackers-exposes-8-000-patients-data.html
+date_of_breach: '2021-06-01'
+date_of_disclosure: '2021-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Elekta
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Cancer Centers of Southwest
+  Oklahoma inc. Renown Health, Northwestern Memorial HealthCare. Data breached: Names,
+  Social Security numbers, addresses, birth dates, medical diagnosis and treatment
+  details.. Use of third party: Cloud provider. Third-party company: Elekta.'

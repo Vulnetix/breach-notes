@@ -1,0 +1,15 @@
+source_name: Sony Third-Party Breach (October 2023)
+source_url: https://www.bleepingcomputer.com/news/security/sony-confirms-data-breach-impacting-thousands-in-the-us/
+date_of_breach: '2023-10-01'
+date_of_disclosure: '2023-10-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Sony. Data breached: Not
+  disclosed for now. Use of third party: Japanese multinational conglomerate corporation.
+  Third-party company: Ipswitch, Inc..'

@@ -1,0 +1,17 @@
+source_name: CallX Customers (possibly Lendingtree, Liberty Mutual Insurance and Vivint
+  among the clients) Third-Party Breach (April 2021)
+source_url: https://www.infosecurity-magazine.com/news/telemarketing-biz-exposes-114000/
+date_of_breach: '2021-04-01'
+date_of_disclosure: '2021-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CallX
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for CallX Customers (possibly
+  Lendingtree, Liberty Mutual Insurance and Vivint among the clients). Data breached:
+  Audio recordings, transcripts of chats, full names, home addresses, phone numbers
+  and more.. Use of third party: Telemarketing. Third-party company: CallX.'

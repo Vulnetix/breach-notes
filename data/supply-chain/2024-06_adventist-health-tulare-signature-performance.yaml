@@ -1,0 +1,16 @@
+source_name: Adventist Health Tulare Third-Party Breach (June 2024)
+source_url: https://www.hipaajournal.com/70000-adventist-health-tulare-patients-data-breach/
+date_of_breach: '2024-06-01'
+date_of_disclosure: '2024-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Signature Performance
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Adventist Health Tulare.
+  Data breached: First name, last name, medical record number, date of birth, provider
+  name, and a single laboratory test result.. Use of third party: Medical provider.
+  Third-party company: Signature Performance.'

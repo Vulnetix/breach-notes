@@ -1,0 +1,16 @@
+source_name: Central Maine Medical Center Third-Party Breach (March 2022)
+source_url: https://www.pressherald.com/2022/06/08/data-breach-at-health-care-organization-may-affect-2-million-people-including-in-maine/
+date_of_breach: '2022-03-01'
+date_of_disclosure: '2022-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Shields Health Care Group Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Central Maine Medical Center.
+  Data breached: Names, Social Security numbers, dates of birth, and medical or treatment
+  details. Use of third party: Imaging and ambulatory surgical services provider.
+  Third-party company: Shields Health Care Group Inc..'

@@ -1,0 +1,16 @@
+source_name: Hundreds of Large Companies around the World Third-Party Breach (July
+  2017)
+source_url: https://www.kaspersky.com/about/press-releases/2017_shadowpad-how-attackers-hide-backdoor-in-software-used-by-hundreds-of-large-companies-around-the-world
+date_of_breach: '2017-07-01'
+date_of_disclosure: '2017-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: NetSarang
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Hundreds of Large Companies
+  around the World. Data breached: Unknown. Use of third party: Server management
+  software. Third-party company: NetSarang.'

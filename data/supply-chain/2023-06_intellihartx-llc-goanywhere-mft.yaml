@@ -1,0 +1,17 @@
+source_name: Intellihartx LLC Third-Party Breach (June 2023)
+source_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwizy8fn0rKAAxUxQ_EDHUySA_0QFnoECAsQAQ&url=https%3A%2F%2Fwww.databreaches.net%2Fintellihartx-notifies-490000-patients-of-fortra-goanywhere-breach%2F&usg=AOvVaw29kroUTkw98HA7j93K9cMb&opi=89978449
+date_of_breach: '2023-06-01'
+date_of_disclosure: '2023-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: GoAnywhere MFT
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Intellihartx LLC. Data breached:
+  Name, address, medical billing and insurance information, certain medical information
+  such as diagnoses and medication, and demographic information such as date of birth
+  and Social Security number.. Use of third party: Call center. Third-party company:
+  GoAnywhere MFT.'

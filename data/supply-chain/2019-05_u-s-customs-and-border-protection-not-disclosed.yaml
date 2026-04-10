@@ -1,0 +1,15 @@
+source_name: U.S. Customs and Border Protection Third-Party Breach (May 2019)
+source_url: https://fox17.com/news/nation-world/images-of-people-license-plates-of-under-100000-travelers-stolen-in-cyber-attack
+date_of_breach: '2019-05-01'
+date_of_disclosure: '2019-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for U.S. Customs and Border Protection.
+  Data breached: 100.000 traveller photos and licence plate image. Use of third party:
+  not disclosed. Third-party company: not disclosed.'

@@ -1,0 +1,15 @@
+source_name: North Korean Stock Investment Firms Third-Party Breach (January 2021)
+source_url: https://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/?&web_view=true
+date_of_breach: '2021-01-01'
+date_of_disclosure: '2021-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for North Korean Stock Investment
+  Firms. Data breached: Unknown at this stage. Use of third party: Stock investment
+  app. Third-party company: Not disclosed.'

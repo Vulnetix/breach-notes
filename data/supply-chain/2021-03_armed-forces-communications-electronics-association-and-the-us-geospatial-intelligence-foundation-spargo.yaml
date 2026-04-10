@@ -1,0 +1,17 @@
+source_name: Armed Forces Communications, Electronics Association and the US Geospatial
+  Intelligence Foundation Third-Party Breach (March 2021)
+source_url: https://thecyberwire.com/newsletters/privacy-briefing/3/56
+date_of_breach: '2021-03-01'
+date_of_disclosure: '2021-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: SPARGO
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Armed Forces Communications,\
+  \ Electronics Association and the US Geospatial Intelligence Foundation. Data breached:\
+  \ Membersâ\x80\x99 names and addresses. Use of third party: Event management vendor.\
+  \ Third-party company: SPARGO."

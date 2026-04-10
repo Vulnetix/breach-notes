@@ -1,0 +1,16 @@
+source_name: Toyota Turkey Marketing and Sales Joint Stock Company Third-Party Breach
+  (July 2023)
+source_url: https://www.kvkk.gov.tr/Icerik/7643/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Toyota-Turkiye-Pazarlama-ve-Satis-Anonim-Sirketi
+date_of_breach: '2023-07-01'
+date_of_disclosure: '2023-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Mivento IT Services
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Toyota Turkey Marketing and
+  Sales Joint Stock Company. Data breached: Social ID Number, name, surname, e-mail
+  and phone number. Use of third party: Company. Third-party company: Mivento IT Services.'

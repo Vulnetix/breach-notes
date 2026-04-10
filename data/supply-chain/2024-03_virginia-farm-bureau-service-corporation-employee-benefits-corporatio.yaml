@@ -1,0 +1,17 @@
+source_name: Virginia Farm Bureau Service Corporation Third-Party Breach (March 2024)
+source_url: https://www.hipaajournal.com/235000-individuals-affected-by-yakima-valley-radiology-data-breach/
+date_of_breach: '2024-03-01'
+date_of_disclosure: '2024-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Employee Benefits Corporation of America and Benefit Design Group,
+  Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Virginia Farm Bureau Service
+  Corporation. Data breached: A limited amount of personal information. Included names
+  and Social Security numbers.. Use of third party: Insurance Provider. Third-party
+  company: Employee Benefits Corporation of America and Benefit Design Group, Inc..'

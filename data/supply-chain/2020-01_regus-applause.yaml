@@ -1,0 +1,15 @@
+source_name: Regus Third-Party Breach (January 2020)
+source_url: https://www.telegraph.co.uk/technology/2020/01/20/wework-rival-regus-massive-employee-data-breach/
+date_of_breach: '2020-01-01'
+date_of_disclosure: '2020-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Applause
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Regus. Data breached: Employee
+  names, emails and performance. Use of third party: Mystery shopping business. Third-party
+  company: Applause.'

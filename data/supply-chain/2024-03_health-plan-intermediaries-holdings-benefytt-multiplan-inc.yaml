@@ -1,0 +1,18 @@
+source_name: Health Plan Intermediaries Holdings (Benefytt) Third-Party Breach (March
+  2024)
+source_url: https://www.hipaajournal.com/benefytt-emsa-lindsay-municipal-hospital-affected-by-cyberattacks/
+date_of_breach: '2024-03-01'
+date_of_disclosure: '2024-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Multiplan Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Health Plan Intermediaries
+  Holdings (Benefytt). Data breached: Names, addresses, dates of birth, dates of service,
+  and, for some individuals, the name of their primary care provider and/or Social
+  Security number.. Use of third party: Healthcare Provider. Third-party company:
+  Multiplan Inc..'

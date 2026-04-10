@@ -1,0 +1,15 @@
+source_name: Internet Society Third-Party Breach (February 2022)
+source_url: https://securityboulevard.com/2022/02/80000-isoc-members-affected-in-third-party-data-breach/
+date_of_breach: '2022-02-01'
+date_of_disclosure: '2022-02-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Internet Society. Data breached:
+  Names, emails, mailing addresses, and logins. Use of third party: Third-party vendor.
+  Third-party company: Not disclosed.'

@@ -1,0 +1,20 @@
+source_name: "UPMC Cole, Hidalgo Medical Services, Trinity Health Twin City Hospital,\
+  \ HopeHealth, Massena Hospital, Penobscot Community Health Care,and UPMC Wellsboro,\
+  \ Lourdes Hospital, Faxton St. Lukeâ\x80\x99s Healthcare, Gifford Health Care, Thrifty\
+  \ Drug Stores(possibly) Third-Party Breach (May 2021)"
+source_url: https://www.zdnet.com/article/ransomware-attack-on-healthcare-admin-company-capturerx-exposes-multiple-providers-across-united-states/
+date_of_breach: '2021-05-01'
+date_of_disclosure: '2021-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CaptureRX
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for UPMC Cole, Hidalgo Medical\
+  \ Services, Trinity Health Twin City Hospital, HopeHealth, Massena Hospital, Penobscot\
+  \ Community Health Care,and UPMC Wellsboro, Lourdes Hospital, Faxton St. Lukeâ\x80\
+  \x99s Healthcare, Gifford Health Care, Thrifty Drug Stores(possibly). Data breached:\
+  \ Healthcare data. Use of third party: Software vendor. Third-party company: CaptureRX."

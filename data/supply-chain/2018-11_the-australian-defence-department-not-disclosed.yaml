@@ -1,0 +1,15 @@
+source_name: The Australian Defence Department Third-Party Breach (November 2018)
+source_url: https://www.smh.com.au/politics/federal/australia-s-defence-department-was-badly-exposed-to-china-s-hackers-20181129-p50j48.html
+date_of_breach: '2018-11-01'
+date_of_disclosure: '2018-11-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for The Australian Defence Department.
+  Data breached: unknown amount of data exposed. Use of third party: small and mid-tier
+  suppliers. Third-party company: not disclosed.'

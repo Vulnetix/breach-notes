@@ -1,0 +1,17 @@
+source_name: "CalPERS (California Public Employeesâ\x80\x99 Retirement System) Third-Party\
+  \ Breach (June 2023)"
+source_url: https://www.jdsupra.com/legalnews/genworth-financial-confirms-2-5-million-4854918/
+date_of_breach: '2023-06-01'
+date_of_disclosure: '2023-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PBI Research Services (PBI)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for CalPERS (California Public\
+  \ Employeesâ\x80\x99 Retirement System). Data breached: Name, Social Security number\
+  \ and other personal information.. Use of third party: Government agency. Third-party\
+  \ company: PBI Research Services (PBI)."

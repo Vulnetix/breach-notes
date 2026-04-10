@@ -1,0 +1,16 @@
+source_name: Schools Third-Party Breach (January 2020)
+source_url: https://www.scmagazine.com/home/security-news/data-breach/school-software-vendor-active-network-suffers-data-breach/
+date_of_breach: '2020-01-01'
+date_of_disclosure: '2020-01-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Active Network
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Schools. Data breached: Name,
+  payment card expiration date and security code and Blue Bear account usernames and
+  passwords. Use of third party: School software vendor. Third-party company: Active
+  Network.'

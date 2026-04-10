@@ -1,0 +1,17 @@
+source_name: Sharp Healthcare Third-Party Breach (June 2025)
+source_url: https://therecord.media/5-million-affected-episource-data-breach
+date_of_breach: '2025-06-01'
+date_of_disclosure: '2025-06-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Episource
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Sharp Healthcare. Data breached:
+  Includes social Security numbers, health insurance ID numbers, Medicaid-Medicare
+  ID numbers, medical records including doctor info, diagnoses, test results, images,
+  care, and treatment details.. Use of third party: Healthcare services provider.
+  Third-party company: Episource.'

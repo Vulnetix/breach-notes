@@ -1,0 +1,15 @@
+source_name: City of Sioux Third-Party Breach (December 2019)
+source_url: https://siouxcityjournal.com/news/local/data-security-breach-impacts-city-of-sioux-city-customers/article_9a1f98a2-783d-5a8e-a4b9-e9db2c3f5ce4.html
+date_of_breach: '2019-12-01'
+date_of_disclosure: '2019-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for City of Sioux. Data breached:
+  3,500 customers utility and parking accounts. Use of third party: online parking
+  ticket system and utility billing system portal. Third-party company: Click2Gov.'

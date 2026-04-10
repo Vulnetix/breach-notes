@@ -1,0 +1,17 @@
+source_name: NationsBenefits Holding, LLC Third-Party Breach (April 2023)
+source_url: https://www.hipaajournal.com/nationsbenefits-holdings-confirms-3-million-record-data-breach/
+date_of_breach: '2023-04-01'
+date_of_disclosure: '2023-04-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: GoAnywhere MFT
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for NationsBenefits Holding,
+  LLC. Data breached: First and last name, address, phone number, date of birth, gender,
+  health plan subscriber ID number, Social Security number, and/or Medicare number..
+  Use of third party: Supplemental benefits company. Third-party company: GoAnywhere
+  MFT.'

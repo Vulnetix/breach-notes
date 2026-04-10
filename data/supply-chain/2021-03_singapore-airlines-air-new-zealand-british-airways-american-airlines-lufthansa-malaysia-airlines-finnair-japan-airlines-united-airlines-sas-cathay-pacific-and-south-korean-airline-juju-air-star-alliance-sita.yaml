@@ -1,0 +1,20 @@
+source_name: Singapore Airlines, Air New Zealand, British Airways, American Airlines,
+  Lufthansa, Malaysia Airlines, Finnair, Japan Airlines, United Airlines, SAS, Cathay
+  Pacific, and South Korean airline Juju Air. Star Alliance Third-Party Breach (March
+  2021)
+source_url: https://www.zdnet.com/article/singapore-airlines-frequent-flyer-members-hit-in-third-party-data-security-breach/
+date_of_breach: '2021-03-01'
+date_of_disclosure: '2021-03-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: SITA
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for Singapore Airlines, Air New
+  Zealand, British Airways, American Airlines, Lufthansa, Malaysia Airlines, Finnair,
+  Japan Airlines, United Airlines, SAS, Cathay Pacific, and South Korean airline Juju
+  Air. Star Alliance. Data breached: Membership number and tier status. Use of third
+  party: IT vendor. Third-party company: SITA.'

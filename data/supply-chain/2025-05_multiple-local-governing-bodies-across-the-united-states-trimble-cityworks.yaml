@@ -1,0 +1,17 @@
+source_name: Multiple local governing bodies across the United States Third-Party
+  Breach (May 2025)
+source_url: https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/
+date_of_breach: '2025-05-01'
+date_of_disclosure: '2025-05-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Trimble Cityworks
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Black Kite third-party breach timeline entry for Multiple local governing\
+  \ bodies across the United States. Data breached: Not specified publicly; compromise\
+  \ of systems managing GIS asset/workâ\x80\x91order data. Use of third party: Asset\
+  \ management and work order management software. Third-party company: Trimble Cityworks."

@@ -1,0 +1,15 @@
+source_name: gate.io (cryptocurrency exchange) Third-Party Breach (November 2018)
+source_url: https://www.welivesecurity.com/2018/11/06/supply-chain-attack-cryptocurrency-exchange-gate-io/
+date_of_breach: '2018-11-01'
+date_of_disclosure: '2018-11-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: StatCounter
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Black Kite third-party breach timeline entry for gate.io (cryptocurrency exchange).
+  Data breached: potential theft of BTC from customers. Use of third party: Web Analytics.
+  Third-party company: StatCounter.'

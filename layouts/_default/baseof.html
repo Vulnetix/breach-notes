@@ -20,7 +20,7 @@
 </head>
 <body>
     <header class="site-header">
-        <div class="container">
+        <div class="container header-inner">
             <h1 class="site-title">
                 <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
             </h1>
@@ -33,6 +33,10 @@
                     {{ end }}
                 </ul>
             </nav>
+            <a class="vulnetix-brand" href="https://www.vulnetix.com" target="_blank" rel="noopener">
+                <img src="{{ "images/vulnetix-logo.png" | relURL }}" alt="Vulnetix" width="24" height="24">
+                <span>Vulnetix</span>
+            </a>
         </div>
     </header>
 
@@ -42,7 +46,7 @@
 
     <footer class="site-footer">
         <div class="container">
-            <p>&copy; {{ now.Year }} {{ .Site.Title }}. All breach data is sourced from public reports.</p>
+            <p>&copy; {{ now.Year }} Vulnetix. All breach data is sourced from public reports.</p>
             <p class="footer-links">
                 <a href="https://github.com/chris/breach-notes">Source Code</a>
                 <span>|</span>

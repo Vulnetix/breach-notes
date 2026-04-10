@@ -1,0 +1,138 @@
+# Breach Notes incident record schema
+# version: "1"
+#
+# Field groups:
+#   core              – present in every record
+#   traditional       – traditional breach / ransomware / supply-chain records
+#   crypto            – crypto / Web3 / DeFi incident records
+#
+# Fields absent from a record are treated as omitted (not an error) unless
+# required: true.
+
+version: "1"
+
+fields:
+
+  # ── Core fields ──────────────────────────────────────────────────────────────
+
+  source_name:
+    group: core
+    type: string
+    required: true
+    description: "Publication or organization reporting the breach"
+
+  source_url:
+    group: core
+    type: string
+    required: true
+    description: "Direct URL to the authoritative report or disclosure"
+
+  date_of_breach:
+    group: core
+    type: string
+    required: true
+    format: date_flexible   # YYYY-MM-DD  |  YYYY-MM  |  YYYY
+    description: "Date the breach occurred or first commenced"
+
+  date_of_disclosure:
+    group: core
+    type: string
+    required: false
+    format: date_flexible_or_empty   # YYYY-MM-DD | YYYY-MM | YYYY | ""
+    description: "Date the incident was publicly disclosed; empty string if unknown"
+
+  category:
+    group: core
+    type: string
+    required: true
+    enum:
+      - ransomware
+      - data-leak
+      - supply-chain
+      - credential-theft
+      - other
+    description: "Incident category"
+
+  notes:
+    group: core
+    type: string
+    required: true
+    description: "Narrative summary including timeline, scope, threat actor, and impact"
+
+  # ── Traditional breach fields ─────────────────────────────────────────────────
+
+  date_of_customer_notification:
+    group: traditional
+    type: string
+    required: false
+    format: date_flexible_or_empty
+    description: "Date affected parties were notified; empty string if unknown"
+
+  initial_attack_vector:
+    group: traditional
+    type: string
+    required: false
+    description: "CWE-NNN: description, or free-text description of the attack method"
+
+  cve:
+    group: traditional
+    type: list
+    required: false
+    description: "CVE or GHSA identifiers; empty list if none"
+    items:
+      pattern: '^(CVE-\d{4}-\d{4,}|GHSA-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4})$'
+
+  vendor_product:
+    group: traditional
+    type: string
+    required: false
+    description: "Affected vendor and/or product name"
+
+  software_package:
+    group: traditional
+    type: string
+    required: false
+    description: "Package name for software supply-chain incidents; empty string otherwise"
+
+  malware:
+    group: traditional
+    type: string
+    required: false
+    description: "Malware family name(s) if identified; empty string otherwise"
+
+  supply_chain_claimed:
+    group: traditional
+    type: bool
+    required: false
+    description: "True if a third-party vendor relationship was the attack vector"
+
+  # ── Crypto / Web3 fields ──────────────────────────────────────────────────────
+
+  blockchain:
+    group: crypto
+    type: string
+    required: false
+    description: >
+      Blockchain network(s) involved, comma-separated
+      (e.g. "ethereum, solana"). Omit for non-crypto incidents.
+
+  financial_loss_usd:
+    group: crypto
+    type: number
+    required: false
+    minimum: 0
+    description: "Estimated USD value of funds lost or stolen; omit for non-financial incidents"
+
+  financial_recovered_usd:
+    group: crypto
+    type: number
+    required: false
+    minimum: 0
+    description: "Estimated USD value recovered after the incident; omit if none or unknown"
+
+  affected_count:
+    group: crypto
+    type: integer
+    required: false
+    minimum: 0
+    description: "Number of affected wallets, users, or individuals; omit if unknown"

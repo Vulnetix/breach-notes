@@ -27,6 +27,24 @@
   let index    = null;   // loaded once
   let pending  = null;   // debounce timer
 
+  /* ── URL query sync ──────────────────────────────────── */
+  function setQueryParam(raw) {
+    const url = new URL(window.location.href);
+    const value = (raw || '').trim();
+
+    if (value) url.searchParams.set('q', value);
+    else url.searchParams.delete('q');
+
+    const next = `${url.pathname}${url.search}${url.hash}`;
+    const current = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+    if (next !== current) window.history.replaceState(null, '', next);
+  }
+
+  function getInitialQuery() {
+    const q = new URLSearchParams(window.location.search).get('q');
+    return q ? q.trim() : '';
+  }
+
   /* ── Load index ─────────────────────────────────────── */
   function loadIndex() {
     if (index !== null) return Promise.resolve(index);
@@ -256,11 +274,13 @@
       // Place cursor at end
       const len = input.value.length;
       input.setSelectionRange(len, len);
+      setQueryParam(input.value);
     });
   });
 
   /* ── Event wiring ────────────────────────────────────── */
   input.addEventListener('input', () => {
+    setQueryParam(input.value);
     clearTimeout(pending);
     pending = setTimeout(() => runSearch(input.value), DEBOUNCE_MS);
   });
@@ -270,6 +290,7 @@
       if (!overlay.hidden) {
         closeResults();
         input.value = '';
+        setQueryParam('');
       }
       input.blur();
     }
@@ -282,6 +303,7 @@
   closeBtn.addEventListener('click', () => {
     closeResults();
     input.value = '';
+    setQueryParam('');
     input.focus();
   });
 
@@ -311,5 +333,12 @@
   input.addEventListener('focus', () => {
     loadIndex().catch(() => {});
   }, { once: true });
+
+  // Initialize from URL query parameter (?q=...)
+  const initialQuery = getInitialQuery();
+  if (initialQuery) {
+    input.value = initialQuery;
+    runSearch(initialQuery);
+  }
 
 })();

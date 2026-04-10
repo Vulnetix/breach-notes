@@ -1,0 +1,13 @@
+source_name: "UK Parliament Email Brute-Force Attack (~90 Accounts Compromised)"
+source_url: "https://www.bbc.com/news/uk-politics-40395573"
+date_of_breach: "2017-06-23"
+date_of_disclosure: "2017-06-24"
+date_of_customer_notification: "2017-06-24"
+category: "credential-theft"
+initial_attack_vector: "Sustained brute-force attack against UK Parliament's internet-facing Outlook Web Access (OWA) email portal; attackers targeted accounts where MPs and staff used weak passwords without multi-factor authentication enforced on remote access"
+cve: []
+vendor_product: "Microsoft Outlook Web Access (OWA)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On June 23–24, 2017, an unknown attacker conducted a sustained brute-force attack against the UK Parliament's Outlook Web Access (OWA) email portal at Westminster. Parliament's IT team detected the attack and took the remote email access system offline as a precaution within approximately 12 hours, impacting around 9,000 parliamentary email users. Approximately 90 accounts were confirmed compromised — those belonging to MPs and staff who had used weak passwords without multi-factor authentication on remote access. The UK National Cyber Security Centre (NCSC) investigated. Formal attribution was not publicly declared, though UK intelligence sources widely reported attribution to a foreign state actor, with Iran's IRGC-affiliated Charming Kitten (APT35) as the primary suspect. The incident came just weeks after WannaCry had disrupted the NHS (May 2017), and prompted the UK Parliament to mandate multi-factor authentication for all remote email access. The relatively unsophisticated attack vector (brute-force against OWA without MFA) underscored how basic security hygiene failures in high-profile institutions create disproportionate vulnerabilities."

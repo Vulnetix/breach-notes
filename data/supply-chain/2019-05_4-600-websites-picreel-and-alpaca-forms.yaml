@@ -1,16 +1,18 @@
 source_name: 4,600 websites Third-Party Breach (May 2019)
-source_url: "https://www.zdnet.com/article/hackers-are-collecting-payment-details-user-passwords-from-4600-sites/"
+source_url: https://www.zdnet.com/article/hackers-are-collecting-payment-details-user-passwords-from-4600-sites/
 date_of_breach: 2019-05-01
-date_of_disclosure: 2019-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-05-31'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Picreel and Alpaca Forms
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, 4,600 websites experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Picreel and Alpaca Forms. Source reporting:
-  https://www.zdnet.com/article/hackers-are-collecting-payment-details-user-passwords-from-4600-sites/
+notes: 'Hackers are collecting payment details, user passwords from thousands of sites.
+  Servers of at least seven companies compromised to deliver malicious code to thousands
+  of sites. Hackers have breached the servers of at least seven online service providers
+  to embed malicious code on thousands of websites, security researchers have told
+  ZDNet. The attack is ongoing, and the malicious scripts are still live, at the time
+  of this article''s publishing. Third-party company: Picreel and Alpaca Forms.'

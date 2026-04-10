@@ -1,0 +1,13 @@
+source_name: "LifeBridge Health Network Breach — 538,127 Patients"
+source_url: "https://www.hipaajournal.com/lifebridge-health-data-breach-538127-patients-notified/"
+date_of_breach: "2016-09-27"
+date_of_disclosure: "2018-05-07"
+date_of_customer_notification: "2018-05-07"
+category: "data-leak"
+initial_attack_vector: "Malware installed on LifeBridge Health's server supporting its registration and billing systems and electronic medical records; the malware gained unauthorized access to a server connected to systems containing patient data — the precise initial intrusion vector was not disclosed; the breach was discovered more than a year after it began"
+cve: []
+vendor_product: "LifeBridge Health (Baltimore, Maryland integrated health system)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "LifeBridge Health, a Maryland-based health system operating Sinai Hospital, Northwest Hospital, Levindale Hebrew Geriatric Center, and other facilities, disclosed in May 2018 that it had discovered malware on a server that connected to systems containing patient information. Investigation revealed that the compromise had begun on September 27, 2016 — meaning the malware had been present for approximately 18 months before discovery in March 2018. The compromised server supported LifeBridge's patient registration and billing systems and connected to an electronic medical records platform. The exposed data potentially included patient names, addresses, dates of birth, Social Security numbers, insurance information, diagnoses, medications, and clinical and treatment information for approximately 538,127 patients. LifeBridge notified HHS, the Maryland Attorney General, and affected patients. No specific criminal attribution was made. The 18-month dwell time before detection was particularly alarming. LifeBridge offered one year of free credit monitoring to affected patients. The breach was part of a pattern of long-dwell healthcare network intrusions in 2016-2018, consistent with threat actors harvesting patient data for insurance fraud or building datasets for sale on dark web markets."

@@ -1,16 +1,21 @@
 source_name: Apple, Google, Amazon, Citibank Third-Party Breach (October 2020)
-source_url: "https://latesthackingnews.com/2020/10/28/nitro-pdf-suffered-a-data-breach-impacting-google-apple-amazon-and-more/#:~:text=They%20confirmed%20the%20stolen%20data,names%2C%20and%20other%20user%20data."
+source_url: https://latesthackingnews.com/2020/10/28/nitro-pdf-suffered-a-data-breach-impacting-google-apple-amazon-and-more/#:~:text=They%20confirmed%20the%20stolen%20data,names%2C%20and%20other%20user%20data.
 date_of_breach: 2020-10-01
-date_of_disclosure: 2020-10-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-10-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: NITRO
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Apple, Google, Amazon, Citibank experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was NITRO. Source reporting:
-  https://latesthackingnews.com/2020/10/28/nitro-pdf-suffered-a-data-breach-impacting-google-apple-amazon-and-more/#:~:text=They%20confirmed%20the%20stolen%20data,names%2C%20and%20other%20user%20data.
+notes: 'Nitro PDF Suffered A Data Breach Impacting Google, Apple, Amazon, And More.
+  Popular PDF service provider Nitro PDF has recently suffered a massive data breach.
+  While, they apparently strive to downplay the incident, it turns out that the breach
+  also affected tech giants including Apple, Google, Amazon,. Reportedly, Nitro Software,
+  the entity behind Nitro PDF has disclosed a data breach. As revealed via a statement
+  to the Australia Stock Exchange, Nitro noticed some unauthorized access to an isolated
+  database. However, according to the firm, the affected database didn’t include any
+  information that could affect its clients. As mentioned in their statement,. Third-party
+  company: NITRO.'

@@ -1,0 +1,13 @@
+source_name: "Dish Network Ransomware Attack (Black Basta, Multi-Day Outage, 296K Employee Records)"
+source_url: "https://www.bleepingcomputer.com/news/security/dish-network-confirms-ransomware-attack-behind-multi-day-outage/"
+date_of_breach: "2023-02-23"
+date_of_disclosure: "2023-02-27"
+date_of_customer_notification: "2023-05-22"
+category: "ransomware"
+initial_attack_vector: "Attackers used compromised VPN credentials to access Dish Network's Windows Active Directory domain, then moved laterally and deployed ransomware across Dish's IT infrastructure"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Black Basta ransomware"
+supply_chain_claimed: false
+notes: "On February 23, 2023, Dish Network — a major US satellite TV provider — suffered a ransomware attack (attributed to Black Basta) that took down its internal systems, customer service centers, and multiple customer-facing applications for several days. Dish Network, Sling TV, Boost Mobile, and other subsidiary services experienced widespread disruptions including inability for customers to pay bills online or reach customer support. Dish's websites and apps went offline. Dish disclosed the ransomware attack in an SEC 8-K filing on February 28, 2023. A subsequent data breach notification filed with the Maine Attorney General revealed that approximately 296,851 individuals — primarily current and former employees — had personal data stolen, including driver's license numbers. Dish reportedly paid the ransom to obtain a decryptor. The attack and poor incident communication caused significant customer anger and regulatory scrutiny."

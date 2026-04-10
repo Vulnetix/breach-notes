@@ -1,0 +1,13 @@
+source_name: "BJ's Wholesale Club Payment Card Breach (FTC Consent Order)"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2005/06/bjs-wholesale-club-settles-ftc-charges"
+date_of_breach: "2003-01-01"
+date_of_disclosure: "2004-03-12"
+date_of_customer_notification: "2004-03-12"
+category: "data-leak"
+initial_attack_vector: "POS system compromise — attackers gained unauthorized access to BJ's wireless network and then to in-store point-of-sale systems; BJ's had stored full magnetic stripe track data and CVV2 codes indefinitely on its systems in violation of card network rules, enabling large-scale card counterfeiting"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "BJ's Wholesale Club, a membership warehouse retailer operating in the eastern United States, suffered a payment card breach that was publicly disclosed in March 2004. Attackers compromised BJ's wireless networks at store locations and accessed point-of-sale systems that stored full magnetic stripe track data — which card network rules prohibit retaining post-authorization. By collecting this track data, criminals manufactured counterfeit cards and used them fraudulently, primarily at OfficeMax stores and other retailers. Banks and card issuers subsequently cancelled and reissued millions of payment cards linked to BJ's transactions as a precaution. The exact number of compromised cards was never officially disclosed but estimates ran into the millions. The Federal Trade Commission charged BJ's with unfair business practices for failing to implement reasonable security measures, specifically: (1) storing full magnetic stripe data long after transactions were complete, (2) not encrypting stored card data, (3) not limiting access to sensitive data on a need-to-know basis, and (4) not using strong passwords or security monitoring. In June 2005, BJ's settled with the FTC and was required to implement a comprehensive information security program and submit to third-party audits for 20 years. This case was one of the FTC's early enforcement actions establishing data security as an unfair trade practice under Section 5 of the FTC Act, setting a precedent for FTC data security oversight of retailers."

@@ -1,0 +1,13 @@
+source_name: "Bangladesh Bank SWIFT Heist ($81M Stolen via SWIFT Messaging, Lazarus Group)"
+source_url: "https://www.reuters.com/article/us-usa-fed-bangladesh-idUSKCN0WL0RX"
+date_of_breach: "2016-02-04"
+date_of_disclosure: "2016-03-07"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Lazarus Group (DPRK) spearphishing targeted Bangladesh Bank employees; malware installed on bank's internal network gained access to the SWIFT Alliance Access software and credentials; attackers monitored bank operations for months before submitting fraudulent SWIFT transfer instructions"
+cve: []
+vendor_product: "SWIFT Alliance Access messaging software"
+software_package: ""
+malware: "EVTDIAG; MSOUTC; MSOUTC (SWIFT-specific malware suite)"
+supply_chain_claimed: false
+notes: "On the night of February 4–5, 2016, Lazarus Group (North Korean state-sponsored hackers) submitted 35 fraudulent SWIFT transfer instructions from Bangladesh Bank's account at the US Federal Reserve Bank of New York, attempting to steal nearly $1 billion. Five transfers totaling $101 million succeeded before Deutsche Bank and routing bank staff noticed irregularities; $81 million was transferred to accounts in the Philippines and subsequently laundered through Manila casinos (the Philippines banking system's anti-money laundering regime excluded casinos). A simple spelling error ('fandation' instead of 'foundation' in one transfer) raised suspicion at Deutsche Bank and halted $850 million in additional transfers. Lazarus had penetrated Bangladesh Bank's network months earlier via spearphishing, gaining access to SWIFT messaging credentials and deploying malware (EVTDIAG, MSOUTC) that manipulated SWIFT transaction logs and confirmation messages to hide the fraudulent transfers. The heist triggered a global reassessment of SWIFT security, leading SWIFT to launch its Customer Security Programme (CSP) requiring mandatory security controls for all member institutions. The Bangladesh Bank heist was the largest single cyber theft by a nation-state actor at the time and demonstrated that state-sponsored actors were conducting theft (not just espionage) to fund the DPRK regime."

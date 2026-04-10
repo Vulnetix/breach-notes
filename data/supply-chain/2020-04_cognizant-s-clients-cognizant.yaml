@@ -1,16 +1,20 @@
-source_name: "Cognizant's clients Third-Party Breach (April 2020)"
-source_url: "https://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/"
+source_name: Cognizant's clients Third-Party Breach (April 2020)
+source_url: https://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/
 date_of_breach: 2020-04-01
-date_of_disclosure: 2020-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-04-18'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Cognizant
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Cognizant's clients experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Cognizant. Source reporting:
-  https://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/
+notes: 'IT services giant Cognizant suffers Maze Ransomware cyber attack. Information
+  technologies services giant Cognizant suffered a cyber attack Friday night allegedly
+  by the operators of the Maze Ransomware, BleepingComputer has learned. Cognizant
+  is one of the largest IT managed services company in the world with close to 300,000
+  employees and over $15 billion in revenue. As part of its operations, Cognizant
+  remotely manages its clients through end-point clients, or agents, that are installed
+  on customer''s workstations to push out patches, software updates, and perform remote
+  support services. Third-party company: Cognizant.'

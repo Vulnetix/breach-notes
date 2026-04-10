@@ -1,0 +1,13 @@
+source_name: "Banco de Chile SWIFT Heist + Wiper Distraction ($10M, Lazarus)"
+source_url: "https://www.zdnet.com/article/chilean-bank-loses-10-million-in-swift-attack-after-hackers-planted-malware-on-9000-computers/"
+date_of_breach: "2018-05-24"
+date_of_disclosure: "2018-05-28"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Lazarus Group-affiliated attackers gained access to Banco de Chile's internal network; deployed a custom MBR (Master Boot Record) wiping malware across ~9,000 workstations and 500 servers as a distraction; while IT teams responded to the destructive attack, attackers simultaneously submitted fraudulent SWIFT transfer instructions"
+cve: []
+vendor_product: "SWIFT financial messaging; bank endpoint workstations"
+software_package: ""
+malware: "KillMBR wiper (custom variant); SWIFT transaction injector"
+supply_chain_claimed: false
+notes: "On May 24, 2018, Banco de Chile — Chile's largest bank — suffered a sophisticated coordinated attack combining a destructive cyber operation with financial fraud. Attackers deployed a custom MBR-wiping malware that corrupted the master boot records of approximately 9,000 workstations and 500 servers across the bank's network, rendering them unbootable and creating a bank-wide IT emergency. While Banco de Chile's security and IT teams were consumed with responding to what appeared to be a catastrophic destructive attack, the attackers simultaneously submitted fraudulent SWIFT transfer messages instructing transfers totaling $10 million to accounts in Hong Kong. The combination of a destructive attack as a distraction while financial fraud is committed was a novel and effective tactic — bank staff had no capacity to detect the SWIFT fraud while managing thousands of infected machines. Banco de Chile recovered approximately $8 million; approximately $2 million was ultimately lost. The attack was attributed to the Lazarus Group (DPRK) by Chilean banking regulator SBIF, Europol, and multiple security researchers based on tool and TTP similarities to prior North Korean operations. The wiper malware shared characteristics with previously documented Lazarus tools. This 'distraction + heist' technique represented an evolution from pure SWIFT fraud and was later observed in other attacks attributed to North Korean actors."

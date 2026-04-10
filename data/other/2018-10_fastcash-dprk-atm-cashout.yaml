@@ -1,0 +1,13 @@
+source_name: "FASTCash ATM Cashout Operations — DPRK Lazarus BeagleBoyz ($100M+, 30+ Banks)"
+source_url: "https://www.cisa.gov/news-events/alerts/2018/10/02/hidden-cobra-fastcash-campaign"
+date_of_breach: "2016-01-01"
+date_of_disclosure: "2018-10-02"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Spearphishing targeting bank employees for initial access; lateral movement to payment switch application servers running IBM AIX; deployment of custom AIX malware that intercepted ATM transaction approval requests and returned fraudulent approvals for compromised cards even with zero balances; pre-positioned mule networks executed simultaneous global ATM withdrawals"
+cve: []
+vendor_product: "IBM AIX payment switch servers; bank ATM networks"
+software_package: ""
+malware: "FASTCash implant (AIX trojan)"
+supply_chain_claimed: false
+notes: "FASTCash was a multi-year North Korean state-sponsored campaign (2016–ongoing) targeting bank payment switch servers — the AIX-based systems that approve or decline ATM transactions. The Lazarus Group sub-unit known as 'BeagleBoyz' (also tracked as APT38) compromised banks primarily in Asia and Africa using spearphishing for initial access, then moved laterally to identify and implant the payment switch servers. The FASTCash implant intercepted ATM authorization requests for specific pre-loaded compromised card numbers and returned fraudulent approval responses, enabling unlimited ATM withdrawals even for accounts with zero balances. Mule networks executed simultaneous global ATM cashouts — one 2018 operation involved simultaneous withdrawals in 23 countries. US-CERT and Treasury attributed the campaign to DPRK's Hidden Cobra (Lazarus) in an October 2018 advisory (AA18-275A). Affected institutions included banks in Taiwan, India, Sri Lanka, Maldives, Malawi, and others. Estimated total theft exceeded $100 million across all FASTCash operations. The campaign continued through at least 2020, when a follow-up US-CERT advisory documented updated TTPs. FASTCash was notably more sophisticated than SWIFT heists: by compromising the switch layer itself, attackers could conduct cashouts without leaving traces in SWIFT messaging systems."

@@ -1,0 +1,13 @@
+source_name: "Community Health Systems APT18 Breach via Heartbleed (4.5M Patients)"
+source_url: "https://www.hipaajournal.com/community-health-systems-cyber-attack-puts-4-5m-patients-risk/"
+date_of_breach: "2014-04-01"
+date_of_disclosure: "2014-08-18"
+date_of_customer_notification: "2014-09-01"
+category: "data-leak"
+initial_attack_vector: "APT18 (Dynamite Panda), a Chinese state-linked threat actor, exploited the Heartbleed vulnerability (CVE-2014-0160) against Community Health Systems' Juniper VPN appliance to extract VPN credentials from memory; used stolen credentials to authenticate as a legitimate user and access the network"
+cve: ["CVE-2014-0160"]
+vendor_product: "Juniper VPN (Heartbleed)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between approximately April and June 2014, APT18 (also known as Dynamite Panda, Threat Group-0416, or Wekby), a Chinese state-linked advanced persistent threat group attributed by Mandiant, exploited the Heartbleed vulnerability (CVE-2014-0160) against a Juniper Networks SSL VPN appliance used by Community Health Systems (CHS). Heartbleed allowed the attacker to read arbitrary memory from the vulnerable device, extracting valid VPN credentials. Using these credentials, APT18 authenticated to CHS's network as a legitimate user and accessed systems containing patient demographic data. CHS disclosed the breach via an SEC filing on August 18, 2014 — one of the first major public disclosures linking Heartbleed exploitation to a real-world data breach. CHS operated 206 hospitals across 29 U.S. states at the time. Approximately 4.5 million patients who received care at CHS-affiliated hospitals within the preceding 5 years were affected. Stolen data: names, addresses, birthdates, phone numbers, and Social Security numbers — but notably NO medical records, clinical data, or payment card information was taken. CHS settled a multistate attorney general investigation with 28 states for $5 million."

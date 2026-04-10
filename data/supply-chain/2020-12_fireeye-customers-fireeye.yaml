@@ -1,16 +1,19 @@
 source_name: FireEye customers Third-Party Breach (December 2020)
-source_url: "https://www.usatoday.com/story/tech/2020/12/12/hacked-top-cybersecurity-firm-fireeye-says-nation-state-culprit/6511242002/"
+source_url: https://www.usatoday.com/story/tech/2020/12/12/hacked-top-cybersecurity-firm-fireeye-says-nation-state-culprit/6511242002/
 date_of_breach: 2020-12-01
-date_of_disclosure: 2020-12-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-12-12'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: FireEye
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, FireEye customers experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was FireEye. Source reporting:
-  https://www.usatoday.com/story/tech/2020/12/12/hacked-top-cybersecurity-firm-fireeye-says-nation-state-culprit/6511242002/
+notes: 'When a top cybersecurity firm gets hacked, what is the takeaway for the average
+  netizen?. Cybersecurity firm FireEye said this week it had been breached by hackers
+  for a foreign government. If so, what chance does the average person have?. If one
+  of the biggest names in cybersecurity can be breached, what chance does an average
+  person stand against hackers?. That''s a likely question after high-profile cybersecurity
+  firm FireEye earlier this week said hackers breached its network and stole the toolkit
+  it uses to probe customers'' systems to find weaknesses. Third-party company: FireEye.'

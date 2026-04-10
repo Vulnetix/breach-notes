@@ -1,0 +1,13 @@
+source_name: "Zappos Breach — 24 Million Customer Accounts"
+source_url: "https://www.zdnet.com/article/zappos-hacked-24-million-accounts-at-risk/"
+date_of_breach: "2012-01-15"
+date_of_disclosure: "2012-01-16"
+date_of_customer_notification: "2012-01-16"
+category: "data-leak"
+initial_attack_vector: "Attackers breached a Zappos database server located in Kentucky; the specific initial attack vector was not fully disclosed by the company, but the attacker accessed the internal network and the customer database"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On approximately January 15-16, 2012, Zappos (the online shoe and clothing retailer owned by Amazon) suffered a breach in which attackers accessed a customer database server. Approximately 24 million customer accounts were affected. CEO Tony Hsieh emailed all employees disclosing the breach and the company proactively reset all customer passwords and notified users to change their passwords on any other sites where they used the same credentials. Exposed data included names, email addresses, billing and shipping addresses, phone numbers, the last four digits of payment cards (not full card numbers), and cryptographically hashed passwords (using MD5 without salt for older accounts). The relatively weak hashing meant many passwords were easily crackable from the hashes. Zappos' payment card data was stored in a separate system and was reportedly not accessed. The breach prompted multiple class-action lawsuits. A federal judge allowed some suits to proceed, finding that users whose passwords were cracked faced cognizable harm. The incident is frequently cited as an example of why password hashing must use strong, salted algorithms."

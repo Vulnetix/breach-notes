@@ -1,0 +1,13 @@
+source_name: "Bundestag (German Parliament) APT28 Hack — 16GB Data, Full Network Rebuild"
+source_url: "https://www.spiegel.de/netzwelt/netzpolitik/bundestag-hack-verfassungsschutz-bestaetigt-russischen-angriff-a-1116524.html"
+date_of_breach: "2015-04-01"
+date_of_disclosure: "2015-05-15"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "APT28 (Fancy Bear / GRU Unit 26165) spearphishing emails delivering trojanized links to Bundestag employees; malware installation enabled keylogging and credential harvesting; attackers then moved laterally across the 20,000-node parliamentary IT network for several weeks"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between approximately April and May 2015, Russian military intelligence (GRU) APT28 (Fancy Bear) conducted a sophisticated intrusion into the German Federal Parliament (Bundestag) network, exfiltrating approximately 16 gigabytes of data including internal committee documents, emails from MPs, and material from Chancellor Angela Merkel's parliamentary office. The attack was discovered in May 2015 when anomalous traffic patterns were detected. The intrusion was so deep and pervasive — spreading across the 20,000-node parliamentary IT network — that Germany's IT security agency BSI determined that a full rebuild of the parliamentary IT infrastructure was the only safe course of action. The Bundestag's entire network was taken offline during the 2015 summer recess for rebuilding, at an estimated cost of €5 million or more. Germany's domestic intelligence agency (BfV) and BSI formally attributed the attack to APT28 in their subsequent reports. In May 2020, German federal prosecutors issued an arrest warrant for Russian GRU officer Dmitriy Badin in connection with the attack. The Bundestag hack was part of APT28's broader 2014–2016 European election interference campaign that also included the French TV5Monde (2015), Czech Foreign Ministry (2016), and US DNC/Podesta hacks (2016). It was the first confirmed APT attack on a Western parliament's core IT infrastructure, triggering EU-wide reassessment of parliamentary cybersecurity."

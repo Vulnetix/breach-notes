@@ -1,0 +1,13 @@
+source_name: "Lincoln College Ransomware Attack (Led to College Closure)"
+source_url: "https://www.lincolncollege.edu/community-message/"
+date_of_breach: "2021-12-01"
+date_of_disclosure: "2022-03-01"
+date_of_customer_notification: "2022-03-01"
+category: "ransomware"
+initial_attack_vector: "Ransomware attackers compromised Lincoln College's systems in December 2021, encrypting systems critical to student recruitment, retention, and fundraising operations; the attack prevented access to all institutional data for several months"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Lincoln College, a historically Black liberal arts college in Lincoln, Illinois, founded in 1865 (the same year Abraham Lincoln was assassinated), announced in May 2022 that it would permanently close — citing both COVID-19 impacts and a ransomware attack in December 2021 as decisive factors. The ransomware attack in December 2021 disrupted all academic operations and thwarted admissions activities, enrollment, and fundraising efforts, preventing access to all institutional data for months. Recovery from the ransomware attack was not completed until March 2022, at which point the college could assess the ongoing damage. The combination of COVID-19 enrollment impacts and the months-long ransomware disruption to recruitment and financial operations proved unsurmountable: the college determined it could not achieve the enrollment needed to remain viable and announced permanent closure effective May 13, 2022. Lincoln College was one of the oldest historically Black colleges in the US and served a predominantly first-generation, low-income student population. The closure was widely cited as the first known instance of a ransomware attack contributing directly to the permanent closure of an educational institution."

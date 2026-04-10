@@ -1,16 +1,23 @@
 source_name: Malinda Air Third-Party Breach (September 2019)
-source_url: "https://www.scmagazine.com/home/security-news/data-breach/malinda-air-locks-down-publicly-exposed-servers/"
+source_url: https://www.scmagazine.com/home/security-news/data-breach/malinda-air-locks-down-publicly-exposed-servers/
 date_of_breach: 2019-09-01
-date_of_disclosure: 2019-09-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-09-19'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Malinda Air experienced a data security incident via a third-party vendor relationship. Source
-  reporting:
-  https://www.scmagazine.com/home/security-news/data-breach/malinda-air-locks-down-publicly-exposed-servers/
+notes: Malinda Air locks down publicly exposed servers. Indonesian budget airline
+  Malindo Air reported on September 19 it had locked down the formerly publicly exposed
+  servers that had compromised passenger data. The airline had confirmed just one
+  day prior that passenger data had been compromised and that it was working with
+  Amazon Web Services and its e-commerce partner GoQuo to investigate the pr. “In
+  light of the recent data leak from a third party vendor, Malindo Air's cloud service
+  provider, Amazon Web Services (AWS) Singapore has confirmed that all Malindo Air's
+  servers are fully secured with no further vulnerabilities. Confirmation has also
+  been given to verify that no payment details have been compromised,” Malindo said
+  in a statement. The South China Post reported that the data from millions of Malinda’s
+  passengers were involved, but the company did not release any figures.

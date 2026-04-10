@@ -1,16 +1,22 @@
-source_name: "The Australian P&N Bank Third-Party Breach (January 2020)"
-source_url: "https://www.scmagazine.com/home/security-news/data-breach/aussie-pn-bank-suffers-data-breach/"
+source_name: The Australian P&N Bank Third-Party Breach (January 2020)
+source_url: https://www.scmagazine.com/home/security-news/data-breach/aussie-pn-bank-suffers-data-breach/
 date_of_breach: 2020-01-01
-date_of_disclosure: 2020-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-01-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, The Australian P&N Bank experienced a data security incident via a third-party vendor relationship.
-  Source reporting:
-  https://www.scmagazine.com/home/security-news/data-breach/aussie-pn-bank-suffers-data-breach/
+notes: Aussie P&N bank suffers data breach. The Australian P&amp;N Bank reported a
+  data breach that exposed detailed and sensitive financial information on an unspecified
+  number of customers. Access was gained on December 12 to the bank’s customer relationship
+  management system, which is operated by a third-party hosting firm, was undergoing
+  an upgrade. Details on how it was accessed wer. The Australian P&N Bank reported
+  a data breach that exposed detailed and sensitive financial information on an unspecified
+  number of customers. The information included name, address, email, phone number,
+  customer number, age, account number and account balance. Additional pieces of what
+  P&N considers non-sensitive data, such as interactions between the bank and its
+  customers, was also located on the breached system.

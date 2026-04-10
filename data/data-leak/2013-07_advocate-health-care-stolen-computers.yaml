@@ -1,0 +1,13 @@
+source_name: "Advocate Health Care Stolen Unencrypted Computers (4M Patients, $5.55M HIPAA)"
+source_url: "https://www.hipaajournal.com/largest-ever-hipaa-settlement-advocate-health-5-5-million-3537/"
+date_of_breach: "2013-07-15"
+date_of_disclosure: "2013-08-23"
+date_of_customer_notification: "2013-08-23"
+category: "data-leak"
+initial_attack_vector: "Physical theft of four unencrypted desktop computers from Advocate Medical Group's administrative offices in Park Ridge, Illinois; two subsequent smaller incidents involved theft of an unencrypted laptop from an employee's car and a business associate (Blackhawk Consulting Group) compromise"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On July 15, 2013, four unencrypted desktop computers were stolen from Advocate Medical Group's administrative offices in Park Ridge, Illinois. The computers contained personal and health information for approximately 4,028,287 patients — the largest healthcare data breach reported to HHS OCR at that time. Exposed data included names, addresses, dates of birth, Social Security numbers, diagnoses, medical record numbers, health service codes, and health insurance information. Advocate Health Care then suffered two additional HIPAA breaches within three months: (1) an unencrypted laptop stolen from an employee's car containing data on 2,237 patients; and (2) a business associate (Blackhawk Consulting Group) breach affecting 2,029 patients. HHS OCR opened an investigation after reviewing these three incidents and found systemic HIPAA Security Rule violations, including failure to encrypt mobile devices and failure to conduct adequate enterprise-wide risk assessments. In August 2016, Advocate Health Care agreed to pay $5.55 million — the largest HIPAA settlement by a single entity at that time — and implement a comprehensive corrective action plan. Advocate Health Care serves approximately 3 million patients annually across 10 hospitals in Illinois."

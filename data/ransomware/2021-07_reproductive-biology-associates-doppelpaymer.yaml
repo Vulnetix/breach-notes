@@ -1,0 +1,13 @@
+source_name: "Reproductive Biology Associates (RBA) DoppelPaymer Ransomware — 227K IVF Patients"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2021-04-07"
+date_of_disclosure: "2021-07-28"
+date_of_customer_notification: "2021-07-28"
+category: "ransomware"
+initial_attack_vector: "DoppelPaymer ransomware group breached Reproductive Biology Associates' network, encrypted a file server containing embryology data, and exfiltrated patient data including highly sensitive fertility treatment records and embryo storage information"
+cve: []
+vendor_product: "Reproductive Biology Associates (RBA) — Atlanta fertility clinic IT systems"
+software_package: ""
+malware: "DoppelPaymer ransomware"
+supply_chain_claimed: false
+notes: "On 7 April 2021, Reproductive Biology Associates (RBA) — an Atlanta, Georgia fertility clinic — and its affiliate My Egg Bank North America suffered a DoppelPaymer ransomware attack. Attackers encrypted a file server containing embryology laboratory data and exfiltrated patient information. RBA detected the attack and notified the HHS Office for Civil Rights on 28 July 2021, disclosing that approximately 227,000 patients were affected. Exposed data included the most sensitive category of fertility patient information: names, Social Security numbers, addresses, lab results, embryo status information, and clinical data related to in vitro fertilization (IVF) and egg donation procedures. The breach is particularly sensitive given the nature of the data: fertility patients trusted RBA with information about embryo storage, genetic testing results, and reproductive health details. The DoppelPaymer group published data from RBA on its dark web leak site. The case prompted discussion about the specific obligations of fertility clinics under HIPAA given the extraordinary sensitivity of reproductive health and genetic data. Multiple class-action lawsuits were filed. RBA operates as one of the largest IVF clinics in the southeastern United States, and My Egg Bank North America is one of the largest frozen egg banks in the country."

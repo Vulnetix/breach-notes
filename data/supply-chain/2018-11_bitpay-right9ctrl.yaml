@@ -1,16 +1,20 @@
 source_name: BitPay Third-Party Breach (November 2018)
-source_url: "https://nakedsecurity.sophos.com/2018/11/28/javascript-library-used-for-sneak-attack-on-copay-bitcoin-wallet/"
+source_url: https://nakedsecurity.sophos.com/2018/11/28/javascript-library-used-for-sneak-attack-on-copay-bitcoin-wallet/
 date_of_breach: 2018-11-01
 date_of_disclosure: 2018-11-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Right9ctrl
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2018, BitPay experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Right9ctrl. Source reporting:
-  https://nakedsecurity.sophos.com/2018/11/28/javascript-library-used-for-sneak-attack-on-copay-bitcoin-wallet/
+notes: 'Sophos News - The Sophos Blog. .svg?width=185&quality=80&format=auto&cache=true&immutable=true&cache-control=max-age%3D31536000).
+  Sophos Insights LLM AI Exploit vulnerability Active Adversary Pacific Rim ## The
+  vulnerability flood is here. Here’s what it means – and how to prepare We can''t
+  control the pace of AI-driven vulnerability discovery, but we can control how fast
+  we respond. April 9, 2026. Threat Research ...+7 ## We let OpenClaw loose on an
+  internal network. Here’s what it found Following our article on the challenges posed
+  by agentic AI, we gave OpenClaw access to one of our legacy networks April 9, 2026.
+  Third-party company: Right9ctrl.'

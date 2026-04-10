@@ -1,0 +1,13 @@
+source_name: "DSW Designer Shoe Warehouse Payment Card Breach — 1.4 Million Cards"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2007/03/shoe-retailer-dst-systems-settle-ftc-charges"
+date_of_breach: "2005-01-01"
+date_of_disclosure: "2005-03-08"
+date_of_customer_notification: "2005-03-08"
+category: "data-leak"
+initial_attack_vector: "Network intrusion — attackers breached DSW's in-store networks and accessed point-of-sale systems; DSW stored unencrypted payment card data including full magnetic stripe track data in transaction files on store systems, which were accessible via the corporate network"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "DSW Inc. (Designer Shoe Warehouse), operating approximately 175 shoe retail stores across the United States, disclosed in March 2005 that attackers had accessed its computer network and stolen payment card data from transactions at 108 of its retail stores. Approximately 1.4 million payment card numbers were compromised, along with transaction information and checking account numbers for approximately 96,000 customers who had paid by check. DSW stored sensitive payment card data — including full magnetic stripe track data — on store computer systems in plaintext, in violation of card industry rules. The company's parent, Retail Ventures Inc., disclosed the breach after being alerted by banks to a pattern of fraudulent card use. The Ohio Attorney General and multiple state AGs investigated. DSW parent company Retail Ventures (later merged into DSW Inc.) settled with the FTC in 2007, agreeing to implement a comprehensive information security program and biennial third-party audits for 20 years. The DSW breach was one of several similar retail card breaches in 2004-2005 (alongside BJ's Wholesale and OfficeMax investigations) that prompted the payment card industry to accelerate development and enforcement of the PCI DSS (Payment Card Industry Data Security Standard), which became mandatory in mid-2005."

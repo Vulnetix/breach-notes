@@ -1,18 +1,23 @@
-source_name: |-
-             Airbus, Air CaraÃ¯bes, ArcelorMittal, BT, Luxottica, Kuehne + Nagel, MinistÃ¨re de la Justice franÃ§ais, New Zealand Police, PWC Russia, Salomon, Sanofi, and Sephora (possibly) Third-Party Breach (February 2021)
-source_url: "https://thehackernews.com/2021/02/hackers-exploit-it-monitoring-tool.html?&web_view=true"
+source_name: Airbus, Air CaraÃ¯bes, ArcelorMittal, BT, Luxottica, Kuehne + Nagel,
+  MinistÃ¨re de la Justice franÃ§ais, New Zealand Police, PWC Russia, Salomon, Sanofi,
+  and Sephora (possibly) Third-Party Breach (February 2021)
+source_url: https://thehackernews.com/2021/02/hackers-exploit-it-monitoring-tool.html?&web_view=true
 date_of_breach: 2021-02-01
-date_of_disclosure: 2021-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-02-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Centreon
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Airbus, Air CaraÃ¯bes, ArcelorMittal, BT, Luxottica, Kuehne + Nagel, MinistÃ¨re de la Justice
-  franÃ§ais, New Zealand Police, PWC Russia, Salomon, Sanofi, and Sephora (possibly) experienced a data security
-  incident via a third-party vendor relationship. The compromised third-party vendor was Centreon. Source
-  reporting: https://thehackernews.com/2021/02/hackers-exploit-it-monitoring-tool.html?&web_view=true
+notes: 'Hackers Exploit IT Monitoring Tool Centreon to Target Several French Entities.
+  Russia-linked state-sponsored hackers Sandworm targeted IT monitoring software company
+  Centreon in a three-year-long stealthy operation. Russia-linked state-sponsored
+  threat actor known as Sandworm has been linked to a three-year-long stealthy operation
+  to hack targets by exploiting an IT monitoring tool called Centreon. The intrusion
+  campaign — which breached "several French entities" — is said to have started in
+  late 2017 and lasted until 2020, with the attacks particularly impacting web-hosting
+  providers, said the French information security agency ANSSI in an advisory. Third-party
+  company: Centreon.'

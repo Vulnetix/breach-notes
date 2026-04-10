@@ -1,0 +1,13 @@
+source_name: "Stuxnet / Operation Olympic Games — First Cyberweapon, Iran Natanz Centrifuges"
+source_url: "https://spectrum.ieee.org/the-real-story-of-stuxnet"
+date_of_breach: "2009-06-01"
+date_of_disclosure: "2010-07-15"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "USB drive air-gap bypass for initial delivery into the isolated Natanz network; exploited four Windows zero-day vulnerabilities (CVE-2010-2568, CVE-2010-2772, CVE-2010-2729, CVE-2010-2568 LNK file); targeted Siemens Step7 SCADA software and Siemens S7-315/S7-417 PLCs; manipulated centrifuge rotor speeds while forging normal readings to SCADA operators"
+cve: ["CVE-2010-2568", "CVE-2010-2772", "CVE-2010-2729"]
+vendor_product: "Siemens Step7 SCADA; Siemens S7-300/S7-400 PLCs; Microsoft Windows"
+software_package: ""
+malware: "Stuxnet"
+supply_chain_claimed: false
+notes: "Stuxnet is the first publicly known cyberweapon designed to cause physical destruction of industrial equipment. Jointly developed by the United States (NSA, CIA — under 'Operation Olympic Games' initiated ~2005–2006 under President George W. Bush and continued under President Obama) and Israel (Unit 8200), Stuxnet targeted Iran's Natanz uranium enrichment facility to sabotage its centrifuge cascade. Earliest samples date to June 2009; active sabotage at Natanz occurred 2009–2010. The worm spread via infected USB drives to bypass the air-gapped Natanz network, then propagated through Windows networks seeking Siemens Step7 SCADA software connected to specific Siemens S7-315 and S7-417 PLCs — precisely the models used to control IR-1 centrifuges at Natanz. When it found its target, Stuxnet altered centrifuge motor speeds (periodically spinning them too fast and too slow) to cause mechanical stress and failure, while replaying normal operational readings to the SCADA operators to mask the sabotage. An estimated 1,000+ centrifuges were destroyed or damaged, setting Iran's enrichment program back by approximately 1–2 years. The worm accidentally spread globally to ~100,000 machines, leading to its discovery by VirusBlokAda researchers on June 17, 2010. Brian Krebs reported on the discovery July 15, 2010. Siemens disclosed the threat July 19. Iranian president Ahmadinejad acknowledged the sabotage on November 29, 2010. Stuxnet's exposure represented a paradigm shift: it proved that software could cause physical destruction, established that nation-states were willing to conduct offensive cyber operations against civilian critical infrastructure, and directly inspired the later Industroyer and TRITON attacks."

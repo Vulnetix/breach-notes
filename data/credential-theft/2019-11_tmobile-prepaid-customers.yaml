@@ -1,0 +1,13 @@
+source_name: "T-Mobile 2019 Prepaid Customer Breach (1.26M Accounts)"
+source_url: "https://www.bleepingcomputer.com/news/security/t-mobile-discloses-data-breach-impacting-prepaid-customers/"
+date_of_breach: "2019-11-01"
+date_of_disclosure: "2019-11-22"
+date_of_customer_notification: "2019-11-22"
+category: "credential-theft"
+initial_attack_vector: "Unauthorized access to T-Mobile systems containing prepaid customer data; specific access vector not disclosed publicly; distinct from the 2021 John Binns breach affecting 54M records"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2019, T-Mobile's cybersecurity team identified and shut down unauthorized access to systems containing prepaid customer account information. Approximately 1.26 million prepaid customers were affected — less than 1.5% of T-Mobile's total customer base at the time. Exposed data included names, billing addresses, phone numbers, account numbers, rate plans, and features. No Social Security numbers, passwords, or financial information were confirmed exposed. T-Mobile notified affected customers and reset PINs. This breach is distinct from the far larger August 2021 breach attributed to John Binns affecting 54 million records, and the 2023 API breach affecting 37 million accounts. T-Mobile has experienced multiple separate breach incidents across 2019, 2020, 2021, 2022, and 2023."

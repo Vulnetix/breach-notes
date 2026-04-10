@@ -1,0 +1,13 @@
+source_name: "Stanford University / Maine AG / BleepingComputer"
+source_url: "https://www.bleepingcomputer.com/news/security/stanford-university-discloses-data-breach-affecting-27-000-people/"
+date_of_breach: "2023-05-12"
+date_of_disclosure: "2023-10-27"
+date_of_customer_notification: "2023-10-27"
+category: "data-leak"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (Akira ransomware targeting Stanford's Department of Public Safety network)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Akira"
+supply_chain_claimed: false
+notes: "Akira ransomware group breached Stanford University's Department of Public Safety (SUDPS) network between May 12 and September 27 2023. Stanford disclosed the incident on October 27 2023 after the Akira gang published the stolen data (430 GB) on their leak site. The breach affected 27,000 individuals whose personal information was stored on the SUDPS network, including Social Security numbers, government IDs, and financial information. Victims included current and former students, staff, and applicants to the SUDPS. The Akira group specifically targeted the campus public safety department rather than central IT systems. Stanford offered 24 months of credit monitoring to affected individuals."

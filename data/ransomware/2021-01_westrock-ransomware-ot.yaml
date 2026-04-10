@@ -1,0 +1,13 @@
+source_name: "WestRock Ransomware Attack (OT/Manufacturing Systems Disrupted)"
+source_url: "https://www.sec.gov/Archives/edgar/data/1732845/000173284521000009/wrk-20210202.htm"
+date_of_breach: "2021-01-23"
+date_of_disclosure: "2021-01-25"
+date_of_customer_notification: "2021-01-25"
+category: "ransomware"
+initial_attack_vector: "Ransomware attackers penetrated WestRock's network and deployed ransomware that affected both IT systems and operational technology (OT) systems, including manufacturing and operational systems at packaging production facilities"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "WestRock Company, one of the largest corrugated packaging and paperboard manufacturers in the world, disclosed on January 25, 2021 that it had suffered a ransomware attack on approximately January 23, 2021 that affected both its IT and OT (operational technology) systems. The attack disrupted the company's manufacturing and distribution operations across multiple facilities. WestRock disclosed the incident in an SEC 8-K filing and in a quarterly earnings call, noting the ransomware had impacted some of its operational technology systems (which control manufacturing equipment). The company estimated the financial impact at approximately $170 million in lost revenue and incremental costs, making it one of the costlier ransomware incidents in the manufacturing sector. WestRock was slow to restore full operations at some facilities. The incident was notable because it was one of relatively few confirmed cases where ransomware directly impacted OT/manufacturing systems (not just IT), causing physical production line shutdowns — echoing concerns about IT/OT convergence security risks. The specific ransomware group responsible was not publicly attributed."

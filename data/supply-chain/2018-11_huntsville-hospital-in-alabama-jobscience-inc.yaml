@@ -1,16 +1,15 @@
 source_name: Huntsville Hospital in Alabama Third-Party Breach (November 2018)
-source_url: "https://hotforsecurity.bitdefender.com/blog/third-party-data-breach-exposes-info-of-alabama-hospital-job-applicants-20561.html"
+source_url: https://hotforsecurity.bitdefender.com/blog/third-party-data-breach-exposes-info-of-alabama-hospital-job-applicants-20561.html
 date_of_breach: 2018-11-01
 date_of_disclosure: 2018-11-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Jobscience, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2018, Huntsville Hospital in Alabama experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Jobscience, Inc.. Source reporting:
-  https://hotforsecurity.bitdefender.com/blog/third-party-data-breach-exposes-info-of-alabama-hospital-job-applicants-20561.html
+notes: 'Bitdefender Cybersecurity Blogs: News, Views and Insights. [](http://hotforsecurity.bitdefender.com/
+  "Bitdefender")For HomeFor BusinessFor Partners. Third-party company: Jobscience,
+  Inc..'

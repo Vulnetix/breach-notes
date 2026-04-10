@@ -1,16 +1,21 @@
 source_name: Truecaller Third-Party Breach (May 2019)
-source_url: "https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-sale-lakhs-dark-web-breach-more"
+source_url: https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-sale-lakhs-dark-web-breach-more
 date_of_breach: 2019-05-01
-date_of_disclosure: 2019-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-05-22'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Truecaller experienced a data security incident via a third-party vendor relationship. Source
-  reporting:
-  https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-sale-lakhs-dark-web-breach-more
+notes: 'Truecaller Users’ Phone Numbers & Email IDs For Sale on Dark Web. Truecaller
+  Number Search App: The caller ID company with more than millions of users in India
+  caters to mobile payment and messaging service also. Truecaller, a caller ID company
+  with access to email IDs and mobile numbers of millions of users, has been hit with
+  fresh allegations of letting its data sell on the dark web. The data is available
+  to any person willing to pay up to Rs 1.5 lakh for data of Indian users, while the
+  amount goes up to a staggering 25,000 euros (Rs 19.4 lakh) for users from other
+  countries. These allegations were revealed in an ET report on Wednesday, bringing
+  to light another data breach to hit users across the world.'

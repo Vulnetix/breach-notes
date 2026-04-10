@@ -1,0 +1,13 @@
+source_name: "Scripps Health Ransomware Attack (Conti, 147K Patients, $113M Losses)"
+source_url: "https://www.hipaajournal.com/147000-patients-affected-by-scripps-health-ransomware-attack/"
+date_of_breach: "2021-04-26"
+date_of_disclosure: "2021-06-01"
+date_of_customer_notification: "2021-06-01"
+category: "ransomware"
+initial_attack_vector: "Conti ransomware operators gained access to Scripps Health's network on April 26, 2021; exfiltrated patient data before deploying ransomware on May 1, 2021, taking Scripps systems offline; a Russian national (Maksim Galochkin) was later federally indicted in connection with the attack as part of the Conti/TrickBot prosecution"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Conti ransomware"
+supply_chain_claimed: false
+notes: "On May 1, 2021, Scripps Health — San Diego's second-largest healthcare provider operating five hospitals and 19 outpatient facilities — suffered a Conti ransomware attack that took its systems offline for approximately four weeks. Attackers had first gained access on April 26, exfiltrating approximately 147,267 patients' data before deploying ransomware. The Epic electronic health record (EHR) system was not directly compromised. Exposed data included names, addresses, dates of birth, health insurance information, medical record numbers, patient account numbers, dates of service, and clinical information. Approximately 3,700 patients also had Social Security numbers or driver's license numbers exposed. Total financial impact was estimated at approximately $113 million, primarily from $91.6 million in lost revenue during the four-week operational outage. Scripps settled a class-action lawsuit for $3.5 million. In 2022, the U.S. Department of Justice indicted Russian national Maksim Galochkin (and others) for their roles in the TrickBot/Conti ransomware operation, specifically naming the Scripps Health attack among the victims. The attack was part of a broader Conti wave targeting U.S. healthcare during the COVID-19 pandemic."

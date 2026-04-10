@@ -1,13 +1,21 @@
 source_name: Keepnet Third-Party Breach (June 2020)
-source_url: "https://www.verdict.co.uk/keepnet-labs-data-breach/"
+source_url: https://www.verdict.co.uk/keepnet-labs-data-breach/
 date_of_breach: 2020-06-01
-date_of_disclosure: 2020-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-06-09'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2020, Keepnet experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.verdict.co.uk/keepnet-labs-data-breach/"
+notes: Keepnet Labs confirms contractor exposed 'data breach database' of 5 billion
+  records. Keepnet Labs has confirmed that a contractor temporarily exposed a database
+  containing five billion records collated from previous data breaches. A UK-based
+  cybersecurity firm that threatened legal action against a security blogger has confirmed
+  that a contractor temporarily exposed a database containing five billion email addresses
+  and passwords collated from previous data breaches. Keepnet Labs collects historic
+  breach data from “online public resources” so that it can notify its customers if
+  their business domain has been compromised. This is a common and entirely legal
+  method used by threat intelligence services.

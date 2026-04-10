@@ -1,0 +1,13 @@
+source_name: "Binance Bitcoin Exchange Hack — 7,000 BTC (~$40M)"
+source_url: "https://binance.com/en/blog/all/binance-security-breach-update-7-74-7074225784984809472"
+date_of_breach: "2019-05-07"
+date_of_disclosure: "2019-05-08"
+date_of_customer_notification: "2019-05-08"
+category: "other"
+initial_attack_vector: "Coordinated attack combining phishing, viruses, and other techniques to steal API keys, two-factor authentication codes, and potentially other user information; attackers accumulated API keys and 2FA codes from a large number of Binance users over an extended period, then executed the withdrawal in a single large transaction that bypassed Binance's automated risk management systems by exploiting the user-level API permissions"
+cve: []
+vendor_product: "Binance (world's largest cryptocurrency exchange by trading volume)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On May 7, 2019, Binance CEO Changpeng Zhao (CZ) announced that hackers had stolen 7,000 BTC (worth approximately $40 million) from the exchange's hot wallet in a single large transaction. The attackers had spent months accumulating API keys, 2FA codes, and potentially other account access information from a large number of Binance users through phishing campaigns and malware. They then executed the theft in a single coordinated transaction in the early morning hours, structured in a way that passed Binance's automated security checks. The withdrawal triggered Binance's risk management systems only after the transaction was already confirmed on the blockchain. Binance suspended deposits and withdrawals for approximately one week while it conducted a security audit. Binance covered the full $40M loss from its Secure Asset Fund for Users (SAFU) — an emergency insurance fund Binance had established in 2018 — meaning no customer lost any funds. CZ publicly contemplated a blockchain reorganization (reorg) of the Bitcoin blockchain to reverse the theft but decided against it after community backlash. The exchange resumed withdrawals on May 15, 2019. Binance subsequently enhanced its API security controls, including IP address binding and withdrawal address whitelisting requirements. The incident demonstrated the effectiveness of exchange self-insurance funds and the importance of API key security for exchange users."

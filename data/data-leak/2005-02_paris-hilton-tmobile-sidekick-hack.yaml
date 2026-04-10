@@ -1,0 +1,13 @@
+source_name: "Paris Hilton T-Mobile Sidekick Hack — Celebrity Address Book and Photos Leaked"
+source_url: "https://web.archive.org/web/20050220000000*/thesmokinggun.com/archive/parishack1.html"
+date_of_breach: "2005-02-19"
+date_of_disclosure: "2005-02-19"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Account compromise via knowledge-based authentication bypass — attacker used Paris Hilton's publicly known personal details (dog's name 'Tinkerbell') to correctly answer the T-Mobile Sidekick password reset security question, gaining access to her cloud-synced account data"
+cve: []
+vendor_product: "T-Mobile Sidekick (Danger Hiptop) cloud service"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In February 2005, the contents of Paris Hilton's T-Mobile Sidekick device were stolen and posted on the internet — including her celebrity contact list, personal photos, and SMS messages. The T-Mobile Sidekick (manufactured by Danger Inc.) backed up all user data to Danger's cloud servers; the attacker bypassed the password reset by correctly answering the security question using Hilton's widely known dog's name 'Tinkerbell.' The leaked address book contained private phone numbers for numerous celebrities including Eminem, Christina Aguilera, Lindsay Lohan, and many others, who subsequently had their numbers publicized. A 19-year-old named Cameron LaCroix was arrested and convicted in connection with the breach; he was sentenced to 11 months in a juvenile facility. LaCroix later also admitted involvement in accessing T-Mobile's internal network (a separate breach). The incident had outsized cultural and security significance: it illustrated the dangers of trivially guessable security questions based on public biographical information; highlighted risks of cloud-synced device data; and demonstrated that compromising one high-profile account could expose the private information of hundreds of other individuals. The breach accelerated awareness of 'security question' weaknesses as an authentication mechanism and is frequently cited in discussions of social engineering and knowledge-based authentication failures."

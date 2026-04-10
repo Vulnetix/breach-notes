@@ -1,0 +1,13 @@
+source_name: "Epsilon Data Management Breach (60M+ Email Records, 75+ Companies)"
+source_url: "https://krebsonsecurity.com/2015/03/feds-indict-three-in-2011-epsilon-hack/"
+date_of_breach: "2011-03-01"
+date_of_disclosure: "2011-04-01"
+date_of_customer_notification: "2011-04-04"
+category: "data-leak"
+initial_attack_vector: "Spear-phishing attack against Epsilon employees by Vietnamese cybercriminals; targeted phishing campaigns installed malware enabling access to Epsilon's customer email databases; attackers were part of a broader operation targeting multiple email marketing firms"
+cve: []
+vendor_product: "Epsilon email marketing platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In late March 2011, Epsilon Data Management — the world's largest permission-based email marketing company at the time (subsidiary of Alliance Data Systems) — suffered a data breach that exposed names and email addresses of customers belonging to approximately 75 major corporations, with an estimated 60+ million email records stolen. The breach was discovered by Epsilon around March 30–31, 2011, and Epsilon began notifying affected client companies starting April 1. Affected clients included Best Buy, Citibank, Capital One, JPMorgan Chase, Walgreens, Kroger, Target, TiVo, Hilton Hotels, Marriott, LL Bean, Lacoste, Beachbody, Disney, McKinsey Quarterly, and 60+ others — clients began sending breach notifications to their customers through April 2011. The breach exposed only names and email addresses (no financial data, passwords, or SSNs), but the combination of real names + email addresses + knowledge of which major brands the victim was a customer of made it one of the most valuable phishing enablers of the era. Total estimated downstream phishing and remediation cost estimates ranged from $225 million to over $4 billion. In March 2015, the US Department of Justice indicted Vietnamese nationals David-Manuel Santos Da Silva and Viet Quoc Nguyen as part of a wider investigation into attacks on multiple email marketing firms, charged with computer fraud and aggravated identity theft. The Epsilon breach was a landmark supply chain attack: by targeting the marketing intermediary, attackers gained access to tens of millions of records from dozens of companies simultaneously."

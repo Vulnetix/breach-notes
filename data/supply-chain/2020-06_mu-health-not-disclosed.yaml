@@ -1,13 +1,19 @@
 source_name: MU Health Third-Party Breach (June 2020)
-source_url: "https://abc17news.com/news/columbia/2020/06/12/mu-health-reports-data-breach/"
+source_url: https://abc17news.com/news/columbia/2020/06/12/mu-health-reports-data-breach/
 date_of_breach: 2020-06-01
-date_of_disclosure: 2020-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-06-12'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2020, MU Health experienced a data security incident via a third-party vendor relationship. Source reporting: https://abc17news.com/news/columbia/2020/06/12/mu-health-reports-data-breach/"
+notes: MU Health reports data breach. University of Missouri Health Care said Thursday
+  that it has notified patients affected by a September data breach. The organization
+  said in a news release that it finished those notifications May 5. The stolen information
+  might have included names, birth dates, medical record numbers, health insurance
+  information and "limited treatment and/or clinical information," according to the
+  release. Some patients' Social Security numbers were also compromised, MU Health
+  said.

@@ -1,0 +1,13 @@
+source_name: "French Presidential Campaign (En Marche! / Macron) Hack — APT28, #MacronLeaks"
+source_url: "https://www.washingtonpost.com/world/europe/hackers-hit-macron-campaign-with-massive-email-dump/2017/05/05/3ca40306-318d-11e7-9dec-764dc781686f_story.html"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2017-05-05"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "APT28 (GRU / Fancy Bear) spearphishing targeting En Marche! campaign staff with credential-harvesting domains mimicking the campaign's email infrastructure; phishing domains registered beginning in March 2017"
+cve: []
+vendor_product: "En Marche! presidential campaign (Emmanuel Macron, France)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In the final hours before France's legally mandated media blackout ahead of the May 7, 2017 presidential election runoff, approximately 9GB of documents and emails allegedly stolen from Emmanuel Macron's En Marche! campaign were dumped on a file-sharing site and amplified by far-right social media accounts under the hashtag #MacronLeaks. The leak occurred at 11:00 PM on May 5, 2017 — just as the media blackout was taking effect — to maximize damage while preventing press scrutiny. The data included campaign emails, financial documents, and personal files. French electoral authorities (CNCCEP) warned media not to publish the leaked material as it had not been independently verified and contained fabricated documents mixed with authentic ones. US cybersecurity firm ThreatConnect and Japanese firm Trend Micro both attributed the phishing infrastructure targeting the campaign to APT28 based on shared TTPs with previous Fancy Bear operations including domain registration patterns and WHOIS artifacts. Vitali Kremez (Flashpoint) and others corroborated the attribution. Unlike the 2016 DNC hack, the #MacronLeaks operation had limited impact — the French press largely respected the blackout, Macron won the election by a wide margin, and several clearly fabricated documents in the dump undermined the leak's credibility. The French cybersecurity agency ANSSI stated it could not attribute the attack with certainty to APT28 due to the use of commodity infrastructure, but noted the TTPs were consistent. General Paul Nakasone later confirmed that US Cyber Command had taken offensive measures to 'blind' and disrupt Russian hackers in the days before the French election, though it is unclear whether this affected the Macron operation. The incident demonstrated that influence operations mixed with leaked (and fabricated) documents can be partially blunted by a vigilant press and election authorities."

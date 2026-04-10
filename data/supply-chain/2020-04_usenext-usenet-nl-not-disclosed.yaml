@@ -1,15 +1,20 @@
 source_name: UseNeXt, Usenet.nl Third-Party Breach (April 2020)
-source_url: "https://www.zdnet.com/article/two-usenet-providers-blame-data-breaches-on-partner-company/"
+source_url: https://www.zdnet.com/article/two-usenet-providers-blame-data-breaches-on-partner-company/
 date_of_breach: 2020-04-01
 date_of_disclosure: 2020-04-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, UseNeXt, Usenet.nl experienced a data security incident via a third-party vendor relationship. Source
-  reporting: https://www.zdnet.com/article/two-usenet-providers-blame-data-breaches-on-partner-company/
+notes: 'Two Usenet providers blame data breaches on partner company. Editor''s note:
+  This article was updated on July 8, 2025, to reflect new information discovered
+  by an external investigation in May 2020. Two companies that provide Usenet services
+  have disclosed security breaches today. The two companies, UseNeXT and Usenet.nl,
+  blamed the breaches on "a security vulnerability at a partner company.". Neither
+  UseNeXT nor Usenet.nl has named the third-party company whose software enabled the
+  intrusion. It is unclear if this is referring to a Usenet desktop client or a server-side
+  service.'

@@ -1,0 +1,13 @@
+source_name: "Indiana University Data Exposure — 146,000 Social Security Numbers"
+source_url: "https://www.theindystar.com/story/news/2014/07/10/iu-notifying-146000-students-of-possible-data-exposure/12543031/"
+date_of_breach: "2014-01-01"
+date_of_disclosure: "2014-07-10"
+date_of_customer_notification: "2014-07-10"
+category: "data-leak"
+initial_attack_vector: "Data exposure — files containing student and former student personally identifiable information including Social Security numbers were left accessible on a publicly reachable server without proper access controls; discovered during a routine security audit"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Indiana University discovered in May 2014 that files containing Social Security numbers and other personal data for approximately 146,000 current and former students had been inadvertently exposed on a publicly accessible server since at least January 2014. The files had been accessible to anyone who knew or found the URL for approximately six months before being discovered during an internal security audit. Indiana University disclosed the exposure in July 2014. Exposed data included names, Social Security numbers, and student ID numbers. The university notified all affected individuals, offered free credit monitoring, and worked to determine if the data had been accessed by unauthorized parties. Web access logs indicated some external access, but it was unclear whether the exposure was exploited maliciously. The incident was one of several higher education data incidents in 2014 and underscored the risks of improperly secured institutional data stores."

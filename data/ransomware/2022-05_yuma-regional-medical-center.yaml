@@ -1,0 +1,13 @@
+source_name: "Yuma Regional Medical Center Ransomware — 700K Patients, Arizona"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2022-04-25"
+date_of_disclosure: "2022-07-06"
+date_of_customer_notification: "2022-07-06"
+category: "ransomware"
+initial_attack_vector: "Ransomware group breached Yuma Regional Medical Center's network, gaining access to systems containing patient information; the specific initial access vector was not publicly disclosed"
+cve: []
+vendor_product: "Yuma Regional Medical Center hospital IT systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 25 April 2022, Yuma Regional Medical Center (YRMC) — the primary regional hospital for southwestern Arizona serving Yuma, Arizona and surrounding areas — discovered a ransomware attack. YRMC is the largest hospital in the region and operates a 406-bed facility. The attackers accessed and potentially exfiltrated patient data before triggering ransomware encryption. YRMC filed a breach notification with HHS OCR disclosing that approximately 700,000 individuals were affected. Exposed information included names, Social Security numbers, health insurance information, medical record numbers, and in some cases clinical information. YRMC notified affected patients beginning in July 2022 and offered credit monitoring services. The attack required YRMC to temporarily revert to manual paper-based procedures for patient care during recovery. The hospital serves one of the more geographically isolated hospital catchment areas in the US, with patients having limited alternatives during any service disruption. YRMC restored systems and returned to normal operations, but the breach represented significant exposure of health information for a large proportion of the regional population."

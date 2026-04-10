@@ -1,16 +1,18 @@
-source_name: United Parcel Service (UPS) and Norfolk Southern Railroad Third-Party Breach (January 2021)
-source_url: "https://www.infosecurity-magazine.com/news/truckers-medical-records-leaked/?&web_view=true"
+source_name: United Parcel Service (UPS) and Norfolk Southern Railroad Third-Party
+  Breach (January 2021)
+source_url: https://www.infosecurity-magazine.com/news/truckers-medical-records-leaked/?&web_view=true
 date_of_breach: 2021-01-01
-date_of_disclosure: 2021-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-01-21'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Taylor Made Diagnostics (TMD)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, United Parcel Service (UPS) and Norfolk Southern Railroad experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was Taylor Made Diagnostics (TMD). Source
-  reporting: https://www.infosecurity-magazine.com/news/truckers-medical-records-leaked/?&web_view=true
+notes: 'Truckers'' Medical Records Leaked. Ransomware attack on Virginia healthcare
+  provider may have exposed medical records of transport workers. Medical records
+  belonging to truck drivers and rail workers may have been exposed following an alleged
+  cyber-attack on an occupational healthcare provider in Virginia. Third-party company:
+  Taylor Made Diagnostics (TMD).'

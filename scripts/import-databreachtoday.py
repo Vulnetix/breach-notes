@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Import incident-like articles from DataBreachToday article sitemaps.
+Import incident-focused entries from DataBreachToday article sitemaps.
 
 Run:
   uv run --with pyyaml --with requests --with beautifulsoup4 \
-    python scripts/import-databreachtoday.py --max-new 300
+    python scripts/import-databreachtoday.py --max-new 250
 """
 
 from __future__ import annotations
@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
@@ -39,21 +40,7 @@ INCIDENT_TERMS = [
     "malware",
     "extortion",
     "data theft",
-    "incident",
-]
-
-URL_HINT_TERMS = [
-    "breach",
-    "ransomware",
-    "hack",
-    "leak",
-    "stolen",
-    "compromise",
-    "malware",
-    "extortion",
     "phishing",
-    "cyberattack",
-    "cyber-attack",
 ]
 
 
@@ -80,24 +67,20 @@ def load_existing_source_urls() -> set[str]:
     return urls
 
 
-def get(session: requests.Session, url: str, retries: int = 2) -> Optional[str]:
-    for attempt in range(retries):
-        try:
-            resp = session.get(url, timeout=25)
-            if resp.status_code == 200:
-                return resp.text
-            if resp.status_code in (403, 429):
-                time.sleep(0.8 + attempt)
-                continue
-        except Exception:
-            time.sleep(0.8 + attempt)
+def fetch_text(session: requests.Session, url: str, timeout: int = 20) -> Optional[str]:
+    try:
+        r = session.get(url, timeout=timeout)
+        if r.status_code == 200:
+            return r.text
+    except Exception:
+        return None
     return None
 
 
-def parse_date(text: str) -> Optional[str]:
-    text = (text or "").strip()
+def parse_date(date_text: str) -> Optional[str]:
+    date_text = (date_text or "").strip()
     try:
-        return datetime.strptime(text, "%B %d, %Y").strftime("%Y-%m-%d")
+        return datetime.strptime(date_text, "%B %d, %Y").strftime("%Y-%m-%d")
     except Exception:
         return None
 
@@ -136,42 +119,42 @@ def build_filename(category: str, date_str: str, title: str, article_id: int) ->
         i += 1
 
 
-def collect_article_urls(session: requests.Session) -> list[str]:
-    html = get(session, SITEMAP_INDEX)
+def article_id(url: str) -> int:
+    m = re.search(r"-a-(\d+)$", url)
+    return int(m.group(1)) if m else 0
+
+
+def collect_candidates(session: requests.Session) -> list[tuple[str, str]]:
+    html = fetch_text(session, SITEMAP_INDEX, timeout=30)
     if not html:
         return []
 
     sitemap_urls = sorted(set(re.findall(r"https://www\.databreachtoday\.com/articles-sitemap\d+\.html", html)))
 
-    article_urls: set[str] = set()
-    for sitemap in sitemap_urls:
-        page = get(session, sitemap)
+    pairs: list[tuple[str, str]] = []
+    for idx, sitemap in enumerate(sitemap_urls, start=1):
+        page = fetch_text(session, sitemap, timeout=30)
         if not page:
             continue
-        urls = re.findall(r"https://www\.databreachtoday\.com/[^\"<]+-a-\d+", page)
-        article_urls.update(urls)
-        time.sleep(0.15)
 
-    def extract_id(url: str) -> int:
-        m = re.search(r"-a-(\d+)$", url)
-        return int(m.group(1)) if m else 0
+        entries = re.findall(r'<a href="(https://www\.databreachtoday\.com/[^\"]+-a-\d+)">([^<]+)</a>', page)
+        for url, title in entries:
+            low = title.lower()
+            if any(term in low for term in INCIDENT_TERMS):
+                pairs.append((url, title.strip()))
 
-    # Pre-filter by URL slug terms so we do not fetch all 20k articles.
-    filtered = []
-    for url in article_urls:
-        slug = url.split('.com/', 1)[1].rsplit('-a-', 1)[0].lower()
-        if any(term in slug for term in URL_HINT_TERMS):
-            filtered.append(url)
+        print(f"Sitemap {idx}/{len(sitemap_urls)} parsed, candidate count={len(pairs)}")
+        time.sleep(0.1)
 
-    return sorted(filtered, key=extract_id, reverse=True)
+    dedup = {(u, t) for u, t in pairs}
+    return sorted(dedup, key=lambda x: article_id(x[0]), reverse=True)
 
 
-def should_keep(title: str, description: str) -> bool:
-    hay = f"{title} {description}".lower()
-    return any(term in hay for term in INCIDENT_TERMS)
+def fetch_article_metadata(session: requests.Session, url: str) -> Optional[dict]:
+    html = fetch_text(session, url, timeout=20)
+    if not html:
+        return None
 
-
-def parse_article(html: str) -> tuple[str, str, Optional[str]]:
     soup = BeautifulSoup(html, "html.parser")
 
     title = ""
@@ -179,103 +162,107 @@ def parse_article(html: str) -> tuple[str, str, Optional[str]]:
     if t:
         title = t.get_text(" ", strip=True)
     if not title:
-        og = soup.find("meta", attrs={"property": "og:title"})
-        if og and og.get("content"):
-            title = og["content"].strip()
-    if not title and soup.title:
-        title = soup.title.get_text(" ", strip=True).replace(" - DataBreachToday", "")
+        meta_title = soup.find("meta", attrs={"property": "og:title"})
+        if meta_title and meta_title.get("content"):
+            title = meta_title["content"].strip()
+
+    if not title:
+        return None
 
     description = ""
     d = soup.find("meta", attrs={"name": "description"})
     if d and d.get("content"):
         description = d["content"].strip()
 
-    date_text = None
     byline_date = soup.select_one("span.article-byline span.text-nowrap")
-    if byline_date:
-        date_text = byline_date.get_text(" ", strip=True)
+    date = parse_date(byline_date.get_text(" ", strip=True) if byline_date else "")
+    if not date:
+        return None
 
-    return title, description, parse_date(date_text or "")
+    return {
+        "url": url,
+        "title": title,
+        "description": description,
+        "date": date,
+        "article_id": article_id(url),
+    }
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--max-new", type=int, default=300)
-    parser.add_argument("--max-fetch", type=int, default=3000)
+    parser.add_argument("--max-new", type=int, default=250)
+    parser.add_argument("--max-candidates", type=int, default=800)
+    parser.add_argument("--workers", type=int, default=8)
     args = parser.parse_args()
 
     session = requests.Session()
     session.headers.update({"User-Agent": UA})
 
     existing_urls = load_existing_source_urls()
-    article_urls = collect_article_urls(session)
+    candidates = collect_candidates(session)
+
+    candidates = [(u, t) for (u, t) in candidates if normalize_url(u) not in existing_urls]
+    candidates = candidates[: args.max_candidates]
+
+    print(f"Fetching metadata for {len(candidates)} candidate articles...")
 
     added = 0
-    fetched = 0
-    skipped = 0
+    processed = 0
 
-    for url in article_urls:
-        if added >= args.max_new or fetched >= args.max_fetch:
-            break
+    with ThreadPoolExecutor(max_workers=args.workers) as ex:
+        futures = {ex.submit(fetch_article_metadata, session, url): (url, title) for url, title in candidates}
 
-        normalized = normalize_url(url)
-        if normalized in existing_urls:
-            skipped += 1
-            continue
+        for fut in as_completed(futures):
+            processed += 1
+            result = fut.result()
+            if not result:
+                if processed % 100 == 0:
+                    print(f"Processed {processed}/{len(candidates)} (added={added})")
+                continue
 
-        page = get(session, url)
-        fetched += 1
-        if fetched % 100 == 0:
-            print(f"Fetched {fetched} article pages, current added={added}, skipped={skipped}")
-        if not page:
-            skipped += 1
-            continue
+            url = result["url"]
+            normalized = normalize_url(url)
+            if normalized in existing_urls:
+                continue
 
-        title, description, date_str = parse_article(page)
-        if not title or not date_str:
-            skipped += 1
-            continue
+            title = result["title"]
+            description = result["description"]
+            date_str = result["date"]
 
-        if not should_keep(title, description):
-            skipped += 1
-            continue
+            category, supply_chain, vector = infer_category(f"{title} {description}", url)
 
-        article_id_match = re.search(r"-a-(\d+)$", url)
-        article_id = int(article_id_match.group(1)) if article_id_match else 0
+            record = {
+                "source_name": f"{title} (DataBreachToday)",
+                "source_url": url,
+                "date_of_breach": date_str,
+                "date_of_disclosure": date_str,
+                "date_of_customer_notification": "",
+                "category": category,
+                "initial_attack_vector": vector,
+                "cve": re.findall(r"CVE-\d{4}-\d{4,7}", f"{title} {description}", flags=re.I),
+                "vendor_product": "",
+                "software_package": "",
+                "malware": "",
+                "supply_chain_claimed": bool(supply_chain),
+                "notes": f"{description}\n\nSource: DataBreachToday article coverage.",
+            }
 
-        category, supply_chain, vector = infer_category(f"{title} {description}", url)
+            out_path = build_filename(category, date_str, title, result["article_id"])
+            out_path.write_text(yaml.safe_dump(record, sort_keys=False, allow_unicode=True), encoding="utf-8")
 
-        record = {
-            "source_name": f"{title} (DataBreachToday)",
-            "source_url": url,
-            "date_of_breach": date_str,
-            "date_of_disclosure": date_str,
-            "date_of_customer_notification": "",
-            "category": category,
-            "initial_attack_vector": vector,
-            "cve": re.findall(r"CVE-\d{4}-\d{4,7}", f"{title} {description}", flags=re.I),
-            "vendor_product": "",
-            "software_package": "",
-            "malware": "",
-            "supply_chain_claimed": bool(supply_chain),
-            "notes": f"{description}\n\nSource: DataBreachToday article coverage.",
-        }
+            existing_urls.add(normalized)
+            added += 1
 
-        out_path = build_filename(category, date_str, title, article_id)
-        out_path.write_text(yaml.safe_dump(record, sort_keys=False, allow_unicode=True), encoding="utf-8")
+            if added % 25 == 0:
+                print(f"Added {added} records...")
 
-        existing_urls.add(normalized)
-        added += 1
+            if added >= args.max_new:
+                break
 
-        if added % 25 == 0:
-            print(f"Added {added} entries so far...")
+            if processed % 100 == 0:
+                print(f"Processed {processed}/{len(candidates)} (added={added})")
 
-        time.sleep(0.08)
-
-    print(
-        f"DataBreachToday import complete: added={added}, fetched={fetched}, skipped={skipped}, "
-        f"candidate_urls={len(article_urls)}"
-    )
+    print(f"DataBreachToday import complete: added={added}, processed={processed}, candidates={len(candidates)}")
 
 
 if __name__ == "__main__":

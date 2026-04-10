@@ -1,0 +1,13 @@
+source_name: "Samy Worm — MySpace XSS Self-Propagating Worm (1 Million Infected in 20 Hours)"
+source_url: "https://samy.pl/myspace/tech.html"
+date_of_breach: "2005-10-04"
+date_of_disclosure: "2005-10-04"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Stored cross-site scripting (XSS) — the worm exploited a flaw in MySpace's profile page rendering that allowed JavaScript injection despite MySpace's attempted input sanitization; the author used CSS style attributes to smuggle JavaScript that MySpace's filters failed to strip"
+cve: []
+vendor_product: "MySpace social network"
+software_package: ""
+malware: "Samy worm (JS/Samy)"
+supply_chain_claimed: false
+notes: "On October 4, 2005, Samy Kamkar released a self-propagating JavaScript worm on MySpace, the then-dominant social network. The worm exploited a stored XSS vulnerability in MySpace profile pages. When any MySpace user viewed an infected profile, the worm silently (1) added Samy as a friend on the victim's profile, (2) added the text 'but most of all, samy is my hero' to their profile, and (3) copied itself to the victim's profile so that anyone who subsequently viewed the victim's profile would also be infected. The worm spread exponentially: within 20 hours approximately 1 million MySpace accounts had been compromised and Samy had been added as a friend — making it the fastest-spreading virus or worm in history at the time. MySpace took the site offline temporarily to remove the worm. Kamkar was contacted by the Secret Service and pled guilty in 2006 to one count of computer crime under California law; he was sentenced to three years probation, 720 hours community service, and a $20,000 fine (no jail time). He was prohibited from profiting from security research for three years. The worm is historically significant as the first widely noticed large-scale, self-replicating XSS worm, demonstrating that client-side script injection could cause the same exponential propagation as traditional network worms. Kamkar published a detailed technical writeup of the techniques used, which became foundational reading in web security education."

@@ -1,0 +1,13 @@
+source_name: "Imgur Breach — 1.7M Email Addresses and Passwords (2013, Discovered 2017)"
+source_url: "https://imgur.com/blog/2017/11/24/imgur-security-notice/"
+date_of_breach: "2013-01-01"
+date_of_disclosure: "2017-11-24"
+date_of_customer_notification: "2017-11-24"
+category: "data-leak"
+initial_attack_vector: "Database compromise of Imgur's user account database; the breach occurred in 2013 but was not discovered until security researcher Troy Hunt shared a file containing Imgur credentials with the company in November 2017; the precise initial attack vector was not identified due to the years-long delay"
+cve: []
+vendor_product: "Imgur (image hosting platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2017, security researcher Troy Hunt (operator of Have I Been Pwned) notified Imgur that a dataset containing 1.7 million Imgur user email addresses and passwords had been shared with him. Imgur investigated and confirmed a breach had occurred, determining it had taken place sometime in 2013 — approximately four years before discovery. Imgur disclosed the breach publicly on November 24, 2017 (Thanksgiving Day in the US). The stolen data included email addresses and passwords hashed with the SHA-256 algorithm. At the time of the 2013 breach, Imgur used SHA-256 without salting for password hashing, making the passwords more susceptible to cracking via rainbow tables or dictionary attacks. Imgur reset passwords for all 1.7 million affected accounts and notified affected users by email. Because the breach involved only email addresses and passwords (Imgur's service did not require real names or other personal information), the scope of potential harm was limited compared to many other breaches. The incident highlighted the persistent risk of discovering historical breaches years after they occur, particularly for platforms with large user bases, and the value of researchers like Troy Hunt who maintain databases of stolen credentials to facilitate breach discovery."

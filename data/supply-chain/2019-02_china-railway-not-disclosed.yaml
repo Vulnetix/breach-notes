@@ -1,15 +1,21 @@
 source_name: China Railway Third-Party Breach (February 2019)
-source_url: "https://technode.com/2019/02/01/hacking-gone-off-the-rails-holiday-travelers-react-to-data-breach/"
+source_url: https://technode.com/2019/02/01/hacking-gone-off-the-rails-holiday-travelers-react-to-data-breach/
 date_of_breach: 2019-02-01
 date_of_disclosure: 2019-02-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, China Railway experienced a data security incident via a third-party vendor relationship. Source
-  reporting: https://technode.com/2019/02/01/hacking-gone-off-the-rails-holiday-travelers-react-to-data-breach/
+notes: 'Hacking, gone off the rails: Holiday travelers react to data breach · TechNode.
+  We went to Beijing’s busiest train stations to ask travelers about the recent ticket-platform
+  hacking incident. Train passengers may be riding into the Chinese New Year with
+  concerns about data loss after thieves listed millions of train passengers’ information
+  for sale on the black market. China’s official rail authority, China Railway, blamed
+  a recent hacking on third-party ticketing vendors, often thought to be more convenient,
+  though perhaps less secure, than the official railway ticketing platform, 12306.cn.
+  Earlier this week, it was reported that China Railway moved to limit third-party
+  apps’ access to train tickets.'

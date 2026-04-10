@@ -1,16 +1,19 @@
 source_name: Nedbank Third-Party Breach (February 2020)
-source_url: "https://www.zdnet.com/article/nedbank-says-1-7-million-customers-impacted-by-breach-at-third-party-provider/"
+source_url: https://www.zdnet.com/article/nedbank-says-1-7-million-customers-impacted-by-breach-at-third-party-provider/
 date_of_breach: 2020-02-01
-date_of_disclosure: 2020-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-02-14'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Computer Facilities (Pty) Ltd
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Nedbank experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Computer Facilities (Pty) Ltd. Source reporting:
-  https://www.zdnet.com/article/nedbank-says-1-7-million-customers-impacted-by-breach-at-third-party-provider/
+notes: 'Nedbank says 1.7 million customers impacted by breach at third-party provider.
+  Hacker(s) believed to have exploited a vulnerability to breach Nedbank''s marketing
+  contractor. Nedbank, one of the biggest banks in the South Africa region, has disclosed
+  a security incident yesterday that impacted the personal details of 1.7 million
+  users. The bank says the breach occurred at Computer Facilities (Pty) Ltd, a South
+  African company the bank was using to send out marketing and promotional campaigns.
+  Third-party company: Computer Facilities (Pty) Ltd.'

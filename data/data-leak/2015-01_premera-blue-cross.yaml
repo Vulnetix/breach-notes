@@ -1,0 +1,13 @@
+source_name: "Premera Blue Cross Data Breach (11M Members, APT)"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/premera/index.html"
+date_of_breach: "2014-05-05"
+date_of_disclosure: "2015-03-17"
+date_of_customer_notification: "2015-03-17"
+category: "data-leak"
+initial_attack_vector: "Nation-state attackers (believed to be Chinese APT, same campaign as Anthem breach) gained initial access via spear-phishing email with malicious attachment; established persistent access to Premera's IT environment for approximately 9 months before detection"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Premera Blue Cross, one of the largest health insurance carriers in the Pacific Northwest, disclosed in March 2015 that attackers had gained access to its IT systems beginning May 5, 2014 — approximately 9–10 months before discovery. The breach affected approximately 11 million individuals, including members of Premera Blue Cross, Premera Blue Cross Blue Shield of Alaska, and affiliated companies Vivacity and Connexion Technologies. Exposed data included names, dates of birth, email addresses, addresses, telephone numbers, Social Security numbers, member identification numbers, bank account information, and claims data including clinical information. The attack was attributed to the same Chinese state-sponsored APT group (believed to be APT10 or a related group) responsible for the contemporaneous Anthem breach (also disclosed in early 2015, affecting 78.8 million). In 2019, HHS OCR settled with Premera for $6.85 million — one of the largest HIPAA settlements at the time — for failures to identify and address security vulnerabilities. Premera also paid $10 million to settle a multistate attorney general investigation in 2020."

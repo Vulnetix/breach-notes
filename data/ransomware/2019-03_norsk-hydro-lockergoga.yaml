@@ -1,0 +1,13 @@
+source_name: "Norsk Hydro / Norwegian NCSC / Wired / Reuters"
+source_url: "https://www.wired.com/story/notpetya-meets-its-match-lockergoga/"
+date_of_breach: "2019-03-19"
+date_of_disclosure: "2019-03-19"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (Active Directory compromise via stolen credentials, possibly via prior phishing)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "LockerGoga"
+supply_chain_claimed: false
+notes: "LockerGoga ransomware struck Norsk Hydro, one of the world's largest aluminium producers, on March 19 2019. The attack spread across 22,000 computers in 40 countries, encrypting files and forcing the company to switch to manual operations across smelting plants and factories worldwide. Norsk Hydro refused to pay the ransom, choosing to restore from backups. The company was praised for its transparent public communications throughout the incident. Total estimated losses reached $71M–$75M USD, making it one of the most costly ransomware incidents to that date. LockerGoga was notable for disabling network interfaces on infected hosts, preventing lateral movement detection but also isolating infected machines. Norwegian and US authorities attributed the attack to a criminal group; no ransom was paid."

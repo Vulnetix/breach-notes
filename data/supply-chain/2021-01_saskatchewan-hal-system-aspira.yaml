@@ -1,16 +1,20 @@
 source_name: Saskatchewan HAL system Third-Party Breach (January 2021)
-source_url: "https://globalnews.ca/news/7573195/saskatchewan-privacy-commissioner-hunting-licence-breach/?&web_view=true"
+source_url: https://globalnews.ca/news/7573195/saskatchewan-privacy-commissioner-hunting-licence-breach/?&web_view=true
 date_of_breach: 2021-01-01
-date_of_disclosure: 2021-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-01-13'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Aspira
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Saskatchewan HAL system experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was Aspira. Source reporting:
-  https://globalnews.ca/news/7573195/saskatchewan-privacy-commissioner-hunting-licence-breach/?&web_view=true
+notes: 'Saskatchewan privacy commissioner investigates potential breach of hunting
+  licensing system | Globalnews.ca. Saskatchewan''s privacy commissioner is currently
+  investigating a possible security breach involving the province’s hunting, angling,
+  and trapping licence system. Saskatchewan’s privacy commissioner is investigating
+  a potential privacy breach involving the province’s hunting, angling, and trapping
+  licence system ( HAL system ). The province said the incident occurred on Jan. 7
+  when an email regarding Hunter Harvest surveys was sent to HAL customers from a
+  third-party agency called Aspira. Third-party company: Aspira.'

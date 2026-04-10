@@ -1,0 +1,13 @@
+source_name: "Cosmos Bank India ATM Cashout ($13.5M, Proxy Switch, 28 Countries)"
+source_url: "https://www.bleepingcomputer.com/news/security/hackers-steal-135-million-from-indias-cosmos-bank/"
+date_of_breach: "2018-08-11"
+date_of_disclosure: "2018-08-14"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Attackers pre-positioned malware on Cosmos Bank's ATM payment switch infrastructure (the server that approves/declines ATM transactions); the malware created a fraudulent proxy switch that intercepted card authorization requests and returned approvals for compromised cloned cards, bypassing the legitimate Visa/RuPay networks"
+cve: []
+vendor_product: "Bank ATM payment switch server"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On August 11 and 13, 2018, Cosmos Co-operative Bank Ltd. of Pune, India — one of India's oldest cooperative banks — suffered a sophisticated two-weekend ATM cashout operation stealing approximately ₹94.42 crore (~$13.5 million USD). Attackers had pre-positioned malware on the bank's ATM switch server that created a fraudulent proxy authorization system: when pre-loaded clone cards were used at ATMs, the malware intercepted the authorization request and returned a fraudulent approval (bypassing both Visa and RuPay's actual authorization networks). On August 11 (weekend 1), attackers used cloned Visa debit cards at ATMs in 28 countries simultaneously, withdrawing approximately ₹78 crore (~$11.5M). On August 13 (weekend 2), a similar operation targeted RuPay (India's domestic card network) domestically. Additionally, attackers submitted a fraudulent SWIFT transfer of approximately ₹13.92 crore (~$2M) to a Hang Seng Bank account in Hong Kong. The Pune Cyber Police filed an FIR and investigated; the attack was attributed to Lazarus Group (DPRK) by multiple researchers based on TTP similarities to prior North Korean financial attacks. The Reserve Bank of India subsequently issued emergency cybersecurity guidelines to all cooperative banks. The Cosmos Bank attack illustrated how compromising payment switch infrastructure enables simultaneous global cashouts that exhaust ATM cash across dozens of countries before fraud detection systems can respond."

@@ -1,0 +1,13 @@
+source_name: "Wattpad Data Breach (268M Users, ShinyHunters)"
+source_url: "https://www.bleepingcomputer.com/news/security/wattpad-data-breach-exposes-account-info-for-millions-of-users/"
+date_of_breach: "2020-06-01"
+date_of_disclosure: "2020-07-14"
+date_of_customer_notification: "2020-07-14"
+category: "credential-theft"
+initial_attack_vector: "Unauthorized database access by ShinyHunters threat group; exact initial access vector not disclosed by Wattpad; database exfiltrated containing 268M user account records"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In approximately June 2020, ShinyHunters — a prolific cybercrime group responsible for multiple major 2020 breaches (Tokopedia, Dave.com, Microsoft GitHub repos) — breached Wattpad and exfiltrated approximately 268 million user records. The database was initially offered for sale at $100,000 on hacking forums, but was eventually published for free on hacking forums in July 2020 after failing to find buyers at the asking price. BleepingComputer and Troy Hunt (HaveIBeenPwned) reported on the breach on July 14, 2020. Exposed data included usernames, email addresses, IP addresses, dates of birth (a concern given many Wattpad users are minors), passwords (bcrypt-hashed), gender, geographic location, and various account metadata. Wattpad forced password resets and notified affected users. The breach raised COPPA and GDPR compliance concerns given Wattpad's large population of young and underage users. The breach was part of a major wave of ShinyHunters activity throughout 2020 that exposed over 1 billion records combined from multiple platforms. Wattpad is a user-generated stories platform particularly popular with teenagers and young adults; at the time of the breach it had over 90 million monthly active users and had been recently acquired by South Korean company Naver."

@@ -1,0 +1,13 @@
+source_name: "BJ's Wholesale Club Payment Card Breach (FTC Consent Order)"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2005/06/bjs-wholesale-club-settles-ftc-charges"
+date_of_breach: "2003-01-01"
+date_of_disclosure: "2004-04-01"
+date_of_customer_notification: "2004-04-01"
+category: "credential-theft"
+initial_attack_vector: "Attackers gained access to BJ's wireless network and exploited security weaknesses to intercept payment card data; BJ's stored full magnetic stripe data and CVV codes in violation of card network rules, and failed to use encryption on its wireless network"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "BJ's Wholesale Club, a members-only retail warehouse chain on the US East Coast, suffered payment card data breaches beginning as early as 2003 due to systemic security failures, including using WEP encryption (easily crackable) on its wireless network, storing full magnetic stripe data (including CVV codes) long after transactions were completed in violation of Visa and MasterCard operating rules, and failing to use firewalls or intrusion detection. Fraudulent charges were detected in multiple states based on card data stolen from BJ's stores. The FTC sued BJ's Wholesale Club in June 2005, alleging its security failures constituted unfair business practices — one of the first FTC data security enforcement actions against a retailer under Section 5 of the FTC Act. BJ's settled with a consent order requiring it to implement a comprehensive information security program with biennial third-party audits for 20 years. The case was a precursor to the landmark FTC v. Wyndham case establishing the FTC's cybersecurity enforcement authority. No financial penalty was imposed. The case highlighted the dangers of storing full track data post-transaction, which later became a key PCI DSS prohibition."

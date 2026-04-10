@@ -1,16 +1,21 @@
-source_name: e-commerce sites that partner with Adverline Third-Party Breach (January 2019)
-source_url: "https://blog.trendmicro.com/trendlabs-security-intelligence/new-magecart-attack-delivered-through-compromised-advertising-supply-chain/"
+source_name: e-commerce sites that partner with Adverline Third-Party Breach (January
+  2019)
+source_url: https://blog.trendmicro.com/trendlabs-security-intelligence/new-magecart-attack-delivered-through-compromised-advertising-supply-chain/
 date_of_breach: 2019-01-01
-date_of_disclosure: 2019-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-01-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Adverline
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, e-commerce sites that partner with Adverline experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was Adverline. Source reporting:
-  https://blog.trendmicro.com/trendlabs-security-intelligence/new-magecart-attack-delivered-through-compromised-advertising-supply-chain/
+notes: 'Magecart Delivered Via Advertising Supply Chain. We detected a significant
+  increase in activity from one of the web skimmer groups we’ve been tracking.We found
+  their malicious skimming code loaded on 277 e-commerce websites providing a variety
+  of products and services. Figure 2: Timeline of web-skimming activities that accessed
+  malicious domains (top); and country distribution of where they were accessed, from
+  January 1 to January 6 (bottom) Note: Data from Trend Micro™ Smart Protection Network
+  ™. Figure 3: The malicious code injected into compromised e-commerce websites by
+  Magecart Group 12. Third-party company: Adverline.'

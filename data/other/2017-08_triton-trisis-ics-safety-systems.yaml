@@ -1,0 +1,13 @@
+source_name: "TRITON/TRISIS Malware: First Attack Targeting Industrial Safety Systems (Saudi Aramco Petrochemical)"
+source_url: "https://www.technologyreview.com/2019/03/05/103328/cybersecurity-critical-infrastructure-triton-malware/"
+date_of_breach: "2017-06-01"
+date_of_disclosure: "2017-12-14"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Russian state-sponsored actors (attributed to the Central Scientific Research Institute of Chemistry and Mechanics / CNIIHM, Moscow) gained IT network access via spear-phishing, pivoted to the OT network, then developed a zero-day exploit targeting Schneider Electric Triconex Safety Instrumented System (SIS) controllers"
+cve: []
+vendor_product: "Schneider Electric Triconex Safety Instrumented System (SIS)"
+software_package: ""
+malware: "TRITON (TRISIS, HatMan)"
+supply_chain_claimed: false
+notes: "TRITON (also known as TRISIS and HatMan) is the world's first known malware specifically designed to attack industrial Safety Instrumented Systems (SIS) — the last line of automated defense designed to shut down industrial processes before they cause physical harm or catastrophic events. The attack targeted a Saudi Arabian petrochemical facility (believed to be TASNEE's Sadara Chemical Company plant in Saudi Arabia) between approximately June and December 2017. Attackers gained initial access to the IT network via spear-phishing, then pivoted to the engineering workstation on the OT network that communicated with the Triconex SIS controllers. TRITON used a zero-day in Triconex's TriStation 1131 software to reprogram the SIS controllers with malicious logic intended to disable safety shutdowns during an attack, enabling a subsequent physical attack to cause maximum damage. The attack was accidentally discovered when two SIS controllers entered failsafe mode (a bug in TRITON caused it to crash the controllers rather than silently reprogram them), triggering an emergency shutdown that alerted plant operators. The US, UK, and Australia formally attributed TRITON to Russia's CNIIHM in 2022. TRITON represents a quantum escalation in ICS/OT threat sophistication — moving beyond disruption (as with BlackEnergy/Industroyer) to enabling physical destruction with potential loss of life."

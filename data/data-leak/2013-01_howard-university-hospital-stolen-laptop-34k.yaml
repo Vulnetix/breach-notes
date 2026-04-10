@@ -1,0 +1,13 @@
+source_name: "Howard University Hospital Stolen Laptop — 34,503 Patients"
+source_url: "https://www.databreaches.net/howard-university-hospital-reports-breach-affecting-34503-patients/"
+date_of_breach: "2012-11-01"
+date_of_disclosure: "2013-01-18"
+date_of_customer_notification: "2013-01-18"
+category: "data-leak"
+initial_attack_vector: "Physical theft — an unencrypted laptop computer containing patient data was stolen from Howard University Hospital"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Howard University Hospital in Washington, D.C. disclosed in January 2013 that an unencrypted laptop containing information on approximately 34,503 patients had been stolen. The laptop contained patient names, dates of birth, Social Security numbers, and medical record information. Howard University Hospital notified affected patients and reported the breach to the HHS Office for Civil Rights, as required under the HIPAA Breach Notification Rule for breaches affecting 500 or more individuals. The hospital offered affected patients one year of free credit monitoring services. Howard University Hospital had previously experienced a HIPAA enforcement issue in 2010 when HHS investigated a complaint — the 2013 laptop theft reflected continuing challenges with securing unencrypted portable devices containing PHI. The incident is one of numerous similar healthcare laptop theft breaches from the 2010-2013 era, representing the single most common category of large HIPAA breach during that period. Unencrypted laptops and portable media accounted for a substantial majority of major healthcare breaches reported to HHS OCR during 2010-2014, prompting repeated HHS OCR guidance emphasizing the need for full-disk encryption of all portable devices containing PHI."

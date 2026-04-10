@@ -1,0 +1,13 @@
+source_name: "CFPB Employee Emailed Sensitive Consumer Data to Personal Email Account"
+source_url: "https://www.reuters.com/legal/government/us-consumer-financial-watchdog-employee-sent-personal-data-256000-consumers-2023-03-21/"
+date_of_breach: "2023-02-14"
+date_of_disclosure: "2023-03-21"
+date_of_customer_notification: "2023-03-21"
+category: "data-leak"
+initial_attack_vector: "Insider data exfiltration — a Consumer Financial Protection Bureau (CFPB) employee used their authorized access to CFPB systems to send 14 emails containing sensitive consumer data to their personal email account without authorization"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "The U.S. Consumer Financial Protection Bureau (CFPB) disclosed in March 2023 that a former CFPB employee had sent 14 emails containing sensitive personal and financial information on approximately 256,000 consumers to their personal email account. The data included personally identifiable information and financial data that consumers had provided to approximately 7 financial institutions in connection with CFPB supervisory activities. The employee, who subsequently resigned, sent the emails in February 2023. The CFPB notified the affected financial institutions and reported the incident to relevant authorities. The agency stated there was no evidence the data was further transmitted, misused, or that malicious intent was established — it appeared to be an unauthorized exfiltration rather than espionage. The CFPB reported the breach to Congress as required, triggering oversight attention. The incident is notable in the context of ongoing concerns about insider threats at federal agencies and the sensitivity of financial data held by regulatory bodies. It also occurred during a period of intense political scrutiny of the CFPB. The case illustrates a common insider threat pattern: an employee with legitimate access uses that access to exfiltrate data to personal accounts, typically in connection with resignation or job transition, without implementing adequate data loss prevention (DLP) controls to detect or block such transmissions."

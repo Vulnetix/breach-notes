@@ -1,16 +1,22 @@
 source_name: El Centro Regional Medical Center Third-Party Breach (November 2018)
-source_url: "https://www.ivpressonline.com/news/local/ecrmc-warns-job-applicants-of-data-breach/article_e61ee9e0-ed3f-11e8-91ad-eb7e884c6340.html"
+source_url: https://www.ivpressonline.com/news/local/ecrmc-warns-job-applicants-of-data-breach/article_e61ee9e0-ed3f-11e8-91ad-eb7e884c6340.html
 date_of_breach: 2018-11-01
 date_of_disclosure: 2018-11-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Jobscience, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2018, El Centro Regional Medical Center experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Jobscience, Inc.. Source reporting:
-  https://www.ivpressonline.com/news/local/ecrmc-warns-job-applicants-of-data-breach/article_e61ee9e0-ed3f-11e8-91ad-eb7e884c6340.html
+notes: 'ECRMC warns job applicants of data breach. **Get unlimited access with our
+  Fair Special - Digital Access Subscription.** Read our E-Edition, the digital replica
+  of the print newspaper online, access content in exclusive sections including Family,
+  Health, Business, Farm and more. Use promo code**digitalfair** to take advantage
+  of this offer. **Get unlimited access to all content and features at ivpressonline.com
+  with our Full Online Access Subscription.**Read our E-Edition, the digital replica
+  of the print newspaper online, access content in exclusive sections including Family,
+  Teen, Business, Databases, Farm and more.This option does not include daily home
+  delivery of the Imperial Valley Press newspaper. For home delivery service, please
+  select Premium or Premium Plus. Third-party company: Jobscience, Inc..'

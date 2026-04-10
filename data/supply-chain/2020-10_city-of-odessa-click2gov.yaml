@@ -1,16 +1,13 @@
 source_name: City of Odessa Third-Party Breach (October 2020)
-source_url: "https://www.yourbasin.com/news/local-news/security-breach-in-city-of-odessa/"
+source_url: https://www.yourbasin.com/news/local-news/security-breach-in-city-of-odessa/
 date_of_breach: 2020-10-01
 date_of_disclosure: 2020-10-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, City of Odessa experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Click2Gov. Source reporting:
-  https://www.yourbasin.com/news/local-news/security-breach-in-city-of-odessa/
+notes: 'Third-party company: Click2Gov.'

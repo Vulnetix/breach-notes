@@ -1,16 +1,18 @@
 source_name: Austin ISD Third-Party Breach (March 2021)
-source_url: "https://www.kvue.com/article/news/education/schools/austin-isd-warns-of-possible-data-breach/269-84d44049-e725-4ede-9d8d-4ae7959f6eb3"
+source_url: https://www.kvue.com/article/news/education/schools/austin-isd-warns-of-possible-data-breach/269-84d44049-e725-4ede-9d8d-4ae7959f6eb3
 date_of_breach: 2021-03-01
 date_of_disclosure: 2021-03-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Austin ISD experienced a data security incident via a third-party vendor relationship. Source
-  reporting:
-  https://www.kvue.com/article/news/education/schools/austin-isd-warns-of-possible-data-breach/269-84d44049-e725-4ede-9d8d-4ae7959f6eb3
+notes: Austin ISD warns of possible data breach. Those who have been affected are
+  being offered free identity monitoring. AUSTIN, Texas — Austin ISD notified parents
+  last week after it was made aware of a possible data breach involving a former third-party
+  vendor. According to the letter, there hasn't been any evidence that personal information
+  was used for malicious purposes. It also said that those who have been affected
+  are being offered free identity monitoring.

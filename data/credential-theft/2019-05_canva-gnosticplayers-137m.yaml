@@ -1,0 +1,13 @@
+source_name: "Canva Data Breach (137M Users, GnosticPlayers)"
+source_url: "https://support.canva.com/account-settings/privacy-and-security/canva-security-incident/"
+date_of_breach: "2019-05-24"
+date_of_disclosure: "2019-05-24"
+date_of_customer_notification: "2019-05-24"
+category: "credential-theft"
+initial_attack_vector: "Unauthorized database access by threat actor GnosticPlayers; attacker claimed to have exploited a vulnerability in Canva's systems (exact vector not publicly confirmed by Canva); affected database contained user account records including bcrypt-hashed passwords"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On May 24, 2019, Canva — the Australian graphic design SaaS platform — suffered a data breach in which threat actor GnosticPlayers exfiltrated approximately 137 million user records. Canva was notified by Troy Hunt (HaveIBeenPwned) after the actor attempted to sell the data on underground markets, and notified users the same day. GnosticPlayers was a prolific 2019 breach actor responsible for stealing over 1 billion records across 8+ companies in early 2019 (including data later comprising Collection #1, Evite, GameSalad, Youthmanual, etc.). Exposed data included usernames, real names, email addresses, country of origin, bcrypt-hashed passwords (for approximately 61 million accounts), and partial payment information. Users who authenticated via Google OAuth had Google token data exposed. Canva forced password resets and invalidated OAuth tokens for affected accounts. While bcrypt password hashes are computationally expensive to crack (significantly more secure than MD5/SHA1), the exposure of 137M email/username combinations created substantial credential stuffing risk. The breach was one of the largest affecting an Australian tech company and prompted increased scrutiny of Canva's security practices as the company was preparing for an IPO."

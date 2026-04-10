@@ -1,0 +1,13 @@
+source_name: "Saks Fifth Avenue / Lord & Taylor FIN7 POS Breach (5M Cards)"
+source_url: "https://krebsonsecurity.com/2018/04/saks-fifth-avenue-lord-taylor-stores-hacked/"
+date_of_breach: "2017-05-01"
+date_of_disclosure: "2018-04-02"
+date_of_customer_notification: "2018-04-02"
+category: "credential-theft"
+initial_attack_vector: "FIN7 cybercrime syndicate (affiliated with Joker's Stash carding marketplace) deployed POS malware across all Lord & Taylor stores and 83 Saks Fifth Avenue locations in North America; malware captured payment card Track data from magnetic stripe readers at physical retail locations"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "BOOSTWRITE / POS malware (FIN7)"
+supply_chain_claimed: false
+notes: "Between approximately May 2017 and March 2018 (approximately 10 months), the FIN7 cybercriminal organization's Joker's Stash carding marketplace operators deployed POS malware across the entirety of Lord & Taylor and 83 Saks Fifth Avenue stores in North America. On March 28–April 2, 2018, JokerStash announced a batch of 5 million stolen cards (dubbed 'BIGBADABOOM-2') on underground carding forums, and Hudson's Bay Company (the parent company of Saks and Lord & Taylor) confirmed the breach on April 2, 2018. Initially 125,000 cards were put up for sale as a sample, with the full 5 million to be released in stages. The breach affected only in-store physical purchases — e-commerce transactions were unaffected. Exposed data: payment card numbers, expiration dates, cardholder names, and in some cases CVVs. No SSNs or other personal data were confirmed stolen. The majority of affected cards were from NY and NJ locations. Hudson's Bay offered free identity protection services to affected customers. FIN7 was one of the most prolific financial crime groups of the 2017–2019 era, also responsible for breaching Chipotle, Arby's, and hundreds of other U.S. restaurant and retail chains."

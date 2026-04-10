@@ -1,0 +1,13 @@
+source_name: "Sutter Health Stolen Laptop (4.24M Patients, Largest 2011 Healthcare Breach)"
+source_url: "https://www.hipaajournal.com/sutter-health-breach-exposes-records-4-24-million-patients/"
+date_of_breach: "2011-10-15"
+date_of_disclosure: "2011-11-16"
+date_of_customer_notification: "2011-11-16"
+category: "data-leak"
+initial_attack_vector: "Physical theft — an unencrypted desktop computer was stolen from a Sutter Medical Foundation administrative office in Sacramento, California; the computer contained a Microsoft Access database with patient information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 15, 2011, an unencrypted desktop computer was stolen from a Sutter Medical Foundation administrative office in Sacramento, California. The computer contained an unprotected Microsoft Access database with patient demographic and appointment scheduling information for approximately 4.24 million patients — the largest US healthcare data breach of 2011. Sutter Medical Foundation is part of the Sutter Health system, a large nonprofit hospital network operating across Northern California. Exposed data included patient names, addresses, dates of birth, phone numbers, email addresses, account numbers, dates of service, names of insurance plans, and names of physicians — but notably did NOT include SSNs, financial account information, or medical records such as diagnoses, treatments, or test results (the database was primarily administrative/scheduling data). Patients received notification in November 2011. A class-action lawsuit on behalf of 4.24 million patients sought $1,000 per patient ($4.24 billion total); a Sacramento County Superior Court judge dismissed the suit in 2012 on the grounds that California's Confidentiality of Medical Information Act required proof of actual harm for damages. The incident led to renewed enforcement of HIPAA encryption requirements for devices containing PHI."

@@ -1,0 +1,13 @@
+source_name: "Citigroup Direct Web Application Breach — 360K Accounts"
+source_url: "https://www.nytimes.com/2011/06/14/technology/14security.html"
+date_of_breach: "2011-04-01"
+date_of_disclosure: "2011-06-09"
+date_of_customer_notification: "2011-06-09"
+category: "data-leak"
+initial_attack_vector: "Direct web application attack — hackers exploited an insecure direct object reference (IDOR) vulnerability in Citi's online banking portal by manipulating account numbers embedded in the site URL, allowing them to access other customers' account pages without authorization"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In May 2011 (discovered internally, disclosed June 2011), hackers breached Citigroup's online banking portal by exploiting a straightforward insecure direct object reference (IDOR) vulnerability — also described as a basic URL manipulation attack. The bank's website used customer account numbers as a component in the URL for account pages, and the attackers discovered they could cycle through account numbers by modifying the URL to view other customers' account information. By automating this enumeration, they accessed account data for approximately 360,000 North American credit card customers. Exposed data included names, account numbers, email addresses, and transaction history. Citigroup discovered the breach in early May 2011 but waited until June 9 to disclose it. The delay drew criticism from regulators and consumer advocates. The attackers reportedly stole approximately $2.7 million from accounts before being stopped. The breach is notable for its technical simplicity — a basic OWASP Top 10 class vulnerability — in a major financial institution, and for Citi's disclosure delay despite a known regulatory obligation to promptly notify. The FBI investigated and multiple arrests were made."

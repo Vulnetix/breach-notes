@@ -1,0 +1,13 @@
+source_name: "Xfinity/Comcast CitrixBleed Data Breach (35.8M Customers)"
+source_url: "https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/"
+date_of_breach: "2023-10-16"
+date_of_disclosure: "2023-12-18"
+date_of_customer_notification: "2023-12-18"
+category: "data-leak"
+initial_attack_vector: "Exploitation of Citrix Bleed (CVE-2023-4966) — a critical vulnerability in Citrix NetScaler ADC/Gateway enabling session token hijacking without authentication; Citrix released a patch on October 10, 2023, but attackers breached Xfinity's systems October 16–19 before the patch was applied"
+cve: ["CVE-2023-4966"]
+vendor_product: "Citrix NetScaler ADC/Gateway"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between October 16–19, 2023, attackers exploited the Citrix Bleed vulnerability (CVE-2023-4966) to gain unauthorized access to Comcast's Xfinity systems. Citrix had issued a patch on October 10, 2023, but Xfinity's systems were compromised before the patch was applied. Xfinity disclosed the breach on December 18, 2023, affecting approximately 35,879,455 individuals — nearly all of Xfinity's approximately 32 million customers plus some former customers. Exposed data included usernames, hashed passwords, and for some customers: names, contact information, last four digits of Social Security numbers, dates of birth, and secret security question answers. Xfinity required all customers to reset their passwords. Comcast later agreed to a $117.5 million class-action settlement. CitrixBleed was widely exploited in late 2023 by multiple threat actors including LockBit ransomware operators, affecting Boeing, Allen & Overy law firm, DP World Australia, and many others. Note: this breach is distinct from the 2024 Comcast/Xfinity incident involving the FBCS third-party vendor, which resulted in an FCC fine."

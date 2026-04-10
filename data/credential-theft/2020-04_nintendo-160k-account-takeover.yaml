@@ -1,0 +1,13 @@
+source_name: "Nintendo Network ID (NNID) Credential Stuffing — 160,000 Accounts Compromised"
+source_url: "https://www.bbc.com/news/technology-52492772"
+date_of_breach: "2020-03-01"
+date_of_disclosure: "2020-04-24"
+date_of_customer_notification: "2020-04-24"
+category: "credential-theft"
+initial_attack_vector: "Credential stuffing — attackers used previously leaked username/password combinations to log into Nintendo Network IDs (NNIDs) via a legacy login portal; successful logins allowed attackers to access linked Nintendo Accounts and make fraudulent purchases via saved payment methods"
+cve: []
+vendor_product: "Nintendo Network ID (NNID) / Nintendo Account"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In April 2020, Nintendo disclosed that approximately 160,000 Nintendo Network IDs (NNIDs) — a legacy login system from the Nintendo 3DS and Wii U era — had been compromised via credential stuffing between March and April 2020. Attackers used previously leaked credentials to log in via the NNID login portal, and because Nintendo had enabled NNID accounts to be linked to Nintendo Accounts (the current Switch-era system), attackers could access the linked Nintendo Account and view personal information and in some cases make fraudulent purchases using saved PayPal or credit card credentials. Exposed data included nicknames, dates of birth, countries of residence, and email addresses. Nintendo disabled the ability to use NNIDs to log into Nintendo Accounts as an immediate mitigation and reset passwords for all affected accounts. Nintendo subsequently updated its total estimate upward — later reports indicated up to 300,000 accounts may have been affected. Nintendo advised users to enable two-factor authentication and to change passwords. The incident was amplified by the surge in Nintendo Switch sales and online gaming activity during COVID-19 lockdowns."

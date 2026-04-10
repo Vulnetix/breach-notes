@@ -1,0 +1,17 @@
+source_name: How Staffing Reductions Increase Ransomware Risk (DataBreachToday)
+source_url: https://www.databreachtoday.com/how-staffing-reductions-increase-ransomware-risk-a-30386
+date_of_breach: '2025-12-24'
+date_of_disclosure: '2025-12-24'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Ransomware attacks spike on weekends and holidays when security teams thin
+  out. Semperis CISO Jim Doggett says reduced staffing delays detection and response,
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,16 +1,17 @@
 source_name: Pompano Beach City Third-Party Breach (November 2019)
-source_url: "https://miami.cbslocal.com/2019/11/08/water-bill-payment-breach-reported-in-pompano-beach/"
+source_url: https://miami.cbslocal.com/2019/11/08/water-bill-payment-breach-reported-in-pompano-beach/
 date_of_breach: 2019-11-01
-date_of_disclosure: 2019-11-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-11-08'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Pompano Beach City experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Click2Gov. Source reporting:
-  https://miami.cbslocal.com/2019/11/08/water-bill-payment-breach-reported-in-pompano-beach/
+notes: 'Water Bill Payment Breach Reported In Pompano Beach. A security alert for
+  people in Pompano Beach. The city says a third-party software vendor used for online
+  water bill payments has been compromised. The city says unauthorized access was
+  gained to credit or debit card data used for payments made through the city''s website
+  between August 27th and October 14th. Third-party company: Click2Gov.'

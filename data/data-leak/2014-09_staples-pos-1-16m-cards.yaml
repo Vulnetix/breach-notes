@@ -1,0 +1,13 @@
+source_name: "Staples POS Breach — 1.16 Million Payment Cards"
+source_url: "https://krebsonsecurity.com/2014/12/staples-breach-affected-1-16-million-cards/"
+date_of_breach: "2014-04-01"
+date_of_disclosure: "2014-10-21"
+date_of_customer_notification: "2014-12-19"
+category: "data-leak"
+initial_attack_vector: "POS malware — attackers installed RAM-scraping malware on point-of-sale systems at Staples retail stores, capturing payment card track data at the time of purchase"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "POS RAM-scraping malware"
+supply_chain_claimed: false
+notes: "Between approximately April and September 2014, attackers deployed POS malware at Staples retail stores across the eastern United States. Staples first acknowledged an investigation in October 2014 after KrebsOnSecurity reported the breach based on bank fraud alerts. In December 2014, Staples confirmed that 1,162,523 customer payment cards had been compromised at 115 store locations. The malware was active at affected stores for varying periods between April 2014 and September 2014. Exposed data included payment card numbers, expiration dates, and cardholder names (track 1 and track 2 magnetic stripe data). The Staples breach was part of the major wave of U.S. retail POS malware attacks in 2014 that also included Home Depot (56 million cards), Kmart, and others. Staples notified customers via its website and directly contacted affected cardholders where possible. The breach occurred against the backdrop of the broader industry push toward EMV chip card adoption, which was accelerating in the U.S. due to the high volume of magnetic stripe POS compromises in 2013-2014."

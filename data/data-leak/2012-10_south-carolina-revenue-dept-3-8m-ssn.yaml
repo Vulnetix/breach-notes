@@ -1,0 +1,13 @@
+source_name: "South Carolina Governor's Office / Mandiant / SC Department of Revenue"
+source_url: "https://www.scmagazine.com/news/data-breach/south-carolina-breach-exposed-3-8m-ssns-1-9m-bank-accounts"
+date_of_breach: "2012-08-27"
+date_of_disclosure: "2012-10-26"
+date_of_customer_notification: "2012-10-26"
+category: "data-leak"
+initial_attack_vector: "CWE-78: Improper Neutralisation of Special Elements (spear-phishing email delivered malware, leading to credential theft and access to tax database)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "A foreign hacker (attributed to Eastern Europe, never charged) penetrated the South Carolina Department of Revenue via a spear-phishing email that compromised an employee's credentials. The attacker accessed state tax databases between August 27 and September 20 2012, exfiltrating 3.8 million Social Security numbers (74,000 of which were unencrypted), 387,000 credit and debit card numbers (16,000 unencrypted), and 1.9 million bank account numbers. At the time it was the largest known breach of a US state government. The breach was not discovered until mid-October 2012 after law enforcement notification. The state contracted Experian to provide one year of free credit monitoring to all affected residents — roughly half the state's population. Mandiant was hired for forensic investigation. Governor Nikki Haley faced intense criticism for the state's lack of encryption on SSN data. Estimated cost to the state exceeded $14M."

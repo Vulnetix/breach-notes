@@ -1,0 +1,13 @@
+source_name: "Cream Finance DeFi Flash Loan Attack — $130M (Third Exploit)"
+source_url: "https://medium.com/cream-finance/post-mortem-exploit-oct-27-507b26cec0d"
+date_of_breach: "2021-10-27"
+date_of_disclosure: "2021-10-27"
+date_of_customer_notification: "2021-10-27"
+category: "other"
+initial_attack_vector: "Flash loan attack exploiting a price oracle manipulation vulnerability in Cream Finance's lending protocol; attackers used flash loans from multiple DeFi protocols to manipulate the price oracle for the yUSD token (a Yearn Finance vault token), inflating its reported collateral value and enabling the attacker to borrow far more than the actual collateral value across multiple transactions"
+cve: []
+vendor_product: "Cream Finance (DeFi lending protocol, Ethereum)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 27, 2021, Cream Finance suffered its third exploit of the year (previous hacks in February 2021 for $37.5M and August 2021 for $18.8M). This third attack was the largest, draining approximately $130 million in various tokens from the protocol — representing virtually all of Cream Finance's liquidity at the time. The attacker used a sophisticated multi-step flash loan attack involving 68 different assets and 9 transactions. The core vulnerability was in how Cream Finance's price oracle handled yUSD/yyCRV tokens from Yearn Finance: the attacker was able to borrow a massive amount of tokens via flash loans from Aave and Compound, deposit them as collateral to manipulate the oracle price, borrow out almost all assets in Cream's lending pools against the inflated collateral value, and repay the flash loans — all within a single transaction block. The attack was publicly attributed by blockchain security firm PeckShield to a 'sophisticated attacker' with possible connections to a previous Cream exploit given the shared technical approach. Despite the three major hacks in 2021 alone, Cream Finance continued operating and attempted to compensate affected users through protocol revenue over time, though full recovery was never achieved. The incident became a canonical example of oracle manipulation risk in DeFi lending protocols. Cream Finance eventually wound down most operations in 2022."

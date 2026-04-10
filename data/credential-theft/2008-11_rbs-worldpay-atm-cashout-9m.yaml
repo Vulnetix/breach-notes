@@ -1,0 +1,13 @@
+source_name: "RBS WorldPay ATM Cashout — First Major Coordinated Global ATM Fraud ($9.4M)"
+source_url: "https://krebsonsecurity.com/2009/12/charges-in-rbs-worldpay-9-million-global-heist/"
+date_of_breach: "2008-11-04"
+date_of_disclosure: "2008-12-23"
+date_of_customer_notification: "2008-12-23"
+category: "credential-theft"
+initial_attack_vector: "Eastern European cybercriminals (Sergei Tsurikov et al.) exploited vulnerabilities in RBS WorldPay's payment processing network, broke the encryption protecting payroll debit card account data, raised withdrawal limits on 44 compromised accounts, and cloned cards for distribution to a global network of ATM 'cashers'"
+cve: []
+vendor_product: "RBS WorldPay payment processing network"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "RBS WorldPay, the US payment processing division of the Royal Bank of Scotland (distinct from the later Worldpay/FIS entity), suffered a coordinated cyberattack in early November 2008. Attackers compromised RBS WorldPay's network, broke the encryption on payroll debit card accounts, and raised the withdrawal limits on 44 compromised card accounts from typical amounts to $500,000. On November 8, 2008, in a synchronized operation across at least 280 cities worldwide (US, Russia, Ukraine, Hong Kong, Japan, Canada, and others), a global network of 'cashers' made approximately 9,000 ATM withdrawals from 2,100+ ATMs within a 12-hour window, stealing approximately $9.4 million in total. The speed and global coordination of the cashout — executed simultaneously across dozens of countries before fraud systems could react — established a template for 'jackpotting' and coordinated ATM cashout operations that became increasingly common in subsequent years. The attack exposed data on approximately 1.5 million cardholders. RBS WorldPay disclosed the breach in a December 23, 2008 SEC filing. In November 2009, the US Department of Justice unsealed an indictment charging Estonian national Sergei Tsurikov, Russian national Viktor Pleshchuk, and others with computer fraud and wire fraud. Tsurikov received an 11-year sentence. This incident is distinct from the FIS/Worldpay prepaid card breach of 2010 (already in this repository)."

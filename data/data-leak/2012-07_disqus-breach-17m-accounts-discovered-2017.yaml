@@ -1,0 +1,13 @@
+source_name: "Disqus Breach — 17.5M Email Addresses and Hashed Passwords (2012, Discovered 2017)"
+source_url: "https://blog.disqus.com/security-alert-user-info-breach"
+date_of_breach: "2012-07-01"
+date_of_disclosure: "2017-10-05"
+date_of_customer_notification: "2017-10-05"
+category: "data-leak"
+initial_attack_vector: "Database compromise; the breach occurred in July 2012 but was not discovered until security researcher Troy Hunt provided Disqus with a copy of the dataset in October 2017 — five years after the breach"
+cve: []
+vendor_product: "Disqus (comment hosting and management service)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 5, 2017, Disqus disclosed that it had been notified by security researcher Troy Hunt that a dataset containing user data from a 2012 breach had been provided to him by an anonymous source. Disqus investigated and confirmed the breach had occurred in July 2012. The compromised data included email addresses, Disqus usernames, sign-up dates, last login dates in plain text, and — for approximately one-third of the 17.5 million accounts — SHA-1 hashed passwords with no salting. The remaining two-thirds of accounts had signed in via social login and had no passwords stored. Disqus had migrated to bcrypt for password hashing by the time of the 2012 breach, but the older accounts still had SHA-1 hashed passwords from before the migration. Disqus reset passwords for all affected accounts and notified users by email. The breach was notable for the five-year gap between the breach occurring and its discovery, demonstrating how historical breaches can surface years later. Disqus's relatively fast response once notified (same-day disclosure) was praised by the security community. The breach was part of a broader pattern of 2012-era breaches discovered years later, including LinkedIn (117M), Formspring (28M), and others."

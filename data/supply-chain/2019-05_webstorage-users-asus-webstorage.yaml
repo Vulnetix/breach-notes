@@ -1,16 +1,18 @@
 source_name: Webstorage users Third-Party Breach (May 2019)
-source_url: "https://www.zdnet.com/article/asus-webstorage-abused-to-spy-on-users-at-the-router-level/"
+source_url: https://www.zdnet.com/article/asus-webstorage-abused-to-spy-on-users-at-the-router-level/
 date_of_breach: 2019-05-01
-date_of_disclosure: 2019-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-05-14'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: ASUS Webstorage
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Webstorage users experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was ASUS Webstorage. Source reporting:
-  https://www.zdnet.com/article/asus-webstorage-abused-to-spy-on-users-at-the-router-level/
+notes: 'ASUS WebStorage abused to spy on users at the router level. Vulnerable software
+  is potentially facilitating surveillance and data theft. The ASUS WebStorage system
+  is being actively abused to perform Man-in-The-Middle (MiTM) attacks, researchers
+  say. ESET researcher Anton Cherepanov published a report detailing attack vectors
+  related to WebStorage, ASUS''s cloud storage service, on Tuesday. Third-party company:
+  ASUS Webstorage.'

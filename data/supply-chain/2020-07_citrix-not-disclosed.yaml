@@ -1,15 +1,21 @@
 source_name: Citrix Third-Party Breach (July 2020)
-source_url: "https://searchsecurity.techtarget.com/news/252486197/Citrix-data-exposed-in-third-party-breach"
+source_url: https://searchsecurity.techtarget.com/news/252486197/Citrix-data-exposed-in-third-party-breach
 date_of_breach: 2020-07-01
-date_of_disclosure: 2020-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-07-15'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Citrix experienced a data security incident via a third-party vendor relationship. Source reporting:
-  https://searchsecurity.techtarget.com/news/252486197/Citrix-data-exposed-in-third-party-breach
+notes: Citrix data exposed in third-party breach | TechTarget. Citrix Tuesday published
+  a blog confirming that a third-party organization is investigating a possible data
+  breach after a threat actor claimed to have some of the vendor's data. While there
+  wasn't a direct Citrix data breach, some customer data was exposed. A third-party
+  breach may have exposed Citrix customer data on the dark web. In a blog post Tuesday,
+  Citrix CISO Fermin Serna confirmed reports that some of the vendor's data was on
+  sale on a dark web marketplace. He said a third-party organization that held some
+  of Citrix's data was investigating a breach, but that there is no evidence that
+  Citrix was directly compromised.

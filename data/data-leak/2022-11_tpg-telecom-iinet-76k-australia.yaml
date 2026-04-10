@@ -1,0 +1,13 @@
+source_name: "TPG Telecom / Australian Cyber Security Centre / ZDNet Australia"
+source_url: "https://www.zdnet.com/article/tpg-telecom-discovers-hackers-breached-its-hosted-exchange-service/"
+date_of_breach: "2022-11-01"
+date_of_disclosure: "2022-12-14"
+date_of_customer_notification: "2022-12-14"
+category: "data-leak"
+initial_attack_vector: "CWE-307: Improper Restriction of Excessive Authentication Attempts (credential-based unauthorised access to a hosted Microsoft Exchange service)"
+cve: []
+vendor_product: "Microsoft Exchange (hosted)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "TPG Telecom, Australia's second-largest telco (which acquired iiNet in 2015), disclosed on December 14 2022 that an unauthorised party had accessed its Hosted Exchange email platform. The attacker searched through the email accounts of up to 15,000 iiNet and Westnet business customers, looking for credential and financial information. TPG discovered the breach on December 13 2022 during an investigation. The attacker appeared to be searching for cryptocurrency-related information. TPG took the hosted Exchange environment offline and notified affected customers. The incident highlighted ongoing risks to legacy hosted email environments and the use of iiNet-branded services under the TPG umbrella."

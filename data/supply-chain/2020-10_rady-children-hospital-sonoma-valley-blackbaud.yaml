@@ -1,17 +1,24 @@
-source_name: Rady Children Hospital, Sonoma Valley Hospital, Innova Health, OSF Third-Party Breach (October 2020)
-source_url: "https://healthitsecurity.com/news/1m-inova-health-individuals-added-to-blackbaud-breach-victim-tally"
+source_name: Rady Children Hospital, Sonoma Valley Hospital, Innova Health, OSF Third-Party
+  Breach (October 2020)
+source_url: https://healthitsecurity.com/news/1m-inova-health-individuals-added-to-blackbaud-breach-victim-tally
 date_of_breach: 2020-10-01
-date_of_disclosure: 2020-10-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-09-14'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: BlackBaud
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Rady Children Hospital, Sonoma Valley Hospital, Innova Health, OSF experienced a data security
-  incident via a third-party vendor relationship. The compromised third-party vendor was BlackBaud. Source
-  reporting:
-  https://healthitsecurity.com/news/1m-inova-health-individuals-added-to-blackbaud-breach-victim-tally
+notes: '1M Inova Health Individuals Added to Blackbaud Breach Victim Tally | TechTarget.
+  This week&#039;s breach roundup is led by the Blackbuad ransomware attack, which
+  added more than 2 million affected individuals and patients in the weeks following
+  its initial notice, such as 1M from Inova. The Blackbaud breach victim tally has
+  climbed to nearly 3 million healthcare-connected entities and other nonprofits.
+  In the last week, Inova Health System reported more than 1 million individuals were
+  affected by the incident, as well as several other healthcare provider organizations.
+  Blackbaud, a cloud computing vendor for a range of nonprofits, foundations, corporations,
+  education institutions, healthcare entities, and change agents, reported that its
+  self-hosted environment was hit with a ransomware attack on May 14. Third-party
+  company: BlackBaud.'

@@ -1,0 +1,13 @@
+source_name: "Roper St. Francis Healthcare Ransomware — 92K Patients, Charleston SC"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2021-08-01"
+date_of_disclosure: "2021-09-17"
+date_of_customer_notification: "2021-09-17"
+category: "ransomware"
+initial_attack_vector: "Ransomware group breached Roper St. Francis Healthcare's network and accessed a scheduling application containing patient demographic and appointment data; the specific initial access vector was not publicly disclosed"
+cve: []
+vendor_product: "Roper St. Francis Healthcare — South Carolina hospital system IT systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On approximately 1 August 2021, Roper St. Francis Healthcare — a nonprofit hospital system based in Charleston, South Carolina operating multiple hospitals and medical facilities — discovered unauthorised access to its network. Attackers accessed a scheduling application containing patient information. Roper St. Francis filed a breach notification with HHS OCR disclosing that approximately 92,000 patients were affected. Exposed information included patient names, dates of birth, addresses, phone numbers, email addresses, and scheduling/appointment information. Some records also included Social Security numbers, health insurance information, and limited clinical details. Roper St. Francis notified affected patients in September 2021 and offered credit monitoring services. The breach occurred during a period when many healthcare providers were simultaneously dealing with COVID-19 pandemic pressures and a broader wave of healthcare ransomware attacks in mid-2021. Roper St. Francis operates three hospital campuses and numerous outpatient facilities primarily serving the greater Charleston, South Carolina region."

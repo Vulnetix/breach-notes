@@ -1,0 +1,13 @@
+source_name: "KILLNET DDoS Campaigns: European Parliament, NATO, US Airports (2022–2023)"
+source_url: "https://www.bleepingcomputer.com/news/security/killnet-ddos-attacks-european-parliament-website/"
+date_of_breach: "2022-10-10"
+date_of_disclosure: "2022-10-10"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Volumetric Layer 7 (HTTP flood) DDoS attacks coordinated via KILLNET's Telegram channel, using distributed botnet infrastructure; targets selected in retaliation for Western support of Ukraine"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "KILLNET is a Russian hacktivist collective (with suspected ties to Russian intelligence) that conducted a sustained wave of DDoS attacks against Western government and infrastructure targets throughout 2022-2023 in retaliation for NATO and EU support of Ukraine. Key incidents: (1) October 10, 2022: KILLNET disrupted websites of 14 US airports including LAX, ORD, ATL, and LGA — taking them offline for hours though flight operations were unaffected. (2) November 23, 2022: KILLNET took down the European Parliament website using a DDoS attack of several hundred gigabits per second, hours after MEPs voted to designate Russia as a state sponsor of terrorism; the outage lasted several hours. (3) January 2023: Coordinated DDoS against NATO websites following NATO's decision to supply Leopard 2 tanks to Ukraine; nato.int was intermittently unavailable. (4) January-February 2023: KILLNET targeted hospital websites across the US, UK, and Europe. (5) March 2023: KILLNET attacked SWIFT financial messaging infrastructure and attempted to target NATO's DIANA defense innovation accelerator. No data was stolen in any of these attacks — impacts were limited to website availability. KILLNET attacks were largely symbolic and short-duration, demonstrating cyber-nationalism rather than sophisticated offensive capability."

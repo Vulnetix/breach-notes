@@ -1,0 +1,13 @@
+source_name: "Wood Ranch Medical Clinic — Ransomware Causes Permanent Closure"
+source_url: "https://www.beckershospitalreview.com/cybersecurity/small-california-medical-practice-to-close-after-ransomware-attack.html"
+date_of_breach: "2019-08-10"
+date_of_disclosure: "2019-08-10"
+date_of_customer_notification: "2019-08-10"
+category: "ransomware"
+initial_attack_vector: "Ransomware attack against Wood Ranch Medical Clinic's servers and electronic health record (EHR) backup systems; both primary and backup systems were encrypted, making recovery impossible without paying the ransom; the clinic did not have offline backups"
+cve: []
+vendor_product: "Wood Ranch Medical Clinic (Simi Valley, California)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Wood Ranch Medical Clinic, a small family medical practice in Simi Valley, California, announced in August 2019 that it would permanently close on December 17, 2019 following a ransomware attack that encrypted both its servers and its backup systems. The attackers destroyed the clinic's electronic health record (EHR) system and backup infrastructure simultaneously, leaving no path to data recovery. Because the practice was a small two-physician operation, it could not absorb the financial cost of rebuilding its systems from scratch or paying the ransom. The clinic's closure was one of the first widely reported cases of a healthcare provider being forced to permanently shut down directly as a result of a ransomware attack, predating the more famous Brookside ENT closure in 2019. Wood Ranch had approximately 17 years of patient records that were either destroyed or rendered inaccessible. The clinic notified patients and coordinated with nearby practices to ensure continuity of care for existing patients. The incident became a prominent example used in cybersecurity awareness campaigns to illustrate the existential risk ransomware poses to small healthcare providers, and highlighted the critical importance of tested offline backups. A separate California ENT practice (Brookside ENT, Battle Creek, Michigan) closed for similar reasons the same year after refusing to pay a ransomware demand."

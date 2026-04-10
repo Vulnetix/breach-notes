@@ -1,0 +1,13 @@
+source_name: "Operation Aurora — Chinese APT Nation-State Espionage (Google, Adobe, 30+ Companies)"
+source_url: "https://googleblog.blogspot.com/2010/01/new-approach-to-china.html"
+date_of_breach: "2009-06-01"
+date_of_disclosure: "2010-01-12"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Spear-phishing emails delivering a zero-day exploit for Internet Explorer (CVE-2010-0249, a use-after-free vulnerability in IE 6/7/8); watering hole attacks; lateral movement and data exfiltration once initial foothold established"
+cve: ["CVE-2010-0249"]
+vendor_product: "Microsoft Internet Explorer 6/7/8"
+software_package: ""
+malware: "Hydraq (Aurora backdoor)"
+supply_chain_claimed: false
+notes: "Operation Aurora was a sophisticated, coordinated nation-state cyber espionage campaign originating in China and targeting at least 30 major corporations, with Google being the most prominent. The campaign began as early as mid-2009 and was discovered in late December 2009. Google publicly disclosed the attack on January 12, 2010, in a landmark blog post, naming China and threatening to exit the Chinese market. The attack exploited a zero-day IE vulnerability (CVE-2010-0249) via spear-phishing. At Google, attackers stole source code and accessed Gmail accounts of Chinese human rights activists — the latter purpose suggesting intelligence, not just IP theft. Other confirmed targets included Adobe Systems, Juniper Networks, Akamai, Yahoo, Symantec, Northrop Grumman, Morgan Stanley, and Dow Chemical. The campaign was attributed by McAfee and multiple intelligence agencies to Elderwood Group (also tracked as APT17, APT9, or Comment Crew) — a Chinese PLA-affiliated threat actor. The name 'Aurora' came from a file path in the malware ('aurora' appeared in the attacker's C2 infrastructure). Operation Aurora marked a watershed moment: it was the first time a major US corporation publicly named a nation-state (China) as responsible for a cyberattack, triggering significant diplomatic fallout and fundamentally shifting corporate attitudes toward nation-state cyber threats. The US-China diplomatic tension over Aurora was a precursor to the broader APT campaign disclosures that followed throughout the 2010s."

@@ -1,0 +1,13 @@
+source_name: "Barnes & Noble POS PIN Pad Tampering — 63 Stores, Card Skimmers"
+source_url: "https://krebsonsecurity.com/2012/10/barnes-noble-pulled-card-swipe-terminals-in-63-stores/"
+date_of_breach: "2012-06-01"
+date_of_disclosure: "2012-10-24"
+date_of_customer_notification: "2012-10-24"
+category: "credential-theft"
+initial_attack_vector: "Physical PIN pad tampering — attackers physically installed hardware skimmers or modified PIN pad devices at Barnes & Noble retail checkout terminals in 63 stores across nine US states; the tampered devices captured payment card magnetic stripe data and PINs"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Barnes & Noble disclosed in October 2012 that criminals had tampered with at least one PIN pad terminal at each of 63 of its retail bookstore locations across nine states (California, Connecticut, Florida, Illinois, New Jersey, New York, Pennsylvania, Rhode Island, and Virginia). The tampering occurred over the summer of 2012, likely beginning around June. The compromised PIN pads captured full magnetic stripe data and customer PINs as cards were swiped at checkout. Barnes & Noble discovered the tampering in September 2012 and immediately disconnected all PIN pad devices at its nearly 700 US stores while it conducted a forensic sweep. However, the company delayed public disclosure until October 24 at the request of the FBI, which was investigating the criminal operation. Barnes & Noble notified customers and worked with card issuers to identify and reissue compromised cards. The attack required physical access to store checkout areas, suggesting either inside knowledge or the ability to access checkout terminals during store hours or after-hours. The case highlighted risks of physical tampering with payment terminals as a complement to purely cyber-based card theft methods — attackers were apparently able to modify or swap devices without detection by store staff. Multiple class-action lawsuits were filed against Barnes & Noble alleging inadequate physical security of payment terminals."

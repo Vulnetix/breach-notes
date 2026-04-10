@@ -1,17 +1,23 @@
-source_name: "First Federal Community Bank, Rio Bank, Citizens Bank of Swainsboro, First Bank & Trust Third-Party Breach (November 2020)"
-source_url: "https://securityreport.com/american-bank-systems-hit-by-ransomware-attack-full-53-gb-data-dump-leaked/"
+source_name: First Federal Community Bank, Rio Bank, Citizens Bank of Swainsboro,
+  First Bank & Trust Third-Party Breach (November 2020)
+source_url: https://securityreport.com/american-bank-systems-hit-by-ransomware-attack-full-53-gb-data-dump-leaked/
 date_of_breach: 2020-11-01
-date_of_disclosure: 2020-11-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-11-14'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: ABS
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, First Federal Community Bank, Rio Bank, Citizens Bank of Swainsboro, First Bank & Trust experienced a
-  data security incident via a third-party vendor relationship. The compromised third-party vendor was ABS.
-  Source reporting:
-  https://securityreport.com/american-bank-systems-hit-by-ransomware-attack-full-53-gb-data-dump-leaked/
+notes: 'American Bank Systems hit by ransomware attack, full 53 GB data dump leaked
+  - Security Report. American Bank Systems (ABS), a service provider to US banks and
+  financial institutions has suffered a ransomware attack with some of its clients''
+  data leaked. American Bank Systems (ABS), a company that provides services to U.S.
+  financial institutions and banks helping them “operate efficiently and confidently
+  in a rapidly evolving – highly regulated – environment” has been hit by a ransomware
+  attack this month. Avaddon , the ransomware group behind the attack had earlier
+  alleged they had acquired over 50 GB of the company’s proprietary data but had leaked
+  a partial 4 GB dump earlier this month, part of which has been analyzed by Security
+  Report News. Third-party company: ABS.'

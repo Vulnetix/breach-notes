@@ -1,0 +1,13 @@
+source_name: "OpenAI ChatGPT Redis Bug — Chat History & Payment Info Leak"
+source_url: "https://openai.com/blog/march-20-chatgpt-outage"
+date_of_breach: "2023-03-20"
+date_of_disclosure: "2023-03-24"
+date_of_customer_notification: "2023-03-24"
+category: "data-leak"
+initial_attack_vector: "A bug in the Redis client library (redis-py) used by OpenAI caused race conditions in connection pooling under high load, resulting in users being served cached data from other users' sessions — exposing conversation titles and personal payment information"
+cve: []
+vendor_product: "OpenAI ChatGPT; Redis (redis-py library)"
+software_package: "redis-py"
+malware: ""
+supply_chain_claimed: false
+notes: "On March 20, 2023, OpenAI took ChatGPT offline after discovering a bug in its Redis client library (redis-py open-source library) that caused some users to see other users' conversation history titles and partial personal information in their sidebar. In some cases, the first message of a new conversation could be visible. OpenAI later confirmed that a small subset of users (~1.2% of ChatGPT Plus subscribers who used the service during a 9-hour window on March 20) had their payment information exposed — including first and last names, email addresses, payment addresses, credit card type and last four digits, and credit card expiration dates. Full credit card numbers were not exposed. Approximately 100,000 ChatGPT Plus users were notified. The bug was triggered by a Redis connection pool race condition during a server-side configuration change that caused requests to return cached query data from another active connection. OpenAI patched the Redis library and confirmed the fix. This was the first major data exposure incident for ChatGPT and drew significant attention given OpenAI's rapid growth and the sensitivity of private conversation data. OpenAI notified affected users directly and notified relevant regulators."

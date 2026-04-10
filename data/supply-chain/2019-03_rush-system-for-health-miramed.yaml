@@ -1,16 +1,17 @@
 source_name: Rush System for Health Third-Party Breach (March 2019)
-source_url: "https://www.chicagobusiness.com/health-care/rush-data-breach-exposes-45000-patients"
+source_url: https://www.chicagobusiness.com/health-care/rush-data-breach-exposes-45000-patients
 date_of_breach: 2019-03-01
-date_of_disclosure: 2019-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-03-04'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: MiraMed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Rush System for Health experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was MiraMed. Source reporting:
-  https://www.chicagobusiness.com/health-care/rush-data-breach-exposes-45000-patients
+notes: 'Rush data breach exposes 45,000 patients. Patient names, addresses, Social
+  Security numbers, birth dates and health insurance information were compromised,
+  the health system says. The 28-acre parcel, which has been unused since Solo Cup
+  closed its factory in 2008, is set to become the biggest housing development in
+  Highland Park in decades. Third-party company: MiraMed.'

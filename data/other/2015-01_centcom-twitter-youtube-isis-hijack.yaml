@@ -1,0 +1,13 @@
+source_name: "U.S. CENTCOM Twitter and YouTube Account Hijack by ISIS Sympathizers"
+source_url: "https://www.cnn.com/2015/01/12/politics/centcom-twitter-hacked/index.html"
+date_of_breach: "2015-01-12"
+date_of_disclosure: "2015-01-12"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Social media account compromise — attackers claiming affiliation with ISIS obtained credentials for the official U.S. Central Command (CENTCOM) Twitter and YouTube accounts, likely via phishing or credential reuse, and posted propaganda"
+cve: []
+vendor_product: "Twitter, YouTube (Google)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On January 12, 2015, individuals calling themselves 'CyberCaliphate' and claiming affiliation with the Islamic State (ISIS) hijacked the official Twitter and YouTube accounts of the U.S. Central Command (CENTCOM), which oversees U.S. military operations in the Middle East. Over approximately 30-40 minutes, the attackers posted ISIS propaganda, altered the Twitter profile photo and banner to ISIS imagery, and tweeted what they claimed were leaked U.S. military documents and personal information about U.S. military officers. The posted 'documents' were later assessed to be publicly available or outdated unclassified information — not genuine intelligence leaks. CENTCOM suspended both accounts while the Pentagon investigated. Twitter and YouTube restored the accounts after taking them down. U.S. officials and cybersecurity researchers characterized the incident as an embarrassing but low-impact social media stunt rather than a genuine military systems compromise. The incident occurred the same day President Obama was giving a speech on cybersecurity, raising the profile of the story significantly. The attack demonstrated the reputational risk posed by weak social media account security even when underlying military networks are not compromised."

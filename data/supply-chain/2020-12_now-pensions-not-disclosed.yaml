@@ -1,16 +1,19 @@
-source_name: "Now:Pensions Third-Party Breach (December 2020)"
-source_url: "https://www.theguardian.com/technology/2020/dec/23/data-breach-hits-30000-signed-up-to-workplace-pensions-provider"
+source_name: Now:Pensions Third-Party Breach (December 2020)
+source_url: https://www.theguardian.com/technology/2020/dec/23/data-breach-hits-30000-signed-up-to-workplace-pensions-provider
 date_of_breach: 2020-12-01
-date_of_disclosure: 2020-12-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-12-23'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Now:Pensions experienced a data security incident via a third-party vendor relationship. Source
-  reporting:
-  https://www.theguardian.com/technology/2020/dec/23/data-breach-hits-30000-signed-up-to-workplace-pensions-provider
+notes: Data breach hits 30,000 signed up to workplace pensions provider. Fraud worries
+  as UK company Now:Pensions says ‘third-party contractor’ posted personal details
+  of clients to online public forum. About 30,000 customers of Now:Pensions face an
+  anxious Christmas after a serious data breach at the pensions provider led to their
+  sensitive personal details being posted on the internet. In an email sent to affected
+  customers, the workplace pensions firm warned that names, postal and email addresses,
+  birth dates and National Insurance numbers all appeared in a public forum online.

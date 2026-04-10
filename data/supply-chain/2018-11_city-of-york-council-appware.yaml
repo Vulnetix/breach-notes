@@ -1,16 +1,17 @@
 source_name: City of York Council Third-Party Breach (November 2018)
-source_url: "https://www.yorkmix.com/news/major-security-breach-as-hackers-obtain-users-personal-info-from-york-council-phone-app/"
+source_url: https://www.yorkmix.com/news/major-security-breach-as-hackers-obtain-users-personal-info-from-york-council-phone-app/
 date_of_breach: 2018-11-01
 date_of_disclosure: 2018-11-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Appware
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2018, City of York Council experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Appware. Source reporting:
-  https://www.yorkmix.com/news/major-security-breach-as-hackers-obtain-users-personal-info-from-york-council-phone-app/
+notes: 'Listen on DAB+ radio, smart speaker, app and the YorkMix website - news, things
+  to do and music worth sharing across York & North Yorkshire. York man jailed for
+  attempted murder after ‘horrific’ attack in front of young children. North Yorkshire
+  beach scarred by litter and broken glass after anti-social behaviour. Third-party
+  company: Appware.'

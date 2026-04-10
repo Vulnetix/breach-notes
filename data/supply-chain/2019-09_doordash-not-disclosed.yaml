@@ -1,16 +1,14 @@
 source_name: DoorDash Third-Party Breach (September 2019)
-source_url: "https://blog.doordash.com/important-security-notice-about-your-doordash-account-ddd90ddf5996#46h35gr24e"
+source_url: https://blog.doordash.com/important-security-notice-about-your-doordash-account-ddd90ddf5996#46h35gr24e
 date_of_breach: 2019-09-01
 date_of_disclosure: 2019-09-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, DoorDash experienced a data security incident via a third-party vendor relationship. Source
-  reporting:
-  https://blog.doordash.com/important-security-notice-about-your-doordash-account-ddd90ddf5996#46h35gr24e
+notes: BlackKite timeline indicates a third-party/vendor-related breach; detailed
+  reporting was not accessible automatically.

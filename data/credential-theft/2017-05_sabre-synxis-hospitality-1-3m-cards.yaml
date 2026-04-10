@@ -1,0 +1,13 @@
+source_name: "Sabre SynXis Central Reservations Breach (1.3M Cards, 36K Hotels)"
+source_url: "https://krebsonsecurity.com/2017/05/breach-at-sabre-corp-s-hospitality-unit/"
+date_of_breach: "2016-08-10"
+date_of_disclosure: "2017-05-02"
+date_of_customer_notification: "2017-06-01"
+category: "credential-theft"
+initial_attack_vector: "Attacker compromised an administrator-level account in Sabre's SynXis central reservations system; the admin password was stored in plaintext within the system; the attacker used the admin account to access payment processing pages and exfiltrate card data daily over approximately 7 months"
+cve: []
+vendor_product: "Sabre SynXis Central Reservations System"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Between approximately August 10, 2016 and March 9, 2017, an attacker used a compromised administrator account in Sabre Corporation's SynXis Hospitality Solutions central reservations system — a booking platform used by approximately 36,000 hotels worldwide. The attacker traversed the system daily for approximately 7 months, accessing payment pages and exfiltrating data. The breach affected hotels that used SynXis for direct bookings, including Four Seasons, Trump Hotels, Kimpton, Red Lion Hotels, Rosewood Hotels, Hard Rock Hotels, Loews Hotels, and thousands of others. Approximately 1.3 million credit cards were compromised. Exposed data included card numbers, expiration dates, authorization codes, plus guest names, email addresses, phone numbers, and physical addresses for some reservations. Sabre disclosed the breach in its SEC 10-Q filing in May 2017 and notified affected hotel clients. Sabre settled with state attorneys general for $2.4 million. The breach illustrated the risk of centralized reservation systems that aggregate payment data for thousands of hotels — a compromise of the platform affects all downstream hotel clients simultaneously."

@@ -1,0 +1,13 @@
+source_name: "InterContinental Hotels Group (IHG) POS Breach (1,200 Franchise Locations)"
+source_url: "https://www.darkreading.com/endpoint-security/intercontinental-hotels-group-breach-checks-in-at-1-200-locations"
+date_of_breach: "2016-08-01"
+date_of_disclosure: "2017-02-03"
+date_of_customer_notification: "2017-04-01"
+category: "credential-theft"
+initial_attack_vector: "POS malware deployed on restaurant and bar point-of-sale systems at IHG franchise hotel locations; malware searched for and captured Track 1 and Track 2 payment card data as it transited affected POS servers"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "POS malware (Track data scraper)"
+supply_chain_claimed: false
+notes: "Between approximately August 1 and December 29, 2016, POS malware was deployed at IHG franchise hotel properties across the United States and Puerto Rico. IHG (InterContinental Hotels Group, parent of Holiday Inn, Crowne Plaza, Holiday Inn Express, Staybridge Suites, and other brands) initially disclosed in February 2017 that 12 of its managed properties were affected, then expanded the disclosure to approximately 1,200 franchise locations in April 2017. The malware targeted food and beverage outlet POS systems (restaurants, bars, lounges) at franchise hotels — front desk/check-in systems were NOT affected. Exposed data included cardholder names, card numbers, expiration dates, and internal verification codes from magnetic stripe reads. Notable affected venues included Michael Jordan's Steak House in Chicago and Sky Lounge in Toronto. IHG settled a class-action lawsuit for $1.55 million. The breach highlighted the difficulty of securing franchise hotel environments, where individual franchisees operate their own POS systems but under the IHG brand. Note: IHG suffered a separate cyberattack in September 2022 that disrupted its booking systems and technology — that is a distinct incident."

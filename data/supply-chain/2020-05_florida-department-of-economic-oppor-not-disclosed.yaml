@@ -1,16 +1,19 @@
 source_name: Florida Department of Economic Opportunity Third-Party Breach (May 2020)
-source_url: "https://www.clickorlando.com/news/local/2020/05/21/florida-deo-says-data-security-incident-was-associated-with-reemployment-assistance-claims/"
+source_url: https://www.clickorlando.com/news/local/2020/05/21/florida-deo-says-data-security-incident-was-associated-with-reemployment-assistance-claims/
 date_of_breach: 2020-05-01
-date_of_disclosure: 2020-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-05-21'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Florida Department of Economic Opportunity experienced a data security incident via a third-party
-  vendor relationship. Source reporting:
-  https://www.clickorlando.com/news/local/2020/05/21/florida-deo-says-data-security-incident-was-associated-with-reemployment-assistance-claims/
+notes: Data breach exposes Social Security info of some Floridians seeking unemployment
+  benefits. The Florida Department of Economic Opportunity said they had to deal with
+  a data security incident. TALLAHASSEE, Fla. – The Florida agency that handles unemployment
+  benefits said they recently had a “data security incident” that may have compromised
+  information from Floridians seeking unemployment. The incident exposed full names
+  and Social Security numbers of some people who have applied for unemployment benefits,
+  according to the Department of Economic Opportunity.

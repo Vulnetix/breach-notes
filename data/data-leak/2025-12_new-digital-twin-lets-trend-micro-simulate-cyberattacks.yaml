@@ -1,0 +1,18 @@
+source_name: New Digital Twin Lets Trend Micro Simulate Cyberattacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/new-digital-twin-lets-trend-micro-simulate-cyberattacks-a-30374
+date_of_breach: '2025-12-23'
+date_of_disclosure: '2025-12-23'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'By using telemetry from endpoints, servers, cloud and email, Trend Micro''s
+  digital twin can safely simulate cyberattacks across a full enterprise. COO Kevin
+  Simzer
+
+
+  Source: DataBreachToday article coverage.'

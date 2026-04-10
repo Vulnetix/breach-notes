@@ -1,13 +1,19 @@
 source_name: Bonobos Third-Party Breach (January 2021)
-source_url: "https://www.tomsguide.com/news/bonobos-data-breach-7-million"
+source_url: https://www.tomsguide.com/news/bonobos-data-breach-7-million
 date_of_breach: 2021-01-01
-date_of_disclosure: 2021-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-01-22'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2021, Bonobos experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.tomsguide.com/news/bonobos-data-breach-7-million"
+notes: 'Data breach at Bonobos hits up to 7 million: What to do [updated]. When you
+  purchase through links on our site, we may earn an affiliate commission. Here’s
+  how it works. Here at Tom’s Guide our expert editors are committed to bringing you
+  the best news, reviews and guides to help you stay informed and ahead of the curve!.
+  Sign up to get the latest updates on all of your favorite content! From cutting-edge
+  tech news and the hottest streaming buzz to unbeatable deals on the best products
+  and in-depth reviews, we’ve got you covered.'

@@ -1,0 +1,13 @@
+source_name: "CNA Financial Ransomware Attack ($40M Ransom Paid, Phoenix CryptoLocker)"
+source_url: "https://www.wsj.com/articles/cna-financial-paid-40-million-in-ransom-after-march-cyberattack-11621866388"
+date_of_breach: "2021-03-21"
+date_of_disclosure: "2021-03-23"
+date_of_customer_notification: "2021-05-12"
+category: "ransomware"
+initial_attack_vector: "Evil Corp-affiliated attackers used a fake browser update (SocGholish/FakeUpdates malware) delivered via a watering hole or malicious website to gain initial access; deployed Phoenix CryptoLocker (a variant of WastedLocker) across CNA's network"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Phoenix CryptoLocker (WastedLocker variant); SocGholish"
+supply_chain_claimed: false
+notes: "CNA Financial Corporation, one of the largest commercial insurance companies in the United States, suffered a ransomware attack on March 21, 2021 that disrupted its operations for approximately three weeks. Attackers deployed Phoenix CryptoLocker — a variant of WastedLocker associated with the Evil Corp threat actor group — encrypting approximately 15,000 devices including CNA employees working remotely via VPN. CNA disconnected from its network to contain the attack, leaving agents and policyholders unable to access CNA systems or receive services. According to reporting by Bloomberg, CNA paid approximately $40 million ransom to regain access to its encrypted network — making it one of the largest known ransomware payments in history. The ransom payment raised significant legal concerns given that Evil Corp is a sanctioned entity under US Treasury OFAC designations. CNA's breach notification (filed with regulators) revealed that attackers had accessed personal data of approximately 75,349 individuals before encryption, including names, Social Security numbers, and health benefit information. The attack highlighted insurance companies' vulnerability — particularly ironic given CNA sells cyber insurance policies."

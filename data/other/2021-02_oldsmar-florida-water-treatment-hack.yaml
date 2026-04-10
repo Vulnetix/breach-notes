@@ -1,0 +1,13 @@
+source_name: "Oldsmar Florida Water Treatment Plant — TeamViewer HMI Remote Access Attack"
+source_url: "https://www.cisa.gov/news-events/alerts/2021/02/10/compromise-us-water-treatment-facility"
+date_of_breach: "2021-02-05"
+date_of_disclosure: "2021-02-08"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "TeamViewer remote desktop software left installed and accessible on a water treatment plant HMI (Human Machine Interface) workstation; shared/weak credentials with no multi-factor authentication; attacker gained remote control of the operator's screen and mouse while the operator watched"
+cve: []
+vendor_product: "TeamViewer remote access software; water treatment SCADA/HMI"
+software_package: "TeamViewer"
+malware: ""
+supply_chain_claimed: false
+notes: "On February 5, 2021, an unknown attacker gained remote access via TeamViewer to the HMI (Human Machine Interface) workstation of the City of Oldsmar, Florida's water treatment facility. While a plant operator was watching his screen, the attacker remotely moved the mouse, opened the controls for sodium hydroxide (lye) dosing, and increased the concentration from the normal 111 parts per million to 11,100 ppm — approximately 100 times the safe level. Sodium hydroxide at that concentration would be dangerously caustic to approximately 15,000 Oldsmar residents served by the facility. The operator immediately noticed the unauthorized cursor movement, corrected the sodium hydroxide level, and reported the incident to the Pinellas County Sheriff, who held a press conference on February 8. No contaminated water reached the public. CISA, FBI, and Secret Service issued an emergency advisory. Investigation revealed that TeamViewer had been installed on the workstation (shared among multiple employees) years prior for IT support purposes and had never been removed — and that the workstation ran Windows 7 (end of life as of January 2020) with no MFA. The FBI later reported that a compromised watering hole website visited by plant employees may have been the initial access vector for credential theft, suggesting the attack may not have been opportunistic. The incident became the paradigmatic example of critical infrastructure OT/ICS systems exposed to the internet via consumer-grade remote access tools with inadequate access controls."

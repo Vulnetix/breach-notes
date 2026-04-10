@@ -1,0 +1,13 @@
+source_name: "U.S. State Department Unclassified Email System Breach (2014–2015)"
+source_url: "https://www.cnn.com/2014/11/16/politics/state-department-hack/index.html"
+date_of_breach: "2014-10-01"
+date_of_disclosure: "2014-11-16"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Russian state-sponsored hackers (attributed to APT29 / Cozy Bear) gained access to the U.S. State Department's unclassified email network; initial access likely via spear-phishing followed by lateral movement and persistent backdoor implants"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late 2014, Russian state-sponsored hackers breached the U.S. State Department's unclassified email system (SBU — Sensitive But Unclassified network), gaining persistent access that proved extremely difficult to fully remediate. The breach was first reported publicly in November 2014. The intrusion was attributed to APT29 (Cozy Bear), the same group later implicated in the 2016 DNC breach. The attackers were so deeply embedded that State Department IT staff took the system offline over a weekend in November 2014 for remediation, but the attackers repeatedly re-established footholds. The breach was linked to a concurrent intrusion at the White House unclassified network. While the network compromised was unclassified, it contained sensitive diplomatic correspondence and communications. The full scope of what was accessed or exfiltrated was not disclosed publicly. Remediation efforts continued into 2015. The State Department incident is frequently cited alongside the concurrent White House and Joint Chiefs of Staff email system intrusions as part of a broad Russian intelligence collection campaign against U.S. government networks in 2014-2015."

@@ -1,0 +1,13 @@
+source_name: "UCLA Health Data Breach (4.5M Patients, APT)"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/ucla-health/index.html"
+date_of_breach: "2014-09-01"
+date_of_disclosure: "2015-07-17"
+date_of_customer_notification: "2015-07-17"
+category: "data-leak"
+initial_attack_vector: "Nation-state attackers (believed to be Chinese APT) gained access to UCLA Health's network and moved laterally to unencrypted parts of the network containing patient data; initial vector not publicly confirmed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "UCLA Health, one of the leading academic medical centers in the United States, disclosed in July 2015 that attackers had accessed parts of its network containing personal and medical information for approximately 4.5 million individuals. The attackers first accessed the network as early as September 2014 and were detected in May 2015. Exposed data included names, addresses, dates of birth, Social Security numbers, Medicare or health plan ID numbers, medical record numbers, and some medical information such as diagnoses, procedures, test results, and medications. The breach was part of a wave of healthcare sector intrusions by Chinese state-sponsored threat actors also responsible for the Anthem breach (January 2015, 78.8M records) and Premera Blue Cross breach (disclosed March 2015, 11M records). In 2016, HHS OCR issued guidance around the healthcare industry's vulnerability to nation-state attackers. UCLA Health settled a class action lawsuit for $7.5 million in 2016."

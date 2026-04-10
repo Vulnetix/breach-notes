@@ -1,0 +1,13 @@
+source_name: "U.S. Postal Service (USPS) Employee Data Breach (800K Records, China-Attributed)"
+source_url: "https://www.washingtonpost.com/business/economy/postal-service-notifies-800000-workers-of-data-breach/2014/11/10/89f00026-68ef-11e4-9fb4-a622dae742a2_story.html"
+date_of_breach: "2014-01-01"
+date_of_disclosure: "2014-11-10"
+date_of_customer_notification: "2014-11-10"
+category: "data-leak"
+initial_attack_vector: "Chinese state-sponsored hackers gained persistent access to USPS corporate networks; the exact initial vector was not fully disclosed publicly but likely involved spear-phishing or exploitation of an internet-facing system followed by lateral movement"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2014, the U.S. Postal Service disclosed that Chinese government hackers had breached its corporate networks and accessed personnel data for approximately 800,000 employees. The intrusion was believed to have persisted for most of 2014 before being discovered. Exposed employee data included names, dates of birth, Social Security numbers, addresses, beginning and ending employment dates, and emergency contact information. Additionally, customer service inquiry data for approximately 2.9 million customers (call center and online inquiries submitted between January 1 and August 16, 2014) was also accessed, though no financial or credit card data was involved. The FBI and U.S. Postal Inspection Service investigated. The intrusion was attributed to state-sponsored Chinese actors (the same broad campaign period as the OPM and other federal agency breaches). USPS notified all affected employees and offered free credit monitoring for one year. The breach illustrated the sustained campaign by Chinese intelligence services against U.S. government workforce data during 2014-2015."

@@ -1,16 +1,19 @@
 source_name: Sitepoint, teespring Third-Party Breach (February 2021)
-source_url: "https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/"
+source_url: https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/
 date_of_breach: 2021-02-01
-date_of_disclosure: 2021-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-01-25'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: WayDev
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Sitepoint, teespring experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was WayDev. Source reporting:
-  https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/
+notes: 'Hacker leaks data of millions of Teespring users. A hacker has leaked the
+  details of millions of users registered on Teespring, a web portal that lets users
+  create and sell custom-printed apparel. The user data was leaked last Sunday on
+  a public forum dedicated to cybercrime and the sale of stolen databases. The Teespring
+  data was made available as a 7zip archive that includes two SQL files. The first
+  file contains a list of more than 8.2 million Teespring users'' email addresses
+  and the date the email address was last updated. Third-party company: WayDev.'

@@ -1,0 +1,13 @@
+source_name: "Scottrade Brokerage Breach — 4.6 Million Customers"
+source_url: "https://www.reuters.com/article/us-scottrade-cybersecurity/scottrade-says-hackers-stole-data-on-4-6-million-customers-idUSKCN0S22BQ20151005"
+date_of_breach: "2013-10-01"
+date_of_disclosure: "2015-10-05"
+date_of_customer_notification: "2015-10-05"
+category: "data-leak"
+initial_attack_vector: "Sophisticated targeted attack — attackers breached Scottrade's network via methods consistent with the same criminal group responsible for the JPMorgan Chase 2014 breach; the investigation found unauthorized access to a database containing customer contact information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2015, Scottrade announced that it had been notified by federal law enforcement that its systems had been breached between approximately late 2013 and early 2014. The attackers accessed a database containing contact information — names, addresses, email addresses, and phone numbers — for approximately 4.6 million customers. Scottrade stated that no Social Security numbers, financial account information, or trading activity data was accessed, and no evidence of fraudulent trading was found. The breach was linked by investigators to the same group responsible for the JPMorgan Chase breach — the Gery Shalon criminal network — as part of a broader scheme involving stock market manipulation, illegal bitcoin exchange operations, and other financial crimes. Scottrade alerted customers in October 2015 and reported the incident to federal authorities. The nearly two-year delay between the breach (2013-2014) and disclosure (2015) was due to the FBI investigating the broader criminal network before Scottrade was notified. The company paid $2.5 million in a settlement with the SEC and FINRA in 2017 related to the incident."

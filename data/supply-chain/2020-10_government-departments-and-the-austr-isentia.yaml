@@ -1,16 +1,16 @@
-source_name: Government Departments and the Australian Stock Exchange Third-Party Breach (October 2020)
-source_url: "https://www.infosecurity-magazine.com/news/isentia-reeling-after-suspected/"
+source_name: Government Departments and the Australian Stock Exchange Third-Party
+  Breach (October 2020)
+source_url: https://www.infosecurity-magazine.com/news/isentia-reeling-after-suspected/
 date_of_breach: 2020-10-01
-date_of_disclosure: 2020-10-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-10-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Isentia
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Government Departments and the Australian Stock Exchange experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was Isentia. Source reporting:
-  https://www.infosecurity-magazine.com/news/isentia-reeling-after-suspected/
+notes: 'Isentia Reeling After Suspected Ransomware Attack. Media monitoring giant
+  Isentia has revealed that it is currently dealing with a major security incident
+  disrupting some online services. Third-party company: Isentia.'

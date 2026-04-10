@@ -1,0 +1,17 @@
+source_name: Russia's GRU Tied to Critical Infrastructure Cloud Breaches (DataBreachToday)
+source_url: https://www.databreachtoday.com/russias-gru-tied-to-critical-infrastructure-cloud-breaches-a-30301
+date_of_breach: '2025-12-16'
+date_of_disclosure: '2025-12-16'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Misconfigured edge devices hosted in the cloud are giving nation-state hackers
+  carte blanche to access Western critical infrastructure, warn threat intelligence
+
+
+  Source: DataBreachToday article coverage.'

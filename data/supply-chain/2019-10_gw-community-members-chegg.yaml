@@ -1,16 +1,23 @@
 source_name: GW community members Third-Party Breach (October 2019)
-source_url: "https://www.gwhatchet.com/2019/10/03/officials-admit-to-chegg-data-breach-affecting-thousands-of-gw-users-account-passwords/"
+source_url: https://www.gwhatchet.com/2019/10/03/officials-admit-to-chegg-data-breach-affecting-thousands-of-gw-users-account-passwords/
 date_of_breach: 2019-10-01
 date_of_disclosure: 2019-10-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Chegg
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, GW community members experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Chegg. Source reporting:
-  https://www.gwhatchet.com/2019/10/03/officials-admit-to-chegg-data-breach-affecting-thousands-of-gw-users-account-passwords/
+notes: 'Officials admit to Chegg data breach affecting thousands of GW users’ account
+  passwords. Officials notified students last week of a data leak revealing about
+  5,000 GW community members'' usernames and passwords to accounts with Chegg''s services.
+  A popular educational technology company leaked thousands of GW community members’
+  usernames, passwords and addresses last year. Officials said Chegg – a company that
+  offers students homework help and textbook rentals – admitted falling victim to
+  a data breach in April 2018 that revealed the usernames and passwords of 5,000 members
+  of the GW community and 40 million users globally. While the incident did not involve
+  a breach of any University systems, officials said Division of Information Technology
+  employees are helping affected students to make sure their information is secure.
+  Third-party company: Chegg.'

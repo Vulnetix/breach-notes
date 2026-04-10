@@ -1,17 +1,18 @@
-source_name: Defence Forces, Para Military Forces and Intelligence Agencies of India Third-Party Breach (January 2021)
-source_url: "https://ciso.economictimes.indiatimes.com/news/defence-tech-service-provider-firms-data-hacked-company-claims-rs-50-cr-loss/79736076"
+source_name: Defence Forces, Para Military Forces and Intelligence Agencies of India
+  Third-Party Breach (January 2021)
+source_url: https://ciso.economictimes.indiatimes.com/news/defence-tech-service-provider-firms-data-hacked-company-claims-rs-50-cr-loss/79736076
 date_of_breach: 2021-01-01
-date_of_disclosure: 2021-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-12-15'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: ELCOM Innovations
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Defence Forces, Para Military Forces and Intelligence Agencies of India experienced a data security
-  incident via a third-party vendor relationship. The compromised third-party vendor was ELCOM Innovations.
-  Source reporting:
-  https://ciso.economictimes.indiatimes.com/news/defence-tech-service-provider-firms-data-hacked-company-claims-rs-50-cr-loss/79736076
+notes: 'Defence tech service provider firm''s data hacked, company claims Rs 50-cr
+  loss. The executive claimed that majority of the hacked emails were of "extremely
+  sensitive" nature and "of substantial financial value", owing to the fact that most
+  of the company''s solutions are customised for the agencies served. Third-party
+  company: ELCOM Innovations.'

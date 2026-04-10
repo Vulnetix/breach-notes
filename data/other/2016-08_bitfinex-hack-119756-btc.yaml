@@ -1,0 +1,13 @@
+source_name: "Bitfinex Bitcoin Exchange Hack — 119,756 BTC (~$72M)"
+source_url: "https://www.reuters.com/article/us-bitfinex-hacked-idUSKCN10E0KP"
+date_of_breach: "2016-08-02"
+date_of_disclosure: "2016-08-02"
+date_of_customer_notification: "2016-08-02"
+category: "other"
+initial_attack_vector: "Attackers compromised BitGo's multi-signature co-signing service integrated with Bitfinex's wallet infrastructure; the exact initial access vector was never fully disclosed, but the attack involved manipulating Bitfinex's API to authorize fraudulent withdrawal transactions that BitGo's servers co-signed without detecting the anomaly"
+cve: []
+vendor_product: "Bitfinex (Hong Kong-based cryptocurrency exchange, iFinex Inc.); BitGo (multi-signature wallet co-signer)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On August 2, 2016, Bitfinex — at the time the world's largest USD-denominated Bitcoin exchange — announced that 119,756 BTC had been stolen from customer accounts, worth approximately $72 million at the time (and over $5 billion at later Bitcoin prices). The theft was executed through nearly 2,000 separate unauthorized transactions. Bitfinex had partnered with BitGo to implement a multi-signature security architecture intended to prevent single-party theft, but the attackers were able to initiate and obtain co-signatures for the fraudulent transactions. In response, Bitfinex controversially spread the losses across all customer accounts — reducing every account balance by approximately 36.067% regardless of whether the customer's own funds were stolen — and issued 'BFX tokens' as debt instruments redeemable for future compensation. Bitfinex redeemed all BFX tokens at full value within approximately 8 months. In February 2022 — nearly six years later — US law enforcement arrested Ilya 'Dutch' Lichtenstein and Heather Morgan in New York, having traced the stolen Bitcoin through a series of obfuscated transactions to wallets under their control. The DOJ seized approximately 94,000 BTC (valued at approximately $3.6 billion at time of seizure) — the largest cryptocurrency seizure in US history at that point. Lichtenstein pleaded guilty to money laundering conspiracy. The case demonstrated the long-term blockchain traceability of crypto theft and became one of the most prominent crypto law enforcement successes. BitGo denied any breach of its own systems, and the full technical details of how the multi-sig security was defeated were never made public by Bitfinex."

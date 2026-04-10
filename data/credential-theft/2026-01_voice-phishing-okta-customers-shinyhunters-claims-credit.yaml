@@ -1,0 +1,18 @@
+source_name: 'Voice Phishing Okta Customers: ShinyHunters Claims Credit (DataBreachToday)'
+source_url: https://www.databreachtoday.com/voice-phishing-okta-customers-shinyhunters-claims-credit-a-30590
+date_of_breach: '2026-01-23'
+date_of_disclosure: '2026-01-23'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A surge in attacks that bypass some types of multifactor authentication has
+  been tied to a new generation of voice-phishing toolkits that give attackers the
+  ability
+
+
+  Source: DataBreachToday article coverage.'

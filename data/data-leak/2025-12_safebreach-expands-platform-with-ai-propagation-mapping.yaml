@@ -1,0 +1,18 @@
+source_name: SafeBreach Expands Platform With AI, Propagation Mapping (DataBreachToday)
+source_url: https://www.databreachtoday.com/safebreach-expands-platform-ai-propagation-mapping-a-30370
+date_of_breach: '2025-12-30'
+date_of_disclosure: '2025-12-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'SafeBreach CEO Guy Bejerano outlines how the firm''s new Propagate tool maps
+  attacker movement from a patient zero and how AI is driving new attack simulations
+  and
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,16 +1,19 @@
 source_name: Medical Facilities Third-Party Breach (Deecember 2020)
-source_url: "https://www.infosecurity-magazine.com/news/leaky-server-12m-medical-records/?&web_view=true"
+source_url: https://www.infosecurity-magazine.com/news/leaky-server-12m-medical-records/?&web_view=true
 date_of_breach: 2020-01-01
-date_of_disclosure: 2020-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2020-12-23'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: iSofH
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Medical Facilities experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was iSofH. Source reporting:
-  https://www.infosecurity-magazine.com/news/leaky-server-12m-medical-records/?&web_view=true
+notes: 'Leaky Server Exposes 12 Million Healthcare Records to Meow Attacker. Extortion
+  and fraud risks persist for tens of thousands of patients. A healthcare technology
+  company leaked 12 million records on patients including highly sensitive diagnoses,
+  before the exposed cloud server was struck by the infamous “meow” attacker, researchers
+  have revealed. A team at SafetyDetectives led by Anurag Sen discovered the leaky
+  Elasticsearch server in late October after a routine IP address scan, although it’s
+  unknown how long the data was exposed for before that. Third-party company: iSofH.'

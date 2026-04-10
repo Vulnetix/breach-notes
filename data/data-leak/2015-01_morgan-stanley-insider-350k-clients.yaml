@@ -1,0 +1,13 @@
+source_name: "Morgan Stanley Insider Breach — Financial Advisor Stole 350K Client Records"
+source_url: "https://www.wsj.com/articles/morgan-stanley-says-employee-stole-data-on-350-000-clients-1421111748"
+date_of_breach: "2014-12-01"
+date_of_disclosure: "2015-01-12"
+date_of_customer_notification: "2015-01-12"
+category: "data-leak"
+initial_attack_vector: "Insider threat — a Morgan Stanley financial advisor (Galen Marsh) with authorized access to client data used his legitimate credentials to download and exfiltrate approximately 350,000 client records from internal systems over the course of several months"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late 2014, Morgan Stanley financial advisor Galen Marsh used his authorized access to the firm's internal systems to download account information for approximately 350,000 wealth management clients. Marsh then posted partial data (account information for roughly 900 clients) to a public website, Pastebin, apparently attempting to sell it. Morgan Stanley discovered the posting in December 2014 and disclosed the breach in January 2015. Exposed data included account names, account numbers, and some portfolio holdings. Morgan Stanley stated no Social Security numbers, passwords, or investment information was in the leaked data. The bank terminated Marsh's employment and notified the FBI. Marsh was indicted in June 2015 and pleaded guilty to unauthorized taking of financial information. He was sentenced to 36 months of probation and ordered to pay $600,000 in restitution. The incident highlighted the insider threat risk from employees with broad data access privileges and the need for data loss prevention (DLP) controls to detect bulk data exfiltration by authorized users."

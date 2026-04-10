@@ -1,0 +1,13 @@
+source_name: "Allscripts Ransomware Attack — EHR Vendor, 1,500+ Physician Practices Disrupted"
+source_url: "https://krebsonsecurity.com/2018/01/ransomware-attack-disrupts-allscripts-erx-service/"
+date_of_breach: "2018-01-18"
+date_of_disclosure: "2018-01-18"
+date_of_customer_notification: "2018-01-18"
+category: "ransomware"
+initial_attack_vector: "SamSam ransomware variant delivered via exploitation of vulnerable internet-facing servers (likely via RDP brute force or exploitation of unpatched JBoss/Java application servers — the same TTPs used in other SamSam campaigns); the ransomware encrypted servers hosting Allscripts' Professional EHR and electronic prescriptions for controlled substances (EPCS) cloud-hosted services"
+cve: []
+vendor_product: "Allscripts Healthcare Solutions (EHR and practice management software vendor)"
+software_package: ""
+malware: "SamSam ransomware"
+supply_chain_claimed: true
+notes: "On January 18, 2018, Allscripts Healthcare Solutions — one of the largest electronic health record (EHR) vendors in the United States, serving more than 45,000 physician practices and 180,000 physicians — suffered a ransomware attack that took offline two of its hosted data centers and disrupted service to approximately 1,500 physician practices across the US. The SamSam ransomware encrypted servers supporting Allscripts' Professional EHR cloud-hosted product and its electronic prescriptions for controlled substances (EPCS) service. The outage prevented physicians from accessing patient records, prescribing medications electronically, submitting claims for insurance reimbursement, and scheduling appointments. Many affected practices had to revert to paper-based workflows for the first time in years. Allscripts began restoring services gradually, but full restoration took nearly a week, with some services remaining disrupted for 10+ days. Allscripts faced multiple class action lawsuits from physician practices alleging negligence and breach of contract due to the extended outage. The attack was attributed to the SamSam group (later identified as Iranian nationals Faramarz Shahi Savandi and Mohammad Mehdi Shah Mansouri, who were indicted by the DOJ in November 2018 for SamSam attacks). The Allscripts incident was the highest-profile healthcare IT vendor ransomware attack prior to the 2024 Change Healthcare outage and demonstrated the systemic risk of consolidated EHR cloud hosting."

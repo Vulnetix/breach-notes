@@ -1,0 +1,13 @@
+source_name: "Vermont Attorney General / AHA / Health IT Security"
+source_url: "https://healthitsecurity.com/news/university-of-vermont-health-network-recovers-from-ransomware-attack"
+date_of_breach: "2020-10-28"
+date_of_disclosure: "2020-10-30"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (DoppelPaymer ransomware; likely delivered via phishing)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "DoppelPaymer"
+supply_chain_claimed: false
+notes: "DoppelPaymer ransomware crippled the University of Vermont Health Network on October 28 2020, affecting all six of its hospitals and hundreds of medical staff. The attack knocked out access to Epic EHR, email, phone systems, and medical devices. Staff reverted to paper-based workflows; chemotherapy appointments were delayed and some patients diverted. Full recovery took approximately one month. The FBI and CISA had issued a joint advisory just days earlier warning of imminent ransomware attacks against US healthcare, citing the same TrickBot/DoppelPaymer threat. Remediation costs were estimated at $63M (partially covered by state emergency funds). No patient data was confirmed stolen; Ryuk was initially misreported as the malware."

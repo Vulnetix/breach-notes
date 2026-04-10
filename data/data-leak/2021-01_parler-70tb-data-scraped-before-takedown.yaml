@@ -1,0 +1,13 @@
+source_name: "Parler Data Scrape — 70TB of Posts, Photos, and Metadata Before Takedown"
+source_url: "https://www.wired.com/story/parler-hack-data-public-posts-scraped/"
+date_of_breach: "2021-01-09"
+date_of_disclosure: "2021-01-10"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "API scraping via enumerable insecure direct object references (IDOR) — Parler's API endpoints used sequential integer IDs with no authentication required; after Amazon Web Services announced it would terminate Parler's hosting (in response to its role in organizing the January 6 Capitol attack), researchers and archivists systematically scraped the entire public-facing API before the site went offline"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On January 8, 2021, Amazon Web Services notified Parler — a social media platform popular with right-wing users — that it would terminate Parler's hosting services on January 10 due to Parler's role in organizing and facilitating the January 6 Capitol breach. In response, a researcher known as @donk_enby and a wider group of archivists and security researchers exploited Parler's API design flaws to scrape the entire platform before it went offline. Parler's API used sequential integer IDs for posts and did not require authentication to retrieve public content, making it trivial to enumerate and download every post by simply incrementing numeric IDs. Approximately 70 terabytes of data were archived, including all public posts (including posts users had 'deleted,' which Parler had not actually removed), photos and videos with full EXIF metadata preserved (including GPS coordinates that geolocated where media was captured), and user information. The scraped data was shared via BitTorrent and subsequently used by journalists, law enforcement, and researchers. The GPS-tagged photos and videos were used to identify individuals present at the Capitol on January 6. The incident is categorized as a data exposure rather than a traditional unauthorized breach — all scraped content was publicly accessible without authentication. However, users had not anticipated their deleted content was retained, nor that precise GPS locations embedded in photos were accessible. The case illustrates how API design choices (sequential IDs, no deletion enforcement, EXIF preservation) can create mass data exposure even when no technical 'hacking' is required."

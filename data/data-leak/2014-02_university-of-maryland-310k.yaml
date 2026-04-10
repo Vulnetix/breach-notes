@@ -1,0 +1,13 @@
+source_name: "University of Maryland Data Breach — 310,000 Records"
+source_url: "https://www.washingtonpost.com/news/the-switch/wp/2014/02/19/university-of-maryland-suffers-major-data-breach/"
+date_of_breach: "2014-02-18"
+date_of_disclosure: "2014-02-19"
+date_of_customer_notification: "2014-02-19"
+category: "data-leak"
+initial_attack_vector: "Attackers gained unauthorized access to a University of Maryland database server containing records for all faculty, staff, and students who had been issued a university ID; the specific technical attack vector was not fully disclosed but involved unauthorized access to a records database"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On February 18, 2014, the University of Maryland suffered a data breach in which attackers accessed a database containing records for 309,079 faculty, staff, and students who had been issued a university ID since 1998. The university disclosed the breach just one day later, on February 19 — an unusually rapid disclosure. Exposed data included names, Social Security numbers, dates of birth, and university ID numbers. No financial or academic records were included. University President Wallace Loh disclosed the breach directly via email to the university community and issued a public statement. The breach prompted the university to bring in outside cybersecurity experts and conduct a security audit. The university offered credit monitoring to those affected. Maryland Governor Martin O'Malley publicly commented on the breach, which received significant media attention as an example of the higher education sector's vulnerability to data theft. The rapid, transparent disclosure was widely praised as a model for breach response."

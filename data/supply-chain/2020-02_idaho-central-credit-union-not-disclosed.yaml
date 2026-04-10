@@ -1,13 +1,19 @@
 source_name: Idaho Central Credit Union Third-Party Breach (February 2020)
-source_url: "https://www.idahostatejournal.com/"
+source_url: https://www.idahostatejournal.com/
 date_of_breach: 2020-02-01
 date_of_disclosure: 2020-02-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2020, Idaho Central Credit Union experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.idahostatejournal.com/"
+notes: idahostatejournal.com | empowering the community. This website uses certain
+  cookies, pixels and similar tracking technologies in order enhance site navigation,
+  analyze site usage, and assist in our marketing efforts. Certain information collected
+  by that technology may be shared with our third party partners. By continuing to
+  use this website, you agree to the use of these technologies. [](http://www.idahostatejournal.com/freeaccess/authorities-searching-for-missing-idaho-falls-man/article_2ccef7f4-3d05-5d7f-aed9-b295fbf140f8.html).
+  The Bonneville County Sheriff’s Office is asking for the public’s help locating
+  a 20-year-old Idaho Falls man who has not been seen or heard from in nearly a week.

@@ -1,0 +1,13 @@
+source_name: "Newkirk Products BCBS Health Plan ID Card Vendor Breach (3.3M Members)"
+source_url: "https://www.hipaajournal.com/3-3-million-record-breach-reported-bcbs-vendor-3538/"
+date_of_breach: "2016-05-21"
+date_of_disclosure: "2016-08-08"
+date_of_customer_notification: "2016-08-08"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to a production server at Newkirk Products containing health plan member data; attacker gained access to the server hosting membership data; the server was shut down upon discovery on July 6, 2016"
+cve: []
+vendor_product: "Newkirk Products health plan ID card printing system"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Newkirk Products, Inc., a New York-based company that printed and mailed health plan identification cards on behalf of multiple Blue Cross Blue Shield (BCBS) plans, disclosed a data breach in August 2016 that affected approximately 3.3–3.46 million current and former health plan members. Unauthorized access to a production server first occurred on May 21, 2016 and was discovered on July 6, 2016. The server contained data submitted by BCBS plans for the purpose of printing and mailing insurance cards. Exposed data included health plan member names, mailing addresses, plan types, member and group identification numbers, names of primary care providers, names of dependents, and in some cases dates of birth, premium invoice data, and Medicaid ID numbers. No Social Security numbers or banking data were stored on the compromised server. BCBS plans that used Newkirk Products notified their affected members, who were offered two years of free identity protection monitoring. The breach affected members of multiple regional BCBS plans nationwide. The incident illustrated the healthcare sector's exposure to third-party business associate breaches, where companies processing PHI on behalf of covered entities create concentrated targets."

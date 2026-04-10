@@ -1,0 +1,13 @@
+source_name: "LivingSocial Hack — 50 Million Customer Accounts"
+source_url: "https://www.washingtonpost.com/business/economy/livingsocial-hacked-50-million-accounts-affected/2013/04/26/94cff002-ae55-11e2-8bf6-e70cb6ae066e_story.html"
+date_of_breach: "2013-04-01"
+date_of_disclosure: "2013-04-26"
+date_of_customer_notification: "2013-04-26"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to LivingSocial's database systems; the specific technical vector was not disclosed publicly, but the attacker gained read access to a customer database"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late April 2013, LivingSocial (an online deals and local offers marketplace, then majority-owned by Amazon) suffered a cyberattack in which hackers accessed a database containing information for up to 50 million customers in the United States and other countries. LivingSocial disclosed the breach on April 26, 2013, and immediately expired all customer passwords, requiring users to create new ones. Exposed data included names, email addresses, dates of birth, and encrypted (hashed and salted) passwords. Financial data and payment card information were reportedly stored in a separate system and were not accessed. Countries outside the U.S. including Philippines, Indonesia, Thailand, and Malaysia were also affected. LivingSocial notified affected users by email and advised them to change passwords on any other sites where they used the same credentials. At 50 million records, the breach was one of the larger consumer data incidents up to that point in 2013. LivingSocial later declined as a business and was acquired and restructured multiple times; the breach did not directly cause its business difficulties but added to a difficult period for the company."

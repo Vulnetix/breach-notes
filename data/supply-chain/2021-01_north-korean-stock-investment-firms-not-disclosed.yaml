@@ -1,16 +1,19 @@
 source_name: North Korean Stock Investment Firms Third-Party Breach (January 2021)
-source_url: "https://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/?&web_view=true"
+source_url: https://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/?&web_view=true
 date_of_breach: 2021-01-01
-date_of_disclosure: 2021-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-01-05'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, North Korean Stock Investment Firms experienced a data security incident via a third-party vendor
-  relationship. Source reporting:
-  https://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/?&web_view=true
+notes: North Korean software supply chain attack targets stock investors. North Korean
+  hacking group Thallium has been targeting a private stock investment messenger service
+  in a supply chain attack, as reported this week. North Korean hacking group Thallium
+  has targeted users of a private stock investment messenger service in a software
+  supply chain attack, according to a report published this week. Up until now, the
+  group mainly relied on phishing attacks , such as via Microsoft Office documents,
+  to target its victims.

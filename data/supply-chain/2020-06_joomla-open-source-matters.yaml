@@ -1,16 +1,18 @@
 source_name: Joomla Third-Party Breach (June 2020)
-source_url: "https://www.zdnet.com/article/joomla-team-discloses-data-breach/"
+source_url: https://www.zdnet.com/article/joomla-team-discloses-data-breach/
 date_of_breach: 2020-06-01
 date_of_disclosure: 2020-06-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Open Source Matters
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Joomla experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Open Source Matters. Source reporting:
-  https://www.zdnet.com/article/joomla-team-discloses-data-breach/
+notes: 'Joomla team discloses data breach. Joomla says a team member left an unencrypted
+  backup of the JRD portal on a private AWS S3 bucket. The team behind the Joomla
+  open source content management system (CMS) announced a security breach last week.
+  The incident took place after a member of the Joomla Resources Directory (JRD) team
+  left a full backup of the JRD site ( resources.joomla.org ) on an Amazon Web Services
+  S3 bucket owned by their own company. Third-party company: Open Source Matters.'

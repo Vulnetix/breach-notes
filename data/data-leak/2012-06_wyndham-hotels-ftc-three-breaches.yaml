@@ -1,0 +1,13 @@
+source_name: "Wyndham Hotels Three Data Breaches (FTC Landmark Case, 619K Cards)"
+source_url: "https://www.ftc.gov/news-events/press-releases/2014/08/ftc-files-amended-complaint-against-wyndham-hotels"
+date_of_breach: "2008-04-01"
+date_of_disclosure: "2012-06-26"
+date_of_customer_notification: "2009-01-01"
+category: "data-leak"
+initial_attack_vector: "Three separate network intrusions exploiting Wyndham's systemic security failures: unencrypted storage of payment card data, easily guessable passwords, failure to patch known vulnerabilities, failure to use firewalls, and failure to restrict third-party vendor access to the corporate network — attackers exfiltrated data to a domain registered in Russia"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between April 2008 and late 2010, Wyndham Hotel & Resorts suffered three separate network intrusions that collectively compromised approximately 619,000 consumer payment card account numbers, resulting in approximately $10.6 million in fraudulent charges. Data was exported to a domain registered in Russia. The FTC sued Wyndham in June 2012 in the first-ever FTC cybersecurity case against a hotel company, alleging that Wyndham's repeated security failures constituted 'unfair business practices' under Section 5 of the FTC Act. Key security failures identified: (1) stored payment card data in cleartext; (2) used easily guessable passwords ('micros' repeatedly used); (3) failed to patch known vulnerabilities in hotel servers; (4) failed to use firewalls; (5) allowed third-party vendors unrestricted network access. Wyndham challenged the FTC's authority in a landmark legal case — the Third Circuit Court of Appeals upheld the FTC's authority in August 2015 (FTC v. Wyndham Worldwide Corp., 799 F.3d 236). Wyndham reached a settlement in December 2015 requiring a 20-year information security program with biennial PCI DSS assessments. No financial penalty was imposed, but the case established that the FTC Act covers cybersecurity negligence and created important legal precedent."

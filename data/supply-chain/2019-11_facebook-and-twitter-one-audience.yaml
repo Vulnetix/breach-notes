@@ -1,16 +1,21 @@
 source_name: Facebook and Twitter Third-Party Breach (November 2019)
-source_url: "https://www.hackread.com/facebook-twitter-data-breach-third-party-developers/"
+source_url: https://www.hackread.com/facebook-twitter-data-breach-third-party-developers/
 date_of_breach: 2019-11-01
-date_of_disclosure: 2019-11-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-11-27'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: One Audience
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Facebook and Twitter experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was One Audience. Source reporting:
-  https://www.hackread.com/facebook-twitter-data-breach-third-party-developers/
+notes: 'Facebook & Twitter suffer data breach via third-party developers. On Monday,
+  both Facebook and Twitter announced that the data of hundreds of users had been
+  compromised due to a software development kit (SDK) named “One Audience” giving
+  third-party developers access to certain data. The data includes email addresses,
+  usernames and recent tweets of anyone who accessed certain apps including Giant
+  Square and Photofy from their Twitter accounts. While Twitter has confirmed that
+  the SDK was used for accessing the data of Twitter users on Android , they claim
+  that no evidence has been seen for the same occurring on iOS. Third-party company:
+  One Audience.'

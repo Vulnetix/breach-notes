@@ -1,0 +1,13 @@
+source_name: "GoodRx FTC Health Breach Notification Rule Enforcement ($1.5M Fine, 55M Users)"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-takes-action-against-goodrx-sharing-consumers-sensitive-health-information-advertisers"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2023-02-01"
+date_of_customer_notification: "2023-02-01"
+category: "data-leak"
+initial_attack_vector: "Intentional data sharing — GoodRx embedded third-party tracking pixels (from Meta/Facebook, Google, Criteo, Branch.io, and Twilio) on its website and apps that transmitted users' sensitive health and prescription information to advertising platforms for targeting and retargeting purposes"
+cve: []
+vendor_product: "GoodRx health savings platform; Meta Pixel; Google advertising SDK"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "GoodRx, the US prescription drug discount platform with approximately 55 million users, disclosed its use of third-party advertising trackers in 2023 when the FTC took enforcement action. GoodRx had been embedding advertising pixels from Meta/Facebook, Google, Criteo, Branch.io, and Twilio Segment on its website and mobile apps since at least 2017. These pixels transmitted users' sensitive health information — including prescription drug names, health conditions linked to those drugs, personal identity information (email addresses, phone numbers), and advertising identifiers — to advertising companies who used it to target users with ads. GoodRx received value in return through lower advertising rates (benefiting from the very data they shared). In February 2023, the FTC brought an enforcement action against GoodRx under both the Health Breach Notification Rule (HBNR) and Section 5 of the FTC Act — the FTC's first-ever enforcement action under the Health Breach Notification Rule, enacted in 2009. GoodRx settled for $1.5 million and agreed to stop sharing user health information for advertising, provide required notifications, and establish a privacy program. The case broke new ground by applying the Health Breach Notification Rule to app-based health platforms and established that intentional sharing of health data with advertisers constitutes a reportable data breach. The FTC simultaneously issued guidance making clear it views health tracking pixel practices as illegal."

@@ -1,16 +1,13 @@
 source_name: Instagram Third-Party Breach (January 2020)
-source_url: "https://www.thesun.co.uk/tech/10863583/social-captain-instagram-password-leak-online-how-to/"
+source_url: https://www.thesun.co.uk/tech/10863583/social-captain-instagram-password-leak-online-how-to/
 date_of_breach: 2020-01-01
 date_of_disclosure: 2020-01-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Social Captain
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2020, Instagram experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Social Captain. Source reporting:
-  https://www.thesun.co.uk/tech/10863583/social-captain-instagram-password-leak-online-how-to/
+notes: 'Third-party company: Social Captain.'

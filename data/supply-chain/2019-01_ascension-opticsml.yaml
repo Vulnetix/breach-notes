@@ -1,15 +1,20 @@
 source_name: Ascension Third-Party Breach (January 2019)
-source_url: "https://techcrunch.com/2019/01/23/financial-files/"
+source_url: https://techcrunch.com/2019/01/23/financial-files/
 date_of_breach: 2019-01-01
-date_of_disclosure: 2019-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-01-23'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: OpticsML
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Ascension experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was OpticsML. Source reporting: https://techcrunch.com/2019/01/23/financial-files/
+notes: 'Millions of bank loan and mortgage documents have leaked online | TechCrunch.
+  A trove of more than 24 million financial and banking documents, representing tens
+  of thousands of loans and mortgages from some of the biggest banks in. The server,
+  running an Elasticsearch database, had more than a decade’s worth of data, containing
+  loan and mortgage agreements, repayment schedules and other highly sensitive financial
+  and tax documents that reveal an intimate insight into a person’s financial life.
+  But it wasn’t protected with a password, allowing anyone to access and read the
+  massive cache of documents. Third-party company: OpticsML.'

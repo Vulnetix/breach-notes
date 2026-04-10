@@ -1,0 +1,13 @@
+source_name: "REvil Ransomware Attack on Acer: $50M Demand via ProxyLogon"
+source_url: "https://www.bleepingcomputer.com/news/security/revil-ransomware-gang-demands-50-million-from-acer/"
+date_of_breach: "2021-03-14"
+date_of_disclosure: "2021-03-19"
+date_of_customer_notification: "2021-03-19"
+category: "ransomware"
+initial_attack_vector: "REvil gained initial access to Acer's network via the ProxyLogon Microsoft Exchange Server vulnerability (CVE-2021-26855) — exploiting the critical zero-day mere days after public disclosure"
+cve: ["CVE-2021-26855"]
+vendor_product: "Microsoft Exchange Server"
+software_package: ""
+malware: "REvil (Sodinokibi) ransomware"
+supply_chain_claimed: false
+notes: "On March 14, 2021, REvil ransomware operators attacked Acer, the Taiwanese PC manufacturer, using the freshly-disclosed ProxyLogon Exchange vulnerability (CVE-2021-26855, disclosed March 2, 2021) as the initial access vector — less than two weeks after the vulnerability became public. REvil demanded $50 million in Monero cryptocurrency — the largest ransomware demand publicly recorded at the time. The group posted images of allegedly stolen financial spreadsheets, bank balances, and bank communications as proof of data exfiltration. They threatened to double the ransom to $100 million if not paid within their deadline. Acer acknowledged a 'security incident' but did not confirm paying a ransom. The attack demonstrated the extremely short window between vulnerability disclosure and weaponization by ransomware operators — and the particular danger of internet-facing Exchange servers during the ProxyLogon exploitation wave."

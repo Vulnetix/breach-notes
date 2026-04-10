@@ -1,0 +1,13 @@
+source_name: "UnityPoint Health Phishing Breach — 1.4M Patients"
+source_url: "https://www.unitypoint.org/news/2018/unitypoint-health-notification-regarding-phishing-attack.aspx"
+date_of_breach: "2018-03-14"
+date_of_disclosure: "2018-07-31"
+date_of_customer_notification: "2018-07-31"
+category: "data-leak"
+initial_attack_vector: "Business email compromise (BEC) phishing attack targeting UnityPoint Health employees; attackers sent emails impersonating a trusted executive, convincing employees to provide their email credentials; the compromised employee email accounts were then accessed by attackers who could view and exfiltrate protected health information from email contents"
+cve: []
+vendor_product: "UnityPoint Health (Iowa-based integrated health system)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "UnityPoint Health, a major Iowa-based health system operating 32 hospitals and 280+ clinics across Iowa, Illinois, and Wisconsin, suffered two phishing-related breaches in 2018. The first (not widely reported) occurred in February 2018. The second and larger breach began on March 14, 2018, when employees fell victim to a business email compromise (BEC) phishing campaign using emails impersonating an executive. The attackers gained access to employee email accounts and could access emails containing patient protected health information (PHI) including names, addresses, dates of birth, medical record numbers, treatment information, diagnoses, medications, insurance information, and for some patients, Social Security numbers and bank account information. UnityPoint Health filed its HIPAA breach report with HHS on July 31, 2018, disclosing that approximately 1.4 million patients were potentially affected. This made it one of the largest healthcare breaches of 2018. The health system notified affected patients and offered credit monitoring. The incident demonstrated that phishing attacks targeting employee email accounts — rather than direct EHR system compromise — were becoming a leading cause of large-scale healthcare data breaches. UnityPoint faced a class action lawsuit in Iowa federal court, which was ultimately settled."

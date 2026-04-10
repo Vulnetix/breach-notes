@@ -1,13 +1,23 @@
 source_name: Bank of America Third-Party Breach (May 2020)
-source_url: "https://www.bankinfosecurity.com/bank-america-responds-to-breach-a-4487"
+source_url: https://www.bankinfosecurity.com/bank-america-responds-to-breach-a-4487
 date_of_breach: 2020-05-01
 date_of_disclosure: 2020-05-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2020, Bank of America experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.bankinfosecurity.com/bank-america-responds-to-breach-a-4487"
+notes: Bank of America Responds to Breach. Bank of America blames a suspected breach
+  of credit card data on an unidentified third party. What happened, and what can
+  other institutions do to better protect. Bank of America last week blamed a suspected
+  breach of credit card data on an unidentified third party, which the bank later
+  revealed to be a merchant. The incident illustrates security risks institutions
+  increasingly face, whether because of a merchant breach or relying too heavily on
+  partners and suppliers. BofA has sent letters to select customers, notifying them
+  of a possible compromise that likely exposed details about their credit card accounts.
+  Though the bank's spokesperson would not reveal how many of accountholders were
+  affected, she did say the institution is taking necessary steps to address known
+  security gaps.

@@ -1,0 +1,13 @@
+source_name: "BleepingComputer / Maine AG disclosure"
+source_url: "https://www.bleepingcomputer.com/news/security/fashion-giant-guess-discloses-data-breach-after-ransomware-attack/"
+date_of_breach: "2021-02-19"
+date_of_disclosure: "2021-06-09"
+date_of_customer_notification: "2021-06-09"
+category: "ransomware"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (DarkSide ransomware)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "DarkSide"
+supply_chain_claimed: false
+notes: "DarkSide ransomware attacked fashion retailer Guess (NYSE: GES) in February 2021, exfiltrating data before encryption. DarkSide published a sample of stolen files on their leak site in April 2021. Guess disclosed the breach on June 9 2021 and notified approximately 1,300 affected individuals (per Maine AG filing) whose personal data was exposed, including Social Security numbers, driver's license numbers, passport numbers, and financial account information. The relatively small notification count suggests the exfiltrated data primarily affected employees or a subset of HR records rather than the full customer base. Guess did not disclose whether a ransom was paid."

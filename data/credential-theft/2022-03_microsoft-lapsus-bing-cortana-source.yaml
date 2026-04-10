@@ -1,0 +1,13 @@
+source_name: "Microsoft LAPSUS$ Breach: Bing, Bing Maps, Cortana Source Code Exfiltrated"
+source_url: "https://msrc-blog.microsoft.com/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/"
+date_of_breach: "2022-03-20"
+date_of_disclosure: "2022-03-22"
+date_of_customer_notification: "2022-03-22"
+category: "credential-theft"
+initial_attack_vector: "LAPSUS$ (DEV-0537) compromised a single Microsoft employee account and used it to access Microsoft's Azure DevOps source code repositories"
+cve: []
+vendor_product: "Microsoft Azure DevOps"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On March 20, 2022, LAPSUS$ posted a screenshot on Telegram showing they had access to Microsoft's internal Azure DevOps environment, including source code repositories for Bing, Bing Maps, and Cortana. Microsoft detected the intrusion and interrupted the attackers during the operation. LAPSUS$ subsequently published approximately 37GB of source code from 250 Azure DevOps projects. Microsoft confirmed the breach, stating that a single account was compromised and that the attacker did not have access to customer data. Microsoft's investigation found the breach was achieved through LAPSUS$'s signature tactic of compromising individual employee accounts — in this case through recruiting an insider or obtaining credentials through phishing/credential theft. Microsoft noted that LAPSUS$ used legitimate remote access tools including AnyDesk, TeamViewer, and Windows built-in tools to maintain access. This breach occurred the same week LAPSUS$ arrested members in the UK included two teenagers (ages 16 and 17). Part of a broader LAPSUS$ rampage in early 2022 that also hit Okta, Nvidia, Samsung, Vodafone, and others."

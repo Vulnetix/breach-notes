@@ -1,0 +1,13 @@
+source_name: "Bell Canada / CBC / Vice Motherboard"
+source_url: "https://www.cbc.ca/news/business/bell-canada-hacked-1-9-million-email-addresses-and-76-000-names-and-active-phone-numbers-stolen-1.2738698"
+date_of_breach: "2014-08-01"
+date_of_disclosure: "2014-08-28"
+date_of_customer_notification: "2014-08-28"
+category: "data-leak"
+initial_attack_vector: "CWE-89: SQL Injection (hacker group NullCrew exploited SQL injection in Bell's systems)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Hacker collective NullCrew claimed responsibility for a breach of Bell Canada, Canada's largest telecom, disclosed August 28 2014. Approximately 1.9 million email addresses and 76,000 names and active phone numbers were stolen. NullCrew used SQL injection to access Bell's databases and published a portion of the data online. Bell confirmed the breach and stated that no financial or password data was taken. Bell notified affected customers by email. Several members of NullCrew were subsequently arrested and charged in the United States."

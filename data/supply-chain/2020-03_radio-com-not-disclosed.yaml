@@ -1,13 +1,17 @@
 source_name: Radio.com Third-Party Breach (March 2020)
-source_url: "https://www.welivesecurity.com/2020/03/13/radiocom-users-affected-data-breach/"
+source_url: https://www.welivesecurity.com/2020/03/13/radiocom-users-affected-data-breach/
 date_of_breach: 2020-03-01
 date_of_disclosure: 2020-03-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2020, Radio.com experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.welivesecurity.com/2020/03/13/radiocom-users-affected-data-breach/"
+notes: Radio.com users affected in data breach. Entercom, the second-largest radio
+  company in the United States, has announced that it suffered a cybersecurity incident
+  that affected Radio.com users. Award-winning news, views, and insight from the ESET
+  security community. An unknown number of people had their personal data exposed
+  as hackers accessed database backup files.

@@ -1,16 +1,18 @@
 source_name: City of Sioux Third-Party Breach (December 2019)
-source_url: "https://siouxcityjournal.com/news/local/data-security-breach-impacts-city-of-sioux-city-customers/article_9a1f98a2-783d-5a8e-a4b9-e9db2c3f5ce4.html"
+source_url: https://siouxcityjournal.com/news/local/data-security-breach-impacts-city-of-sioux-city-customers/article_9a1f98a2-783d-5a8e-a4b9-e9db2c3f5ce4.html
 date_of_breach: 2019-12-01
-date_of_disclosure: 2019-12-01
-date_of_customer_notification: ""
+date_of_disclosure: '2019-12-20'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, City of Sioux experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Click2Gov. Source reporting:
-  https://siouxcityjournal.com/news/local/data-security-breach-impacts-city-of-sioux-city-customers/article_9a1f98a2-783d-5a8e-a4b9-e9db2c3f5ce4.html
+notes: 'Data security breach impacts City of Sioux City customers. SIOUX CITY -- A
+  data security breach has potentially impacted more than 3,500 City of Sioux City
+  customer utility and parking accounts. SIOUX CITY -- Another local eye clinic has
+  been victimized by a malware attack on its computer systems. If you''re feeling
+  generous this holiday season, particularly if you''re a senior, be wary of scammers
+  who are looking to take advantage of that…. Third-party company: Click2Gov.'

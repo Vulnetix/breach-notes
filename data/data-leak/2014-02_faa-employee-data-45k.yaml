@@ -1,0 +1,13 @@
+source_name: "Federal Aviation Administration (FAA) Employee Data Breach (45,000 Records)"
+source_url: "https://www.federaltimes.com/management/2014/04/15/faa-data-breach-exposes-data-on-45000-employees/"
+date_of_breach: "2014-02-01"
+date_of_disclosure: "2014-04-15"
+date_of_customer_notification: "2014-04-15"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to an FAA internal computer system containing employee records; the agency reported the system was accessed without authorization, though the specific technical vector was not fully disclosed publicly"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early 2014, the Federal Aviation Administration (FAA) suffered an unauthorized intrusion into an agency computer system that contained personally identifiable information for approximately 45,000 current and former FAA employees. The breach was discovered in February 2014 and disclosed publicly in April 2014. Exposed data included names and Social Security numbers. The FAA notified affected employees and offered credit monitoring services. The incident was part of a broader pattern of federal agency breaches during 2014-2015, during which Chinese state-sponsored actors were conducting a sustained campaign against U.S. government personnel databases. Whether this FAA breach was part of that Chinese APT campaign or a separate incident was not definitively attributed publicly. The FAA coordinated with the Department of Homeland Security and law enforcement in the investigation."

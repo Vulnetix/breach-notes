@@ -1,0 +1,13 @@
+source_name: "Zotob Worm — Windows 2000 Plug and Play Exploit (CNN, NYT, DHS Disrupted)"
+source_url: "https://www.cisa.gov/news-events/alerts/2005/08/12/multiple-variants-zotob-worm"
+date_of_breach: "2005-08-13"
+date_of_disclosure: "2005-08-13"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Remote code execution exploit (MS05-039) against the Windows Plug and Play service on unpatched Windows 2000 systems; the worm appeared within days of Microsoft's August 9, 2005 Patch Tuesday release, exploiting the vulnerability before most organizations could patch"
+cve: ["CVE-2005-1983"]
+vendor_product: "Microsoft Windows 2000"
+software_package: ""
+malware: "Zotob (W32/Zotob, also Tpbot, Esbot, Rbot variants)"
+supply_chain_claimed: false
+notes: "The Zotob worm emerged on August 13, 2005 — just four days after Microsoft released the MS05-039 patch for a critical Plug and Play buffer overflow vulnerability in Windows 2000. The worm spread rapidly across networks of unpatched Windows 2000 machines, causing repeated crashes and reboots (a 'reboot loop'). High-profile victims included CNN, whose news operations were visibly disrupted during live broadcasts (anchors were shown rebooting computers on air); The New York Times; ABC News; The Associated Press; Caterpillar; and the U.S. Department of Homeland Security. The incident drew extraordinary media attention partly because news networks affected themselves had to report on it. Two men were arrested and convicted in connection with Zotob: Farid Essebar (18, Moroccan) and Atilla Ekici (21, Turkish), arrested within weeks of the outbreak in a joint FBI/Moroccan/Turkish investigation. Essebar was sentenced to two years in prison in Morocco; Ekici to four years in Turkey. The Zotob incident reinforced the concept of 'patch-gap' risk — the dangerous window between a vulnerability's disclosure (via a Patch Tuesday release) and when organizations fully deploy the patch, during which adversaries can reverse-engineer the patch and weaponize the vulnerability. Windows XP and Windows Server 2003 were not affected, as the Plug and Play vulnerability did not permit unauthenticated exploitation on those platforms."

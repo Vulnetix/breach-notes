@@ -1,0 +1,13 @@
+source_name: "Barnes & Noble PIN Pad Skimmer Attack (63 Stores, FBI-Delayed Disclosure)"
+source_url: "https://krebsonsecurity.com/2012/10/hackers-tamper-with-point-of-sale-terminal-at-63-barnes-noble-stores/"
+date_of_breach: "2012-08-01"
+date_of_disclosure: "2012-10-24"
+date_of_customer_notification: "2012-10-24"
+category: "credential-theft"
+initial_attack_vector: "Physical tampering — attackers installed hardware skimming devices (including PIN capture overlays) on PIN pad terminals at 63 Barnes & Noble stores across 9 states; tampered terminals captured both the magnetic stripe data and PIN from debit card transactions"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Barnes & Noble, the US bookseller, disclosed in October 2012 that PIN pad payment terminals at 63 retail stores across 9 states had been physically tampered with — skimming devices had been installed to capture both magnetic stripe data and PINs from payment cards. Barnes & Noble discovered the tampering in early September 2012 and immediately disabled all PIN pad devices at all 700 of its stores, reverting to swipe-only transactions. However, the company delayed public disclosure for approximately 6 weeks at the request of the FBI and Secret Service, who were conducting an ongoing investigation. Barnes & Noble disclosed the breach in late October 2012. The incident was notable for: (1) the scale of coordinated physical device tampering across 63 locations in 9 states; (2) the capture of PIN data enabling ATM cash withdrawals (not just card-present fraud); (3) the FBI-requested notification delay; and (4) Barnes & Noble's proactive step of disabling all PIN pads nationwide despite only 63 confirmed compromised locations. The perpetrators were never publicly identified."

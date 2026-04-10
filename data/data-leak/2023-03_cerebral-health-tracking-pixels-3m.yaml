@@ -1,0 +1,13 @@
+source_name: "Cerebral Mental Health Tracking Pixel Breach (3.18M Patients, Meta/Google/TikTok)"
+source_url: "https://www.hipaajournal.com/cerebral-discloses-hipaa-breach-affecting-3-18-million-individuals-due-to-tracking-pixels/"
+date_of_breach: "2019-10-12"
+date_of_disclosure: "2023-03-06"
+date_of_customer_notification: "2023-03-06"
+category: "data-leak"
+initial_attack_vector: "Intentional data sharing via third-party advertising tracking pixels — Cerebral embedded Meta Pixel, Google analytics/advertising, TikTok Pixel, and other trackers on its website and apps that transmitted sensitive mental health patient data to advertising platforms without patients' knowledge or valid HIPAA authorization"
+cve: []
+vendor_product: "Meta Pixel; Google advertising SDK; TikTok Pixel"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Cerebral, a US telehealth startup specializing in mental health treatment (therapy, psychiatry, and medication management), disclosed in March 2023 that it had transmitted sensitive health information of approximately 3.18 million patients to Meta (Facebook), Google, TikTok, and other third-party advertising platforms via embedded tracking pixels between October 12, 2019 and January 3, 2023. The shared data included names, phone numbers, email addresses, dates of birth, IP addresses, demographic information, appointment dates, types of health services selected, assessment responses indicating mental health conditions, and subscription plan information. Mental health information is among the most sensitive categories of personal health data. Cerebral self-reported to HHS OCR (the breach was listed on the HHS breach portal in March 2023). The disclosure came shortly after the FTC's GoodRx enforcement action (February 2023) and contributed to HHS OCR issuing updated guidance in March 2023 on the impermissible use of tracking technologies under HIPAA. Congress investigated and held hearings on telehealth companies' use of advertising trackers. The Cerebral disclosure was one of the largest health tracking pixel breaches discovered and highlighted the endemic use of advertising technology in telehealth and digital health platforms without adequate HIPAA compliance frameworks."

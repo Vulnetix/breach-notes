@@ -1,0 +1,13 @@
+source_name: "Poly Network DeFi Cross-Chain Exploit ($611M Stolen, Fully Returned)"
+source_url: "https://twitter.com/PolyNetwork2/status/1425073987164surge"
+date_of_breach: "2021-08-10"
+date_of_disclosure: "2021-08-10"
+date_of_customer_notification: "2021-08-10"
+category: "other"
+initial_attack_vector: "Cryptographic vulnerability in Poly Network's cross-chain smart contract: attacker exploited the _executeCrossChainTx function's keeper role privilege escalation across Ethereum, Binance Smart Chain, and Polygon to override ownership of the protocol's fund management contract"
+cve: []
+vendor_product: "Poly Network (cross-chain DeFi bridge)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On August 10, 2021, an attacker exploited a critical vulnerability in Poly Network's cross-chain interoperability protocol to steal approximately $611 million across three blockchains — the largest DeFi hack at the time and one of the largest cryptocurrency thefts in history. The attacker exploited a logic flaw in the cross-chain smart contract's keeper role mechanism, allowing them to call a function that replaced the contract's keepers with an attacker-controlled address. This gave them full control over the fund management contracts on Ethereum ($273M), Binance Smart Chain ($253M), and Polygon ($85M). In an extraordinary turn of events, Poly Network published an open letter asking the attacker to return the funds. The attacker — who identified themselves as 'Mr. White Hat' — began returning the funds over the following two weeks, claiming the exploit was a white-hat demonstration. By August 23, all $611 million had been returned. The attacker declined Poly Network's $500,000 bug bounty offer. The incident demonstrated both the extreme vulnerability of complex cross-chain bridge smart contracts and the reputational deterrent that can exist even for anonymous blockchain attackers."

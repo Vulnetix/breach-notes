@@ -1,0 +1,13 @@
+source_name: "Activision Employee Data Breach via HR Smishing (19K Employees, Call of Duty Roadmap)"
+source_url: "https://www.bleepingcomputer.com/news/security/activision-confirms-data-breach-exposing-employee-and-game-info/"
+date_of_breach: "2022-12-04"
+date_of_disclosure: "2023-02-20"
+date_of_customer_notification: "2023-02-20"
+category: "data-leak"
+initial_attack_vector: "Attacker sent an SMS phishing (smishing) message to an Activision HR employee impersonating the company's IT department; the employee provided their MFA code, giving the attacker access to Activision's internal HR and communications systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On December 4, 2022, an attacker used SMS phishing (smishing) to social-engineer an Activision HR employee into providing their MFA authentication code. With access to Activision's Slack workspace and internal systems, the attacker exfiltrated internal documents including: employee personal data for approximately 19,444 employees (names, email addresses, phone numbers, salaries, and work locations); an internal game release schedule through November 2023; and unreleased Call of Duty content and roadmap details. Activision did not disclose or acknowledge the breach internally or publicly. The breach was concealed until February 20, 2023, when malware repository VX-Underground published screenshots and documents from the stolen data. Activision then confirmed the incident, stating no 'sensitive employee data, game source code, or player data' was accessed — though the published documents included detailed employee salary data. The incident raised questions about Activision's internal security culture and breach notification obligations."

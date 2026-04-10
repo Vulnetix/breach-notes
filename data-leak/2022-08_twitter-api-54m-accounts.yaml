@@ -1,0 +1,13 @@
+source_name: "Twitter API Zero-Day: 5.4M Account Phone/Email Exposures (Irish DPC €450K Fine)"
+source_url: "https://www.bleepingcomputer.com/news/security/twitter-confirms-zero-day-used-to-expose-data-of-54-million-accounts/"
+date_of_breach: "2022-01-01"
+date_of_disclosure: "2022-08-05"
+date_of_customer_notification: "2022-08-05"
+category: "data-leak"
+initial_attack_vector: "Unauthenticated API endpoint introduced in a June 2021 code change allowed any caller to submit phone numbers or email addresses and receive the associated Twitter account ID — enabling mass enumeration of accounts linked to private contact information"
+cve: []
+vendor_product: "Twitter API"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "A vulnerability in Twitter's account authentication system, introduced in a June 2021 code change, allowed any caller of Twitter's `id.twitter.com` API to submit a phone number or email address and receive the associated account ID without authentication — effectively linking private contact information to public Twitter accounts. The vulnerability was reported to Twitter via HackerOne in January 2022 and patched; however, unknown parties had already exploited it before the patch. In July 2022, a threat actor known as 'devil' offered a dataset of 5.4 million Twitter user records for $30,000 on BreachForums, containing linked phone numbers/emails and public profile data. Twitter acknowledged the breach on August 5, 2022. The same API vulnerability was exploited on a larger scale, ultimately producing a dataset of over 200 million email-to-account mappings disclosed in January 2023. The Irish Data Protection Commission (DPC) fined Twitter/X €450,000 in January 2023 for failing to notify the DPC of the breach within the GDPR-required 72 hours. This breach is distinct from the 2020 Twitter Bitcoin scam (social engineering of admin tools) and the 2023 200M email scrape (same vulnerability, larger dataset)."

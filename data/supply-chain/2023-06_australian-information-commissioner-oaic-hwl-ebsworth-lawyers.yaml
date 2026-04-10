@@ -1,16 +1,20 @@
 source_name: Australian Information Commissioner (OAIC) Third-Party Breach (June 2023)
-source_url: "https://www.securityweek.com/australian-government-says-its-data-was-stolen-in-law-firm-ransomware-attack/"
+source_url: https://www.securityweek.com/australian-government-says-its-data-was-stolen-in-law-firm-ransomware-attack/
 date_of_breach: 2023-06-01
-date_of_disclosure: 2023-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-06-20'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: HWL Ebsworth Lawyers
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Australian Information Commissioner (OAIC) experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was HWL Ebsworth Lawyers. Source reporting:
-  https://www.securityweek.com/australian-government-says-its-data-was-stolen-in-law-firm-ransomware-attack/
+notes: 'Australian Government Says Its Data Was Stolen in Law Firm Ransomware Attack.
+  This website stores cookies on your computer. These cookies are used to improve
+  your website experience and provide more personalized services to you, both on this
+  website and through other media. To find out more about the cookies we use, see
+  our Privacy Policy. We won''t track your information when you visit our site. But
+  in order to comply with your preferences, we''ll have to use just one tiny cookie
+  so that you''re not asked to make this choice again. [](https://www.facebook.com/SecurityWeekCom-366251913615/)[](https://twitter.com/securityweek)[](https://www.linkedin.com/company/securityweek/).
+  Third-party company: HWL Ebsworth Lawyers.'

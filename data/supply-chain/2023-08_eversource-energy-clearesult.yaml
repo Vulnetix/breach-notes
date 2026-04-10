@@ -1,16 +1,20 @@
 source_name: Eversource Energy Third-Party Breach (August 2023)
-source_url: "https://www.ctinsider.com/business/article/eversource-clearesult-ct-ma-moveit-hack-breach-18340125.php"
+source_url: https://www.ctinsider.com/business/article/eversource-clearesult-ct-ma-moveit-hack-breach-18340125.php
 date_of_breach: 2023-08-01
-date_of_disclosure: 2023-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-08-31'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CLEAResult
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Eversource Energy experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was CLEAResult. Source reporting:
-  https://www.ctinsider.com/business/article/eversource-clearesult-ct-ma-moveit-hack-breach-18340125.php
+notes: 'Eversource reports data breach as companies across Connecticut struggle with
+  cyber attacks.. Eversource joined M&amp;T Bank and a number of other major U.S.
+  companies to report. An Eversource substation in Greenwich, Conn. In August 2023,
+  the company sent alerts to some Connecticut customers in energy efficiency programs
+  that account data may have been exposed in an external vendor''s vulnerability to
+  a widely used software platform. Eversource has become the latest company to deal
+  with a cyber attack as banks, hospitals and businesses across Connecticut and the
+  nation continue to struggle with data breaches. Third-party company: CLEAResult.'

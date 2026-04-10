@@ -1,16 +1,19 @@
 source_name: Stiiizy Third-Party Breach (January 2025)
-source_url: "https://www.securityweek.com/380000-impacted-by-data-breach-at-cannabis-retailer-stiiizy/"
+source_url: https://www.securityweek.com/380000-impacted-by-data-breach-at-cannabis-retailer-stiiizy/
 date_of_breach: 2025-01-01
-date_of_disclosure: 2025-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-01-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Stiiizy experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Third-party vendor. Source reporting:
-  https://www.securityweek.com/380000-impacted-by-data-breach-at-cannabis-retailer-stiiizy/
+notes: 380,000 Impacted by Data Breach at Cannabis Retailer Stiiizy. This website
+  stores cookies on your computer. These cookies are used to improve your website
+  experience and provide more personalized services to you, both on this website and
+  through other media. To find out more about the cookies we use, see our Privacy
+  Policy. We won't track your information when you visit our site. But in order to
+  comply with your preferences, we'll have to use just one tiny cookie so that you're
+  not asked to make this choice again. [](https://www.facebook.com/SecurityWeekCom-366251913615/)[](https://twitter.com/securityweek)[](https://www.linkedin.com/company/securityweek/).

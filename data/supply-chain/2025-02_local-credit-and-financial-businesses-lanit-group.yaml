@@ -1,16 +1,22 @@
 source_name: Local credit and financial businesses Third-Party Breach (February 2025)
-source_url: "https://therecord.media/lanit-russia-government-contractor-potential-compromise"
+source_url: https://therecord.media/lanit-russia-government-contractor-potential-compromise
 date_of_breach: 2025-02-01
-date_of_disclosure: 2025-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-02-25'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: LANIT Group
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Local credit and financial businesses experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was LANIT Group. Source reporting:
-  https://therecord.media/lanit-russia-government-contractor-potential-compromise
+notes: 'Russian officials warn of potential compromise of major tech services provider.
+  In an unusual public disclosure, the Russian government said that subsidiaries of
+  LANIT, a major tech services provider, had potentially been breached. Russian cybersecurity
+  authorities have warned local credit and financial businesses about a potential
+  compromise involving subsidiaries of the country''s largest tech services provider,
+  LANIT. In an unusual public disclosure issued late last week, Russia’s National
+  Coordination Center for Computer Incidents (NCCCI) stated that the incident likely
+  affected the information infrastructure of two LANIT companies specializing in payment
+  services and supplying software for banking equipment and automated teller machines
+  (ATMs). Third-party company: LANIT Group.'

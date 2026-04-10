@@ -1,16 +1,19 @@
 source_name: Zillow Third-Party Breach (August 2023)
-source_url: "https://www.bankinfosecurity.com/ransomware-hit-disrupts-real-estate-property-listings-in-us-a-22818"
+source_url: https://www.bankinfosecurity.com/ransomware-hit-disrupts-real-estate-property-listings-in-us-a-22818
 date_of_breach: 2023-08-01
 date_of_disclosure: 2023-08-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Rapattoni Corporation
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Zillow experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Rapattoni Corporation. Source reporting:
-  https://www.bankinfosecurity.com/ransomware-hit-disrupts-real-estate-property-listings-in-us-a-22818
+notes: 'Ransomware Hit Disrupts Real Estate Property Listings in US. Property listings
+  nationwide are being disrupted due to an apparent ransomware attack against California-based
+  Rapattoni, which hosts Multiple Listing Services used. Property listings nationwide
+  are being disrupted due to an apparent ransomware attack. Real estate agents'' ability
+  to list or update property information has been compromised by an attack on California-based
+  data services company Rapattoni, which hosts multiple listing services. Third-party
+  company: Rapattoni Corporation.'

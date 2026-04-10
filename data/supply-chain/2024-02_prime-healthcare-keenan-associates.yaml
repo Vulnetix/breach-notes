@@ -1,16 +1,18 @@
 source_name: Prime Healthcare Third-Party Breach (February 2024)
-source_url: "https://www.hipaajournal.com/keenan-associates-data-breach/"
+source_url: https://www.hipaajournal.com/keenan-associates-data-breach/
 date_of_breach: 2024-02-01
-date_of_disclosure: 2024-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-01-30'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: "Keenan & Associates"
-software_package: ""
-malware: ""
+vendor_product: Keenan & Associates
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Prime Healthcare experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Keenan & Associates. Source reporting:
-  https://www.hipaajournal.com/keenan-associates-data-breach/
+notes: 'Keenan & Associates Data Breach Affects More Than 1.5 Million Individuals.
+  The Torrance, CA-based insurance broker Keenan & Associates has recently reported
+  a cybersecurity incident to the Maine Attorney General that has The Torrance, CA-
+  based insurance broker Keenan & Associates has recently reported a cybersecurity
+  incident to the Maine Attorney General that has affected 1,509,616 individuals.
+  Third-party company: Keenan & Associates.'

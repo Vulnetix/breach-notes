@@ -1,16 +1,13 @@
 source_name: SpaceX Third-Party Breach (March 2023)
-source_url: "https://gizmodo.com/spacex-lockbit-ransomware-gang-leak-designs-threat-1850228968"
+source_url: https://gizmodo.com/spacex-lockbit-ransomware-gang-leak-designs-threat-1850228968
 date_of_breach: 2023-03-01
 date_of_disclosure: 2023-03-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Maximum Industries
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, SpaceX experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Maximum Industries. Source reporting:
-  https://gizmodo.com/spacex-lockbit-ransomware-gang-leak-designs-threat-1850228968
+notes: 'Third-party company: Maximum Industries.'

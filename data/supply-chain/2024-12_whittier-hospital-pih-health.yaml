@@ -1,16 +1,23 @@
 source_name: Whittier Hospital Third-Party Breach (December 2024)
-source_url: "https://www.hipaajournal.com/californian-hospitals-disrupted-thanksgiving-ransomware-attacks/"
+source_url: https://www.hipaajournal.com/californian-hospitals-disrupted-thanksgiving-ransomware-attacks/
 date_of_breach: 2024-12-01
-date_of_disclosure: 2024-12-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-12-09'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: PIH Health
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Whittier Hospital experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was PIH Health. Source reporting:
-  https://www.hipaajournal.com/californian-hospitals-disrupted-thanksgiving-ransomware-attacks/
+notes: 'Californian Hospitals Continue to be Disrupted by Thanksgiving Ransomware
+  Attacks. Over Thanksgiving weekend, Watsonville Community Hospital and PIH Health
+  in California fell victim to ransomware attacks and continue to experience Watsonville
+  Community Hospital and PIH Health in California are recovering from Thanksgiving
+  weekend ransomware attacks. Jefferson Dental Center in Indiana has confirmed it
+  has recovered from a November 15, 2024 ransomware attack. Watsonville Community
+  Hospital in California is currently dealing with a cyberattack and is facing continued
+  disruption to its computer systems. The hospital has implemented downtime protocols
+  due to computer systems being unavailable and is recording patient information manually
+  on charts and issuing paper prescriptions while its IT team and third-party IT specialists
+  work to restore its computer systems. Third-party company: PIH Health.'

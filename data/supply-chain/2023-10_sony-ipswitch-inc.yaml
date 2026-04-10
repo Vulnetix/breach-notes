@@ -1,16 +1,21 @@
 source_name: Sony Third-Party Breach (October 2023)
-source_url: "https://www.bleepingcomputer.com/news/security/sony-confirms-data-breach-impacting-thousands-in-the-us/"
+source_url: https://www.bleepingcomputer.com/news/security/sony-confirms-data-breach-impacting-thousands-in-the-us/
 date_of_breach: 2023-10-01
-date_of_disclosure: 2023-10-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-10-04'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Ipswitch, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Sony experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Ipswitch, Inc.. Source reporting:
-  https://www.bleepingcomputer.com/news/security/sony-confirms-data-breach-impacting-thousands-in-the-us/
+notes: 'Sony confirms data breach impacting thousands in the U.S.. Sony Interactive
+  Entertainment (Sony) has notified current and former employees and their family
+  members about a cybersecurity breach that exposed personal information. The company
+  sent the data breach notification to about 6,800 individuals, confirming that the
+  intrusion occurred after an unauthorized party exploited a zero-day vulnerability
+  in the MOVEit Transfer platform. The zero-day is CVE-2023-34362 , a critical-severity
+  SQL injection flaw that leads to remote code execution, leveraged by the Clop ransomware
+  in large-scale attacks that compromised numerous organizations across the world.
+  Third-party company: Ipswitch, Inc..'

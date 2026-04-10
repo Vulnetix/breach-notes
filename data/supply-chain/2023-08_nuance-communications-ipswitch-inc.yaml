@@ -1,16 +1,24 @@
 source_name: Nuance Communications Third-Party Breach (August 2023)
-source_url: "https://healthitsecurity.com/news/nuance-communications-notifies-1.2m-individuals-of-data-breach"
+source_url: https://healthitsecurity.com/news/nuance-communications-notifies-1.2m-individuals-of-data-breach
 date_of_breach: 2023-08-01
-date_of_disclosure: 2023-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-09-25'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Ipswitch, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Nuance Communications experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Ipswitch, Inc.. Source reporting:
-  https://healthitsecurity.com/news/nuance-communications-notifies-1.2m-individuals-of-data-breach
+notes: 'Nuance Communications Notifies 1.2M Individuals of Data Breach | TechTarget.
+  Another incident stemming from a vulnerability in Progress Software’s MOVEit Transfer
+  software has been reported, this time from Nuance Communications. As previously
+  reported , organizations around the world have suffered from exploits of a vulnerability
+  in Progress Software’s MOVEit Transfer software, allowing threat actors to gain
+  access to databases containing sensitive information. The vulnerability has since
+  been resolved, but breach notifications have continued to roll in. Nuance explained
+  that as soon as it learned of the incident on May 31, 2023, it launched an investigation
+  and reached out to law enforcement authorities. The investigation determined that
+  some individuals’ personal information was subject to unauthorized access. The access
+  was limited to the MOVEit Transfer application and did not impact Nuance systems.
+  Third-party company: Ipswitch, Inc..'

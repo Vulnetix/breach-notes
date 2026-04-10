@@ -1,16 +1,16 @@
 source_name: Applied Materials Third-Party Breach (February 2023)
-source_url: "https://www.jdsupra.com/legalnews/rise-interactive-media-analytics-llc-6254319/"
+source_url: https://www.jdsupra.com/legalnews/rise-interactive-media-analytics-llc-6254319/
 date_of_breach: 2023-02-01
 date_of_disclosure: 2023-02-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Rise Interactive
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Applied Materials experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Rise Interactive. Source reporting:
-  https://www.jdsupra.com/legalnews/rise-interactive-media-analytics-llc-6254319/
+notes: 'Rise Interactive Media & Analytics, LLC Reports Third-Party Data Breach Affecting
+  Edgepark Medical Supplies Patients | JD Supra. On February 3, 2023, Rise Interactive
+  Media & Analytics, LLC filed notice of a data breach with the U.S. Department of
+  Health and Human Services. Third-party company: Rise Interactive.'

@@ -1,16 +1,24 @@
 source_name: Bay Area Heart Center Third-Party Breach (February 2024)
-source_url: "https://www.hipaajournal.com/feb-6-data-breach-notices/"
+source_url: https://www.hipaajournal.com/feb-6-data-breach-notices/
 date_of_breach: 2024-02-01
-date_of_disclosure: 2024-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-02-06'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Bowden Barlow Law, P.A.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Bay Area Heart Center experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Bowden Barlow Law, P.A.. Source reporting:
-  https://www.hipaajournal.com/feb-6-data-breach-notices/
+notes: 'Des Moines Orthopaedic Surgeons Notifies Patients About February 2023 Data
+  Breach. Des Moines Orthopaedic Surgeons (DMOS) in Iowa has recently notified 307,864
+  current and former patients that some of their protected health information Data
+  breaches have recently been reported by Des Moines Orthopaedic Surgeons, Prestige
+  Care, Michigan Orthopaedic Surgeons, and Bay Area Heart Center. DMOS said it immediately
+  contained the threat and engaged third-party cybersecurity experts to investigate
+  the incident to determine the extent of compromise. According to the notification
+  letters, “DMOS devoted considerable time and effort to assessing the extent and
+  scope of the incident and to determine what information may have been accessible
+  to the unauthorized users.” It took 10 months to determine that patient data was
+  present in the documents and records involved, with PHI exposure not confirmed until
+  December 6, 2023. Third-party company: Bowden Barlow Law, P.A..'

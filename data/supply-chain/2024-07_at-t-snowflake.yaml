@@ -1,16 +1,21 @@
-source_name: "AT&T Third-Party Breach (July 2024)"
-source_url: "https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/"
+source_name: AT&T Third-Party Breach (July 2024)
+source_url: https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/
 date_of_breach: 2024-07-01
-date_of_disclosure: 2024-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-07-12'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Snowflake
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, AT&T experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Snowflake. Source reporting:
-  https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/
+notes: 'Massive AT&T data breach exposes call logs of 109 million customers. AT&T
+  is warning of a massive data breach where threat actors stole the call logs for
+  approximately 109 million customers, or nearly all of its mobile customers, from
+  an online database on the company''s Snowflake account. The company confirmed to
+  BleepingComputer that the data was stolen from the Snowflake account between April
+  14 and April 25, 2024. In a Friday morning Form 8-K filling with the SEC, AT&T says
+  that the stolen data contains the call and text records of nearly all AT&T mobile
+  clients and customers of mobile virtual network operators (MVNOs) made from May
+  1 to October 31, 2022 and on January 2, 2023. Third-party company: Snowflake.'

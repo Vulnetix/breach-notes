@@ -1,16 +1,24 @@
 source_name: Moffitt Cancer Center Third-Party Breach (April 2024)
-source_url: "https://www.hipaajournal.com/medusa-ransomware-group-leaks-american-renal-associates-data/"
+source_url: https://www.hipaajournal.com/medusa-ransomware-group-leaks-american-renal-associates-data/
 date_of_breach: 2024-04-01
-date_of_disclosure: 2024-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-04-08'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Gunster Yoakley and Stewart PA
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Moffitt Cancer Center experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Gunster Yoakley and Stewart PA. Source reporting:
-  https://www.hipaajournal.com/medusa-ransomware-group-leaks-american-renal-associates-data/
+notes: 'Medusa Ransomware Group Leaks Data Stolen from American Renal Associates.
+  The Medusa ransomware group has leaked data stolen from American Renal Associates.
+  Moffitt Cancer Center has been affected by a cyberattack on a vendor, American Renal
+  Associates has experienced a ransomware attack involving the theft of more than
+  37,700 patients'' data. Data breaches have also been reported by Moffitt Cancer
+  Center, Family Health Center, and Zuckerberg San Francisco General Hospital. American
+  Renal Associates (ARA), one of the largest providers of dialysis services in the
+  United States and a provider of care for patients suffering from end-stage renal
+  disease has experienced a Medusa ransomware attack. The ransomware attack has yet
+  to be announced by ARA, but the Medusa ransomware group has leaked data allegedly
+  stolen in the attack. The attack occurred on March 2, 2024, and affected hundreds
+  of computers. Third-party company: Gunster Yoakley and Stewart PA.'

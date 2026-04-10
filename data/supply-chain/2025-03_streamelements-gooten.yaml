@@ -1,16 +1,19 @@
 source_name: StreamElements Third-Party Breach (March 2025)
-source_url: "https://www.infostealers.com/article/streamelements-confirms-third-party-data-breach-from-an-infostealer-infection/"
+source_url: https://www.infostealers.com/article/streamelements-confirms-third-party-data-breach-from-an-infostealer-infection/
 date_of_breach: 2025-03-01
-date_of_disclosure: 2025-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-03-27'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Gooten
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, StreamElements experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Gooten. Source reporting:
-  https://www.infostealers.com/article/streamelements-confirms-third-party-data-breach-from-an-infostealer-infection/
+notes: 'StreamElements Confirms Third-Party Data Breach from an Infostealer Infection.
+  Stay informed with the latest insights in our Infostealers weekly report. Explore
+  key findings, trends and data on info-stealing activities. Infostealers ULP Data
+  Is Burning Out SOC Teams and Killing Automation Infostealers ULP Data Is Burning
+  Out SOC Teams and Killing Automation The cybersecurity industry. Free Infostealer
+  Monitoring: Track Up to 3 Emails, 3 Domains, and 3 Usernames Free Infostealer Monitoring:
+  Track Up to 3 Emails, 3 Domains, and 3. Third-party company: Gooten.'

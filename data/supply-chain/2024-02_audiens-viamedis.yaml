@@ -1,16 +1,19 @@
 source_name: Audiens Third-Party Breach (February 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/data-breach-at-french-healthcare-services-firm-puts-millions-at-risk/#google_vignette"
+source_url: https://www.bleepingcomputer.com/news/security/data-breach-at-french-healthcare-services-firm-puts-millions-at-risk/#google_vignette
 date_of_breach: 2024-02-01
-date_of_disclosure: 2024-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-02-06'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Viamedis
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Audiens experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Viamedis. Source reporting:
-  https://www.bleepingcomputer.com/news/security/data-breach-at-french-healthcare-services-firm-puts-millions-at-risk/#google_vignette
+notes: 'Data breach at French healthcare services firm puts millions at risk. French
+  healthcare services firm Viamedis suffered a cyberattack that exposed the data of
+  policyholders and healthcare professionals in the country. Though the company''s
+  website remains offline at the time of writing, an announcement was posted on LinkedIn
+  warning of the data breach. The data exposed in the attack includes a beneficiary''s
+  marital status, date of birth, social security number, name of health insurer, and
+  guarantees open to third-party payment. Third-party company: Viamedis.'

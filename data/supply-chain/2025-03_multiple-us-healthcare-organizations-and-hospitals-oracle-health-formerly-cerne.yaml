@@ -1,17 +1,23 @@
-source_name: Multiple US healthcare organizations and hospitals Third-Party Breach (March 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/"
+source_name: Multiple US healthcare organizations and hospitals Third-Party Breach
+  (March 2025)
+source_url: https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/
 date_of_breach: 2025-03-01
-date_of_disclosure: 2025-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-03-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Oracle Health (formerly Cerner)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Multiple US healthcare organizations and hospitals experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was Oracle Health (formerly Cerner).
-  Source reporting:
-  https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/
+notes: 'Oracle Health breach compromises patient data at US hospitals. A breach at
+  Oracle Health impacts multiple US healthcare organizations and hospitals after a
+  threat actor stole patient data from legacy servers. Oracle Health has not yet publicly
+  disclosed the incident, but in private communications sent to impacted customers
+  and from conversations with those involved, BleepingComputer confirmed that patient
+  data was stolen in the attack. Oracle Health, formerly known as Cerner, is a healthcare
+  software-as-a-service (SaaS) company offering Electronic Health Records (EHR) and
+  business operations systems to hospitals and healthcare organizations. After being
+  acquired by Oracle in 2022, Cerner was merged into Oracle Health, with its systems
+  migrated to Oracle Cloud. Third-party company: Oracle Health (formerly Cerner).'

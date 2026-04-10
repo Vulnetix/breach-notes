@@ -1,15 +1,18 @@
 source_name: Gerber Life Insurance Third-Party Breach (May 2024)
-source_url: "https://www.hipaajournal.com/webtpa-data-breach/"
+source_url: https://www.hipaajournal.com/webtpa-data-breach/
 date_of_breach: 2024-05-01
-date_of_disclosure: 2024-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-05-20'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: WebTPA
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Gerber Life Insurance experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was WebTPA. Source reporting: https://www.hipaajournal.com/webtpa-data-breach/
+notes: 'WebTPA Data Breach Affects 2.4 Million Health Insurance Policyholders. WebTPA,
+  a Texas-based provider of administration services to health insurance and benefit
+  plans has recently started notifying 2,429,175 benefit plan WebTPA, a provider of
+  administration services to health insurance and benefit plans, has confirmed that
+  the protected health information of more than 2.4 million policyholders was exposed
+  in a 2023 cyberattack. Third-party company: WebTPA.'

@@ -1,16 +1,13 @@
 source_name: South Baldwin Regional Medical Center Third-Party Breach (May 2023)
-source_url: "https://www.beckershospitalreview.com/cybersecurity/6-alabama-hospitals-affected-by-chs-third-party-breach.html"
+source_url: https://www.beckershospitalreview.com/cybersecurity/6-alabama-hospitals-affected-by-chs-third-party-breach.html
 date_of_breach: 2023-05-01
 date_of_disclosure: 2023-05-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Community Health Systems
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, South Baldwin Regional Medical Center experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Community Health Systems. Source reporting:
-  https://www.beckershospitalreview.com/cybersecurity/6-alabama-hospitals-affected-by-chs-third-party-breach.html
+notes: 'Third-party company: Community Health Systems.'

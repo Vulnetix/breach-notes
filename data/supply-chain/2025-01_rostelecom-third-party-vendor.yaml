@@ -1,16 +1,20 @@
 source_name: Rostelecom Third-Party Breach (January 2025)
-source_url: "https://therecord.media/rostelecom-russia-contractor-data-breach"
+source_url: https://therecord.media/rostelecom-russia-contractor-data-breach
 date_of_breach: 2025-01-01
-date_of_disclosure: 2025-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-01-21'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Rostelecom experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Third-party vendor. Source reporting:
-  https://therecord.media/rostelecom-russia-contractor-data-breach
+notes: Russian telecom giant Rostelecom investigates suspected cyberattack on contractor.
+  Russia's Rostelecom said that it was responding to a cyberattack on a contractor
+  that helps to run its corporate website and procurement portal. A major Russian
+  telecommunications provider, Rostelecom, said that it is investigating a suspected
+  cyberattack on one of its contractors after hackers claimed to have leaked the company's
+  data. Earlier on Tuesday, the hacker group, which calls itself Silent Crow, published
+  a data dump containing thousands of customer emails and phone numbers allegedly
+  stolen from Rostelecom.

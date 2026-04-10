@@ -1,16 +1,20 @@
 source_name: FTX Third-Party Breach (September 2023)
-source_url: "https://www.bleepingcomputer.com/news/security/kroll-data-breach-exposes-info-of-ftx-blockfi-genesis-creditors/"
+source_url: https://www.bleepingcomputer.com/news/security/kroll-data-breach-exposes-info-of-ftx-blockfi-genesis-creditors/
 date_of_breach: 2023-09-01
-date_of_disclosure: 2023-09-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-08-25'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Kroll Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, FTX experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Kroll Inc.. Source reporting:
-  https://www.bleepingcomputer.com/news/security/kroll-data-breach-exposes-info-of-ftx-blockfi-genesis-creditors/
+notes: 'Kroll data breach exposes info of FTX, BlockFi, Genesis creditors. Multiple
+  reports on social media warn of a data breach at financial and risk advisory company
+  Kroll that resulted in exposing to an unauthorized third-party the personal data
+  of some credit claimants. Kroll, who is facilitating claims for insolvent companies
+  FTX , BlockFi , and Genesis Global Holdco , has confirmed that one of its employees
+  was the victim of a SIM-swapping attack. Hackers stole the Kroll employee''s phone
+  number and used it to gain access to some files with personal data of bankruptcy
+  claimants. Third-party company: Kroll Inc..'

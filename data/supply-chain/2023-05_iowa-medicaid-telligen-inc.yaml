@@ -1,16 +1,18 @@
 source_name: Iowa Medicaid Third-Party Breach (May 2023)
-source_url: "https://www.hipaajournal.com/ils-data-breach-affects-almost-21k-iowan-medicaid-recipients/"
+source_url: https://www.hipaajournal.com/ils-data-breach-affects-almost-21k-iowan-medicaid-recipients/
 date_of_breach: 2023-05-01
-date_of_disclosure: 2023-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-04-14'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Telligen, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Iowa Medicaid experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Telligen, Inc.. Source reporting:
-  https://www.hipaajournal.com/ils-data-breach-affects-almost-21k-iowan-medicaid-recipients/
+notes: 'ILS Data Breach Affects Almost 21K Iowan Medicaid Recipients. The Iowa Department
+  of Health and Human Services (DHHS) has confirmed a HIPAA compliance breach where
+  the personal information of 20,815 Iowans who The Iowa Department of Health and
+  Human Services says almost 21,000 Medicaid recipients were affected by the ILS data
+  breach. Data breaches have also been reported by Retina & Vitreous of Texas, Southwest
+  Healthcare Services, and Stanford University. Third-party company: Telligen, Inc..'

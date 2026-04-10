@@ -1,16 +1,16 @@
 source_name: National Basketball Association Third-Party Breach (March 2023)
-source_url: "https://siliconangle.com/2023/03/20/nba-notifies-fans-data-breach-third-party-newsletter-provider/"
+source_url: https://siliconangle.com/2023/03/20/nba-notifies-fans-data-breach-third-party-newsletter-provider/
 date_of_breach: 2023-03-01
-date_of_disclosure: 2023-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-03-20'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Unknown
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, National Basketball Association experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Unknown. Source reporting:
-  https://siliconangle.com/2023/03/20/nba-notifies-fans-data-breach-third-party-newsletter-provider/
+notes: NBA notifies fans of data breach at third-party newsletter provider - SiliconANGLE.
+  [](https://www.thecube.net/events/nyse/ai-factories-data-centers-of-the-future?utm_source=social&utm_medium=medium&utm_campaign=SAbanner).
+  [](https://www.thecube.net/events/linux-foundation/kubecon-eu-2026?utm_source=social&utm_medium=medium&utm_campaign=SAbanner).
+  [](https://www.thecube.net/events/rsa/rsac-2026-conference?utm_source=social&utm_medium=medium&utm_campaign=SAbanner).

@@ -1,16 +1,24 @@
 source_name: BORN Ontario Third-Party Breach (September 2023)
-source_url: "https://www.bleepingcomputer.com/news/security/sickkids-impacted-by-born-ontario-data-breach-that-hit-34-million/"
+source_url: https://www.bleepingcomputer.com/news/security/sickkids-impacted-by-born-ontario-data-breach-that-hit-34-million/
 date_of_breach: 2023-09-01
-date_of_disclosure: 2023-09-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-09-26'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Ipswitch, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, BORN Ontario experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Ipswitch, Inc.. Source reporting:
-  https://www.bleepingcomputer.com/news/security/sickkids-impacted-by-born-ontario-data-breach-that-hit-34-million/
+notes: 'SickKids impacted by BORN Ontario data breach that hit 3.4 million. The Hospital
+  for Sick Children, more commonly known as SickKids, is among healthcare providers
+  that were impacted by the recent breach at BORN Ontario. The top Canadian pediatric
+  hospital disclosed that as a part of its operations, it shares personal health information
+  with BORN Ontario "related to pregnancy, birth and newborn care.". The BORN Ontario
+  data breach that impacted 3.4 million people was caused by the exploitation of well-known
+  zero-day vulnerability ( CVE-2023-34362 ) in Progress MOVEIt Transfer software.
+  On Monday, September 25th, SickKids disclosed that it is "among the many Ontario
+  healthcare providers" that share sensitive health information with BORN Ontario,
+  a perinatal and child registry that collects, interprets, shares and protects critical
+  data about pregnancy, birth and childhood in the province of Ontario. Third-party
+  company: Ipswitch, Inc..'

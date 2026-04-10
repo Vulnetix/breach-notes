@@ -1,16 +1,19 @@
 source_name: Sharp HealthCare Third-Party Breach (February 2023)
-source_url: "https://healthitsecurity.com/news/nearly-63k-impacted-by-healthcare-data-breach-from-exploited-web-server"
+source_url: https://healthitsecurity.com/news/nearly-63k-impacted-by-healthcare-data-breach-from-exploited-web-server
 date_of_breach: 2023-02-01
-date_of_disclosure: 2023-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-02-10'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Unknown
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Sharp HealthCare experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Unknown. Source reporting:
-  https://healthitsecurity.com/news/nearly-63k-impacted-by-healthcare-data-breach-from-exploited-web-server
+notes: Nearly 63K Impacted by Healthcare Data Breach from Exploited Web Server | TechTarget.
+  Sharp HealthCare in San Diego suffered a healthcare data breach after an unauthorized
+  third-party gained access to the organization’s web server, potentially exposing
+  some PHI. San Diego-based Sharp HealthCare notified 62,777 patients of a healthcare
+  data breach that may have exposed their personal health information. On January
+  12, 2023, Sharp HealthCare discovered that an unauthorized party may have accessed
+  information through its web servers.

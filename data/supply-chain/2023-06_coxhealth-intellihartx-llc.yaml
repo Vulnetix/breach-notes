@@ -1,16 +1,21 @@
 source_name: CoxHealth Third-Party Breach (June 2023)
-source_url: "https://triblive.com/local/regional/upmc-contractor-detects-patient-data-breach/"
+source_url: https://triblive.com/local/regional/upmc-contractor-detects-patient-data-breach/
 date_of_breach: 2023-06-01
-date_of_disclosure: 2023-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-06-13'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Intellihartx LLC
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, CoxHealth experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Intellihartx LLC. Source reporting:
-  https://triblive.com/local/regional/upmc-contractor-detects-patient-data-breach/
+notes: 'UPMC contractor detects patient data breach. A contractor for UPMC said it
+  discovered a data breach that could have impacted customer and patient information.
+  Tennessee-based Intellihartx LLC said it found that its secure file transfer service
+  provider, Fortra, &ldquo;experienced a data security incident.&rdquo; The company
+  undertook an investigation to figure out the scope of the incident. Intellihartx
+  is notifying those potentially affected. It said it so far is unaware of anyone
+  misusing the information. UPMC, along with other health care companies, uses Intellihartx’s
+  services as part of its billing and collections. The breach occurred in February,
+  UPMC said Friday. Third-party company: Intellihartx LLC.'

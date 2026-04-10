@@ -1,16 +1,23 @@
 source_name: Surgery Center of Mid Florida Third-Party Breach (August 2024)
-source_url: "https://www.hipaajournal.com/six-healthcare-providers-added-to-ransomware-data-leak-sites/"
+source_url: https://www.hipaajournal.com/six-healthcare-providers-added-to-ransomware-data-leak-sites/
 date_of_breach: 2024-08-01
-date_of_disclosure: 2024-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-08-12'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Surgery Center of Mid Florida experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Third-party vendor. Source reporting:
-  https://www.hipaajournal.com/six-healthcare-providers-added-to-ransomware-data-leak-sites/
+notes: 'Six Healthcare Providers Added to Ransomware Data Leak Sites. Recent reports
+  by Rapid7 and Guidepoint Security indicate the number of active ransomware groups
+  has increased in 2024, as has the number of attacks. The Healthcare providers in
+  Delaware, Florida, New York, Rhode Island, and Texas have recently been added to
+  the data leak sites of ransomware groups: Bayhealth, The Surgery Center of Mid Florida,
+  Gramercy Surgery Center, Betances Health Center, Community Care Alliance, and Brookshire
+  Dental. The Surgery Center of Mid Florida has recently alerted patients about a
+  network encryption event (ransomware). The attack was detected on or around February
+  21, 2024, when unusual network activity was observed. The investigation confirmed
+  file encryption, with the initial hacking occurring at its IT vendor. The hackers
+  then used the connection with the IT vendor to launch an attack on its network.'

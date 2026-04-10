@@ -1,16 +1,21 @@
 source_name: Catholic Health Third-Party Breach (May 2025)
-source_url: "https://therecord.media/breaches-serviceaide-nationwide-medical-info"
+source_url: https://therecord.media/breaches-serviceaide-nationwide-medical-info
 date_of_breach: 2025-05-01
-date_of_disclosure: 2025-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-05-19'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Serviceaide
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Catholic Health experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Serviceaide. Source reporting:
-  https://therecord.media/breaches-serviceaide-nationwide-medical-info
+notes: 'Breaches at Serviceaide, Nationwide Recovery Services expose medical info
+  of more than 500,000 people. Hospitals tied to the two companies announced breaches
+  over the last week involving Social Security numbers, financial information and
+  sensitive health insurance data. The healthcare information of more than a half
+  million people was leaked in two separate breaches impacting large hospital contractors.
+  Hospitals tied to the technology provider Serviceaide and the debt collection giant
+  Nationwide Recovery Services (NRS) announced breaches over the last week involving
+  Social Security numbers, financial information and sensitive health insurance data.
+  Third-party company: Serviceaide.'

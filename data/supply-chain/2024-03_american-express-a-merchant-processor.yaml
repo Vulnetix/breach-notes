@@ -1,16 +1,19 @@
 source_name: American Express Third-Party Breach (March 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-third-party-data-breach/"
+source_url: https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-third-party-data-breach/
 date_of_breach: 2024-03-01
-date_of_disclosure: 2024-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-03-04'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: A Merchant Processor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, American Express experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was A Merchant Processor. Source reporting:
-  https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-third-party-data-breach/
+notes: 'American Express credit cards exposed in third-party data breach. American
+  Express is warning customers that credit cards were exposed in a third-party data
+  breach after a merchant processor was hacked. 3/4/24: Article updated with further
+  clarification from American Express that it was a merchant processor who was hacked,
+  not one of their service providers. This incident was not caused by a data breach
+  at American Express, but rather at a merchant processor in which American Express
+  Card member data was processed. Third-party company: A Merchant Processor.'

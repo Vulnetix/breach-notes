@@ -1,16 +1,22 @@
 source_name: Newton Centre Dental Third-Party Breach (June 2024)
-source_url: "https://www.hipaajournal.com/email-breach-university-medical-center/"
+source_url: https://www.hipaajournal.com/email-breach-university-medical-center/
 date_of_breach: 2024-06-01
-date_of_disclosure: 2024-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-05-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Affinity Dental Management
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Newton Centre Dental experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Affinity Dental Management. Source reporting:
-  https://www.hipaajournal.com/email-breach-university-medical-center/
+notes: 'Email Breach Affects 10,000 University of Chicago Medical Center Patients.
+  Hackers gained access to the email accounts of University of Chicago Medical Center
+  employees and the data of more than 10,000 patients. An HIPAA email Hackers gained
+  access to the email accounts of University of Chicago Medical Center employees and
+  the data of more than 10,000 patients. An email breach at Newton Centre Dental has
+  affected 2,550 patients. University of Chicago Medical Center (UCMC) has completed
+  reviewing the email accounts of a small number of employees who had their accounts
+  accessed by an unauthorized individual earlier this year and has confirmed that
+  the accounts contained the protected health information of 10,332 patients. Third-party
+  company: Affinity Dental Management.'

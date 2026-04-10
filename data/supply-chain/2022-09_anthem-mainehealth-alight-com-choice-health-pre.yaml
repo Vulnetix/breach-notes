@@ -1,16 +1,24 @@
 source_name: Anthem MaineHealth Third-Party Breach (September 2022)
-source_url: "https://www.jdsupra.com/legalnews/anthem-mainehealth-reports-third-party-7744583/"
+source_url: https://www.jdsupra.com/legalnews/anthem-mainehealth-reports-third-party-7744583/
 date_of_breach: 2022-09-01
 date_of_disclosure: 2022-09-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Alight.com (Choice Health prev)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Anthem MaineHealth experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Alight.com (Choice Health prev). Source reporting:
-  https://www.jdsupra.com/legalnews/anthem-mainehealth-reports-third-party-7744583/
+notes: 'Anthem MaineHealth Reports Third Party Data Breach Related to Incident at
+  Choice Health | JD Supra. On September 30, 2022, Anthem MaineHealth (“AMH Health”)
+  filed an official notice of a data breach with the Office of the Maine Attorney
+  General after. The available information regarding the Anthem MaineHealth / Choice
+  Health breach comes from the company’s filing with the Office of the Maine Attorney
+  General. According to this source, AMH Health was contacted by Choice Health on
+  August 5, 2022, regarding a data breach affecting AMH Health patients that occurred
+  on May 7, 2022. Evidently, on May 14, 2022, Choice Health was informed that an unauthorized
+  party was offering data that was allegedly stolen from the Choice Health network.
+  In response, Choice Health launched an internal investigation with the assistance
+  of third-party cybersecurity specialists. Third-party company: Alight.com (Choice
+  Health prev).'

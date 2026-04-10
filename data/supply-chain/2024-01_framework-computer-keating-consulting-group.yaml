@@ -1,16 +1,24 @@
 source_name: Framework Computer Third-Party Breach (January 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/"
+source_url: https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/
 date_of_breach: 2024-01-01
-date_of_disclosure: 2024-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-01-11'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Keating Consulting Group
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Framework Computer experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Keating Consulting Group. Source reporting:
-  https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/
+notes: 'Framework discloses data breach after accountant gets phished. Framework Computer
+  disclosed a data breach exposing the personal information of an undisclosed number
+  of customers after Keating Consulting Group, its accounting service provider, fell
+  victim to a phishing attack. The California-based manufacturer of upgradeable and
+  modular laptops says a Keating Consulting accountant was tricked on January 11 by
+  a threat actor impersonating Framework''s CEO into sharing a spreadsheet containing
+  customers'' personally identifiable information (PII) "associated with outstanding
+  balances for Framework purchases.". "On January 9th, at 4:27am PST, the attacker
+  sent an email to the accountant impersonating our CEO asking for Accounts Receivable
+  information pertaining to outstanding balances for Framework purchases," the company
+  says in data breach notification letters sent to affected individuals. Third-party
+  company: Keating Consulting Group.'

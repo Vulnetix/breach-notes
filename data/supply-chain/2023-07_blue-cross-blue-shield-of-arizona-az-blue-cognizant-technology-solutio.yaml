@@ -1,17 +1,25 @@
-source_name: Blue Cross Blue Shield of Arizona (AZ Blue) Third-Party Breach (July 2023)
-source_url: "https://healthitsecurity.com/news/third-party-data-breaches-continue-to-dominate-breach-notifications"
+source_name: Blue Cross Blue Shield of Arizona (AZ Blue) Third-Party Breach (July
+  2023)
+source_url: https://healthitsecurity.com/news/third-party-data-breaches-continue-to-dominate-breach-notifications
 date_of_breach: 2023-07-01
-date_of_disclosure: 2023-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-08-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Cognizant Technology Solutions Corporation
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Blue Cross Blue Shield of Arizona (AZ Blue) experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was Cognizant Technology Solutions Corporation. Source
-  reporting:
-  https://healthitsecurity.com/news/third-party-data-breaches-continue-to-dominate-breach-notifications
+notes: 'Third-Party Data Breaches Continue to Dominate Breach Notifications | TechTarget.
+  The MOVEit hack and other third-party data breaches continue to impact healthcare
+  entities across the country, this week’s data breach roundup shows. This week, Singing
+  River Health System in Mississippi is actively facing system downtime as it investigates
+  a cyberattack on its network. What’s more, Prospect Medical Holdings, which operates
+  16 hospitals and more than 165 clinics across Southern California, Rhode Island,
+  Pennsylvania, and Connecticut, is still experiencing a systemwide outage that began
+  on August 9. As these incidents continue to develop, other entities have continued
+  to report confirmed data breaches to HHS, as exemplified in this week’s data breach
+  roundup. Third-party data breaches continue to dominate breach notifications, causing
+  breaches across the country. Third-party company: Cognizant Technology Solutions
+  Corporation.'

@@ -1,16 +1,19 @@
 source_name: Queensway Carleton Hospital Third-Party Breach (May 2023)
-source_url: "https://www.saltwire.com/atlantic-canada/news/data-breach-could-affect-up-to-100000-patients-at-queensway-carleton-hospital-100848399/"
+source_url: https://www.saltwire.com/atlantic-canada/news/data-breach-could-affect-up-to-100000-patients-at-queensway-carleton-hospital-100848399/
 date_of_breach: 2023-05-01
 date_of_disclosure: 2023-05-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Aetonix Systems Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Queensway Carleton Hospital experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Aetonix Systems Inc.. Source reporting:
-  https://www.saltwire.com/atlantic-canada/news/data-breach-could-affect-up-to-100000-patients-at-queensway-carleton-hospital-100848399/
+notes: 'PNI Atlantic News. Oh no! Mr Beaver lost this page when he went scavenging
+  (or you need to check your spelling). Try searching below or check out our other
+  top stories!. 1. ### Appeal court rebukes comments by Truro judge with history of
+  questionable statements The Nova Scotia Court of Appeal says comments by a judge
+  with a previous history of questionable remarks were wrong, but said they did not
+  have a bearing on a case being appealed. 19 minutes ago Nova Scotia [](https://www.saltwire.com/nova-scotia/appeal-judge-alain-begin-decision-overturned-comments-court).
+  Third-party company: Aetonix Systems Inc..'

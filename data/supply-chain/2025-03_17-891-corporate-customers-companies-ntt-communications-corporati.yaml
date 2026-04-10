@@ -1,16 +1,20 @@
 source_name: 17,891 corporate customers (companies) Third-Party Breach (March 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/"
+source_url: https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/
 date_of_breach: 2025-03-01
-date_of_disclosure: 2025-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-03-07'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: NTT Communications Corporation (NTT)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, 17,891 corporate customers (companies) experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was NTT Communications Corporation (NTT). Source reporting:
-  https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/
+notes: 'Data breach at Japanese telecom giant NTT hits 18,000 companies. Japanese
+  telecommunication services provider NTT Communications Corporation (NTT) is warning
+  almost 18,000 corporate customers that their information was compromised during
+  a cybersecurity incident. The data breach was discovered in early February 2025,
+  but the exact date when the hackers gained initial access to NTT''s systems hasn''t
+  been determined. "NTT Communications Corporation discovered on February 5 that our
+  facilities had been subjected to unauthorized access," reads the announcement. Third-party
+  company: NTT Communications Corporation (NTT).'

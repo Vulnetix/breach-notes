@@ -1,16 +1,18 @@
 source_name: 17 Banks and 5 other organizations Third-Party Breach (February 2025)
-source_url: "https://www.hipaajournal.com/accendo-insurance-company-data-breach/"
+source_url: https://www.hipaajournal.com/accendo-insurance-company-data-breach/
 date_of_breach: 2025-02-01
-date_of_disclosure: 2025-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-02-11'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Bankers Cooperative Group
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, 17 Banks and 5 other organizations experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Bankers Cooperative Group. Source reporting:
-  https://www.hipaajournal.com/accendo-insurance-company-data-breach/
+notes: 'Accendo Insurance Company Affected by Business Associate Data Breach. Data
+  breaches have recently been announced by Accendo Insurance Company, Menorah Life,
+  Humboldt Independent Practice Association, and Samaritan Counseling Data breaches
+  have recently been announced by Accendo Insurance Company, Menorah Life, Humboldt
+  Independent Practice Association, and Samaritan Counseling Center of the Fox Valley.
+  Third-party company: Bankers Cooperative Group.'

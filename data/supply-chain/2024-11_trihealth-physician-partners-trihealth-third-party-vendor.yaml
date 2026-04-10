@@ -1,16 +1,19 @@
-source_name: TriHealth Physician Partners (TriHealth) Third-Party Breach (November 2024)
-source_url: "https://www.hipaajournal.com/trihealth-physician-partners-cyberattack/"
+source_name: TriHealth Physician Partners (TriHealth) Third-Party Breach (November
+  2024)
+source_url: https://www.hipaajournal.com/trihealth-physician-partners-cyberattack/
 date_of_breach: 2024-11-01
-date_of_disclosure: 2024-11-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-11-18'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, TriHealth Physician Partners (TriHealth) experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was Third-party vendor. Source reporting:
-  https://www.hipaajournal.com/trihealth-physician-partners-cyberattack/
+notes: TriHealth Physician Partners Confirms Patient Data Exposed in Cyberattack.
+  Cyberattacks have recently been announced by TriHealth Physician Partners in Ohio
+  and Harmac Medical Products in New York, and an insider breach has been Cyberattacks
+  and data breaches have recently been announced by TriHealth Physician Partners in
+  Ohio and Harmac Medical Products in New York, and an insider breach has been discovered
+  by North Texas Medical Specialists.

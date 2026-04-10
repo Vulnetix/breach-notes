@@ -1,16 +1,21 @@
 source_name: Bilt Third-Party Breach (July 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/affirm-says-cardholders-impacted-by-evolve-bank-data-breach/"
+source_url: https://www.bleepingcomputer.com/news/security/affirm-says-cardholders-impacted-by-evolve-bank-data-breach/
 date_of_breach: 2024-07-01
-date_of_disclosure: 2024-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-07-02'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: "Evolve Bank & Trust"
-software_package: ""
-malware: ""
+vendor_product: Evolve Bank & Trust
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Bilt experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Evolve Bank & Trust. Source reporting:
-  https://www.bleepingcomputer.com/news/security/affirm-says-cardholders-impacted-by-evolve-bank-data-breach/
+notes: 'Affirm says cardholders impacted by Evolve Bank data breach. Buy now, pay
+  later loan company Affirm is warning that holders of its payment cards had their
+  personal information exposed due to a data breach at its third-party issuer, Evolve
+  Bank & Trust (Evolve). Affirm is a fintech firm that provides consumer-friendly
+  alternatives to traditional credit options. It also offers point-of-sale financing,
+  virtual cards on a mobile app , and a fully integrated physical card called the
+  ''Affirm Card.''. Evolve is a large financial services provider specializing in
+  retail and commercial banking, payment processing, and banking-as-a-service (BaaS).
+  Third-party company: Evolve Bank & Trust.'

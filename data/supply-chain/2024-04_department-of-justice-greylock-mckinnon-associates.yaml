@@ -1,16 +1,21 @@
 source_name: Department of Justice Third-Party Breach (April 2024)
-source_url: "https://therecord.media/doj-data-leaked-in-attack-on-consulting-firm"
+source_url: https://therecord.media/doj-data-leaked-in-attack-on-consulting-firm
 date_of_breach: 2024-04-01
-date_of_disclosure: 2024-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-04-08'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Greylock McKinnon Associates
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Department of Justice experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Greylock McKinnon Associates. Source reporting:
-  https://therecord.media/doj-data-leaked-in-attack-on-consulting-firm
+notes: 'DOJ data on 341,000 people leaked in cyberattack on consulting firm. Medicare
+  and other information belonging to 341,000 people was leaked after a consulting
+  firm working with the Department of Justice was hacked. Greylock McKinnon Associates
+  reported a data breach to regulators in Maine on Friday, telling victims that personal
+  information like Social Security numbers and more were accessed during an incident
+  last May. The company said it provides “litigation support services in civil litigation
+  matters” and said those affected by the breach originally had information obtained
+  by the U.S. Department of Justice “as part of a civil litigation matter.”. Third-party
+  company: Greylock McKinnon Associates.'

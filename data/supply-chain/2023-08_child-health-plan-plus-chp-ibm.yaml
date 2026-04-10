@@ -1,16 +1,23 @@
 source_name: Child Health Plan Plus (CHP+) Third-Party Breach (August 2023)
-source_url: "https://www.hipaajournal.com/records-of-4-million-coloradans-compromised-in-moveit-transfer-attack/"
+source_url: https://www.hipaajournal.com/records-of-4-million-coloradans-compromised-in-moveit-transfer-attack/
 date_of_breach: 2023-08-01
-date_of_disclosure: 2023-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-08-14'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: IBM
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Child Health Plan Plus (CHP+) experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was IBM. Source reporting:
-  https://www.hipaajournal.com/records-of-4-million-coloradans-compromised-in-moveit-transfer-attack/
+notes: 'Records of 4 Million Coloradans Compromised in MOVEit Transfer Attack. The
+  Colorado Department of Health Care Policy and Financing (HCPF), which oversees the
+  state’s Medicaid program and the Child Health Plan Plus (CHP+) The Colorado Department
+  of Health Care Policy and Financing, Indiana Family and Social Services Administration,
+  Florida Healthy Kids, and Johns Hopkins Medicine have confirmed that data was stolen
+  in the recent attacks by the Clop group on MOVEit Transfer applications. Hackers
+  (Clop) exploited a zero day vulnerability in the MOVEit Transfer file transfer solution
+  and exfiltrated data and attempted to extort money from the victims. The information
+  security firm Kon Briefing has been tracking the incidents and reports that at least
+  670 organizations fell victim to the attacks and the records of 46 million individuals
+  are known to have been compromised. Third-party company: IBM.'

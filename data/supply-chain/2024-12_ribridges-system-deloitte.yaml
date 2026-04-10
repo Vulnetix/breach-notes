@@ -1,16 +1,21 @@
 source_name: RIBridges system Third-Party Breach (December 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/"
+source_url: https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/
 date_of_breach: 2024-12-01
-date_of_disclosure: 2024-12-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-12-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Deloitte
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, RIBridges system experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Deloitte. Source reporting:
-  https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/
+notes: 'Rhode Island confirms data breach after Brain Cipher ransomware attack. Rhode
+  Island is warning that its RIBridges system, managed by Deloitte, suffered a data
+  breach exposing residents'' personal information after the Brain Cipher ransomware
+  gang hacked its systems. RIBridges is a modern integrated eligibility system (IES)
+  used in Rhode Island to manage and deliver public assistance programs, helping streamline
+  the administration of various social services. The incident was discovered on December
+  5, 2024, and following an evaluation by Deloitte, it is considered very likely that
+  hackers stole files containing personally identifiable information and other data.
+  Third-party company: Deloitte.'

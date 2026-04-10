@@ -1,16 +1,20 @@
 source_name: Ticketmaster Third-Party Breach (May 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/snowflake-account-hacks-linked-to-santander-ticketmaster-breaches/#google_vignette"
+source_url: https://www.bleepingcomputer.com/news/security/snowflake-account-hacks-linked-to-santander-ticketmaster-breaches/#google_vignette
 date_of_breach: 2024-05-01
-date_of_disclosure: 2024-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-05-31'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Snowflake
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Ticketmaster experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Snowflake. Source reporting:
-  https://www.bleepingcomputer.com/news/security/snowflake-account-hacks-linked-to-santander-ticketmaster-breaches/#google_vignette
+notes: 'Snowflake account hacks linked to Santander, Ticketmaster breaches. A threat
+  actor claiming recent Santander and Ticketmaster breaches says they stole data after
+  hacking into an employee''s account at cloud storage company Snowflake. However,
+  Snowflake disputes these claims, saying recent breaches were caused by poorly secured
+  customer accounts. Update 6/1/24: Hudson Rock has taken down their report that a
+  hacker breached Snowflake to steal the data, shedding doubt on the hacker’s claims
+  . BleepingComputer reached out to find out why, but the cybersecurity company has
+  yet to reply. Our original report is below. Third-party company: Snowflake.'

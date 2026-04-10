@@ -1,16 +1,23 @@
 source_name: Humana Inc. Third-Party Breach (October 2023)
-source_url: "https://www.hipaajournal.com/cyberattacks-reported-by-brooklyn-premier-orthopedics-atlas-healthcare/"
+source_url: https://www.hipaajournal.com/cyberattacks-reported-by-brooklyn-premier-orthopedics-atlas-healthcare/
 date_of_breach: 2023-10-01
-date_of_disclosure: 2023-10-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-10-26'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: PNC Bank
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Humana Inc. experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was PNC Bank. Source reporting:
-  https://www.hipaajournal.com/cyberattacks-reported-by-brooklyn-premier-orthopedics-atlas-healthcare/
+notes: 'Cyberattacks Reported by Brooklyn Premier Orthopedics & Atlas Healthcare.
+  Brooklyn Premier Orthopedics (BPO) in New York has confirmed the protected health
+  information of 48,459 patients may have been viewed or obtained in a The protected
+  health information of more than 48,000 patients of Brooklyn Premier Orthopedics
+  and almost 11,000 patients of Atlas Healthcare has been exposed in cyberattacks.
+  The investigation did not uncover any evidence to indicate any of that information
+  has been misused; however, the affected patients have been advised to be vigilant
+  and monitor their accounts carefully. Complimentary credit monitoring and identity
+  theft protection services have been offered. BPO has reviewed and enhanced its security
+  policies and practices to reduce the likelihood of similar incidents occurring in
+  the future. Third-party company: PNC Bank.'

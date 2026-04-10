@@ -1,16 +1,21 @@
 source_name: Netherlands enterprise agency RVO Third-Party Breach (March 2023)
-source_url: "https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen"
+source_url: https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen
 date_of_breach: 2023-03-01
-date_of_disclosure: 2023-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-03-30'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Nebu BV
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Netherlands enterprise agency RVO experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Nebu BV. Source reporting:
-  https://nos.nl/artikel/2469510-datalek-nederlandse-bedrijven-steeds-groter-zeker-2-miljoen-klanten-getroffen
+notes: 'Datalek Nederlandse bedrijven steeds groter: zeker 2 miljoen klanten getroffen.
+  De oorzaak is een datalek bij een softwareleverancier van marktonderzoekers. Zij
+  hebben grote Nederlandse bedrijven, zoals de NS en VodafoneZiggo, als klant. Zeker
+  2 miljoen Nederlandse klantgegevens blijken betrokken bij een groot Nederlands datalek.
+  Naast onder meer de NS en VodafoneZiggo zijn er nóg drie bedrijven geraakt: ook
+  klantgegevens van de Nederlandse Golf Federatie, ArboNed en vervoersbedrijf Trevvel
+  blijken te zijn gelekt. De Autoriteit Persoonsgegevens heeft nog geen totaalbeeld
+  kunnen maken. De toezichthouder start een onderzoek. Het kan overigens zijn dat
+  mensen meerdere keren voorkomen in de data. Third-party company: Nebu BV.'

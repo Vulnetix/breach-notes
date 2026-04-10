@@ -1,16 +1,24 @@
 source_name: Bay Area Anesthesia Third-Party Breach (March 2024)
-source_url: "https://www.hipaajournal.com/grace-lutheran-communities-ransomware-attack/"
+source_url: https://www.hipaajournal.com/grace-lutheran-communities-ransomware-attack/
 date_of_breach: 2024-03-01
 date_of_disclosure: 2024-03-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Bowden Barlow Law, P.A.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Bay Area Anesthesia experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Bowden Barlow Law, P.A.. Source reporting:
-  https://www.hipaajournal.com/grace-lutheran-communities-ransomware-attack/
+notes: 'Grace Lutheran Communities Falls Victim of ALPHV/Blackcat Ransomware Attack.
+  Grace Lutheran Communities in Wisconsin, a provider of rehabilitation services,
+  assisted living, independent living, and skilled nursing, has experienced Washington
+  County Hospital and Nursing Home, Bay Area Anesthesia, Grace Lutheran Communities,
+  and Cardiothoracic and Vascular Surgeons in Texas have reported breaches of the
+  protected health information of patients. On February 17, 2024, Grace Lutheran Communities
+  discovered that a ransomware group – ALPHV/Blackcat – had published some of the
+  stolen data on its data leak site. Grace Lutheran Communities said it is committed
+  to ensuring the privacy and security of patient data and is enhancing network security
+  to prevent similar attacks in the future. Grace Lutheran Communities has yet to
+  confirm how many individuals have been affected. Third-party company: Bowden Barlow
+  Law, P.A..'

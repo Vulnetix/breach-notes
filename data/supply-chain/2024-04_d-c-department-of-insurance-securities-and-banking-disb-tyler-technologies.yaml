@@ -1,16 +1,22 @@
-source_name: D.C. Department of Insurance, Securities and Banking (DISB) Third-Party Breach (April 2024)
-source_url: "https://therecord.media/dc-city-agency-ransomware-attack-lockbit"
+source_name: D.C. Department of Insurance, Securities and Banking (DISB) Third-Party
+  Breach (April 2024)
+source_url: https://therecord.media/dc-city-agency-ransomware-attack-lockbit
 date_of_breach: 2024-04-01
-date_of_disclosure: 2024-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-04-19'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Tyler Technologies
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, D.C. Department of Insurance, Securities and Banking (DISB) experienced a data security incident via
-  a third-party vendor relationship. The compromised third-party vendor was Tyler Technologies. Source
-  reporting: https://therecord.media/dc-city-agency-ransomware-attack-lockbit
+notes: 'DC city agency says LockBit claims tied to third-party attack. The Department
+  of Insurance, Securities and Banking (DISB) said the ransomware gang stole data
+  from a contractor, Tyler Technologies. A Washington, D.C., government agency confirmed
+  that data stolen and leaked by the LockBit ransomware gang was taken from a third-party
+  technology provider. On April 13, the LockBit ransomware gang claimed it attacked
+  the D.C. Department of Insurance, Securities and Banking (DISB) and stole 800GB
+  of data. DISB is a regulatory agency designed to protect consumers from abuses by
+  financial institutions like insurance companies, investment firms, banks and mortgage
+  lenders. Third-party company: Tyler Technologies.'

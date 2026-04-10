@@ -1,16 +1,19 @@
 source_name: Forward Healthcare Third-Party Breach (February 2024)
-source_url: "https://www.hipaajournal.com/egyptian-health-department-cyberattack-affects-up-to-100000-individuals/"
+source_url: https://www.hipaajournal.com/egyptian-health-department-cyberattack-affects-up-to-100000-individuals/
 date_of_breach: 2024-02-01
-date_of_disclosure: 2024-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-02-29'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Philips Respironics
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Forward Healthcare experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Philips Respironics. Source reporting:
-  https://www.hipaajournal.com/egyptian-health-department-cyberattack-affects-up-to-100000-individuals/
+notes: 'Egyptian Health Department Cyberattack Affects Up to 100,000 Individuals.
+  Egyptian Health Department (EHD) in Eldorado, IL, has recently announced a data
+  breach affecting up to 100,000 patients. EHD suffered a cyberattack on Egyptian
+  Health Department says up to 100,000 individuals have been affected by a December
+  cyberattack. Data breaches have also been reported by McKenzie County Healthcare
+  System, Forward Healthcare, Maryville Addiction Treatment Centers, the California
+  Department of State Hospitals, and Cencora. Third-party company: Philips Respironics.'

@@ -1,16 +1,20 @@
 source_name: 60 Credit Unions Third-Party Breach (December 2023)
-source_url: "https://therecord.media/credit-unions-facing-outages-due-to-ransomware"
+source_url: https://therecord.media/credit-unions-facing-outages-due-to-ransomware
 date_of_breach: 2023-12-01
 date_of_disclosure: 2023-12-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Trellance
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, 60 Credit Unions experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Trellance. Source reporting:
-  https://therecord.media/credit-unions-facing-outages-due-to-ransomware
+notes: '60 credit unions facing outages due to ransomware attack on popular tech provider.
+  The ransomware attack targeted the cloud services provider Ongoing Operations, a
+  company owned by credit union technology firm Trellance. About 60 credit unions
+  are dealing with outages due to a ransomware attack on a widely used technology
+  provider. National Credit Union Administration (NCUA) spokesperson Joseph Adamoli
+  said the ransomware attack targeted the cloud services provider Ongoing Operations,
+  a company owned by credit union technology firm Trellance. Third-party company:
+  Trellance.'

@@ -1,16 +1,24 @@
 source_name: Presbyterian Healthcare Services Third-Party Breach (November 2024)
-source_url: "https://www.hipaajournal.com/presbyterian-healthcare-services-orm-fertility-data-breach/"
+source_url: https://www.hipaajournal.com/presbyterian-healthcare-services-orm-fertility-data-breach/
 date_of_breach: 2024-11-01
-date_of_disclosure: 2024-11-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-11-07'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Thompson Coburn
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Presbyterian Healthcare Services experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Thompson Coburn. Source reporting:
-  https://www.hipaajournal.com/presbyterian-healthcare-services-orm-fertility-data-breach/
+notes: 'Presbyterian Healthcare Services & ORM Fertility Patients Affected by Data
+  Breaches. Oregon Reproductive Medicine, doing business as ORM Fertility, has announced
+  a security breach that impacted certain computer systems and caused network Oregon
+  Reproductive Medicine (ORM Fertility) has confirmed internal systems were accessed
+  by an unauthorized individual in an August 2024 security breach. Presbyterian Healthcare
+  Services patients have been affected by a data breach at the law firm Thompson Coburn.
+  ORM Fertility said there was no unauthorized access to its electronic medical records
+  (EMR), email, or customer relationship management system (CRM), and financial and
+  insurance information was not exposed. The review of the affected files is ongoing;
+  however, it appears that only limited patient data was exposed, such as names and
+  lab data. The exact data types will be confirmed when the file review is concluded.
+  Third-party company: Thompson Coburn.'

@@ -1,16 +1,22 @@
 source_name: Kairos Health Arizona Third-Party Breach (July 2024)
-source_url: "https://www.hipaajournal.com/protected-health-information-stolen-in-healthequity-sharepoint-breach/"
+source_url: https://www.hipaajournal.com/protected-health-information-stolen-in-healthequity-sharepoint-breach/
 date_of_breach: 2024-07-01
-date_of_disclosure: 2024-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-07-05'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: A Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Kairos Health Arizona experienced a data security incident via a third-party vendor relationship.
-  Source reporting:
-  https://www.hipaajournal.com/protected-health-information-stolen-in-healthequity-sharepoint-breach/
+notes: 'Protected Health Information Stolen in HealthEquity SharePoint Breach. HealthEquity
+  has confirmed a breach of its SharePoint data, which included protected health information.
+  HIPAA compliance data breaches have also been HealthEquity has confirmed a breach
+  of its SharePoint data, which included protected health information. Data breaches
+  have also been reported by Kairos Health Arizona and Ambulnz. HealthEquity, a Draper,
+  UT-based financial technology, and business services company, has suffered a cyberattack
+  that has exposed protected health information. HealthEquity provides health savings
+  account (HSA) services and other consumer-directed benefits solutions, including
+  health reimbursement arrangements (HRAs), and manages millions of HSAs, HRAs, and
+  other benefit accounts. Third-party company: A Third-party vendor.'

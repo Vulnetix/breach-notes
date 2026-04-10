@@ -1,16 +1,14 @@
-source_name: The U.S. Government Accountability Office Third-Party Breach (February 2024)
-source_url: "https://www.reuters.com/technology/us-government-accounting-office-says-it-was-notified-data-breach-by-it-2024-02-12/"
+source_name: The U.S. Government Accountability Office Third-Party Breach (February
+  2024)
+source_url: https://www.reuters.com/technology/us-government-accounting-office-says-it-was-notified-data-breach-by-it-2024-02-12/
 date_of_breach: 2024-02-01
 date_of_disclosure: 2024-02-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CGI Federal
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, The U.S. Government Accountability Office experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was CGI Federal. Source reporting:
-  https://www.reuters.com/technology/us-government-accounting-office-says-it-was-notified-data-breach-by-it-2024-02-12/
+notes: 'Third-party company: CGI Federal.'

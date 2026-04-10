@@ -1,16 +1,19 @@
-source_name: 40 Affiliated nursing facilities in Texas and Kansas Third-Party Breach (January 2024)
-source_url: "https://www.hipaajournal.com/hmg-healthcare-data-breach/"
+source_name: 40 Affiliated nursing facilities in Texas and Kansas Third-Party Breach
+  (January 2024)
+source_url: https://www.hipaajournal.com/hmg-healthcare-data-breach/
 date_of_breach: 2024-01-01
-date_of_disclosure: 2024-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-01-12'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: HMG Healthcare
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, 40 Affiliated nursing facilities in Texas and Kansas experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was HMG Healthcare. Source reporting:
-  https://www.hipaajournal.com/hmg-healthcare-data-breach/
+notes: 'HMG Healthcare Data Breach Affects 80,000 Individuals. HMG Healthcare, LLC,
+  a Texas-based healthcare services provider, has recently confirmed that the protected
+  health information of up to 80,000 individuals HMG Healthcare, LLC, a Texas-based
+  healthcare services provider, has recently confirmed that the protected health information
+  of up to 80,000 individuals was exposed and potentially stolen in a cyberattack
+  that was detected in November 2023. Third-party company: HMG Healthcare.'

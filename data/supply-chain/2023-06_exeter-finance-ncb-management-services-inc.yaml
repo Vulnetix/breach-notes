@@ -1,16 +1,20 @@
 source_name: Exeter Finance Third-Party Breach (June 2023)
-source_url: "https://therecord.media/capital-one-ncb-management-services-data-breach"
+source_url: https://therecord.media/capital-one-ncb-management-services-data-breach
 date_of_breach: 2023-06-01
-date_of_disclosure: 2023-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-06-23'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: NCB Management Services, Inc.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Exeter Finance experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was NCB Management Services, Inc.. Source reporting:
-  https://therecord.media/capital-one-ncb-management-services-data-breach
+notes: 'Capital One becomes latest bank affected by cyberattack on debt-buying giant.
+  The initial response to the incident focused on former customers of Bank of America,
+  but Capital One has confirmed that its customers also were involved. Capital One
+  is the latest financial institution to reveal that it was affected by a cyberattack
+  on NCB Management Services, a company that purchases debt. The initial response
+  to the incident focused on former customers of Bank of America, but in new letters
+  filed with regulators in several states, Capital One confirmed that its customers
+  were involved. Third-party company: NCB Management Services, Inc..'

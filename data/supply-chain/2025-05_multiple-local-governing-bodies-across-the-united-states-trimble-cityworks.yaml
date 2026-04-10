@@ -1,16 +1,24 @@
-source_name: Multiple local governing bodies across the United States Third-Party Breach (May 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/"
+source_name: Multiple local governing bodies across the United States Third-Party
+  Breach (May 2025)
+source_url: https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/
 date_of_breach: 2025-05-01
-date_of_disclosure: 2025-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-05-22'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Trimble Cityworks
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Multiple local governing bodies across the United States experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was Trimble Cityworks. Source reporting:
-  https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/
+notes: 'Chinese hackers breach US local governments using Cityworks zero-day. Chinese-speaking
+  hackers have exploited a now-patched Trimble Cityworks zero-day to breach multiple
+  local governing bodies across the United States. Trimble Cityworks is a Geographic
+  Information System (GIS)-based asset management and work order management software
+  primarily used by local governments, utilities, and public works organizations and
+  designed to help infrastructure agencies and municipalities manage public assets,
+  handle permitting and licensing, and process work orders. The hacking group (UAT-6382)
+  behind this campaign used a Rust-based malware loader to deploy Cobalt Strike beacons
+  and VSHell malware designed to backdoor compromised systems and provide long-term
+  persistent access, as well as web shells and custom malicious tools written in Chinese.
+  Third-party company: Trimble Cityworks.'

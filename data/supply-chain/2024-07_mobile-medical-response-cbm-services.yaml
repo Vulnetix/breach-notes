@@ -1,16 +1,23 @@
 source_name: Mobile Medical Response Third-Party Breach (July 2024)
-source_url: "https://www.hipaajournal.com/email-breach-affects-22000-ambulatory-surgery-center-of-westchester-patients/"
+source_url: https://www.hipaajournal.com/email-breach-affects-22000-ambulatory-surgery-center-of-westchester-patients/
 date_of_breach: 2024-07-01
-date_of_disclosure: 2024-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-07-05'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CBM Services
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Mobile Medical Response experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was CBM Services. Source reporting:
-  https://www.hipaajournal.com/email-breach-affects-22000-ambulatory-surgery-center-of-westchester-patients/
+notes: 'Email Breach Affects 22,000 Ambulatory Surgery Center of Westchester Patients.
+  The Mount Kisco Surgery Center, doing business as the Ambulatory Surgery Center
+  of Westchester in New York, has recently notified 22,139 patients that An employee
+  email account containing the PHI of 22,000 Ambulatory Surgery Center of Westchester
+  patients has been hacked. Mobile Medical Response is investigating an impermissible
+  disclosure of patient data. Suspicious activity was detected in an employee’s email
+  account on November 3, 2023, and after securing the account, a forensic investigation
+  was launched to determine the nature and scope of the activity. The investigation
+  confirmed that the unauthorized third party had access to the account from October
+  23, 2023, to November 3, 2023, and that the account contained patient data. Third-party
+  company: CBM Services.'

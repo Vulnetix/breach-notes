@@ -1,16 +1,21 @@
-source_name: National Payments Corporation of India (NPCI) Third-Party Breach (August 2024)
-source_url: "https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack"
+source_name: National Payments Corporation of India (NPCI) Third-Party Breach (August
+  2024)
+source_url: https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack
 date_of_breach: 2024-08-01
-date_of_disclosure: 2024-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-08-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: C-Edge Technologies Ltd
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, National Payments Corporation of India (NPCI) experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was C-Edge Technologies Ltd. Source reporting:
-  https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack
+notes: 'Ransomware attack on Indian payment system traced back to Jenkins bug. Researchers
+  at Juniper Networks analyzed the recent breach of the National Payments Corporation
+  of India (NPCI). Researchers have discovered that a damaging ransomware attack on
+  a digital payment system used by many of India’s banks began with a vulnerability
+  in Jenkins — a widely used open-source automation system for software developers.
+  Juniper Networks published a study this week analyzing how the attackers abused
+  CVE-2024-23897, a vulnerability in the Jenkins Command Line Interface, which helps
+  developers interact with the system. Third-party company: C-Edge Technologies Ltd.'

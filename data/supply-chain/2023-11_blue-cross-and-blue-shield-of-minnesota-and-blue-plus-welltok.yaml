@@ -1,16 +1,23 @@
-source_name: Blue Cross and Blue Shield of Minnesota and Blue Plus Third-Party Breach (November 2023)
-source_url: "https://www.bleepingcomputer.com/news/security/welltok-data-breach-exposes-data-of-85-million-us-patients/"
+source_name: Blue Cross and Blue Shield of Minnesota and Blue Plus Third-Party Breach
+  (November 2023)
+source_url: https://www.bleepingcomputer.com/news/security/welltok-data-breach-exposes-data-of-85-million-us-patients/
 date_of_breach: 2023-11-01
-date_of_disclosure: 2023-11-01
-date_of_customer_notification: ""
+date_of_disclosure: '2023-11-22'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Welltok
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2023, Blue Cross and Blue Shield of Minnesota and Blue Plus experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was Welltok. Source reporting:
-  https://www.bleepingcomputer.com/news/security/welltok-data-breach-exposes-data-of-85-million-us-patients/
+notes: 'Welltok data breach exposes data of 8.5 million US patients. Healthcare SaaS
+  provider Welltok is warning that a data breach exposed the personal data of nearly
+  8.5 million patients in the U.S. after a file transfer program used by the company
+  was hacked in a data theft attack. Welltok works with health service providers across
+  the U.S., maintaining online wellness programs, holding databases with personal
+  patient data, generating predictive analytics, and supporting healthcare needs like
+  medication adherence and pandemic response. Earlier this year, the Clop ransomware
+  gang exploited a zero-day vulnerability in the MOVEit software to breach thousands
+  of organizations worldwide, following up with extortion demands and data leaks impacting
+  over 77 million people. Third-party company: Welltok.'

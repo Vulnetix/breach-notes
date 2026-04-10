@@ -1,16 +1,21 @@
 source_name: Geisinger Third-Party Breach (June 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/"
+source_url: https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/
 date_of_breach: 2024-06-01
-date_of_disclosure: 2024-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-06-27'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Nuance Communications
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Geisinger experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Nuance Communications. Source reporting:
-  https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/
+notes: 'Former IT employee accessed data of over 1 million US patients. Geisinger,
+  a prominent healthcare system in Pennsylvania, has announced a data breach involving
+  a former employee of Nuance, an IT services provider contracted by the organization.
+  Geisinger is a non-profit organization that operates 134 care sites, ten hospitals,
+  and the Geisinger Health Plan, serving a total of 1.2 million people. It employs
+  26,000 staff, including 1,600 doctors, and is considered one of Pennsylvania’s most
+  important organizations. An announcement published earlier this week explains that
+  in November 2023, Geisinger detected unauthorized access to its patients’ database
+  by a former Nuance employee. Third-party company: Nuance Communications.'

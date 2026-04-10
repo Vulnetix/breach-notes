@@ -1,16 +1,19 @@
 source_name: TRG Medical Imaging Third-Party Breach (May 2025)
-source_url: "https://www.hipaajournal.com/nationwide-recovery-service-data-breach/#:~:text=HIPAA%2Dregulated%20entities%20that%20have,System%20and%20its%20affiliates%20Hamilton"
+source_url: https://www.hipaajournal.com/nationwide-recovery-service-data-breach/#:~:text=HIPAA%2Dregulated%20entities%20that%20have,System%20and%20its%20affiliates%20Hamilton
 date_of_breach: 2025-05-01
-date_of_disclosure: 2025-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-05-27'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Nationwide Recovery Services (NRS)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, TRG Medical Imaging experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Nationwide Recovery Services (NRS). Source reporting:
-  https://www.hipaajournal.com/nationwide-recovery-service-data-breach/#:~:text=HIPAA%2Dregulated%20entities%20that%20have,System%20and%20its%20affiliates%20Hamilton
+notes: 'Nationwide Recovery Service Data Breach Victim List Grows: 560,000+ Individuals
+  Affected. The list of victims from the data breach at the debt collection agency
+  Nationwide Recovery Service (NRS) is steadily growing, with a further six NRS Six
+  more National Recovery Service clients have confirmed that sensitive information
+  was stolen in its July 2024 cyberattack: The City of Chattanooga, MAK Anesthesia,
+  Duncan Regional Hospital, Swedish Edmonds Hospital, Smile Solutions of Goodlettsville,
+  and UCM Medical Group. Third-party company: Nationwide Recovery Services (NRS).'

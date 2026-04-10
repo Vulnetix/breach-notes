@@ -1,16 +1,18 @@
 source_name: Square Medical Group Third-Party Breach (January 2025)
-source_url: "https://www.hipaajournal.com/frederick-health-ransomware-attack/"
+source_url: https://www.hipaajournal.com/frederick-health-ransomware-attack/
 date_of_breach: 2025-01-01
-date_of_disclosure: 2025-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-01-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Square Medical Group experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Third-party vendor. Source reporting:
-  https://www.hipaajournal.com/frederick-health-ransomware-attack/
+notes: Frederick Health Recovering from Ransomware Attack. Frederick Health in Maryland
+  is investigating a ransomware attack, Holdrege Memorial Homes in Nebraska has mailed
+  notification letters to individuals Frederick Health in Maryland is investigating
+  a ransomware attack, Holdrege Memorial Homes in Nebraska has mailed notification
+  letters to individuals affected by a 2023 data breach, and Square Medical Group
+  in Massachusetts has identified an email breach at an IT vendor.

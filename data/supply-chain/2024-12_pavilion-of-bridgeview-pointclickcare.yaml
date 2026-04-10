@@ -1,16 +1,22 @@
 source_name: Pavilion of Bridgeview Third-Party Breach (December 2024)
-source_url: "https://www.hipaajournal.com/gastroenterology-cardiology-and-nursing-care-providers-suffer-cyberattacks/"
+source_url: https://www.hipaajournal.com/gastroenterology-cardiology-and-nursing-care-providers-suffer-cyberattacks/
 date_of_breach: 2024-12-01
-date_of_disclosure: 2024-12-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-12-05'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: PointClickCare
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Pavilion of Bridgeview experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was PointClickCare. Source reporting:
-  https://www.hipaajournal.com/gastroenterology-cardiology-and-nursing-care-providers-suffer-cyberattacks/
+notes: 'Gastroenterology, Cardiology, and Nursing Care Providers Suffer Cyberattacks.
+  Cyberattacks have recently been announced by Connecticut GI and Gastroenterology
+  Associates of Fairfield, Cardiology Associates of Mobile, and Pavilion of Cyberattacks
+  have recently been announced by Connecticut GI and Gastroenterology Associates of
+  Fairfield, Cardiology Associates of Mobile, and Pavilion of Bridgeview. Connecticut
+  GI and Gastroenterology Associates of Fairfield have recently confirmed that the
+  protected health information of 10,568 patients was stolen in a security breach
+  in June 2024. The clinics learned on June 19, 2024, that an unauthorized individual
+  had accessed servers between June 5 and June 7, 2024, and copied data. Third-party
+  company: PointClickCare.'

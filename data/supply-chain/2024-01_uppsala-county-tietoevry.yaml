@@ -1,16 +1,20 @@
 source_name: Uppsala County Third-Party Breach (January 2024)
-source_url: "https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-causes-outages-for-swedish-firms-cities/"
+source_url: https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-causes-outages-for-swedish-firms-cities/
 date_of_breach: 2024-01-01
-date_of_disclosure: 2024-01-01
-date_of_customer_notification: ""
+date_of_disclosure: '2024-01-21'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: TietoEVRY
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2024, Uppsala County experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was TietoEVRY. Source reporting:
-  https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-causes-outages-for-swedish-firms-cities/
+notes: 'Tietoevry ransomware attack causes outages for Swedish firms, cities. Finnish
+  IT services and enterprise cloud hosting provider Tietoevry has suffered an Akira
+  ransomware attack impacting cloud hosting customers in one of its data centers in
+  Sweden. The story was updated on 1/22/24 with Tietoevery''s confirmation that they
+  suffered an Akira ransomware attack. Tietoevry is a Finnish IT services company
+  offering managed services and cloud hosting for the enterprise. The company employs
+  approximately 24,000 people worldwide and had a 2023 revenue of $3.1 billion. Third-party
+  company: TietoEVRY.'

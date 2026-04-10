@@ -1,16 +1,22 @@
 source_name: Humana Third-Party Breach (September 2022)
-source_url: "https://www.jdsupra.com/legalnews/humana-announces-reports-third-party-6625303/"
+source_url: https://www.jdsupra.com/legalnews/humana-announces-reports-third-party-6625303/
 date_of_breach: 2022-09-01
 date_of_disclosure: 2022-09-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Alight.com (Choice Health prev)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Humana experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Alight.com (Choice Health prev). Source reporting:
-  https://www.jdsupra.com/legalnews/humana-announces-reports-third-party-6625303/
+notes: 'Humana Announces Reports Third-Party Data Breach Involving Data Security Incident
+  at Choice Health | JD Supra. On September 21, 2022, Humana confirmed that the company
+  experienced a data breach after Choice Health, one of the companies Humana uses
+  to help sell. The available information about the Humana / Choice Health data breach
+  comes from the companies’ filings with various state attorneys general offices.
+  According to these sources, on May 14, 2022, Choice Health was informed that an
+  unauthorized party was offering data that was allegedly stolen from the Choice Health
+  network. In response, Choice Health launched an internal investigation with the
+  assistance of third-party cybersecurity specialists. Third-party company: Alight.com
+  (Choice Health prev).'

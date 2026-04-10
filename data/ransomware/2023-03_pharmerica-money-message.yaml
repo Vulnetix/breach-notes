@@ -1,0 +1,13 @@
+source_name: "PharMerica Pharmacy Network Money Message Ransomware — 5.8 Million Patient Records"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2023-03-12"
+date_of_disclosure: "2023-05-12"
+date_of_customer_notification: "2023-05-12"
+category: "ransomware"
+initial_attack_vector: "Money Message ransomware group gained access to PharMerica's network via unknown initial access vector; the group exfiltrated patient data and deployed ransomware; PharMerica is a major pharmacy benefits management company operating in long-term care facilities"
+cve: []
+vendor_product: "PharMerica pharmacy benefits management systems"
+software_package: ""
+malware: "Money Message ransomware"
+supply_chain_claimed: false
+notes: "In March 2023, Money Message ransomware attacked PharMerica Corporation — one of the largest pharmacy benefit management companies in the US, providing pharmacy services to long-term care facilities including nursing homes and assisted living facilities across all 50 states. PharMerica disclosed the breach on 12 May 2023, notifying the HHS OCR that approximately 5.8 million patient records were compromised. Stolen data included names, dates of birth, Social Security numbers, medication lists, and health insurance information. Money Message listed PharMerica on its dark web leak site and published what it claimed was stolen data after PharMerica reportedly declined to pay the ransom. The data was subsequently searchable on the dark web. The breach is significant for the sensitivity of the data — pharmacy records from long-term care patients include medication regimens that can reveal serious medical conditions. PharMerica was acquired by BrightSpring Health Services in 2023, and the combined entity subsequently went public. Multiple class-action lawsuits were filed against PharMerica. HHS OCR opened a compliance review. The breach was one of the largest US healthcare data breaches of 2023."

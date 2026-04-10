@@ -1,0 +1,13 @@
+source_name: "Red Cross International ICRC Data Breach — 515,000 Vulnerable People Records"
+source_url: "https://www.icrc.org/en/document/icrc-statement-data-breach"
+date_of_breach: "2022-01-18"
+date_of_disclosure: "2022-01-19"
+date_of_customer_notification: "2022-01-19"
+category: "data-leak"
+initial_attack_vector: "Sophisticated nation-state-level attacker (ICRC later assessed the attack as deliberate, targeted, and state-sponsored) exploited an unpatched critical authentication bypass vulnerability (CVE-2021-40539) in Zoho ManageEngine ADSelfService Plus deployed by a third-party contractor; attacker deployed webshells and custom malware BEACON and GLASSTOKEN"
+cve: ["CVE-2021-40539"]
+vendor_product: "International Committee of the Red Cross (ICRC) / Zoho ManageEngine ADSelfService Plus"
+software_package: ""
+malware: "BEACON, GLASSTOKEN (custom malware)"
+supply_chain_claimed: false
+notes: "On 18 January 2022, the International Committee of the Red Cross (ICRC) discovered a cyberattack on servers hosted by a contractor in Switzerland that stored data for its Restoring Family Links program — a service that helps reconnect families separated by conflict, disasters, or migration. The breach exposed data for approximately 515,000 highly vulnerable people including: missing persons and their families, detainees and their families, unaccompanied minors, and people separated from their families due to conflict, migration, and disasters. The ICRC publicly disclosed the breach on 19 January 2022. The ICRC took the affected systems offline and appealed publicly to the attackers not to share, sell, leak, or otherwise use the data, as doing so could cause significant harm to the most vulnerable. A subsequent ICRC investigation concluded the attack was deliberate, targeted, and sophisticated — assessing with high confidence that a state-sponsored actor was responsible. The attackers used CVE-2021-40539 in Zoho ManageEngine (a critical authentication bypass) exploited by APT40 and other state-sponsored groups. Obfuscation techniques and anti-forensics tools used suggested a nation-state actor. The ICRC's data was particularly sensitive because it facilitates communication between people in conflict zones with their families — potentially including conflict combatants and detainees whose location information could be life-threatening if disclosed."

@@ -1,0 +1,13 @@
+source_name: "Dish Network / EchoStar BlackBasta Ransomware — Employee Data, 300K+ Affected"
+source_url: "https://oag.ca.gov/system/files/Dish-data-breach-notice-to-employees.pdf"
+date_of_breach: "2023-02-23"
+date_of_disclosure: "2023-03-01"
+date_of_customer_notification: "2023-06-01"
+category: "ransomware"
+initial_attack_vector: "Black Basta ransomware group attacked Dish Network's internal network; specific initial access vector not publicly disclosed; the attack encrypted internal systems and exfiltrated data"
+cve: []
+vendor_product: "Dish Network / EchoStar internal systems"
+software_package: ""
+malware: "Black Basta ransomware"
+supply_chain_claimed: false
+notes: "On 23 February 2023, Dish Network and its parent EchoStar suffered a Black Basta ransomware attack that caused a several-day outage affecting Dish Network's websites, call centers, and internal systems. Dish.com, Sling TV, and Dish's customer service systems were all disrupted. Dish Network is a US satellite broadcasting company serving approximately 10 million subscribers. The attack caused an extended outage of approximately one week for customer-facing services. The company was unable to confirm whether customer personal data was stolen. In subsequent SEC 8-K filings, Dish disclosed that certain data had been extracted and that it was paying cybersecurity firms and legal counsel to investigate. Dish notified the Montana attorney general in June 2023 that approximately 296,851 Montana residents (and an undetermined total number of individuals across all states) had their data stolen including names, Social Security numbers, and other personal data — specifically of current and former employees. Black Basta claimed responsibility. Dish did not make a public statement confirming the ransom payment, though subsequent reports suggested Dish did pay to prevent data publication. The attack significantly impacted Dish's business operations and contributed to the company's financial difficulties."

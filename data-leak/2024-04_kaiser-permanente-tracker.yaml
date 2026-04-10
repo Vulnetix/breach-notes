@@ -1,0 +1,13 @@
+source_name: "Kaiser Permanente web tracking pixel data disclosure (13.4 million)"
+source_url: "https://www.fiercehealthcare.com/providers/kaiser-permanente-says-134m-impacted-data-breach"
+date_of_breach: "2024-01-01"
+date_of_disclosure: "2024-04-12"
+date_of_customer_notification: "2024-04-25"
+category: "data-leak"
+initial_attack_vector: "CWE-359: Exposure of Private Personal Information to an Unauthorized Actor (third-party analytics/advertising tracking pixels embedded in patient-facing portal shared PHI with Google, Microsoft Bing, and X/Twitter)"
+cve: []
+vendor_product: "Kaiser Permanente member portal and apps"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Kaiser Permanente disclosed that tracking technologies (pixels) embedded in its website and mobile apps transmitted member health information to third-party tech companies (Microsoft Bing, Google, X/Twitter). 13,426,869 individuals affected — second-largest healthcare breach of 2024. Data shared included names, IP addresses, sign-in status, health encyclopedia search terms (symptoms, drugs, conditions), and navigation behaviour. No SSNs, financial data, or login credentials involved. HHS OCR breach portal notification filed April 2024. $47.5 million settlement reached. Broader HIPAA web-tracking enforcement context: OCR had issued guidance in 2022 prohibiting use of tracking technologies that transmit PHI."

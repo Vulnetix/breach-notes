@@ -1,0 +1,13 @@
+source_name: "Marks & Spencer ransomware attack (Scattered Spider / DragonForce)"
+source_url: "https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/"
+date_of_breach: "2025-02-01"
+date_of_disclosure: "2025-04-25"
+date_of_customer_notification: "2025-05-01"
+category: "ransomware"
+initial_attack_vector: "CWE-306: Missing Authentication for Critical Function / social engineering (attackers impersonated an M&S employee and called the third-party service desk to perform a password reset; obtained NTDS.dit to crack hashes offline)"
+cve: []
+vendor_product: "Marks & Spencer (UK retailer) — VMware ESXi virtual machines; service desk identity management"
+software_package: ""
+malware: "DragonForce ransomware"
+supply_chain_claimed: false
+notes: "Scattered Spider (UNC3944) gained initial access to M&S systems as early as February 2025 via social engineering of the third-party IT service desk (vishing/impersonation). Attackers exfiltrated the NTDS.dit Active Directory database, cracked hashes offline to obtain cleartext credentials, then deployed DragonForce ransomware against VMware ESXi hosts on 24 April 2025, encrypting VMs supporting e-commerce, payments, and logistics. Online sales suspended for ~5 days; estimated daily losses £3.8 million ($5.1 million). Total stock market value impact: £500+ million ($668+ million). Four suspects arrested by NCA 10 July 2025 in connection with M&S and Co-op attacks. M&S Chairman Archie Norman confirmed the social-engineering vector publicly. Sister attacks: Co-op and Harrods targeted in same campaign."

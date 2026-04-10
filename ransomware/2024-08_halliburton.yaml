@@ -1,0 +1,13 @@
+source_name: "Halliburton cyberattack (RansomHub)"
+source_url: "https://www.bleepingcomputer.com/news/security/halliburton-cyberattack-linked-to-ransomhub-ransomware-gang/"
+date_of_breach: "2024-08-21"
+date_of_disclosure: "2024-08-23"
+date_of_customer_notification: "2024-09-03"
+category: "ransomware"
+initial_attack_vector: "CWE-798: Use of Hard-coded Credentials / phishing (phishing emails delivering malicious links; subsequent credential theft and lateral movement)"
+cve: []
+vendor_product: "Halliburton (oilfield services)"
+software_package: ""
+malware: "RansomHub ransomware"
+supply_chain_claimed: false
+notes: "RansomHub (ransomware-as-a-service operation, launched February 2024) attacked Halliburton. Detected 21 August 2024; SEC 8-K filed 23 August 2024. Production planning and shipment tracking tools inaccessible for several days. Sensitive proprietary oilfield data and blueprints exfiltrated. Financial losses: $35 million in remediation costs. RansomHub uses hybrid AES/ChaCha20 + Curve25519 encryption. The group counts former BlackCat and LockBit affiliates among operators."

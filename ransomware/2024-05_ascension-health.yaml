@@ -1,0 +1,13 @@
+source_name: "Ascension Health ransomware attack (Black Basta)"
+source_url: "https://www.hipaajournal.com/ascension-cyberattack-2024/"
+date_of_breach: "2024-05-08"
+date_of_disclosure: "2024-05-09"
+date_of_customer_notification: "2024-12-19"
+category: "ransomware"
+initial_attack_vector: "CWE-494: Download of Code Without Integrity Check (employee downloaded malicious file believing it legitimate)"
+cve: []
+vendor_product: "Ascension Health EHR / MyChart"
+software_package: ""
+malware: "Black Basta ransomware"
+supply_chain_claimed: false
+notes: "Black Basta ransomware group encrypted servers across a 12-hospital system. Initial access via a malicious file inadvertently downloaded by an employee. Attackers accessed only 7 of 25,000 servers but still exfiltrated PHI. EHR systems (MyChart) unavailable; hospitals reverted to paper charting and some went on diversion. Recovery took ~6 weeks. 5,599,699 patients notified. Third-largest healthcare breach of 2024. FBI and CISA had previously warned about Black Basta targeting healthcare."

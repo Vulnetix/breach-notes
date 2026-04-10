@@ -1,0 +1,13 @@
+source_name: "London Drugs ransomware attack (LockBit)"
+source_url: "https://www.bleepingcomputer.com/news/security/lockbit-says-they-stole-data-in-london-drugs-ransomware-attack/"
+date_of_breach: "2024-04-28"
+date_of_disclosure: "2024-05-07"
+date_of_customer_notification: "2024-05-27"
+category: "ransomware"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "London Drugs (Canadian pharmacy/retail chain)"
+software_package: ""
+malware: "LockBit ransomware"
+supply_chain_claimed: false
+notes: "LockBit claimed the attack on London Drugs and demanded $25 million ransom (reportedly offered $8 million). All 79 Western Canada stores closed 28 April–7 May 2024. Corporate head office data exfiltrated including internal employee records, immigration applications, sexual harassment complaints, and termination letters. No patient or customer databases confirmed compromised. London Drugs refused to pay. LockBit published the data. 24 months of complimentary credit monitoring offered to all current employees. Attack came roughly 3 months after law enforcement disrupted LockBit's infrastructure in Operation Cronos (Feb 2024)."

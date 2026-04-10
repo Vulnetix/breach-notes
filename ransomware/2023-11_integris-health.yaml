@@ -1,0 +1,13 @@
+source_name: "Integris Health data breach — direct patient extortion (2.4 million)"
+source_url: "https://www.bleepingcomputer.com/news/security/integris-health-says-data-breach-impacts-24-million-patients/"
+date_of_breach: "2023-11-28"
+date_of_disclosure: "2023-12-24"
+date_of_customer_notification: "2023-12-24"
+category: "ransomware"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "Integris Health (Oklahoma hospital system)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Attackers gained access to Integris Health's network on 28 November 2023. On 24 December 2023, Integris discovered that patients were being directly contacted by the cybercriminal group and offered to pay $3 to view their stolen data or $50 to have it deleted, with a deadline of 5 January 2024. HHS OCR notified February 2024 of 2,385,646 individuals affected. Stolen data included names, contact information, dates of birth, demographic information, and SSNs. $30 million class action settlement reached. Novel tactic of directly extorting individual patients rather than only the breached organisation."

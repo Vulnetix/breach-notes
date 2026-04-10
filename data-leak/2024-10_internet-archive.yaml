@@ -1,0 +1,13 @@
+source_name: "Internet Archive (Wayback Machine) data breach"
+source_url: "https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/"
+date_of_breach: "2024-09-28"
+date_of_disclosure: "2024-10-09"
+date_of_customer_notification: "2024-10-09"
+category: "data-leak"
+initial_attack_vector: "CWE-312: Cleartext Storage of Sensitive Information (authentication database exfiltrated; separately DDoS and defacement via JavaScript injection)"
+cve: []
+vendor_product: "Internet Archive / archive.org"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Threat actor (SN_BlackMeta, linked to pro-Palestinian hacktivist movement) defaced archive.org with a JavaScript alert and simultaneously exfiltrated a 6.4 GB SQL file 'ia_users.sql' containing 31 million user records (email addresses, screen names, bcrypt password hashes, timestamps). Breach data current to 28 September 2024; disclosed 9 October when defacement appeared on site. Data shared with Have I Been Pwned; 54% of records already in HIBP. Internet Archive confirmed archival material was safe. A simultaneous DDoS attack also disrupted service."

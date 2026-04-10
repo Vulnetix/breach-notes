@@ -1,0 +1,13 @@
+source_name: "Cencora (AmerisourceBergen) data breach affecting 11+ pharma companies"
+source_url: "https://www.bleepingcomputer.com/news/security/cencora-data-breach-exposes-us-patient-info-from-11-drug-companies/"
+date_of_breach: "2024-02-21"
+date_of_disclosure: "2024-02-27"
+date_of_customer_notification: "2024-05-01"
+category: "data-leak"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "Cencora (formerly AmerisourceBergen) patient support platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Cencora detected a cyberattack on 21 February 2024. Attackers exfiltrated patient data from its patient support program platform used by major pharmaceutical clients including AbbVie, Bayer, Genentech, Incyte, Novartis, and Regeneron, among others — eventually totalling 27 pharma companies breached via Cencora's systems. Stolen data: patient names, postal addresses, dates of birth, health diagnoses, and medication information for 1,430,000+ individuals. No ransomware group claimed responsibility; security researchers believe a ransom was paid silently. $40 million class action settlement reached. Supply chain vector as the pharma companies themselves were not directly breached."

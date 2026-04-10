@@ -1,0 +1,15 @@
+source_name: "Cleo MFT zero-day exploitation by Clop ransomware (CVE-2024-50623 / CVE-2024-55956)"
+source_url: "https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild"
+date_of_breach: "2024-11-15"
+date_of_disclosure: "2024-12-09"
+date_of_customer_notification: "2024-12-13"
+category: "supply-chain"
+initial_attack_vector: "CWE-434: Unrestricted Upload of File with Dangerous Type (CVE-2024-50623 / CVE-2024-55956 — unauthenticated file write vulnerability in Cleo Harmony, VLTrader, and LexiCom MFT software enabling RCE)"
+cve:
+  - "CVE-2024-50623"
+  - "CVE-2024-55956"
+vendor_product: "Cleo Harmony, VLTrader, and LexiCom managed file transfer software (versions before 5.8.0.21 / 5.8.0.24)"
+software_package: "cleo-harmony"
+malware: "Clop (Cl0p) ransomware"
+supply_chain_claimed: true
+notes: "Clop ransomware group exploited CVE-2024-50623 in Cleo's MFT products starting November 2024, bypassing the initial patch. Huntress identified active exploitation 3 December 2024 and disclosed publicly. Active targeting began 6 December, hitting 50+ hosts in North America, primarily retail sector. Clop claimed responsibility 13 December 2024, adding 66 obfuscated victim names to its leak site; final victim count exceeded 200 companies. Blue Yonder (a supply chain management platform used by Fortune 500 companies) was impacted, cascading to downstream customers including major grocery retailers. CVE-2024-55956 (the bypassed patch) was fully addressed in version 5.8.0.24. Pattern mirrors Clop's prior campaigns against Accellion FTA (2020), GoAnywhere (2023), and MOVEit (2023)."

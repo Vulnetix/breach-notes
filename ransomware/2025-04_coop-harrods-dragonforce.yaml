@@ -1,0 +1,13 @@
+source_name: "Co-op and Harrods ransomware attacks (DragonForce / Scattered Spider) 2025"
+source_url: "https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on-marks-and-spencer-co-op-and-harrods.html"
+date_of_breach: "2025-04-01"
+date_of_disclosure: "2025-04-30"
+date_of_customer_notification: "2025-05-07"
+category: "ransomware"
+initial_attack_vector: "CWE-306: Missing Authentication for Critical Function / social engineering (Scattered Spider affiliates used vishing and employee impersonation to bypass MFA and conduct service-desk password resets)"
+cve: []
+vendor_product: "Co-op Group (UK retailer/food/funeral); Harrods (UK luxury retailer)"
+software_package: ""
+malware: "DragonForce ransomware"
+supply_chain_claimed: false
+notes: "Scattered Spider (UNC3944) affiliates acting as DragonForce ransomware-as-a-service operators conducted a wave of attacks against UK retailers in April–May 2025. Co-op confirmed system disruptions and data exfiltration affecting member and employee data. Harrods confirmed a cyberattack on 1 May 2025 requiring restriction of internet access. Combined financial impact of M&S, Co-op, and Harrods attacks assessed at £270–440 million ($363–592 million). NCA arrested four suspects (three teenagers and one 20-year-old Latvian national) on 10 July 2025. Attacks represent a coordinated Scattered Spider campaign against UK retail using DragonForce RaaS."

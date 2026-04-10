@@ -1,0 +1,13 @@
+source_name: "Twitter 2020 Bitcoin Scam: Social Engineering of Admin Tools (130 High-Profile Accounts)"
+source_url: "https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident"
+date_of_breach: "2020-07-15"
+date_of_disclosure: "2020-07-15"
+date_of_customer_notification: "2020-07-15"
+category: "credential-theft"
+initial_attack_vector: "Vishing (voice phishing) calls targeting Twitter employees not in the office due to COVID-19; attackers impersonated Twitter IT staff to trick employees into providing credentials to a fake VPN portal, then used those credentials to access Twitter's internal admin tools"
+cve: []
+vendor_product: "Twitter internal admin tools ('God Mode')"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On July 15, 2020, attackers hijacked approximately 130 high-profile Twitter accounts including Barack Obama, Joe Biden, Elon Musk, Bill Gates, Apple, Uber, Jeff Bezos, Kanye West, Mike Bloomberg, and others to post Bitcoin scam messages. The attackers used vishing (phone-based social engineering) to impersonate Twitter's IT department and trick Twitter employees — who were working from home due to COVID-19 — into providing their credentials to a fake corporate VPN portal. With these credentials, they accessed Twitter's internal 'admin panel' and gained the ability to take over any account. The scam Bitcoin wallets received approximately $120,000 before Twitter suspended the accounts. The attackers also accessed the DMs of 36 high-profile accounts and downloaded the full data archives of 8 non-verified accounts. Twitter was forced to temporarily disable the ability for verified accounts to tweet. The FBI arrested the three perpetrators: Graham Ivan Clark, 17, of Tampa (the alleged ringleader); Mason Sheppard, 19, of UK; and Nima Fazeli, 22, of Orlando. Clark was sentenced to 3 years in a juvenile facility. The attack demonstrated that even the most sophisticated platform security could be undermined by basic social engineering of employees — and that COVID-era remote work created new social engineering opportunities."

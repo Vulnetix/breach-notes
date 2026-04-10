@@ -1,0 +1,13 @@
+source_name: "T-Mobile 2021 Data Breach: John Binns (54.6M Records)"
+source_url: "https://www.t-mobile.com/newsroom/network-and-technology/update-on-cybersecurity-incident"
+date_of_breach: "2021-08-01"
+date_of_disclosure: "2021-08-17"
+date_of_customer_notification: "2021-08-20"
+category: "data-leak"
+initial_attack_vector: "Attacker John Binns (21-year-old US-born, living in Turkey) brute-forced his way through T-Mobile's unprotected GPRS tunneling protocol (GTP) routers exposed on the internet, gained access to a testing environment, then used that foothold to reach and download T-Mobile's IMSI database and customer data"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2021, John Binns — a 21-year-old US citizen living in Turkey — exploited an improperly secured T-Mobile testing environment that had been exposed to the internet, gaining access to T-Mobile's internal IT infrastructure. Using this access he reached and exfiltrated data for approximately 54.6 million current, former, and prospective T-Mobile customers. Exposed data included Social Security numbers, names, dates of birth, addresses, driver's license numbers, and unique IMEI numbers for approximately 13.1 million current customers, plus additional data for former prepaid and prospective customers. Binns later claimed responsibility in a Wall Street Journal interview, saying he gained access in approximately two weeks and that T-Mobile's security was 'awful.' T-Mobile agreed to a $350 million class action settlement and committed $150 million to cybersecurity improvements, for a total remediation commitment of $500 million. T-Mobile had suffered at least four prior major breaches (2018, 2019, 2020, and 2021). Binns was later arrested in Turkey in 2022 in connection with SIM swapping attacks."

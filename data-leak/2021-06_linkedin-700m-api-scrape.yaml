@@ -1,0 +1,13 @@
+source_name: "LinkedIn 700M Profile API Scrape (93% of All Users)"
+source_url: "https://news.linkedin.com/2021/june/an-update-from-linkedin"
+date_of_breach: "2021-05-01"
+date_of_disclosure: "2021-06-22"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Systematic API scraping and data aggregation from LinkedIn's public profile data and APIs; attacker 'GOD User TomLiner' combined LinkedIn API data with other publicly available sources"
+cve: []
+vendor_product: "LinkedIn (public profile API)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2021, data for approximately 700 million LinkedIn users — representing 93% of LinkedIn's total user base at the time — was posted for sale on RaidForums by a user calling themselves 'GOD User TomLiner.' A sample of 1 million records was offered as proof. The data was compiled through systematic API scraping of LinkedIn's public profile data combined with other public sources. LinkedIn investigated and stated the data did not include private member account data, but acknowledged it was scraped from public and non-public LinkedIn data. The exposed data included names, email addresses, phone numbers, physical addresses, geolocation records, LinkedIn usernames and profile URLs, personal and professional experience/background, genders, and other social media accounts and usernames. LinkedIn argued this constituted a terms-of-service violation rather than a data breach. The incident highlighted the difficulty of distinguishing between 'public' data scraping and data breach under privacy law, and prompted GDPR investigations in multiple EU jurisdictions. Note: separate from the 2012 LinkedIn credential theft breach (117M hashed passwords)."

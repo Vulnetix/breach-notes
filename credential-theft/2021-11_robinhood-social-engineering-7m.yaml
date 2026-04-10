@@ -1,0 +1,13 @@
+source_name: "Robinhood Customer Support Social Engineering Breach (7M Records)"
+source_url: "https://blog.robinhood.com/news/2021/11/8/data-security-incident"
+date_of_breach: "2021-11-03"
+date_of_disclosure: "2021-11-08"
+date_of_customer_notification: "2021-11-09"
+category: "credential-theft"
+initial_attack_vector: "Attacker called a Robinhood customer support phone line and social-engineered a support employee into providing access to the customer support system, then used that access to exfiltrate customer records"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On November 3, 2021, an attacker called Robinhood's customer support line and socially engineered a customer support employee into granting them unauthorized access to the customer support systems. Using this access, the attacker exfiltrated data for approximately 7 million customers. Approximately 5 million customers had their email addresses exposed; approximately 2 million had their full names exposed. A more limited subset of approximately 310 customers had additional personal information including name, date of birth, and zip code exposed; about 10 customers had 'more extensive account details' exposed. The attacker then attempted to extort Robinhood, demanding payment. Robinhood refused and reported the matter to law enforcement. The breach was disclosed 5 days after it occurred. The incident highlighted the vulnerability of customer support channels as attack vectors — particularly for financial services companies where support staff have access to sensitive account information."

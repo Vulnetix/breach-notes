@@ -1,0 +1,13 @@
+source_name: "NVIDIA LAPSUS$ Breach: GPU Designs, DLSS Source Code, 71K Employee Credentials"
+source_url: "https://www.bleepingcomputer.com/news/security/nvidia-confirms-employee-credentials-were-stolen-in-cyberattack/"
+date_of_breach: "2022-02-23"
+date_of_disclosure: "2022-03-01"
+date_of_customer_notification: "2022-03-01"
+category: "credential-theft"
+initial_attack_vector: "LAPSUS$ gained access to NVIDIA's network (method not fully disclosed, believed to involve compromised employee VPN credentials and an employee whose personal computer was infected with malware connecting to corporate systems)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On February 23, 2022, LAPSUS$ — a cybercriminal extortion group — gained access to NVIDIA's internal systems and exfiltrated approximately 1TB of data. NVIDIA was alerted to the intrusion and retaliated by pushing a counter-ransomware script onto LAPSUS$'s machine (allegedly an attempt to encrypt the stolen data back), which failed. LAPSUS$ published the stolen data online. The exfiltrated data included: approximately 71,000+ NVIDIA employee credentials (usernames and NTLM hashed passwords); proprietary source code for DLSS (Deep Learning Super Sampling), a flagship AI image upscaling technology; internal software tools; GPU design documentation; and Lite Hash Rate (LHR) firmware files that LAPSUS$ published specifically to enable GPU mining for cryptocurrencies (circumventing NVIDIA's deliberate mining rate-limiter). Most significantly, LAPSUS$ published code-signing certificates from the stolen data — certificates that were still valid and could be used to sign malware as if it were legitimate NVIDIA software. These certificates were quickly absorbed by other threat actors and used to sign malware in multiple campaigns. This was one of LAPSUS$'s first major high-profile attacks, occurring in the same period as their attacks on Samsung, Okta, and Microsoft."

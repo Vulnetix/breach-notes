@@ -1,0 +1,13 @@
+source_name: "GoDaddy WordPress Managed Hosting Breach (1.2M Customers, SSL Keys Exposed)"
+source_url: "https://www.sec.gov/Archives/edgar/data/1609711/000160971121000122/0001609711-21-000122-index.htm"
+date_of_breach: "2021-09-06"
+date_of_disclosure: "2021-11-22"
+date_of_customer_notification: "2021-11-22"
+category: "credential-theft"
+initial_attack_vector: "Attacker used a compromised password to gain access to GoDaddy's Managed WordPress provisioning system; the password granted access since at least September 6, 2021 — giving the attacker 2+ months of undetected access"
+cve: []
+vendor_product: "GoDaddy Managed WordPress"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On September 6, 2021, an attacker used a compromised password to access GoDaddy's Managed WordPress hosting provisioning system, where they maintained access for over two months before being detected on November 17, 2021. GoDaddy filed an SEC 8-K disclosing the breach on November 22. Approximately 1.2 million active and inactive Managed WordPress customer accounts were affected. Exposed data included email addresses, sFTP (Secure FTP) credentials, database usernames and passwords, and SSL private keys for active customers — the SSL private keys effectively allowed the attacker to impersonate any affected customer's website. GoDaddy reset all sFTP passwords and database credentials, and reissued SSL certificates. The exposure of SSL private keys was particularly severe, as it could enable man-in-the-middle attacks against website visitors even after the credentials were rotated, until affected certificates expired or were reissued across the ecosystem."

@@ -1,0 +1,13 @@
+source_name: "WhatsApp 487M Phone Number Scrape (84 Countries)"
+source_url: "https://www.cybernews.com/news/whatsapp-data-leak/"
+date_of_breach: "2022-01-01"
+date_of_disclosure: "2022-11-16"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Automated enumeration and scraping of WhatsApp's user phone number registration/lookup mechanism to compile a database of active WhatsApp user phone numbers across 84 countries"
+cve: []
+vendor_product: "WhatsApp"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2022, a threat actor using the alias 'Ryushi' posted a dataset of 487 million WhatsApp user phone numbers for sale on the Breached hacking forum, claiming it was scraped in 2022. The dataset contained active WhatsApp phone numbers from 84 countries: approximately 32 million US records, 45 million Egyptian records, 35 million Italian records, 29 million Saudi Arabian records, 20 million French records, and others. Meta did not directly confirm or deny the breach but stated no evidence of a data breach had been found. The leaked phone numbers — without associated names or content — are highly valuable for spam, phishing, and SIM-swapping attacks, as they confirm which phone numbers have active WhatsApp accounts (a proxy for active mobile numbers). The dataset was reported by Cybernews researchers who purchased and analyzed a sample."

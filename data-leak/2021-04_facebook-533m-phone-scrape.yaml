@@ -1,0 +1,13 @@
+source_name: "Facebook 533M Phone Number Scrape (2019 Data Dumped Publicly April 2021)"
+source_url: "https://about.fb.com/news/2021/04/facts-on-news-reports-about-facebook-data/"
+date_of_breach: "2019-01-01"
+date_of_disclosure: "2021-04-03"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Attackers exploited Facebook's 'Add friend by phone number' contact import feature, which allowed mass enumeration of user accounts by phone number without rate limiting; scraped in 2019, patched by Facebook in August 2019"
+cve: []
+vendor_product: "Facebook (contact import API)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early 2019, attackers exploited a feature in Facebook's contact import tool that allowed them to upload large lists of phone numbers and identify which were linked to Facebook accounts, retrieving associated profile data. By abusing this feature without adequate rate limiting, they scraped profile data for approximately 533 million users across 106 countries. Facebook patched the vulnerability in August 2019 but did not notify affected users. The scraped data was initially sold privately in underground forums. On April 3, 2021, the full 533 million record dataset was posted for free on a popular hacker forum by threat actor 'RaidForums.' Security researcher Alon Gal (Hudson Rock) brought the free posting to public attention. Exposed data included phone numbers, Facebook IDs, full names, locations, birth dates, bios, and in some cases email addresses. Facebook declined to notify the 533 million affected users, drawing widespread criticism. The dataset became heavily used in phishing, SIM swapping, and smishing campaigns. Ireland's DPC opened a GDPR investigation and fined Meta €265 million in November 2022 for the scraping incident."

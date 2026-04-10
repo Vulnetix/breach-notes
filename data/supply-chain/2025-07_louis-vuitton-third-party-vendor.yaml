@@ -1,16 +1,21 @@
 source_name: Louis Vuitton Third-Party Breach (July 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/"
+source_url: https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/
 date_of_breach: 2025-07-01
-date_of_disclosure: 2025-07-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-07-16'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Louis Vuitton experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Third-party vendor. Source reporting:
-  https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/
+notes: 'Louis Vuitton says regional data breaches tied to same cyberattack. Luxury
+  fashion giant Louis Vuitton confirmed that breaches impacting customers in the UK,
+  South Korea, and Turkey stem from the same security incident, which is believed
+  to be linked to the ShinyHunters extortion group. Update 7/17/25: Updated story
+  with links to breach notifications for Italy and Sweden as well. Since last week,
+  the retailer has been notifying customers that their info was exposed in a data
+  breach, first in South Korea, then in Turkey, and on Friday in the United Kingdom.
+  After publishing, BleepingComputer learned that notifications also went to customers
+  in Italy and Sweden.'

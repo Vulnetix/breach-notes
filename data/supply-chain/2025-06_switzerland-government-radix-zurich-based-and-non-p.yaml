@@ -1,16 +1,20 @@
 source_name: Switzerland Government Third-Party Breach (June 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/"
+source_url: https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/
 date_of_breach: 2025-06-01
-date_of_disclosure: 2025-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-06-30'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Radix (Zurich based and non-profit organization)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Switzerland Government experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was Radix (Zurich based and non-profit organization). Source reporting:
-  https://www.bleepingcomputer.com/news/security/switzerland-says-government-data-stolen-in-ransomware-attack/
+notes: 'Switzerland says government data stolen in ransomware attack. The government
+  in Switzerland is informing that sensitive information from various federal offices
+  has been impacted by a ransomware attack at the third-party organization Radix.
+  The hackers have stolen data from Radix systems and later leaked it on the dark
+  web, the Swiss government says. The exposed data is being analyzed with the help
+  of the country’s National Cyber Security Centre (NCSC) to determine which government
+  agencies are impacted and to what effect. Third-party company: Radix (Zurich based
+  and non-profit organization).'

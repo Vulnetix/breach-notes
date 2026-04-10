@@ -1,16 +1,21 @@
 source_name: Farmers Insurance Third-Party Breach (August 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/"
+source_url: https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/
 date_of_breach: 2025-08-01
-date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-08-25'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Salesforce
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Farmers Insurance experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Salesforce. Source reporting:
-  https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/
+notes: 'Farmers Insurance data breach impacts 1.1M people after Salesforce attack.
+  U.S. insurance giant Farmers Insurance has disclosed a data breach impacting 1.1
+  million customers, with BleepingComputer learning that the data was stolen in the
+  widespread Salesforce attacks. Farmers Insurance is a U.S.-based insurer that provides
+  auto, home, life, and business insurance products. It operates through a network
+  of agents and subsidiaries, serving more than 10 million households nationwide.
+  The company disclosed the data breach in an advisory on its website, saying that
+  its database at a third-party vendor was breached on May 29, 2025. Third-party company:
+  Salesforce.'

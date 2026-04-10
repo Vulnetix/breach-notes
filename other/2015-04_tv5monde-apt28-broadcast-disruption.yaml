@@ -1,0 +1,13 @@
+source_name: "TV5Monde Broadcast Disruption — APT28 False-Flag Operation (CyberCaliphate)"
+source_url: "https://www.wired.com/2015/06/hackers-caused-power-outage-ukraine-us-researchers-say/"
+date_of_breach: "2015-01-01"
+date_of_disclosure: "2015-04-09"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "APT28 (Sandworm / GRU) spearphishing targeting TV5Monde employees beginning approximately January 2015; credential theft and lateral movement over approximately 3 months; pre-positioned access to broadcast encoding infrastructure; coordinated simultaneous attack on broadcast systems and social media accounts"
+cve: []
+vendor_product: "TV broadcast encoding hardware; social media accounts"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On April 9, 2015, TV5Monde — France's international television network broadcasting to 200 million people in 160 countries — had all 11 of its TV channels knocked off the air simultaneously for approximately 18 hours, while its website and social media accounts were defaced with pro-Islamic State propaganda. The attack was initially claimed by a group calling itself 'CyberCaliphate,' suggesting Islamic State involvement. However, France's national cybersecurity agency ANSSI, which conducted the forensic investigation, determined in 2017 that the attack was actually carried out by APT28 (the Russian GRU's Sandworm team) — a classic false-flag operation designed to inflame anti-IS sentiment and sow discord. Attackers had infiltrated TV5Monde's network as early as January 2015, spending approximately 3 months mapping and pre-positioning in the network's broadcast infrastructure. The final attack used custom malware targeting TV5Monde's proprietary TV encoding equipment, destroying the ability to transmit — and was coordinated simultaneously with the social media account takeovers. Recovery required replacing significant broadcast hardware. Estimated damages exceeded €5 million. The attack was the first cyberattack to succeed in causing a major international broadcaster to go completely dark, and marked a significant escalation in the use of destructive cyber operations for information warfare purposes."

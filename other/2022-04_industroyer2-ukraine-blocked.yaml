@@ -1,0 +1,13 @@
+source_name: "Industroyer2 Ukraine Power Grid Attack — Sandworm (Detected and Blocked)"
+source_url: "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/"
+date_of_breach: "2022-04-08"
+date_of_disclosure: "2022-04-12"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Sandworm (GRU Unit 74455) pre-positioned in Ukrainian energy sector network with undisclosed initial access vector (likely spearphishing or supply chain); deployed Industroyer2 IEC 60870-5-104 payload targeting high-voltage substations; simultaneously deployed five wiper variants (CaddyWiper, ORCSHRED, SOLOSHRED, AWFULSHRED) targeting Windows, Linux, and Solaris systems"
+cve: []
+vendor_product: "IEC 60870-5-104 SCADA; Ukrainian high-voltage substations"
+software_package: ""
+malware: "Industroyer2; CaddyWiper; ORCSHRED; SOLOSHRED; AWFULSHRED"
+supply_chain_claimed: false
+notes: "On April 8, 2022 — during Russia's full-scale military invasion of Ukraine — Sandworm (GRU Unit 74455) attempted to deploy an upgraded version of Industroyer malware (dubbed Industroyer2) against Ukrainian high-voltage electricity substations. The attack was scheduled to execute at 16:10 local time and targeted 750kV, 330kV, and 110kV substations that would have affected millions of Ukrainian civilians. Unlike the original Industroyer (2016, targeting a single Kyiv substation), Industroyer2 had target-specific substation configurations hardcoded directly into the binary — indicating prior reconnaissance of the specific target environment. CERT-UA, working with ESET, detected the staged attack and blocked it approximately hours before execution. The attackers had also pre-deployed five separate wiper malware variants across the network simultaneously: CaddyWiper (Windows), ORCSHRED, SOLOSHRED, AWFULSHRED (Linux/Solaris) — targeting IT and OT systems across the energy operator's environment, likely intended to hinder incident response and prevent recovery. The joint CERT-UA/ESET disclosure on April 12 was the first confirmed case of a major ICS attack being successfully detected and interdicted before causing physical damage. The incident demonstrated Sandworm's continued investment in ICS-native attack capabilities and the effectiveness of proactive threat intelligence sharing between governments and private security firms in protecting critical infrastructure."

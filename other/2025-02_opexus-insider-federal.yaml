@@ -1,0 +1,13 @@
+source_name: "Opexus Federal Contractor Insider Breach"
+source_url: "https://databreaches.net/2025/05/22/hack-of-opexus-was-at-root-of-massive-federal-data-breach/"
+date_of_breach: "2025-02-18"
+date_of_disclosure: "2025-05-21"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Insider threat: two employees (twin brothers) with prior hacking convictions retained privileged access; exfiltrated files via USB drive and deleted government databases during and after termination meeting"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Opexus, a Thoma Bravo-owned software company providing records management services to nearly every US federal agency, was compromised by twin brothers Muneeb and Suhaib Akhter who had prior criminal convictions (2015) for hacking the State Department and a cosmetics company. On February 18, 2025, during their termination meeting, the brothers retained access and deleted 96 government databases (including IRS and GSA data), and exfiltrated ~1,800 EEOC files to a USB drive. FOIA requests at numerous agencies were lost; some agencies suffered outages over a month. The breach went undisclosed for months; Senator Cassidy opened an investigation. Background check failures allowed convicted hackers to hold sensitive positions. Class action lawsuit filed against Opexus. Notable government contractor supply-chain insider threat case."

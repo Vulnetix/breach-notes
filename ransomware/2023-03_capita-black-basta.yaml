@@ -1,0 +1,13 @@
+source_name: "Capita plc Black Basta Ransomware Attack"
+source_url: "https://ico.org.uk/action-weve-taken/enforcement/"
+date_of_breach: "2023-03-22"
+date_of_disclosure: "2023-03-31"
+date_of_customer_notification: "2023-06-01"
+category: "ransomware"
+initial_attack_vector: "Phishing email leading to malware download; threat actor then escalated privileges over 58 hours before deploying ransomware (critical 58-hour delay in quarantining the initially infected device)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Black Basta ransomware"
+supply_chain_claimed: false
+notes: "Capita, a major UK outsourcing company providing services across government, defence, and pension administration, was hit by Black Basta ransomware on March 31, 2023 (initial compromise March 22). An employee downloaded malware from a phishing email; a high-priority alert was raised within 10 minutes, but the device was not quarantined for 58 hours, allowing lateral movement and privilege escalation. Ransomware deployed March 31; all user passwords changed, locking out employees. 6,024,221 individuals' data exfiltrated including National Insurance numbers, passport scans, bank account details, biometrics, driver's licences, and criminal record checks. 325 customer organisations impacted. The ICO fined Capita £14 million in October 2024 (£8M Capita plc + £6M Capita Pension Solutions) — the ICO's largest ever fine at the time. Estimated total costs £15–20 million. Second breach discovered in May 2023 when Capita left benefits data fields in publicly accessible cloud storage."

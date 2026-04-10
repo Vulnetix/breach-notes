@@ -1,0 +1,13 @@
+source_name: "ProPublica / BleepingComputer / DataBreaches.net"
+source_url: "https://www.propublica.org/article/a-ransomware-gang-dumped-a-pharmaceutical-companys-files-online-after-it-refused-to-pay"
+date_of_breach: "2020-03-13"
+date_of_disclosure: "2020-03-27"
+date_of_customer_notification: "2020-03-27"
+category: "ransomware"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (CLOP ransomware; initial vector not confirmed)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "CLOP"
+supply_chain_claimed: false
+notes: "CLOP ransomware group attacked ExecuPharm, a US clinical research organisation (CRO) and pharmaceutical services company, on March 13 2020. After the company declined to pay, CLOP published stolen files on their leak site — one of the earliest high-profile uses of a ransomware leak site. The published data included employee PII: Social Security numbers, financial account information, passport scans, tax documents, and health information for over 150 employees and contractors. The company disclosed the breach on March 27 2020. The incident was notable as an early example of CLOP's double-extortion model targeting a life-sciences organisation."

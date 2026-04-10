@@ -1,0 +1,13 @@
+source_name: "UKG / BleepingComputer / SHRM / Reuters"
+source_url: "https://www.bleepingcomputer.com/news/security/kronos-ransomware-attack-may-cause-payroll-delays-for-many-employers/"
+date_of_breach: "2021-12-11"
+date_of_disclosure: "2021-12-13"
+date_of_customer_notification: "2021-12-13"
+category: "ransomware"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (ransomware; attack vector not publicly disclosed by UKG)"
+cve: []
+vendor_product: "UKG Kronos Private Cloud"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Ransomware struck UKG's (Ultimate Kronos Group) Kronos Private Cloud on December 11 2021, taking down workforce management and payroll processing systems used by thousands of large employers including hospitals, municipalities, universities, and retailers. UKG took the Kronos Private Cloud offline for weeks, causing widespread payroll disruption across hundreds of organisations during the holiday pay period. Affected customers included Tesla, PepsiCo, Whole Foods, Honda, Puma, NYC transit, and major US hospital systems. Some employees received incorrect, delayed, or no paychecks. Full restoration took up to two months. The incident triggered numerous class-action lawsuits against UKG from affected employees. Puma employee data (6,632 individuals) was confirmed stolen and used in a Maine AG notification. UKG did not publicly name the ransomware variant; some reports attributed it to a variant related to the BlackCat/ALPHV group."

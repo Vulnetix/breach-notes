@@ -1,0 +1,13 @@
+source_name: "T-Mobile / Motherboard Vice / BleepingComputer"
+source_url: "https://www.vice.com/en/article/t-mobile-discloses-data-breach/"
+date_of_breach: "2020-02-19"
+date_of_disclosure: "2020-03-05"
+date_of_customer_notification: "2020-03-05"
+category: "credential-theft"
+initial_attack_vector: "CWE-285: Improper Authorisation (malicious actors gained access to T-Mobile employee email accounts, which contained customer information)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "T-Mobile disclosed a breach on March 5 2020 affecting approximately 200,000 customers. Attackers had accessed some T-Mobile employee email accounts containing customer proprietary network information (CPNI), including names, addresses, phone numbers, account numbers, rate plans, and features. The breach was detected on February 19 2020. No Social Security numbers, passwords, or financial data were exposed. This is a distinct and smaller incident from T-Mobile's major breaches: the 2021 Binns breach (50M+ records via CVSS-scored API/brute force) and the 2023 API breach (37M records, tracked in DB as 2023-01_t-mobile-api). T-Mobile notified affected customers and the FCC."

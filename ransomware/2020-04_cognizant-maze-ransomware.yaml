@@ -1,0 +1,13 @@
+source_name: "Cognizant / BleepingComputer / SC Magazine"
+source_url: "https://www.bleepingcomputer.com/news/security/cognizant-confirms-maze-ransomware-attack/"
+date_of_breach: "2020-04-18"
+date_of_disclosure: "2020-04-20"
+date_of_customer_notification: "2020-04-20"
+category: "ransomware"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (Maze ransomware; initial access vector not publicly confirmed, likely phishing or exploitation of exposed services)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Maze"
+supply_chain_claimed: false
+notes: "Maze ransomware group attacked Cognizant, a Fortune 500 IT managed services provider with ~300,000 employees, on April 18 2020. The attack disrupted services for clients across multiple industries. Cognizant notified clients on April 20 with indicators of compromise including Maze-associated IPs and malware hashes. The incident caused $50M–$70M in losses in Q2 2020 per Cognizant's own financial disclosures, primarily from lost revenue and remediation costs. Client data may have been exposed given Maze's double-extortion model (exfiltrate then encrypt), but Cognizant did not confirm specific data theft. The incident highlighted supply-chain risk from IT service provider compromises."

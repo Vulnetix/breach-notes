@@ -1,0 +1,13 @@
+source_name: "BleepingComputer / ZDNet / Wired"
+source_url: "https://www.bleepingcomputer.com/news/security/chemical-distributor-pays-44-million-ransom-to-darkside-gang/"
+date_of_breach: "2021-04-28"
+date_of_disclosure: "2021-05-11"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "CWE-312: Cleartext Storage of Sensitive Information (DarkSide actors purchased stolen credentials to access the corporate network)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "DarkSide"
+supply_chain_claimed: false
+notes: "DarkSide ransomware attacked Brenntag, one of the world's largest chemical distribution companies (Germany-headquartered, North America division targeted), on approximately April 28 2021. The attackers exfiltrated ~150 GB of data from the North America division before encrypting devices. DarkSide initially demanded $7.5M. After negotiation Brenntag paid 133.65 BTC (~$4.4M USD) ransom on May 11 2021 in exchange for a decryptor and deletion of stolen files. The attack occurred two weeks before DarkSide's more prominent Colonial Pipeline attack. Brenntag confirmed the incident but declined to share details about which customer or supplier data was affected."

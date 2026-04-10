@@ -1,0 +1,13 @@
+source_name: "Georgia Tech / Georgia AG / Inside Higher Ed"
+source_url: "https://www.insidehighered.com/news/2019/04/02/georgia-tech-reports-data-breach-affecting-13-million"
+date_of_breach: "2018-12-14"
+date_of_disclosure: "2019-04-02"
+date_of_customer_notification: "2019-04-02"
+category: "data-leak"
+initial_attack_vector: "CWE-89: SQL Injection (unauthorised access to a central data warehouse via a web application vulnerability)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Georgia Institute of Technology disclosed on April 2 2019 that an unknown external actor had exploited a vulnerability in a web application to access a central data warehouse containing records for approximately 1.3 million current and former students, faculty, and staff. The breach occurred between December 14 2018 and February 2019. Exposed data included names, addresses, Social Security numbers, and dates of birth. Georgia Tech discovered the breach during a cybersecurity assessment and reported it to the FBI. The university notified affected individuals and offered credit monitoring. A second, separate breach at Georgia Tech was disclosed in August 2019 involving a phishing compromise of an employee's account exposing an additional ~35,000 records."

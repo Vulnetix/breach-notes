@@ -1,0 +1,13 @@
+source_name: "DaVita Inc. Interlock Ransomware Attack"
+source_url: "https://www.hipaajournal.com/davita-ransomware-attack/"
+date_of_breach: "2025-03-24"
+date_of_disclosure: "2025-04-12"
+date_of_customer_notification: "2025-06-01"
+category: "ransomware"
+initial_attack_vector: "Spear phishing emails targeting employees, followed by exploitation of vulnerabilities on a third-party internet-facing file transfer platform"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Interlock ransomware"
+supply_chain_claimed: false
+notes: "DaVita Inc., one of the largest kidney dialysis providers in the US, disclosed a ransomware attack on April 12, 2025. Intrusion began March 24, 2025 and was eradicated April 12. Interlock ransomware group claimed responsibility, alleging theft of 20+ TB of data containing 200+ million rows of patient data. Official breach report confirmed 2,689,826 individuals affected; data included names, addresses, SSNs, dates of birth, and dialysis lab results. Attackers used Rclone to exfiltrate data via encrypted channels. DaVita disclosed via SEC 8-K under Item 1.05 (material cybersecurity incident). Multiple class action lawsuits filed."

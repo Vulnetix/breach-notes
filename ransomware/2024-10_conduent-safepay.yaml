@@ -1,0 +1,13 @@
+source_name: "Conduent Business Services SafePay Ransomware Attack"
+source_url: "https://www.hipaajournal.com/conduent-business-solutions-data-breach/"
+date_of_breach: "2024-10-21"
+date_of_disclosure: "2025-02-01"
+date_of_customer_notification: "2025-06-01"
+category: "ransomware"
+initial_attack_vector: "Unknown initial access; attackers had persistent access from October 21, 2024 to January 13, 2025"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "SafePay ransomware"
+supply_chain_claimed: false
+notes: "Conduent, a company providing payment processing and document services to major health insurers and state government programs, was breached by the SafePay ransomware group. Attackers had access from October 21, 2024 to January 13, 2025, exfiltrating over 8 terabytes of data. At least 25 million Americans were affected; ~15.5 million in Texas alone. Stolen data included names, SSNs, medical and health insurance information. SafePay threatened to publish data if ransom was not paid; Conduent is no longer listed on the leak site (ransom likely paid or data sold). Texas AG investigation opened. At least 10 federal class action lawsuits filed by February 2026. Considered by some sources as potentially the largest breach in US history by record count."

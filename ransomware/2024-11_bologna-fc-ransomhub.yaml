@@ -1,0 +1,13 @@
+source_name: "Bologna FC RansomHub Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/"
+date_of_breach: "2024-11-01"
+date_of_disclosure: "2024-11-19"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Unknown; RansomHub noted lack of security controls on the club's network"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "RansomHub ransomware"
+supply_chain_claimed: false
+notes: "Italian Serie A football club Bologna FC was attacked by RansomHub in November 2024. RansomHub claimed to have stolen 200 GB of data including player contracts, passports, financial records (sponsorship revenue breakdowns), medical records of players, and confidential customer and employee data. The club was given a three-day deadline and an extension, but ultimately did not pay; RansomHub published the full dataset on its dark web leak site on November 29, 2024. Notable as a media/entertainment/sports sector breach exposing sensitive athlete health and contract information."

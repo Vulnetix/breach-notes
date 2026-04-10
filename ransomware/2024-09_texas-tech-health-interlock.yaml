@@ -1,0 +1,13 @@
+source_name: "Texas Tech University Health Sciences Center Ransomware Attack"
+source_url: "https://www.hipaajournal.com/texas-tech-university-health-sciences-center-ransomware-data-breach/"
+date_of_breach: "2024-09-17"
+date_of_disclosure: "2024-12-17"
+date_of_customer_notification: "2024-12-17"
+category: "ransomware"
+initial_attack_vector: "Unknown; systems disrupted between September 17–29, 2024"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Interlock ransomware"
+supply_chain_claimed: false
+notes: "Texas Tech University Health Sciences Center (TTUHSC) and its El Paso center suffered a ransomware attack in September 2024, claimed by the Interlock group. Combined, 1,465,000 patients were affected (650k from TTUHSC Lubbock, 815k from TTUHSC El Paso). Attackers claimed 2.6 TB of stolen data including patient records, medical research, and SQL databases. Data published on Interlock's dark web leak site after ransom was not paid. Largest university breach by records in 2024 and sixth-largest US healthcare breach that year. Data compromised: names, addresses, DOB, SSNs, driver's licence, health insurance, diagnosis and billing data."

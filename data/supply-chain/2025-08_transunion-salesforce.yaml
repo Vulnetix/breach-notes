@@ -1,16 +1,20 @@
 source_name: TransUnion Third-Party Breach (August 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/transunion-suffers-data-breach-impacting-over-44-million-people/"
+source_url: https://www.bleepingcomputer.com/news/security/transunion-suffers-data-breach-impacting-over-44-million-people/
 date_of_breach: 2025-08-01
-date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-08-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Salesforce
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, TransUnion experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Salesforce. Source reporting:
-  https://www.bleepingcomputer.com/news/security/transunion-suffers-data-breach-impacting-over-44-million-people/
+notes: 'TransUnion suffers data breach impacting over 4.4 million people. Consumer
+  credit reporting giant TransUnion warns it suffered a data breach exposing the personal
+  information of over 4.4 million people in the United States, with BleepingComputer
+  learning the data was stolen from it''s Salesforce account. Update: Story updated
+  with confirmation that this was another Salesforce data theft attack and the types
+  of data stolen. TransUnion is one of the three major credit bureaus in the United
+  States, alongside Equifax and Experian. It operates in 30 countries, employs 13,000
+  staff, and has an annual revenue of $3 billion. Third-party company: Salesforce.'

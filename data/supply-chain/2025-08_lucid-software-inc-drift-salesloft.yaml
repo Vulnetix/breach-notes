@@ -1,16 +1,22 @@
 source_name: Lucid Software Inc. Third-Party Breach (August 2025)
-source_url: "https://lucid.co/blog/response-to-drift-supply-chain-incident"
+source_url: https://lucid.co/blog/response-to-drift-supply-chain-incident
 date_of_breach: 2025-08-01
-date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-08-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Drift (Salesloft)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Lucid Software Inc. experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Drift (Salesloft). Source reporting:
-  https://lucid.co/blog/response-to-drift-supply-chain-incident
+notes: "Salesloft Drift application incident response. Read Lucidâ\x80\x99s response\
+  \ to a recent security incident that affected the Drift application, which involved\
+  \ CRM data across numerous Salesforce customers. At Lucid, protecting your data\
+  \ and maintaining transparency are core to our business, and as such, we are committed\
+  \ to keeping you informed about developments that may impact your organization.\
+  \ Lucid was made aware of a campaign targeted at the Salesloft Drift application,\
+  \ which impacted a large number of Salesforce customers, including us. This incident\
+  \ was not a breach of Lucid Software's SaaS (lucid.app). No Lucid production data\
+  \ was accessed or impacted (software code, products, the data secured by those products,\
+  \ or our internal network). Third-party company: Drift (Salesloft)."

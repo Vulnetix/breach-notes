@@ -1,16 +1,21 @@
 source_name: BeyondTrust Third-Party Breach (September 2025)
-source_url: "https://www.beyondtrust.com/trust-center/security-advisories/salesforce-salesloft-drift-security-incident"
+source_url: https://www.beyondtrust.com/trust-center/security-advisories/salesforce-salesloft-drift-security-incident
 date_of_breach: 2025-09-01
-date_of_disclosure: 2025-09-01
-date_of_customer_notification: ""
+date_of_disclosure: '2025-09-30'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Drift (Salesloft)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, BeyondTrust experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Drift (Salesloft). Source reporting:
-  https://www.beyondtrust.com/trust-center/security-advisories/salesforce-salesloft-drift-security-incident
+notes: "Salesforce / Drift Security Incident | BeyondTrust. BeyondTrustâ\x80\x99s\
+  \ Privileged Access Management platform protects your organization from unwanted\
+  \ remote access, stolen credentials, and misused privileges. Published 9/3/25 at\
+  \ 12:28 p.m. ET. Last updated 9/30/25 at 4:39 p.m. ET. The investigation into this\
+  \ incident has been completed. Our security teams, along with trusted third party\
+  \ experts, have confirmed that the issue has been fully contained and remediated.\
+  \ No further customer impact has been identified, and normal operations remain secure.\
+  \ We continue to monitor closely and have implemented additional safeguards to help\
+  \ prevent recurrence. Third-party company: Drift (Salesloft)."

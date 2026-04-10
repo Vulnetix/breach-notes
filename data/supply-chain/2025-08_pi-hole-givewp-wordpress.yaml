@@ -1,16 +1,21 @@
 source_name: Pi-hole Third-Party Breach (August 2025)
-source_url: "https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/"
+source_url: https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/
 date_of_breach: 2025-08-01
 date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: GiveWP WordPress
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Pi-hole experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was GiveWP WordPress. Source reporting:
-  https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/
+notes: 'Pi-hole discloses data breach triggered by WordPress plugin flaw. Pi-hole,
+  a popular network-level ad-blocker, has disclosed that donor names and email addresses
+  were exposed through a security vulnerability in the GiveWP WordPress donation plugin.
+  Pi-hole acts as a DNS sinkhole, filtering out unwanted content before it reaches
+  the users'' devices. While initially designed to run on Raspberry Pi single-board
+  computers, it now supports various Linux systems on dedicated hardware or virtual
+  machines. The organization stated that they first learned of the incident on Monday,
+  July 28, after donors began reporting that they were receiving suspicious emails
+  at addresses used exclusively for donations. Third-party company: GiveWP WordPress.'

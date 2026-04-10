@@ -1,16 +1,17 @@
 source_name: Megaport Third-Party Breach (August 2025)
-source_url: "https://trust.megaport.com/?tcuUid=f3ee3f57-2b3c-4b77-96b2-aad93acd0c47"
+source_url: https://trust.megaport.com/?tcuUid=f3ee3f57-2b3c-4b77-96b2-aad93acd0c47
 date_of_breach: 2025-08-01
 date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Drift (Salesloft)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Megaport experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Drift (Salesloft). Source reporting:
-  https://trust.megaport.com/?tcuUid=f3ee3f57-2b3c-4b77-96b2-aad93acd0c47
+notes: 'Megaport Trust Center | Powered by SafeBase. See how Megaport manages their
+  security program with SafeBase. Welcome to the Megaport Trust Center, where we demonstrate
+  our commitment to security and privacy. Here, you can access all of our security,
+  privacy and compliance documentation, find answers to frequently asked questions,
+  and review our security and privacy practices. Third-party company: Drift (Salesloft).'

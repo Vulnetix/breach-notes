@@ -1,16 +1,20 @@
 source_name: Agility PR Solutions Third-Party Breach (September 2025)
-source_url: "https://www.agilitypr.com/pr-news/agility-news-reports/statement-on-the-salesloft-drift-incident/"
+source_url: https://www.agilitypr.com/pr-news/agility-news-reports/statement-on-the-salesloft-drift-incident/
 date_of_breach: 2025-09-01
 date_of_disclosure: 2025-09-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Drift (Salesloft)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Agility PR Solutions experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Drift (Salesloft). Source reporting:
-  https://www.agilitypr.com/pr-news/agility-news-reports/statement-on-the-salesloft-drift-incident/
+notes: 'Page not found – Agility PR Solutions. We use cookies to improve your experience.
+  If that''s okay, select "I Agree" to consent to all cookies. You can also customize
+  your preferences or decline. These cookies enable the website to provide enhanced
+  functionality and personalisation. They may be set by us or by third party providers
+  whose services we have added to our pages. If you do not allow these cookies then
+  some or all of these services may not function properly. The technical storage or
+  access is necessary for the legitimate purpose of storing preferences that are not
+  requested by the subscriber or user. Third-party company: Drift (Salesloft).'

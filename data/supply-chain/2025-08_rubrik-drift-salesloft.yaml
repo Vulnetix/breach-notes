@@ -1,16 +1,20 @@
 source_name: Rubrik Third-Party Breach (August 2025)
-source_url: "https://www.rubrik.com/blog/company/25/salesforce-connected-third-party-drift-application-supply-chain-incident-response"
+source_url: https://www.rubrik.com/blog/company/25/salesforce-connected-third-party-drift-application-supply-chain-incident-response
 date_of_breach: 2025-08-01
 date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Drift (Salesloft)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Rubrik experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Drift (Salesloft). Source reporting:
-  https://www.rubrik.com/blog/company/25/salesforce-connected-third-party-drift-application-supply-chain-incident-response
+notes: 'Salesforce-Connected Third-Party Drift Application Supply Chain Incident Response.
+  We use cookies to improve your experience, analyze traffic, and personalize content.
+  Some are necessary; others help us understand your usage or enable advertising,
+  including targeting. Clicking to manage your preferences will allow you to reject
+  certain types of non-essential cookies. Secure your critical data across enterprise
+  data centers, cloud platforms, and SaaS applications. Join top innovators, cybersecurity
+  experts, and business leaders from around the world for three dynamic days of learning,
+  collaboration, and connection. Third-party company: Drift (Salesloft).'

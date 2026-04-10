@@ -1,16 +1,20 @@
-source_name: Miami Plastic Surgery, Keys Dermatology and more Third-Party Breach (August 2025)
-source_url: "https://www.hipaajournal.com/dermatology-clinics-practice-management-company-data-breach/"
+source_name: Miami Plastic Surgery, Keys Dermatology and more Third-Party Breach (August
+  2025)
+source_url: https://www.hipaajournal.com/dermatology-clinics-practice-management-company-data-breach/
 date_of_breach: 2025-08-01
 date_of_disclosure: 2025-08-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: DermCare Management
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2025, Miami Plastic Surgery, Keys Dermatology and more experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was DermCare Management. Source reporting:
-  https://www.hipaajournal.com/dermatology-clinics-practice-management-company-data-breach/
+notes: 'Dermatology Clinics Affected by Practice Management Company Data Breach. Several
+  dermatology practices have recently announced data breaches following an attack
+  on their management company. The number of attacks reported this At least 10 dermatology
+  clinics have been affected by a data breach at their management company, DermCare
+  Management. Several other dermatology practices have fallen victim to cyberattacks
+  in recent weeks, which suggests practices and their business associates are being
+  targeted. Third-party company: DermCare Management.'

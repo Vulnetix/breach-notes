@@ -7,7 +7,7 @@ paginate = 10
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  description = "Structured YAML records of breach reports, advisories, and cyber incidents"
+  description = "An open record of real-world cyberattacks — who got hit, how, and what it cost them."
   author = "Breach Notes Project"
   hacker_imagery = true
 

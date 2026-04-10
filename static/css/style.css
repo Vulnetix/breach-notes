@@ -304,9 +304,19 @@ main {
     font-size: 1.25rem;
     color: #ccc;
     max-width: 600px;
+    margin: 0 auto 0.75rem;
+    position: relative;
+    z-index: 2;
+}
+
+.home-sub-subtitle {
+    font-size: 0.95rem;
+    color: rgba(0, 255, 0, 0.55);
+    max-width: 640px;
     margin: 0 auto 2rem;
     position: relative;
     z-index: 2;
+    line-height: 1.6;
 }
 
 .home-recent {

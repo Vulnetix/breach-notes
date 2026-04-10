@@ -107,3 +107,38 @@ Example commit message format:
 ```
 Add breach batch N: X new incidents (summary of categories/themes)
 ```
+## Sources Confirmed Working Well
+
+These sources have been validated to yield high-quality, verifiable breach data:
+
+- **KrebsOnSecurity** (krebsonsecurity.com) — excellent detail on financial, retail POS, credential breaches
+- **UpGuard Blog** (upguard.com/breaches) — cloud misconfiguration and S3 bucket exposures
+- **Wiz.io Blog** (wiz.io/blog) — cloud-native vulnerability research (ChaosDB, Power Apps, etc.)
+- **HHS OCR HIPAA Breach Portal** (ocrportal.hhs.gov) — authoritative US healthcare breaches ≥500 individuals ("Wall of Shame")
+- **OAIC NDB Register** (oaic.gov.au/privacy/notifiable-data-breaches) — Australia mandatory; quarterly reports name major incidents
+- **SafetyDetectives Blog** (safetydetectives.com/blog) — unprotected database discoveries
+- **vpnMentor Research** (vpnmentor.com/blog) — Elasticsearch and S3 exposure research
+- **Troy Hunt / Have I Been Pwned** (haveibeenpwned.com) — authoritative credential dump catalogue
+- **UK ICO enforcement** (ico.org.uk/action-weve-taken/enforcement/) — GDPR fines with attached breach details
+- **SEC EDGAR 8-K filings** — post-December 2023 material cybersecurity disclosures; pre-2023 voluntary disclosures
+- **Australian ACSC advisories** (cyber.gov.au) — Australian government cyber incident alerts
+- **Bob Diachenko / Cyble** — prolific discoverers of exposed databases
+
+## Gaps Still to Fill — Next Priority
+
+- **HHS OCR 2013-2016 period**: Many hospital/insurer HIPAA breaches ≥500K records not yet documented
+- **PDPC Singapore decisions** (pdpc.gov.sg/all-commissions-decisions) — decisions dating back to 2012
+- **OPC Canada PIPEDA reports** (priv.gc.ca) — Canadian mandatory breach summaries
+- **ICO UK enforcement actions pre-2018** — breach decisions with fine amounts
+- **DataBreachToday.com archives 2013-2018** — retail, healthcare, financial breaches
+- **Retail POS malware wave 2013-2015** — many smaller retailers not yet documented
+- **Australia NDB quarterly statistics 2018-present** — individual large incidents named in OAIC reports
+- **State AG breach notification databases** — Maine AGO most comprehensive; NY, CA, TX also useful
+- **ENISA Threat Landscape reports** — European incident data including GDPR notification summaries
+
+## Do Not Include
+
+- Incidents with no verifiable public source
+- Purely speculative or unconfirmed breach claims
+- Breaches where the only source is a threat actor claim with no corroboration
+- Duplicate entries for the same incident (consolidate into the richer record)

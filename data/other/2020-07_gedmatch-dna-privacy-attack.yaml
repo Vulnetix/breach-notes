@@ -1,0 +1,13 @@
+source_name: "GEDmatch DNA Genealogy Database Breach — 1.45 Million Profiles Opted Into Law Enforcement"
+source_url: "https://www.gedmatch.com/security-update/"
+date_of_breach: "2020-07-19"
+date_of_disclosure: "2020-07-20"
+date_of_customer_notification: "2020-07-20"
+category: "other"
+initial_attack_vector: "An attacker compromised GEDmatch's database and changed the privacy settings of all 1.45 million user profiles from 'opt-out' to 'opt-in' for law enforcement searches; separately, a distributed denial-of-service (DDoS) attack was used to distract from the breach; the full details of the intrusion vector were not disclosed"
+cve: []
+vendor_product: "GEDmatch DNA genealogy database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 19-20 July 2020, GEDmatch — a popular free genealogy DNA comparison service with approximately 1.45 million registered users — suffered a cyberattack that changed the privacy settings of all user profiles to opt-in for law enforcement use without user consent. GEDmatch allows users to upload their raw DNA data from commercial testing services (23andMe, AncestryDNA, etc.) to find genetic relatives. Users who had opted-out of law enforcement matching (the default) had their settings changed to opt-in, making their DNA profiles available to law enforcement for criminal investigations — including being cross-matched against crime scene DNA from unsolved crimes. The breach lasted approximately three hours before GEDmatch detected and shut down the site. The attack created significant concern for privacy advocates because DNA data is uniquely sensitive: it cannot be changed, it identifies not just the individual but all genetic relatives, and it can reveal health predispositions and ancestral origins. GEDmatch had previously been a source of controversy when Florida detectives used it (without consent from most users) to identify the Golden State Killer in 2018. The breach prompted GEDmatch to review and tighten its security practices. GEDmatch was subsequently acquired by Verogen, a forensic genomics company, in December 2019 — a transaction that itself raised concerns about commercial use of genealogical DNA data."

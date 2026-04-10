@@ -1,0 +1,13 @@
+source_name: "Morrisons UK Supermarket Insider Data Breach — 100,000 Employees, Landmark Ruling"
+source_url: "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2020/04/ico-statement-on-morrisons-court-ruling/"
+date_of_breach: "2014-01-01"
+date_of_disclosure: "2014-03-14"
+date_of_customer_notification: "2014-03-14"
+category: "data-leak"
+initial_attack_vector: "A disgruntled Morrisons senior internal IT auditor (Andrew Skelton) with legitimate access to payroll data deliberately copied and leaked the personal and financial data of 99,998 Morrisons employees to newspaper outlets and multiple file sharing websites, motivated by a personal grievance over a disciplinary matter"
+cve: []
+vendor_product: "Morrisons supermarket internal payroll / employee HR database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early 2014, Andrew Skelton — a senior IT auditor at Morrisons, one of the UK's largest supermarket chains — deliberately leaked the personal data of 99,998 Morrisons employees as an act of sabotage. Skelton had legitimate access to the payroll data as part of his role. He copied the data to a personal USB drive, then posted it to a file sharing website and sent copies to three newspapers. The data included names, addresses, genders, dates of birth, phone numbers, national insurance numbers, bank account details, and salary information. Skelton was arrested, convicted, and sentenced to 8 years in prison. The case then became a landmark legal battle on vicarious liability: affected employees brought a class action against Morrisons itself (not Skelton), arguing Morrisons was vicariously liable for its employee's wrongdoing. The UK High Court initially found Morrisons vicariously liable; the Court of Appeal upheld this. However, the UK Supreme Court in April 2020 overturned both lower court decisions, finding Morrisons was NOT vicariously liable because Skelton's actions were not a direct exercise of his employment functions and were done for personal reasons. The Supreme Court ruling was a landmark for UK data protection law, establishing important limits on employer vicarious liability for deliberate employee data leaks."

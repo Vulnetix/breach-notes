@@ -1,0 +1,13 @@
+source_name: "Twitter API Developer Scrape — 5.4 Million Accounts, Dark Web Sale"
+source_url: "https://www.bleepingcomputer.com/news/security/twitter-data-of-54-million-users-leaked-online-after-being-sold/"
+date_of_breach: "2021-12-01"
+date_of_disclosure: "2022-07-22"
+date_of_customer_notification: "2022-07-22"
+category: "data-leak"
+initial_attack_vector: "A vulnerability in Twitter's API allowed anyone with a phone number or email address to query and retrieve the associated Twitter account, effectively enabling the enumeration of Twitter accounts and the collection of public profile data linked to private contact information; the vulnerability was reported via HackerOne bug bounty in January 2022"
+cve: []
+vendor_product: "Twitter API (phone/email lookup endpoint)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In December 2021, a threat actor exploited a Twitter API vulnerability that allowed them to query any phone number or email address and receive the corresponding Twitter account information in return. The vulnerability was submitted to Twitter via HackerOne in January 2022 and patched. However, before it was patched, the threat actor had compiled data for approximately 5.4 million Twitter users — linking phone numbers and email addresses to Twitter accounts that users had intended to keep separate (e.g., pseudonymous accounts). The data was offered for sale on BreachForums in July 2022 for $30,000. In November 2022, the data was released for free. The exposure of phone numbers and emails linked to pseudonymous or anonymous accounts was particularly dangerous for LGBTQ+ users, political dissidents, and journalists in repressive countries who used Twitter pseudonymously. Twitter confirmed the vulnerability and began notifying affected users in August 2022. The Irish Data Protection Commission (Twitter's EU data regulator) investigated and fined Twitter €550,000 in 2022 for delays in breach notification. A second, larger batch of 17 million additional records was subsequently leaked. Twitter's ownership changed in October 2022 (Elon Musk acquisition), complicating ongoing regulatory engagements."

@@ -1,0 +1,13 @@
+source_name: "K-Box Entertainment Karaoke Chain Breach — 317,000 Members (PDPC Singapore First Case)"
+source_url: "https://www.pdpc.gov.sg/enforcement/decisions"
+date_of_breach: "2014-07-01"
+date_of_disclosure: "2014-09-15"
+date_of_customer_notification: "2014-09-15"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to K Box's membership database through a vulnerability in their website; the database was not adequately protected and allowed access to member personal information"
+cve: []
+vendor_product: "K Box Entertainment Group membership database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "K Box Entertainment Group — a Singapore-based karaoke chain with approximately 25 outlets — suffered a breach of its customer membership database in 2014, exposing data for approximately 317,000 members. This breach was the first major enforcement case brought by the Singapore Personal Data Protection Commission (PDPC) under Singapore's Personal Data Protection Act 2012 (PDPA), which came into force in 2014. Exposed data included names, email addresses, home addresses, dates of birth, telephone numbers, and gender. The PDPC investigated and found K Box had failed to put in place reasonable security arrangements to protect personal data, including failing to conduct regular security reviews of its website and database systems. The PDPC issued a financial penalty of SGD 50,000 to K Box — at the time one of the first significant PDPA financial penalties. The case established important precedents for data breach enforcement in Singapore under the new PDPA framework. K Box was required to implement a comprehensive data protection management programme. The breach is notable as an early example of a consumer-facing entertainment company being held accountable under Singapore's data protection regime, and represents the first landmark PDPC enforcement decision."

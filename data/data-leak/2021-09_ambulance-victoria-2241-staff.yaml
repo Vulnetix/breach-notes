@@ -1,0 +1,13 @@
+source_name: "Ambulance Victoria Data Breach — 2,000 Paramedic Personnel Records"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/ambulance-victoria-notifiable-data-breach"
+date_of_breach: "2021-09-07"
+date_of_disclosure: "2021-10-26"
+date_of_customer_notification: "2021-10-26"
+category: "data-leak"
+initial_attack_vector: "A file containing Ambulance Victoria staff personal data was inadvertently uploaded to a publicly accessible part of Ambulance Victoria's website, where it was accessible without authentication"
+cve: []
+vendor_product: "Ambulance Victoria website file storage"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2021, Ambulance Victoria — the state ambulance service providing emergency medical services across Victoria, Australia — inadvertently uploaded a file containing staff personal data to a publicly accessible section of its website. The file contained personal and employment information for approximately 2,241 current and former Ambulance Victoria employees, including paramedics and other clinical staff. The exposed data included names, employee IDs, payroll classification codes, classification descriptions, and employment status. The file was discovered and removed by Ambulance Victoria on 7 September 2021. Ambulance Victoria notified the Office of the Australian Information Commissioner (OAIC) under Australia's Mandatory Data Breach (NDB) scheme and directly notified all affected employees. The OAIC investigated and found the breach resulted from an inadequate review process before file uploads to public areas of the website. While relatively small in scale, the breach was significant because it involved health and emergency services personnel — whose personal data could be of particular interest to criminal elements. Ambulance Victoria implemented additional review processes for web content uploads. The breach is representative of a common category of OAIC-notifiable breaches: government and public sector inadvertent publication of sensitive files to public-facing digital systems."

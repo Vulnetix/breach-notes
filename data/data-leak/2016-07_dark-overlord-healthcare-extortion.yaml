@@ -1,0 +1,13 @@
+source_name: "Dark Overlord Extortion Group — Healthcare Data Theft and Patient Extortion"
+source_url: "https://krebsonsecurity.com/2016/08/fbi-probes-dark-overlord-healthcare-data-theft/"
+date_of_breach: "2016-07-01"
+date_of_disclosure: "2016-08-09"
+date_of_customer_notification: "2016-08-09"
+category: "data-leak"
+initial_attack_vector: "The Dark Overlord gained access to multiple healthcare clinics and providers by exploiting Remote Desktop Protocol (RDP) vulnerabilities — specifically brute-forcing RDP credentials or exploiting unpatched RDP vulnerabilities on internet-facing systems; stolen data was then used for extortion of both the healthcare providers and directly of patients"
+cve: []
+vendor_product: "Multiple healthcare providers (clinics, therapy centres, oncology practices)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Beginning in mid-2016, a cybercriminal group calling themselves 'The Dark Overlord' (TDO) conducted a sustained campaign of healthcare data theft and extortion against multiple US healthcare providers. TDO exploited poorly secured Remote Desktop Protocol (RDP) access points to breach small healthcare clinics, therapy practices, and oncology centres. After stealing patient health records, TDO would demand ransoms from the healthcare providers (typically $70,000-$200,000 in Bitcoin) and simultaneously contact individual patients directly to extort them separately. TDO listed stolen healthcare databases for sale on the darknet marketplace TheRealDeal. Initial victims included providers in Missouri, Georgia, and Illinois. The FBI began investigating in August 2016. TDO stole hundreds of thousands of patient records across dozens of healthcare providers. Notable subsequent TDO attacks included a 2017 Netflix breach (stealing Orange Is the New Black episodes) and a 2019 attack claiming to possess 9/11-related insurance documents from law firms. The healthcare-specific extortion model — targeting both organisations and individual patients simultaneously — was particularly predatory. A British national (Nathan Wyatt) was arrested by UK police and extradited to the US in 2019; he pleaded guilty in 2020 to multiple extortion counts related to TDO and was sentenced to 5 years."

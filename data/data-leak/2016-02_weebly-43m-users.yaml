@@ -1,0 +1,13 @@
+source_name: "Weebly Website Builder Breach — 43 Million Users"
+source_url: "https://www.bleepingcomputer.com/news/security/weebly-security-breach-exposes-43-million-user-accounts/"
+date_of_breach: "2016-02-01"
+date_of_disclosure: "2016-10-21"
+date_of_customer_notification: "2016-10-21"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to Weebly's user database and exfiltrated account credentials and associated data for approximately 43 million users; the breach data was acquired by data breach researcher Troy Hunt and added to Have I Been Pwned"
+cve: []
+vendor_product: "Weebly website builder user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In February 2016, Weebly — a popular drag-and-drop website builder platform serving approximately 40 million users and 625,000 paying customers — suffered a data breach. The breach went undiscovered publicly until October 2016, when Troy Hunt acquired the breach data from cybercriminal marketplaces and added it to Have I Been Pwned. Weebly confirmed the breach to journalists. Exposed data included email addresses, IP addresses, and bcrypt-hashed passwords. No payment card information was exposed as Weebly processes payments through third-party payment systems. Weebly notified affected users and offered password reset guidance. The data eventually appeared in larger credential compilation sets. Weebly was acquired by Square (now Block) in 2018 for approximately $365 million. The breach occurred approximately six months before public disclosure, with the data circulating in criminal networks during the interim. Weebly is significant as a platform — it hosts millions of small business websites, meaning a compromise of Weebly credentials could potentially enable attackers to modify websites hosted on the platform for malware distribution or phishing."

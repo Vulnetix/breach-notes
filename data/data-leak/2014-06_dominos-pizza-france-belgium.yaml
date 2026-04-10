@@ -1,0 +1,13 @@
+source_name: "Domino's Pizza France and Belgium Breach — 650,000 Customer Records"
+source_url: "https://www.bbc.com/news/technology-27948800"
+date_of_breach: "2014-06-01"
+date_of_disclosure: "2014-06-14"
+date_of_customer_notification: "2014-06-14"
+category: "data-leak"
+initial_attack_vector: "A group called Rex Mundi gained access to Domino's Pizza France and Belgium's online ordering systems and databases through a vulnerability in the web application; the group claimed to have exploited SQL injection or similar techniques to access customer order databases"
+cve: []
+vendor_product: "Domino's Pizza France and Belgium online ordering database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2014, Rex Mundi — a cybercriminal extortion group known for targeting European companies — compromised Domino's Pizza France and Belgium's online ordering systems and threatened to publish 592,000 French and 58,000 Belgian customer records unless Domino's paid €30,000 in ransom. Domino's refused to pay. Rex Mundi published the data online. Exposed data included customer names, email addresses, phone numbers, addresses, and delivery notes (which sometimes contained home access codes or detailed instructions). The fact that delivery instructions often include sensitive information (door codes, home access details, notes about when people are home) made this breach particularly concerning for physical security. The CNIL (French data protection authority) opened an investigation. Domino's faced regulatory scrutiny and civil complaints from affected customers. Rex Mundi conducted similar attacks against other European companies including Hacking Team (ironically, a surveillance software maker), Marvel, ING Belgium, and Ubisoft. Rex Mundi's extortion model — steal data, demand payment, publish when refused — became a template for later ransomware and extortion groups. The core members of Rex Mundi were subsequently identified and arrested by French and Belgian authorities."

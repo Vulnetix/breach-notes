@@ -1,0 +1,13 @@
+source_name: "HealthEngine Patient Privacy Breach — Australia, Data Sold to Lawyers Without Consent (OAIC)"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/healthengine-data-breach-and-privacy-report"
+date_of_breach: "2018-01-01"
+date_of_disclosure: "2019-05-15"
+date_of_customer_notification: "2019-05-15"
+category: "data-leak"
+initial_attack_vector: "HealthEngine shared patient appointment and health data with Slater & Gordon law firm and health insurance funds without adequate patient consent, using fine print in terms of service that patients were unlikely to read; separately, HealthEngine edited negative reviews posted on its platform before publication"
+cve: []
+vendor_product: "HealthEngine patient appointment booking platform (Australia)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "HealthEngine, Australia's largest health appointment booking platform with over 17 million users across approximately 60,000 healthcare practices, was found by Australian regulators to have improperly shared patient data with third parties without meaningful patient consent. Specifically, HealthEngine shared health condition information from approximately 59,000 patients with personal injury law firm Slater & Gordon for commercial lead generation purposes — patients would book a GP appointment, disclose their health condition, and this information was shared with lawyers without adequate disclosure. The Australian Competition and Consumer Commission (ACCC) took action in the Federal Court, reaching a $2.9 million settlement — then one of Australia's largest digital health privacy penalties. The Australian Information Commissioner (Angelene Falk) found HealthEngine had interfered with privacy by sharing identifiable health information for secondary commercial purposes. The ACCC also found HealthEngine had made misleading claims about how patient review data was handled, including editing negative patient reviews before publication and using modified reviews in advertising without disclosure. The company was required to notify all affected patients, implement a privacy compliance programme, and provide enhanced transparency about data sharing. The case established important precedents about consent requirements for commercial monetisation of health data in Australia and contributed to the development of Australia's revised Privacy Act reforms."

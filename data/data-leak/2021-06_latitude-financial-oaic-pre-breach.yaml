@@ -1,0 +1,13 @@
+source_name: "Latitude Financial 2021 OAIC — Pre-2023 Data Collection Practices Investigation"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/latitude-financial-services-notifiable-data-breach"
+date_of_breach: "2021-06-01"
+date_of_disclosure: "2021-08-30"
+date_of_customer_notification: "2021-08-30"
+category: "data-leak"
+initial_attack_vector: "A vulnerability in Latitude Financial's data systems allowed unauthorized access to a subset of customer personal information; this earlier incident preceded the much larger March 2023 breach in which 14 million customer records were stolen via a compromised managed service provider credential"
+cve: []
+vendor_product: "Latitude Financial Services customer data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In mid-2021, Latitude Financial Services suffered an earlier, smaller data security incident — separate from the major March 2023 breach (which affected 14 million customers via a compromised MSP credential). The 2021 incident involved unauthorized access to a subset of customer personal information. Latitude notified the OAIC under Australia's mandatory NDB scheme in August 2021 and notified affected customers. The 2021 incident is significant in context because it demonstrates that Latitude Financial had experienced prior data security issues before the catastrophic 2023 breach, raising retrospective questions about whether improvements from the 2021 incident were sufficient. The OAIC investigated both incidents. The 2023 breach disclosure revealed that Latitude stored identity documents (driver's licences, passports) collected from customers going back to 2005 — a retention practice that contributed to the severity of the 2023 breach. Australia's Privacy Act and the OAIC's post-2023 investigation focused partly on data minimisation and retention policy failures that allowed historical records to accumulate unnecessarily."

@@ -1,0 +1,13 @@
+source_name: "Rogers Communications Network Outage / Breach — 12 Million Canadians Disrupted"
+source_url: "https://www.canada.ca/en/radio-television-telecommunications/news/2022/09/final-report-the-rogers-network-outage-of-july-8-2022.html"
+date_of_breach: "2022-07-08"
+date_of_disclosure: "2022-07-08"
+date_of_customer_notification: "2022-07-08"
+category: "other"
+initial_attack_vector: "A network maintenance update to Rogers' IP routing policy distributed during a network upgrade caused a cascade failure across Rogers' core network; the failure was a configuration error rather than a cyberattack; the outage took down mobile, internet, and cable services for approximately 12 million Canadian customers"
+cve: []
+vendor_product: "Rogers Communications network infrastructure"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 8 July 2022, Rogers Communications — Canada's largest telecommunications company serving approximately 12 million wireless customers — suffered a massive network outage that lasted approximately 16 hours for most customers, with some services taking days to fully restore. The outage was caused by a maintenance update to core network routers that triggered a cascade failure. While not a cyberattack, the outage had severe cyber-incident-like impacts: emergency 911 services were disrupted across multiple provinces, bank ATMs and point-of-sale terminals failed, hospitals lost communications, and police and emergency services were affected. The Canadian Radio-television and Telecommunications Commission (CRTC) opened an investigation. Rogers' CEO Tony Staffieri subsequently stated the outage stemmed from a coding error during a network maintenance update. The CRTC found that Rogers had failed to maintain adequate network resiliency. Rogers and Telus had an interconnection agreement for emergency 911 backup that was not triggered. The outage highlighted Canada's dependence on a small number of national telecommunications carriers and the catastrophic risk of network configuration errors at scale. Rogers paid affected customers a total of approximately $150 million in credits. The CRTC subsequently mandated emergency network backup agreements between major carriers. The incident prompted federal legislation requiring telecoms to file incident response plans."

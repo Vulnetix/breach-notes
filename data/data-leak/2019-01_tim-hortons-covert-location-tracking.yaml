@@ -1,0 +1,13 @@
+source_name: "Tim Hortons App Covert Location Tracking — PIPEDA Investigation, Class Action"
+source_url: "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/"
+date_of_breach: "2019-01-01"
+date_of_disclosure: "2022-06-01"
+date_of_customer_notification: "2022-06-01"
+category: "data-leak"
+initial_attack_vector: "The Tim Hortons mobile app collected continuous location data from users even when the app was not in use — far exceeding what was necessary for the app's stated functionality; the covert tracking persisted between app sessions without adequate consent disclosure"
+cve: []
+vendor_product: "Tim Hortons mobile loyalty app (Restaurant Brands International)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2022, Canada's Office of the Privacy Commissioner (OPC), together with privacy commissioners from Alberta, British Columbia, and Quebec, published findings of a joint investigation into the Tim Hortons mobile app. The investigation found that the app had collected continuous geolocation data from users' phones — even when the app was closed — through a third-party geofencing service. The app collected location data every few minutes, creating a highly detailed record of users' daily movements including their home, work, places of worship, health facilities, and other sensitive locations. The app's collection was far disproportionate to the stated functionality (ordering and rewards). The investigation period covered primarily 2019-2020. Restaurant Brands International (which owns Tim Hortons, Burger King, and Popeyes) was found to have violated Canada's PIPEDA (Personal Information Protection and Electronic Documents Act). The investigation was triggered by a Globe and Mail investigative report in June 2020 that analysed network traffic from the Tim Hortons app. The OPC ordered Tim Hortons to destroy all the covertly collected data and implement a privacy compliance programme. A class-action lawsuit was filed in Canada and Quebec. The case became a landmark in Canadian mobile app privacy enforcement and highlighted the pervasive but invisible nature of continuous location tracking in consumer apps."

@@ -130,18 +130,29 @@
         </div>
 
         <div class="contribute-schema">
-            <h3>Required fields</h3>
-            <pre><code>source_name: "Acme Corp Data Breach"
-source_url: "https://example.com/article"
-date_of_breach: "2025-06-01"
-date_of_disclosure: "2025-06-15"
-category: "data-leak"
-initial_attack_vector: "Phishing email leading to credential theft"
-cve: []                        # list CVE/GHSA IDs if applicable
-vendor_product: "Acme CRM"
-malware: ""                    # ransomware or malware family if known
-supply_chain_claimed: false
-notes: "Narrative description of the incident..."</code></pre>
+            <h3>Full Schema</h3>
+            <pre><code># ── Core fields (always present) ───────────────────────────────────────────────
+source_name: "Publication or organization reporting the breach"
+source_url: "https://example.com/direct-link-to-report"
+date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
+date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
+category: "ransomware | data-leak | supply-chain | credential-theft | other"
+notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
+
+# ── Traditional breach fields ───────────────────────────────────────────────────
+date_of_customer_notification: ""     # YYYY-MM-DD or "" if unknown
+initial_attack_vector: "CWE-NNN: Short description, or free-text description of the attack method"
+cve: []                               # list of CVE/GHSA IDs, e.g. ["CVE-2024-3094"], empty if none
+vendor_product: "Vendor Product Name" # affected vendor or product
+software_package: ""                  # package name for software supply chain incidents, "" otherwise
+malware: ""                           # malware family name if identified, "" otherwise
+supply_chain_claimed: false           # true if a third-party vendor relationship was the attack vector
+
+# ── Crypto / Web3 fields ───────────────────────────────────────────────────────
+blockchain: "ethereum"                # blockchain(s) involved, e.g. "ethereum, solana"; omit if not applicable
+financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable
+financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable
+affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable</code></pre>
         </div>
 
         <div class="contribute-cta">

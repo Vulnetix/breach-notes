@@ -1,0 +1,13 @@
+source_name: "MyDoom Email Worm (Fastest-Spreading Ever, $38B Damages)"
+source_url: "https://en.wikipedia.org/wiki/Mydoom"
+date_of_breach: "2004-01-26"
+date_of_disclosure: "2004-01-26"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Email attachment with social engineering lures (fake mail delivery failure notices, rejected email messages); also spread via Kazaa P2P shared folders; installed a backdoor on TCP port 3127 for spam relay and DDoS"
+cve: []
+vendor_product: "Microsoft Windows"
+software_package: ""
+malware: "MyDoom (W32/Mydoom, Novarg, Mimail.R)"
+supply_chain_claimed: false
+notes: "MyDoom, discovered on January 26, 2004, remains the fastest-spreading email worm in recorded history — a record unbroken as of 2026. Within the first 36 hours, MyDoom was responsible for approximately 25% of all global email traffic, with 1.8 million copies sent in the first 168 countries. At peak infection rate, 1 in 12 emails globally contained MyDoom. The worm slowed global internet performance by an estimated 10% and reduced web load times by 50% due to network saturation. MyDoom installed a backdoor on TCP port 3127 enabling remote access for spam relay and later DDoS attacks. On February 1, 2004, the MyDoom.A variant launched a DDoS attack against SCO Group's website; MyDoom.B targeted Microsoft.com. MyDoom also spread via Kazaa peer-to-peer file sharing with disguised filenames. Estimated damages: $38 billion. The worm was believed to have been commissioned by spammers to create a botnet for bulk email operations — an early example of financially-motivated malware. Despite a $250,000 reward from Microsoft, the authors were never identified."

@@ -1,0 +1,13 @@
+source_name: "Gary McKinnon: US Military Network Intrusions (92 Systems, 'Biggest Military Hack')"
+source_url: "https://en.wikipedia.org/wiki/Gary_McKinnon"
+date_of_breach: "2001-03-01"
+date_of_disclosure: "2002-11-12"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Scanned US military and NASA .mil/.gov domains for Windows machines with blank administrator passwords using a perl script and the RemotelyAnywhere admin tool; exploited default credentials to install backdoors and packet sniffers"
+cve: []
+vendor_product: "Microsoft Windows (default blank admin passwords)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between March 2001 and March 2002, Gary McKinnon — a 36-year-old IT administrator from London, UK, operating under the alias 'Solo' — conducted what the US government called 'the biggest military computer hack of all time.' Using a basic perl script and the RemotelyAnywhere remote administration tool, McKinnon scanned US military and NASA networks for Windows computers with blank administrator passwords — a common misconfiguration. He compromised 92 systems across US Army, US Navy, US Air Force, DoD (including facilities in the Washington DC area), and NASA. McKinnon installed remote admin tools and packet sniffers to steal usernames, passwords, and other data. He deleted critical operating system files on 97 computers at the US Army's Military District of Washington, causing a network outage affecting approximately 2,000 users for 24 hours during January-February 2002. He also posted a note on a military website: 'Your security is crap.' Total estimated damages: $900,000. McKinnon claimed he was searching for evidence of UFO cover-ups and free energy suppression. The US indicted him in November 2002 and sought extradition. McKinnon fought extradition for a decade; in 2012, UK Home Secretary Theresa May blocked his extradition on human rights grounds (McKinnon had been diagnosed with Asperger syndrome). He was never prosecuted."

@@ -1,0 +1,13 @@
+source_name: "Moonlight Maze: Russian State Espionage Against US DoD, NASA, DoE (1996–1999)"
+source_url: "https://en.wikipedia.org/wiki/Moonlight_Maze"
+date_of_breach: "1996-10-01"
+date_of_disclosure: "1999-03-01"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Russian state-sponsored actors (later linked to Turla APT) compromised US university and research institution computers as proxies, then used them to conduct systematic intrusions against DoD, NASA, DoE, and contractor networks — discovered when an administrator noticed late-night connections from a Cyrillic-keyboard system"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Moonlight Maze is one of the first documented nation-state cyber espionage campaigns against the United States. Beginning as early as October 1996 and continuing through at least 1999, Russian state-sponsored actors (later attributed by Kaspersky/King's College London to the Turla APT group based on shared infrastructure with the 2008+ Snake malware) conducted systematic, long-running intrusions against US government networks. Targets included the US Department of Defense, NASA, Department of Energy, research universities, and defense contractors. The attackers stole classified and sensitive information including military research papers, field maps, troop configurations, missile guidance schematics, encryption techniques, and other defense-related documents — information stacked to fill a 'three times the height of the Washington Monument' if printed. The intrusion was discovered when a Wright-Patterson Air Force Base administrator noticed unexplained late-night connections originating from a system with a Cyrillic keyboard layout. The FBI and DoD launched a joint investigation. Moonlight Maze is considered a precursor to modern APT operations and the first widely-documented example of state-level cyber espionage against US government infrastructure. It directly led to the establishment of the DoD's Joint Task Force-Computer Network Defense."

@@ -12,62 +12,8 @@
     </div>
 </section>
 
-<section class="home-recent">
-    <div class="container">
-        <header class="section-header">
-            <h2 class="section-title">Latest Breaches</h2>
-            <p class="section-description">
-                The 10 most recently documented cybersecurity incidents
-            </p>
-        </header>
-
-        <div class="breach-grid recent-breaches">
-            {{ $recent := slice }}
-            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
-            {{ range $cats }}
-                {{ $cat := . }}
-                {{ with index hugo.Data $cat }}
-                    {{ range $key, $breach := . }}
-                        {{ with $breach.date_of_breach }}
-                            {{ $recent = $recent | append (dict
-                                "breach" $breach
-                                "category" $cat
-                                "key" $key
-                                "date" $breach.date_of_breach
-                            ) }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-            {{ range first 10 (sort $recent "date" "desc") }}
-                {{ $breach := .breach }}
-                {{ $category := .category }}
-                {{ $url := printf "/%s/%s/" .category .key }}
-                <article class="breach-card recent">
-                    <h2 class="breach-card-title">
-                        <a href="{{ $url }}">{{ $breach.source_name }}</a>
-                    </h2>
-                    <div class="breach-card-meta">
-                        <span class="breach-date">{{ $breach.date_of_breach }}</span>
-                        {{ with $breach.malware }}<span class="breach-malware-tag">{{ . }}</span>{{ end }}
-                        {{ with $breach.cve }}<span class="breach-cve-tag">{{ delimit . ", " }}</span>{{ end }}
-                    </div>
-                    <p class="breach-card-excerpt">
-                        {{ $breach.notes | plainify | truncate 150 }}
-                    </p>
-                    <div class="breach-card-actions">
-                        <a href="{{ $url }}" class="breach-card-link">Full details →</a>
-                        {{ with $breach.source_url }}<a href="{{ . }}" class="breach-card-source" target="_blank" rel="noopener">Source ↗</a>{{ end }}
-                    </div>
-                </article>
-            {{ end }}
-        </div>
-    </div>
-</section>
-
 <section class="home-stats">
     <div class="container">
-        <h2 class="section-title">Statistics</h2>
         <div class="stats-grid">
             {{ $total := 0 }}
             {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
@@ -104,6 +50,59 @@
                 <h3>{{ $supplyChainCount }}</h3>
                 <p>Supply Chain Claims</p>
             </div>
+        </div>
+    </div>
+</section>
+
+<section class="home-recent">
+    <div class="container">
+        <header class="section-header">
+            <h2 class="section-title">Latest Breaches</h2>
+            <p class="section-description">
+                The 12 most recently documented cybersecurity incidents
+            </p>
+        </header>
+
+        <div class="breach-grid recent-breaches">
+            {{ $recent := slice }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ range $cats }}
+                {{ $cat := . }}
+                {{ with index hugo.Data $cat }}
+                    {{ range $key, $breach := . }}
+                        {{ with $breach.date_of_breach }}
+                            {{ $recent = $recent | append (dict
+                                "breach" $breach
+                                "category" $cat
+                                "key" $key
+                                "date" $breach.date_of_breach
+                            ) }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            {{ range first 12 (sort $recent "date" "desc") }}
+                {{ $breach := .breach }}
+                {{ $category := .category }}
+                {{ $url := printf "/%s/%s/" .category .key }}
+                <article class="breach-card recent">
+                    <h2 class="breach-card-title">
+                        <a href="{{ $url }}">{{ $breach.source_name }}</a>
+                    </h2>
+                    <div class="breach-card-meta">
+                        <span class="breach-date">{{ $breach.date_of_breach }}</span>
+                        {{ with $breach.malware }}<span class="breach-malware-tag">{{ . }}</span>{{ end }}
+                        {{ with $breach.cve }}<span class="breach-cve-tag">{{ delimit . ", " }}</span>{{ end }}
+                    </div>
+                    <p class="breach-card-excerpt">
+                        {{ $breach.notes | plainify | truncate 150 }}
+                    </p>
+                    <div class="breach-card-actions">
+                        <a href="{{ $url }}" class="breach-card-link">Full details →</a>
+                        {{ with $breach.source_url }}<a href="{{ . }}" class="breach-card-source" target="_blank" rel="noopener">Source ↗</a>{{ end }}
+                    </div>
+                </article>
+            {{ end }}
         </div>
     </div>
 </section>

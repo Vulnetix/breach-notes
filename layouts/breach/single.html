@@ -1,0 +1,56 @@
+{{ define "main" }}
+<article class="breach-page">
+    <div class="container">
+        <header class="breach-header">
+            <h1 class="breach-title">{{ .Params.source_name }}</h1>
+            <div class="breach-meta">
+                <span class="breach-date"><strong>Breach Date:</strong> {{ .Params.date_of_breach }}</span>
+                <span class="breach-category"><strong>Category:</strong> {{ .Params.category }}</span>
+                {{ if .Params.malware }}<span class="breach-malware"><strong>Malware:</strong> {{ .Params.malware }}</span>{{ end }}
+                {{ if .Params.cve }}<span class="breach-cve"><strong>CVEs:</strong> {{ delimit .Params.cve ", " }}</span>{{ end }}
+            </div>
+            {{ if .Params.source_url }}
+            <a href="{{ .Params.source_url }}" target="_blank" rel="noopener" class="breach-source">View Source →</a>
+            {{ end }}
+        </header>
+
+        <section class="breach-content">
+            <h2>Details</h2>
+            <div class="breach-notes">
+                {{ .Params.notes | markdownify }}
+            </div>
+        </section>
+
+        {{ if or (.Params.initial_attack_vector) (.Params.vendor_product) (.Params.software_package) (.Params.supply_chain_claimed) }}
+        <section class="breach-technical">
+            <h2>Technical Details</h2>
+            <dl class="breach-details">
+                {{ if .Params.initial_attack_vector }}
+                <dt>Initial Attack Vector</dt>
+                <dd>{{ .Params.initial_attack_vector }}</dd>
+                {{ end }}
+                {{ if .Params.vendor_product }}
+                <dt>Vendor/Product</dt>
+                <dd>{{ .Params.vendor_product }}</dd>
+                {{ end }}
+                {{ if .Params.software_package }}
+                <dt>Software Package</dt>
+                <dd>{{ .Params.software_package }}</dd>
+                {{ end }}
+                {{ if .Params.supply_chain_claimed }}
+                <dt>Supply Chain Claimed</dt>
+                <dd>{{ if .Params.supply_chain_claimed }}Yes{{ else }}No{{ end }}</dd>
+                {{ end }}
+            </dl>
+        </section>
+        {{ end }}
+    </div>
+</article>
+
+{{ if .Site.Params.hacker_imagery }}
+<div class="hacker-background">
+    <div class="binary-rain"></div>
+    <div class="circuit-pattern"></div>
+</div>
+{{ end }}
+{{ end }}

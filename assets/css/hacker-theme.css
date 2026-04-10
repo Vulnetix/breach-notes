@@ -1,0 +1,272 @@
+/* Hacker Theme Styles */
+.hacker-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.binary-rain,
+.circuit-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.binary-rain {
+    background-image:
+        radial-gradient(circle at 10px 10px, #00ff00 1px, transparent 1px),
+        radial-gradient(circle at 30px 30px, #00ff00 1px, transparent 1px),
+        radial-gradient(circle at 50px 50px, #00ff00 1px, transparent 1px),
+        radial-gradient(circle at 70px 70px, #00ff00 1px, transparent 1px),
+        radial-gradient(circle at 90px 90px, #00ff00 1px, transparent 1px);
+    background-size: 20px 20px;
+    opacity: 0.1;
+    animation: binaryRain 20s linear infinite;
+}
+
+@keyframes binaryRain {
+    0% { background-position: 0 0; }
+    100% { background-position: 100% 100%; }
+}
+
+.circuit-pattern {
+    background-image:
+        repeating-linear-gradient(0deg, transparent, transparent 1px, rgba(0, 255, 0, 0.1) 1px, rgba(0, 255, 0, 0.1) 2px),
+        repeating-linear-gradient(90deg, transparent, transparent 1px, rgba(0, 255, 0, 0.1) 1px, rgba(0, 255, 0, 0.1) 2px);
+    background-size: 20px 20px;
+    opacity: 0.05;
+}
+
+/* Hero specific hacker background */
+.hero-hacker-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.hero-hacker-background .binary-rain,
+.hero-hacker-background .circuit-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.hero-hacker-background .binary-rain {
+    background-image:
+        repeating-radial-gradient(circle at 0 0, transparent 0, #00ff00 1px, transparent 1px),
+        repeating-radial-gradient(circle at 100% 100%, transparent 0, #00ff00 1px, transparent 1px);
+    background-size: 50px 50px;
+    opacity: 0.15;
+    animation: binaryRainHero 30s linear infinite;
+}
+
+@keyframes binaryRainHero {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(-50px, -50px); }
+}
+
+/* Terminal cursor animation */
+.terminal-cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background-color: #00ff00;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+}
+
+/* Glitch effect */
+.glitch {
+    position: relative;
+}
+
+.glitch::before,
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.glitch::before {
+    left: 2px;
+    text-shadow: -2px 0 #ff00ff;
+    top: 0;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 3s infinite linear alternate-reverse;
+}
+
+.glitch::after {
+    left: -2px;
+    text-shadow: -2px 0 #00ffff;
+    top: 0;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim2 2s infinite linear alternate-reverse;
+}
+
+@keyframes glitch-anim {
+    0% { clip: rect(44px, 450px, 56px, 0); }
+    5% { clip: rect(62px, 450px, 32px, 0); }
+    10% { clip: rect(86px, 450px, 16px, 0); }
+    15% { clip: rect(0px, 450px, 72px, 0); }
+    20% { clip: rect(30px, 450px, 142px, 0); }
+    25% { clip: rect(56px, 450px, 102px, 0); }
+    30% { clip: rect(62px, 450px, 124px, 0); }
+    35% { clip: rect(10px, 450px, 192px, 0); }
+    40% { clip: rect(150px, 450px, 78px, 0); }
+    45% { clip: rect(72px, 450px, 142px, 0); }
+    50% { clip: rect(162px, 450px, 88px, 0); }
+    55% { clip: rect(192px, 450px, 62px, 0); }
+    60% { clip: rect(66px, 450px, 200px, 0); }
+    65% { clip: rect(114px, 450px, 166px, 0); }
+    70% { clip: rect(158px, 450px, 96px, 0); }
+    75% { clip: rect(198px, 450px, 66px, 0); }
+    80% { clip: rect(186px, 450px, 76px, 0); }
+    85% { clip: rect(194px, 450px, 54px, 0); }
+    90% { clip: rect(178px, 450px, 78px, 0); }
+    95% { clip: rect(110px, 450px, 188px, 0); }
+    100% { clip: rect(122px, 450px, 176px, 0); }
+}
+
+@keyframes glitch-anim2 {
+    0% { clip: rect(44px, 450px, 56px, 0); }
+    5% { clip: rect(62px, 450px, 32px, 0); }
+    10% { clip: rect(86px, 450px, 16px, 0); }
+    15% { clip: rect(0px, 450px, 72px, 0); }
+    20% { clip: rect(30px, 450px, 142px, 0); }
+    25% { clip: rect(56px, 450px, 102px, 0); }
+    30% { clip: rect(62px, 450px, 124px, 0); }
+    35% { clip: rect(10px, 450px, 192px, 0); }
+    40% { clip: rect(150px, 450px, 78px, 0); }
+    45% { clip: rect(72px, 450px, 142px, 0); }
+    50% { clip: rect(162px, 450px, 88px, 0); }
+    55% { clip: rect(192px, 450px, 62px, 0); }
+    60% { clip: rect(66px, 450px, 200px, 0); }
+    65% { clip: rect(114px, 450px, 166px, 0); }
+    70% { clip: rect(158px, 450px, 96px, 0); }
+    75% { clip: rect(198px, 450px, 66px, 0); }
+    80% { clip: rect(186px, 450px, 76px, 0); }
+    85% { clip: rect(194px, 450px, 54px, 0); }
+    90% { clip: rect(178px, 450px, 78px, 0); }
+    95% { clip: rect(110px, 450px, 188px, 0); }
+    100% { clip: rect(122px, 450px, 176px, 0); }
+}
+
+/* Matrix-like code rain */
+.matrix-code {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -2;
+    overflow: hidden;
+    background: #000;
+}
+
+.matrix-code::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:
+        repeating-linear-gradient(
+            0deg,
+            rgba(0, 255, 0, 0.05) 0px,
+            rgba(0, 255, 0, 0.05) 1px,
+            transparent 1px,
+            transparent 2px
+        );
+    animation: matrixRain 10s linear infinite;
+}
+
+@keyframes matrixRain {
+    0% { background-position: 0 0; }
+    100% { background-position: 0 100vh; }
+}
+
+/* Hacker text effects */
+.hacker-text {
+    font-family: 'Courier New', monospace;
+    letter-spacing: 0.05em;
+    text-shadow: 0 0 5px #00ff00;
+}
+
+.hacker-text-glow {
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00;
+}
+
+/* Button styles */
+.btn-hacker {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: rgba(0, 255, 0, 0.1);
+    border: 1px solid #00ff00;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 3px;
+    transition: all 0.2s;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-hacker:hover {
+    background: rgba(0, 255, 0, 0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.4);
+}
+
+.btn-hacker:active {
+    transform: translateY(0);
+}
+
+.btn-hacker::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background:
+        linear-gradient(
+            45deg,
+            transparent,
+            rgba(0, 255, 0, 0.1),
+            transparent
+        );
+    transform: rotate(45deg);
+    transition: all 0.5s;
+}
+
+.btn-hacker:hover::before {
+    animation: shine 0.5s;
+}
+
+@keyframes shine {
+    0% { transform: translateX(-100%) rotate(45deg); }
+    100% { transform: translateX(100%) rotate(45deg); }
+}

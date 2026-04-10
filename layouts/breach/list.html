@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="breach-section">
+    <div class="container">
+        <header class="section-header">
+            <h1 class="section-title">
+                {{ .Title }}
+                <span class="section-count">{{ .Paginator.TotalResults }} incidents</span>
+            </h1>
+            <p class="section-description">
+                {{ .Description }}
+            </p>
+        </header>
+
+        <div class="breach-grid">
+            {{ range .Paginator.Pages }}
+            <article class="breach-card">
+                <h2 class="breach-card-title">
+                    <a href="{{ .RelPermalink }}">{{ .Params.source_name }}</a>
+                </h2>
+                <div class="breach-card-meta">
+                    <span class="breach-date">{{ .Params.date_of_breach }}</span>
+                    {{ if .Params.malware }}<span class="breach-malware-tag">{{ .Params.malware }}</span>{{ end }}
+                    {{ if .Params.cve }}<span class="breach-cve-tag">{{ delimit .Params.cve ", " }}</span>{{ end }}
+                </div>
+                <p class="breach-card-excerpt">
+                    {{ .Params.notes | plainify | truncate 200 }}
+                </p>
+                <a href="{{ .RelPermalink }}" class="breach-card-link">Read More →</a>
+            </article>
+            {{ end }}
+        </div>
+
+        {{ template "_internal/pagination.html" . }}
+    </div>
+</section>
+
+{{ if .Site.Params.hacker_imagery }}
+<div class="hacker-background">
+    <div class="binary-rain"></div>
+    <div class="circuit-pattern"></div>
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+    <!-- Iconfy Icons -->
+    <link rel="stylesheet" href="https://cdn.iconfy.com/css/icons.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+    {{ if .Site.Params.hacker_imagery }}
+    <link rel="stylesheet" href="{{ "css/hacker-theme.css" | relURL }}">
+    {{ end }}
+
+    {{ hugo.Generator }}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title">
+                <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+            </h1>
+            <nav class="site-nav">
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li>
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. All breach data is sourced from public reports.</p>
+            <p class="footer-links">
+                <a href="https://github.com/chris/breach-notes">Source Code</a>
+                <span>|</span>
+                <a href="{{ "about/" | relURL }}">About</a>
+            </p>
+        </div>
+    </footer>
+
+    {{ if .Site.Params.hacker_imagery }}
+    <script src="{{ "js/hacker-effects.js" | relURL }}"></script>
+    {{ end }}
+</body>
+</html>

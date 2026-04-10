@@ -1,0 +1,347 @@
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', monospace;
+    line-height: 1.6;
+    color: #fff;
+    background-color: #000;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+a {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header Styles */
+.site-header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #00ff00;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.site-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.site-title a {
+    color: #00ff00;
+    font-weight: bold;
+}
+
+.site-nav ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.site-nav a {
+    color: #ccc;
+    font-family: 'Courier New', monospace;
+}
+
+.site-nav a:hover {
+    color: #00ff00;
+}
+
+/* Footer Styles */
+.site-footer {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 2rem 0;
+    border-top: 1px solid #00ff00;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.footer-links a {
+    margin: 0 0.5rem;
+}
+
+/* Breach Page Styles */
+.breach-page {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.breach-header {
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}
+
+.breach-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #00ff00;
+}
+
+.breach-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.breach-meta span {
+    background: rgba(0, 255, 0, 0.1);
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+}
+
+.breach-source {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: rgba(0, 255, 0, 0.1);
+    border: 1px solid #00ff00;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+}
+
+.breach-source:hover {
+    background: rgba(0, 255, 0, 0.2);
+}
+
+.breach-content h2 {
+    color: #00ff00;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 0.5rem;
+}
+
+.breach-notes {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.breach-technical h2 {
+    color: #00ff00;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 0.5rem;
+}
+
+.breach-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1.5rem;
+    border-radius: 5px;
+}
+
+.breach-details dt {
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.breach-details dd {
+    margin-bottom: 0.5rem;
+}
+
+/* Breach List Styles */
+.breach-section {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.section-header {
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: #00ff00;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-count {
+    background: rgba(0, 255, 0, 0.1);
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.9rem;
+}
+
+.section-description {
+    color: #ccc;
+    margin-bottom: 1.5rem;
+}
+
+.breach-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.breach-card {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 255, 0, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.breach-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.3);
+}
+
+.breach-card-title {
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 1rem;
+    background: rgba(0, 255, 0, 0.1);
+}
+
+.breach-card-title a {
+    color: #00ff00;
+    display: block;
+}
+
+.breach-card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0 1rem 0.5rem;
+}
+
+.breach-date {
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+.breach-malware-tag,
+.breach-cve-tag {
+    font-size: 0.75rem;
+    background: rgba(0, 255, 0, 0.1);
+    padding: 0.15rem 0.3rem;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.breach-card-excerpt {
+    padding: 0 1rem 1rem;
+    color: #ccc;
+    font-size: 0.9rem;
+}
+
+.breach-card-link {
+    display: block;
+    margin: 0 1rem 1rem;
+    text-align: right;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+}
+
+/* Homepage Styles */
+.home-hero {
+    text-align: center;
+    padding: 4rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.home-title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #00ff00;
+    position: relative;
+    z-index: 2;
+}
+
+.home-subtitle {
+    font-size: 1.25rem;
+    color: #ccc;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    position: relative;
+    z-index: 2;
+}
+
+.home-recent {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.home-stats {
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #00ff00;
+    text-align: center;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.stat-card {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 255, 0, 0.2);
+    border-radius: 5px;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.stat-card h3 {
+    font-size: 2.5rem;
+    color: #00ff00;
+    margin-bottom: 0.5rem;
+}
+
+.stat-card p {
+    color: #ccc;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .site-nav ul {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .breach-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .home-title {
+        font-size: 2.5rem;
+    }
+
+    .home-subtitle {
+        font-size: 1.1rem;
+    }
+}

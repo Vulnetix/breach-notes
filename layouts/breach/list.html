@@ -25,7 +25,10 @@
                 <p class="breach-card-excerpt">
                     {{ .Params.notes | plainify | truncate 200 }}
                 </p>
-                <a href="{{ .RelPermalink }}" class="breach-card-link">Read More →</a>
+                <div class="breach-card-actions">
+                    <a href="{{ .RelPermalink }}" class="breach-card-link">Full details →</a>
+                    {{ with .Params.source_url }}<a href="{{ . }}" class="breach-card-source" target="_blank" rel="noopener">Source ↗</a>{{ end }}
+                </div>
             </article>
             {{ end }}
         </div>

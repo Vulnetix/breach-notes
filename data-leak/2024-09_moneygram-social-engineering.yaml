@@ -1,0 +1,13 @@
+source_name: "MoneyGram Data Breach via IT Helpdesk Social Engineering"
+source_url: "https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/"
+date_of_breach: "2024-09-20"
+date_of_disclosure: "2024-10-07"
+date_of_customer_notification: "2024-10-07"
+category: "data-leak"
+initial_attack_vector: "Social engineering / vishing targeting MoneyGram's IT helpdesk; attackers impersonated employees to obtain internal system access"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "MoneyGram, a major international money transfer and payment services company, suffered a data breach September 20–22, 2024 via an IT helpdesk social engineering attack (attributed to Scattered Spider-style tactics). Services were offline for five days. Confirmed not ransomware (per CrowdStrike forensics). Stolen data included names, addresses, phone numbers, email addresses, dates of birth, national ID numbers, copies of government-issued IDs, bank account numbers, transaction records, MoneyGram Plus Rewards numbers, and criminal investigation information (for some fraud-related cases). MoneyGram offered 2 years of free identity protection and credit monitoring to affected US customers. Full count of affected individuals not publicly confirmed. Financial services sector; helpdesk social engineering identical to Scattered Spider's proven playbook."

@@ -1,0 +1,13 @@
+source_name: "Comcast/Xfinity Customer Data Breach via FBCS Third-Party (FCC Fine)"
+source_url: "https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/"
+date_of_breach: "2024-02-14"
+date_of_disclosure: "2024-10-01"
+date_of_customer_notification: "2024-10-01"
+category: "data-leak"
+initial_attack_vector: "Third-party vendor breach: Financial Business and Consumer Solutions (FBCS), a debt collection agency handling Comcast customer accounts, was compromised in a ransomware attack February 14–26, 2024"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Financial Business and Consumer Solutions (FBCS), a third-party debt collection agency used by Comcast, was hit by ransomware in February 2024. As a result, data on approximately 273,703–275,000 Comcast broadband subscribers was exposed. Comcast was notified by FBCS in July 2024 and began customer notifications in October 2024. The FCC investigated Comcast for its breach notification handling and delayed response; Comcast agreed to pay a $1.5 million fine to settle the FCC investigation. Exposed data included names, addresses, SSNs, and account information. Note: separate from the Comcast Xfinity CitrixBleed breach in late 2023 (which exposed 35.8 million customers). This is a distinct 2024 third-party vendor exposure event affecting a much smaller subset of customers."

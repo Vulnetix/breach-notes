@@ -1,8 +1,7 @@
 {{ define "main" }}
 <section class="home-hero">
     <div class="container">
-        <h1 class="site-title">{{ .Site.Title }}</h1>
-        <p class="home-subtitle">Every breach is a lesson. This is the record.</p>
+        <p class="home-tagline">Every breach is a lesson. This is the record.</p>
         <p class="home-sub-subtitle">Attackers share tactics. Defenders should too. Browse {{ len (index hugo.Data "ransomware") | add (len (index hugo.Data "data-leak")) | add (len (index hugo.Data "supply-chain")) | add (len (index hugo.Data "credential-theft")) | add (len (index hugo.Data "other")) }} documented incidents — attack vectors, malware families, CVEs, and what actually happened.</p>
         {{ if .Site.Params.hacker_imagery }}
         <div class="hero-hacker-background">

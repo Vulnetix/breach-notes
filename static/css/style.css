@@ -292,23 +292,24 @@ main {
     overflow: hidden;
 }
 
-.home-subtitle {
-    font-size: 1.25rem;
-    color: #ccc;
-    max-width: 600px;
-    margin: 0 auto 0.75rem;
+.home-tagline {
+    font-size: 1.75rem;
+    font-weight: bold;
+    color: #00ff00;
+    text-shadow: 0 0 8px rgba(0, 255, 0, 0.4);
+    margin-bottom: 1rem;
     position: relative;
     z-index: 2;
 }
 
 .home-sub-subtitle {
-    font-size: 0.95rem;
-    color: rgba(0, 255, 0, 0.55);
+    font-size: 1rem;
+    color: #ccc;
     max-width: 640px;
     margin: 0 auto 2rem;
     position: relative;
     z-index: 2;
-    line-height: 1.6;
+    line-height: 1.7;
 }
 
 .home-recent {

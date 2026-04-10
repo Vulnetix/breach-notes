@@ -1,16 +1,13 @@
-source_name: Department of Defense (Pentagon) Third-Party Breach (October 2018)
-source_url: "https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/"
-date_of_breach: 2018-10-01
-date_of_disclosure: 2018-10-01
-date_of_customer_notification: ""
+source_name: US Department of Defense travel records breach via unnamed contractor (October 2018)
+source_url: https://www.bleepingcomputer.com/news/security/pentagon-data-breach-exposes-up-to-30-000-travel-records/
+date_of_breach: '2018-07-01'
+date_of_disclosure: '2018-10-12'
+date_of_customer_notification: '2018-10-12'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Intrusion into an unnamed commercial travel management contractor's systems that processed and stored travel records for DoD personnel — the contractor's network was compromised, exposing travel itinerary data and associated payment card information for approximately 30,000 military and civilian DoD employees
 cve: []
-vendor_product: not disclosed
-software_package: ""
-malware: ""
+vendor_product: Not disclosed (DoD travel management contractor)
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2018, Department of Defense (Pentagon) experienced a data security incident via a third-party vendor
-  relationship. Source reporting:
-  https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/
+notes: "On October 12, 2018, the US Department of Defense disclosed that a data breach at an unnamed commercial contractor had exposed travel records — including personal information and payment card data — for approximately 30,000 current and former DoD military personnel and civilian employees. The Pentagon announced it had been notified of the breach by the contractor and had moved to terminate performance under the contractor's contracts.\n\nThe DoD declined to name the contractor, citing ongoing security concerns and the sensitive nature of active contract relationships. Officials noted the breach may have occurred some months prior to its discovery, potentially placing the initial intrusion as early as mid-2018, though the exact date of compromise was not publicly confirmed. The actual scope of the breach could exceed 30,000, as that figure was described as not necessarily final at the time of disclosure.\n\nData exposed included travel records — itineraries, booking confirmations, travel dates — along with personal identifying information and credit card details associated with official travel transactions. The combination of travel metadata and financial data presented risk for targeted fraud, social engineering, and potentially for adversary intelligence collection about DoD personnel movements.\n\nThe DoD began directly notifying all individuals believed to be affected and offered prepaid identity theft monitoring services. Defense Department spokesperson Lt. Col. Joseph Buccino confirmed the breach was limited to the contractor's systems and had not compromised the DoD's own networks.\n\nThe timing of the disclosure was notable: it came shortly after a Government Accountability Office (GAO) report concluded that US military weapons systems were broadly vulnerable to cyberattacks and that the Pentagon had been slow to implement adequate protections. Critics noted that the DoD's travel management contracting practices — concentrating large volumes of sensitive personnel data with commercial vendors — created significant third-party risk.\n\nThe breach paralleled a broader pattern of contractor and supply-chain compromises affecting US government agencies during this period and reinforced ongoing concerns about the security posture of DoD vendors handling sensitive personnel data."

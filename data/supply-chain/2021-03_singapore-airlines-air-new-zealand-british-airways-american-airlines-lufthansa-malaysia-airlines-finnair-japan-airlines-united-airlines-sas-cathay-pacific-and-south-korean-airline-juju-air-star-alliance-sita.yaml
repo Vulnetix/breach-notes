@@ -1,19 +1,20 @@
-source_name: |-
-             Singapore Airlines, Air New Zealand, British Airways, American Airlines, Lufthansa, Malaysia Airlines, Finnair, Japan Airlines, United Airlines, SAS, Cathay Pacific, and South Korean airline Juju Air. Star Alliance Third-Party Breach (March 2021)
-source_url: "https://www.zdnet.com/article/singapore-airlines-frequent-flyer-members-hit-in-third-party-data-security-breach/"
-date_of_breach: 2021-03-01
-date_of_disclosure: 2021-03-01
-date_of_customer_notification: ""
+source_name: "SITA Passenger Service System Breach — 2.1M+ Frequent Flyer Records, 11 Airlines Affected"
+source_url: "https://www.bleepingcomputer.com/news/security/sita-data-breach-affects-millions-of-travelers-from-major-airlines/"
+date_of_breach: "2021-02-24"
+date_of_disclosure: "2021-03-04"
+date_of_customer_notification: "2021-03-04"
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: "Highly sophisticated attack on SITA's Passenger Service System (PSS) server infrastructure; exact initial intrusion method not publicly disclosed by SITA"
 cve: []
-vendor_product: SITA
-software_package: ""
+vendor_product: "SITA Passenger Service System (Horizon PSS)"
+software_package: "SITA PSS / Horizon"
 malware: ""
 supply_chain_claimed: true
 notes: |-
-  In 2021, Singapore Airlines, Air New Zealand, British Airways, American Airlines, Lufthansa, Malaysia
-  Airlines, Finnair, Japan Airlines, United Airlines, SAS, Cathay Pacific, and South Korean airline Juju Air.
-  Star Alliance experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was SITA. Source reporting:
-  https://www.zdnet.com/article/singapore-airlines-frequent-flyer-members-hit-in-third-party-data-security-breach/
+  On February 24, 2021, SITA — one of the world's largest aviation IT companies, serving approximately 90% of global airlines through its Passenger Service System (PSS) — detected and contained a "highly sophisticated" cyberattack on its PSS servers. SITA's Horizon PSS platform underpins reservations, ticketing, check-in, and departure control for numerous airline alliances and individual carriers. The attack was disclosed publicly on March 4, 2021, after SITA notified affected airline customers.
+
+  The breach compromised frequent flyer program data held by SITA on behalf of member airlines in the Star Alliance and oneworld alliances, along with several independent carriers. Exposed data was limited to frequent flyer membership numbers, tier/status levels, and in some cases passenger names — no passwords, payment card information, passport numbers, reservations, or contact details were reported as compromised. Airlines that publicly confirmed customer impact included Singapore Airlines (~580,000 KrisFlyer members), Air New Zealand, Lufthansa (Miles & More, the largest frequent flyer program in Europe, accounting for the majority of the 2.1 million+ total affected individuals), Finnair (Finnair Plus), Malaysia Airlines (Enrich), SAS (EuroBonus), Cathay Pacific (Asia Miles), Japan Airlines (JAL Mileage Bank), United Airlines (MileagePlus), American Airlines (AAdvantage), and Jeju Air (South Korea). British Airways also acknowledged the incident.
+
+  The Star Alliance and oneworld alliances coordinated member notifications. Singapore Airlines was among the first to disclose, explaining that its KrisFlyer data was processed by SITA PSS as part of interline and code-share operations.
+
+  SITA stated it informed all affected PSS customers immediately upon containing the attack. The exact technical method of the initial compromise — whether credential theft, vulnerability exploitation, or another vector — was not publicly disclosed. Attribution was not made public. The attack highlighted the cascading exposure risk of a single aviation IT infrastructure provider holding data for dozens of carriers simultaneously: a single system compromise at SITA automatically translated into breach notifications for over a dozen global airlines and millions of passengers.

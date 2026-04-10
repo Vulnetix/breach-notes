@@ -1,15 +1,20 @@
-source_name: Saudi Aramco Third-Party Breach (July 2021)
-source_url: "https://www.thirdpartytrust.com/blog/saudi-aramco-oil-company-third-party-vendor-data-stolen/"
-date_of_breach: 2021-07-01
-date_of_disclosure: 2021-07-01
+source_name: "Saudi Aramco Contractor Data Breach — 1TB Exfiltrated, $50M Ransom Demand, 14,000 Employee Records"
+source_url: "https://www.cnbc.com/2021/07/22/saudi-aramco-facing-50m-cyber-extortion-over-leaked-data.html"
+date_of_breach: "2021-06-01"
+date_of_disclosure: "2021-07-14"
 date_of_customer_notification: ""
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: "Compromise of a third-party contractor with access to Saudi Aramco internal data; exfiltration via the contractor's systems rather than Aramco's own network"
 cve: []
-vendor_product: Not disclosed
+vendor_product: "Unnamed third-party contractor (Saudi Aramco)"
 software_package: ""
 malware: ""
 supply_chain_claimed: true
 notes: |-
-  In 2021, Saudi Aramco experienced a data security incident via a third-party vendor relationship. Source
-  reporting: https://www.thirdpartytrust.com/blog/saudi-aramco-oil-company-third-party-vendor-data-stolen/
+  In July 2021, a threat actor using the name "ZeroX" began advertising 1 terabyte of data stolen from Saudi Arabian Oil Company (Saudi Aramco) on a darknet forum, demanding $50 million in Monero cryptocurrency for the full dataset or offering partial files for smaller payments. Saudi Aramco confirmed the data leak, stating that it had "recently become aware of the indirect release of a limited amount of company data which was held by third-party contractors," while asserting the release was not the result of a breach of Aramco's own systems and had no operational impact.
+
+  The leaked data was extensive and highly sensitive. It included over 14,000 of Aramco's roughly 66,000 employee profiles dating back to 1993, containing full names, photographs, passport copies, email addresses, phone numbers, Saudi residence permit (Iqama card) numbers, job titles, employee ID numbers, and family information. Additional leaked materials included customer invoices, internal project specifications, network diagrams, and other operational documents. ZeroX posted samples of the data as proof of legitimacy.
+
+  Aramco did not identify which contractor had been compromised or how the data had been exfiltrated. The ransom demand included a countdown timer set to $5 million and another to $50 million, creating pressure to respond quickly. There is no public indication that Aramco paid any ransom. The specific ransomware group or threat actor affiliation of ZeroX was not publicly attributed.
+
+  The breach demonstrated the acute risk posed by contractor and vendor access to core operational and HR data at critical infrastructure organizations. Saudi Aramco, as the world's largest oil producer by revenue and one of the world's most valuable companies, represents an extreme-consequence target for supply chain attacks. The fact that 1TB of detailed employee and operational data resided with a third-party contractor — and was exfiltrated from that contractor rather than Aramco directly — underscores how indirect paths can completely bypass a primary organization's investment in its own network security.

@@ -1,16 +1,24 @@
-source_name: Freedom Mobile Third-Party Breach (April 2019)
-source_url: "https://www.cbc.ca/news/business/freedom-mobile-data-breach-1.5126952"
-date_of_breach: 2019-04-01
-date_of_disclosure: 2019-04-01
-date_of_customer_notification: ""
+source_name: Freedom Mobile Customer Data Exposed via Apptium Technologies Unsecured Elasticsearch
+source_url: https://techcrunch.com/2019/05/07/freedom-mobile-data-leak/
+date_of_breach: '2019-03-25'
+date_of_disclosure: '2019-05-07'
+date_of_customer_notification: '2019-05-07'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Misconfigured cloud database (unauthenticated Elasticsearch instance, no password)
 cve: []
 vendor_product: Apptium Technologies
-software_package: ""
-malware: ""
+software_package: Elasticsearch
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2019, Freedom Mobile experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Apptium Technologies. Source reporting:
-  https://www.cbc.ca/news/business/freedom-mobile-data-breach-1.5126952
+notes: |
+  In April–May 2019, security researchers Noam Rotem and Ran Locar discovered an unsecured Elasticsearch database belonging to Apptium Technologies, a third-party vendor that managed customer support and digital operations systems for Freedom Mobile — Canada's fourth-largest wireless carrier (owned by Shaw Communications).
+
+  The database was publicly accessible without any password or authentication. Rotem and Locar discovered it on approximately April 17, 2019 and attempted to report it to Freedom Mobile that same day, receiving no response. After following up on April 24, Freedom Mobile acknowledged the report on April 25 and the database was secured. The researchers subsequently disclosed their findings publicly via VPNMentor's research blog, covered by TechCrunch on May 7, 2019.
+
+  The Elasticsearch server contained approximately five million log entries, with the breach window confirmed by Freedom Mobile as March 25 to April 16, 2019. Freedom Mobile stated that approximately 15,000 customers had data actively accessed or at risk, though researchers noted the server logs spanned a far larger customer population.
+
+  Exposed data included customer names, email addresses, phone numbers, home addresses, dates of birth, Freedom Mobile account numbers, and customer type classifications. Critically, the database also contained answers to Equifax credit checks that Freedom Mobile ran on new applicants — including approval/rejection decisions and reasoning — alongside unencrypted credit card numbers and CVV codes for customers who had provided payment information. The inclusion of CVV codes in plaintext was particularly egregious, as PCI DSS explicitly prohibits storing CVV data post-authorization.
+
+  Freedom Mobile and Apptium's failure to secure the database violated both Canadian PIPEDA privacy law and PCI DSS payment card standards. The exposure was reported to the Office of the Privacy Commissioner of Canada. Freedom Mobile offered credit monitoring to affected customers.
+
+  The incident was notable for the severity of data exposed (unencrypted CVVs, credit check results), the fact that a new third-party vendor relationship was the failure point, and the sluggish initial response to researcher disclosure. It illustrated the risks of outsourcing customer data management to vendors without rigorous security validation and contractual data handling requirements.

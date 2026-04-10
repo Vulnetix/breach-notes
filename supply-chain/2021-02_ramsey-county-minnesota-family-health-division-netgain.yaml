@@ -1,0 +1,22 @@
+source_name: Ramsey County, (Minnesota) Family Health Division Third-Party Breach
+  (February 2021)
+source_url: https://www.bleepingcomputer.com/news/security/netgain-ransomware-incident-impacts-local-governments/
+date_of_breach: 2021-02-01
+date_of_disclosure: '2021-02-02'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Netgain
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Netgain ransomware incident impacts local governments. The ransomware incident
+  that Netgain, a provider of managed IT services, had late last year rippled onto
+  its customers. Now, Ramsey County, Minnesota, is informing clients of the Family
+  Health Division program that the hackers may have accessed personal data. The government
+  of Ramsey County learned about the potential breach on December 2, 2020, when Netagin
+  let them know of the attack and the impact it could have. "Netgain determined that
+  the ransomware incident affected data within an application used by Ramsey County’s
+  Family Health Division to document home visits" - Ramsey County Government. Third-party
+  company: Netgain.'

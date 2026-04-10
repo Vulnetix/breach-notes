@@ -1,0 +1,14 @@
+source_name: '"The NFT scammers are here"'
+source_url: https://www.theverge.com/22683766/nft-scams-theft-social-engineering-opensea-community-recovery
+date_of_breach: '2021-08-24'
+date_of_disclosure: '2021-08-24'
+category: data-leak
+notes: 'After asking for help in the OpenSea Discord channel, Nicholas was successfully
+  scammed by individuals posing as customer support. After convincing the investor
+  to share his screen, allowing scammers to view his private key, they transferred
+  all of his NFTs, worth almost $500,000, from his wallet in transactions that can''t
+  be reversed. Earlier that year, Nicholas had appeared as a guest on a podcast episode
+  titled "How NFTs Will Change Everything".
+
+
+  Total loss estimated at $480,000.'

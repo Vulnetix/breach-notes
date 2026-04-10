@@ -1,0 +1,24 @@
+source_name: 2,000 providers, including barristers, solicitor firms, and non-profit
+  organizations Third-Party Breach (May 2025)
+source_url: https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/
+date_of_breach: 2025-05-01
+date_of_disclosure: '2025-05-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Legal Aid Agency (LAA)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'UK Legal Aid Agency investigates cybersecurity incident. The Legal Aid Agency
+  (LAA), an executive agency of the UK''s Ministry of Justice that oversees billions
+  in legal funding, warned law firms of a security incident and said the attackers
+  might have accessed financial information. Approximately 2,000 providers, including
+  barristers, solicitor firms, and non-profit organizations, deliver civil and criminal
+  legal aid services in England and Wales under contracts with the LAA. The agency
+  employs around 1,250 staff and runs the country''s Public Defender Service. In a
+  letter sent to law firms, the agency said it cannot confirm if any data was accessed.
+  Still, it acknowledged the risk that legal aid providers'' payment information might
+  have been compromised, as Sky News first reported. Third-party company: Legal Aid
+  Agency (LAA).'

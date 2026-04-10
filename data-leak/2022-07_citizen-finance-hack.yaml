@@ -1,0 +1,18 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1546685214830694405
+date_of_breach: '2022-07-11'
+date_of_disclosure: '2022-07-11'
+category: data-leak
+notes: 'Citizen Finance, a multichain platform that has something to do with NFTs
+  and blockchain gaming, claimed to have suffered an attack by an outside party who
+  obtained access to a private key for the BNB and Polygon chains. The attacker then
+  used their access to transfer 244 BNB (~$55,000), 57,637 MATIC (~$32,300), and 7,000
+  USDC for a total windfall of around $94,300. The theft also caused the value of
+  the CIFI token to plummet more than 50%.As with many of these attacks, it''s not
+  immediately clear if there was truly an outside party who gained unauthorized access,
+  or if the "attack" was actually a rug pull or an inside job. The project tweeted
+  on July 16 that they were "continu[ing] to investigate" and had hired outside security
+  firms to try to help them identify the hacker and recoup lost funds.
+
+
+  Total loss estimated at $94,300.'

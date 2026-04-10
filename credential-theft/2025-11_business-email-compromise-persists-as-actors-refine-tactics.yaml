@@ -1,0 +1,18 @@
+source_name: Business Email Compromise Persists as Actors Refine Tactics (DataBreachToday)
+source_url: https://www.databreachtoday.com/business-email-compromise-persists-as-actors-refine-tactics-a-30020
+date_of_breach: '2025-11-17'
+date_of_disclosure: '2025-11-17'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'BEC is still one of the most active and costly forms of cybercrime. Using
+  phishing and social engineering, threat actors abuse employee''s trust as an entry
+  point.
+
+
+  Source: DataBreachToday article coverage.'

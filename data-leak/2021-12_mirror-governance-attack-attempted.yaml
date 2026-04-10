@@ -1,0 +1,13 @@
+source_name: Terra's Mirror protocol warns community against governance attack
+source_url: https://cointelegraph.com/news/terra-s-mirror-protocol-warns-community-against-governance-attack
+date_of_breach: '2021-12-24'
+date_of_disclosure: '2021-12-24'
+category: data-leak
+notes: 'A scammer created a public poll on Mirror''s official website, proposing to
+  "Freeze the community pool in case of scam". However, if the poll passed, it would
+  send 25 MIR to the poll creator. Because of the design of the poll system, Mirror
+  can''t remove the poll, and so has attempted to inform its community of the potential
+  scam by creating a different poll, as well as tweeting about it. The governance
+  platform shows a slew of polls, including, "Alert: Poll 211 is SCAM -- sending 25,000,000
+  MIR to itself", "Vote NO on fraudulent pools #185, ..., #208", "VOTE NO ON POLL
+  185 IT IS A SCAM", and "poll 205 is right ! vote yes !"'

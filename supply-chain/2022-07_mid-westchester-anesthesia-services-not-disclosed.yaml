@@ -1,0 +1,21 @@
+source_name: Mid-Westchester Anesthesia Services Third-Party Breach (July 2022)
+source_url: https://www.hipaajournal.com/anesthesia-and-eye-care-providers-announce-third-party-data-breaches/
+date_of_breach: 2022-07-01
+date_of_disclosure: '2022-11-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Anesthesia, Eye Care, and Telehealth Providers Announce Third-Party Data Breaches.
+  Several more providers of anesthesia services have confirmed they have been affected
+  by a data breach at their management services organization (MSO). Several providers
+  of anesthesia services have confirmed they have been affected by a breach at their
+  management services organization, the Eye Care Leaders data breach total grows to
+  410,842 records, and a telehealth provider announces a 3-year breach. The breach
+  was detected by the MSO on July 11, 2022, with the forensic investigation determining
+  information stored on its systems had been compromised. The affected companies were
+  notified about the breach on September 22, 2022.

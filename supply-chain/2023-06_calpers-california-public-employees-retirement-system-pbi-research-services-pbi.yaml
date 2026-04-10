@@ -1,0 +1,25 @@
+source_name: CalPERS (California Public Employees' Retirement System) Third-Party
+  Breach (June 2023)
+source_url: https://www.jdsupra.com/legalnews/genworth-financial-confirms-2-5-million-4854918/
+date_of_breach: 2023-06-01
+date_of_disclosure: 2023-06-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PBI Research Services (PBI)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Genworth Financial Confirms 2.5 Million Customers Affected by MOVEit Data
+  Breach | JD Supra. On June 22, 2023, Genworth Financial, Inc. filed documents with
+  the Securities and Exchange Commission disclosing a data breach. Evidently, Genworth.
+  If you received a data breach notification from Genworth Financial, it is essential
+  you understand what is at risk and what you can do about it. It is also possible
+  that you will receive a data breach letter from Progress Software, LLC, as that
+  is the company responsible for creating the MOVEit software. In either case, it
+  is imperative that you take any data breach letter you receive seriously. To learn
+  more about how to protect yourself from becoming a victim of fraud or identity theft
+  and what your legal options are in the wake of the Genworth Financial data breach,
+  please see our recent piece on the topic here. Third-party company: PBI Research
+  Services (PBI).'

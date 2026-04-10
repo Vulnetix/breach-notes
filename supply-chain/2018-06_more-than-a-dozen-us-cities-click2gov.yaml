@@ -1,0 +1,25 @@
+source_name: StateScoop / Dark Reading / Gemini Advisory
+source_url: https://statescoop.com/a-year-later-cities-using-click2gov-are-still-getting-hacked/
+date_of_breach: '2017-10-01'
+date_of_disclosure: '2018-06-01'
+date_of_customer_notification: '2018-07-01'
+category: supply-chain
+initial_attack_vector: Exploitation of Oracle WebLogic vulnerabilities (CVE-2017-3248, CVE-2017-3506, CVE-2017-10271) to upload web shell and enable payment card logging
+cve:
+  - CVE-2017-3248
+  - CVE-2017-3506
+  - CVE-2017-10271
+vendor_product: Click2Gov (Superion / CentralSquare Technologies)
+software_package: Oracle WebLogic
+malware: SJavaWebManage web shell
+supply_chain_claimed: true
+notes: >-
+  Between late 2017 and late 2018, at least 46 US cities were compromised through vulnerabilities in Click2Gov, a self-service bill payment portal used by municipalities for utility payments, parking tickets, and community development fees. The platform was published by Superion (later merged into CentralSquare Technologies in late 2018). The breaches resulted in approximately 294,929 compromised payment card records, with stolen data selling for an estimated $1.9 million on dark web marketplaces.
+
+  The attack chain, attributed by FireEye researchers to a previously unknown threat group, began with exploitation of Oracle WebLogic application server vulnerabilities (CVE-2017-3248, CVE-2017-3506, and CVE-2017-10271) that allowed attackers to upload arbitrary files to Click2Gov web servers. The attackers deployed an SJavaWebManage web shell to establish persistent command-and-control access. Through the web shell, they modified Click2Gov configuration files to enable debug mode, which caused the application to write payment card information -- including cardholder names, card numbers, expiration dates, and CVV codes -- to plaintext log files that the attackers subsequently exfiltrated.
+
+  Affected cities included Goodyear (Arizona), Thousand Oaks (California), Fond du Lac (Wisconsin), Beaumont (Texas), Medford (Oregon), St. Petersburg (Florida), and dozens more. Superion issued patches and notified affected municipalities, but many cities were slow to apply updates. Medford, Oregon shut down its Click2Gov payment server in June 2018 after discovering the breach. St. Petersburg disclosed that payments made between August 11 and September 25, 2018 were compromised.
+
+  A second wave of Click2Gov breaches hit eight additional US cities in 2019, even after CentralSquare had issued patches, indicating that some municipalities had still not updated their systems. Several class action lawsuits were filed against CentralSquare. The incident underscored the risks of municipalities relying on shared software platforms with known unpatched vulnerabilities and the challenges of coordinating security updates across decentralized local government IT infrastructure.
+
+  Primary sources: https://statescoop.com/a-year-later-cities-using-click2gov-are-still-getting-hacked/ and https://www.darkreading.com/cloud-security/click2gov-breaches-attributed-to-weblogic-application-flaw

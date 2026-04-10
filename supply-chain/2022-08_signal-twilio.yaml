@@ -1,0 +1,19 @@
+source_name: Signal Third-Party Breach (August 2022)
+source_url: https://www.bleepingcomputer.com/news/security/twilio-hack-exposed-signal-phone-numbers-of-1-900-users/
+date_of_breach: 2022-08-01
+date_of_disclosure: '2022-08-15'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Twilio
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Twilio hack exposed Signal phone numbers of 1,900 users. Phone numbers of
+  close to 1,900 Signal users were exposed in the data breach Twilio cloud communications
+  company suffered at the beginning of the month. Twilio provides phone number verification
+  services for Signal and last week disclosed that an attacker hacked its network
+  on August 4. The communications company confirmed that data belonging to 125 of
+  its customers was exposed after the hackers gained access to Twilio employee accounts
+  by sending them text messages with malicious links. Third-party company: Twilio.'

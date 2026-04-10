@@ -1,0 +1,16 @@
+source_name: Tweet thread by DexibleApp
+source_url: https://twitter.com/DexibleApp/status/1626575966003757056
+date_of_breach: '2023-02-17'
+date_of_disclosure: '2023-02-17'
+category: data-leak
+notes: 'Decentralized exchange aggregator Dexible disclosed that they had suffered
+  an exploit of one of their smart contracts, which allowed an attacker to steal funds
+  from customer wallets. The exploit impacted 17 traders, most notably the investment
+  firm BlockTower Capital. BlockTower suffered the largest loss, with the attacker
+  stealing 18 million TrueFi tokens, notionally worth around $1.5 million.The attacker
+  was able to swap their tokens for 931 ETH ($1.57 million), which they  then laundered
+  through Tornado Cash."There''s no excuse for an exploit, but these things happen,"
+  the project wrote on Twitter.
+
+
+  Total loss estimated at $1,600,000.'

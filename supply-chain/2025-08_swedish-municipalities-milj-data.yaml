@@ -1,0 +1,20 @@
+source_name: Swedish Municipalities Third-Party Breach (August 2025)
+source_url: https://therecord.media/sweden-municipalities-ransomware-software
+date_of_breach: 2025-08-01
+date_of_disclosure: '2025-08-27'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: MiljÃ¶data
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Hundreds of Swedish municipalities impacted by suspected ransomware attack
+  on IT supplier. A suspected ransomware attack on a Swedish software provider is
+  believed to have impacted around 200 of the country’s municipal governments. A suspected
+  ransomware attack on Miljödata, a Swedish software provider used for managing sick
+  leave and similar HR reports, is believed to have impacted around 200 of the country’s
+  municipal governments. The attack was detected on Saturday, according to the company’s
+  chief executive Erik Hallén. The attackers are attempting to extort Miljödata, police
+  told local newspaper BLT. Third-party company: MiljÃ¶data.'

@@ -1,0 +1,19 @@
+source_name: Durham Regional Government Third-Party Breach (October 2021)
+source_url: https://toronto.ctvnews.ca/hackers-leak-police-takedown-video-medical-records-in-durham-region-breach-ctv-news-toronto-investigation-1.5629862
+date_of_breach: 2021-10-01
+date_of_disclosure: '2021-10-19'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Hackers leak police takedown video, medical records in Durham Region breach:
+  CTV News Toronto investigation. A CTV News Toronto investigation has discovered
+  that a data breach at the Durham Regional government is much larger than already
+  known, including medical reports, complaints about medical treatment, and potential
+  evidence in a criminal case. The Shopping Trends team is independent of the journalists
+  at CTV News. We may earn a commission when you use our links to shop. Read about
+  us.'

@@ -1,0 +1,14 @@
+source_name: '"Hacker steals $55 million from bZx DeFi platform"'
+source_url: https://therecord.media/hacker-steals-55-million-from-bzx-defi-platform/
+date_of_breach: '2021-11-05'
+date_of_disclosure: '2021-11-05'
+category: data-leak
+notes: 'An attacker fooled a developer of the bZx decentralized finance platform into
+  opening a Word document with a malicious macro, which ran a script that gave the
+  attackers access to the developer''s crypto wallet private keys. They were able
+  to gain access not only the developer''s personal wallet keys, but to two keys to
+  bZx wallets. The attacker made off with approximately $55 million. bZx subsequently
+  tried to offer the attacker a bounty to return the funds, though they were not successful.
+
+
+  Total loss estimated at $55,000,000.'

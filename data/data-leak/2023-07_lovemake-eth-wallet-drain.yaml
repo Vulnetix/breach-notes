@@ -1,0 +1,25 @@
+source_name: Tweet thread by LoveMake.eth
+source_url: https://twitter.com/g13m/status/1675944577956474886
+date_of_breach: '2023-07-03'
+date_of_disclosure: '2023-07-03'
+category: data-leak
+notes: 'Crypto personality LoveMake.eth wrote a Twitter thread about how they fell
+  victim to a phishing scam in which an account appearing to belong to the cofounder
+  of the popular Doodles NFT project advertised a fake project in the replies to a
+  thread by a real cofounder. The Twitter account appeared to be Doodles'' cofounder
+  burnttoast, but the handle was actually burntteoast. LoveMake connected their primary
+  wallet, which was immediately drained of 61.5 ETH (~$120,000) and $93,400 in the
+  Tether stablecoin.LoveMake wrote on Twitter that "I am dyslexic and didn''t notice
+  that the Burnt Toast acc was scam. It was very similar to the original &amp; Verified."
+  They appeared to blame Twitter''s new verification process, writing, "@Twittersupport
+  can you explain the meaning of the word ''verified''? we''re waiting for days every
+  time we change pfp or display name and then I got scammed by verified account with
+  exact the same name and pfp as Doodles founder in million views thread?"Several
+  days later, they posted a thread again criticizing the prevalence of crypto scammers
+  on Twitter. "I put millions $ into web3 projects, with over 90k$ into Twitter ads.
+  I was rugged many times and finally robbed but not broken. Thanks to twitter the
+  most profitable web3 activity now is a scam. Shouldn''t Twitter pay more attention
+  to its own security?"
+
+
+  Total loss estimated at $213,000.'

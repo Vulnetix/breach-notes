@@ -1,0 +1,17 @@
+source_name: Cross-Border Phishing Attacks Spreads Across Asia (DataBreachToday)
+source_url: https://www.databreachtoday.com/cross-border-phishing-attacks-spreads-across-asia-a-29758
+date_of_breach: '2025-10-17'
+date_of_disclosure: '2025-10-17'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Seemingly unrelated attacks targeting Chinese-speakers throughout the Asia-Pacific
+  region with a remote access trojan trace back to the same threat actor, says
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,41 @@
+source_name: CNN Business
+source_url: https://money.cnn.com/2018/04/06/technology/best-buy-hack-data-breach/index.html
+date_of_breach: '2017-09-27'
+date_of_disclosure: '2018-04-04'
+date_of_customer_notification: '2018-04-04'
+category: supply-chain
+initial_attack_vector: Malicious code injection into [24]7.ai online customer service chat widget
+cve: []
+vendor_product: '[24]7.ai'
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  Between September 27 and October 12, 2017, an unauthorized third party gained access to
+  [24]7.ai's online customer service chat platform and injected malicious code designed to
+  capture payment card information from customers interacting with the chat widget on client
+  websites. [24]7.ai, a San Jose-based artificial intelligence and customer engagement
+  company, provided online chat services to numerous major corporations including Delta Air
+  Lines, Sears Holdings (including Kmart), and Best Buy.
+
+  The breach was not disclosed to affected clients until approximately six months later. Delta
+  reported it was first notified by [24]7.ai on March 28, 2018, and publicly disclosed the
+  breach on April 4, 2018. Best Buy followed with its own disclosure on April 5, 2018. Sears
+  Holdings confirmed approximately 100,000 customers had their payment card details
+  compromised. Delta estimated several hundred thousand customers may have been affected.
+  Best Buy stated that a small fraction of its online customers may have had payment
+  information compromised.
+
+  The compromised data included customer names, addresses, payment card numbers, CVV security
+  codes, and card expiration dates -- essentially all information needed for card-not-present
+  fraud. The attack targeted the JavaScript code running in customers' browsers during
+  checkout and chat interactions, similar to Magecart-style web skimming attacks that became
+  increasingly prevalent during this period.
+
+  The incident triggered class-action lawsuits against both [24]7.ai and its affected clients.
+  The six-to-seven-month delay between the breach occurring and clients being notified became
+  a central point of criticism, as customers continued to use affected websites for months
+  without knowledge of the compromise. The breach demonstrated how a single third-party
+  vendor compromise could cascade across multiple major brands simultaneously, with the
+  affected companies having limited visibility into the security of JavaScript code running
+  on their sites from vendor-supplied widgets.

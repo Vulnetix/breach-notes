@@ -1,0 +1,17 @@
+source_name: EyeMed Agrees to Pay $5M to Settle Email Breach Litigation (DataBreachToday)
+source_url: https://www.databreachtoday.com/eyemed-agrees-to-pay-5m-to-settle-email-breach-litigation-a-29659
+date_of_breach: '2025-10-06'
+date_of_disclosure: '2025-10-06'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Benefits provider EyeMed Vision Care has agreed to pay $5 million and improve
+  its security practices to settle class action litigation involving a 2020 phishing
+
+
+  Source: DataBreachToday article coverage.'

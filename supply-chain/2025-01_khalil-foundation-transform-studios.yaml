@@ -1,0 +1,19 @@
+source_name: Khalil Foundation Third-Party Breach (January 2025)
+source_url: https://www.hipaajournal.com/billing-support-vendor-notifies-360k-patients-about-december-2023-data-breach/
+date_of_breach: 2025-01-01
+date_of_disclosure: '2025-01-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Transform Studios
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Billing Support Vendor Notifies 701K Patients About December 2023 Data Breach.
+  Medusind, a Florida-based revenue cycle management vendor and practice management
+  software provider, has recently started notifying individuals about a Medusind has
+  notified 360,934 individuals that their protected health information was compromised
+  in a December 2023 security incident. Data breaches have also recently been reported
+  by Indiana University Health, Mid-Ohio Psychological Services, and Khalil Foundation
+  (Khalil Center). Third-party company: Transform Studios.'

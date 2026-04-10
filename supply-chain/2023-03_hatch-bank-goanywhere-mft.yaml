@@ -1,0 +1,45 @@
+source_name: Hatch Bank GoAnywhere MFT Breach (Cl0p, CVE-2023-0669)
+source_url: "https://techcrunch.com/2023/03/02/hatch-bank-breach-fortra-goanywhere-exploit/"
+date_of_breach: 2023-01-30
+date_of_disclosure: 2023-03-02
+date_of_customer_notification: 2023-03-02
+category: supply-chain
+initial_attack_vector: |-
+  Cl0p exploited CVE-2023-0669, a pre-authentication remote code injection vulnerability in
+  Fortra's GoAnywhere MFT administrative interface, to access Hatch Bank's file transfer
+  environment on January 30–31, 2023 and steal customer names and Social Security numbers
+cve:
+  - CVE-2023-0669
+vendor_product: Fortra GoAnywhere Managed File Transfer (MFT)
+software_package: ""
+malware: Cl0p
+supply_chain_claimed: true
+notes: |-
+  Hatch Bank, a fintech-focused bank-as-a-service provider headquartered in San Francisco, was
+  an early confirmed victim of the Cl0p ransomware group's mass exploitation of CVE-2023-0669 in
+  Fortra's GoAnywhere MFT platform.
+
+  Fortra notified Hatch Bank of the security incident on February 3, 2023. Unauthorized access to
+  files stored on Fortra's GoAnywhere service occurred between January 30 and January 31, 2023 —
+  the same two-day window as the Community Health Systems breach and others in Cl0p's ~130-victim
+  GoAnywhere campaign.
+
+  Approximately 139,493 customers had their names and Social Security numbers stolen. The breach
+  notification filed with the Maine Attorney General noted 630 Maine residents among the affected
+  population. Because the stolen data was limited to names and SSNs (no financial account numbers
+  or payment card data), the incident is classified as a PII/identity theft risk rather than a
+  direct financial fraud event, though the combination is sufficient for identity theft.
+
+  Hatch Bank offered 12 months of complimentary credit monitoring services to affected individuals.
+  The bank filed breach notifications with relevant state attorneys general and notified customers
+  in early March 2023.
+
+  CVE-2023-0669 is a pre-authentication command injection flaw in GoAnywhere MFT's administrative
+  console scored CVSS 7.2. Fortra quietly issued a private advisory on January 30, 2023, and
+  released patch version 7.1.2 on February 7. Security researchers at Censys and others identified
+  hundreds of internet-exposed GoAnywhere instances during the campaign window.
+
+  The GoAnywhere exploitation campaign by Cl0p — stealing data from over 130 organizations in
+  roughly ten days without deploying file-encrypting ransomware — was a pivotal demonstration of
+  the group's shift to pure data extortion via MFT platform zero-days. The same playbook was
+  applied at much larger scale against MOVEit Transfer in May 2023.

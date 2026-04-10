@@ -1,0 +1,24 @@
+source_name: U.S. Customs and Border Protection via Perceptics Subcontractor Breach
+source_url: https://cyberscoop.com/perceptics-cbp-suspends-contractor/
+date_of_breach: '2019-05-01'
+date_of_disclosure: '2019-06-10'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Unauthorized data transfer to subcontractor network followed by ransomware attack on subcontractor
+cve: []
+vendor_product: Perceptics LLC
+software_package: ''
+malware: ransomware (unnamed, targeted subcontractor network)
+supply_chain_claimed: true
+notes: |
+  In May–June 2019, U.S. Customs and Border Protection (CBP) experienced a major privacy and cybersecurity incident involving the unauthorized exposure of traveler facial recognition images and license plate photographs — data collected as part of a biometric entry/exit pilot program. The incident stemmed from actions by a CBP subcontractor, Perceptics LLC, a Tennessee-based license plate recognition technology vendor.
+
+  The breach originated from two converging failures. First, Perceptics transferred copies of CBP's biometric data — including images of travelers and their vehicles — from CBP's systems to Perceptics' own company network without CBP's authorization or knowledge. This unauthorized data transfer occurred between approximately August 2018 and January 2019, as part of Perceptics' operation of the Vehicle Face System pilot at a border crossing in Anzalduas, Texas. CBP had required that biometric data remain on its own networks and never be transferred to the subcontractor.
+
+  Second, Perceptics' own network was subsequently subjected to a ransomware attack or malicious cyber intrusion, during which the stolen CBP data was exfiltrated. Approximately 184,000 traveler images from CBP's facial recognition pilot were compromised in total; at least 19 images were confirmed posted to the dark web by the attackers, along with license plate data for approximately 50,000 vehicles.
+
+  CBP publicly disclosed the breach on June 10, 2019, following reporting by The Register and other outlets. CBP confirmed that no passport or other travel document images were compromised, and that data was not taken from CBP's own federal systems — only from the contractor's network where it should not have been stored. CBP suspended Perceptics from future government contracts in June 2019, though the suspension was lifted in September 2019.
+
+  The DHS Office of Inspector General published a formal review in September 2020 (OIG-20-71) concluding that CBP had "not adequately safeguarded" the sensitive biometric data during the pilot and failed to ensure contractual data handling requirements were enforced. The OIG found CBP was ultimately responsible for the breach despite the contractor being the proximate cause.
+
+  The incident raised significant congressional and civil liberties concern about the expansion of facial recognition at U.S. borders and the security practices surrounding biometric data collection, prompting multiple House oversight inquiries into CBP's biometric programs.

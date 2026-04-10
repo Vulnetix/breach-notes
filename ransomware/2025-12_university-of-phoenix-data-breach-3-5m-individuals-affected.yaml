@@ -1,0 +1,17 @@
+source_name: 'University of Phoenix Data Breach: 3.5M Individuals Affected (DataBreachToday)'
+source_url: https://www.databreachtoday.com/university-phoenix-data-breach-35m-individuals-affected-a-30378
+date_of_breach: '2025-12-23'
+date_of_disclosure: '2025-12-23'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The University of Phoenix is notifying 3.5 million individuals that their
+  personal information was compromised in a data breach. The theft traces to the Clop
+
+
+  Source: DataBreachToday article coverage.'

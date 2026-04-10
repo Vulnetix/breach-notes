@@ -1,0 +1,13 @@
+source_name: "Johnson Controls International Ransomware — 27TB Data, $27M Impact, Physical Security Plans"
+source_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000833081&type=8-K&dateb=&owner=include&count=10"
+date_of_breach: "2023-09-25"
+date_of_disclosure: "2023-09-27"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Dark Angels ransomware group gained access to Johnson Controls' internal network via a compromised subsidiary (Asia-Pacific offices); established persistent access and exfiltrated approximately 27TB of data before deploying ransomware"
+cve: []
+vendor_product: "Johnson Controls International plc IT infrastructure"
+software_package: ""
+malware: "Dark Angels ransomware"
+supply_chain_claimed: false
+notes: "On 25 September 2023, Johnson Controls International — a global conglomerate manufacturing building automation systems, HVAC systems, fire safety systems, and physical security products — suffered a major ransomware attack by the Dark Angels (Dunghill Leak) group. The attack began in the Asia-Pacific region and spread to the company's global infrastructure. Johnson Controls is significant from a national security perspective: the company designs and manufactures building management systems and physical security systems for critical infrastructure including US Department of Homeland Security facilities, US military bases, government buildings, and hospitals. The DHS warned internally that the breach may have exposed sensitive DHS floor plans and physical security information stored in Johnson Controls' systems. Dark Angels demanded $51 million in ransom, claiming to have stolen 27 terabytes of Johnson Controls' data including proprietary technical information. Johnson Controls disclosed the breach via SEC filing on 27 September 2023, noting it was investigating a cybersecurity incident that resulted in disruptions to parts of its internal IT infrastructure. The company estimated total financial impact of approximately $27 million in Q4 FY2023 from remediation and business disruption. Johnson Controls subsidiaries affected included York HVAC, Climas-Equipamentos, Simplexgrinnell, and others. The incident highlighted the national security implications of attacks on critical infrastructure suppliers."

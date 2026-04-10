@@ -1,0 +1,17 @@
+source_name: YesWeHack Bug Bounty Boosts Security Collaboration (DataBreachToday)
+source_url: https://www.databreachtoday.com/yeswehack-bug-bounty-boosts-security-collaboration-a-29446
+date_of_breach: '2025-09-15'
+date_of_disclosure: '2025-09-15'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'In today''s threat landscape, as attackers grow more sophisticated, organizations
+  are finding that direct collaboration between ethical hackers and development teams
+
+
+  Source: DataBreachToday article coverage.'

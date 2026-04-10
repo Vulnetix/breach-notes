@@ -1,0 +1,17 @@
+source_name: Microsoft 365 exchange infrastructure Third-Party Breach (February 2021)
+source_url: https://threatpost.com/mimecast-certificate-microsoft-supply-chain-attack/162965/
+date_of_breach: 2021-02-01
+date_of_disclosure: '2021-01-12'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Mimecast
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Mimecast Certificate Hacked in Microsoft Email Supply-Chain Attack. A sophisticated
+  threat actor has hijacked email security connections to spy on targets. A Mimecast-issued
+  certificate used to authenticate some of the company’s products to Microsoft 365
+  Exchange Web Services has been “compromised by a sophisticated threat actor,” the
+  company has announced. Third-party company: Mimecast.'

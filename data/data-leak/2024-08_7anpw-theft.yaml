@@ -1,0 +1,14 @@
+source_name: Tweet thread by zachxbt
+source_url: https://x.com/zachxbt/status/1824047425822310580
+date_of_breach: '2024-08-07'
+date_of_disclosure: '2024-08-07'
+category: data-leak
+notes: 'According to blockchain investigator zachxbt, North Korean developers using
+  fake identities were able to steal $1.3 million from a cryptocurrency project after
+  pushing malicious code.zachxbt traced the payment addresses for roughly 21 developers
+  involved in this kind of activity, which he found had been working for at least
+  25 different cryptocurrency projects. They had earned around $375,000 over the past
+  month.
+
+
+  Total loss estimated at $1,300,000.'

@@ -1,0 +1,13 @@
+source_name: Etherscan transaction message
+source_url: https://etherscan.io/tx/0xfc453378ee7386c43f70836ded62db92b5364a4c4d2c0fe02c3aaa57c95b2241
+date_of_breach: '2022-11-06'
+date_of_disclosure: '2022-11-06'
+category: data-leak
+notes: 'The defi protocol Pando suffered a $20 million loss when it was exploited
+  with an oracle manipulation attack. The protocol suspended several of its projects
+  in response to the hack, and wrote that they hoped to negotiate with the hacker
+  to regain some of the stolen proceeds. Some of the stolen funds were able to be
+  locked, although it''s not clear if it was the total amount.
+
+
+  Total loss estimated at $20,000,000.'

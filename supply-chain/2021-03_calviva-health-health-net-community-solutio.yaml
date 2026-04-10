@@ -1,0 +1,17 @@
+source_name: Calviva Health Third-Party Breach (March 2021)
+source_url: https://thebusinessjournal.com/local-health-plan-manager-announces-data-breach/
+date_of_breach: 2021-03-01
+date_of_disclosure: '2021-03-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Health Net Community Solutions, Inc, Accellion
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Local health plan manager announces data breach. [](http://thebusinessjournal.com/local-health-plan-manager-announces-data-breach/#menu-location-primary).
+  [](https://thebusinessjournal.com/event/family-owned-business-awards/?utm_campaign=later-linkinbio-tbjfresno&utm_content=later-41578748&utm_medium=social&utm_source=linkin.bio
+  "FOBA Application - Site - LBDeluxe 4/6 - 5/1"). A data breach has compromised the
+  personal patient information of a regional Medi-Cal Managed Care system. Third-party
+  company: Health Net Community Solutions, Inc, Accellion.'

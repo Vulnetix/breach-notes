@@ -1,0 +1,24 @@
+source_name: <i>McKimmy v. OpenSea</i>
+source_url: https://www.courtlistener.com/docket/63102526/1/mckimmy-v-opensea/
+date_of_breach: '2022-02-18'
+date_of_disclosure: '2022-02-18'
+category: other
+notes: 'Businessman Timothy McKimmy is the former owner of Bored Ape #3475, an NFT
+  he purchased in December for 55 ETH (then about $232,000). In a lawsuit against
+  OpenSea, McKimmy alleged that on February 7, a "security vulnerability allowed an
+  outside party to illegally enter through OpenSea''s code and access Plaintiff''s
+  NFT wallet, in order to list and sell Plaintiff''s Bored Ape at a literal fraction
+  of the value". The Bored Ape was purchased for 0.01 ETH (about $30), then flipped
+  by the alleged thief within hours for 98.9 ETH (a bit over $300,000). McKimmy alleges
+  that OpenSea knew about the reported vulnerability, and failed in their duties to
+  him as a customer by not informing customers of the issue, or shutting down the
+  platform while it was reportedly vulnerable. The lawsuit further argues that because
+  Bored Ape #3475 has a higher "rarity score" than the one supposedly purchased by
+  Justin Bieber for 500 ETH ($1.3M) in January, the value of #3475 is "arguably in
+  the millions of dollars and growing as each day passes". The lawsuit seeks "any
+  and all damages to which [McKimmy] may be entitled, including the return of the
+  Bored Ape, damages equivalent to the valuation of the Bored Ape, and/or monetary
+  damages over $1,000,000."
+
+
+  Total loss estimated at $300,000.'

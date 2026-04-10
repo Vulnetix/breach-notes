@@ -1,0 +1,18 @@
+source_name: Complaint
+source_url: https://www.courtlistener.com/docket/69728891/1/mirashi-v-john-doe/
+date_of_breach: '2025-02-27'
+date_of_disclosure: '2025-02-27'
+category: data-leak
+notes: 'A plaintiff named Mandar Mirashi has filed a lawsuit against an unknown defendant
+  accused of stealing around $40 million in bitcoin through a sophisticated phishing
+  attack and/or device compromise. After receiving suspicious emails from or appearing
+  to be from Google, the Ledger hardware wallet manufacturer, and Apple, and after
+  observing an apparent device compromise allowing an attacker to delete his Reddit
+  account without his involvement, Mirashi moved 300 BTC from a Ledger hardware wallet,
+  believing it to be compromised. An attacker then attempted to steal the funds from
+  the hot wallet where he''d moved them, but Mirashi was able to intervene in time
+  to cancel the transaction. Mirashi moved the funds back to the Ledger, only to discover
+  the next day that around 522 BTC had been stolen from two of his Ledger wallets.
+
+
+  Total loss estimated at $40,000,000.'

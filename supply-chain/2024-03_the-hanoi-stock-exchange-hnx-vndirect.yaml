@@ -1,0 +1,21 @@
+source_name: The Hanoi Stock Exchange (HNX) Third-Party Breach (March 2024)
+source_url: https://therecord.media/vietnam-securities-broker-cyberattack-vndirect
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-27'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: VNDirect
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Cyberattack on Vietnam securities broker disrupts stock markets. VNDirect,
+  one of Vietnam''s largest brokers, is still responding to an incident that started
+  over the weekend and forced actions by the country''s stock exchanges. Vietnam''s
+  third-largest securities broker, VNDirect, is still struggling to fully restore
+  its operations after suffering a cyberattack over the weekend. The company announced
+  on Wednesday that some of its services are back online. However, according to local
+  media reports , investors still couldn’t log in to the platform. VNDirect stated
+  that it will restore access to its services in four stages, beginning with customer
+  accounts and concluding with financial products. Third-party company: VNDirect.'

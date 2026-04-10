@@ -1,0 +1,17 @@
+source_name: Ukrainian Defenders Report Rise in Russian Cyberattacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/ukrainian-defenders-report-rise-in-russian-cyberattacks-a-29621
+date_of_breach: '2025-10-02'
+date_of_disclosure: '2025-10-02'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Russia in the first half of this year markedly increased the tempo of its
+  cyberattacks targeting Ukraine, with defenders cataloging 3,000 cybersecurity incidents,
+
+
+  Source: DataBreachToday article coverage.'

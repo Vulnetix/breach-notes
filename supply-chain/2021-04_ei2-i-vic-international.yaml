@@ -1,0 +1,23 @@
+source_name: Ei2 Third-Party Breach (April 2021)
+source_url: https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/
+date_of_breach: 2021-04-01
+date_of_disclosure: '2021-04-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: I-vic International
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party security breach compromises data of Singapore job-matching service.
+  Job-matching institute e2i says the personal details of 30,000 individuals may have
+  been illegally accessed due to a malware breach that targeted an "appointed third-party
+  vendor", adding that it was notified of the incident three weeks ago on March 12.
+  Personal details of 30,000 individuals in Singapore may have been illegally accessed,
+  following a security breach that targeted a third-party vendor of job-matching organisation,
+  Employment and Employability Institute (e2i). It was notified of the incident three
+  weeks ago on March 12. It added that the relevant authorities had been notified
+  of the breach, including the police, Personal Data Protection Commission (PDPC),
+  and Cyber Security Agency''s Singapore Computer Emergency Response Team. Third-party
+  company: I-vic International.'

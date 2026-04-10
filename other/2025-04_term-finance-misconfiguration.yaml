@@ -1,0 +1,13 @@
+source_name: Tweet by Term Labs
+source_url: https://x.com/term_labs/status/1916558870497181805
+date_of_breach: '2025-04-26'
+date_of_disclosure: '2025-04-26'
+category: other
+notes: 'The Ethereum-based lending project Term Finance lost $1.6 million when an
+  oracle misconfiguration resulted in unintended liquidations. The team later announced
+  that they had "successfully negotiated [the] return" of 333 ETH (~$600,000) that
+  had been lost, and that another roughly 223 ETH (~$400,000) had been "captured internally",
+  leaving the final loss at around 362 ETH (~$650,000).
+
+
+  Total loss estimated at $600,000.'

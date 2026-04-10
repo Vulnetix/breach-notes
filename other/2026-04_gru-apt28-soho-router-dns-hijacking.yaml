@@ -1,0 +1,13 @@
+source_name: "GRU APT28 SOHO Router DNS Hijacking Campaign — Cloud Activity Espionage"
+source_url: "https://www.databreachtoday.com/russian-hackers-hit-soho-routers-in-cyberespionage-campaign-a-31354"
+date_of_breach: "2026-01-01"
+date_of_disclosure: "2026-04-07"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "GRU-linked APT28 (Fancy Bear) threat actors compromised SOHO (Small Office/Home Office) routers by exploiting default credentials, unpatched firmware vulnerabilities, or known CVEs in popular router models; once compromised, attackers modified the routers' DNS resolver settings to redirect DNS queries through attacker-controlled infrastructure, enabling passive interception of cloud service authentication traffic for high-value targets"
+cve: []
+vendor_product: "SOHO routers (multiple vendors including TP-Link, ASUS, Netgear, D-Link) used by target organisations"
+software_package: ""
+malware: "MooBot (Mirai variant), custom DNS hijacking tools"
+supply_chain_claimed: false
+notes: "In early 2026, security researchers and government agencies disclosed a new cyberespionage campaign by hackers tied to Russia's GRU military intelligence agency (Fancy Bear / APT28 / Unit 26165) that targeted SOHO routers to conduct DNS hijacking for cloud activity surveillance. The attackers compromised internet-facing SOHO routers at the homes and small offices of high-value targets — including government officials, defence contractors, foreign policy researchers, and technology executives — by exploiting common router vulnerabilities or default credentials. Once a router was compromised, attackers modified its DNS resolver settings to redirect DNS lookups through GRU-controlled infrastructure. This technique, known as DNS hijacking or DNS poisoning at the router level, allowed the attackers to observe targets' DNS queries in real time — revealing which cloud services they accessed, at what times, and from what IP addresses. In some cases, the DNS hijacking was combined with SSL certificate monitoring to further map targets' cloud service usage patterns. The campaign is an evolution of earlier GRU router botnet operations documented by the FBI in February 2024, when GRU used Ubiquiti EdgeRouters running MooBot to establish covert proxy infrastructure. The 2026 campaign focuses specifically on DNS-layer espionage rather than using routers purely as relay infrastructure. The FBI, CISA, and NSA issued a joint advisory and released indicators of compromise. Victims were concentrated in Europe, North America, and Ukraine. Mitigation steps included router firmware updates, disabling remote management, changing default credentials, and using encrypted DNS (DoH/DoT)."

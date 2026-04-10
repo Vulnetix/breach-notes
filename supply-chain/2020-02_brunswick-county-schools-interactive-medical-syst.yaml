@@ -1,0 +1,21 @@
+source_name: Brunswick County Schools Third-Party Breach (February 2020)
+source_url: https://www.wwaytv3.com/2020/02/28/data-breach-potentially-impacts-hundreds-of-brunswick-county-schools-employees/
+date_of_breach: 2020-02-01
+date_of_disclosure: '2020-02-28'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Interactive Medical Systems Corporation
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Data breach potentially impacts hundreds of Brunswick County Schools employees
+  - WWAYTV3. The company that administers the Flexible Spending Account plans for
+  Brunswick County Schools had a data breach, which means hundreds of school employees
+  may be affected. BRUNSWICK COUNTY, NC (WWAY) — The company that administers the
+  Flexible Spending Account plans for Brunswick County Schools had a data breach,
+  which means hundreds of school employees may be affected. Interactive Medical Systems
+  Corporation is the third-party company that administers the employee benefit plan.
+  The company noticed an IMS employee’s email account was the victim of a phishing
+  attack on December 31. Third-party company: Interactive Medical Systems Corporation.'

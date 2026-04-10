@@ -1,0 +1,25 @@
+source_name: '"Someone borrowed 5 Bored Apes to claim $1.1 million of APE tokens"'
+source_url: https://www.theblockcrypto.com/post/138410/someone-borrowed-5-bored-apes-to-claim-1-1-million-of-ape-tokens
+date_of_breach: '2022-03-18'
+date_of_disclosure: '2022-03-18'
+category: data-leak
+notes: 'The Bored Ape Yacht Club recently created a token called ApeCoin, some of
+  which they announced would be distributed to people who owned various Bored Ape
+  NFTs and NFTs from their related collections. However, because the token distribution
+  didn''t use a snapshot of ownership data, but rather distributed tokens per-NFT
+  to the first owner who claimed them, people were able to game the system. Some owners
+  of Bored Ape and related NFTs had put their NFTs into an NFTX vault, which is a
+  setup where someone takes a subset of their NFTs and creates a token that is based
+  on them. The token can then be staked to generate yield, or can be sold, and if
+  someone owns enough of the tokens, they can redeem them for the NFTs. A clever operator
+  found a vault containing five Bored Ape NFTs, which had unclaimed $APE associated
+  with them since they were locked up in the vault. They used a flash loan to purchase
+  a large amount of the vault''s token, redeem the five BAYC NFTs, claim the airdropped
+  tokens, return the BAYC NFTs, sell back the tokens, and repay the loan, all in one
+  transaction that cost them nothing but netted them 60,564 $APE, which they then
+  swapped for 399 ETH ($1.1 million).People were somewhat split on whether this could
+  be classed as a vulnerability in the $APE airdrop, since (as with many crypto hacks
+  and scams) the person was operating completely within the rules set out in code.
+
+
+  Total loss estimated at $1,100,000.'

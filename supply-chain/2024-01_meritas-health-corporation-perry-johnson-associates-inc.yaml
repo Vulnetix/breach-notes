@@ -1,0 +1,13 @@
+source_name: Meritas Health Corporation Third-Party Breach (January 2024)
+source_url: https://resources.blackkite.com/data-breaches-caused-by-third-parties/
+date_of_breach: 2024-01-01
+date_of_disclosure: 2024-01-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Perry Johnson & Associates, Inc., (PJ&A)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party company: Perry Johnson & Associates, Inc., (PJ&A).'

@@ -1,0 +1,18 @@
+source_name: Lawsuits, Investigations Piling Up in Conduent Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/lawsuits-investigations-piling-up-in-conduent-hack-a-29929
+date_of_breach: '2025-11-04'
+date_of_disclosure: '2025-11-04'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Proposed federal class action litigation and various investigations are piling
+  up against Conduent Business Solutions following its recent public disclosure that
+  an
+
+
+  Source: DataBreachToday article coverage.'

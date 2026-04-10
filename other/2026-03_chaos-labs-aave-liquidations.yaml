@@ -1,0 +1,16 @@
+source_name: '"Oracle error adds to turmoil at DeFi giant Aave"'
+source_url: https://protos.com/oracle-error-adds-to-turmoil-at-defi-giant-aave/
+date_of_breach: '2026-03-10'
+date_of_disclosure: '2026-03-10'
+category: other
+notes: 'Users of the Aave defi lending protocol who had borrowed from the wstETH/stETH
+  pool suffered erroneous liquidations when a price oracle from Chaos Labs reported
+  an inaccurately low price ratio between the two assets. The oracle bug caused some
+  loans to report that they were below the required "health factor" (the ratio between
+  the assets loaned and the amount of collateral provided by the borrower), triggering
+  forcible liquidations across the platform amounting to $26.9 million.Chaos Labs,
+  presumably embarrassed to have lived up to its name, promised to reimburse users
+  whose positions were improperly liquidated.
+
+
+  Total loss estimated at $26,900,000.'

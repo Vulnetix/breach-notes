@@ -1,0 +1,13 @@
+source_name: "Machine-Speed Cyberattacks — AI-Automated Attack Chains Outpace Human Defence"
+source_url: "https://www.darktrace.com/blog/machine-speed-attacks-2025/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2026-03-31"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "AI and automation enable attackers to execute complete attack chains — from initial access through lateral movement, privilege escalation, data exfiltration, and ransomware deployment — faster than human security operations teams can detect and respond; AI-driven tools exploit vulnerabilities and pivot across networks without requiring human attacker intervention at each step"
+cve: []
+vendor_product: "Enterprise networks globally across all sectors"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "By 2025-2026, documented case studies from Darktrace, CrowdStrike, Palo Alto Networks Unit 42, and Microsoft MSTIC demonstrate that the most advanced attackers are executing complete attack chains in under 10 minutes from initial access — a pace that overwhelms traditional 24-hour SOC response cycle times. Key documented examples: (1) Volt Typhoon's LOTL (living-off-the-land) techniques use legitimate tools to move laterally within minutes of initial access; (2) CrowdStrike documented a 2024 case where an eCrime actor moved from initial compromise to Active Directory domain controller access in under 3 minutes; (3) ALPHV/Scattered Spider executed MFA fatigue, VPN access, AD enumeration, and Veeam/backup access within 2 hours of initial social engineering (MGM, Change Healthcare); (4) Ransomware-as-a-service platforms provide automated post-exploitation scripts that run immediately after initial access without requiring operator intervention; (5) AI fuzzing tools can identify exploitable code paths in enterprise software within hours rather than days or weeks. Darktrace's 2025 Annual Threat Report documented a 130% increase in AI-assisted attack automation between 2023 and 2025. The structural challenge: human SOC analysts require time to triage, verify, and escalate alerts, while automated attack tools operate at speeds incompatible with human decision-making cycles. Industry response has focused on AI-driven autonomous response systems (Darktrace, Vectra, Exabeam) that can contain attacks before human confirmation — itself raising concerns about false-positive impact and autonomy in security decision-making."

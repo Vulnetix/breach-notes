@@ -1,0 +1,23 @@
+source_name: Police Departments Third-Party Breach (June 2020)
+source_url: https://krebsonsecurity.com/2020/06/blueleaks-exposes-files-from-hundreds-of-police-departments/
+date_of_breach: 2020-06-01
+date_of_disclosure: '2020-06-22'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: NetSentiel
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: '‘BlueLeaks’ Exposes Files from Hundreds of Police Departments. Hundreds of
+  thousands of potentially sensitive files from police departments across the United
+  States were leaked online last week. The collection, dubbed "BlueLeaks" and made
+  searchable via a new website by the same name, stems from a security breach at….
+  The collection — nearly 270 gigabytes in total — is the latest release from Distributed
+  Denial of Secrets (DDoSecrets), an alternative to Wikileaks that publishes caches
+  of previously secret data. In a post on Twitter , DDoSecrets said the BlueLeaks
+  archive indexes “ten years of data from over 200 police departments, fusion centers
+  and other law enforcement training and support resources,” and that “among the hundreds
+  of thousands of documents are police and FBI reports, bulletins, guides and more.”.
+  Third-party company: NetSentiel.'

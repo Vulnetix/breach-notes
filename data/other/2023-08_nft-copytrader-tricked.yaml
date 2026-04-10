@@ -1,0 +1,17 @@
+source_name: '"Nifty News: Trader nabs 800 ETH by baiting a bot, NFT thefts slow and
+  more"'
+source_url: https://cointelegraph.com/news/trader-baits-bot-july-nft-volume-drops-nifty-news
+date_of_breach: '2023-08-05'
+date_of_disclosure: '2023-08-05'
+category: other
+notes: 'After noticing someone set up a bot to copy his bids, NFT trader Hanwe Chang
+  tricked the bot into purchasing multiple NFTs at hugely inflated prices. Chang purchased
+  a large number of Azuki NFTs using an anonymous wallet, then placed an inflated
+  50 ETH (~$90,700) bid on one. The bot then came along and offered the same amount
+  on the other NFTs, and Chang accepted the overpriced bids. Altogether, Chang made
+  800 ETH (~$1.45 million) from the scheme, draining the bot of its available funds.
+  Azukis have been trading with a floor price of around 5 ETH (~$9,000).The apparent
+  operator of the bot tweeted at Chang, accusing him of theft: "We would like to discuss
+  a bounty with you. We are offering a 10% bounty of any funds stolen from our bot,
+  which are yours to keep if you return the remaining 90%." In other tweets they suggested
+  they might try to take legal action against Chang for the "theft".'

@@ -1,0 +1,17 @@
+source_name: Georgia Hospital Notifying 163,000 of 2024 Ransomware Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/georgia-hospital-notifying-163000-2024-ransomware-hack-a-29388
+date_of_breach: '2025-09-08'
+date_of_disclosure: '2025-09-08'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A public Georgia community hospital is notifying more than 163,000 individuals
+  that their sensitive health information was compromised in a June 2024 ransomware
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,13 @@
+source_name: "Nitro PDF Service Breach — 77 Million Users, 1 Million Documents"
+source_url: "https://www.bleepingcomputer.com/news/security/nitro-data-breach-exposes-documents-for-aol-google-apple-microsoft/"
+date_of_breach: "2020-10-21"
+date_of_disclosure: "2020-10-22"
+date_of_customer_notification: "2020-10-22"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to Nitro PDF's user database and document storage; Nitro PDF is a document productivity service used by major enterprises for PDF editing and e-signatures"
+cve: []
+vendor_product: "Nitro PDF cloud database and document storage"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2020, Nitro Software — the company behind Nitro PDF, a widely used PDF productivity and e-signature service — suffered a data breach that exposed data for approximately 77 million unique user accounts. The attacker attempted to sell the database on dark web markets for $80,000. The breach is notable because Nitro PDF serves approximately 10,000 business customers including major enterprises: Google, Apple, Microsoft, Chase, Citibank, and many others used Nitro for document productivity and e-signatures. The stolen data included usernames, email addresses, full names, hashed passwords (bcrypt), IP addresses, and document metadata. Security research firm Cyble acquired the database and reported its contents. More significantly, the attacker also claimed to have access to 1 million internal business documents stored on Nitro's platform, processed through Nitro's e-signature and document sharing features. If true, this would mean documents from Google, Apple, Microsoft, and major financial institutions could have been exposed. Nitro confirmed the breach but stated the breach involved only user data — not document content. The discrepancy between Nitro's statements and the attacker's claims was not fully resolved publicly. Nitro subsequently went through a merger process and was acquired. The incident highlighted risks of enterprise document management platforms that handle sensitive business documents from thousands of corporate customers simultaneously."

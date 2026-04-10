@@ -1,0 +1,18 @@
+source_name: Tweet by Skyward Finance
+source_url: https://twitter.com/skywardfinance/status/1587947957789331457
+date_of_breach: '2022-11-02'
+date_of_disclosure: '2022-11-02'
+category: data-leak
+notes: 'Skyward Finance is a project based on the NEAR blockchain, aiming to help
+  users with initial token distribution. The project''s treasury was drained of 1.1
+  million NEAR (~$3.2 million) after a hacker discovered a vulnerability in the project''s
+  smart contract. Crypto exploit research group Rekt wrote, "The fact that it took
+  over a year for anyone to find this relatively simple exploit is remarkable." and
+  questioned, "Was this incident an honest, albeit simple, mistake? Or a planned ejector
+  seat?"The project was unusually frank in their announcement, writing on Twitter
+  that the hack had "render[ed] the Treasury and the $SKYWARD token effectively worthless...
+  We recommend users to withdraw their funds safely where they can and for the community
+  to no longer interact with Skyward."
+
+
+  Total loss estimated at $3,200,000.'

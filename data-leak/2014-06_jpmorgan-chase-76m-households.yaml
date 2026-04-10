@@ -1,0 +1,13 @@
+source_name: "JPMorgan Chase Comet/JPMC Hack — 76 Million Households, 7 Million Businesses"
+source_url: "https://krebsonsecurity.com/2014/10/jpmorgan-chase-hack-affected-76-million-households/"
+date_of_breach: "2014-06-01"
+date_of_disclosure: "2014-10-02"
+date_of_customer_notification: "2014-10-02"
+category: "data-leak"
+initial_attack_vector: "Russian criminal group (linked to Bitcoin exchange operators) exploited an unpatched vulnerability on a JPMorgan Chase server — specifically a zero-day in the bank's website that was not updated to use two-factor authentication; attackers gained root privileges on more than 90 servers"
+cve: []
+vendor_product: "JPMorgan Chase internal network / customer data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between June and August 2014, a sophisticated attack attributed to a Russian cybercriminal group compromised JPMorgan Chase's internal network, gaining access to data for 76 million households and 7 million small businesses — the largest breach of a US financial institution in history. The attackers gained root-level access to over 90 servers. Contact information (names, addresses, phone numbers, email addresses) and internal JPMorgan Chase information about customers was stolen; account numbers, passwords, Social Security numbers, and dates of birth were not compromised. The attackers used an unpatched vulnerability on one of JPMorgan's websites — a server that had not been upgraded to use two-factor authentication during a routine upgrade. JPMorgan disclosed the breach on 2 October 2014 in an SEC filing. The FBI investigated and subsequently charged four individuals — including Israel-based Gery Shalon, Ziv Orenstein, Joshua Aaron, and Anthony Murgio — in connection with the JPMorgan breach and an extensive scheme involving pump-and-dump stock fraud, an illegal Bitcoin exchange, and a casino operation. The attackers used stolen data to manipulate stock prices, profiting tens of millions of dollars. Charges were filed in 2015 and guilty pleas obtained in 2015-2017. The breach prompted significant Congressional scrutiny of financial institution cybersecurity."

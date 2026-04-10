@@ -1,0 +1,17 @@
+source_name: '"Explainer: How/Why SFF has brought the Polygon Network to its'' knees,
+  and how to use Polygon during an essential DDoS
+
+  "'
+source_url: https://www.reddit.com/r/0xPolygon/comments/rwntst/explainer_howwhy_sff_has_brought_the_polygon/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+date_of_breach: '2022-01-03'
+date_of_disclosure: '2022-01-03'
+category: other
+notes: Sunflower Farm, a play-to-earn farming game on the Polygon network, contributed
+  to massive slowdowns and a spike in gas fees on the Polygon blockchain. Heavy bot
+  usage and a game design where practically every action (including saving the game,
+  using a tool, harvesting something) required a blockchain transaction flooded the
+  Polygon blockchain with more traffic than it could handle, and spiked gas fees for
+  a given transaction from around 30 gwei up to more than 1000. This event casts some
+  doubt on Polygon's claims it can handle up to 65,000 transactions per second — in
+  reality it averages about 85 transactions per second and so presumably should have
+  had a lot of wiggle room for even a pretty major increase in transactions.

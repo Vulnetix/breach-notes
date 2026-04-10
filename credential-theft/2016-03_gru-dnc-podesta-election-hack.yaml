@@ -1,0 +1,13 @@
+source_name: "Russian GRU DNC / Podesta Email Hack — 2016 US Presidential Election Interference"
+source_url: "https://www.justice.gov/file/1080281/download"
+date_of_breach: "2016-03-19"
+date_of_disclosure: "2016-06-14"
+date_of_customer_notification: ""
+category: "credential-theft"
+initial_attack_vector: "Russian GRU Unit 26165 (Fancy Bear / APT28) sent spear-phishing emails to Democratic National Committee (DNC) staff and John Podesta (Clinton campaign chairman) that harvested their Google account credentials via a fake Google security alert page; access to Podesta's Gmail was obtained after a staffer incorrectly characterised the phishing email as 'legitimate'"
+cve: []
+vendor_product: "Google Gmail (Podesta) / DNC internal network"
+software_package: ""
+malware: "X-Agent, X-Tunnel, Mimikatz, PlugX"
+supply_chain_claimed: false
+notes: "Beginning in March 2016, Russian military intelligence operatives from GRU Unit 26165 (Fancy Bear/APT28) and Unit 74455 (Sandworm) conducted a comprehensive hacking campaign against the US Democratic Party and Hillary Clinton's presidential campaign. On 19 March 2016, John Podesta (Clinton's campaign chairman) received a spear-phishing email; a campaign staffer incorrectly labelled it 'legitimate' in the remediation process, and Podesta entered his credentials on the fake Google login page. His Gmail account was compromised and 50,000+ emails were ultimately exfiltrated. The DNC network was separately compromised using malware including X-Agent (keylogger and file browser) and X-Tunnel (encrypted communications). Opposition research documents, internal communications, and thousands of emails were stolen. WikiLeaks received and published the stolen DNC emails in July 2016 and Podesta's emails in October 2016 — strategically timed around the campaign. The hack was attributed to Russian GRU by the US intelligence community in January 2017 (Intelligence Community Assessment). Special Counsel Robert Mueller indicted 12 GRU officers in July 2018. The attack fundamentally altered the 2016 presidential election and led to sweeping reforms in US election security. The operation is detailed extensively in the Mueller Report (Volume I). GRU also hacked state election systems and the Illinois voter registration database."

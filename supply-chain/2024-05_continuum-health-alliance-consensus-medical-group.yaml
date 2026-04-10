@@ -1,0 +1,23 @@
+source_name: Continuum Health Alliance Third-Party Breach (May 2024)
+source_url: https://www.hipaajournal.com/breach-continuum-health-alliance-guardant-health/
+date_of_breach: 2024-05-01
+date_of_disclosure: '2024-05-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Consensus Medical Group
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Continuum Health Alliance Data Breach Affects 377,000 Consensus Medical Group
+  Patients. Marlton, NJ-based Continuum Health Alliance has recently confirmed that
+  it has experienced a security incident that exposed the data of 377,119 patients
+  Continuum Health Alliance has reported a breach of the data of more than 377,000
+  patients of Consensus Medical Group. Guardant Health said an employee error resulted
+  in patient data being inadvertently exposed on an online platform. On February 16,
+  2024, Continuum announced on its website that it was investigating the incident.
+  The file review was completed on March 8, 2024, when it was confirmed that the exposed
+  data included patients’ names and Social Security numbers. Continuum then worked
+  to verify the information and obtain up-to-date address information, and HIPAA notification
+  letters were mailed on April 29, 2024. Third-party company: Consensus Medical Group.'

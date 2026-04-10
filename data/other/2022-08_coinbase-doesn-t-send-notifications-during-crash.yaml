@@ -1,0 +1,21 @@
+source_name: '"''It''s Potentially Illegal'': As Crypto Crashed, Coinbase Stopped
+  Some Notifications"'
+source_url: https://www.motherjones.com/politics/2022/08/its-potentially-illegal-as-crypto-crashed-coinbase-stopped-some-notifications/
+date_of_breach: '2022-08-10'
+date_of_disclosure: '2022-08-10'
+category: other
+notes: 'Mother Jones has reported that the Coinbase crypto exchange stopped sending
+  the email notifications that it had previously sent some users when the price of
+  a cryptocurrency changed noticeably. Coinbase had been trialling these price change
+  alerts in January, and some users had grown to rely on them to notify them when
+  cryptocurrency prices changed noticeably. However, the company quietly stopped sending
+  these emails sometime in February, before they were re-enabled for all users.While
+  the choice could be chalked up to the end of an A/B test, some legal experts have
+  expressed concern about the sudden and unannounced change in behavior: "It''s potentially
+  illegal... This seems straight up deceptive. They said we''ll email you price alerts
+  and then stopped doing it without saying they were [going to stop]." He also noted
+  that even if a customer didn''t sue for damages, depending on the number of users
+  who saw the alerts, "if they caused harm to people who didn''t sell crypto that
+  they would have sold, that is potentially actionable by regulators." Another expert
+  observed that a traditional brokerage firm would likely be penalized by FINRA if
+  they did something similar.'

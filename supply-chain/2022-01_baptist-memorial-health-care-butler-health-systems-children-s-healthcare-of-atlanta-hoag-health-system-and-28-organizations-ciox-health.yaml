@@ -1,0 +1,21 @@
+source_name: Ciox Health Third-Party Breach — Baptist Memorial, Children's Healthcare of Atlanta, Hoag, 28+ Health Systems
+source_url: "https://healthitsecurity.com/news/business-associate-data-breach-impacts-32-healthcare-organizations"
+date_of_breach: 2022-01-01
+date_of_disclosure: 2022-01-01
+date_of_customer_notification: 
+category: supply-chain
+initial_attack_vector: Ciox Health — a major health information management (HIM) services provider — suffered a phishing-related breach that exposed patient data across 28+ hospital and health system clients
+cve: []
+vendor_product: "Ciox Health (health information management services)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  In January 2022, Ciox Health — a major provider of health information management (HIM) services including medi
+  cal record retrieval, release-of-information (ROI), and coding services for hospitals nationwide — disclosed a
+   breach affecting multiple client health systems. Affected organizations included Baptist Memorial Health Care
+  , Butler Health Systems, Children's Healthcare of Atlanta, Hoag Health System, and 28+ other hospital systems 
+  and health plans. Ciox processes medical records for approximately 2,000 US hospitals. Exposed data included p
+  atient names, dates of birth, dates of service, provider names, and medical record numbers. HHS OCR received m
+  ultiple breach notifications from affected health systems. The Ciox breach illustrated the extreme supply chai
+  n risk of HIM services vendors that hold PHI from hundreds of hospital clients simultaneously.

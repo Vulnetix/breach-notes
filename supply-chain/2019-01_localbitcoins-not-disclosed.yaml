@@ -1,0 +1,18 @@
+source_name: LocalBitcoins Third-Party Breach (January 2019)
+source_url: https://www.zdnet.com/article/localbitcoins-blames-security-breach-on-forum-third-party-software/
+date_of_breach: 2019-01-01
+date_of_disclosure: '2019-01-27'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: LocalBitcoins blames security breach on forum 'third-party software'. Hackers
+  appears to have stolen $28,200 from users' accounts after phishing login credentials
+  and 2FA one-time codes. LocalBitcoins , a peer-to-peer cryptocurrency exchange portal,
+  announced a security breach yesterday, Saturday, January 26. The breach occurred
+  at around 10:00 UTC (05:00 ET) and lasted for almost five hours before the company
+  intervened to stop the ongoing attack.

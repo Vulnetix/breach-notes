@@ -1,0 +1,13 @@
+source_name: Wegmans Third-Party Breach (September 2018)
+source_url: https://www.newyorkupstate.com/business/2018/09/wegmans_invermar_hack_lawsuit.html
+date_of_breach: 2018-09-01
+date_of_disclosure: '2018-09-07'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Invermar
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party company: Invermar.'

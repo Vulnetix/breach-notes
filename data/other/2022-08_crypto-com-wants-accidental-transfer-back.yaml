@@ -1,0 +1,18 @@
+source_name: '"Crypto.com accidentally transfered $10.5M to client instead of $100
+  refund"'
+source_url: https://cointelegraph.com/news/crypto-com-accidentally-transfered-10-5m-to-client-instead-of-100-refund
+date_of_breach: '2022-08-30'
+date_of_disclosure: '2022-08-30'
+category: other
+notes: Crypto.com somehow managed to not only send a woman AUD$10.5 million (US$7.2
+  million) in May 2021, but not notice it for months afterwards. The woman had requested
+  a $100 refund, but someone accidentally entered an account number into the refund
+  amount section and granted this woman a sudden windfall.Rather than contacting Crypto.com
+  about the error, she put the money into a joint account shared with her sister,
+  and purchased her sister a five-bedroom home with nearly US$1 million of the funds.Crypto.com
+  only discovered the error in a December 2021 audit, and sued the woman for the erroneously-sent
+  funds. She's just been ordered by the Victoria Supreme Court to sell the home and
+  return the remaining money.Unlike with many crypto transactions, erroneous transactions
+  on centralized exchanges can typically be reversed by the exchange. However, Crypto.com
+  would have had to notice the error much sooner, before the recipient transferred
+  the funds elsewhere.

@@ -1,0 +1,22 @@
+source_name: Current, former and prospective employees of its customers. Third-Party
+  Breach (February 2025)
+source_url: https://therecord.media/background-check-company-disa-data-breach
+date_of_breach: 2025-02-01
+date_of_disclosure: '2025-02-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: DISA Global Solutions
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Background check and drug testing provider DISA Global Solutions reports data
+  breach. Houston-based employee screening company DISA Global Solutions says a 2024
+  data breach exposed the information of more than 3.3 million people. The company,
+  which handles drug and alcohol testing and background checks for thousands of businesses,
+  said Monday in a filing with Maine regulators that the breach affected current,
+  former and prospective employees of its customers. DISA said it discovered the breach
+  on April 22, 2024, and traced the illicit activity back to February 9, 2024. The
+  company labeled it as “hacking” from an external source but did not provide more
+  details. Third-party company: DISA Global Solutions.'

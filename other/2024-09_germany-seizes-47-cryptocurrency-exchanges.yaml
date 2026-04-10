@@ -1,0 +1,13 @@
+source_name: '"Germany seizes 47 crypto exchanges used by ransomware gangs"'
+source_url: https://www.bleepingcomputer.com/news/security/germany-seizes-47-crypto-exchanges-used-by-ransomware-gangs/
+date_of_breach: '2024-09-19'
+date_of_disclosure: '2024-09-19'
+category: other
+notes: German authorities have seized 47 cryptocurrency exchanges alleged to have
+  been used to launder stolen funds by ransomware groups. The exchanges did not require
+  KYC, allowing customers to remain anonymous throughout their transactions.Websites
+  for these exchanges now show notices announcing a law enforcement operation called
+  "Operation Final Exchange". The page announces to visitors "This was your final
+  exchange!", and in a letter addressed to "ransomware affiliates, botnet operators
+  and darknet vendors", warns that authorities are now working to trace the illicit
+  users of the exchange.

@@ -1,0 +1,13 @@
+source_name: "Rockstar Games GTA 6 Source Code and Video Leak — Scattered Spider"
+source_url: "https://www.bleepingcomputer.com/news/security/gta-6-source-code-and-videos-leaked-by-rockstar-games-hacker/"
+date_of_breach: "2022-09-17"
+date_of_disclosure: "2022-09-18"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Scattered Spider attacker (same individual as the 2022 Uber breach) gained access to Rockstar Games' Slack workspace using compromised employee credentials; from Slack, the attacker accessed Confluence wikis and was able to download internal development materials and GTA 6 footage"
+cve: []
+vendor_product: "Rockstar Games internal Slack / Confluence / development systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 17-18 September 2022 — just two days after the Uber breach — the same 18-year-old Scattered Spider attacker (Arion Kurtaj) breached Rockstar Games' internal systems and leaked approximately 90 videos of early gameplay footage from Grand Theft Auto 6 (GTA 6), along with GTA 5 and GTA 6 source code. The leak was posted on GTAForums and shared across social media. It was described by gaming journalists as the largest leak in video game history. Rockstar Games confirmed the breach on 19 September 2022, calling it a 'network intrusion' in which a third party had illegally accessed confidential information. The attacker attempted to extort Rockstar for $10,000 and threatened to release the GTA 6 source code, GTA 5 source code, and testbed data. Rockstar contacted law enforcement. The attacker was arrested by UK City of London Police on 22 September 2022 while still in custody in relation to the Uber breach. Take-Two Interactive (Rockstar's parent) subsequently filed a court order to remove the leaked videos from the internet. GTA 6 was officially announced by Rockstar in December 2023 and released in 2025. The incident highlighted the vulnerability of game studio intellectual property and the capabilities of the Scattered Spider group, who proved able to breach multiple Fortune 500 companies in rapid succession using social engineering alone."

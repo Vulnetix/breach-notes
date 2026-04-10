@@ -1,0 +1,22 @@
+source_name: 94 K-12 Schools Third-Party Breach (January 2025)
+source_url: https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/
+date_of_breach: 2025-01-01
+date_of_disclosure: '2025-01-07'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PowerSchool
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'PowerSchool hack exposes student, teacher data from K-12 districts. Education
+  software giant PowerSchool has confirmed it suffered a cybersecurity incident that
+  allowed a threat actor to steal the personal information of students and teachers
+  from school districts using its PowerSchool SIS platform. School districts known
+  to be impacted by the PowerSchool breach are listed the bottom of the article. PowerSchool
+  is a cloud-based software solutions provider for K-12 schools and districts that
+  supports over 60 million students and over 18,000 customers worldwide. The company
+  offers a full range of services to help school districts operate, including platforms
+  for enrollment, communication, attendance, staff management, learning systems, analytics,
+  and finance. Third-party company: PowerSchool.'

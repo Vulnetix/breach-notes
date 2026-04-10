@@ -1,0 +1,13 @@
+source_name: "Revolut Social Engineering Customer Data Breach — 50,150 Users"
+source_url: "https://blog.revolut.com/a-message-to-our-customers-about-a-recent-security-incident/"
+date_of_breach: "2022-09-11"
+date_of_disclosure: "2022-09-19"
+date_of_customer_notification: "2022-09-19"
+category: "credential-theft"
+initial_attack_vector: "Targeted social engineering attack against a Revolut employee who was tricked into granting the attacker access to Revolut's internal customer support database; the attacker used the employee's legitimate credentials and access to query and exfiltrate customer records"
+cve: []
+vendor_product: "Revolut internal customer support database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 11 September 2022, an attacker used a sophisticated social engineering technique to gain access to Revolut's customer support system through a Revolut employee. The attacker accessed and potentially exfiltrated data for 50,150 customers (approximately 0.16% of Revolut's total customer base of approximately 30 million). Revolut confirmed that for a short period of time the attacker was able to access the details of a small percentage of customers. Exposed data included names, addresses, email addresses, phone numbers, partial payment card data, and account data. Revolut stated that card details, PINs, or passwords were not accessed, and that no funds were accessed or stolen. Revolut detected the unauthorized access in the early hours of 12 September, terminated the access, and notified the Lithuanian State Data Protection Inspectorate (Revolut's EU banking license is in Lithuania) as required under GDPR. Some affected customers reported receiving phishing texts after the breach, suggesting the stolen data was used for follow-on attacks. The incident occurred during a period when Revolut was experiencing high-profile cyberattacks and while the company was applying for its UK banking license. The breach type — using employee social engineering to access customer databases — was consistent with tactics used by the 0ktapus/Scattered Spider group that targeted multiple companies in the same period."

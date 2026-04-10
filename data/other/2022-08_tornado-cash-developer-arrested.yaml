@@ -1,0 +1,17 @@
+source_name: '"Alleged Tornado Cash developer arrested in Amsterdam"'
+source_url: https://www.theverge.com/2022/8/12/23298217/tornado-cash-crypto-mixer-crackdown-authorities-arrest-suspected-developer-amsterdam
+date_of_breach: '2022-08-12'
+date_of_disclosure: '2022-08-12'
+category: other
+notes: A suspected developer of the Tornado Cash cryptocurrency tumbler was arrested
+  in the Netherlands, according to the country's Fiscal Information and Investigation
+  Service (FIOD). They said that he was "suspected of involvement in concealing criminal
+  financial flows and facilitating money laundering". Wallet addresses used by Tornado
+  Cash were sanctioned by the United States several days prior due to their use in
+  laundering the proceeds of criminal activities.It's not immediately clear from the
+  statement whether the activities that led to the arrest involved more than just
+  contributing to the Tornado Cash codebase, but it would be very concerning if not.
+  There are complexities around the sanctioning of Tornado Cash — a fairly decentralized
+  software project — that raise concerns about the criminalization of code. For many,
+  it brings to mind the "Crypto Wars" (where "crypto" is referring to cryptography
+  rather than cryptocurrency).

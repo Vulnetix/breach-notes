@@ -1,0 +1,21 @@
+source_name: '"Rare Bears Discord phishing attack nabs $800K in NFTs"'
+source_url: https://cointelegraph.com/news/rare-bears-discord-phishing-attack-nabs-800k-in-nfts
+date_of_breach: '2022-03-16'
+date_of_disclosure: '2022-03-16'
+category: data-leak
+notes: 'After hackers successfully compromised the account of one of the Rare Bears
+  Discord moderators, they posted an announcement that new NFTs were being minted.
+  Those who tried to participate in the mint wound up having their accounts compromised
+  and their NFTs stolen. The hackers sold most of the 179 NFTs they stole, for a combined
+  total of 286 ETH (more than $800,000).Not only did the attackers post a fake mint
+  link, they took steps to prevent the project from thwarting their attack by banning
+  other members and removing user rights that would have allowed other project members
+  to delete the fake links. They also added a bot to the server that locked channels
+  so people couldn''t send warnings that the links were fake.The Rare Bears team did
+  eventually regain access and secured their Discord server. In an apology posted
+  on their Twitter page, they addressed the multiple security breaches that Rare Bears
+  have faced to date, and said they had "stepped up" and would be having a firm audit
+  their project.
+
+
+  Total loss estimated at $817,259.'

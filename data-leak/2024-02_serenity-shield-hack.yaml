@@ -1,0 +1,21 @@
+source_name: Tweet
+source_url: https://twitter.com/SerenityShield_/status/1762560942821261325
+date_of_breach: '2024-02-27'
+date_of_disclosure: '2024-02-27'
+category: data-leak
+notes: 'Serenity Shield, a project aiming to solve "crypto inheritence", has been
+  hacked. Although the project prominently claims to help "ensur[e] your financial
+  and personal security", they seem to have some trouble ensuring their own.An attacker
+  stole 6.9 SERSH tokens from a MetaMask wallet belonging to the project. Although
+  the tokens were ostensibly priced at $5.6 million, the thief was only able to sell
+  them for around $586,000.Serenity Shield confirmed the breach, and encouraged people
+  to stop trading $SERSH as they planned to relaunch the token. "Rest assured, we
+  are deploying all necessary safety measures to ensure a foolproof system," they
+  wrote. This time it will be secure, they promise.The team also sent a message to
+  the hacker, offering a 15% "bounty" and a promise not to pursue legal action in
+  exchange for the return of the stolen funds.According to crypto sleuth zachxbt,
+  the attack seems to be linked to exploits of OKX (December 2023) and Concentric
+  (January 2024).
+
+
+  Total loss estimated at $586,000.'

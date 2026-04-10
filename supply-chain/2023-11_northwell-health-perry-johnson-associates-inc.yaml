@@ -1,0 +1,23 @@
+source_name: Northwell Health Third-Party Breach (November 2023)
+source_url: https://www.prnewswire.com/news-releases/console--associates-pc-pja-reports-data-breach-exposing-social-security-numbers-and-phi-of-an-unknown-number-of-northwell-health-patients-301986542.html
+date_of_breach: 2023-11-01
+date_of_disclosure: '2023-11-13'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Perry Johnson & Associates, Inc., (PJ&A)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Console & Associates, P.C.: PJ&A Reports Data Breach Exposing Social Security
+  Numbers and PHI of an Unknown Number of Northwell Health Patients. /PRNewswire/
+  -- Millions of Northwell Health patients are being notified that their Social Security
+  numbers and other confidential information were compromised. MARLTON, N.J. , Nov.
+  13, 2023 /PRNewswire/ -- Millions of Northwell Health patients are being notified
+  that their Social Security numbers and other confidential information were compromised
+  following a data breach at Perry Johnson & Associates ("PJ&A"). The data breach
+  lawyers at Console & Associates, P.C. are investigating claims on behalf of anyone
+  affected by the PJ&A / Northwell Health breach, hoping to fully inform them of the
+  risks they face in the wake of the breach as well as their legal rights. Third-party
+  company: Perry Johnson & Associates, Inc., (PJ&A).'

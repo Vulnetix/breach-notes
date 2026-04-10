@@ -1,0 +1,21 @@
+source_name: On-chain messages
+source_url: https://etherscan.io/idm?addresses=0xcf31e1b97790afd681723fa1398c5ead9f69b98c,0x645c77833833a6654f7edaa977ebeabc680a9109&type=1
+date_of_breach: '2025-03-31'
+date_of_disclosure: '2025-03-31'
+category: data-leak
+notes: 'The zkLend lending platform was hoping they could secure the return of stolen
+  funds from the attacker who stole 3,667 ETH (~$9.5 million at the time) from the
+  platform in mid-February. They offered a 10% "bounty" for the return of the funds,
+  but received no reply — that is, until now.On March 31, the attacker sent an on-chain
+  message to the platform, writing: "Hello I tried to move funds to tornado but I
+  used a phishing website and all the funds have been lost. I am devastated. I am
+  terribly sorry for all the havoc and losses caused. All the 2930 eth have been taken
+  by that site owners. I do not have coins. Please redirect your efforts towards those
+  site owners to see if you can recover some of the money. I am sorry."The zkLend
+  project instructed the thief to return any remaining funds to their wallets, though
+  no such transfer has happened yet.There has been substantial conversation over whether
+  the hacker had truly been in turn scammed out of the stolen funds, had made up a
+  fake phishing site to try to obscure the path of stolen money, or perhaps whether
+  the whole event had been an April Fools'' joke. However, zkLend noted on Twitter
+  that the phishing website, which imitates the Tornado Cash platform, has been operational
+  for five years and is likely not connected to the hacker.'

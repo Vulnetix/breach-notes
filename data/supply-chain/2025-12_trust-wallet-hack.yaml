@@ -1,0 +1,15 @@
+source_name: Tweet thread by TrustWallet
+source_url: https://x.com/TrustWallet/status/2004475085168795941?s=20
+date_of_breach: '2025-12-25'
+date_of_disclosure: '2025-12-25'
+category: supply-chain
+notes: 'The Trust Wallet Chrome extension was compromised in an apparent supply chain
+  attack. People who used the non-custodial wallet extension after it updated to version
+  2.68 lost funds after malicious code was introduced to exfiltrate wallet seed phrases
+  so that the attackers could then drain the wallets. Victims have lost a combined
+  $7 million due to the compromise.Binance founder Changpeng Zhao — who supposedly
+  has no managerial role at Binance after he and the company were criminally charged
+  in the US — announced that Binance would reimburse users who lost funds.
+
+
+  Total loss estimated at $7,000,000.'

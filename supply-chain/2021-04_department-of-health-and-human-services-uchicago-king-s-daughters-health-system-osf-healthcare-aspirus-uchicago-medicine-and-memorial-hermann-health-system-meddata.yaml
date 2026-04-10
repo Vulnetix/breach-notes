@@ -1,0 +1,24 @@
+source_name: Department of Health and Human Services,UChicago, King's Daughters' Health
+  System, OSF HealthCare, Aspirus, UChicago Medicine, and Memorial Hermann Health
+  System. Third-Party Breach (April 2021)
+source_url: https://healthitsecurity.com/news/patient-data-from-multiple-providers-leaked-in-third-party-github-incident
+date_of_breach: 2021-04-01
+date_of_disclosure: '2021-04-02'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: MedData
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Patient Data from Multiple Providers Leaked in Third-Party GitHub Incident
+  | TechTarget. Data breach notifications and a report reveal a former MedData employee
+  uploaded troves of patient data from multiple providers onto the open-source, public
+  data repository GitHub Arctic Code Vault. The patient data from multiple providers
+  appears to have been captured and subsequently leaked on the data repository GitHub
+  Arctic Code Vault by third-party vendor MedData, according to a new collaborative
+  report from security researcher Jelle Ursem and Dissent Doe of DataBreaches.net.
+  MedData provides revenue cycle services to healthcare systems and hospitals, including
+  Medicaid eligibility, third-party liability, workers’ compensation, and patient
+  billing services. Third-party company: MedData.'

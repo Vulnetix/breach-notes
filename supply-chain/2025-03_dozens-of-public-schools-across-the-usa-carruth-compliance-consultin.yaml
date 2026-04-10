@@ -1,0 +1,21 @@
+source_name: Dozens of public schools across the USA Third-Party Breach (March 2025)
+source_url: https://therecord.media/thousands-of-public-school-workers-impacted-data-breach
+date_of_breach: 2025-03-01
+date_of_disclosure: '2025-03-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Carruth Compliance Consulting
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Thousands of public school workers impacted by cyberattack on retirement plan
+  administrator. A December 2024 cyberattack on a prominent administrator for retirement
+  plans has exposed the information of thousands of public school teachers and employees
+  across the U.S. Dozens of public schools across the country reported data breaches
+  to regulators in Maine , Massachusetts , Vermont and several other states this week,
+  warning that sensitive data was stolen through Carruth Compliance Consulting — a
+  company that provides third-party administrative services to public school districts
+  and non-profit organizations for their 403(b) and 457(b) retirement savings plans.
+  Third-party company: Carruth Compliance Consulting.'

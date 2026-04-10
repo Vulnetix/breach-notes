@@ -1,0 +1,19 @@
+source_name: Coles Third-Party Breach (May 2023)
+source_url: https://www.abc.net.au/news/2023-04-15/coles-confirms-latitude-data-breach/102227694
+date_of_breach: 2023-05-01
+date_of_disclosure: '2023-04-15'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Latitude Financial Services
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Coles confirms its customers impacted by Latitude Financial data breach. Supermarket
+  giant Coles has confirmed it has been impacted by the Latitude Financial data breach,
+  saying personal information used to issue historical Coles-branded credit cards
+  has been stolen by a cyber criminal group. Coles has confirmed that card holders
+  have been affected by the Latitude data breach. ( Supplied: Pxhere ). Last month,
+  Latitude told the ASX it had been affected by a cyber attack that had affected 330,000
+  customer records. Third-party company: Latitude Financial Services.'

@@ -1,0 +1,19 @@
+source_name: Oklahoma City Police Department Third-Party Breach (February 2022)
+source_url: https://freepressokc.com/okc-police-rape-kit-info-exposed-in-data-breach-of-dna-contractor/
+date_of_breach: 2022-02-01
+date_of_disclosure: '2022-02-20'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: DNA Solutions Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'OKC Police rape kit info exposed in data breach of DNA contractor. The DNA
+  and personal information of past sexual assault victims were a part of a data breach
+  by a contractor of the Okla City Police Dept. OKLAHOMA CITY ( Free Press ) — Victims
+  of past sexual assault who had their DNA collected in a rape kit by the Oklahoma
+  City Police Department now face yet more uncertainty because of a data breach. Rape
+  kits are used to collect DNA evidence by law enforcement agencies for sexual assault
+  investigations. Third-party company: DNA Solutions Inc..'

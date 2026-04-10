@@ -1,0 +1,44 @@
+source_name: Sabre SynXis Hospitality Reservation System Breach
+source_url: https://krebsonsecurity.com/2017/05/breach-at-sabre-corp-s-hospitality-unit/
+date_of_breach: '2016-08-10'
+date_of_disclosure: '2017-05-02'
+date_of_customer_notification: '2017-06-27'
+category: supply-chain
+initial_attack_vector: Unauthorized access to SynXis central reservation system using compromised account credentials
+cve: []
+vendor_product: Sabre Corp. (SynXis)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  Between August 10, 2016, and March 9, 2017, an unauthorized party gained access to
+  Sabre Corporation's SynXis central-reservations system, a widely used platform that
+  processes bookings for approximately 36,000 hotel properties worldwide. The attacker
+  obtained valid account credentials for the SynXis system, which allowed them to view
+  unencrypted payment card data and reservation information for a subset of hotel
+  bookings processed through the platform.
+
+  The breach was discovered by Sabre in March 2017 and publicly disclosed in the
+  company's May 2017 10-Q quarterly filing with the U.S. Securities and Exchange
+  Commission. Sabre's investigation, completed in July 2017, determined that the
+  attacker accessed less than 15 percent of the daily bookings processed through
+  SynXis during the compromise window. Exposed data included cardholder names, payment
+  card numbers, expiration dates, and in some cases, card security codes.
+
+  Hard Rock Hotels and Casinos was among the first to notify customers, confirming in
+  late June 2017 that 11 of its properties were affected, including the Hard Rock Hotel
+  and Casino Las Vegas and the Hard Rock Hotel Cancun. Other impacted hotel brands
+  included Loews Hotels, Four Points by Sheraton, Trump Hotels, and numerous smaller
+  chains. In total, the breach exposed approximately 1.3 million credit cards belonging
+  to travelers who used the SynXis platform to book hotel stays.
+
+  The incident highlighted the concentrated risk of centralized reservation platforms
+  in the hospitality industry. Individual hotel brands had no visibility into Sabre's
+  security posture and were entirely dependent on the vendor's ability to detect and
+  respond to intrusions. Sabre notified affected hotel customers, who then had to
+  independently assess their own exposure and notify cardholders.
+
+  In 2020, Sabre agreed to a $2.4 million settlement with 27 state attorneys general
+  who had launched an investigation shortly after the breach disclosure. The AGs
+  contended that Sabre's cybersecurity measures were inadequate and that the company
+  failed to properly notify affected consumers in a timely manner.

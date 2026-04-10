@@ -1,0 +1,21 @@
+source_name: Tweet thread by CertiK Alert
+source_url: https://twitter.com/CertiKAlert/status/1515672984148717570
+date_of_breach: '2022-04-17'
+date_of_disclosure: '2022-04-17'
+category: data-leak
+notes: 'All my magic beans gone. An attacker successfully used a flash loan attack
+  to exploit a flaw in Beanstalk Farms'' stablecoin protocol, which allowed them to
+  make off with 24,830 ETH (almost $76 million). The attacker then donated $250,000
+  to Ukraine before moving the remaining funds to Tornado Cash to tumble.Estimated
+  damages to the project were higher than the amount the hacker was able to take for
+  themselves — around $182 million. The $BEAN token, once pegged to $1, dropped to
+  nearly 0. The project creator wrote in the Discord, "We are fucked. This project
+  has not had any venture backing, so it is highly unlikely there is any sort of bail
+  out coming." However, they were later slightly more optimistic, writing, "it may
+  also be the start of something good... there may be a path forward. We don''t want
+  to comment on next steps until that path is at least visible to us" while reiterating
+  that a bail-out was "highly unlikely". They also told members of their community
+  that they had contacted the FBI about the theft.
+
+
+  Total loss estimated at $182,000,000.'

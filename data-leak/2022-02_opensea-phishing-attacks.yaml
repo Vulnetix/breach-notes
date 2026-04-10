@@ -1,0 +1,25 @@
+source_name: Tweet by Jon_HQ
+source_url: https://twitter.com/Jon_HQ/status/1495194178355011586
+date_of_breach: '2022-02-19'
+date_of_disclosure: '2022-02-19'
+category: data-leak
+notes: 'Panic erupted on February 19 as a few users saw their wallets emptied of valuable
+  NFTs without knowing why, and many others feared the same could happen to them.
+  Early explanations blamed a new contract that OpenSea had rolled out, or an airdrop
+  from a new NFT marketplace called X2Y2. People urged NFT owners to revoke permissions
+  for both the OpenSea contract and for X2Y2 until more was known, although one of
+  the most popular websites helping people do so went down shortly after from the
+  high traffic.An hour and a half after users began to report missing NFTs, OpenSea
+  finally acknowledged the issue. They tweeted that they were "actively investigating
+  rumors of an exploit associated with OpenSea related smart contracts", and wrote
+  that they believed it was a phishing attack coming from outside of OpenSea, rather
+  than an issue with their contract. It was later determined that an attacker had
+  successfully phished 17 OpenSea users into signing a malicious contract, which allowed
+  the attacker to take the NFTs and then flip them. Bizarrely, the hacker returned
+  some of the NFTs to their original owners, and one victim inexplicably received
+  50 ETH ($130,000) from the attacker as well as some of his stolen NFTs back. The
+  attacker later transferred 1,115 ETH obtained from the attack to a cryptocurrency
+  tumbler, worth around $2.9 million.
+
+
+  Total loss estimated at $3,045,310.'

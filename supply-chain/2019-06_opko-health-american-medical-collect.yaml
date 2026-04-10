@@ -1,0 +1,22 @@
+source_name: OPKO Health / BioReference Laboratories via American Medical Collection Agency (AMCA) Breach
+source_url: https://www.fiercehealthcare.com/tech/third-medical-testing-company-impacted-by-amca-breach-as-congress-seeks-answers
+date_of_breach: '2018-08-01'
+date_of_disclosure: '2019-06-05'
+date_of_customer_notification: '2019-06-05'
+category: supply-chain
+initial_attack_vector: Web skimmer / malicious code injected into third-party payment page
+cve: []
+vendor_product: American Medical Collection Agency (AMCA)
+software_package: ''
+malware: web payment page skimmer
+supply_chain_claimed: true
+notes: |
+  OPKO Health's clinical laboratory subsidiary BioReference Laboratories was among the first wave of healthcare companies to disclose patient data exposure resulting from the American Medical Collection Agency (AMCA) breach — one of the largest healthcare data breaches in U.S. history.
+
+  AMCA, a debt collection subsidiary of Retrieval-Masters Creditors Bureau based in Elmsford, New York, processed billing and collections for laboratory companies including BioReference. Between August 1, 2018 and March 30, 2019, an unauthorized actor compromised AMCA's web payment portal and inserted malicious skimming code that captured patient and financial data as it was entered. AMCA did not detect the intrusion internally; the breach was identified in late May 2019 by an external cybersecurity firm that found the stolen data being offered for sale on dark web forums.
+
+  OPKO Health / BioReference Laboratories disclosed the breach on approximately June 5, 2019, following Quest Diagnostics' initial June 3 disclosure. BioReference reported that approximately 422,600 patients had information potentially exposed, including names, addresses, phone numbers, dates of birth, dates of service, provider names, balance information, credit card and bank account numbers, and Social Security numbers. Medical test results were not stored in AMCA's payment system and were not part of the exposed data.
+
+  BioReference severed its relationship with AMCA following disclosure and offered credit monitoring to affected patients. The exposure was among the smaller cohorts in the AMCA breach, which ultimately affected more than 21 million Americans across over a dozen laboratory companies.
+
+  AMCA's parent company filed for Chapter 11 bankruptcy protection on June 17, 2019, citing the costs of remediation, notifications, and litigation as unsustainable. A 41-state attorney general coalition ultimately reached a settlement with AMCA assessing $21 million in penalties (suspended due to AMCA's financial condition). The incident became a defining example of the systemic third-party risk inherent in outsourcing healthcare billing and collections to vendors with inadequate security controls.

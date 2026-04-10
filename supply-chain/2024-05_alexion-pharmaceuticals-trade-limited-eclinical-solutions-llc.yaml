@@ -1,0 +1,13 @@
+source_name: Alexion Pharmaceuticals Trade Limited Third-Party Breach (May 2024)
+source_url: https://www.kvkk.gov.tr/Icerik/7904/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Alexion-Ilac-Ticaret-Limited-Sirketi
+date_of_breach: 2024-05-01
+date_of_disclosure: 2024-05-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: eClinical Solutions LLC
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party company: eClinical Solutions LLC.'

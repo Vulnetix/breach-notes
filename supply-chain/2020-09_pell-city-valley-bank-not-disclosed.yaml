@@ -1,0 +1,19 @@
+source_name: Pell City Valley Bank Third-Party Breach (September 2020)
+source_url: https://www.annistonstar.com/the_daily_home/free/some-pell-city-utility-customers-may-have-suffered-data-breach-free-content/article_3fd1b022-02c3-11eb-bc53-f7a536e70fa7.html
+date_of_breach: 2020-09-01
+date_of_disclosure: '2020-09-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Some Pell City utility customers may have suffered data breach (free content).
+  City Manager Brian Muenger said the municipality has been informed by Valley Bank
+  that some of the city’s customers may have had their data breached, specifically
+  those that use lockbox. PELL CITY -- Some customers who pay the city of Pell City
+  via paper check for their utility bills may have had their data breached according
+  to the municipality and Valley Bank. Javascript is required for you to be able to
+  read premium content. Please enable it in your browser settings.

@@ -1,0 +1,17 @@
+source_name: '"Bitcoin scammers impersonate police, Sunray Finance $2.7M drain: Crypto-Sec"'
+source_url: https://cointelegraph.com/news/btc-scammers-sunray-finance-crypto-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+date_of_breach: '2024-10-30'
+date_of_disclosure: '2024-10-30'
+category: data-leak
+notes: 'A perpetuals trading platform called Sunray Finance was hacked on October
+  30 by an attacker who was able to upgrade a smart contract used by the protocol.
+  They then were able to mint a massive number of the protocol''s SUN token — 200
+  sextillion, to be precise. Then, they cashed out what they were able to, crashing
+  the SUN token price in the process. Ultimately, the attacker made off with about
+  $2.1 million of the Tether stablecoin.In the process of selling off tokens, an arbitrage
+  bot was able to take advantage of the price difference by selling the rapidly crashing
+  SUN token into a second liquidity pool that apparently went unnoticed by the hacker,
+  and the bot operator also profited around $560,000.
+
+
+  Total loss estimated at $3,260,000.'

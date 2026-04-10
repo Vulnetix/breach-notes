@@ -1,0 +1,13 @@
+source_name: "Microsoft Exchange ProxyShell Zero-Days RCE — CVE-2021-34473, CVE-2021-34523, CVE-2021-31207"
+source_url: "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34473"
+date_of_breach: "2021-08-13"
+date_of_disclosure: "2021-08-21"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Multiple threat actors exploited three chained vulnerabilities in Microsoft Exchange Server (ProxyShell) after their technical details were demonstrated at Black Hat and DEF CON 2021; the chain allows unauthenticated remote code execution on Exchange servers by combining server-side request forgery, privilege escalation, and arbitrary file write"
+cve: ["CVE-2021-34473", "CVE-2021-34523", "CVE-2021-31207"]
+vendor_product: "Microsoft Exchange Server (on-premises)"
+software_package: ""
+malware: "LockFile ransomware, Babuk ransomware, web shells (various)"
+supply_chain_claimed: false
+notes: "ProxyShell is a chain of three Microsoft Exchange Server vulnerabilities — CVE-2021-34473 (SSRF/ACL bypass), CVE-2021-34523 (privilege escalation), and CVE-2021-31207 (arbitrary file write) — that can be combined to achieve unauthenticated remote code execution on unpatched Exchange servers. Microsoft patched the vulnerabilities in April and May 2021, but they were not widely exploited until security researcher Orange Tsai demonstrated the full attack chain at Black Hat USA 2021 in August. Within days of the Black Hat presentation, mass exploitation began globally. Ransomware groups (LockFile, Babuk, Conti), nation-state actors (APT27, APT35/Charming Kitten), and criminal groups all rapidly adopted the ProxyShell attack chain. CISA issued Emergency Directive 21-03 and multiple advisories urging immediate patching. Thousands of Exchange servers worldwide were compromised; security researchers observed scanning and exploitation attempts within hours of Black Hat. The LockFile ransomware group was one of the most prolific users of ProxyShell, leveraging it alongside PetitPotam (a Windows NTLM relay attack) to compromise organisations within minutes. ProxyShell became one of the most widely exploited vulnerabilities of 2021 alongside Log4Shell. Huntress detected hundreds of web shells installed via ProxyShell. Organisations that had not applied the May 2021 patches were exposed for over three months before mass exploitation began."

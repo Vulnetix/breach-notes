@@ -1,0 +1,21 @@
+source_name: Fidelity Third-Party Breach (March 2024)
+source_url: https://www.darkreading.com/cyberattacks-data-breaches/first-bofa-now-fidelity-same-vendor-third-party-breaches
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Infosys McCamish Systems (IMS)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'First BofA, Now Fidelity: Same Vendor Behind Third-Party Breaches. The private
+  information of more than 28,000 people may have been accessed by unauthorized actors,
+  thanks to a cyber incident at service provider Infosys McCamish — the same third
+  party recently responsible for the Bank of America breach. TechTarget and Informa
+  Tech’s Digital Business Combine. TechTarget and Informa. Together, we power an unparalleled
+  network of 220+ online properties covering 10,000+ granular topics, serving an audience
+  of 50+ million professionals with original, objective content from trusted sources.
+  We help you gain critical insights and make more informed decisions across your
+  business priorities. Third-party company: Infosys McCamish Systems (IMS).'

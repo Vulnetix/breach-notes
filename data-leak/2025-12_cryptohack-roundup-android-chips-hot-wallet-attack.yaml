@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: Android Chips Hot Wallet Attack (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-android-chips-hot-wallet-attack-a-30256
+date_of_breach: '2025-12-11'
+date_of_disclosure: '2025-12-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Ledger flagged physical attack risks to Android hot wallets, a
+  700M euro fraud network was dismantled, a suspect in the $243M Genesis theft was
+
+
+  Source: DataBreachToday article coverage.'

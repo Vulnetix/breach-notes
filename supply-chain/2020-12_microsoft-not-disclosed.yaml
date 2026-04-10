@@ -1,0 +1,24 @@
+source_name: Microsoft Third-Party Breach (December 2020)
+source_url: https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html
+date_of_breach: 2020-12-01
+date_of_disclosure: '2020-12-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Russian hackers compromised Microsoft cloud customers through third party,
+  putting emails and other data at risk. Outside Microsoft’s French headquarters in
+  Issy-Les-Moulineaux, near Paris. The tech giant hasn’t publicly commented on the
+  Russian intrusions to U.S. customer data. (Gerard Julien/AFP/Getty Images). Russian
+  government hackers have compromised Microsoft cloud customers and stolen emails
+  from at least one private-sector company, according to people familiar with the
+  matter, a worrying development in Moscow’s ongoing cyberespionage campaign targeting
+  numerous U.S. agencies and corporate computer networks. The intrusions appear to
+  have occurred via a Microsoft corporate partner that handles cloud-access services,
+  those familiar with the matter said. They did not identify the partner or the company
+  known to have had emails stolen. Like others, these people spoke on the condition
+  of anonymity to discuss what remains a highly sensitive subject.

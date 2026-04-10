@@ -1,0 +1,43 @@
+source_name: Florida Healthy Kids Corporation (FHKC) / Jelly Bean Communications Design breach
+source_url: "https://www.hipaaguide.net/florida-health-insurer-discovers-breach-of-the-phi-of-3-5-million-individuals/"
+date_of_breach: '2013-11-01'
+date_of_disclosure: '2021-01-28'
+date_of_customer_notification: '2021-02-01'
+category: supply-chain
+initial_attack_vector: Unpatched web application vulnerabilities at third-party hosting vendor exploited over seven years; vendor failed to apply CMS/PHP security patches from November 2013 through December 2020
+cve: []
+vendor_product: Jelly Bean Communications Design (web hosting vendor for FHKC enrollment portal)
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  Florida Healthy Kids Corporation (FHKC) administers the Florida KidCare health insurance program, providing
+  subsidized health and dental coverage to children across Florida. FHKC contracted Jelly Bean Communications
+  Design to host and maintain its online enrollment portal. In a breach disclosure filed January 28, 2021,
+  FHKC revealed that Jelly Bean had failed to patch multiple website vulnerabilities for approximately seven
+  years — from November 2013 through December 2020 — allowing unauthorized actors sustained access to
+  applicant and enrollee data. Approximately 3.5 million online applicants and enrollees were affected.
+
+  The scope of exposed data was extensive: full names, dates of birth, email addresses, telephone numbers,
+  physical addresses, Social Security numbers, financial account information, secondary insurance details,
+  and family relationship data (identifying the child insured and their guardians). The long duration of
+  exposure — spanning the entire enrollment lifecycle for hundreds of thousands of Florida families —
+  significantly amplified the potential for identity theft and fraud against a vulnerable population of
+  children and their families.
+
+  FHKC became aware of the breach in December 2020, when it was notified that applicant address data had
+  been inappropriately accessed and tampered with. The application portal was shut down in December 2020.
+  FHKC notified HHS on January 28, 2021, and began notifying affected individuals shortly thereafter.
+
+  The U.S. Department of Justice subsequently investigated Jelly Bean Communications under the False Claims
+  Act. The government alleged that Jelly Bean knowingly provided deficient cybersecurity controls to FHKC,
+  which received federal funding — making the contractor's failures a violation of the FCA. Jelly Bean
+  reached a $293,771 settlement to resolve these allegations. The case was notable for applying FCA liability
+  to a small web development firm for systematic negligence in patching and securing a federally funded system,
+  rather than for intentional fraud.
+
+  The incident became a widely cited example of the compounding risk introduced by long-term relationships
+  with small third-party vendors lacking the resources or diligence to maintain security over time —
+  particularly when those vendors support systems handling sensitive government health program data for
+  children. No ransomware or active exfiltration campaign was attributed; the harm arose entirely from
+  unpatched vulnerabilities persisting for nearly a decade.

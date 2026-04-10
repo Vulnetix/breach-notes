@@ -1,0 +1,12 @@
+source_name: '"TrueUSD drops below $1 peg to $0.985 amid selloff"'
+source_url: https://www.theblock.co/post/272736/trueusd-drops-below-1-peg-to-0-985-amid-selloff
+date_of_breach: '2024-01-16'
+date_of_disclosure: '2024-01-16'
+category: other
+notes: TrueUSD, a stablecoin connected to Justin Sun, deviated from its intended $1
+  peg to around $0.983 as traders sold off more than $100 million of the token seeking
+  safer options. The fears seemed to be sparked by the rapidfire and massive hacks
+  of the Justin Sun-connected HTX (hacked for $115 million) and Poloniex (hacked for
+  $120 million) in November.Adding to those is the fact that TrueUSD recently paused
+  its real-time reserves attestations, due to systems reporting liabilities that exceeded
+  assets, though TrueUSD (obviously) claimed this was just an error.

@@ -1,0 +1,11 @@
+source_name: '"Coinbase Vowed Token’s All-Cash Backing; That’s Not True"'
+source_url: https://www.bloomberg.com/news/articles/2021-08-11/coinbase-drops-promise-of-token-s-cash-backing-that-wasn-t-true
+date_of_breach: '2021-07-16'
+date_of_disclosure: '2021-07-16'
+category: other
+notes: Coinbase's USD Coin claimed that there was $1 "in a bank account" to back it,
+  meaning that if everyone hypothetically tried to redeem their USDC at once at any
+  given time, it would be possible. A July disclosure showed that this wasn't true,
+  and that the coin was actually backed by commercial paper, corporate bonds, and
+  other assets. Bloomberg speculated that the FTC might investigate the claim as a
+  possible "unfair or deceptive act or practice".

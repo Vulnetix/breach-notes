@@ -1,0 +1,21 @@
+source_name: Amerita Third-Party Breach (September 2023)
+source_url: https://healthitsecurity.com/news/amerita-notifies-nearly-220k-of-pharmerica-data-breach
+date_of_breach: 2023-09-01
+date_of_disclosure: '2023-09-19'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PharMerica
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Amerita Notifies Nearly 220K of PharMerica Data Breach | TechTarget. MedMinder
+  Systems and PurFoods also reported healthcare data breaches recently. Amerita, a
+  specialty infusion services company, notified 219,707 individuals of a healthcare
+  data breach that stemmed from its parent company, PharMerica. As previously reported
+  , long-term care pharmacy network PharMerica disclosed a breach in May that impacted
+  more than 5.8 million individuals. According to the Amerita notice, PharMerica learned
+  of suspicious activity within its network in March 2023 and promptly launched an
+  investigation. The company later determined that an unauthorized party had accessed
+  Amerita computer systems between March 12 and 13. Third-party company: PharMerica.'

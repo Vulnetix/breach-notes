@@ -1,0 +1,13 @@
+source_name: '"Creative attacker steals $76,000 in RUNE by giving out free tokens"'
+source_url: https://www.theblockcrypto.com/post/112339/creative-attacker-steals-76000-in-rune-by-giving-out-free-tokens
+date_of_breach: '2021-07-23'
+date_of_disclosure: '2021-07-23'
+category: other
+notes: 'An attacker giving out free UniH tokens was able to exploit a bug in a non-standard
+  token contract and steal RUNE tokens from unsuspecting victims. By baiting people
+  into selling their new UniH tokens, the attacker was able to execute malicious code
+  that transferred any RUNE tokens also in their wallet. This was the fourth exploit
+  pertaining to the Thorchain platform in the month of July.
+
+
+  Total loss estimated at $76,000.'

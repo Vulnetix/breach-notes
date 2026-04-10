@@ -1,0 +1,15 @@
+source_name: Tweet by zachxbt
+source_url: https://twitter.com/zachxbt/status/1763460072699756702
+date_of_breach: '2024-03-01'
+date_of_disclosure: '2024-03-01'
+category: data-leak
+notes: 'Someone who held over 111.6 million ALI tokens from a project called The AI
+  Protocol was phished by someone using a wallet drainer service using a permit phishing
+  technique. The tokens were priced at around $4.3 million.Blockchain sleuth zachxbt
+  was able to coordinate with the project to organize a community governance vote
+  to burn the stolen tokens before the attacker was able to cash out. Although this
+  doesn''t return the stolen funds to their original owner, it at least keeps the
+  attacker from profiting.
+
+
+  Total loss estimated at $4,300,000.'

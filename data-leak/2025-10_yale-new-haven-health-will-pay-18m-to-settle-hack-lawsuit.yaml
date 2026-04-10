@@ -1,0 +1,18 @@
+source_name: Yale New Haven Health Will Pay $18M to Settle Hack Lawsuit (DataBreachToday)
+source_url: https://www.databreachtoday.com/yale-new-haven-health-will-pay-18m-to-settle-hack-lawsuit-a-29827
+date_of_breach: '2025-10-24'
+date_of_disclosure: '2025-10-24'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Connecticut''s largest healthcare network - Yale New Haven Health System -
+  has agreed to pay $18 million to settle class action litigation filed in the aftermath
+  of
+
+
+  Source: DataBreachToday article coverage.'

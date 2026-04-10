@@ -1,0 +1,24 @@
+source_name: Quest Diagnostics / LabCorp via American Medical Collection Agency (AMCA) Breach
+source_url: https://krebsonsecurity.com/2019/06/labcorp-7-7m-consumers-hit-in-collections-firm-breach/
+date_of_breach: '2018-08-01'
+date_of_disclosure: '2019-06-03'
+date_of_customer_notification: '2019-06-03'
+category: supply-chain
+initial_attack_vector: Web skimmer / malicious code injected into third-party payment page
+cve: []
+vendor_product: American Medical Collection Agency (AMCA)
+software_package: ''
+malware: web payment page skimmer
+supply_chain_claimed: true
+notes: |
+  The American Medical Collection Agency (AMCA) breach is the largest healthcare data breach reported in the United States in 2019, ultimately exposing the personal, financial, and medical information of more than 21 million Americans across dozens of laboratory and healthcare companies.
+
+  AMCA, a debt collection subsidiary of Retrieval-Masters Creditors Bureau based in Elmsford, New York, provided billing and collections services to clinical laboratories including Quest Diagnostics and Laboratory Corporation of America (LabCorp). Between August 1, 2018 and March 30, 2019, an unauthorized actor gained access to AMCA's web payment page and inserted malicious code to skim payment card data and personally identifiable information as patients entered it.
+
+  Quest Diagnostics disclosed on June 3, 2019 via an SEC 8-K filing that approximately 11.9 million patients had data potentially exposed, including names, dates of birth, addresses, phone numbers, dates of service, provider names, balance information, credit card and bank account numbers, and Social Security numbers. Quest noted that medical test results were not exposed. LabCorp followed with its own SEC disclosure, reporting that 7.7 million consumers had information compromised — similar categories of data but without Social Security numbers for most records.
+
+  AMCA first learned of the breach from a cybersecurity firm in late May 2019 that had identified the compromised data being offered for sale on the dark web. AMCA notified state attorneys general and affected healthcare clients beginning June 3, 2019. Both Quest and LabCorp immediately severed their collection relationships with AMCA upon learning of the breach.
+
+  The financial fallout was catastrophic for AMCA. On June 17, 2019 — just two weeks after public disclosure — AMCA's parent company filed for Chapter 11 bankruptcy protection, citing the costs of breach notification, remediation, and legal exposure as factors making continued operations untenable. The bankruptcy court later authorized a settlement with a 41-state attorney general coalition that assessed $21 million in penalties, suspended due to AMCA's financial condition. The company emerged from bankruptcy in December 2020.
+
+  The breach prompted significant scrutiny from Congress and state regulators about healthcare vendor oversight practices, with Democratic senators writing to AMCA demanding answers about its security posture. Moody's issued a note identifying third-party vendor cyber risk as an emerging credit factor for healthcare companies. This incident became a canonical case study in supply chain and third-party risk management in the healthcare sector.

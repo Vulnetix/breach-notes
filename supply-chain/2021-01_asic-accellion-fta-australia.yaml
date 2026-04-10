@@ -1,0 +1,13 @@
+source_name: "ASIC Accellion FTA Breach — Australian Securities Regulator File Transfer Compromise"
+source_url: "https://asic.gov.au/about-asic/news-centre/find-a-media-release/2021-releases/2021-25mr-asic-suffers-data-breach-linked-to-accellion/"
+date_of_breach: "2021-01-15"
+date_of_disclosure: "2021-01-22"
+date_of_customer_notification: "2021-01-22"
+category: "supply-chain"
+initial_attack_vector: "Cl0p ransomware group exploited zero-day vulnerabilities in Accellion File Transfer Appliance (FTA) that ASIC used to receive and send documents; the vulnerability allowed unauthorized access to file transfer systems and exfiltration of files that had been submitted to ASIC"
+cve: ["CVE-2021-27101", "CVE-2021-27102", "CVE-2021-27103", "CVE-2021-27104"]
+vendor_product: "Accellion File Transfer Appliance (FTA) used by ASIC"
+software_package: "Accellion FTA"
+malware: "Cl0p / DEWMODE web shell"
+supply_chain_claimed: true
+notes: "In January 2021, the Australian Securities and Investments Commission (ASIC) — Australia's corporate, markets, and financial services regulator — disclosed that its Accellion File Transfer Appliance (FTA) server had been compromised as part of the global Cl0p ransomware campaign targeting Accellion FTA vulnerabilities. ASIC used the Accellion FTA to receive credit licence applications and related documents. An unknown number of credit licence applications that had recently been submitted to ASIC were accessed by the attacker via the compromised file transfer system. ASIC detected the breach on 15 January 2021 and immediately took the server offline. ASIC disclosed the breach on 22 January 2021 — one of the first public disclosures of the Accellion FTA breach campaign that ultimately affected over 100 organisations worldwide including Reserve Bank of New Zealand, Australian National University, Transport for NSW, Office of the Superintendent of Financial Institutions Canada, and many others. ASIC stated that the documents accessed included some personal information but that no ASIC internal systems were accessed. ASIC directly notified affected applicants. The Accellion FTA campaign demonstrated how a single compromised file transfer appliance vendor can simultaneously affect regulators, universities, healthcare providers, and government agencies globally."

@@ -1,0 +1,14 @@
+source_name: Tweet by BinanceWallet
+source_url: https://x.com/BinanceWallet/status/1904352541615554611
+date_of_breach: '2025-03-24'
+date_of_disclosure: '2025-03-24'
+category: other
+notes: Binance announced on Twitter that they had fired an employee after discovering
+  that they had engaged in insider trading. The employee took a large position in
+  a token that he knew would be engaging in a "token generation event", then quickly
+  sold off the tokens after the project announced the event. According to Binance,
+  this allowed him to "realize significant profits".Binance announced that they had
+  fired the employee, as "This behavior constitutes front-running based on non-public
+  information obtained from his previous role and is a clear breach of company policy."
+  The company became aware of the insider trading after they were alerted by outside
+  parties who submitted tips to the company.

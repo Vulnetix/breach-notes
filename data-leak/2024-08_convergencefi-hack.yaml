@@ -1,0 +1,18 @@
+source_name: '"Post-mortem | 08/01/2024"'
+source_url: https://medium.com/@cvg_wireshark/post-mortem-08-01-2024-e80a49d108a0
+date_of_breach: '2024-08-01'
+date_of_disclosure: '2024-08-01'
+category: data-leak
+notes: 'An attacker took advantage of a flaw in the code for the yield farming project
+  ConvergenceFi, draining it of all the tokens that had been allocated for staking
+  emissions. Because a function call in the smart contract did not do proper validation,
+  an attacker was able to provide their own smart contract that set the amount of
+  tokens to return to anything they wanted. Naturally, the attacker set it to return
+  all 58.7 million tokens available to them, which they quickly swapped to around
+  $210,000 and laundered through Tornado Cash.Although ConvergenceFi described itself
+  as audited, they admitted they had made changes to that portion of the code after
+  the audits.They assured their users that all user funds were safe, but recommended
+  that users remove their staked funds from the platform.
+
+
+  Total loss estimated at $210,000.'

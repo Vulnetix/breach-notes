@@ -1,0 +1,20 @@
+source_name: Health Plan Intermediaries Holdings (Benefytt) Third-Party Breach (March
+  2024)
+source_url: https://www.hipaajournal.com/benefytt-emsa-lindsay-municipal-hospital-affected-by-cyberattacks/
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Multiplan Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Benefytt, EMSA, Lindsay Municipal Hospital Affected by Cyberattacks. Health
+  Plan Intermediaries Holdings (Benefytt) has been affected by a cyberattack on a
+  vendor, Emergency Medical Services Authority said patient data was Health Plan Intermediaries
+  Holdings (Benefytt) has been affected by a cyberattack on a vendor, Emergency Medical
+  Services Authority said patient data was exposed in a February cyberattack, and
+  the Bian Lian group has claimed responsibility for a cyberattack on Lindsay Municipal
+  Hospital. Third-party company: Multiplan Inc..'

@@ -1,0 +1,14 @@
+source_name: '"Crypto whale loses over $32 million in apparent phishing attack"'
+source_url: https://www.theblock.co/post/318574/crypto-whale-loses-over-32-million-in-apparent-phishing-attack?utm_source=rss&utm_medium=rss
+date_of_breach: '2024-09-28'
+date_of_disclosure: '2024-09-28'
+category: data-leak
+notes: 'A victim lost 12,083 spWETH tokens (~$32.4 million) after signing a malicious
+  transaction stemming from someone using wallet drainer software. These drainers
+  are "scam-as-a-service" products, where the drainer creators allow others to operate
+  the drainer software in exchange for a 20% cut of stolen funds.The victim wallet
+  sent a message to the thief, offering "a peaceful resolution to this situation"
+  in which the thief could keep 20% of the total amount taken (around $6.5 million).
+
+
+  Total loss estimated at $32,000,000.'

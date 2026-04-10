@@ -1,0 +1,20 @@
+source_name: Tweets by Wu Blockchain
+source_url: https://twitter.com/WuBlockchain/status/1583820757133844480
+date_of_breach: '2022-10-22'
+date_of_disclosure: '2022-10-22'
+category: data-leak
+notes: 'Several users of the automated trading bot 3Commas reported losing over a
+  million dollars each in a hack or phishing scam affecting users who had connected
+  it to their FTX accounts. 3Commas has blamed the losses on phishing, but affected
+  users have said they were confident they were not phished.One user wrote they lost
+  almost 104 BTC (~$2 million) from an account that they said they only ever connected
+  to FTX a year ago, with an API key they had not saved, and which had since expired
+  and been downgraded to a free account. Another reported losing about $1.5 million.FTX
+  CEO Sam Bankman-Fried wrote on Twitter that FTX would compensate the affected users
+  for roughly $6 million in total. He wrote in all caps that he did not want this
+  to be considered a precedent, and it was "a one-time thing". He also stressed that
+  FTX was not responsible for the exploit, and that the users had been tricked by
+  phishing sites impersonating other reputable trading services.
+
+
+  Total loss estimated at $6,000,000.'

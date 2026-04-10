@@ -1,0 +1,17 @@
+source_name: Hardware Hackers Urge Vendor Engagement for Security Success (DataBreachToday)
+source_url: https://www.databreachtoday.com/hardware-hackers-urge-vendor-engagement-for-security-success-a-30102
+date_of_breach: '2025-11-21'
+date_of_disclosure: '2025-11-21'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'As fresh vulnerabilities in hardware keep coming to light, one question remains:
+  What vendors can do to better prevent, identify and eradiate flaws? One shortlist
+
+
+  Source: DataBreachToday article coverage.'

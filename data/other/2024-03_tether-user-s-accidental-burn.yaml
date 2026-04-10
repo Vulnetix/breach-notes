@@ -1,0 +1,16 @@
+source_name: Tweet thread by Charles Wang
+source_url: https://twitter.com/CharlesWangP/status/1768761091683672213
+date_of_breach: '2024-03-15'
+date_of_disclosure: '2024-03-15'
+category: other
+notes: Someone accidentally threw away $1.36 million when they accidentally sent Tethers
+  to the Tether contract address — making them permanently inaccessible in a process
+  known as "burning". This is a rather common phenomenon in crypto, where it's easy
+  to accidentally copy/paste the wrong address.Most experienced crypto users have
+  adopted the habit of sending small test transactions before transferring large amounts
+  of tokens, to first check that they're using the correct address. Oddly, this person
+  did so in this case, but then went right ahead and transferred the remaining tokens
+  to the erroneous address.The person may have lucked out that they were using a centralized
+  stablecoin like Tether, whose operators hold a substantial amount of control over
+  freezing, destroying, and creating new Tethers — and could feasibly replace the
+  burned tokens.

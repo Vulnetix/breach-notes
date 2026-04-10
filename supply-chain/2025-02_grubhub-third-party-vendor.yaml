@@ -1,0 +1,20 @@
+source_name: GrubHub Third-Party Breach (February 2025)
+source_url: https://www.bleepingcomputer.com/news/security/grubhub-data-breach-impacts-customers-drivers-and-merchants/
+date_of_breach: 2025-02-01
+date_of_disclosure: '2025-02-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: GrubHub data breach impacts customers, drivers, and merchants. ​Food delivery
+  company GrubHub disclosed a data breach impacting the personal information of an
+  undisclosed number of customers, merchants, and drivers after attackers breached
+  its systems using a service provider account. "Our investigation found that the
+  intrusion originated with an account belonging to a third-party service provider
+  that provided support services to Grubhub," the company said on Monday. "We immediately
+  terminated the account’s access and removed the service provider from our systems
+  altogether.".

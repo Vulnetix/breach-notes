@@ -1,0 +1,18 @@
+source_name: Tweet by nftmetaman.eth
+source_url: https://twitter.com/nft_metaman/status/1531120182621523972
+date_of_breach: '2022-05-30'
+date_of_disclosure: '2022-05-30'
+category: other
+notes: 'An NFT collector trying to list their Bored Ape NFT for sale on OpenSea made
+  a typo, and accidentally listed it for sale for 10 ETH (around $19,000) instead
+  of 105 ETH (around $200,000). The NFT was quickly bought up before the trader had
+  the opportunity to correct their mistake. It is common for people to run bots that
+  automatically buy pricey NFTs that are listed for sale far below a collection''s
+  floor price, as this one was.The trader later confirmed on Twitter that it was their
+  mistake rather than an account compromise or some other hack: "Yep, was a fat finger.  Was
+  trying to list at 105.  Never thought it''d happen to me.  Devastating."Meanwhile,
+  the NFT''s new owner has it listed for sale for 110 ETH (about $219,000), which
+  will net them a tidy profit if they find a buyer.
+
+
+  Total loss estimated at $181,000.'

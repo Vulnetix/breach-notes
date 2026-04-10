@@ -1,0 +1,19 @@
+source_name: Mangatoon Third-Party Breach (May 2022)
+source_url: https://www.bleepingcomputer.com/news/security/mangatoon-data-breach-exposes-data-from-23-million-accounts/
+date_of_breach: 2022-05-01
+date_of_disclosure: '2022-07-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Elasticsearch
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Mangatoon data breach exposes data from 23 million accounts. Manga comic reading
+  app Mangatoon has suffered a data breach that exposed the account information of
+  23 million users after a hacker stole it from an Elasticsearch database. Comic reading
+  platform Mangatoon has suffered a data breach that exposed information belonging
+  to 23 million user accounts after a hacker stole it from an unsecured Elasticsearch
+  database. Mangatoon is also a very popular iOS and Android app used by millions
+  of users to read online Manga comics. Third-party company: Elasticsearch.'

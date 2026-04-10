@@ -1,0 +1,22 @@
+source_name: City of Monroe, Kirkland, Redmond Third-Party Breach (February 2021)
+source_url: https://www.heraldnet.com/news/city-of-monroes-utility-billing-vendor-hit-with-data-breach/
+date_of_breach: 2021-02-01
+date_of_disclosure: '2021-02-08'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Automatic Funds Transfer Services
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'City of Monroe’s utility billing vendor hit with data breach - HeraldNet.com.
+  A third of the city’s residential and commercial customers might have had have banking
+  information exposed. MONROE — The city of Monroe’s utility billing vendor was electronically
+  breached last week, possibly exposing some customers’ banking information and more,
+  the city announced Monday. Between Wednesday and Thursday, hackers used ransomware
+  to encrypt servers hosted by Seattle-based Automatic Funds Transfer Services, which
+  processes paper checks for the city’s residential and commercial utility billing.
+  Now, bank account numbers, routing information, names, addresses, billing amounts
+  and utility account numbers of customers who pay by check could be exposed, the
+  city said in a news release. Third-party company: Automatic Funds Transfer Services.'

@@ -1,0 +1,16 @@
+source_name: Tweet by Ramon | Kinto
+source_url: https://x.com/ramonrecuero/status/1943313315486404841
+date_of_breach: '2025-07-10'
+date_of_disclosure: '2025-07-10'
+category: data-leak
+notes: The price of Kinto's $K token suddenly crashed 90%, sparking accusations of
+  a rug pull. A tranche of investor tokens had just been unlocked recently, leading
+  some to speculate that investors dumped their tokens on retail buyers.However, Kinto
+  blamed the token crash on the exploit that was recently disclosed by VennBuild,
+  claiming on Twitter that "we got hacked by a state actor". Venn seemed to corroborate
+  Kinto's explanation that the crash was related to the exploit, tweeting that although
+  they had tried to warn all vulnerable projects before publicly disclosing the bug,
+  "Sadly the Kinto token was not found despite being vulnerable, and exploited without
+  time to mitigate."Kinto has announced a plan to try to fundraise to cover a $1.4
+  million loss in liquidity, then create a new $K token based on a snapshot of previous
+  token holdings.

@@ -1,0 +1,18 @@
+source_name: Baylor College of Medicine Third-Party Breach (March 2024)
+source_url: https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Advarra
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'MFA Bypassed in Cyberattack on L.A. County Department of Mental Health. Cyberattacks
+  and data breaches have been reported by the L.A. County Department of Mental Health,
+  Healthfirst, Wyndemere Senior Care, Risas Dental & A phishing attack that bypassed
+  MFA has been reported by the L.A. County Department of Mental Health, and cyberattacks
+  have been announced by Healthfirst, Wyndemere Senior Care, Risas Dental & Braces,
+  and Baylor College of Medicine. Third-party company: Advarra.'

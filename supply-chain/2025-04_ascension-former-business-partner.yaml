@@ -1,0 +1,22 @@
+source_name: Ascension Third-Party Breach (April 2025)
+source_url: https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/
+date_of_breach: 2025-04-01
+date_of_disclosure: '2025-04-30'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Former business partner
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Ascension discloses new data breach after third-party hacking incident. ​Ascension,
+  one of the largest private healthcare systems in the United States, is notifying
+  patients that their personal and health information was stolen in a December 2024
+  data theft attack, which affected a former business partner. The health network
+  operates 142 hospitals nationwide, has over 142,000 employees, and has reported
+  a total revenue of $28.3 billion in 2023. "On December 5, 2024, we learned that
+  Ascension patient information may have been involved in a potential security incident.
+  We immediately initiated an investigation to determine whether and how a security
+  incident occurred," Ascension says in data breach notifications sent to affected
+  individuals. Third-party company: Former business partner.'

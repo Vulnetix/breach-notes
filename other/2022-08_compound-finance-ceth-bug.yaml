@@ -1,0 +1,13 @@
+source_name: '"Proposal To Upgrade To UAV V3"'
+source_url: https://www.comp.xyz/t/proposal-to-upgrade-to-uav-v3/3270
+date_of_breach: '2022-08-30'
+date_of_disclosure: '2022-08-30'
+category: other
+notes: Compound Finance released an update to change the price feed used by the Compound
+  v2 protocol. Despite being audited by three firms, no one caught a bug that caused
+  all transactions for ETH borrowers and lenders to revert, effectively freezing the
+  entire cETH market on the protocol. Because code changes require a seven-day-long
+  vote, the change can't be reverted until a new proposal passes. In the meantime,
+  users with positions they can't access will need to add collateral or repay loans
+  carefully in order to avoid being liquidated if the price of ETH drops by the time
+  the market is operational again.

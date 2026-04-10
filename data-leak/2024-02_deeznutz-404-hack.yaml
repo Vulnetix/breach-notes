@@ -1,0 +1,16 @@
+source_name: Tweet by CertiK
+source_url: https://twitter.com/CertiKAlert/status/1760583150382579879
+date_of_breach: '2024-02-22'
+date_of_disclosure: '2024-02-22'
+category: data-leak
+notes: 'I might otherwise skip over news of a $170,000 hack, given how commonly thefts
+  of that scale happen in the crypto world, but with a name like this... come on.One
+  thing that keeps me from ever trying my hand as a crypto project hacker is that
+  if I made $170,000 from exploiting a project called "DeezNutz_404", I would immediately
+  be caught because I wouldn''t be able to resist telling everyone I know that I''d
+  just made enough money to not have to work for a couple years by exploiting deez
+  nuts.Anyway, there was a bug in their code that allowed an attacker to mint infinite
+  tokens and steal around 58.65 ETH (~$170,000).
+
+
+  Total loss estimated at $170,000.'

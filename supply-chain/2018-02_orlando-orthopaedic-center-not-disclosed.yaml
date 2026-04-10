@@ -1,0 +1,38 @@
+source_name: HIPAA Journal
+source_url: https://www.hipaajournal.com/orlando-orthopaedic-center-suffers-19000-record-breach-due-to-business-associate-error/
+date_of_breach: '2017-12-01'
+date_of_disclosure: '2018-07-20'
+date_of_customer_notification: '2018-08-01'
+category: supply-chain
+initial_attack_vector: Transcription vendor misconfigured database access during software upgrade
+cve: []
+vendor_product: Undisclosed transcription service provider
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  Orlando Orthopaedic Center reported a breach of 19,101 patient records caused by an error
+  made by its third-party transcription service provider during a software upgrade in
+  December 2017. The vendor misconfigured access controls on a server during the update,
+  inadvertently exposing the database containing patient protected health information (PHI)
+  to unauthorized access for approximately two months.
+
+  The exposed data included patient names, dates of birth, insurance information, employer
+  details, and treatment types. A limited number of patients also had their Social Security
+  numbers exposed. The breach was particularly notable for the significant delays in
+  reporting and notification that followed its discovery.
+
+  Orlando Orthopaedic Center filed its breach report with the Department of Health and Human
+  Services Office for Civil Rights (OCR) on July 20, 2018 -- approximately five months after
+  the breach was discovered. Patient notification letters were not sent until approximately
+  six months after discovery. Under HIPAA Breach Notification Rule requirements, covered
+  entities and their business associates must notify the OCR and affected individuals within
+  60 days of discovering a breach, making both notifications significantly overdue.
+
+  The incident highlighted two critical supply-chain security issues in healthcare. First, the
+  reliance on third-party transcription vendors who handle sensitive PHI creates risk when
+  those vendors perform system changes without adequate security controls or testing. Second,
+  the delayed notification chain -- from vendor to covered entity to regulators and patients
+  -- demonstrated how third-party relationships can compound breach response failures. The
+  transcription vendor's error during a routine software upgrade exposed a fundamental gap in
+  change management procedures for systems handling protected health information.

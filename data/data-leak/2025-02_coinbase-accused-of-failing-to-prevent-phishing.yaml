@@ -1,0 +1,23 @@
+source_name: Tweet thread by zachxbt
+source_url: https://x.com/zachxbt/status/1886411879939031530
+date_of_breach: '2025-02-03'
+date_of_disclosure: '2025-02-03'
+category: data-leak
+notes: 'Crypto sleuth zachxbt has accused the popular American cryptocurrency exchange
+  Coinbase of "fail[ing] to stop its users losing $300M+ per year to social engineering
+  scams". He identified $65 million in crypto thefts from Coinbase in just the most
+  recent two months, but noted that the "number is likely much lower than the actual
+  amount stolen as our data was limited to my DMs and thefts we discovered on-chain
+  which does not account for Coinbase support tickets and police reports we do not
+  have access to."zachxbt recounted how scammers routinely spoof phone numbers and
+  use stolen personal information to gain trust with victims on phone calls, where
+  they claim to be Coinbase employees informing users of unauthorized account access.
+  They then walk victims through "securing" their accounts, but in reality they direct
+  people to cloned versions of the Coinbase website where the victims are made to
+  transfer their assets to the scammers.zachxbt concluded, "Coinbase needs to urgently
+  make changes as more and more users are being scammed for tens of millions every
+  month.  ... Coinbase is in a position where they have the power to make these changes
+  and set a good example but they have chosen to do little to nothing ."
+
+
+  Total loss estimated at $300,000,000.'

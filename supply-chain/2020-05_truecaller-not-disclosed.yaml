@@ -1,0 +1,20 @@
+source_name: TrueCaller Third-Party Breach (May 2020)
+source_url: https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-being-of-475-crore-sold-on-dark-web-for-rs-75000
+date_of_breach: 2020-05-01
+date_of_disclosure: '2020-05-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'TrueCaller Data of 4.75 Cr Indians for Sale On Dark Web: Report. Online intelligence
+  firm Cyble flagged that a cybercriminal was selling Truecaller records of 4.75 crore
+  Indians on the dark web for just about Rs 75,000, the Swedish caller identification
+  app has denied any breach of its database. After an online intelligence firm Cyble
+  flagged that a cybercriminal was selling Truecaller records of 4.75 crore Indians
+  on the dark web for just about Rs 75,000, the Swedish caller identification app
+  on Wednesday denied any breach of its database. As per Cyble, the data on sale includes
+  information like phone numbers, city, gender, Facebook ID, and even mobile network.'

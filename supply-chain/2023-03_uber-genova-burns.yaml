@@ -1,0 +1,20 @@
+source_name: Uber Third-Party Breach (March 2023)
+source_url: https://www.siliconrepublic.com/enterprise/uuber-data-breach-driver-info-stolen-law-firm-genova-burns
+date_of_breach: 2023-03-01
+date_of_disclosure: '2023-04-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Genova Burns
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Uber suffers another data breach after law firm’s servers attacked. This is
+  the third time in six months that Uber has been the victim of a data breach. Uber
+  has found itself in the middle of yet another data breach, this time as a result
+  of private driver data being stolen from a third-party law firm. Genova Burns, a
+  mid-sized law firm based in New Jersey, has written to the affected Uber drivers
+  that confidential information belonging to them, such as their social security and
+  tax identification numbers, have been stolen in a data breach of its IT systems.
+  Third-party company: Genova Burns.'

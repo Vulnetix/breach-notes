@@ -1,0 +1,13 @@
+source_name: Tweet thread by Solana Status
+source_url: https://twitter.com/SolanaStatus/status/1520508697100926977
+date_of_breach: '2022-04-30'
+date_of_disclosure: '2022-04-30'
+category: other
+notes: On April 30, NFT minting bots began flooding the Solana network with 4 million
+  transactions per second, causing the network to lose consensus. The project tweeted
+  that "Engineers are still investigating why the network was unable to recover, and
+  validator operators prepare for a restart." The network was offline for seven hours.This
+  is hardly the first instability the network has demonstrated, much to the chagrin
+  of its users. Transaction flooding is an issue on Solana in part because of the
+  low transaction fees compared to networks like Bitcoin and Ethereum, which have
+  relatively high gas fees that would make flooding extremely expensive.

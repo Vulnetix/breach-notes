@@ -1,0 +1,14 @@
+source_name: Tweet by cr0ssETH
+source_url: https://twitter.com/cr0ssETH/status/1486951461124780034
+date_of_breach: '2022-01-28'
+date_of_disclosure: '2022-01-28'
+category: other
+notes: OpenSea began reimbursing users who lost money earlier this month through what
+  some have described as a bug with the platform, but which others argue is just a
+  misunderstanding on the users' end. People were able to buy NFTs that had previously
+  been listed at much lower prices, even though those listings didn't appear active
+  to the seller anymore, if the seller had failed to properly remove the listing.
+  The buyers were then able to flip the NFTs for massive profits, and OpenSea ended
+  up reimbursing users to the tune of about $1.8 million. However, there are still
+  many NFTs vulnerable to this, and people taking advantage of it, including one user
+  who named their account "opensee_&#8203;will_&#8203;refund_&#8203;ask_&#8203;them".

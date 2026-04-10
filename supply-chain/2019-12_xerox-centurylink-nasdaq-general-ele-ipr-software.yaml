@@ -1,0 +1,24 @@
+source_name: Xerox, CenturyLink, Nasdaq, General Electric, Forever21, and Dunkin Donuts
+  Third-Party Breach (December 2019)
+source_url: https://threatpost.com/ge-dunkin-forever21-internal-doc-leak/150920/
+date_of_breach: 2019-12-01
+date_of_disclosure: '2019-12-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: iPR Software
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'GE, Dunkin'', Forever 21 Caught Up in Broad Internal Document Leak. A PR and
+  marketing provider exposed sensitive data for a raft of big-name companies. A marketing
+  firm exposed hashed passwords and sensitive public relations documents of thousands
+  of customers via a leaky Amazon S3 database – including big-name brands like GE,
+  Dunkin’ Donuts, Forever 21 and more. Researchers with UpGuard in October discovered
+  a misconfigured Amazon S3 storage bucket, originating from iPR Software, a hosted
+  content management software platform for online newsrooms, websites and social-media
+  communications. The database contained data belonging to clients using iPR Software’s
+  platform, including the details of 477,000 clients’ media contacts, business entity
+  account information, 35,000 hashed user passwords, assorted documents and administrative
+  system credentials. Third-party company: iPR Software.'

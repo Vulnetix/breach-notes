@@ -1,0 +1,21 @@
+source_name: Postbank Third-Party Breach (July 2023)
+source_url: https://www.presseportal.de/pm/105254/5554841
+date_of_breach: 2023-07-01
+date_of_disclosure: '2023-07-10'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Majorel
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Datenleck bei Postbank und Deutscher Bank / Kriminelle kopieren Bankdaten.
+  Lahr (ots) - Hacker haben Daten von Kunden der Deutschen Bank bei einem Datenleck
+  gestohlen. Auch die Tochtergesellschaft Postbank ist vom Datenklau betroffen. Die
+  Diebe. Das nächste Datenleck hat die Deutsche Bank und die Tochtergesellschaft Postbank
+  erwischt. Die Deutsche Bank und die Postbank informieren derzeit ihre Kunden über
+  eine Sicherheitslücke bei einem Dienstleister, die zu einem unerlaubten Abfluss
+  sensibler Daten geführt hat. Die IT-Kanzlei Dr. Stoll & Sauer fasst kurz zusammen,
+  was bisher zum Datenleck bei Deutscher Bank und Postbank bekannt geworden ist:.
+  Third-party company: Majorel.'

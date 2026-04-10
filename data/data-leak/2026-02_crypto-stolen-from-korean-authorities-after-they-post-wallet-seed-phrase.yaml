@@ -1,0 +1,15 @@
+source_name: '"$4.8M in crypto stolen after Korean tax agency exposes wallet seed"'
+source_url: https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/
+date_of_breach: '2026-02-26'
+date_of_disclosure: '2026-02-26'
+category: data-leak
+notes: When Korean authorities posted a photograph of seized cash and other items
+  from a police raid, they included photos of cards containing crypto wallet seed
+  phrases, which were proudly arranged on the table next to Ledger hardware wallets
+  for the photo op. Because it only takes a seed phrase to gain control of a crypto
+  wallet, someone who saw the press release quickly acted to move around 4 million
+  PRTG tokens from the wallet. The tokens are notionally worth $4.9 million, although
+  the token is not highly liquid.The blunder was likely due to the authorities' lack
+  of knowledge about cryptocurrency. The move was somewhat akin to authorities publicly
+  posting a username and password for a criminal's bank account — though that would
+  likely be an easier mistake to unwind.

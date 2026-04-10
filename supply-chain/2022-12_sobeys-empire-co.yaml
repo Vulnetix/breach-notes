@@ -1,0 +1,22 @@
+source_name: Sobeys Third-Party Breach (December 2022)
+source_url: https://www.cbc.ca/news/canada/nova-scotia/inside-turmoil-sobeys-ransomware-attack-1.6650636?__vfz=medium%3Dsharebar
+date_of_breach: 2022-12-01
+date_of_disclosure: '2022-11-15'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Empire Co.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Inside the turmoil at Sobeys-owned stores after ransomware attack | CBC News.
+  Employees of Empire Co., the parent company of Sobeys, have begun to speak out about
+  the turmoil unfolding inside the grocery chain since a ransomware attack began plaguing
+  its computer systems earlier this month. Workers from across the country say some
+  stores have run short of items because orders cannot be placed as usual, while at
+  others, food that had gone bad initially either piled up or was frozen because it
+  couldn''t be removed from the inventory system. Pharmacies were unable to fill new
+  prescriptions for a week, customers cannot redeem loyalty points or use gift cards,
+  and staff were concerned last week they wouldn''t get paid because the payroll system
+  is down. Third-party company: Empire Co..'

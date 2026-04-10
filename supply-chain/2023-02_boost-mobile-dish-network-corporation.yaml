@@ -1,0 +1,20 @@
+source_name: Boost Mobile Third-Party Breach (February 2023)
+source_url: https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-3rd-2023-wide-impact-attacks/
+date_of_breach: 2023-02-01
+date_of_disclosure: '2023-03-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: DISH Network Corporation
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'The Week in Ransomware - March 3rd 2023 - Wide impact attacks. This week was
+  highlighted by a massive BlackBasta ransomware attack targeting DISH Network and
+  taking down numerous subsidiaries, including SlingTV and Boost Mobile. The attack
+  started on February 23rd, forcing the company to shut down portions of its IT systems,
+  causing widespread outages among its services. However, it wasn''t until February
+  28th that DISH finally confirmed that they suffered a ransomware attack , with multiple
+  sources telling BleepingComputer that the Black Basta ransomware gang was responsible.
+  Third-party company: DISH Network Corporation.'

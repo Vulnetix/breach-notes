@@ -1,0 +1,17 @@
+source_name: Smile Design Management Third-Party Breach (October 2024)
+source_url: https://www.hipaajournal.com/38000-center-for-urban-community-services-cyberattack/
+date_of_breach: 2024-10-01
+date_of_disclosure: '2024-10-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 38,000 Individuals Affected by Center for Urban Community Services Cyberattack.
+  Security breaches have been reported by the Center for Urban Community Services
+  in New York, Riverview Health in Indiana, and Smile Design Management in Security
+  breaches have been reported by the Center for Urban Community Services in New York,
+  Riverview Health in Indiana, and Smile Design Management in Florida.

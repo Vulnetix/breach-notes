@@ -1,0 +1,13 @@
+source_name: "Minecraft / Lifeboat Network Breach — 7 Million Accounts Exposed"
+source_url: "https://www.bleepingcomputer.com/news/security/lifeboat-minecraft-server-hacked-7-million-accounts-exposed/"
+date_of_breach: "2016-01-01"
+date_of_disclosure: "2016-03-10"
+date_of_customer_notification: "2016-03-10"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained access to the Lifeboat Minecraft server network database; Lifeboat is a popular Minecraft Pocket Edition server network with millions of registered child and teen players; the attacker accessed email addresses and weakly hashed (MD5) passwords"
+cve: []
+vendor_product: "Lifeboat Minecraft network user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early 2016, Lifeboat — one of the most popular Minecraft Pocket Edition server networks with over 3 million registered accounts — was breached. The breach affected approximately 7 million user accounts. Exposed data included email addresses and MD5-hashed passwords. The breach was significant because Lifeboat is primarily used by children and teenagers — Minecraft Pocket Edition being the mobile version of the game, particularly popular with younger players under 13. The exposure of email addresses for millions of children is particularly concerning from a COPPA (Children's Online Privacy Protection Act) perspective. Lifeboat did not notify users of the breach for approximately three months. Troy Hunt at Have I Been Pwned added the data and notified Lifeboat, which prompted disclosure. Lifeboat issued a notification in March 2016 encouraging password resets. The use of MD5 hashing without salting made the passwords highly susceptible to cracking, putting children's accounts at risk of credential stuffing across other platforms where they reused passwords. The breach highlighted the inadequate security practices common among gaming server operators and the particular vulnerability of child-focused gaming platforms."

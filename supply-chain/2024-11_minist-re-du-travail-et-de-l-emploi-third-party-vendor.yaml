@@ -1,0 +1,21 @@
+source_name: MinistÃ¨re du Travail et de l'Emploi Third-Party Breach (November 2024)
+source_url: https://therecord.media/france-data-breach-government-contractor-local-missions
+date_of_breach: 2024-11-01
+date_of_disclosure: 2024-11-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Young people’s data feared stolen in cyberattack on French government contractor.
+  The French government said an incident directly impacted an unnamed service provider
+  used by the network of “Local Missions” — places that offer advice and support to
+  people between the ages of 16 and 25 about work and training. France’s Ministry
+  of Labor and Employment announced on Thursday that it discovered a cyberattack suspected
+  to have impacted the data of young people it was helping get into employment. According
+  to the ministry’s statement , the attack directly impacted an unnamed service provider
+  used by the department’s network of “Local Missions” — places that offer advice
+  and support to people between the ages of 16 and 25 about work and training.

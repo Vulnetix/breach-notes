@@ -1,0 +1,14 @@
+source_name: Tweet by PeckShield
+source_url: https://x.com/peckshield/status/1942947860645134450
+date_of_breach: '2025-07-09'
+date_of_disclosure: '2025-07-09'
+category: data-leak
+notes: 'The decentralized perpetual exchange GMX has been exploited for $42 million.
+  The exploit involved a vulnerability in one version of the exchange''s price calculation
+  smart contract. GMX paused some trading while they investigated the hack, and placed
+  other temporary restrictions on the platform.GMX offered a 10% "bug bounty" to the
+  hacker if they returned the funds. The attacker later returned $40.5 million in
+  stolen assets; unusually, this is more than the 90% return requested by GMX.
+
+
+  Total loss estimated at $42,000,000.'

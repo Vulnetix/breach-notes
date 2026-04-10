@@ -1,0 +1,13 @@
+source_name: "Rackspace Hosted Exchange Play Ransomware Attack — Permanent Service Shutdown"
+source_url: "https://www.rackspace.com/blog/rackspace-technology-provides-updates-on-ransomware-attack"
+date_of_breach: "2022-12-02"
+date_of_disclosure: "2022-12-06"
+date_of_customer_notification: "2022-12-06"
+category: "ransomware"
+initial_attack_vector: "Play ransomware group exploited CVE-2022-41080 (OWASSRF — Microsoft Exchange Server ProxyNotShell bypass) combined with CVE-2022-41082 to achieve remote code execution on Rackspace's Hosted Exchange environment; the vulnerability bypassed existing mitigations Rackspace had applied for ProxyNotShell"
+cve: ["CVE-2022-41080", "CVE-2022-41082"]
+vendor_product: "Rackspace Hosted Exchange (managed Microsoft Exchange service)"
+software_package: ""
+malware: "Play ransomware"
+supply_chain_claimed: false
+notes: "On 2 December 2022, Play ransomware attacked Rackspace's Hosted Exchange email service, forcing Rackspace to permanently shut down the service. Rackspace had approximately 30,000 Hosted Exchange customers at the time. The company took the entire Hosted Exchange environment offline and ultimately decided not to restore it, instead migrating affected customers to Microsoft 365 at no charge. CrowdStrike, engaged to investigate, discovered the Play group had used a zero-day technique (OWASSRF — a new exploit technique for CVE-2022-41080 that bypassed existing ProxyNotShell mitigations). The attackers exfiltrated data belonging to 27 Rackspace customers. Personal data of those customers — including names, addresses, emails, phone numbers, dates of birth, Social Security numbers, and account information — was accessed. Rackspace faced numerous lawsuits from customers for the loss of email access and historical email data, as well as for the personal data breach affecting the 27 customers. The company paid approximately $10.8 million in settlements. The OWASSRF exploit technique discovered through the Rackspace investigation was subsequently published by CrowdStrike, enabling defenders to detect and remediate the vulnerability. Rackspace took a $9 million revenue charge related to the incident and incurred approximately $10.8 million in legal and remediation costs."

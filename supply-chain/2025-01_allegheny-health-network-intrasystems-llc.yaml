@@ -1,0 +1,20 @@
+source_name: Allegheny Health Network Third-Party Breach (January 2025)
+source_url: https://www.hipaajournal.com/allegheny-health-network-ba-cyberattack/
+date_of_breach: 2025-01-01
+date_of_disclosure: '2025-01-23'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: IntraSystems LLC
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: '294,000 Allegheny Health Network Patients Affected by Business Associate Cyberattack.
+  Allegheny Health Network (AHN), a Pittsburgh-based 14-hospital academic medical
+  system, has announced a significant data breach involving unauthorized A data breach
+  at a business associate of Allegheny Health Network has affected almost 294,000
+  of its home health patients. Pediatric Home Service has reported a 48,000 record
+  data breach, and a ransomware attack on Alta Resources Corp. involved unauthorized
+  access to the protected health information of 12,000 individuals. Third-party company:
+  IntraSystems LLC.'

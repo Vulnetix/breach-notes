@@ -1,0 +1,12 @@
+source_name: Tweet by Kronos
+source_url: https://twitter.com/ResearchKronos/status/1726013733888041376
+date_of_breach: '2023-11-18'
+date_of_disclosure: '2023-11-18'
+category: data-leak
+notes: 'The cryptocurrency trading firm Kronos Research announced on Twitter that
+  they had stopped trading while they investigated "unauthorized access of some of
+  our API keys". They claimed that "potential losses are not a significant portion
+  of our equity". They later confirmed the loss at around $26 million.
+
+
+  Total loss estimated at $26,000,000.'

@@ -1,0 +1,23 @@
+source_name: California Physicians' Service d/b/a Blue Shield of California Third-Party
+  Breach (November 2023)
+source_url: https://www.jdsupra.com/legalnews/blue-shield-of-california-confirms-3372365/
+date_of_breach: 2023-11-01
+date_of_disclosure: 2023-11-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Medical Eye Services, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Blue Shield of California Confirms MOVEit Data Breach at MESVision Compromised
+  Consumers’ Confidential Information | JD Supra. On November 17, 2023, California
+  Physicians'' Service dba Blue Shield of California (“Blue California”) filed a notice
+  of data breach with the Attorney. If you received a letter from Blue Shield of California
+  discussing a vendor data breach, it is essential you understand what is at risk
+  and what you can do about it. A data breach lawyer can help you learn more about
+  how to protect yourself from becoming a victim of fraud or identity theft, as well
+  as discuss your legal options following the Blue California vendor data breach.
+  For more information, please see our recent piece on the topic here. Third-party
+  company: Medical Eye Services, Inc..'

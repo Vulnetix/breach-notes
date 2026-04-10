@@ -1,0 +1,23 @@
+source_name: MNS' Healthcare Clients Third-Party Breach (May 2020)
+source_url: https://www.hipaajournal.com/management-and-network-services-notifies-30132-patients-about-phi-breach/
+date_of_breach: 2020-05-01
+date_of_disclosure: '2020-05-15'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Management and Network Services – MNS
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Management and Network Services Notifies 30,132 Patients About PHI Breach.
+  Management and Network Services has discovered multiple email accounts have been
+  compromised. The PHI of 30,132 patients has been exposed. Management and Network
+  Services (MNS), LLC, a Dublin, OH-based provider of administrative support services
+  to post-acute healthcare providers, has discovered the email accounts of some of
+  its employees have been compromised. In a May 4, 2020 breach notification letter,
+  MNS explained that it learned on or around August 21, 2019 that several employee
+  email accounts had been subjected to unauthorized access between April and July
+  of 2019. The analysis of the email accounts recently revealed five accounts contained
+  the protected health information of patients of its clients. Third-party company:
+  Management and Network Services – MNS.'

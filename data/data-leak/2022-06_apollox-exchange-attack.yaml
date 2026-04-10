@@ -1,0 +1,12 @@
+source_name: Tweet by ApolloX
+source_url: https://twitter.com/ApolloX_com/status/1534570239177789440
+date_of_breach: '2022-06-08'
+date_of_disclosure: '2022-06-08'
+category: data-leak
+notes: 'The ApolloX exchange suffered an exploit where an attacker was able to withdraw
+  around 40 million $APX, which they were able to swap for around $1.5 million. This
+  also caused the $APX price to drop by more than 50%.The exchange has announced plans
+  to repurchase $APX to boost the price, so far spending $600,000 to do so.
+
+
+  Total loss estimated at $1,500,000.'

@@ -1,0 +1,46 @@
+source_name: Luxottica Breach Affecting LensCrafters, EyeMed, Target Optical (August–September 2020)
+source_url: https://www.bleepingcomputer.com/news/security/luxottica-data-breach-exposes-820k-eyemed-lenscrafters-patients/
+date_of_breach: "2020-08-05"
+date_of_disclosure: "2020-11-01"
+date_of_customer_notification: "2020-11-01"
+category: supply-chain
+initial_attack_vector: Hacking of Luxottica's web-based appointment scheduling application; followed by separate Nefilim ransomware attack on September 18, 2020
+cve: []
+vendor_product: Luxottica
+software_package: ""
+malware: Nefilim ransomware
+supply_chain_claimed: true
+notes: |-
+  Luxottica, the Italian eyewear conglomerate and parent company of EyeMed Vision Care,
+  LensCrafters, Target Optical, and Pearle Vision, suffered two separate but related
+  security incidents in mid-2020. The first was a breach of its web-based appointment
+  scheduling application on August 5, 2020; the second was a Nefilim ransomware attack
+  on September 18, 2020.
+
+  The appointment scheduling application breach affected 829,454 patients in the United
+  States. Luxottica learned of the breach on August 9, 2020, and determined on August 28
+  that the attacker had accessed patient personal information. The application was used
+  by eye care professionals affiliated with LensCrafters, Target Optical, EyeMed, and
+  Pearle Vision to manage patient appointments. Exposed information included: full
+  names, contact information (address, phone, email), appointment date and time, health
+  insurance policy numbers, and doctor or appointment notes potentially referencing
+  health conditions, prescriptions, and procedures. For a subset of patients, credit
+  card numbers and Social Security numbers were also exposed.
+
+  The HHS Office for Civil Rights breach report confirmed 829,454 affected individuals
+  and classified the incident as a "Hacking/IT Incident." Patient notifications were
+  sent in November 2020, roughly three months after discovery. The delay was attributed
+  to the scope of the forensic investigation.
+
+  The separate Nefilim ransomware attack on September 18, 2020 caused significant
+  operational disruptions to Luxottica's systems in Italy and China. The ransomware
+  gang subsequently leaked data stolen during that attack, compounding the exposure.
+  A later investigation disclosed that data from over 70 million customers may have
+  been exposed in the broader data leak associated with the ransomware incident.
+
+  As a third-party supply chain breach, the downstream impact spread across the partner
+  network: optometrists, ophthalmologists, and opticians using the Luxottica scheduling
+  platform had their patients' protected health information (PHI) exposed without any
+  direct compromise of the individual practices. The incident illustrates how a single
+  cloud-hosted application serving thousands of affiliated providers can become a
+  high-impact vector for HIPAA-regulated data breaches at scale.

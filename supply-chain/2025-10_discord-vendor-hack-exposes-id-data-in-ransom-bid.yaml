@@ -1,0 +1,17 @@
+source_name: Discord Vendor Hack Exposes ID Data in Ransom Bid (DataBreachToday)
+source_url: https://www.databreachtoday.com/discord-vendor-hack-exposes-id-data-in-ransom-bid-a-29661
+date_of_breach: '2025-10-06'
+date_of_disclosure: '2025-10-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'A vendor breach linked to Discord exposed government ID uploads used in age
+  verification, raising alarms among privacy experts who warn that third-party data
+
+
+  Source: DataBreachToday article coverage.'

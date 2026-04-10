@@ -1,0 +1,13 @@
+source_name: "Excellus BlueCross BlueShield Data Breach — 10.5 Million Members, Nation-State APT"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2013-12-23"
+date_of_disclosure: "2015-09-09"
+date_of_customer_notification: "2015-09-09"
+category: "data-leak"
+initial_attack_vector: "Nation-state APT group (assessed as same Chinese threat actor responsible for Anthem and Premera breaches) gained initial access in December 2013 via unknown means and maintained persistent access for approximately 20 months before being discovered during a forensic investigation"
+cve: []
+vendor_product: "Excellus BlueCross BlueShield member database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In December 2013, a sophisticated cyberattack — widely attributed to a China-linked nation-state APT group believed to be the same threat actor responsible for the Anthem and Premera health insurance breaches — gained access to Excellus BlueCross BlueShield's IT systems in Upstate New York. The attack went undetected for approximately 20 months. Excellus commissioned Mandiant to conduct a forensic investigation and discovered the breach in August 2015 during a proactive security assessment prompted by the high-profile Anthem and Premera disclosures. Approximately 10.5 million individuals were affected, including members of Excellus, Lifetime Health, The Medical Associates Health Plan of Western New York, and certain Blue Cross Blue Shield plans. Compromised data included Social Security numbers, dates of birth, mailing addresses, telephone numbers, member identification numbers, financial account information, and claims information. Excellus notified HHS OCR and regulators in September 2015. Class-action lawsuits were filed. OCR resolved the investigation in January 2021 with a $5.1 million settlement. The three concurrent health insurer breaches (Anthem, Premera, Excellus) in 2014-2015 collectively exposed data for approximately 100 million Americans and were widely interpreted as a coordinated Chinese intelligence-gathering operation targeting health insurance records."

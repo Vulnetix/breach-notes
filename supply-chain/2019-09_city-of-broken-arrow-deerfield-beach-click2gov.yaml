@@ -1,0 +1,21 @@
+source_name: City of Broken Arrow, Deerfield Beach, Palm Bay, Milton, Bakersfield,
+  Coral Springs, Pocatello, Ames online payment system Third-Party Breach (September
+  2019)
+source_url: https://ktul.com/news/local/possible-data-breach-of-city-of-broken-arrow-online-payment-system
+date_of_breach: 2019-09-01
+date_of_disclosure: '2019-09-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Possible data breach of City of Broken Arrow online payment system. The City
+  of Broken Arrow released a statement Thursday after the city''s online payment system
+  became unavailable. The city says the site was made unavailable after it became
+  aware of a possible data breach involving a third-party payment software system.
+  Their statement is below:The City of Broken Arrow takes cyber-security very seriously.
+  TULSA, Okla. (KTUL) — The City of Broken Arrow released a statement Thursday after
+  the city''s online payment system became unavailable. Third-party company: Click2Gov.'

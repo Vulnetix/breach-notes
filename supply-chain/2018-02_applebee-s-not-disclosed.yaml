@@ -1,0 +1,38 @@
+source_name: Threatpost
+source_url: https://threatpost.com/pos-malware-found-at-160-applebees-restaurant-locations/130281/
+date_of_breach: '2017-11-23'
+date_of_disclosure: '2018-03-02'
+date_of_customer_notification: '2018-03-02'
+category: supply-chain
+initial_attack_vector: Point-of-sale RAM-scraping malware deployed on POS systems at franchise locations
+cve: []
+vendor_product: RMH Franchise Holdings
+software_package: ''
+malware: POS RAM-scraping malware
+supply_chain_claimed: true
+notes: >-
+  RMH Franchise Holdings, one of the largest Applebee's franchise operators in the United
+  States, discovered malware on point-of-sale systems at its restaurants on February 13, 2018,
+  and publicly disclosed the breach on March 2, 2018. The malware was designed to capture
+  payment card information as it was processed through POS terminals, collecting customers'
+  names, credit or debit card numbers, expiration dates, and card verification codes.
+
+  The breach affected more than 160 Applebee's restaurant locations across 15 states,
+  including Alabama, Arizona, Florida, Illinois, Indiana, Kansas, Kentucky, Mississippi,
+  Missouri, Nebraska, Ohio, Oklahoma, Pennsylvania, Texas, and Wyoming. In the majority of
+  affected locations, the malware was active between December 6, 2017, and January 2, 2018.
+  A smaller number of locations were compromised starting as early as November 23 or
+  December 5, 2017, with some infections persisting into early January 2018.
+
+  RMH Franchise Holdings engaged third-party forensic investigators to determine the scope
+  and nature of the incident. The company clarified that payments made through online ordering
+  or self-pay tabletop devices were not affected, as those systems operated independently of
+  the compromised POS terminals. Each RMH franchise location operated its own POS system
+  separately from the broader Applebee's corporate network operated by DineEquity (now Dine
+  Brands), illustrating how franchise models create supply-chain complexity where individual
+  franchise operators serve as third-party processors of customer payment data.
+
+  The incident was part of a wave of POS malware attacks targeting the restaurant and
+  hospitality industry in 2017-2018, exploiting the widespread use of magnetic stripe card
+  technology and gaps in POS system security at franchise locations that may not have had the
+  same security resources as corporate-managed stores.

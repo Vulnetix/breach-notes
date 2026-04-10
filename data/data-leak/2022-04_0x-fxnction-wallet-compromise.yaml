@@ -1,0 +1,17 @@
+source_name: Tweet thread by 0x_fxnction
+source_url: https://twitter.com/0x_fxnction/status/1516410417379045379
+date_of_breach: '2022-04-19'
+date_of_disclosure: '2022-04-19'
+category: data-leak
+notes: 'NFT influencer 0x_fxnction reported that his wallet had been compromised,
+  and 2349 SOL (~$240,000) had been stolen. The money had primarily been profit from
+  the DeGods project, he said, and was unwisely stored in one hot wallet because it
+  was "meant to help buy a house and was being withdrawn in the next weeks".He said
+  he hadn''t used the wallet to mint any NFTs since October, and said he had revoked
+  all access to minting websites since then. He wrote that he was unsure how the compromise
+  had happened: "My best guess: an old minting site from October still had access
+  to my wallet, even after ''revoking'' happened in Phantom.... But honestly, it''s
+  just a guess."
+
+
+  Total loss estimated at $240,000.'

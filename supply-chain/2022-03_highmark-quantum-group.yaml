@@ -1,0 +1,16 @@
+source_name: Highmark Third-Party Breach (March 2022)
+source_url: https://www.timesleader.com/news/1543999/highmark-issues-statement-on-data-security-incident-with-vendor
+date_of_breach: 2022-03-01
+date_of_disclosure: 2022-03-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Quantum Group
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Highmark issues statement on ‘data security incident’ with vendor. [](https://circulation.timesleader.com/product/times-leader-e-edition/).
+  Times Leader Wilkes-Barre, PA News, Obituaries, classifieds, and Sports. Times Leader
+  Wilkes-Barre, PA News, Obituaries, classifieds, and Sports. Third-party company:
+  Quantum Group.'

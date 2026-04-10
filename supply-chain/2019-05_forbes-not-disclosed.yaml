@@ -1,0 +1,19 @@
+source_name: Forbes Third-Party Breach (May 2019)
+source_url: https://threatpost.com/magecart-card-skimmer-forbes/144811/
+date_of_breach: 2019-05-01
+date_of_disclosure: '2019-05-16'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Forbes Becomes Latest Victim of Magecart Payment Card Skimmer. The web skimming
+  script was recently found stealing payment data on the websites of Forbes Magazine
+  as well as seven others. The payment card-siphoning Magecart group has struck again;
+  this time injecting web-skimming scripts into the subscription website for the Forbes
+  print magazine (as well as a slew of others over the past week). Security researcher
+  Troy Mursch, founder of Bad Packets Report, told Threatpost that he noticed the
+  site was compromised on Wednesday at 12:30 a.m. ET.

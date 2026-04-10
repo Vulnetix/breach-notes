@@ -1,0 +1,21 @@
+source_name: Gemini Third-Party Breach (July 2024)
+source_url: https://www.bleepingcomputer.com/news/security/crypto-exchange-gemini-discloses-third-party-data-breach/
+date_of_breach: 2024-07-01
+date_of_disclosure: '2024-07-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed Automated Clearing House (ACH) service provider
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Crypto exchange Gemini discloses third-party data breach. Cryptocurrency exchange
+  Gemini is warning it suffered a data breach incident caused by a cyberattack at
+  its Automated Clearing House (ACH) service provider, whose name was not disclosed.
+  The American crypto exchange began sending notices to impacted individuals a month
+  ago, on June 26, 2024 but submitted a sample of the letters yesterday to the Attorney
+  General''s Office in California. According to the notification, Gemini suffered
+  a third-party data breach when an unauthorized actor breached its vendor''s systems
+  between June 3 and June 7, 2024. Third-party company: Not disclosed Automated Clearing
+  House (ACH) service provider.'

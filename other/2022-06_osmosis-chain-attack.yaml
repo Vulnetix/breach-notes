@@ -1,0 +1,18 @@
+source_name: '"Blockchain, ''Decentralized'' Exchange Taken Offline After Hacker Steals
+  Millions"'
+source_url: https://www.vice.com/en/article/m7gq5q/blockchain-decentralized-exchange-taken-offline-after-hacker-steals-millions
+date_of_breach: '2022-06-08'
+date_of_disclosure: '2022-06-08'
+category: other
+notes: 'The Osmosis chain was halted on June 8 after users discovered a bug where
+  people could deposit money into Osmosis pools and receive 3x the amount when they
+  withdrew. The bug was first reported in a public Reddit post where a user posted,
+  "Bug on Osmosis There is a serious problem with osmosis. If you add liquidity to
+  a pool and then remove it, it grows by 50%! How can we fix this!?!? Pools empty
+  by morning!"Developers halted the chain before liquidity pools were fully drained,
+  but estimated that about $5 million was lost. They wrote that they were working
+  on recovery plan; perhaps they will also encourage their community to report bugs
+  privately, rather than via public Reddit post.
+
+
+  Total loss estimated at $5,000,000.'

@@ -1,0 +1,20 @@
+source_name: SpaceX, Tesla, Boeing, Lockheed Martin Third-Party Breach (March 2020)
+source_url: https://techcrunch.com/2020/03/01/visser-breach/
+date_of_breach: 2020-03-01
+date_of_disclosure: '2020-03-02'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Visser
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'A parts manufacturer for SpaceX and Tesla says it was hacked. Exclusive: The
+  ransomware group have published some of the files stolen in the breach. A precision
+  parts maker for space and defense contractors has confirmed a “cybersecurity incident,”
+  which TechCrunch has learned was likely caused by ransomware. Visser Precision,
+  a Denver, Colorado-based manufacturer, makes custom parts for a number of industries,
+  including automotive and aeronautics. In a brief statement, the company confirmed
+  it was “the recent target of a criminal cybersecurity incident, including access
+  to or theft of data.”. Third-party company: Visser.'

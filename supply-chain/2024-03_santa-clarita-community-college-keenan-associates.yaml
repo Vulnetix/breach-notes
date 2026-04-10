@@ -1,0 +1,18 @@
+source_name: Santa Clarita Community College Third-Party Breach (March 2024)
+source_url: https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Keenan & Associates
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Cogdell Memorial Hospital Cyberattack Affects 87,000 Patients. Cyberattacks
+  and data breaches have recently been reported by Cogdell Memorial Hospital, Hospice
+  of Huntington, Santa Clarita Community College District, Cyberattacks and data breaches
+  have recently been reported by Cogdell Memorial Hospital, Hospice of Huntington,
+  Santa Clarita Community College District, MedQ, Inc., and The Mental Health Center
+  of North Central Alabama. Third-party company: Keenan & Associates.'

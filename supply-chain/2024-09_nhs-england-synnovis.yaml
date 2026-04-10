@@ -1,0 +1,22 @@
+source_name: NHS England Third-Party Breach (September 2024)
+source_url: https://therecord.media/data-on-nearly-1-million-nhs-patients-leaked-hospital-ransomware
+date_of_breach: 2024-09-01
+date_of_disclosure: '2024-09-16'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Synnovis
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Data on nearly 1 million NHS patients leaked online following ransomware attack
+  on London hospitals. The stolen data, which was published in June by the Qilin ransomware
+  gang, includes requests for appointments as well as for pathology and histology
+  tests. It features in many cases details of symptoms for sensitive medical conditions
+  that patients may not yet know have been exposed. People with symptoms of sensitive
+  medical conditions, including cancer and sexually transmitted infections, are among
+  almost a million individuals who had their personal information published online
+  following a ransomware attack that disrupted NHS hospitals in London earlier this
+  year, according to an analysis shared with Recorded Future News. Third-party company:
+  Synnovis.'

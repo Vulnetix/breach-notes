@@ -1,0 +1,24 @@
+source_name: UpGuard / Bitdefender / Healthcare IT News
+source_url: https://www.upguard.com/breaches/how-medical-records-and-patient-doctor-recordings-were-exposed
+date_of_breach: '2018-08-24'
+date_of_disclosure: '2018-09-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Misconfigured AWS S3 bucket exposing 7GB of sensitive medical records and patient-doctor audio recordings
+cve: []
+vendor_product: MedCall Healthcare Advisors
+software_package: Amazon Web Services S3
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On August 24, 2018, cybersecurity researchers at UpGuard discovered a publicly accessible, misconfigured Amazon Web Services S3 storage bucket belonging to MedCall Healthcare Advisors, a North Carolina-based workers' compensation and occupational healthcare services vendor. The exposed bucket contained approximately 7 gigabytes of sensitive data spanning 181 US business locations served by MedCall, affecting nearly 3,000 individuals.
+
+  The exposed data included PDF injury intake forms containing detailed descriptions of workplace injuries and illnesses, employment history, Social Security numbers, names, email and postal addresses, phone numbers, and dates of birth. More alarmingly, the bucket also contained audio recordings of patient evaluations and doctor-patient conversations, along with physician-completed records detailing medications, allergies, complaint details, and clinical assessments. Some patient names were embedded directly in filenames, making identification trivial even without opening the files.
+
+  MedCall's clients included businesses across the transport sector, local government, and major franchise chains such as Piggly Wiggly, KFC, and Hampton Inn. The exposed records represented employees of these businesses who had undergone workers' compensation evaluations or occupational health assessments through MedCall.
+
+  UpGuard notified MedCall CEO Randy Baker of the exposure via email on August 30, 2018, and by 9:30 AM the following day the S3 bucket had been secured. However, the situation worsened significantly when in October 2018, security researcher Britton White discovered a second misconfigured MedCall S3 bucket containing approximately 10,000 exposed files with similar sensitive content. This second bucket was again publicly accessible for download, editing, or deletion. DataBreaches.net notified MedCall of the second exposure, which was secured without acknowledgment from the company.
+
+  The double exposure highlighted systemic security failures at MedCall in managing cloud storage infrastructure and raised serious HIPAA compliance concerns given the highly sensitive nature of the protected health information involved. The incident affected approximately 150 businesses whose employees' medical data was handled by MedCall as a third-party occupational health services provider.
+
+  Primary sources: https://www.upguard.com/breaches/how-medical-records-and-patient-doctor-recordings-were-exposed and https://www.bitdefender.com/en-us/blog/hotforsecurity/7gb-of-medical-data-publicly-exposed-thanks-to-misconfigured-aws-s3-bucket

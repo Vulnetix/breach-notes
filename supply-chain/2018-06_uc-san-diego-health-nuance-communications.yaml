@@ -1,0 +1,24 @@
+source_name: UC San Diego Health / NBC San Diego / Becker's Hospital Review
+source_url: https://health.ucsd.edu/news/releases/pages/2018-06-28-media-statement-nuance-data-breach-includes-uc-san-diego-health-patients.aspx
+date_of_breach: '2017-11-20'
+date_of_disclosure: '2018-06-28'
+date_of_customer_notification: '2018-06-28'
+category: supply-chain
+initial_attack_vector: Unauthorized access by former Nuance Communications employee to medical transcription platform
+cve: []
+vendor_product: Nuance Communications
+software_package: Nuance medical transcription platform
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On June 28, 2018, UC San Diego Health disclosed that 619 of its patients were affected by a data breach at Nuance Communications, a third-party medical transcription service provider. The breach occurred when a former Nuance employee gained unauthorized access to one of Nuance's medical transcription platforms between November 20, 2017 and December 9, 2017. The investigation determined that the former employee accessed personal information of approximately 45,000 individuals across multiple healthcare organizations that used Nuance's transcription services, of whom 619 were UC San Diego Health patients.
+
+  The compromised data potentially included patient names, medical record numbers, dates of birth, dates of service, types of procedures, names of healthcare providers, and in some cases, diagnosis information and other clinical data contained in medical transcription records. Social Security numbers and financial information were not affected, as this data was not stored on the transcription platform.
+
+  Notification to affected patients was delayed at the request of federal law enforcement, which was investigating the breach. UC San Diego Health stated that it had worked closely with Nuance throughout the investigation and took immediate steps to ensure the security of its patient data with the vendor.
+
+  It is important to note that this breach is separate from the 2017 NotPetya ransomware attack that also affected Nuance Communications. The NotPetya attack in June 2017 disrupted Nuance's operations broadly, including its transcription services for healthcare clients, but Nuance determined that NotPetya did not result in a breach of unsecured protected health information (PHI) under HIPAA. The insider breach disclosed in June 2018 was an entirely different incident involving a malicious former employee.
+
+  UC San Diego Health offered affected patients complimentary credit monitoring and identity protection services. The incident highlighted the risks healthcare organizations face from their business associates and the importance of robust access controls and monitoring for former employees at third-party service providers handling sensitive patient data.
+
+  Primary sources: https://health.ucsd.edu/news/releases/pages/2018-06-28-media-statement-nuance-data-breach-includes-uc-san-diego-health-patients.aspx and https://www.kpbs.org/news/2018/jun/29/ucsd-health-data-breach-may-have-compromised-data/

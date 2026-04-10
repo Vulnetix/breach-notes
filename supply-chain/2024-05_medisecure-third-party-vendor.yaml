@@ -1,0 +1,18 @@
+source_name: MediSecure Third-Party Breach (May 2024)
+source_url: https://www.bleepingcomputer.com/news/security/medisecure-e-script-firm-hit-by-large-scale-ransomware-data-breach/
+date_of_breach: 2024-05-01
+date_of_disclosure: '2024-05-16'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: MediSecure e-script firm hit by ‘large-scale’ ransomware data breach. Electronic
+  prescription provider MediSecure in Australia has shut down its website and phone
+  lines following a ransomware attack believed to originate from a third-party vendor.
+  The incident has impacted personal and health information of individuals but the
+  extent remains unclear at this time. Operating since 2009, MediSecure provides digital
+  tools to healthcare professionals to manage and dispense medications to patients.

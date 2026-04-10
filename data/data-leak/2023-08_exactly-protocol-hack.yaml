@@ -1,0 +1,16 @@
+source_name: '"Optimism-Based Exactly Protocol Hacked: Over $12M in Ether Drained"'
+source_url: https://cryptopotato.com/optimism-based-exactly-protocol-hacked-over-12m-in-ether-drained/
+date_of_breach: '2023-08-18'
+date_of_disclosure: '2023-08-18'
+category: data-leak
+notes: 'The Exactly Protocol, an attempt to "decentralize the credit market" built
+  on the Optimism layer-2 network, was exploited. The protocol announced a pause to
+  investigate a security issue, after they were alerted to suspicious transactions.An
+  attacker has siphoned more than 7,160 ETH (~$12 million) from the project, which
+  they''ve bridged back to the Ethereum main chain. The Exactly Protocol''s TVL plunged
+  from $37 million to under $12 million following the attack.Exactly writes on their
+  website that they had been audited by four different firms: Chainsafe, Coinspect,
+  ABDK, and Cryptecon.
+
+
+  Total loss estimated at $12,000,000.'

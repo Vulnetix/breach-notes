@@ -1,0 +1,23 @@
+source_name: Attacker wallet
+source_url: https://etherscan.io/address/0x4eF6f0d3f94fF609ACef88068b1FC66a1184b3f3
+date_of_breach: '2023-09-09'
+date_of_disclosure: '2023-09-09'
+category: data-leak
+notes: 'The Twitter account belonging to Vitalik Buterin, inventor and effective leader
+  of the Ethereum project, was hacked to promote a crypto scam. A tweet posted to
+  his compromised account advertised a "commemorative NFT" to celebrate the impending
+  release of "proto-danksharding", which is the actual name for an upcoming change
+  to the Ethereum protocol.However, the link was a scam, and anyone who connected
+  their wallet risked having their wallet drained of its cryptocurrency and NFTs.
+  Some blue-chip NFTs were stolen, including two CryptoPunks (a collection with a
+  floor price of around 47 ETH, or $76,800). Altogether, stolen assets surpassed $650,000
+  in value within a few hours of the theft according to zachxbt, though this counts
+  notoriously difficult-to-value NFTs.The tweet was taken down within twenty minutes
+  of being posted. All in all, posting a link to a wallet drainer was probably among
+  the least effective things the attacker could do with the Twitter account of a person
+  whose word can dramatically move markets.It did seem to be something of a stark
+  warning to some in the crypto world, however, who expressed sentiments along the
+  lines of "if Vitalik can get hacked, anyone can."
+
+
+  Total loss estimated at $691,000.'

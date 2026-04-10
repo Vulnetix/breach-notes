@@ -1,0 +1,20 @@
+source_name: '"HIP 70: Helium Core Team Proposes to Migrate to Solana"'
+source_url: https://medium.com/helium-foundation/hip-70-helium-core-team-proposes-to-migrate-to-solana-e7ea23a042e7
+date_of_breach: '2022-08-31'
+date_of_disclosure: '2022-08-31'
+category: other
+notes: Helium is a network of wireless hotspots that decided to bolt on a cryptocurrency
+  layer a few years after it was created. Through this, they hoped to convince people
+  to spend hundreds of dollars on Helium hotspots, which earn an average of 0.07 HNT
+  ($0.37) a day (2.1 HNT/$11.24 a month) for supplying connectivity to internet of
+  things devices.Now, Helium is ditching its custom Helium chain in favor of a Solana-based
+  token, and scrapping the blockchain entirely for the portions of its service that
+  actually used the blockchain for anything beyond handling rewards.Helium seems to
+  have realized, finally, that blockchains tend to be slow as hell. In a blog post
+  about the change, they wrote that "specific transactions, including Proof-of-Coverage
+  and Data Transfer Accounting, are processed on-chain unnecessarily. This data bottleneck
+  can cause efficiency issues such as device join delays and problems with data packet
+  communications, which bloats the Network and causes slow processing times." They
+  outline their plans to move these portions of the project to a "more traditional
+  large data pipeline" — that is, infrastructure that's actually well-suited to that
+  kind of processing.

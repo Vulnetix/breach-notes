@@ -1,0 +1,17 @@
+source_name: '"FTX-, A16z-Backed Aptos Blockchain Is Off to a Sluggish Start"'
+source_url: https://www.coindesk.com/tech/2022/10/18/ftx-a16z-backed-aptos-blockchain-off-to-a-rocky-start/
+date_of_breach: '2022-10-17'
+date_of_disclosure: '2022-10-17'
+category: other
+notes: 'Aptos, a much-anticipated layer 1 blockchain backed by FTX and a16z, and created
+  by a team of former Meta employees, launched to much anticipation on October 17.
+  The team had bragged that the chain would be able to process 160,000 transactions
+  per second, even more than Solana''s claimed theoretical 65,000, and far more than
+  Ethereum''s ~15 or Bitcoin''s ~7. Instead, after launch, Aptos was processing a
+  painful 4 transactions per second.This was not the only criticism of Aptos upon
+  launch. The Aptos token was quickly put up for sale on exchanges including FTX and
+  Binance, but Aptos had not yet published information about their tokenomics — leaving
+  would-be investors trying to make decisions about whether to purchase a token about
+  which they couldn''t find even basic information. Once the tokenomics were published,
+  people expressed concerns about the distribution: 80% were allocated to the team
+  and investors and staked, enabling them to dump the staking rewards on retail investors.'

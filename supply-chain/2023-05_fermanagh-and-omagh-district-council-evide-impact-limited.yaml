@@ -1,0 +1,23 @@
+source_name: Fermanagh and Omagh District Council Third-Party Breach (May 2023)
+source_url: https://www.impartialreporter.com/news/23464481.thousands-impacted-council-programme-data-breach/
+date_of_breach: 2023-05-01
+date_of_disclosure: '2023-04-22'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Evide Impact Limited
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Thousands impacted by Fermanagh and Omagh District Council programme data
+  breach. OVER 2,000 people have been affected by a data-breach because of their participation
+  in a scheme run by Fermanagh and Omagh District Council. The affected people include
+  participants on the FODC employability initiative programme, Anspire from 2015 until
+  March 2023. When asked by The Impartial Reporter how many were impacted by this
+  cyber security incident, a spokeperson from FODC confirmed that 2,469 individuals
+  were impacted and no other FODC schemes were impacted. A concerned Aspireparticipant
+  contacted this newspaper on Monday morning regarding the cyber-crime and subsequent
+  data breach. He warned that some of the data entered on the system by participants
+  included; names, addresses, telephone numbers, email addresses, dates of birth and
+  national insurance numbers. Third-party company: Evide Impact Limited.'

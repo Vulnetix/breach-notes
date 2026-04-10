@@ -1,0 +1,16 @@
+source_name: '"March'' Major Private Key Compromises"'
+source_url: https://www.certik.com/resources/blog/private-key-compromises
+date_of_breach: '2024-03-16'
+date_of_disclosure: '2024-03-16'
+category: data-leak
+notes: 'Wilder World is a blockchain-based racing game that uses all the buzzwords:
+  blockchains, artificial intelligence, and metaverse. On March 16, someone with access
+  to the project deployer''s private key upgraded legacy contracts and transfer the
+  project''s $WILD and $MEOW tokens to themselves. Altogether, the attacker profited
+  515 ETH (~$1.8 million), which they then laundered through the Tornado Cash cryptocurrency
+  tumbler.The project blamed the theft on a previous contractor who had the private
+  key. They also explained that the attacker seemed to be a developer based on the
+  fact that they had "specialized knowledge of ZERO''s internal security systems".
+
+
+  Total loss estimated at $1,800,000.'

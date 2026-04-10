@@ -1,0 +1,22 @@
+source_name: Clinical Pathology Laboratories via American Medical Collection Agency (AMCA) Breach
+source_url: https://techcrunch.com/2019/07/17/millions-patients-amca-breach/
+date_of_breach: '2018-08-01'
+date_of_disclosure: '2019-07-17'
+date_of_customer_notification: '2019-07-17'
+category: supply-chain
+initial_attack_vector: Web skimmer / malicious code injected into third-party payment page
+cve: []
+vendor_product: American Medical Collection Agency (AMCA)
+software_package: ''
+malware: web payment page skimmer
+supply_chain_claimed: true
+notes: |
+  Clinical Pathology Laboratories (CPL), an Austin, Texas-based clinical testing company, disclosed on July 17, 2019 that approximately 2.2 million of its patients had personal and financial information exposed as a result of the American Medical Collection Agency (AMCA) breach — the largest healthcare data breach reported in the United States in 2019.
+
+  AMCA, a debt collection subsidiary of Retrieval-Masters Creditors Bureau, processed billing and collections for CPL and dozens of other laboratory companies. Between August 1, 2018 and March 30, 2019, an unauthorized actor compromised AMCA's online patient payment portal, injecting malicious skimming code to capture data entered by patients making payments. The breach was not discovered internally by AMCA; a third-party cybersecurity firm alerted AMCA in late May 2019 after identifying stolen data being sold on dark web markets.
+
+  CPL's disclosure came approximately six weeks after the initial public disclosures from Quest Diagnostics (11.9 million patients) and LabCorp (7.7 million patients), making CPL's exposure one of the larger individual cohorts in the broader AMCA incident. CPL reported that exposed information included patient names, addresses, phone numbers, dates of birth, dates of service, balance information, and treatment provider details. For a subset of approximately 34,500 patients, credit card or bank account numbers entered on the AMCA payment portal were also exposed. Medical test results and Social Security numbers were not stored in AMCA's payment system and were not affected.
+
+  CPL notified affected patients and offered credit monitoring services. The company stated it had stopped sending new collection referrals to AMCA following disclosure.
+
+  AMCA's parent company had already filed for Chapter 11 bankruptcy on June 17, 2019 — unable to sustain the costs of breach notification, remediation, and mounting litigation. By the time of CPL's July disclosure, the total known patient exposure from the AMCA breach had exceeded 22 million, with more companies still coming forward. A 41-state attorney general coalition ultimately assessed $21 million in suspended penalties against AMCA. The breach became a landmark case for third-party vendor risk management in the healthcare industry.

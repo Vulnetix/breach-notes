@@ -1,0 +1,14 @@
+source_name: Tweet by Team Finance
+source_url: https://twitter.com/TeamFinance_/status/1585770918873542656
+date_of_breach: '2022-10-27'
+date_of_disclosure: '2022-10-27'
+category: data-leak
+notes: 'Team Finance is a project that helps projects lock their tokens to be released
+  after a certain period or on a schedule. A hacker exploited a vulnerability in a
+  smart contract that enabled users of Team Finance to migrate from version two to
+  version three of their project, despite that contract being audited. The attacker
+  made off with $14.5 million thanks to the vulnerability, though 90% of the funds
+  were later returned.
+
+
+  Total loss estimated at $1,450,000.'

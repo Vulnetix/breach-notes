@@ -1,0 +1,13 @@
+source_name: "Snapchat Employee Payroll Data Theft via CEO Impersonation"
+source_url: "https://www.bleepingcomputer.com/news/security/snapchat-employee-payroll-data-stolen-in-phishing-attack/"
+date_of_breach: "2016-02-26"
+date_of_disclosure: "2016-02-28"
+date_of_customer_notification: "2016-02-28"
+category: "credential-theft"
+initial_attack_vector: "An attacker impersonated Snapchat's CEO Evan Spiegel in a phishing email sent to a Snapchat payroll employee, requesting payroll information; the employee complied and sent payroll data for a number of current and former employees to the attacker — a classic CEO fraud / business email compromise (BEC) attack"
+cve: []
+vendor_product: "Snapchat HR / payroll systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 26 February 2016, a Snapchat payroll department employee received an email purportedly from CEO Evan Spiegel requesting payroll information for employees. The employee complied and emailed payroll data for a number of current and former Snapchat employees to the attacker. Snapchat disclosed the breach on 28 February 2016 and apologised to affected employees. Exposed data included W-2 earnings information and payroll information for approximately 700 current and former employees, including names, Social Security numbers, wages, and addresses. Snapchat notified all affected employees, offered credit monitoring and identity theft insurance, and contacted the FBI. Snapchat called it a 'phishing scam' and confirmed no user data was affected. The CEO impersonation method — known as 'spear-phishing executive impersonation' or 'CEO fraud' — is a variant of business email compromise where attackers research executive names from public sources (LinkedIn, company websites) and send convincing emails impersonating them to employees with financial or HR access. The FBI's Internet Crime Complaint Center (IC3) had issued warnings about this exact type of attack in January 2015 and February 2016, noting it had cost US businesses approximately $1 billion. Snapchat's breach came weeks after similar CEO fraud incidents at Austria's FACC (€50M loss) and Belgium's Crelan bank (€70M loss)."

@@ -1,0 +1,17 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1562473638992850947
+date_of_breach: '2022-08-24'
+date_of_disclosure: '2022-08-24'
+category: data-leak
+notes: In 2020, a Canadian teenager used SIM swapping to steal US$37 million in Bitcoin
+  and Bitcoin Cash from a single person. Canadian police announced his arrest in November
+  2021 after he tried to buy a rare gaming username, also writing that they had seized
+  around $5 million of the stolen funds.Now, crypto investigator zachxbt thinks the
+  same individual is indirectly responsible for a slew of compromised Twitter accounts
+  that have then been used to promote crypto scams, including those of Beeple, DeeKay,
+  and others. According to zachxbt, he has been selling access to a Twitter admin
+  panel, which allows employee-level access to Twitter tools. This might explain how
+  many of the accounts were compromised despite being protected by multi-factor authentication.
+  According to zachxbt, "It's still unclear as to how Redman gained access to the
+  panel to make elevated requests &amp; reset passwords. As of now it appears the
+  method stopped working".

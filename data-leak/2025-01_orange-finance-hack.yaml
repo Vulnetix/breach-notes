@@ -1,0 +1,17 @@
+source_name: Tweet by Orange Finance
+source_url: https://x.com/0xOrangeFinance/status/1876863611458801890
+date_of_breach: '2025-01-08'
+date_of_disclosure: '2025-01-08'
+category: data-leak
+notes: 'The Arbitrum-based liquidity management project Orange Finance suffered at
+  least $840,000 in losses after hackers compromised the project''s admin address,
+  then used it to upgrade the project''s smart contracts and transfer funds."The team
+  is not sure what happened," wrote Orange Finance in a tweet announcing the hack,
+  encouraging people to revoke contract approvals for the compromised addresses.Orange
+  Finance attempted to negotiate with the attacker via on-chain message, writing,
+  "If you respond positively to our offer within 24 hours, we guarantee that no law
+  enforcement agencies will be involved, and the matter will be treated as a white-hat
+  hack."
+
+
+  Total loss estimated at $840,000.'

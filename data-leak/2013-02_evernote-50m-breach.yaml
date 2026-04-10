@@ -1,0 +1,13 @@
+source_name: "Evernote Database Breach — 50 Million User Accounts Forced Password Reset"
+source_url: "https://evernote.com/blog/security-notice-service-wide-password-reset/"
+date_of_breach: "2013-02-28"
+date_of_disclosure: "2013-03-02"
+date_of_customer_notification: "2013-03-02"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained access to Evernote's user database; Evernote described the attack as targeting their network infrastructure; attacker accessed usernames, email addresses, and encrypted passwords"
+cve: []
+vendor_product: "Evernote user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late February 2013, Evernote — the popular note-taking application with approximately 50 million registered users — detected and blocked suspicious activity on its network. The attackers accessed usernames, email addresses associated with Evernote accounts, and encrypted passwords (using PBKDF2 password hashing). Evernote disclosed the breach on 2 March 2013 and immediately required all users to reset their passwords. Payment card data and user notes were stored in separate systems and were not compromised. Evernote's rapid disclosure (within days of discovery) and immediate forced password reset was praised by security researchers. The company's blog post was direct and transparent, explaining exactly what was and was not accessed. The PBKDF2 password hashing provided better protection than simpler schemes used by many contemporaneous services. The breach highlighted that note-taking and productivity applications containing significant personal and business information were attractive targets for credential theft. Evernote continued to grow following the breach."

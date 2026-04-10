@@ -1,0 +1,17 @@
+source_name: Tweet by Ben Zhou
+source_url: https://x.com/benbybit/status/1892963530422505586
+date_of_breach: '2025-02-21'
+date_of_disclosure: '2025-02-21'
+category: data-leak
+notes: 'In what is looking like largest ever theft from a cryptocurrency exchange,
+  attackers took control of a hot wallet belonging to the Bybit cryptocurrency exchange
+  and moved a massive amount of ETH-based tokens amounting to approximately $1.5 billion
+  in notional value (though it should be noted that that quantity of stolen tokens
+  could not be quickly cashed out for that many dollars without affecting the ETH
+  price).Bybit CEO Ben Zhou confirmed the attack on Twitter, writing that an attacker
+  used an advanced phishing technique to take control of the hot wallet. Zhou also
+  promised "Bybit is Solvent even if this hack loss is not recovered, all of clients
+  assets are 1 to 1 backed, we can cover the loss."
+
+
+  Total loss estimated at $1,457,110,000.'

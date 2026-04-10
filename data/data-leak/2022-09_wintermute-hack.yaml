@@ -1,0 +1,21 @@
+source_name: Tweet thread by Evgeny Gaevoy
+source_url: https://twitter.com/EvgenyGaevoy/status/1572134271011225601
+date_of_breach: '2022-09-20'
+date_of_disclosure: '2022-09-20'
+category: data-leak
+notes: 'The algorithmic market maker Wintermute suffered a major hack, according to
+  their CEO. He estimated the loss at around $160 million, also writing that the company
+  is "solvent with twice over that amount in equity left".Wintermute hasn''t disclosed
+  more about the attack, but it''s possible that the hacker may have exploited the
+  vulnerability in the vanity wallet address generator Profanity, which was disclosed
+  five days prior. The crypto asset vault admin had a wallet address prefixed with
+  0x0000000, a vanity address that would have been susceptible to attack if it was
+  created using the Profanity tool.This is the second incident involving Wintermute
+  in the past few months. In June, the group provided the wrong wallet address to
+  the Optimism project, and Optimism sent 20 million OP tokens to a non-existent address.
+  Another person noticed the error before they did and was able to take the tokens.
+  They ultimately returned 17 million of the tokens to Wintermute, keeping the rest
+  as a "bounty". $OP have been trading at around $1 as of mid-September.
+
+
+  Total loss estimated at $160,000,000.'

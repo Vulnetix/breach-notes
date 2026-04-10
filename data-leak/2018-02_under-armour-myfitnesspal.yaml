@@ -1,0 +1,13 @@
+source_name: "Under Armour MyFitnessPal Breach — 150 Million Accounts"
+source_url: "https://content.myfitnesspal.com/security-information/FAQ.html"
+date_of_breach: "2018-02-01"
+date_of_disclosure: "2018-03-29"
+date_of_customer_notification: "2018-03-29"
+category: "data-leak"
+initial_attack_vector: "Unauthorized party acquired data associated with MyFitnessPal user accounts; specific technical attack vector was not disclosed by Under Armour; data was obtained from the MyFitnessPal app and website user database"
+cve: []
+vendor_product: "MyFitnessPal (Under Armour) user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In February 2018, an unauthorized party obtained data from approximately 150 million MyFitnessPal user accounts. Under Armour, which had acquired MyFitnessPal in 2015 for $475 million, discovered the breach on 25 March 2018 and disclosed it publicly on 29 March 2018 — within four days of discovery. Data stolen included usernames, email addresses, and hashed passwords. The majority of passwords were hashed using bcrypt; however, a subset were hashed with SHA-1 without salting, making them more vulnerable to cracking. Payment card data was not affected as it was handled via separate payment systems. Government-issued IDs, SSNs, and driver's license numbers were not collected and therefore not exposed. The rapid disclosure — just four days after discovery — was praised by security researchers. The data eventually appeared on the dark web and was incorporated into Have I Been Pwned. In 2020, the stolen MyFitnessPal data was offered for sale on dark web markets. Under Armour's stock dropped approximately 3.8% following the disclosure. The breach was notable for the mix of password hashing strengths (stronger bcrypt for newer accounts, weaker SHA-1 for older accounts), illustrating the challenge of migrating legacy password stores."

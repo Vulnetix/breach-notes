@@ -1,0 +1,20 @@
+source_name: T-Mobile Third-Party Breach (June 2024)
+source_url: https://www.bleepingcomputer.com/news/security/t-mobile-denies-it-was-hacked-links-leaked-data-to-vendor-breach/
+date_of_breach: 2024-06-01
+date_of_disclosure: '2024-06-19'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: T-Mobile denies it was hacked, links leaked data to vendor breach. T-Mobile
+  has denied it was breached or that source code was stolen after a threat actor claimed
+  to be selling stolen data from the telecommunications company. "T-Mobile systems
+  have not been compromised. We are actively investigating a claim of an issue at
+  a third-party service provider," T-Mobile shared in a statement to BleepingComputer.
+  "We have no indication that T-Mobile customer data or source code was included and
+  can confirm that the bad actor's claim that T-Mobile's infrastructure was accessed
+  is false.".

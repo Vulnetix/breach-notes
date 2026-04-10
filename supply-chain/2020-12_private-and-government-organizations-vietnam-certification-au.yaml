@@ -1,0 +1,22 @@
+source_name: Private and Government Organizations in Vietnam Third-Party Breach (December
+  2020)
+source_url: https://www.welivesecurity.com/2020/12/17/operation-signsight-supply-chain-attack-southeast-asia/
+date_of_breach: 2020-12-01
+date_of_disclosure: 2020-12-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Vietnam Certification Authority
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Operation SignSight: Supply-chain attack against a certification authority
+  in Southeast Asia. ESET researchers have uncovered a supply-chain attack on the
+  website of a government in Southeast Asia. Award-winning news, views, and insight
+  from the ESET security community. Just a few weeks after the supply-chain attack
+  on the Able Desktop software , another similar attack occurred on the website of
+  the Vietnam Government Certification Authority (VGCA): ca.gov.vn . The attackers
+  modified two of the software installers available for download on this website and
+  added a backdoor in order to compromise users of the legitimate application. Third-party
+  company: Vietnam Certification Authority.'

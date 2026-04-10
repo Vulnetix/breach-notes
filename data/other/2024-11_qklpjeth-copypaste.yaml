@@ -1,0 +1,18 @@
+source_name: '"Trader who lost $26M to copy-paste error says it’s been ‘max pain’"'
+source_url: https://cointelegraph.com/news/trader-loses-26-million-copy-paste-error-max-pain
+date_of_breach: '2024-11-10'
+date_of_disclosure: '2024-11-10'
+category: other
+notes: 'After apparently exhausting all his other options, a trader has put out a
+  call to "all skilled hackers and white hats out there" to help him recover 7,912
+  Renzo staked ETH (ezETH) he inadvertently sent to an inaccessible address back in
+  June. The tokens were priced at a little over $28 million at the time, and are currently
+  priced at a little less than $26 million. According to the trader, he copied the
+  wrong address to his clipboard before making the trade, which rendered his funds
+  permanently inaccessible.Short of finding a vulnerability in Renzo, the trader''s
+  only real choice is to plead with Renzo to change their smart contract in such a
+  way as to release the funds. While this is technically possible, Renzo has told
+  the trader they could not grant his request due to "regulatory limitations".
+
+
+  Total loss estimated at $28,127,000.'

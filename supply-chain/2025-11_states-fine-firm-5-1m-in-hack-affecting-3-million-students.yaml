@@ -1,0 +1,18 @@
+source_name: States Fine Firm $5.1M in Hack Affecting 3 Million Students (DataBreachToday)
+source_url: https://www.databreachtoday.com/states-fine-firm-51m-in-hack-affecting-3-million-students-a-29974
+date_of_breach: '2025-11-10'
+date_of_disclosure: '2025-11-10'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'A California-based vendor of software used to collect and analyze student
+  data, including records of children with disabilities and special educational needs,
+  has
+
+
+  Source: DataBreachToday article coverage.'

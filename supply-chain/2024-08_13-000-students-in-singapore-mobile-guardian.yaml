@@ -1,0 +1,22 @@
+source_name: 13,000 students in Singapore Third-Party Breach (August 2024)
+source_url: https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/
+date_of_breach: 2024-08-01
+date_of_disclosure: '2024-08-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Mobile Guardian
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Hacker wipes 13,000 devices after breaching classroom management platform.
+  A hacker has breached Mobile Guardian, a digital classroom management platform used
+  worldwide, and remotely wiped data from at least 13,000 student''s iPads and Chromebooks.
+  Mobile Guardian, a ''Google for Education'' partner, is a cross-platform (Android,
+  Windows, iOS, ChromeOS, macOS) one-on-one solution for K-12 schools that offers
+  a complete suite of device management, parental monitoring and control, secure web
+  filtering, classroom management, and communications. The platform announced it suffered
+  a security breach on August 4, 2024, where a hacker gained unauthorized access to
+  its platform, impacting its North American, European, and Singaporean instances.
+  Third-party company: Mobile Guardian.'

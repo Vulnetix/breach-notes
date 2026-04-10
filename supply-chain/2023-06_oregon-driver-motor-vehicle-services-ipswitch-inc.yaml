@@ -1,0 +1,20 @@
+source_name: Oregon Driver & Motor Vehicle Services Third-Party Breach (June 2023)
+source_url: https://www.bleepingcomputer.com/news/security/millions-of-oregon-louisiana-state-ids-stolen-in-moveit-breach/
+date_of_breach: 2023-06-01
+date_of_disclosure: '2023-06-16'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Millions of Oregon, Louisiana state IDs stolen in MOVEit breach. Louisiana
+  and Oregon warn that millions of driver''s licenses were exposed in a data breach
+  after a ransomware gang hacked their MOVEit Transfer security file transfer systems
+  to steal stored data. These attacks were conducted by the Clop ransomware operation
+  , which began worldwide hacks of MOVEit Transfer servers on May 27th using a previously
+  unknown, zero-day vulnerability tracked as CVE-2023-34362. These attacks have led
+  to widespread disclosures of data breaches worldwide, impacting companies, federal
+  government agencies, and local state agencies. Third-party company: Ipswitch, Inc..'

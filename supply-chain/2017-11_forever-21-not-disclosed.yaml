@@ -1,0 +1,46 @@
+source_name: Forever 21 Point-of-Sale Malware Breach
+source_url: https://www.bankinfosecurity.com/forever-21-suffered-7-month-pos-malware-attack-a-10555
+date_of_breach: '2017-04-03'
+date_of_disclosure: '2017-11-14'
+date_of_customer_notification: '2018-01-18'
+category: supply-chain
+initial_attack_vector: Point-of-sale malware installed on in-store payment systems where encryption had been disabled
+cve: []
+vendor_product: ''
+software_package: ''
+malware: POS RAM-scraping malware (unnamed)
+supply_chain_claimed: true
+notes: >-
+  Between April 3 and November 18, 2017, point-of-sale malware infected payment
+  systems at an undisclosed number of Forever 21 retail stores across the United
+  States. The breach lasted approximately seven months before the company was
+  alerted by an unnamed third party in mid-October 2017 that customer card data
+  may have been compromised.
+
+  The investigation, completed in January 2018, revealed a critical security
+  failure: encryption technology that had been implemented on Forever 21's POS
+  devices was not operational on certain devices at some store locations. On those
+  unencrypted terminals, the malware was able to capture payment card data in
+  cleartext as it was processed. The duration of the malware's presence varied by
+  location, with some stores compromised for the full seven months and others for
+  only days or weeks.
+
+  Compromised data included payment card numbers, expiration dates, and internal
+  verification codes. In some instances, cardholder names were also captured. The
+  investigation additionally found that certain POS systems were logging completed
+  transaction data, including card details, which the malware was also able to
+  access. This compounded the exposure, as the logs could contain historical
+  transaction data beyond just real-time card swipes.
+
+  Forever 21 emphasized that online transactions processed through its website
+  were not affected, as those payments used a separate, encrypted processing
+  pathway. Only in-store purchases at U.S. locations were impacted.
+
+  The breach was notable for the encryption-disabled finding, which suggested a
+  failure of configuration management and security monitoring rather than a
+  sophisticated attack bypassing existing controls. The POS systems were supposed
+  to be encrypting card data at the point of interaction, which would have rendered
+  the RAM-scraping malware ineffective. The fact that encryption was turned off on
+  certain devices, apparently without detection, indicated gaps in Forever 21's
+  security monitoring and compliance verification processes. The retailer did not
+  disclose the total number of affected customers or stores.

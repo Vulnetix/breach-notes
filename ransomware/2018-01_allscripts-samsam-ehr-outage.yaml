@@ -1,0 +1,13 @@
+source_name: "Allscripts Healthcare Ransomware — SamSam Encrypts Cloud EHR, 1,500 Practices Offline"
+source_url: "https://www.healthcareitnews.com/news/allscripts-recovers-ransomware-attack-update"
+date_of_breach: "2018-01-18"
+date_of_disclosure: "2018-01-19"
+date_of_customer_notification: "2018-01-19"
+category: "ransomware"
+initial_attack_vector: "SamSam ransomware attackers targeted Allscripts' data centers in Raleigh, NC and Malvern, PA; SamSam is deployed via brute force of RDP credentials or exploitation of server vulnerabilities (JBOSS, JMX); the attackers gained access and deployed ransomware across Allscripts' cloud hosting infrastructure"
+cve: []
+vendor_product: "Allscripts Healthcare Solutions cloud EHR hosting infrastructure"
+software_package: ""
+malware: "SamSam ransomware"
+supply_chain_claimed: true
+notes: "On 18 January 2018, SamSam ransomware attackers encrypted systems at Allscripts Healthcare Solutions data centers, taking offline cloud-hosted electronic health record (EHR) and practice management services for approximately 1,500 physician practices and 2,500 hospitals and healthcare organisations. Allscripts is one of the largest US health IT companies providing EHR, practice management, and connectivity solutions. The outage lasted from 18 January until approximately 24 January 2018. During this period, affected physicians were unable to access patient records, prescribe medications electronically, schedule appointments, or bill for services. The financial impact was severe: physicians reported inability to see patients, cancelled appointments, and lost revenue. A Wisconsin healthcare system filed a lawsuit against Allscripts seeking $30 million in damages — one of the largest lawsuits against an EHR vendor for a ransomware incident. Allscripts stated it would restore affected data from backups and would not pay the ransom. The SamSam ransomware group (later attributed to Iranian nationals) also attacked hospitals, municipalities, and other critical infrastructure. The Allscripts attack was notable for its extreme downstream impact: a single vendor attack affecting 1,500+ practices demonstrated the systemic healthcare supply chain risk of cloud EHR centralisation. Two Iranians were indicted by the DOJ in November 2018 for the broader SamSam campaign."

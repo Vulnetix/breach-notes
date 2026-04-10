@@ -1,0 +1,19 @@
+source_name: Nissan North America Third-Party Breach (January 2023)
+source_url: https://www.bleepingcomputer.com/news/security/nissan-north-america-data-breach-caused-by-vendor-exposed-database/
+date_of_breach: 2023-01-01
+date_of_disclosure: '2023-01-17'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Unknown
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Nissan North America data breach caused by vendor-exposed database. Nissan
+  North America has begun sending data breach notifications informing customers of
+  a breach at a third-party service provider that exposed customer information. The
+  security incident was reported to the Office of the Maine Attorney General on Monday,
+  January 16, 2023, where Nissan disclosed that 17,998 customers were affected by
+  the breach. In the notification sample, Nissan claims it received notice of a data
+  breach from one of its software development vendors on June 21, 2022.

@@ -1,0 +1,21 @@
+source_name: Taylor Rose Third-Party Breach (November 2023)
+source_url: https://propertyindustryeye.com/eye-newsflash-major-cybersecurity-issue-preventing-transactions-progressing/
+date_of_breach: 2023-11-01
+date_of_disclosure: '2023-11-24'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: CTS
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'EYE NEWSFLASH: Major ‘cybersecurity issue’ preventing transactions progressing
+  - Property Industry Eye. EYE NEWSFLASH: Major ‘cybersecurity issue’ preventing transactions
+  progressing - Breaking news for estate agents and the residential property industry.
+  Independent, unbiased, and factual reporting. A forum for discussion and debate
+  of topics of the day. Subscribe for our free daily newsletter. A major cybersecurity
+  issue affecting the property legal sector is creating mayhem in property chains
+  across the UK. Exchanges and completions are at risk of being severely delayed as
+  conveyancing firms struggle to access necessary systems to progress transactions.
+  Third-party company: CTS.'

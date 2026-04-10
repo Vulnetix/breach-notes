@@ -1,0 +1,22 @@
+source_name: Cornell University, Ithaca College, Virginia Tech University, SUNY Oswego,
+  Colorado State University, Loyola University Chicago and McMaster University Third-Party
+  Breach (March 2023)
+source_url: https://theithacan.org/news/students-bank-accounts-hacked-because-of-ticketing-software-breach/
+date_of_breach: 2023-03-01
+date_of_disclosure: '2023-03-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: AudienceView
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Students'' bank accounts hacked because of ticketing software breach - The
+  Ithacan. After attending a concert at Cornell University featuring Beach Bunny on
+  Jan. 28, several Ithaca College students’ credit and debit card information was
+  hacked. Your donation will support The Ithacan''s student journalists in their effort
+  to keep the Ithaca College and wider Ithaca community informed. Your contribution
+  will allow us to purchase equipment and cover our annual website hosting costs.
+  Ithaca protesters demand ‘No Kings’ in third wave of nationwide anti-Trump rally
+  • 629 Views. Third-party company: AudienceView.'

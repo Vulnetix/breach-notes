@@ -1,0 +1,15 @@
+source_name: '"Hacker bungles DeFi exploit: Leaves stolen $1M in contract set to self
+  destruct"'
+source_url: https://cointelegraph.com/news/hacker-bungles-defi-exploit-leaves-stolen-1m-in-contract-set-to-self-destruct
+date_of_breach: '2022-04-21'
+date_of_disclosure: '2022-04-21'
+category: data-leak
+notes: 'An attacker targeted the ZEED defi projects, successfully using a flash loan
+  attack to pull just over $1 million from the project. With the funds transferred
+  to the attack contract, the hacker then called the contract''s self-destruct function,
+  making it impossible for the funds to ever be withdrawn. It''s unclear if this was
+  intentional and done as a sort of statement, or if the attacker intended to take
+  the profit for themselves but forgot to do so before destroying the contract.
+
+
+  Total loss estimated at $1,041,237.'

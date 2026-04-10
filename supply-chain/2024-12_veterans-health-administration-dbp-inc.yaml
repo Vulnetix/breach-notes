@@ -1,0 +1,24 @@
+source_name: Veterans Health Administration Third-Party Breach (December 2024)
+source_url: https://www.hipaajournal.com/colonial-behavioral-health-veterans-health-administration-ransomware/
+date_of_breach: 2024-12-01
+date_of_disclosure: '2024-12-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: DBP, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Colonial Behavioral Health & Veterans Health Administration Patients Affected
+  by Ransomware Attacks. Colonial Behavioral Health and a medical transcription service
+  provider used by the Veterans Health Administration have experienced ransomware
+  attacks Colonial Behavioral Health and a medical transcription service provider
+  used by the Veterans Health Administration have experienced ransomware attacks that
+  potentially involved the theft of patient data. Colonial Behavioral Health, a behavioral
+  health and psychiatric service provider in the Greater Williamsburg Area of Virginia,
+  has fallen victim to a ransomware attack. The attack was detected on or around October
+  4, 2024, when access to files and systems was disrupted. Immediate action was taken
+  to contain the attack and prevent further unauthorized access to its systems and
+  third-party cybersecurity experts were engaged to investigate the incident. Third-party
+  company: DBP, Inc..'

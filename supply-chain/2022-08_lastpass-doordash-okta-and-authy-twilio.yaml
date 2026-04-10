@@ -1,0 +1,54 @@
+source_name: "0ktapus / Twilio Supply Chain Attack: LastPass, DoorDash, Okta, Authy (August 2022)"
+source_url: "https://www.bleepingcomputer.com/news/security/twilio-hackers-hit-over-130-orgs-in-massive-okta-phishing-attack/"
+date_of_breach: 2022-08-04
+date_of_disclosure: 2022-08-08
+date_of_customer_notification: ""
+category: supply-chain
+initial_attack_vector: SMS phishing (smishing) of employee credentials leading to downstream supply chain compromise
+cve: []
+vendor_product: Twilio
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  On August 4, 2022, Twilio — a cloud communications platform used by thousands of businesses — confirmed
+  that attackers had breached its internal systems by sending SMS phishing messages to Twilio employees. The
+  texts impersonated Twilio's IT department, claiming that employee passwords had expired and directing
+  recipients to a spoofed Twilio login page that harvested credentials and multi-factor authentication codes
+  in real time. At least a few Twilio employees fell for the messages, giving attackers authenticated access
+  to Twilio's internal customer support systems.
+
+  The attack was part of a coordinated campaign dubbed "0ktapus" (also tracked as "Scatter Swine") by
+  Group-IB researchers. The campaign ultimately compromised more than 130 organizations by phishing Okta
+  single-sign-on credentials and MFA codes, then using those credentials to pivot into downstream targets.
+  Across the full 0ktapus campaign, attackers harvested approximately 9,931 user credentials and 5,441 MFA
+  codes, all exfiltrated to a Telegram-based command channel.
+
+  Twilio disclosed that 209 customer accounts and 93 Authy end-user accounts were directly compromised.
+  The downstream impact spread quickly:
+
+  - Okta: Twilio's access to its customer support console allowed attackers to access phone numbers and
+    OTPs belonging to Okta customers. Okta later disclosed it was among the 163 Twilio customers whose
+    data was exposed. Okta attributed the same threat actor to a separate campaign it called "Scatter Swine."
+
+  - Signal: Twilio provided phone-number verification (SMS OTP delivery) for Signal. During the window
+    of unauthorized access, attackers could see Signal users' phone numbers and potentially redirect
+    SMS verification codes. Approximately 1,900 Signal user phone numbers were exposed (covered in a
+    separate record).
+
+  - Authy: Twilio's two-factor authentication app Authy had 93 end-user accounts accessed, with
+    attackers able to register additional devices to those accounts and intercept future OTP codes.
+
+  - DoorDash: Attackers used credentials obtained via a Twilio-connected vendor to access DoorDash's
+    internal systems, exposing names, email addresses, delivery addresses, phone numbers, partial payment
+    card data, and order history for a subset of customers and delivery workers.
+
+  - LastPass: LastPass confirmed it detected unusual activity originating from a third-party vendor
+    (later confirmed to be Twilio-connected infrastructure) that accessed its developer environment.
+    While no customer vault data was taken in this initial August event, it was the first intrusion
+    in a two-stage attack that ultimately led to the major LastPass vault-data theft in November 2022.
+
+  The 0ktapus campaign demonstrated how compromising a single telephony/identity infrastructure provider
+  could cascade across dozens of high-value downstream organizations simultaneously. Cloudflare also
+  received the same SMS phishing messages but avoided compromise because it had deployed hardware FIDO2
+  security keys for all employee authentication, making phished passwords and OTPs useless alone.

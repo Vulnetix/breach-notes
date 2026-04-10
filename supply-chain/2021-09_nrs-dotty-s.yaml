@@ -1,0 +1,44 @@
+source_name: "Nevada Restaurant Services (Dotty's) Malware Breach (2021)"
+source_url: "https://www.biometricupdate.com/202109/slot-machine-chain-exposes-customer-biometrics-in-data-breach"
+date_of_breach: 2021-01-16
+date_of_disclosure: 2021-09-15
+date_of_customer_notification: "2021-09-15"
+category: supply-chain
+initial_attack_vector: Malware infection enabling unauthorized data exfiltration from internal systems
+cve: []
+vendor_product: "Nevada Restaurant Services / Dotty's"
+software_package: ""
+malware: "unspecified malware"
+supply_chain_claimed: false
+notes: |-
+  Nevada Restaurant Services (NRS), the parent company of slot machine parlor chain Dotty's, disclosed a data
+  breach in September 2021 after identifying the presence of malware on certain computer systems in its
+  environment. The intrusion occurred on or before January 16, 2021, meaning attackers had access for months
+  before discovery. NRS determined that an unauthorized actor was able to copy certain information from its
+  systems during this window.
+
+  Dotty's operates approximately 175 slot machine parlor locations primarily in Nevada, and maintains a loyalty
+  player database of roughly 300,000 customers. NRS did not specify the exact number of individuals whose data
+  was exfiltrated. The breadth of data categories exposed was extensive: names, dates of birth, Social Security
+  numbers, driver's license or state ID numbers, passport numbers, financial account and routing numbers, health
+  insurance information, medical treatment records, biometric data, taxpayer identification numbers, and credit
+  card numbers with expiration dates. The inclusion of biometric data was particularly notable given the
+  sensitivity and irreversibility of that category.
+
+  The disclosure in September 2021 came roughly eight months after the estimated breach date, raising questions
+  about detection capabilities. NRS stated it had security measures in place and has worked to add further
+  technical safeguards. Affected individuals were offered 12 months of complimentary credit monitoring and
+  identity theft protection services through IDX.
+
+  The breach generated significant class action litigation. A $6.49 million class action settlement was
+  subsequently reached to resolve claims arising from the incident. The case highlighted the particular
+  sensitivity of biometric data held by gaming and hospitality operators who use fingerprint or facial
+  recognition systems for loyalty programs, age verification, and payment processing in gaming environments.
+
+  This incident was not a traditional supply-chain compromise of a third-party vendor; rather, it was a direct
+  malware attack against NRS's own systems. The BlackKite "supply-chain" classification appears to stem from
+  the fact that Dotty's is a brand/subsidiary of NRS rather than a true third-party vendor breach.
+
+  Sources: https://www.biometricupdate.com/202109/slot-machine-chain-exposes-customer-biometrics-in-data-breach
+  https://www.casino.org/news/dottys-confirms-data-breach-gaming-company-latest-cyberattack-victim/
+  https://topclassactions.com/lawsuit-settlements/closed-settlements/nevada-restaurant-services-data-breach-class-action-settlement/

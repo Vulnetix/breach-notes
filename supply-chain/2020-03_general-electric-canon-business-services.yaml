@@ -1,0 +1,16 @@
+source_name: General Electric Third-Party Breach (March 2020)
+source_url: https://www.tripwire.com/state-of-security/featured/ge-data-breach-third-party/
+date_of_breach: 2020-03-01
+date_of_disclosure: '2020-03-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Canon Business Services
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party data breach exposes GE employees'' personal information. Past
+  and present employees of GE are learning that their sensitive information has been
+  exposed by a data breach at a third-party service provider. Third-party company:
+  Canon Business Services.'

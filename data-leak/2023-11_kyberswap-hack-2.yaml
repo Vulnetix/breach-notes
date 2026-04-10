@@ -1,0 +1,24 @@
+source_name: '"KyberSwap offers 10% bounty to hacker following $47 million exploit"'
+source_url: https://www.theblock.co/post/264579/kyberswap-offers-10-bounty-to-hacker-following-47-million-exploit
+date_of_breach: '2023-11-22'
+date_of_disclosure: '2023-11-22'
+category: data-leak
+notes: 'The KyberSwap decentralized exchange was hacked by an attacker who stole large
+  sums of ETH, wETH, and the USDC stablecoin. Altogether, the assets are valued at
+  around $54.7 million. The attacker was able to exploit a complex bug in a feature
+  for liquidity pool providers. Prior to the hack, KyberSwap had approximately $80
+  million in TVL.Shortly after the attack, the thief sent a message: "Negotiations
+  will start in a few hours when I am fully rested." The KyberSwap team later responded
+  to offer a 10% bounty, also seeming to praise the attacker: "You have done one of
+  the most sophisticated hacks ser. That was high EV and everyone missed it."The thief
+  had other plans, though, ultimately issuing a list of "demands" which included "complete
+  executive control" over the company and "surrender of all ... assets" to the hacker.
+  They wrote that they had big plans for the network, and although they planned to
+  dismiss all executives, they wrote that employees would be offered double salaries
+  to continue their work. The hacker signed the message "Kyber Director".Meanwhile,
+  KyberSwap regained around $4.7 million after negotiations with the operators of
+  front-running bots, who agreed to return 90% of the funds they obtained through
+  frontrunning the hacker''s transactions.
+
+
+  Total loss estimated at $50,000,000.'

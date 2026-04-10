@@ -1,0 +1,13 @@
+source_name: Telegram message
+source_url: https://t.me/investigations/136
+date_of_breach: '2024-06-22'
+date_of_disclosure: '2024-06-22'
+category: data-leak
+notes: 'It appears that the online crypto sports betting platform Sportsbet.io suffered
+  a theft of around $3.5 million in USDT and Tron''s TRX tokens. The theft was observed
+  by crypto sleuth zachxbt, who noted that the theft seems to have been perpetrated
+  by the same attacker who stole at least $55 million from the BtcTurk cryptocurrency
+  exchange only hours earlier.SportsBet has not yet disclosed any theft.
+
+
+  Total loss estimated at $3,500,000.'

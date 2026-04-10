@@ -1,0 +1,13 @@
+source_name: '"The NFT scammers are here"'
+source_url: https://www.theverge.com/22683766/nft-scams-theft-social-engineering-opensea-community-recovery
+date_of_breach: '2021-08-25'
+date_of_disclosure: '2021-08-25'
+category: data-leak
+notes: 'The day after Nicholas lost almost $500,000 to NFT scammers, another collector
+  was targeted for an even larger sum. "I''ve never felt more dumb, helpless, embarrassed
+  or just plain sad in my entire life", Farudi wrote on Twitter. The scammers, who
+  pretended to be the founders of the popular Bored Ape NFT collection, had tricked
+  him into exposing his private key QR code to them in another Discord/OpenSea scam.
+
+
+  Total loss estimated at $800,000.'

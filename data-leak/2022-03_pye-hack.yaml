@@ -1,0 +1,13 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1507024110534422532
+date_of_breach: '2022-03-24'
+date_of_disclosure: '2022-03-24'
+category: data-leak
+notes: 'The security firm PeckShield reported that the Pye ecosystem had been targeted
+  with a flash loan attack, which drained around $2.6 million from the protocol. Pye
+  is a group of defi software projects built on the Binance Chain. The project had
+  just undergone a large migration, and it appeared the bug may have been introduced
+  in the new contracts.
+
+
+  Total loss estimated at $2,600,000.'

@@ -1,0 +1,14 @@
+source_name: '"FinCEN Proposes New Regulation to Enhance Transparency in Convertible
+  Virtual Currency Mixing and Combat Terrorist Financing"'
+source_url: https://www.fincen.gov/news/news-releases/fincen-proposes-new-regulation-enhance-transparency-convertible-virtual-currency
+date_of_breach: '2023-10-19'
+date_of_disclosure: '2023-10-19'
+category: other
+notes: The U.S. Treasury Department introduced a proposal for new regulation that
+  would require cryptocurrency mixers (also called tumblers) to up their recordkeeping
+  and reporting processes. Needless to say, for a class of projects intended to help
+  people anonymize their cryptocurrency transactions and make them more challenging
+  for governments and others to track, this would somewhat undermine the whole point.That
+  seems to be the intention of the Treasury Department, who described mixers as primarily
+  used for illicit money laundering "by a broad range of illicit actors, including
+  state-affiliated cyber actors, cyber criminals, and terrorist groups".

@@ -1,0 +1,23 @@
+source_name: Virginia Farm Bureau Service Corporation Third-Party Breach (March 2024)
+source_url: https://www.hipaajournal.com/235000-individuals-affected-by-yakima-valley-radiology-data-breach/
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-05'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Employee Benefits Corporation of America and Benefit Design Group,
+  Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: '235,000 Individuals Affected by Yakima Valley Radiology Data Breach. Yakima
+  Valley Radiology has suffered a data breach that has affected 235,249 individuals.
+  Data breaches have also been reported by Employee Benefits Yakima Valley Radiology
+  has suffered a data breach that has affected 235,249 individuals. Data breaches
+  have also been reported by Employee Benefits Corporation of America and Benefit
+  Design Group, and Lena Pope Home. Yakima Valley Radiology in Washington has recently
+  notified 235,249 individuals that there has been unauthorized access to a limited
+  amount of patient data. The breach was detected on August 18, 2023, and third-party
+  forensics experts were engaged to investigate the breach. Third-party company: Employee
+  Benefits Corporation of America and Benefit Design Group, Inc..'

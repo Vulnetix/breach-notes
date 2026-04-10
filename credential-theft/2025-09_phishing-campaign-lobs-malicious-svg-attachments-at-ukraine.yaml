@@ -1,0 +1,17 @@
+source_name: Phishing Campaign Lobs Malicious SVG Attachments at Ukraine (DataBreachToday)
+source_url: https://www.databreachtoday.com/phishing-campaign-lobs-malicious-svg-attachments-at-ukraine-a-29575
+date_of_breach: '2025-09-26'
+date_of_disclosure: '2025-09-26'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A fake police alert is the social engineering cornerstone of an ongoing phishing
+  campaign targeting Ukrainian government agencies, warn security researchers.
+
+
+  Source: DataBreachToday article coverage.'

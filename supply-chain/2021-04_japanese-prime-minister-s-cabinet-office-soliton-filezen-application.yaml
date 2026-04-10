@@ -1,0 +1,23 @@
+source_name: Japanese Prime Minister's Cabinet Office Third-Party Breach (April 2021)
+source_url: https://therecord.media/hacking-campaign-targets-filezen-file-sharing-network-appliances/
+date_of_breach: 2021-04-01
+date_of_disclosure: '2023-01-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Soliton (FileZen application)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Hacking campaign targets FileZen file-sharing network appliances. Threat actors
+  are using two vulnerabilities in a popular file-sharing server to breach corporate
+  and government systems and steal sensitive data as part of a global hacking campaign
+  that has already hit a major target in the Japanese Prime Minister\''s Cabinet Office.
+  The attacks target FileZen , a popular file-sharing network appliance from Japanese
+  firm Soliton, and are eerily similar to the attacks that targeted Accellion''s FTA
+  file-sharing systems in late 2020, early 2021. Both appliances work in the same
+  manner. They are used to store large files that can''t be sent via email. Users
+  typically upload files on a FileZen server and then use a web-based panel to obtain
+  links that they can share with fellow employees or persons outside of their organization.
+  Third-party company: Soliton (FileZen application).'

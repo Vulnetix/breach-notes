@@ -1,0 +1,22 @@
+source_name: Kibble Equipment Third-Party Breach (May 2023)
+source_url: https://www.turkestrauss.com/2023/04/12/kibble-equipment-data-breach-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=kibble-equipment-data-breach-investigation
+date_of_breach: 2023-05-01
+date_of_disclosure: '2023-04-12'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Razor Consulting Solutions
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Kibble Equipment Data Breach Investigation – Turke & Strauss LLP. Turke &
+  Strauss LLP, a leading data breach law firm, is investigating Kibble Equipment,
+  LLC and its vendors, Razor Consulting Solutions and Rackspace Cloud Services, regarding
+  its recent data breach. The Kibble Equipment data breach involved sensitive personal
+  identifiable information belonging to an unknown number of individuals. ABOUT KIBBLE
+  EQUIPMENT, LLC: Kibble Equipment is a. Turke & Strauss LLP , a leading data breach
+  law firm, is investigating Kibble Equipment, LLC and its vendors, Razor Consulting
+  Solutions and Rackspace Cloud Services , regarding its recent data breach. The Kibble
+  Equipment data breach involved sensitive personal identifiable information belonging
+  to an unknown number of individuals. Third-party company: Razor Consulting Solutions.'

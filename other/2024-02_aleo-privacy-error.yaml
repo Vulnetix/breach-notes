@@ -1,0 +1,14 @@
+source_name: '"Zero-knowledge chain Aleo faces privacy leak issues"'
+source_url: https://cryptobriefing.com/zero-knowledge-chain-aleo-privacy-leak/
+date_of_breach: '2024-02-25'
+date_of_disclosure: '2024-02-25'
+category: other
+notes: Aleo, a blockchain project that advertises it's a place for "fully private
+  applications" with "built-in privacy" has just emailed private identification documents
+  — including selfies and photographs of government identification cards — to the
+  wrong users.A user posted on Twitter that they had received an email with someone
+  else's identification. "That makes me wonder, if I have someone else's KYC document,
+  who else have you sent mine to?" Another person replied to the thread that they
+  had experienced the same thing.Aleo acknowledged their screw-up on social media,
+  claiming that only ten individuals were impacted, and that it had happened thanks
+  to a "copy/paste error in email metadata".

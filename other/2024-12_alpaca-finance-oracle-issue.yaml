@@ -1,0 +1,20 @@
+source_name: '"False prophet"'
+source_url: https://rekt.news/false-prophet/
+date_of_breach: '2024-12-10'
+date_of_disclosure: '2024-12-10'
+category: other
+notes: 'Users of the Alpaca Finance lending protocol suffered losses when the protocol''s
+  sloppy oracle implementation finally resulted in consequences. Although many had
+  warned the project about their glacial oracle setup, and the vulnerabilities they
+  were opening themselves up to, the project repeatedly denied any issues and even
+  banned those voicing concerns.Then, when a new token called THENA was listed on
+  Binance and experienced major volatility as trading opened, Alpaca''s issues came
+  to a head. As the token price surged, the slow oracle failed to reflect price changes,
+  allowing people to withdraw far more THENA than they had posted as collateral. THENA
+  lenders have lost an estimated $2.8 million.On December 10, Alpaca Finance proposed
+  distributing $50,000 "saved" by their liquidation bot to the lenders who had lost
+  funds. Alpaca Finance also banned users complaining about their losses in the project
+  Discord, dismissing them as a "group bot/FUD attack".
+
+
+  Total loss estimated at $2,670,000.'

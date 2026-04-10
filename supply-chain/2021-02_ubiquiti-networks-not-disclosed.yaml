@@ -1,0 +1,16 @@
+source_name: Ubiquiti Networks Third-Party Breach (February 2021)
+source_url: https://securityaffairs.co/wordpress/113296/data-breach/ubiquiti-discloses-data-breach.html
+date_of_breach: 2021-02-01
+date_of_disclosure: '2021-01-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Ubiquiti discloses a data breach ................................. American
+  technology company Ubiquiti Networks is disclosed a data breach and is notifying
+  its customers via email. UAT-10362 linked to LucidRook attacks targeting Taiwan-based
+  institutions. Bitcoin Depot hack leads to $3.6M Bitcoin theft via stolen credentials.

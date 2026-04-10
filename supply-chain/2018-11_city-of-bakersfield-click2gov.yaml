@@ -1,0 +1,20 @@
+source_name: City of Bakersfield Third-Party Breach (November 2018)
+source_url: https://www.bakersfield.com/news/city-of-bakersfield-announces-data-breach-from-hacked-click-gov/article_753d61ba-e6d3-11e8-a527-8316ecef574f.html
+date_of_breach: 2018-11-01
+date_of_disclosure: '2018-11-12'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'City of Bakersfield announces data breach from hacked Click2Gov system. The
+  city of Bakersfield has reported that a “cyber-security incident” may have compromised
+  the personal and financial information of those who used the city’s Click2Gov online
+  payment processor. In a news release sent this afternoon, the city said it was notified
+  that payment cards used legitimately through Click2Gov were later detected to have
+  been used in fraudulent activity. Javascript is required for you to be able to read
+  premium content. Please enable it in your browser settings. Third-party company:
+  Click2Gov.'

@@ -1,0 +1,13 @@
+source_name: "Washington D.C. Health Benefit Exchange Breach — 56,000 Legislators and Staff"
+source_url: "https://dbhealthlink.dc.gov/news/hbx-security-incident"
+date_of_breach: "2023-03-08"
+date_of_disclosure: "2023-03-23"
+date_of_customer_notification: "2023-03-23"
+category: "data-leak"
+initial_attack_vector: "Ransomware group (IntelBroker, via BreachForums) exploited a vulnerability in the DC Health Benefit Exchange Authority's (DC HBX) health insurance enrollment system to access and exfiltrate personal data for approximately 56,000 individuals including US lawmakers, their families, and congressional staff"
+cve: []
+vendor_product: "DC Health Benefit Exchange Authority enrollment system"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2023, data for approximately 56,415 individuals enrolled in DC Health Link — the health insurance marketplace for Washington D.C. residents including US House of Representatives members, Senate members, Supreme Court staff, Capitol Police, and congressional staff — was put up for sale on BreachForums by a hacker calling themselves 'IntelBroker'. The breach was particularly significant because it exposed the personal data of a significant portion of the US legislative branch, including members of Congress and their families. The US House of Representatives Information Security Office notified all members and staff on 8 March 2023. The FBI investigated. Exposed data included names, Social Security numbers, employer-sponsored insurance plan details, and enrollment information. Speaker Kevin McCarthy and Minority Leader Hakeem Jeffries were among those whose data may have been compromised. The DC Health Benefit Exchange Authority CEO Mila Kofman testified before Congress about the breach. A second, unrelated individual (a contractor) was also charged with attempting to sell stolen DC Health Link data. The breach occurred approximately two months after a similar breach at the US Marshals Service. The exposure of legislators' personal data, including Social Security numbers, created significant counterintelligence concerns."

@@ -1,0 +1,20 @@
+source_name: '"A $350,000 Bored Ape NFT was just sold for only $115"'
+source_url: https://www.theblockcrypto.com/post/139554/a-350000-bored-ape-nft-was-just-sold-for-only-115
+date_of_breach: '2022-03-28'
+date_of_disclosure: '2022-03-28'
+category: data-leak
+notes: 'NFT trader Calvin Chan recently made some unusual NFT trades. He sold his
+  Bored Ape, which he had bought in August 2021 for 16 ETH (then about $50,000), for
+  115 DAI ($115  — DAI is a stablecoin pegged to USD). Not only was this a near-total
+  loss compared to the purchase price, Bored Apes'' floor price is around 107 ETH
+  (~$360,000), and this Ape likely could''ve sold for more than that. Chan also sold
+  a Mutant Ape for 25 DAI/$25 to the same buyer — despite Mutant Apes'' floor price
+  of 22.5 ETH (~$75,000).Some initially speculated that he may have mistaken the offer
+  represented in DAI for ETH, as 115 ETH (~$387,500) and 25 ETH (~$84,000) would''ve
+  been pretty reasonable trades for the respective NFTs. However, the trader posted
+  on Twitter that he had been "swiped ... of his BAYC and MAYC... I am fine. In shock,
+  but okay. Do i know what happened? No. Still trying to wrap my head around how and
+  why."
+
+
+  Total loss estimated at $425,000.'

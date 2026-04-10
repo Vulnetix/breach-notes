@@ -1,0 +1,18 @@
+source_name: Tweet by Curve Finance
+source_url: https://twitter.com/CurveFinance/status/1557107088962224132
+date_of_breach: '2022-08-09'
+date_of_disclosure: '2022-08-09'
+category: data-leak
+notes: Curve Finance's frontend at curve.fi was compromised, prompting users to give
+  token approval to a malicious smart contract. Stolen funds were then transferred
+  out to the FixedFloat cryptocurrency exchange and the Tornado Cash tumbler. It appears
+  that at least 362 ETH (~$620,000) have been stolen.Curve acknowledged the apparent
+  exploit, tweeting at the iwantmyname domain platform to say they believed the issue
+  was on their end. Around an hour after the issue was widely noticed, Curve announced
+  the "issue has been found and reverted", and to use the alternate Curve Finance
+  domain until DNS changes propagated for the affected domain. They also urged users
+  to revoke any recent contract approvals they'd made on the Curve platform.FixedFloat
+  tweeted that they had been able to freeze 112 of the stolen ETH (~$192,000) that
+  had been transferred to their platform. Binance later announced that they'd recovered
+  the remaining stolen funds, with founder CZ tweeting, "The hacker kept on sending
+  the funds to Binance in different ways, thinking we can't catch it. 😂"

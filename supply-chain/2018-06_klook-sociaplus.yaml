@@ -1,0 +1,22 @@
+source_name: PR Newswire / Latest Hacking News
+source_url: https://en.prnasia.com/releases/apac/klook-notifies-customers-of-potential-third-party-data-breach-incident-215616.shtml
+date_of_breach: '2017-12-11'
+date_of_disclosure: '2018-06-29'
+date_of_customer_notification: '2018-06-29'
+category: supply-chain
+initial_attack_vector: Malicious JavaScript injection via compromised third-party analytics tool (SOCIAPlus)
+cve: []
+vendor_product: SOCIAPlus
+software_package: ''
+malware: JavaScript skimmer
+supply_chain_claimed: true
+notes: >-
+  Klook, a Hong Kong-based travel activities and services booking platform, disclosed on June 29, 2018 that it had suffered a data breach through a compromised third-party web analytics tool provided by SOCIAPlus. The breach affected approximately 8% of Klook's website users who entered data between December 11, 2017 and June 13, 2018.
+
+  A third-party cybersecurity and forensics investigation identified the root cause as a malicious piece of JavaScript code injected into the SOCIAPlus analytics tool that Klook had integrated into its website. The injected script functioned as a web skimmer, capturing personal data and credit card information submitted by customers through the Klook website. This attack pattern is consistent with Magecart-style supply chain compromises that were prolific during 2017-2018, where threat actors targeted third-party JavaScript providers to harvest payment card data from downstream customers.
+
+  The breach did not affect Klook's mobile app users on Android or iOS platforms, as the malicious JavaScript was only present in the web-based analytics integration. Upon discovering the compromise, Klook immediately disabled the SOCIAPlus feature to protect customers and engaged an independent forensics firm to conduct a full investigation.
+
+  Klook notified affected customers and recommended they monitor their financial statements for unauthorized transactions. The company also offered complimentary identity protection services to impacted users. The incident highlighted the risks of integrating third-party JavaScript into payment-handling web pages, a lesson that would be reinforced by the much larger Ticketmaster/Inbenta breach disclosed around the same time. The compromised data potentially included names, email addresses, phone numbers, and payment card details including card numbers, expiration dates, and CVV codes.
+
+  Primary sources: https://en.prnasia.com/releases/apac/klook-notifies-customers-of-potential-third-party-data-breach-incident-215616.shtml and https://latesthackingnews.com/2018/07/02/klook-travel-suffered-data-breach-exposing-users-credit-card-details/

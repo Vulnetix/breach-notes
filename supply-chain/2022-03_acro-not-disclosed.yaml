@@ -1,0 +1,15 @@
+source_name: Acro Third-Party Breach (March 2022)
+source_url: https://portswigger.net/daily-swig/japanese-beauty-retailer-acro-blames-third-party-hack-for-breach-of-100k-payment-cards
+date_of_breach: 2022-03-01
+date_of_disclosure: 2022-03-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Web Application Security, Testing, & Scanning - PortSwigger. PortSwigger offers
+  tools for web application security, testing, & scanning. Choose from a range of
+  security tools, & identify the very latest vulnerabilities.

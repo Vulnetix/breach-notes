@@ -1,0 +1,17 @@
+source_name: '"Robinhood Crypto gets Wells notice from US SEC"'
+source_url: https://www.reuters.com/business/finance/robinhood-crypto-gets-wells-notice-us-sec-2024-05-06/
+date_of_breach: '2024-05-06'
+date_of_disclosure: '2024-05-06'
+category: other
+notes: Robinhood has disclosed that they received a Wells notice from the US Securities
+  and Exchange Commission in relation to their "Robinhood Crypto" product. This indicates
+  that the SEC believes that some of the assets that can be traded via Robinhood Crypto
+  are securities.In the past, Robinhood has removed cryptocurrencies from trading
+  after they were alleged to be securities by the SEC, such as Solana (SOL), Cardano
+  (ADA), and Polygon (MATIC) in the wake of the lawsuits against Binance and Coinbase.
+  However, given the SEC's stance that most cryptocurrencies are securities, it seems
+  likely that the SEC believes one or more of the 14 non-bitcoin cryptocurrencies
+  Robinhood offers may also be a security.Robinhood's Chief Legal Officer issued a
+  statement that "We firmly believe that the assets listed on our platform are not
+  securities and we look forward to engaging with the SEC to make clear just how weak
+  any case against Robinhood Crypto would be."

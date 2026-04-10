@@ -1,0 +1,17 @@
+source_name: NHS Third-Party Breach (August 2022)
+source_url: https://www.bbc.com/news/technology-62506039
+date_of_breach: 2022-08-01
+date_of_disclosure: '2022-08-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Advanced
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'NHS IT supplier held to ransom by hackers. Its IT provider says it may take
+  three or four weeks to fully recover from the cyber-attack. A cyber-attack on a
+  major IT provider of the NHS has been confirmed as a ransomware attack. Advanced,
+  which provides digital services like patient check-in and NHS 111, says it may take
+  three to four weeks to fully recover. Third-party company: Advanced.'

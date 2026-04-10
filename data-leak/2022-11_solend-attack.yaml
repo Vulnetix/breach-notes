@@ -1,0 +1,12 @@
+source_name: Tweet by Solend
+source_url: https://twitter.com/solendprotocol/status/1587671511137398784
+date_of_breach: '2022-11-02'
+date_of_disclosure: '2022-11-02'
+category: data-leak
+notes: 'Solend announced that an exploiter had manipulated the oracle price of an
+  asset on their platform, allowing them to take out a loan that left the platform
+  with $1.26 million in bad debt. They reported that they had paused affected pools,
+  and did not anticipate other pools on the platform were at risk.
+
+
+  Total loss estimated at $1,260,000.'

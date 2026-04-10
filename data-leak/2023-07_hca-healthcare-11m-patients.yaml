@@ -1,0 +1,13 @@
+source_name: "HCA Healthcare Data Breach — 11 Million Patients, Dark Web Sale"
+source_url: "https://hcahealthcare.com/data-security-incident.dot"
+date_of_breach: "2023-07-05"
+date_of_disclosure: "2023-07-10"
+date_of_customer_notification: "2023-07-10"
+category: "data-leak"
+initial_attack_vector: "Data was stolen from an external storage location used by HCA Healthcare for email formatting — a tool used to format automated emails to patients; the external storage location was accessed without authorization"
+cve: []
+vendor_product: "HCA Healthcare external patient email automation storage system"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 5 July 2023, a threat actor posted for sale on an online forum a database purporting to contain approximately 27.7 million records from HCA Healthcare — the largest US for-profit hospital chain, operating 180 hospitals and 2,300 care sites in 21 states and the UK. HCA Healthcare confirmed the breach on 10 July 2023 and notified approximately 11 million patients. The breach was unusual in its scope and source: data was taken from an external storage location used to format automated patient reminder emails, limiting the types of data that were exposed. Exposed data included patient names, city, state, zip codes, email addresses, telephone numbers, dates of birth, gender, service line (e.g., emergency room, heart surgery), and next appointment date. Social Security numbers, payment information, passwords, and driver's license numbers were not included. The data was initially listed for sale, then dumped for free online when HCA did not respond to extortion demands. HCA filed a lawsuit seeking to prevent distribution of the data. HCA notified state attorneys general and regulators as required. The breach was the largest US healthcare data breach of 2023 by number of affected patients. Class-action lawsuits were filed. The HHS OCR opened a review."

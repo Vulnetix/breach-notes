@@ -1,0 +1,17 @@
+source_name: 'Report: Nevada State Hackers Evaded Detection for Months (DataBreachToday)'
+source_url: https://www.databreachtoday.com/report-nevada-state-hackers-evaded-detection-for-months-a-29948
+date_of_breach: '2025-11-06'
+date_of_disclosure: '2025-11-06'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A threat actor infiltrated Nevada’s statewide systems undetected for months,
+  ultimately disrupting at least 60 agencies by deleting backups and launching
+
+
+  Source: DataBreachToday article coverage.'

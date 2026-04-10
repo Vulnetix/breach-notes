@@ -1,0 +1,14 @@
+source_name: Tweet thread by SomaXBT
+source_url: https://x.com/somaxbt/status/1799812652610511043
+date_of_breach: '2024-06-04'
+date_of_disclosure: '2024-06-04'
+category: data-leak
+notes: 'The UK-based Lykke crypto exchange suffered an exploit that saw more than
+  $23.6 million stolen from the platform. The platform shut down trading two days
+  later, and some customers reported seeing balances of 0 in their accounts.The theft
+  was first noticed by outside researchers, who saw the suspicious outflows and accused
+  the platform of not communicating the security breach to its customers. The following
+  day, Lykke acknowledged the attack and informed customers via email.
+
+
+  Total loss estimated at $2,360,000.'

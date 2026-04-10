@@ -1,0 +1,54 @@
+source_name: CSO Online
+source_url: https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html
+date_of_breach: '2017-05-13'
+date_of_disclosure: '2017-09-07'
+date_of_customer_notification: '2017-09-07'
+category: supply-chain
+initial_attack_vector: Exploitation of unpatched Apache Struts vulnerability (CVE-2017-5638) in web application portal
+cve:
+  - CVE-2017-5638
+vendor_product: Apache Struts
+software_package: Apache Struts 2
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  Between May 13 and July 30, 2017, attackers exploited a critical remote
+  code execution vulnerability in Apache Struts (CVE-2017-5638) to breach
+  Equifax, one of the three major US consumer credit reporting agencies.
+  The vulnerability, disclosed and patched on March 7, 2017, allowed
+  remote code execution via a crafted Content-Type HTTP header. Equifax
+  failed to apply the patch for over two months, leaving its online
+  dispute portal exposed.
+
+  Once inside, the attackers moved laterally through the network over 78
+  days, accessing 51 databases containing the personal information of
+  approximately 147.9 million Americans, 15.2 million British citizens,
+  and roughly 19,000 Canadians. Stolen data included names, Social
+  Security numbers, dates of birth, addresses, and in some cases driver's
+  license numbers. Approximately 209,000 consumers also had credit card
+  numbers exposed, and dispute documents with additional personal
+  information were accessed for roughly 182,000 people.
+
+  The breach went undetected for months in part because an SSL inspection
+  certificate on Equifax's network monitoring equipment had expired 19
+  months earlier, effectively blinding the company's intrusion detection
+  systems. When the certificate was renewed on July 29, 2017, security
+  staff immediately detected suspicious traffic and discovered the breach.
+  Equifax waited 40 days until September 7, 2017, to publicly disclose
+  the incident, drawing sharp criticism from Congress and the public.
+
+  In the aftermath, Equifax's CEO Richard Smith, CIO David Webb, and CSO
+  Susan Mauldin all resigned. Congressional hearings revealed systemic
+  failures in Equifax's security program, including a lack of network
+  segmentation, insufficient patch management processes, and the storage
+  of unencrypted personal data.
+
+  In July 2019, Equifax agreed to a global settlement of up to $700
+  million, including $425 million for a consumer restitution fund, $175
+  million to 48 states and territories, and $100 million in CFPB civil
+  penalties. The total cost to Equifax ultimately reached approximately
+  $1.38 billion. The breach remains one of the most significant in
+  history and became a landmark case for the consequences of poor patch
+  management and inadequate cybersecurity governance. It prompted
+  legislative efforts in Congress and accelerated enterprise adoption
+  of software composition analysis and vulnerability management programs.

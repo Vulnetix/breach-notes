@@ -1,0 +1,17 @@
+source_name: '"Notice of Exploit of KyberSwap Frontend — All funds will be reimbursed"'
+source_url: https://blog.kyber.network/notice-of-exploit-of-kyberswap-frontend-963aa8febd6a
+date_of_breach: '2022-09-01'
+date_of_disclosure: '2022-09-01'
+category: data-leak
+notes: 'An attacker was able to insert malicious code into the frontend of the decentralized
+  exchange KyberSwap and steal $265,000 of user funds. The project used Google Tag
+  Manager to allow code to be injected into the project frontend (often for analytics,
+  ads, or marketing purposes), which was used by the attacker to insert malicious
+  code into the project UI that specifically targeted whale accounts — that is, those
+  with large balances.Kyber identified and remedied the issue after two hours of investigating
+  it, and only two wallets were affected. Kyber promised to compensate the users who
+  lost funds, and also tried to tempt the hacker into returning funds by allowing
+  them to keep 15% of the stolen money as a "bounty" (~$40,000).
+
+
+  Total loss estimated at $275,000.'

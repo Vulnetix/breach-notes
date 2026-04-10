@@ -1,0 +1,12 @@
+source_name: '"3Commas hit with second security breach in a year"'
+source_url: https://blockworks.co/news/3commas-security-breach
+date_of_breach: '2023-10-10'
+date_of_disclosure: '2023-10-10'
+category: data-leak
+notes: 3Commas, a crypto trading bot provider, suffered another security breach in
+  which some customer wallets were used to make unauthorized trades. They haven't
+  disclosed how much in assets were lost.This isn't the first security breach to tarnish
+  3Commas' reputation. In October 2022, customers reported losing a significant amount
+  of assets in what 3Commas first tried to blame on phishing websites resembling FTX.
+  3Commas months later owned up to the fact that their database had been compromised,
+  and that API keys were leaked.

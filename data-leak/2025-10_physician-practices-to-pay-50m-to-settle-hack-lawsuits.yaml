@@ -1,0 +1,17 @@
+source_name: Physician Practices to Pay $50M to Settle Hack Lawsuits (DataBreachToday)
+source_url: https://www.databreachtoday.com/physician-practices-to-pay-50m-to-settle-hack-lawsuits-a-29748
+date_of_breach: '2025-10-17'
+date_of_disclosure: '2025-10-17'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A California-based network of nine affiliated physician practices will pay
+  nearly $50 million to settle consolidated class action litigation involving a 2022
+
+
+  Source: DataBreachToday article coverage.'

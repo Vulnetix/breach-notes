@@ -1,0 +1,22 @@
+source_name: Tweet thread by 3Commas CEO and founder Yuriy Sorokin
+source_url: https://twitter.com/YS_3Commas/status/1608202390121111552
+date_of_breach: '2022-12-28'
+date_of_disclosure: '2022-12-28'
+category: data-leak
+notes: 'In October, several people reported losing more than a million dollars each
+  from accounts that were connected to the 3Commas trading platform. 3Commas vociferously
+  denied that there was any security breach of their crypto trading service, instead
+  claiming that some of their users were at fault for being phished and having assets
+  stolen. Now that someone has published the API key database that was exfiltrated
+  from 3Commas, however, the company has finally owned up to the breach. They confirmed
+  the data in the files was legitimate on Twitter, and wrote that they had contacted
+  Binance, Kucoin, and other exchanges with whom they integrate to ask them to revoke
+  all API keys connected to 3Commas.3Commas did not come off looking very good after
+  this incident, after they spent weeks denying any breach and accusing those who
+  were concerned 3Commas had been compromised of spreading misinformation and "FUD".Researcher
+  zachxbt wrote that he had verified 44 victims who had lost a combined $14.8 million
+  due to the leak, although he acknowledged that this was only the number of people
+  he could verify and that the total number of people affected was likely much higher.
+
+
+  Total loss estimated at $14,800,000.'

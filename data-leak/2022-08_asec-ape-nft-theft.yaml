@@ -1,0 +1,19 @@
+source_name: Tweet by zachxbt
+source_url: https://twitter.com/zachxbt/status/1559561680455188481
+date_of_breach: '2022-08-14'
+date_of_disclosure: '2022-08-14'
+category: data-leak
+notes: 'An NFT collector who goes by ASEC_APE lost four Bored Ape Yacht Club NFTs
+  to a phishing attack. The attacker quickly flipped three of the four NFTs for a
+  total of around 200 ETH (~$387,000). The fourth is listed for sale on the NFT platform
+  X2Y2 for 84.59 ETH (~$159,000) — a total profit of $546,000 for the scammer if they
+  find a buyer at that price.ASEC_APE had just purchased the four NFTs between July
+  15 and August 13 for a combined total of 326 ETH (~$532,000 based on ETH prices
+  at the time of each purchase; ~$631,000 at the price on the day of the theft).One
+  of the stolen NFTs, Bored Ape 9012, had just been stolen a week before from Cameo
+  CEO Steven Galanis when his wallet was compromised, as were a handful of other pricey
+  NFTs. ASEC_APE had purchased it from the person who purchased it from the hacker
+  shortly after the August 6 theft.
+
+
+  Total loss estimated at $546,000.'

@@ -1,0 +1,47 @@
+source_name: SEC Administrative Proceeding against R.T. Jones Capital Equities Management
+source_url: https://www.sec.gov/newsroom/press-releases/2015-202
+date_of_breach: '2013-07-22'
+date_of_disclosure: '2015-09-22'
+date_of_customer_notification: '2013-09-01'
+category: supply-chain
+initial_attack_vector: Compromise of third-party-hosted web server (Artesys platform); attackers gained access and copy rights to PII stored on the server
+cve: []
+vendor_product: Artesys (third-party web server hosting)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On July 22, 2013, R.T. Jones Capital Equities Management, a St. Louis-based
+  registered investment adviser, discovered that its third-party-hosted web server
+  had been compromised by attackers traced to China. The breach exposed personally
+  identifiable information (PII) of approximately 100,000 individuals, including
+  thousands of the firm's clients and their employees. Compromised data included
+  names, dates of birth, and Social Security numbers stored on the Artesys-hosted
+  web server.
+
+  The breach became a landmark cybersecurity enforcement case when, on September 22,
+  2015, the SEC charged R.T. Jones with violating Rule 30(a) of Regulation S-P, the
+  "safeguards rule," for failing to adopt any written cybersecurity policies and
+  procedures to protect client PII during a nearly four-year period from September
+  2009 through July 2013. This was one of the SEC's first enforcement actions
+  focused specifically on cybersecurity failures by a registered investment adviser.
+
+  After discovering the breach, R.T. Jones promptly retained multiple cybersecurity
+  consulting firms to investigate the incident. The forensic analysis confirmed the
+  attack originated from Chinese threat actors but could not determine whether any
+  client data was actually misused. The firm provided notice to all affected
+  individuals and offered free identity theft monitoring through a national credit
+  bureau for one year.
+
+  R.T. Jones agreed to a settlement with the SEC that included a censure and a
+  $75,000 penalty. The SEC noted that the firm's prompt response and remediation
+  efforts were considered favorably in determining the penalty amount. The firm
+  subsequently adopted written information security policies, encrypted PII stored
+  on its server, installed a firewall, and began using a dedicated server managed
+  by a third-party IT firm.
+
+  The case set an important precedent establishing that investment advisers have a
+  regulatory obligation under Regulation S-P to implement cybersecurity policies
+  before a breach occurs, not merely to respond after the fact. SEC Commissioner
+  Luis Aguilar noted that the action "sends an important message to the industry"
+  about the need for proactive cybersecurity measures.

@@ -1,0 +1,11 @@
+source_name: '"Hackers steal $29 million from crypto-platform Cream Finance"'
+source_url: https://therecord.media/hackers-steal-29-million-from-crypto-platform-cream-finance/
+date_of_breach: '2021-08-30'
+date_of_disclosure: '2021-08-30'
+category: data-leak
+notes: 'A vulnerability in C.R.E.A.M. Finance allowed a re-entrancy attack to steal
+  somewhere between $25 and $30 million from C.R.E.A.M. finance in its second multimillion
+  dollar hack of the year.
+
+
+  Total loss estimated at $29,000,000.'

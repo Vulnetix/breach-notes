@@ -1,0 +1,18 @@
+source_name: The city of Charlottesville Third-Party Breach (November 2019)
+source_url: https://www.nbc29.com/2019/11/27/potential-data-breach-found-charlottesville-tax-collections/
+date_of_breach: 2019-11-01
+date_of_disclosure: '2019-11-27'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Potential data breach found on Charlottesville tax collections. Charlottesville
+  is investigating the possibility of a data breach related to its tax collections.
+  CHARLOTTESVILLE, V.A. (WVIR) - The city of Charlottesville is investigating the
+  possibility of a data breach. The city says a security flaw was found on a third
+  party vendor’s online payment software for city tax collections. That payment portal
+  is used by other localities.

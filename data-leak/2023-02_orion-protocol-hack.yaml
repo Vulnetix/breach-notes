@@ -1,0 +1,15 @@
+source_name: Tweet by PeckShield
+source_url: https://twitter.com/peckshield/status/1621337925228306433
+date_of_breach: '2023-02-02'
+date_of_disclosure: '2023-02-02'
+category: data-leak
+notes: 'The decentralized exchange Orion Protocol suffered a loss of 1,757 ETH (about
+  $2.9 million) from the company treasury funds thanks to a reentrancy attack.Orion
+  Protocol CEO Alexey Koloskov wrote a Twitter thread confirming the attack, but claiming
+  that although they weren''t sure how the hack was perpetrated, it wasn''t due to
+  the fault of their own code. Koloskov wrote that he thought the issue "might have
+  been caused by a vulnerability in mixing third-party libraries in one of the smart
+  contracts used by our experimental and private brokers."
+
+
+  Total loss estimated at $2,900,000.'

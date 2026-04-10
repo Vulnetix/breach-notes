@@ -1,0 +1,13 @@
+source_name: "IRS Get Transcript Identity Theft Attack — 100,000+ Taxpayer Accounts"
+source_url: "https://www.irs.gov/newsroom/irs-statement-on-the-get-transcript-application"
+date_of_breach: "2015-01-01"
+date_of_disclosure: "2015-05-26"
+date_of_customer_notification: "2015-06-01"
+category: "credential-theft"
+initial_attack_vector: "Sophisticated crime ring (attributed to Russian-speaking criminal syndicate) used previously stolen personal data (Social Security numbers, dates of birth, addresses, filing status) obtained from external sources to pass the IRS Get Transcript application's authentication questions and access prior-year tax returns for use in fraudulent refund claims"
+cve: []
+vendor_product: "IRS Get Transcript online application"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between January and May 2015, a sophisticated crime ring accessed the IRS's 'Get Transcript' online application — which allowed taxpayers to retrieve prior-year tax returns — and obtained transcripts for approximately 100,000 US taxpayers by successfully answering identity verification questions. The attackers used previously stolen personal information (Social Security numbers, addresses, dates of birth, tax filing status, and more) from other data breaches to authenticate to the IRS system and retrieve tax transcripts. These transcripts were then used to file fraudulent tax returns and claim refunds. The IRS shut down the Get Transcript application on 21 May 2015. The IRS initially estimated 100,000 accounts accessed; subsequent investigation expanded this to approximately 334,000 accounts where thieves were able to access transcripts, and an additional 281,000 failed attempts blocked. The IRS sent letters to all affected taxpayers offering identity protection PINs for future filings. The total fraudulent refund claims associated with the breach were estimated at approximately $50 million. The attack was attributed to a Russian-speaking organised crime ring. IRS Commissioner John Koskinen testified before Congress. The breach illustrated the severe downstream risk of credential stuffing when personal data from other breaches is aggregated and used to defeat 'knowledge-based authentication' questions."

@@ -1,0 +1,20 @@
+source_name: Airbus Third-Party Breach (September 2023)
+source_url: https://therecord.media/airbus-data-leak-suppliers-breachedforums
+date_of_breach: 2023-09-01
+date_of_disclosure: '2023-09-12'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Turkish Airlines
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Airbus investigates data leak allegedly involving thousands of suppliers.
+  The European aerospace giant Airbus said on Tuesday that it is investigating a cybersecurity
+  incident following reports that a hacker posted information on 3,200 of the company’s
+  vendors to the dark web. A threat actor using the moniker "USDoD" posted Monday
+  on BreachForums that they obtained access to an Airbus web portal after compromising
+  the account of a Turkish airline employee. The hacker claimed to have details on
+  thousands of Airbus vendors, including names, addresses, phone numbers and emails,
+  according to a report from Hudson Rock. Third-party company: Turkish Airlines.'

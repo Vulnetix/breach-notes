@@ -1,0 +1,24 @@
+source_name: '"Solana DeFi Protocol Nirvana Drained of Liquidity After Flash Loan
+  Exploit"'
+source_url: https://www.coindesk.com/tech/2022/07/28/solana-defi-protocol-nirvana-drained-of-liquidity-after-flash-loan-exploit/
+date_of_breach: '2022-07-28'
+date_of_disclosure: '2022-07-28'
+category: data-leak
+notes: 'The Solana-based yield farming project, Nirvana Finance, was exploited by
+  an attacker who used flash loans to drain the project of just under $3.5 million.
+  The attacker took out a $10 million loan from the Solend project, used it to mint
+  ANA tokens, swapped the ANA for $13.5 million, and then repaid the loan. The attack
+  was similar to the attack on Crema Finance earlier in the month.The attack caused
+  the project''s ANA token to plunge in value by 80%, and the project''s NIRV stablecoin
+  to lose its dollar peg, falling to $0.08. Nirvana Finance tweeted, "Please be advised:
+  ANA has lost its collateral, and NIRV has lost its peg.  Until the thief restores
+  funds, these tokens will not have exchange value. Be very careful with trading NIRV
+  &amp; ANA, as they currently have no guaranteed value."They also tweeted at the
+  hacker, promising to stop investigating the hacker''s identity and to pay a $300,000
+  "bounty" in exchange for the funds back. They wrote, "You have not taken money from
+  VCs or large funds — the treasury you have taken represents the collective hopes
+  of everyday people."The project had promised its users over 60% APY, and its Twitter
+  account described ANA as "the balanced risk investment with adaptive yield".
+
+
+  Total loss estimated at $3,500,000.'

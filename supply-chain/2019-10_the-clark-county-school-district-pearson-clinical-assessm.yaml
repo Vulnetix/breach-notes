@@ -1,0 +1,22 @@
+source_name: The Clark County School District Third-Party Breach (October 2019)
+source_url: https://news3lv.com/news/local/ccsd-says-students-teachers-affected-by-third-party-data-breach
+date_of_breach: 2019-10-01
+date_of_disclosure: '2019-08-02'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Pearson Clinical Assessment (AIMSweb)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'CCSD says students, staff affected by third party data breach. The Clark County
+  School District says a vendor it uses has experienced a data security incident.
+  The school district, in a press release, notes the incident involves several other
+  school districts and involves an older version of a Pearson educational program.
+  559,8487 students who were enrolled between 2008 and 2019 along with a "smaller
+  number" of staff members who were employed in the time period are also affected.
+  LAS VEGAS (KSNV) — The Clark County School District says a vendor it uses has experienced
+  a data security incident. Educational software provider Pearson is offering free
+  access to credit monitoring services for individuals who were affected by the beach.
+  Third-party company: Pearson Clinical Assessment (AIMSweb).'

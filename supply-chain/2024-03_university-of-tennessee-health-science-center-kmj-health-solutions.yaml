@@ -1,0 +1,20 @@
+source_name: University of Tennessee Health Science Center Third-Party Breach (March
+  2024)
+source_url: https://www.hipaajournal.com/california-and-north-dakota-hospitals-report-cyberattacks/
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-28'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: KMJ Health Solutions
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'California and North Dakota Hospitals Report Cyberattacks. Cyberattacks have
+  been reported by Pembina County Memorial Hospital, Pomona Valley Hospital Medical
+  Center, and Rancho Family Medical Group. The Cyberattacks have been reported by
+  Pembina County Memorial Hospital, Pomona Valley Hospital Medical Center, and Rancho
+  Family Medical Group. The Massachusetts Department of Developmental Services has
+  discovered documents containing PHI have been left unsecured for a decade. Third-party
+  company: KMJ Health Solutions.'

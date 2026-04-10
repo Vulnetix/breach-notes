@@ -1,0 +1,13 @@
+source_name: "Cupid Media Dating Sites Breach — 42 Million User Accounts in Plaintext"
+source_url: "https://krebsonsecurity.com/2014/11/cupid-media-hack-exposed-42m-plaintext-passwords/"
+date_of_breach: "2013-11-01"
+date_of_disclosure: "2014-11-20"
+date_of_customer_notification: "2014-11-20"
+category: "data-leak"
+initial_attack_vector: "An attacker gained access to Cupid Media's database — an Australian company operating approximately 35 niche online dating websites; the stolen database surfaced in a cache of databases found on a server used by cybercriminals that had been seized by investigators"
+cve: []
+vendor_product: "Cupid Media / CupidPlc dating site databases"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2013, Cupid Media — an Australian company operating approximately 35 niche online dating websites including ChristianCafe, CatholicMingle, MilfDate, AsianDating, and others — suffered a breach exposing approximately 42 million user accounts. The breach was discovered when security researcher Troy Hunt found the Cupid Media database in a cache of databases on a server used by hackers, seized by law enforcement. The breach data was added to Have I Been Pwned. Most alarmingly, passwords were stored in plaintext — an egregious failure of even basic security practice. Exposed data included email addresses, passwords (in plaintext), birth dates, genders, locations, and membership details for the various niche dating sites. The exposure of plaintext passwords enabled immediate access to any accounts where users had reused passwords. The fact that the database had been held by cybercriminals for over a year before disclosure meant passwords had long been circulating in criminal circles. Cupid Media was notified of the breach by Troy Hunt who found the data on the seized server. After Krebs on Security published the story, Cupid Media confirmed the breach and emailed affected users. The dating site context added additional sensitivity — membership in niche religious or demographic dating sites could reveal personal religious beliefs, sexual orientation, or relationship status that users intended to keep private."

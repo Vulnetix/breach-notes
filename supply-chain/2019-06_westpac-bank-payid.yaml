@@ -1,0 +1,24 @@
+source_name: Westpac Bank PayID Enumeration Attack
+source_url: https://www.itnews.com.au/news/monitoring-fail-allowed-westpac-payid-look-up-abuse-526135
+date_of_breach: '2019-04-07'
+date_of_disclosure: '2019-06-03'
+date_of_customer_notification: '2019-06-03'
+category: supply-chain
+initial_attack_vector: API enumeration / credential abuse against PayID lookup service
+cve: []
+vendor_product: NPP Australia PayID platform
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: |
+  In June 2019, Westpac Bank disclosed that attackers had exploited its PayID lookup service to harvest the names and phone numbers of approximately 98,000 Australian banking customers. The attack was a classic enumeration or "phone number fishing" attack against an API that was designed to resolve PayID phone numbers to account holder short names.
+
+  PayID is a service provided through Australia's New Payments Platform (NPP), a real-time payments infrastructure operated by NPP Australia. It allows users to send money using a phone number, email address, or ABN as an identifier rather than a BSB and account number. The PayID lookup function was intended to show the sender a recipient's name to confirm they are sending to the right person — but this feature became the attack surface.
+
+  Attackers used seven compromised Westpac Live online banking accounts to make approximately 600,000 automated PayID lookups between April 7 and May 22, 2019 — a period of just over six weeks. By systematically querying phone numbers, the attackers were able to identify which numbers belonged to Westpac customers, and when a match was found, the system returned the account holder's short name. Of the 600,000 lookups attempted, approximately 98,000 successfully resolved to a name, meaning those customers had their phone number and name linkage exposed.
+
+  No bank account numbers, balances, passwords, or financial transaction data were compromised. The attack was designed purely to build a dataset of phone numbers matched to real names — useful for subsequent phishing, social engineering, or SIM-swap attacks.
+
+  Westpac acknowledged that a monitoring failure allowed the abuse to continue undetected for the six-week window. The bank stated it had since implemented additional rate limiting, anomaly detection, and controls on PayID lookup volumes. NPP Australia confirmed they were working with banks to strengthen protections across the platform.
+
+  The incident prompted broader scrutiny of the PayID system design across Australian banks and highlighted the tension between open banking convenience features and privacy protections. The Australian Banking Association reviewed PayID security practices industry-wide in response. While technically an abuse of Westpac's own infrastructure (via compromised accounts), the root vulnerability was in how the NPP PayID platform's lookup API could be weaponized at scale, placing this incident in the supply chain / third-party platform risk category.

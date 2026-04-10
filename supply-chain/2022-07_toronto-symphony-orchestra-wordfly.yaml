@@ -1,0 +1,18 @@
+source_name: Toronto Symphony Orchestra Third-Party Breach (July 2022)
+source_url: https://www.tso.ca/wordfly-incident/
+date_of_breach: 2022-07-01
+date_of_disclosure: 2022-07-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: WordFly
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Page not found - Toronto Symphony Orchestra. It looks like you may be using
+  a web browser version that we don''t support. Make sure you''re using the most recent
+  version of your browser, or try using of these supported browsers, to get the full
+  TSO experience: Chrome, Firefox, Safari, or Edge. Get ticket alerts, exclusive behind-the-scenes
+  content, special offers, and more!. Get ticket alerts, exclusive behind-the-scenes
+  content, special offers, and more!. Third-party company: WordFly.'

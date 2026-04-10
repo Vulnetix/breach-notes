@@ -1,0 +1,21 @@
+source_name: ADT Third-Party Breach (October 2024)
+source_url: https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/
+date_of_breach: 2024-10-01
+date_of_disclosure: '2024-10-07'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party business partner
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'ADT discloses second breach in 2 months, hacked via stolen credentials. Home
+  and small business security company ADT disclosed it suffered a breach after threat
+  actors gained access to its systems using stolen credentials and exfiltrated employee
+  account data. ADT is a public American company that specializes in security and
+  smart home solutions for residential and small business customers. The firm employs
+  over 14,000 people and has an annual revenue of $4.98 billion. In a Monday evening
+  FORM 8-K filing filed with the SEC, the company says that credentials were stolen
+  from a third-party business partner that allowed threat actors to breach ADT''s
+  systems. Third-party company: Third-party business partner.'

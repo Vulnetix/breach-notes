@@ -1,0 +1,46 @@
+source_name: Lazada RedMart Singapore Database Breach (October 2020)
+source_url: https://www.bleepingcomputer.com/news/security/over-1m-lazada-redmart-accounts-sold-online-after-data-breach/
+date_of_breach: "2020-10-29"
+date_of_disclosure: "2020-10-30"
+date_of_customer_notification: "2020-10-30"
+category: supply-chain
+initial_attack_vector: Unauthorized access to an unsecured legacy MongoDB database for the old RedMart app and website; data predated March 2019
+cve: []
+vendor_product: Not disclosed
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: |-
+  Lazada, the Alibaba-owned Southeast Asian e-commerce platform, disclosed a data breach
+  affecting approximately 1.1 million customers of its Singapore-based grocery delivery
+  service RedMart. Lazada's cybersecurity team detected unauthorized access to a legacy
+  RedMart customer database on October 29, 2020. The breach was disclosed to affected
+  customers the following day, October 30, 2020.
+
+  The compromised database was a MongoDB instance tied to the old RedMart app and website
+  that had not been updated since March 2019 — meaning all exposed data was at least
+  18 months old at the time of the breach. The database was accessed and exfiltrated
+  by threat actors who subsequently listed the 1.1 million customer records for sale
+  on a dark web marketplace for $1,500.
+
+  Exposed data included: email addresses, SHA-1 hashed passwords, first and last names,
+  phone numbers, mailing addresses, billing addresses, partial credit card numbers,
+  and credit card expiration dates. The use of SHA-1 for password hashing — a deprecated
+  and cryptographically weak algorithm — means the password hashes were potentially
+  crackable, compounding the risk beyond the directly readable fields.
+
+  Lazada responded quickly: it deleted the compromised user accounts, forced a logout
+  of all affected users, and required password resets. The Singapore Personal Data
+  Protection Commission (PDPC) was notified of the incident in accordance with local
+  breach notification obligations.
+
+  The incident reflects a common risk pattern for platforms that retain legacy databases
+  after product pivots or acquisitions. RedMart had been acquired by Lazada in 2016,
+  and the old RedMart-only database that was breached was a remnant system from the
+  pre-acquisition platform. Despite the data being stale, the combination of email
+  addresses, hashed passwords, partial card data, and physical addresses still provides
+  sufficient information for credential stuffing, phishing, and targeted fraud campaigns.
+
+  No CVEs were publicly attributed. The breach was not classified as a supply-chain
+  incident — the compromised database was Lazada's own legacy infrastructure rather
+  than a third-party vendor system.

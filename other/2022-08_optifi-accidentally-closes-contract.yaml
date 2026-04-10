@@ -1,0 +1,17 @@
+source_name: '"OptiFi Program Incident Report — 08/29/22"'
+source_url: https://medium.com/@OptiFi/optifi-program-incident-report-08-29-22-d8fe6d229bad
+date_of_breach: '2022-08-29'
+date_of_disclosure: '2022-08-29'
+category: other
+notes: OptiFi, a derivatives defi project, accidentally and permanently shut down
+  the project smart contract, irretrievably locking up $661,000  — the project's entire
+  fund. A developer had been trying to push an update to the project, and ran into
+  issues related to Solana network congestion (a recurring issue). While trying to
+  clean up from a partially-executed transaction, the developer accidentally ran a
+  command that closed the project's primary smart contract.OptiFi has promised to
+  return user deposits and settle all positions. In a post-mortem, they wrote that
+  they had learned that "Every deployment needs a rigorous process and single point
+  failure can be avoided. Please don't rush like what we did, especially for defi
+  projects". They further outlined a "peer-surveillance approach" in which three people
+  would be required to deploy any changes together. They also asked the Solana team
+  to implement a two-step confirmation for such a potentially destructive command.

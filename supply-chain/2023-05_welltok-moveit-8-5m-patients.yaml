@@ -1,0 +1,13 @@
+source_name: "Welltok Healthcare SaaS MOVEit Breach — 8.5 Million Patient Records"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2023-05-27"
+date_of_disclosure: "2023-11-02"
+date_of_customer_notification: "2023-11-02"
+category: "supply-chain"
+initial_attack_vector: "Cl0p ransomware group exploited CVE-2023-34362 (MOVEit Transfer SQL injection zero-day) against Welltok's MOVEit Transfer server; Welltok used MOVEit Transfer to transfer patient data files on behalf of healthcare clients including major US health plans"
+cve: ["CVE-2023-34362"]
+vendor_product: "Welltok MOVEit Transfer / patient health engagement SaaS platform"
+software_package: "MOVEit Transfer"
+malware: "Cl0p ransomware"
+supply_chain_claimed: true
+notes: "Welltok, Inc. — a healthcare SaaS company providing patient health engagement and communication services to major US health plans — was among the largest individual victims of the Cl0p MOVEit Transfer mass exploitation in May 2023. Welltok did not discover the breach until July 2023, and the investigation took until November 2023 to complete. Welltok notified 8.5 million individuals of data exposure through their health plan clients, making it the largest single-organisation impact from the MOVEit campaign. Affected health plans and employers whose members were exposed included Blue Shield of California, Blue Cross Blue Shield affiliates, Mass General Brigham, Stanford Health Care, Advocate Aurora Health, and many others. Exposed data included names, Social Security numbers, Medicare/Medicaid ID numbers, health insurance information, and dates of birth. Multiple HHS OCR breach notifications were filed by affected health plans. Class-action lawsuits targeted both Welltok and the underlying health plan clients. The Welltok breach was one of several healthcare vendor MOVEit victims that collectively created enormous cascading impacts across the US health insurance system, illustrating how a single vendor serving multiple health plans can multiply the impact of a supply chain vulnerability."

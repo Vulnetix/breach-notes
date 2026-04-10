@@ -1,0 +1,19 @@
+source_name: Baptist Health System, Resolute Health Hospital, The Hospitals of Providence
+  Memorial Campus, Valley Baptist Medical Center – Brownsville, Valley Baptist Medical
+  Center – Harlingen Third-Party Breach (June 2022)
+source_url: https://response.idx.us/crcs-information-texas/
+date_of_breach: 2022-06-01
+date_of_disclosure: 2022-06-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Conifer Revenue Cycle Solutions
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Not Found. Best in Class Identity Protection Services | ID Theft Protection
+  | IDX. Best identity protection services to keep you safe from cyber crime with
+  credit and identity monitoring, id theft protection, identity recovery and financial
+  loss coverage with identity theft insurance. Third-party company: Conifer Revenue
+  Cycle Solutions.'

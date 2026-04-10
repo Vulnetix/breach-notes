@@ -1,0 +1,15 @@
+source_name: Tweet by Jihoz
+source_url: https://twitter.com/Jihoz_Axie/status/1760845078757511562
+date_of_breach: '2024-02-22'
+date_of_disclosure: '2024-02-22'
+category: data-leak
+notes: 'Jeff "Jihoz" Zirlin, a co-founder of the Axie Infinity blockchain game, lost
+  around $9.5 million as two of his crypto wallets were compromised. The thief stole
+  3,248 ETH ($9.5 million), which they quickly laundered with the Tornado Cash cryptocurrency
+  mixer.Some were briefly concerned that Axie Infinity''s Ronin Bridge had been hacked
+  (again), since the funds moved out of the bridge. Jihoz and others were quick to
+  emphasize that the bridge had not been affected, and it was simply a personal wallet
+  compromise.
+
+
+  Total loss estimated at $9,500,000.'

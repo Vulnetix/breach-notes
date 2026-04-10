@@ -1,0 +1,17 @@
+source_name: '"Euler attack causes locked tokens, losses in 11 DeFi protocols, including
+  Balancer"'
+source_url: https://cointelegraph.com/news/euler-attack-causes-locked-tokens-losses-in-11-defi-protocols-including-balancer
+date_of_breach: '2023-03-13'
+date_of_disclosure: '2023-03-13'
+category: data-leak
+notes: 'Contagion from the massive exploit of the Euler project has spread to around
+  a dozen defi projects, including Balancer, Angle Protocol, Yearn Finance, InverseFinance,
+  and others. Some are still evaluating if and how they may be affected, and how much
+  they''ve lost.Around $11.9 million of tokens were sent from the Balancer defi liqiuidity
+  project to Euler during the attack, prompting Balancer to pause the project.The
+  Angle Protocol decentralized stablecoin project also disclosed that almost half
+  of the total value locked in the project — around $17.6 million in the USDC stablecoin
+  — were sent to Euler during the hack.
+
+
+  Total loss estimated at $37,600,000.'

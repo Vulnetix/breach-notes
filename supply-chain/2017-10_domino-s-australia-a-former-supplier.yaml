@@ -1,0 +1,42 @@
+source_name: "Domino's Australia Customer Data Leak via Former Supplier"
+source_url: https://www.itnews.com.au/news/online-rating-system-likely-behind-dominos-data-leak-475806
+date_of_breach: '2017-10-01'
+date_of_disclosure: '2017-10-18'
+date_of_customer_notification: '2017-10-18'
+category: supply-chain
+initial_attack_vector: Compromise of former third-party supplier's online rating system
+cve: []
+vendor_product: Unnamed former supplier (online rating system)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  In October 2017, Domino's Australia customers began receiving targeted spam and
+  phishing emails that addressed them by first name and referenced their local suburb,
+  suggesting the attackers possessed customer data linked to specific store orders.
+  Domino's investigated and attributed the breach to a former third-party supplier
+  that had managed an online customer rating system for the company.
+
+  Domino's CEO Don Meij stated that the compromised data matched information that
+  would have been contained in the rating system: customer email addresses, names,
+  and store suburbs associated with pizza orders. The company emphasized that no
+  financial information, credit card data, or passwords were compromised, as the
+  rating system did not collect or store that type of data.
+
+  Domino's said it had ceased working with the unnamed supplier in July 2017, months
+  before the data surfaced in the phishing campaign. The incident raised questions
+  about data retention practices by third-party vendors after the business relationship
+  ends. The former supplier apparently retained customer data even after the contract
+  was terminated, and that retained data was subsequently accessed by attackers.
+
+  The Australian Information Commissioner was called in to investigate the breach.
+  Domino's maintained that its own systems were not compromised and that the exposure
+  was entirely the result of the former supplier's security failure. The breach
+  affected thousands of customers across Australia.
+
+  The incident occurred just months before Australia's Notifiable Data Breaches scheme
+  took effect in February 2018, which would have imposed mandatory reporting
+  obligations. Under the existing framework at the time, notification was voluntary.
+  The case became a notable example of the risks associated with third-party data
+  retention and the difficulty of ensuring data security across the full vendor
+  lifecycle, including after contract termination.

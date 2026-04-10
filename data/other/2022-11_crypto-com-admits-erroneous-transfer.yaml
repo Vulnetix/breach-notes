@@ -1,0 +1,19 @@
+source_name: Tweet by jconorgrogan
+source_url: https://twitter.com/jconorgrogan/status/1591516592835559429
+date_of_breach: '2022-11-12'
+date_of_disclosure: '2022-11-12'
+category: other
+notes: 'A Twitter user posted Etherscan screenshots showing a massive flow of crypto
+  from the Crypto.com cryptocurrency exchange to another exchange, Gate.io. "Anyone
+  know why Crypto.com would send 320k ETH (82% of their ETH today) to Gate.io on October
+  21?", they wrote. "And why Gate.io would send back to Crypto.com 285K ETH 5-7 days
+  later?"Crypto.com''s CEO, Kris Marszalek, replied: "It was supposed to be a move
+  to a new cold storage address, but was sent to a whitelisted external exchange address.
+  We worked with Gate team and the funds were subsequently returned to our cold storage."
+  He later clarified that all of the funds were returned.Twitter users, reasonably,
+  reacted in horror at the revelation that the platform had accidentally sent such
+  a substantial portion of their funds elsewhere in a careless mistake, and that such
+  a monumental mistake was even possible. They were lucky that they erroneously sent
+  the funds to another exchange, and one who agreed to return the funds.This is not
+  the first time Crypto.com has erroneously transferred funds; in August of this year,
+  they sued a woman to whom they''d accidentally sent $7.2 million that wasn''t hers.'

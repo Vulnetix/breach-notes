@@ -1,0 +1,13 @@
+source_name: "MCG Health Patient Care Guidelines Breach — 1.1 Million Patients"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2022-03-25"
+date_of_disclosure: "2022-06-10"
+date_of_customer_notification: "2022-06-10"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to MCG Health's IT environment and accessed a file containing patient personal data stored on MCG Health's systems; the specific intrusion vector was not publicly disclosed"
+cve: []
+vendor_product: "MCG Health patient care guidelines platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In March 2022, MCG Health — a Hearst Health subsidiary providing evidence-based patient care guidelines and clinical decision support software to health plans and hospitals — suffered a data breach affecting approximately 1.1 million patients. MCG Health provides care guidelines used by payers and providers to determine clinical appropriateness for procedures, surgeries, and hospital admissions. The exposure of care guideline data represents a particularly sensitive category — including denial/approval of procedures — that could affect insurance disputes. MCG disclosed the breach to HHS OCR in June 2022. Exposed data included patient Social Security numbers, medical codes, medical record numbers, health plan member IDs, patient addresses, phone numbers, and names. Multiple health plans and healthcare organisations subsequently notified their patients whose data was held by MCG. The breach was notable for affecting data about clinical decision-making — a unique and sensitive category of health data beyond standard PHI. Multiple class-action lawsuits were filed against MCG Health and its health plan clients for inadequate protection of clinical data."

@@ -1,0 +1,13 @@
+source_name: "Singapore Airlines KrisFlyer Frequent Flyer SITA Breach — 580,000 Members"
+source_url: "https://www.singaporeair.com/en_UK/sg/media-centre/press-release/article/?q=en_UK/2021/January-March/ne0321-210305"
+date_of_breach: "2021-02-26"
+date_of_disclosure: "2021-03-05"
+date_of_customer_notification: "2021-03-05"
+category: "supply-chain"
+initial_attack_vector: "SITA Passenger Service System (PSS) breach — the same third-party aviation IT provider breach that affected Air India; Singapore Airlines KrisFlyer member data stored on SITA's PSS servers was accessed by the attacker; the SITA breach affected multiple airlines simultaneously"
+cve: []
+vendor_product: "SITA Passenger Service System (third-party aviation IT)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Singapore Airlines disclosed on 5 March 2021 that its KrisFlyer frequent flyer programme member data had been compromised through the SITA Passenger Service System breach disclosed on 4 March 2021. Approximately 580,000 Singapore Airlines KrisFlyer and PPS Club frequent flyer members had their data accessed. Exposed data included KrisFlyer member tier status and membership number. Singapore Airlines emphasised that financial information, passport details, email addresses, phone numbers, and full dates of birth were not among the data accessed from SITA's servers. Singapore Airlines took the breach very seriously given its status as Singapore's national carrier and the sensitivity of frequent flyer data. The PDPC (Singapore's Personal Data Protection Commission) was notified. Singapore Airlines had previously achieved certification under Singapore's data protection trust mark. The SITA breach simultaneously affected Star Alliance partners including Air India (4.5M passengers affected), Finnair, Jeju Air, Japan Airlines, Lufthansa, and Malaysia Airlines — demonstrating how aviation supply chain concentration creates systemic privacy risk across multiple carriers from a single vendor breach."

@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: DPRK-Linked EtherRAT Targets React2Shell (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-dprk-linked-etherrat-targets-react2shell-a-30262
+date_of_breach: '2025-12-11'
+date_of_disclosure: '2025-12-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, likely North Korean hackers exploited React2Shell. The Dutch government
+  defended its seizure of Nexperia. Prompt injection may be here to stay. Hikvision
+
+
+  Source: DataBreachToday article coverage.'

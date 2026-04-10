@@ -1,0 +1,43 @@
+source_name: Hyatt Hotels Second Payment Card Breach (41 Properties)
+source_url: https://krebsonsecurity.com/2017/10/hyatt-hotels-suffers-2nd-card-breach-in-2-years/
+date_of_breach: '2017-03-18'
+date_of_disclosure: '2017-10-12'
+date_of_customer_notification: '2017-10-12'
+category: supply-chain
+initial_attack_vector: Point-of-sale malware injected into front desk payment systems at managed hotel properties
+cve: []
+vendor_product: ''
+software_package: ''
+malware: POS RAM-scraping malware (unnamed, dual-capability for swiped and manually entered cards)
+supply_chain_claimed: true
+notes: >-
+  Between March 18 and July 2, 2017, point-of-sale malware infected front desk
+  payment systems at 41 Hyatt Hotels properties across 11 countries. The malware
+  was capable of capturing payment card data from both swiped and manually entered
+  transactions, indicating a dual-capability RAM scraper. This was Hyatt's second
+  major card breach in two years, following a 2015 incident that affected 250 hotels
+  across 50 countries.
+
+  The geographic distribution of affected properties was heavily concentrated in
+  China, with 18 of the 41 compromised hotels located there. Seven properties in
+  U.S. territories were affected, including three in Hawaii, three in Puerto Rico,
+  and one in Guam. Other impacted countries included Brazil, Colombia, India,
+  Indonesia, Japan, Malaysia, Mexico, Saudi Arabia, and South Korea. Notably, no
+  properties in the continental United States were affected in this particular breach.
+
+  Compromised data included cardholder names, card numbers, expiration dates, and
+  internal verification codes. The breach was discovered by Hyatt on July 2, 2017,
+  ending the compromise window, but public disclosure did not occur until October 12.
+  Hyatt stated that the malware was inserted by a third party onto certain hotel IT
+  systems, though the specific third party was never publicly identified.
+
+  The recurrence of POS malware at Hyatt properties raised serious questions about
+  the hotel chain's security posture and its ability to remediate systemic
+  vulnerabilities. After the 2015 breach, Hyatt had implemented EMV chip readers and
+  enhanced monitoring, yet attackers were still able to deploy card-skimming malware
+  on front desk systems. The hospitality industry as a whole was heavily targeted by
+  POS malware during this period, with Hyatt, Hilton, Starwood, Trump Hotels, and
+  Mandarin Oriental all suffering similar breaches.
+
+  Hyatt offered affected customers one year of complimentary identity monitoring and
+  fraud protection services through CSID.

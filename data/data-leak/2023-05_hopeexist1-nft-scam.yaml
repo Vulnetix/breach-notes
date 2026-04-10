@@ -1,0 +1,22 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1663707886726389763
+date_of_breach: '2023-05-30'
+date_of_disclosure: '2023-05-30'
+category: data-leak
+notes: 'A person claiming to be battling cancer created a "charity NFT project" ostensibly
+  to help with her treatment. She convinced some crypto influencers to promote the
+  project, including Andrew Wang, a popular Twitter account with nearly 200,000 followers.
+  Wang tweeted, "I''ll put my rep on the line to say this is for real amidst all the
+  scams in our space". He claimed to have spoken with the NFT project creator''s art
+  teacher, writing: "he says she''s the best student he''s ever had, that her talent
+  is too precious, that she must survive."Several hours later, the project creator
+  deleted her Twitter account, and crypto sleuth zachxbt unearthed evidence that the
+  pixel art she had been selling as NFTs had been stolen from various others. Altogether,
+  the "Pixel Penguins" NFT project she promoted raised around 63.5 ETH (~$117,000).Wang
+  later apologized for promoting the scam, claiming that he had tried to do due diligence
+  but had been in contact with her for over a year, and had spoken on the phone with
+  someone claiming to be her art teacher. However, zachxbt wrote, "Seems some people
+  called it out last year. Not sure how much he actually ''verified''".
+
+
+  Total loss estimated at $117,000.'

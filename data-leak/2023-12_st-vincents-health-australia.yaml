@@ -1,0 +1,13 @@
+source_name: "St Vincent's Health Australia Cyberattack — Sensitive Health Data Stolen"
+source_url: "https://www.stvincents.com.au/about-us/news-blog/article/cyber-incident-update/"
+date_of_breach: "2023-12-19"
+date_of_disclosure: "2023-12-22"
+date_of_customer_notification: "2024-02-01"
+category: "data-leak"
+initial_attack_vector: "Unknown cyber criminal group accessed St Vincent's Health Australia's network by exploiting vulnerabilities in their systems; specific attack vector not publicly disclosed; attacker was able to exfiltrate data before detection"
+cve: []
+vendor_product: "St Vincent's Health Australia IT systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 19 December 2023, St Vincent's Health Australia — the country's largest non-government healthcare and aged care provider, operating hospitals and aged care facilities across New South Wales, Queensland, and Victoria — detected a cyberattack on its network. St Vincent's disclosed the attack on 22 December 2023 and confirmed that data was stolen. St Vincent's Health Australia serves approximately 700,000 patients annually and operates 10 hospitals. The stolen data included some individual personal and health information, though St Vincent's stated that its core systems remained operational throughout the incident. Specific categories of stolen data were not fully detailed in early disclosures. The Australian Cyber Security Centre (ACSC), Australian Federal Police, and state health departments were notified. St Vincent's subsequently determined the breach affected historical records and notified affected individuals. The attack was significant given St Vincent's role as Australia's largest non-government health and aged care operator and its service to particularly vulnerable populations. The incident occurred during the holiday period (December 2023), which created challenges for staff response. Australia's mandatory NDB scheme required notification to the OAIC. The breach followed several other major Australian healthcare cybersecurity incidents including MediSecure and Medibank, contributing to increased Australian Government focus on healthcare sector cybersecurity requirements."

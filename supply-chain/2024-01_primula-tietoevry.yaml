@@ -1,0 +1,22 @@
+source_name: Primula Third-Party Breach (January 2024)
+source_url: https://therecord.media/tietoevry-ransomware-attack-sweden-cloud-services-datacenter
+date_of_breach: 2024-01-01
+date_of_disclosure: '2024-01-22'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Tietoevry
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Akira ransomware hits cloud service Tietoevry; numerous Swedish customers
+  affected. Finland-based Tietoevry said “one part of one of our Swedish datacenters”
+  was attacked with Akira ransomware. Several high-profile customers were affected,
+  including payroll and HR company Primula. Cloud hosting services provider Tietoevry
+  announced that one of its datacenters in Sweden “was partially subject to a ransomware
+  attack” this weekend, affecting numerous customers and forcing stores to close across
+  the country. According to the Finland-based technology company’s statement on Monday
+  , the attackers used the Akira ransomware-as-a-service tools. The incident was limited
+  to “one part of one of our Swedish datacenters” and is believed to have only impacted
+  services to some of Tietoevry''s customers in Sweden. Third-party company: Tietoevry.'

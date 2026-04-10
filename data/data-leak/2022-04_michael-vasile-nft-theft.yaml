@@ -1,0 +1,20 @@
+source_name: '"OpenSea ''Sitting on Ticking Bomb'' as Lawsuits Pile Up Over Stolen
+  Apes"'
+source_url: https://www.vice.com/en/article/n7ny4x/opensea-sitting-on-ticking-bomb-as-lawsuits-pile-up-over-stolen-apes
+date_of_breach: '2022-04-05'
+date_of_disclosure: '2022-04-05'
+category: data-leak
+notes: 'A third "stolen ape" lawsuit was filed against OpenSea, alleging that Opensea''s
+  "security vulnerability allowed an outside party to illegally enter through OpenSea''s
+  code and access Plaintiff''s NFT wallet, in order to sell Plaintiff''s Bored Ape
+  at a fraction of the value." Someone was able to buy the plaintiff''s Bored Ape
+  for 24.89 ETH (~$60,000) — much less than the 135 ETH (~$332,000) the plaintiff
+  had recently listed it at. The scammer then quickly flipped the NFT for resale for
+  92.9 ETH (~$225,000) within an hour.The language in the lawsuit is very similar
+  to the stolen ape lawsuit filed February 18, which is not surprising because the
+  plaintiffs are using some of the same lawyers. Vice interviewed one of the lawyers,
+  and determined that the somewhat odd wording refers to the issue in which OpenSea
+  users didn''t realize their old listings of NFTs at lower prices were still active.
+
+
+  Total loss estimated at $165,000.'

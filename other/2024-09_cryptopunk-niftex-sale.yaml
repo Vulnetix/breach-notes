@@ -1,0 +1,28 @@
+source_name: '"CryptoPunks NFT Worth $1.5 Million Just Sold for $23,000—Here''s How"'
+source_url: https://decrypt.co/249012/cryptopunks-nft-worth-1-5-million-sold-23000
+date_of_breach: '2024-09-11'
+date_of_disclosure: '2024-09-11'
+category: other
+notes: 'A rare CryptoPunk NFT recently sold for only 10 ETH (~$25,300), despite a
+  market value that''s likely around 600 ETH (~$1.5 million). The sale went through
+  thanks to lingering smart contracts from a defunct NFT fractionalization platform
+  called Niftex, which allowed people to buy and sell "shards" of various NFTs. Niftex
+  launched in November 2020, and is now defunct, with its domain redirecting to the
+  Kraken cryptocurrency exchange.The platform''s smart contracts remain operational,
+  however, and so despite the lack of a frontend website for the platform, the backend
+  still remains. A trader was able to use these smart contracts to trigger a feature
+  that allows a buyout of the fractional shard holders which, if not countered by
+  someone else, automatically goes through in 14 days. The bidder proposed a purchase
+  of 0.001 ETH per share, and without an operational Niftex frontend, no one noticed.
+  The bid went through, and the trader successfully purchased all 10,000 shares — and
+  thus, the NFT — for 10 ETH.Since then, several people have offered to purchase the
+  NFT for amounts ranging from 100 to 605 ETH. If the new owner were to accept the
+  605 ETH bid, they would 60x their purchase price.One owner of a fractionalized share
+  said he thought he had managed to successfully block the sale, but miscalculated.
+  "GG to the new owner", he wrote. He wrote on Twitter, "I don’t consider this a heist.  It’s
+  an arb.  The smart contract worked as intended. If you want decentralized systems
+  you have to take the good with the bad.  It’s part of the game.  It’s why we’re
+  here.   If you don’t like those rules, you probably shouldn’t be playing."
+
+
+  Total loss estimated at $1,400,000.'

@@ -1,0 +1,13 @@
+source_name: "Magellan Health Ransomware Breach — 365,000 Patients and Employees"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2020-04-11"
+date_of_disclosure: "2020-05-12"
+date_of_customer_notification: "2020-05-12"
+category: "ransomware"
+initial_attack_vector: "Ransomware attackers sent a phishing email impersonating a Magellan Health client to a Magellan employee; the email installed malware that harvested login credentials; the attacker used stolen credentials to gain access to the Magellan server and deployed ransomware after exfiltrating data"
+cve: []
+vendor_product: "Magellan Health managed care / specialty health company IT systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 11 April 2020, Magellan Health — a Fortune 500 managed care company specialising in behavioral health, pharmacy benefits, and radiology benefits management — suffered a ransomware attack. The attacker sent a phishing email impersonating a Magellan client that installed malware to harvest credentials. Using these credentials, the attacker gained access to a Magellan server on the same day as the phishing attack and, after exfiltrating data, deployed ransomware. Approximately 365,000 individuals were affected including patients and employees. Exposed data included names, addresses, employee ID numbers, W-2 or 1099 information, Social Security numbers (for employees), member IDs, treatment information, and health insurance information. Magellan discovered the breach on 12 April 2020 and disclosed it on 12 May 2020. HHS OCR opened an investigation. The breach occurred during a period of massively elevated healthcare cyber risk during COVID-19, when attackers significantly increased targeting of healthcare organisations. Multiple class-action lawsuits were filed. Magellan was acquired by Centene Corporation in 2021. The breach was notable for the speed of the attack — credential harvesting and ransomware deployment occurring the same day as the initial phishing email."

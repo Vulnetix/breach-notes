@@ -1,0 +1,19 @@
+source_name: Hospitals Third-Party Breach (July 2021)
+source_url: https://healthitsecurity.com/news/clearbalancedata-incidentimpactsover-200000uspatientspii
+date_of_breach: 2021-07-01
+date_of_disclosure: '2021-07-13'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: ClearBalance
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'ClearBalance Data Incident Impacts Over 200,000 US Patients&#039; PII | TechTarget.
+  A new cyberattack is impacting over 200,000 patients across the country. ClearBalance,
+  a California-based company, is notifying over 200,000 customers that their personally
+  identifiable information (PII) may have been stolen during a recent email hacking
+  event. ClearBalance, a “leading provider of consumer-friendly patient financing
+  programs to U.S. hospitals and health care systems,” according to its website, serves
+  over 4 million patient accounts nationwide. Third-party company: ClearBalance.'

@@ -1,0 +1,13 @@
+source_name: "Canva Data Breach — 137 Million Users, GnosticiPlayers"
+source_url: "https://support.canva.com/contact/customer-support/may-2019-security-incident-faqs/"
+date_of_breach: "2019-05-24"
+date_of_disclosure: "2019-05-24"
+date_of_customer_notification: "2019-05-24"
+category: "data-leak"
+initial_attack_vector: "The hacker GnosticiPlayers (responsible for multiple high-profile breaches in 2019) accessed Canva's user database via an unknown vulnerability; the attacker was able to view file names of private design files stored in Google Cloud Storage but could not access their contents"
+cve: []
+vendor_product: "Canva user database / Google Cloud Storage"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 24 May 2019, the graphic design platform Canva was breached by the GnosticiPlayers hacker collective. Approximately 137 million user records were stolen, containing usernames, real names, email addresses, country of residence, and bcrypt-hashed passwords (for local accounts) or OAuth tokens (for accounts authenticated via Google or Facebook). The hacker also accessed file names of private Canva design files stored in Google Cloud Storage but could not access the files themselves. Canva detected and stopped the attack in real-time while it was in progress and notified users the same day. GnosticiPlayers contacted journalists from ZDNet during the attack to claim credit. The stolen database was subsequently shared and eventually appeared on Have I Been Pwned. The passwords were protected with bcrypt hashing — a more secure hashing method than many contemporaneous breaches — reducing the risk of mass credential cracking. Canva is an Australian company, and the breach was notifiable under Australia's Mandatory Data Breach (NDB) scheme. The breach was part of a series of attacks by GnosticiPlayers in early-mid 2019 that collectively exposed over 800 million records from various online services. Canva reached unicorn status ($1 billion valuation) the week before the breach."

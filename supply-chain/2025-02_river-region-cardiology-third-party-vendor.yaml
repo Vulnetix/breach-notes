@@ -1,0 +1,19 @@
+source_name: River Region Cardiology Third-Party Breach (February 2025)
+source_url: https://www.hipaajournal.com/river-region-cardiology-cyberattack-500000/
+date_of_breach: 2025-02-01
+date_of_disclosure: '2025-02-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Cyberattack on River Region Cardiology Affects Up to 500,000 Individuals. Cyberattacks
+  have been reported by River Region Cardiology in Alabama and Delta County Memorial
+  Hospital District in Colorado. Lucent Health Solutions in Cyberattacks have been
+  reported by River Region Cardiology in Alabama and Delta County Memorial Hospital
+  District in Colorado that involved unauthorized access to 500K and 148K records
+  respectively. Lucent Health Solutions in Tennessee has notified individuals about
+  an October 2, 2023 phishing attack.

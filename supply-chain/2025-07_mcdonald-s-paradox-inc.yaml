@@ -1,0 +1,21 @@
+source_name: McDonald's Third-Party Breach (July 2025)
+source_url: https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-chatbot-applications/
+date_of_breach: 2025-07-01
+date_of_disclosure: '2025-07-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Paradox, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: '''123456'' password exposed chats for 64 million McDonald’s job chatbot applications.
+  Cybersecurity researchers discovered a vulnerability in McHire, McDonald''s chatbot
+  job application platform, that exposed the chats of more than 64 million job applications
+  across the United States. Updated title to reflect thats these are not 64 million
+  unique applicants, but rather applications on the job chatbot. The flaw was discovered
+  by security researchers Ian Carroll and Sam Curry, who found that the ChatBot''s
+  admin panel utilized a test franchise that was protected by weak credentials of
+  a login name "123456" and a password of "123456". Third-party company: Paradox,
+  Inc..'

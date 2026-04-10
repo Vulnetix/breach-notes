@@ -1,0 +1,10 @@
+source_name: Tweet by Cory Doctorow
+source_url: https://twitter.com/doctorow/status/1478479483585933312
+date_of_breach: '2021-07-20'
+date_of_disclosure: '2021-07-20'
+category: other
+notes: Norton, the makers of the popular Norton Antivirus software, started installing
+  "Norton Crypto" on customers' machines when they install the popular Norton 360
+  antivirus and malware protection software. It mines Ethereum, skimming 15% for Norton
+  of course. They don't seem to mention that the energy costs incurred by crypto mining
+  on a personal machine are likely to exceed any actual mining proceeds.

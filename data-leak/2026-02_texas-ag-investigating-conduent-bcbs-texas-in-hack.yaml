@@ -1,0 +1,17 @@
+source_name: Texas AG Investigating Conduent, BCBS Texas in Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/texas-ag-investigating-conduent-bcbs-texas-in-hack-a-30754
+date_of_breach: '2026-02-13'
+date_of_disclosure: '2026-02-13'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The Texas attorney general office has launched an investigation into the Conduent
+  Business Services hacking incident, which affected about 15.5 million Texans,
+
+
+  Source: DataBreachToday article coverage.'

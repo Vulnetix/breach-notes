@@ -1,0 +1,20 @@
+source_name: Hawaii Medical Service Association (HMSA) Third-Party Breach (February
+  2024)
+source_url: https://www.hipaajournal.com/462000-hawaiians-navvis-company-breach/
+date_of_breach: 2024-02-01
+date_of_disclosure: '2024-02-07'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Navvis & Company
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: '462,000 Hawai''i Residents Affected by Data Breach at Navvis & Company. Approximately
+  462,000 individuals who enrolled in health plans through the Hawaii Medical Service
+  Association (HMSA) have been affected by a data breach Approximately 462,000 individuals
+  who enrolled in health plans through the Hawaii Medical Service Association were
+  affected by a data breach at vendor Navvis & Company. Data breaches have also been
+  announced by Coastal Hospice & Palliative Care and Atlanta Women’s Health Group.
+  Third-party company: Navvis & Company.'

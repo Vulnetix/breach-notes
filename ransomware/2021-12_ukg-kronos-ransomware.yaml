@@ -1,0 +1,13 @@
+source_name: "Kronos Workforce Management Platform Ransomware — Global HR/Payroll Outage (Weeks)"
+source_url: "https://www.kronos.com/about/newsroom/press-releases/2021/important-message-kronos-customers-regarding-cloud-service-outage"
+date_of_breach: "2021-12-11"
+date_of_disclosure: "2021-12-13"
+date_of_customer_notification: "2021-12-13"
+category: "ransomware"
+initial_attack_vector: "Unknown ransomware group compromised UKG/Kronos's cloud-based workforce management platform (Kronos Private Cloud); specific initial access vector was not disclosed; the attack encrypted the Kronos Private Cloud environment requiring several weeks to restore"
+cve: []
+vendor_product: "UKG (Ultimate Kronos Group) Kronos Private Cloud"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On 11 December 2021, UKG (Ultimate Kronos Group) — one of the world's largest workforce management software providers serving over 40 million people across 57,000 organisations globally — suffered a ransomware attack on its Kronos Private Cloud environment. The attack took down the Kronos Private Cloud platform including UKG Workforce Central, UKG TeleStaff, Healthcare Extensions, and Banking Scheduling Solutions. The outage lasted approximately 4-6 weeks, disrupting employee scheduling, time tracking, and payroll systems for thousands of major organisations. Affected clients included PepsiCo, Tesla, Honda, Whole Foods, Marriott International, New York MTA, City of Cleveland, and the San Francisco 49ers NFL team, among thousands of others. Many organisations were forced to implement emergency manual payroll processes or use alternative systems. The Metropolitan Transportation Authority (MTA) paid some 3,000 employees less due to the disruption. Healthcare organisations lost visibility into nurse and staff scheduling during a critical period of the COVID-19 Omicron surge. PepsiCo workers filed lawsuits alleging missed overtime pay. UKG did not publicly name the ransomware group responsible. The company reached a settlement fund of over $6 million to compensate affected customers for disrupted services and data exposure. The attack highlighted how critical workforce management SaaS platforms have become and the supply chain risks when shared infrastructure is targeted."

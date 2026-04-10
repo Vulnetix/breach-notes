@@ -1,0 +1,22 @@
+source_name: '"Opaque DeFi protocol Venus braces for $150M BNB liquidation"'
+source_url: https://protos.com/opaque-defi-protocol-venus-braces-for-150m-bnb-liquidation/
+date_of_breach: '2023-06-12'
+date_of_disclosure: '2023-06-12'
+category: data-leak
+notes: 'After the massive BNB Chain bridge hack in October 2022, the hacker was able
+  to take out a massive position with the Venus Protocol defi lending project. They
+  borrowed $150 million in stablecoins by putting up 900,000 BNB (~$244 million at
+  the time).The recent SEC lawsuit against Binance has caused the BNB token to plummet
+  almost 25%, from $305 to ~$230. This puts the hacker''s position dangerously close
+  to the liquidation threshold of $220, which could cause substantial impact on the
+  market via cascading liquidations.In November, BNB Chain passed a governance proposal
+  giving the BNB Chain core team the ability to liquidate the position if it approached
+  the liquidation threshold, meaning they could repay the debt in a more controlled
+  manner that wouldn''t dump hundreds of thousands of BNB onto the market all at once.On
+  June 12 the Venus team tweeted a reminder: "BNBChain core team is ready to take
+  over the $BNB position on Venus as planned if the BNB price hits the liquidation
+  threshold. The liquidator address has prepared $30M already to refund the account
+  loans with more to come if needed. No BNB will be dumped into the market and no
+  shortfall is expected on Venus."This is not the only bad debt on the Venus platform,
+  which has been described as "opaque" by Protos and has been accused of trying to
+  hide some of its liabilities.'

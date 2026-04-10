@@ -1,0 +1,17 @@
+source_name: Tweet by CyversAlerts
+source_url: https://twitter.com/CyversAlerts/status/1747927183069184293
+date_of_breach: '2023-11-10'
+date_of_disclosure: '2023-11-10'
+category: data-leak
+notes: 'The treasury of the Samudai DAO was apparently drained as an attacker compromised
+  the project''s multisignature wallets and the wallet belonging to the project''s
+  founder, Kushagra Agarwal. Altogether, around $1.25 million in ETH was stolen.Agarwal
+  sent a message to the thief shortly afterwards, offering a 10% "bounty" in exchange
+  for the return of the rest of the funds. The attacker didn''t seem to be interested,
+  and in mid-January began tumbling the assets through the Tornado Cash cryptocurrency
+  mixer.Samudai didn''t seem to publicly acknowledge the theft, even though they''ve
+  posted on Twitter a few times since then. The organization had raised $2.5 million
+  in pre-seed capital in June 2022.
+
+
+  Total loss estimated at $1,250,000.'

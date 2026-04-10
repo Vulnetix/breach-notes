@@ -1,0 +1,39 @@
+source_name: "Secure Administrative Solutions (SAS) Ransomware Breach Affecting Renaissance Life & Health (2021)"
+source_url: "https://www.prnewswire.com/news-releases/renaissance-life--health-insurance-company-of-america-provides-notice-of-third-party-data-incident-301345240.html"
+date_of_breach: 2021-03-15
+date_of_disclosure: 2021-07-30
+date_of_customer_notification: "2021-07-30"
+category: supply-chain
+initial_attack_vector: Ransomware attack against third-party benefits administration vendor
+cve: []
+vendor_product: "Secure Administrative Solutions LLC (SAS)"
+software_package: ""
+malware: "ransomware (variant unspecified)"
+supply_chain_claimed: true
+notes: |-
+  Secure Administrative Solutions LLC (SAS), a third-party vendor providing benefits administration services
+  to Renaissance Life & Health Insurance Company of America and other insurance clients, suffered a ransomware
+  attack that resulted in the exfiltration of protected health information belonging to insurance plan members.
+
+  The period of unauthorized access to SAS's systems spanned March 15 through April 15, 2021. SAS notified the
+  FBI on May 27, 2021. On June 1, 2021, SAS confirmed to its insurance clients that the incident had resulted
+  in the exfiltration of certain protected health information. Renaissance Life & Health Insurance publicly
+  announced the incident on July 30, 2021.
+
+  The data exposed potentially included member names, mailing addresses, dates of birth, health insurance policy
+  numbers, policy type, premium amounts, and issuance dates. Critically, SAS stated that Social Security numbers
+  and financial information were not among the compromised data categories, somewhat limiting the identity theft
+  risk compared to many healthcare vendor breaches.
+
+  Renaissance offered affected individuals 12 months of complimentary credit monitoring and identity restoration
+  services through TransUnion. The approximately two-month gap between when unauthorized access ended (April 15)
+  and when SAS notified the FBI (May 27) suggests a delay in SAS's own detection and investigation process.
+
+  This incident is part of a broader wave of ransomware attacks targeting healthcare benefits administration
+  vendors in 2020-2021. SAS served multiple insurance clients, meaning the blast radius of the compromise
+  extended beyond Renaissance alone. The TechTarget/HealthTech Security reporting noted that multiple health
+  payers were notified following the SAS breach.
+
+  Sources: https://www.prnewswire.com/news-releases/renaissance-life--health-insurance-company-of-america-provides-notice-of-third-party-data-incident-301345240.html
+  https://www.techtarget.com/healthtechsecurity/news/366595142/Cyberattack-Hits-Health-Payer-Third-Party-Vendor-Exposes-PHI
+  https://databreaches.net/health-insurer-notifies-members-after-third-party-vendor-suffers-ransomware-attack/

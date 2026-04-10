@@ -1,0 +1,16 @@
+source_name: '"BONE Price Surges 40% After Shibarium Flash Loan Exploit"'
+source_url: https://www.coindesk.com/markets/2025/09/13/bone-price-surges-40-after-shibarium-flash-loan-exploit
+date_of_breach: '2025-09-12'
+date_of_disclosure: '2025-09-12'
+category: data-leak
+notes: 'A bridge for Shibarium, the layer-2 network for the Shiba Inu project, was
+  exploited for approximately $2.4 million in funds. The attacker bought 4.6 million
+  BONE tokens (the governance token for Shibarium) using a flash loan, then used compromised
+  validator signing keys to take control of the majority of validator power. Then,
+  they used that control to drain around 225 ETH and 92.6 billion SHIB, together priced
+  at around $2.4 million at the time of the theft.The project has paused staking on
+  the network, freezing the BONE tokens borrowed by the attacker, which may limit
+  the attacker''s profits.
+
+
+  Total loss estimated at $2,400,000.'

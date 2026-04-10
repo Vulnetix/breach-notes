@@ -1,0 +1,18 @@
+source_name: Acrotech Biopharma Inc. Third-Party Breach (May 2024)
+source_url: https://www.hipaajournal.com/cencora-cyberattack-data-breach/
+date_of_breach: 2024-05-01
+date_of_disclosure: '2025-08-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Cencora, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Cencora & The Lash Group Settle Data Breach Litigation for $40 Million. Cencora,
+  The Lash Group, and their affiliates have agreed to pay $40 million to settle class
+  action data breach litigation over a February 2024 data Cencora, Inc., formerly
+  AmerisourceBergen, fell victim to a cyberattack in February 2024. Data was exfiltrated
+  in the attack and at least 27 of its pharma and biotech clients are known to have
+  been affected. Third-party company: Cencora, Inc..'

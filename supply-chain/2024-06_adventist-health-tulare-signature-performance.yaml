@@ -1,0 +1,22 @@
+source_name: Adventist Health Tulare Third-Party Breach (June 2024)
+source_url: https://www.hipaajournal.com/70000-adventist-health-tulare-patients-data-breach/
+date_of_breach: 2024-06-01
+date_of_disclosure: '2024-06-12'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Signature Performance
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'More Than 70,000 Adventist Health Tulare Patients Affected by Business Associate
+  Breach. A business associate of Adventist Health Tulare has identified unauthorized
+  access to the information of 70,000 patients, and Columbia University Irving A business
+  associate of Adventist Health Tulare has identified unauthorized access to the information
+  of 70,000 patients, and Columbia University Irving Medical Center has discovered
+  patient data has been exposed on the internet. Adventist Health has recently announced
+  that the protected health information of more than 70,000 patients of Adventist
+  Health Tulare in California has been accessed by an unauthorized individual. The
+  security breach occurred at a business associate, Signature Performance, which was
+  used to collect payments for services. Third-party company: Signature Performance.'

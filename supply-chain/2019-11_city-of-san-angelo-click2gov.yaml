@@ -1,0 +1,23 @@
+source_name: City of San Angelo Third-Party Breach (November 2019)
+source_url: https://ktxs.com/news/san-angelo/water-bill-payment-breach-for-the-city-of-san-angelo/
+date_of_breach: 2019-11-01
+date_of_disclosure: '2019-11-14'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'San Angelo explains what it''s doing to prevent 3rd hack of payment system.
+  Water customers in San Angelo are hacked off after the city''s online payment system
+  was hacked for the second time in a year. &ldquo;That online payment system was
+  hacked and credit cards were breached. We are trying to narrow down that exact time
+  window with our forensics, " said Water Utilities Director Allison Strube. According
+  to Strube, customers who made online payments should monitor their accounts for
+  any unauthorized charges. SAN ANGELO, Texas — Water customers in San Angelo are
+  hacked off after the city''s online payment system was hacked for the second time
+  in a year. “That online payment system was hacked and credit cards were breached.
+  We are trying to narrow down that exact time window with our forensics, " said Water
+  Utilities Director Allison Strube. Third-party company: Click2Gov.'

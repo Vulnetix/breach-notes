@@ -1,0 +1,13 @@
+source_name: '"Kokomo Finance"'
+source_url: https://www.certik.com/resources/blog/386yWfvZZDLwaIAs2blVpX-kokomo-finance
+date_of_breach: '2023-03-26'
+date_of_disclosure: '2023-03-26'
+category: data-leak
+notes: 'The Kokomo Finance project on the Optimism Ethereum layer-2 network rug pulled
+  for $4.5 million in assets. The project positioned itself as a non-custodial lending
+  platform.After raising user funds, the project''s creators drained its liquidity
+  pools. They also convinced users to send funds to them with a technique known as
+  "ice phishing". They then deleted their social media accounts and disappeared.
+
+
+  Total loss estimated at $4,500,000.'

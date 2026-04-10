@@ -1,0 +1,17 @@
+source_name: Pro-Russia TwoNet Hacktivists Target Water Utility Honeypot (DataBreachToday)
+source_url: https://www.databreachtoday.com/pro-russia-twonet-hacktivists-target-water-utility-honeypot-a-29714
+date_of_breach: '2025-10-13'
+date_of_disclosure: '2025-10-13'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A pro-Russian hacktivist group boasted on Telegram that it hacked a Western
+  water treatment plant - but actually succeeded in attacking a honeypot left by security
+
+
+  Source: DataBreachToday article coverage.'

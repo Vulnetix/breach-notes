@@ -1,0 +1,18 @@
+source_name: VCU Health System Third-Party Breach (May 2023)
+source_url: https://www.hipaajournal.com/credit-control-corporation-va-data-breach/
+date_of_breach: 2023-05-01
+date_of_disclosure: '2023-05-18'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Credit Control Corporation
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Debt Collection Agency Data Breach Affects 345,523 Individuals. R&B Corporation
+  of Virginia, doing business as Credit Control Corporation (CCC), has recently reported
+  a data breach to the HHS'' Office for Civil More than 286,000 individuals have been
+  affected by a data breach at Credit Control Corporation – a debt collection agency
+  used by many hospitals for collecting unpaid medical bills. Third-party company:
+  Credit Control Corporation.'

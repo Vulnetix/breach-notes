@@ -1,0 +1,18 @@
+source_name: Tweet by LakeShowTJ
+source_url: https://twitter.com/LakeShowTJ/status/1571506608861249538
+date_of_breach: '2022-09-18'
+date_of_disclosure: '2022-09-18'
+category: data-leak
+notes: 'The owner of Mutant Ape #21080 was approached with an offer to trade their
+  ape for another Mutant Ape (#55) and an extra 0.5 ETH ($675) to sweeten the deal.
+  The trader agreed, and moved forward with performing the trade on SudoSwap, one
+  of several platforms that allows people to set up NFT-for-NFT swaps. Unfortunately,
+  he didn''t check that the "Mutant Ape #55" that the trader was offering was actually
+  the genuine article. The scammer had created a bunch of fake Mutant Apes that look
+  identical through the SudoSwap frontend, but are clearly fakes if you look at the
+  contract.The trader ended up with a worthless counterfeit and a measly 0.5 ETH for
+  his pricey NFT. The scammer quickly flipped the real Mutant for 13.5 ETH, making
+  a tidy $17,500 profit.
+
+
+  Total loss estimated at $17,515.'

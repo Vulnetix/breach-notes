@@ -1,0 +1,13 @@
+source_name: "Service NSW Phishing Breach — 186,000 Customers, 3.8 Million Documents"
+source_url: "https://www.service.nsw.gov.au/campaign/service-nsw-cyber-attack"
+date_of_breach: "2020-04-04"
+date_of_disclosure: "2020-05-19"
+date_of_customer_notification: "2020-05-19"
+category: "credential-theft"
+initial_attack_vector: "Phishing emails compromised the email accounts of 47 Service NSW staff members; from the compromised email accounts, attackers were able to access customer data processed through Service NSW email correspondence and attached documents"
+cve: []
+vendor_product: "Service NSW staff email accounts / customer correspondence"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In April 2020, 47 Service NSW employee email accounts were compromised through a phishing attack, allowing unauthorized access to customer data processed through those email accounts. Service NSW is the New South Wales government agency that provides services including driver's licences, vehicle registration, and government benefits to all NSW residents. The breach was discovered on 4 April 2020. Approximately 186,000 customers were affected. The breach exposed approximately 3.8 million documents — a combination of documents from Service NSW systems and from customers' correspondence with Service NSW. This included copies of documents submitted by customers such as driver's licences, financial statements, Medicare cards, passports, and other government identity documents that customers had provided when applying for services. Service NSW disclosed the breach on 19 May 2020. The NSW Privacy Commissioner opened an investigation. The OAIC was notified. Service NSW offered affected customers identity protection services. The theft of documents submitted by citizens to a government service agency is particularly serious because it may expose the entirety of citizens' identity document portfolio — not just one form of ID. The breach prompted significant reforms to Service NSW's email security and identity document handling procedures. It highlighted the risk of government agencies storing sensitive identity documents in email attachments."

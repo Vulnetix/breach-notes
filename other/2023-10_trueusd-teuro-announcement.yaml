@@ -1,0 +1,13 @@
+source_name: Tweet thread by ChainArgos
+source_url: https://twitter.com/ChainArgos/status/1716263349455900771
+date_of_breach: '2023-10-16'
+date_of_disclosure: '2023-10-16'
+category: other
+notes: A new, Euro-pegged stablecoin called $TEURO emerged on October 13, with an
+  initial supply of around €70 million. However, TrueUSD subsequently tweeted that
+  "we have zero affiliation with it". The post warned people to "step back and refrain
+  from risky investments".However, the post raised only more questions, as the $TEURO
+  token had been deployed by the address that deployed the primary TrueUSD token.
+  This means that either TrueUSD is lying when they claim they're unaffiliated with
+  $TEURO, or some of their private keys were compromised, allowing an unrelated party
+  to deploy a contract appearing to belong to them.

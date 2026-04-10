@@ -1,0 +1,13 @@
+source_name: "Razer Gaming Peripheral Data Exposure — 100,000 Customers' PII via Elasticsearch"
+source_url: "https://www.bleepingcomputer.com/news/security/razer-exposes-100k-gamers-personal-data-in-misconfigured-elasticsearch/"
+date_of_breach: "2020-08-01"
+date_of_disclosure: "2020-09-09"
+date_of_customer_notification: "2020-09-09"
+category: "data-leak"
+initial_attack_vector: "Razer's customer data was inadvertently exposed through a misconfigured Elasticsearch cluster that was publicly accessible without authentication; the misconfiguration was set up by a vendor and the public exposure lasted approximately one month before being discovered"
+cve: []
+vendor_product: "Razer customer Elasticsearch cluster"
+software_package: "Elasticsearch"
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2020, security researcher Volodymyr Diachenko discovered a publicly accessible Elasticsearch cluster belonging to Razer — the US gaming hardware company known for gaming peripherals, laptops, and accessories. The exposed cluster contained personal data for approximately 100,000 Razer customers who had placed online orders. Exposed data included customer names, email addresses, phone numbers, customer internal IDs, order numbers, order details, shipping addresses, and billing addresses. The data did not include payment card information. The exposure was estimated to have been publicly accessible for approximately one month before being discovered. Razer was notified and secured the database. The researcher initially attempted to contact Razer through their support channels (having no direct security contact mechanism) before discovering a way to reach Razer's security team. Razer subsequently offered to compensate the researcher $1,337 in Razer Gold, which was seen by the security community as an inadequate response to a researcher who had responsibly disclosed a significant breach. Razer later stated the response was a misunderstanding and attempted to provide appropriate recognition. The incident highlighted challenges in responsible disclosure when companies lack clear security contact procedures."

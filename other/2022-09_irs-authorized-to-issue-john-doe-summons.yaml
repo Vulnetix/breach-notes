@@ -1,0 +1,14 @@
+source_name: '"IRS Obtains Court Order Authorizing Summons For Records Relating To
+  U.S. Taxpayers Who Failed To Report And Pay Taxes On Cryptocurrency Transactions"'
+source_url: https://www.justice.gov/usao-sdny/pr/irs-obtains-court-order-authorizing-summons-records-relating-us-taxpayers-who-failed
+date_of_breach: '2022-09-22'
+date_of_disclosure: '2022-09-22'
+category: other
+notes: The IRS was granted authorization to issue a "John Doe summons", which will
+  require M.Y. Safra Bank to provide them with information on U.S. customers who may
+  have failed to report taxable cryptocurrency transactions. This summons is specifically
+  aimed at customers who used sFOX, a crypto broker that used M.Y. Safra Bank's services.
+  The IRS was also previously authorized to serve a John Doe summons on sFOX directly.The
+  press release stated, "Based on its recent experiences with cryptocurrencies, the
+  IRS has strong reason to believe that many virtual currency transactions are not
+  being properly reported on tax returns."

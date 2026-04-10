@@ -1,0 +1,18 @@
+source_name: 'Breach Roundup: the Qilin Hack That Wasn''t (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-qilin-hack-that-wasnt-a-29811
+date_of_breach: '2025-10-23'
+date_of_disclosure: '2025-10-23'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Qilin didn''t hack a Spanish tax agency, Nexperia standoff, Envoy
+  Air confirmed a data compromise, Experian Netherlands fined 2.7M euros, ToolShell
+  used
+
+
+  Source: DataBreachToday article coverage.'

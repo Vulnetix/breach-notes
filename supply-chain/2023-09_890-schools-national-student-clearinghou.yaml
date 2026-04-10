@@ -1,0 +1,21 @@
+source_name: 890 Schools Third-Party Breach (September 2023)
+source_url: https://www.bleepingcomputer.com/news/security/national-student-clearinghouse-data-breach-impacts-890-schools/#google_vignette
+date_of_breach: 2023-09-01
+date_of_disclosure: '2023-09-23'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: National Student Clearinghouse (NSC)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'National Student Clearinghouse data breach impacts 890 schools. U.S. educational
+  nonprofit National Student Clearinghouse has disclosed a data breach affecting 890
+  schools using its services across the United States. U.S. educational nonprofit
+  National Student Clearinghouse (NSC) has disclosed a data breach affecting 890 schools
+  using its services across the United States. In a breach notification letter filed
+  with the Office of the California Attorney General, Clearinghouse said that attackers
+  gained access to its MOVEit managed file transfer (MFT) server on May 30 and stole
+  files containing a wide range of personal information. Third-party company: National
+  Student Clearinghouse (NSC).'

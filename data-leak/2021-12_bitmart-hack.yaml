@@ -1,0 +1,12 @@
+source_name: '"Hackers Steal $150M From Crypto Exchange Billed as ''Most Trusted''"'
+source_url: https://www.vice.com/en/article/akvewk/hackers-steal-dollar150m-from-crypto-exchange-billed-as-most-trusted
+date_of_breach: '2021-12-04'
+date_of_disclosure: '2021-12-04'
+category: data-leak
+notes: 'BitMart, "the most trusted cryptocurrency trading platform", experienced a
+  major breach in which attackers stole approximately $200 million of various cryptocurrencies.
+  The CEO attributed the exploit to a stolen private key, and promised to compensate
+  users who were impacted.
+
+
+  Total loss estimated at $200,000,000.'

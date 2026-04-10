@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: White House Pulls CFTC Chair Nom (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-white-house-pulls-cftc-chair-nom-a-29622
+date_of_breach: '2025-10-02'
+date_of_disclosure: '2025-10-02'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Brian Quintenz won''t lead the U.S. CFTC, Canada fined KuCoin $14M,
+  Texas brothers charged in an $8M kidnapping case, South Korean actor given suspended
+
+
+  Source: DataBreachToday article coverage.'

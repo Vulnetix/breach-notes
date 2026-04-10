@@ -1,0 +1,24 @@
+source_name: IT Pro / Enterprise Times / Silicon UK
+source_url: https://www.itpro.com/data-breaches/31437/costa-coffee-and-premier-inn-hit-by-data-breach
+date_of_breach: '2018-05-23'
+date_of_disclosure: '2018-06-01'
+date_of_customer_notification: '2018-07-02'
+category: supply-chain
+initial_attack_vector: Malware infection of PageUp HR SaaS platform compromising authentication credentials and personal data
+cve: []
+vendor_product: PageUp
+software_package: PageUp HR recruitment platform
+malware: Unspecified malware on PageUp systems
+supply_chain_claimed: true
+notes: >-
+  In June 2018, Whitbread plc -- the parent company of Costa Coffee, Premier Inn, Brewers Fayre, Beefeater, and other UK hospitality chains -- disclosed that personal data of job applicants and employees had been compromised through a breach at PageUp, an Australian cloud-based HR and recruitment software provider. PageUp discovered malware on its systems on May 23, 2018, and on May 28 its investigation revealed indicators that client data may have been compromised. PageUp went public with the breach on June 1, 2018.
+
+  The breach potentially exposed names, email addresses, physical addresses, telephone numbers, dates of birth, gender, and employment details of anyone who had applied for jobs through PageUp's platform or who had been listed as employment references by applicants. Importantly, CVs/resumes, financial data, performance reviews, and employment contracts were not stored in the affected systems and were not compromised. PageUp confirmed that the malware had been removed and that updated anti-malware signatures could now detect it.
+
+  Whitbread was one of the highest-profile victims but the PageUp breach had far wider impact, particularly in Australia where the company is headquartered. Other affected organizations included Commonwealth Bank of Australia, Telstra, National Australia Bank, Coles, Aldi, Australia Post, and the Australian Broadcasting Corporation. Several of these companies, including Australia Post, Telstra, and Coles, immediately suspended their connections to PageUp's systems. In total, PageUp served clients in over 190 countries.
+
+  Whitbread suspended its use of PageUp as soon as it became aware of the incident and prevented current applicants from uploading data into the system. Whitbread declined to state how many of its approximately 50,000 UK employees were affected but confirmed it had notified all impacted parties. The company also notified the UK Information Commissioner's Office (ICO) under GDPR, as the breach occurred just days after the regulation came into force on May 25, 2018 -- making it one of the first significant breaches reported under the new regime.
+
+  The incident demonstrated the concentrated risk that cloud-based HR SaaS platforms pose when a single vendor serves as the recruitment pipeline for hundreds of major organizations simultaneously.
+
+  Primary sources: https://www.itpro.com/data-breaches/31437/costa-coffee-and-premier-inn-hit-by-data-breach and https://www.enterprisetimes.co.uk/2018/07/03/whitbread-data-breach-at-costa-and-premier-inn/

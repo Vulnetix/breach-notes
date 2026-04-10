@@ -1,0 +1,18 @@
+source_name: Woundcare Innovations of Golf Land Third-Party Breach (January 2024)
+source_url: https://www.hipaajournal.com/consensiohealth-ransomware-attack/
+date_of_breach: 2024-01-01
+date_of_disclosure: '2024-01-17'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: ConsensioHealth
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'ConsensioHealth Ransomware Attack Affects 61,000 Patients. The Wisconsin-based
+  medical billing service, ConsensioHealth, has recently notified 60,871 individuals
+  about a July 2023 ransomware attack. The attack was ConsensioHealth experienced
+  a ransomware attack in July in which patient data was compromised. Data breaches
+  have also been reported by Burr & Forman, Southeastern Orthopaedic Specialists,
+  Rebekah Children’s Services, and Sharp Health Plan. Third-party company: ConsensioHealth.'

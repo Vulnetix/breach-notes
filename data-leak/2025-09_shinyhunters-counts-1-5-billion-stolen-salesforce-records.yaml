@@ -1,0 +1,17 @@
+source_name: ShinyHunters Counts 1.5 Billion Stolen Salesforce Records (DataBreachToday)
+source_url: https://www.databreachtoday.com/shinyhunters-counts-15-billion-stolen-salesforce-records-a-29475
+date_of_breach: '2025-09-18'
+date_of_disclosure: '2025-09-18'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The ShinyHunters extortionists behind data-grabbing August attacks on Salesloft
+  Drift users claim to have stolen 1.5 billion Salesforce records from 760 companies
+
+
+  Source: DataBreachToday article coverage.'

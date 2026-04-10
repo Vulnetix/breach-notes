@@ -1,0 +1,22 @@
+source_name: Cisco Third-Party Breach (August 2025)
+source_url: https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/
+date_of_breach: 2025-08-01
+date_of_disclosure: '2025-08-05'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Salesforce
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Cisco discloses data breach impacting Cisco.com user accounts. Cisco has disclosed
+  that cybercriminals stole the basic profile information of users registered on Cisco.com
+  following a voice phishing (vishing) attack that targeted a company representative.
+  After becoming aware of the incident on July 24th, the networking equipment giant
+  discovered that the attacker tricked an employee and gained access to a third-party
+  cloud-based Customer Relationship Management (CRM) system used by Cisco. This allowed
+  the threat actor to steal the personal and user information of individuals with
+  Cisco.com user accounts, including names, organization names, addresses, Cisco-assigned
+  user IDs, email addresses, phone numbers, and account metadata such as creation
+  dates. Third-party company: Salesforce.'

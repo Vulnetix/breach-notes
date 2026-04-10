@@ -1,0 +1,26 @@
+source_name: Tweet by zachxbt
+source_url: https://twitter.com/zachxbt/status/1724860554865500184
+date_of_breach: '2023-11-14'
+date_of_disclosure: '2023-11-14'
+category: data-leak
+notes: 'On the evening of November 14 I logged on to Twitter to notice that #OpenSeaHackAlert
+  and related hashtags were trending. But they were trending not because OpenSea had
+  truly been hacked, but because a huge network of fake accounts with usernames similar
+  to those of PeckShield, CertiK, and zachxbt — well-known accounts that alert crypto
+  traders to possible scams — were spamming the hashtag. Hoping to spark panic into
+  crypto holders who had used the popular service, as well as other services like
+  Uniswap which they were claiming were breached, the phishers shared links to sites
+  that would supposedly help users revoke access to their wallets by those services,
+  securing their assets. Instead, however, those malicious sites would drain the wallets.According
+  to researcher zachxbt, who himself was one of the impersonated, the scammers have
+  stolen more than $300,000 in various assets using this technique.This is not the
+  first time such a technique has been used — a scammer attempted a similar, though
+  less successful, scheme in April 2022. Scams like this take advantage of the poor
+  UX in the crypto world for tracking and revoking wallet permissions that have been
+  granted, requiring people to use third-party websites created for this purpose.
+  Some of them are legitimate, but there are many malicious copies of these revocation
+  sites that prey upon users who may be acting quickly in fear that their assets are
+  at risk.
+
+
+  Total loss estimated at $300,000.'

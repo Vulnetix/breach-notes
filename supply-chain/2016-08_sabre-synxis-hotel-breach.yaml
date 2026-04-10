@@ -1,0 +1,13 @@
+source_name: "Sabre Hospitality Solutions SynXis POS Breach — Hotel Reservations and Payment Cards"
+source_url: "https://www.bleepingcomputer.com/news/security/sabre-data-breach-affects-hotel-reservations-for-several-hotel-chains/"
+date_of_breach: "2016-08-10"
+date_of_disclosure: "2017-05-02"
+date_of_customer_notification: "2017-05-02"
+category: "data-leak"
+initial_attack_vector: "Unauthorized actor gained access to Sabre Hospitality Solutions' SynXis Central Reservations (CR) system via compromised credentials of an authorised system user; once inside the SynXis CR system, the attacker accessed payment card data and personally identifiable information"
+cve: []
+vendor_product: "Sabre Hospitality Solutions SynXis Central Reservations system"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Between 10 August 2016 and 9 March 2017, an unauthorized actor gained access to Sabre Corporation's SynXis Central Reservations (CR) hospitality technology system — a hotel reservation platform used by thousands of hotels worldwide. Sabre Hospitality Solutions serves approximately 36,000 hotel properties globally. The attacker accessed payment card data (card numbers, expiration dates, cardholder names, and in some cases CVV codes) and personally identifiable information (email addresses, hotel booking details) for a subset of reservations made through the SynXis CR system during the exposure window. Sabre notified affected hotel clients in May 2017. Affected hotel brands included The Hard Rock Hotel & Casino, Trump Hotels, Loews Hotels, Kimpton Hotels & Restaurants, Four Seasons, Westin Hotels, Hilton's Curio Collection, and dozens of other luxury and independent hotel properties. The breach was a supply chain attack affecting hotels through their shared third-party reservation platform. Sabre notified the New York Attorney General, US Secret Service, and FBI. Hotel companies that used SynXis were required to notify their guests. Class-action lawsuits were filed against multiple hotel chains. The breach demonstrated the concentration risk in hospitality technology, where a single reservation system vendor breach can simultaneously expose payment data across thousands of properties."

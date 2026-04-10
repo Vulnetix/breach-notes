@@ -1,0 +1,15 @@
+source_name: '"DeFi Protocol Temple DAO Struck by $2.3M Exploit"'
+source_url: https://www.coindesk.com/business/2022/10/11/defi-protocol-temple-dao-struck-by-23m-exploit/
+date_of_breach: '2022-10-11'
+date_of_disclosure: '2022-10-11'
+category: data-leak
+notes: 'A hacker discovered a vulnerability in the smart contract for the STAX project,
+  which is built on the TempleDAO defi protocol. STAX is a liquidity provider for
+  $TEMPLE/$FRAX.Poor access control on a function in the smart contract allowed them
+  to withdraw 321,155 xLP tokens, which they subsequently converted to 1,831 ETH (approximately
+  $2.34 million).This amount represents about 4% of the assets in the TempleDAO protocol.
+  STAX replaced its homepage with a "disclaimer" about the hack, took down the project''s
+  dApp, and urged people not to deposit into the STAX contracts.
+
+
+  Total loss estimated at $2,340,000.'

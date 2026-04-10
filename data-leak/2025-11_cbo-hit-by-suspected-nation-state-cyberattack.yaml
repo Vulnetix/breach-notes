@@ -1,0 +1,18 @@
+source_name: CBO Hit by Suspected Nation-State Cyberattack (DataBreachToday)
+source_url: https://www.databreachtoday.com/cbo-hit-by-suspected-nation-state-cyberattack-a-29958
+date_of_breach: '2025-11-07'
+date_of_disclosure: '2025-11-07'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The Congressional Budget Office has been the subject of an apparent cyber
+  incident, officials confirmed Friday, raising concerns that adversaries may have
+  gained
+
+
+  Source: DataBreachToday article coverage.'

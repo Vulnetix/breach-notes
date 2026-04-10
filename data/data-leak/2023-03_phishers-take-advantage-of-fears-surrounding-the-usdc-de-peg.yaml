@@ -1,0 +1,15 @@
+source_name: '"''Circle Swap'' scam exploits USDC depeg fears, drains ether from wallets"'
+source_url: https://protos.com/circle-swap-scam-exploits-usdc-depeg-fears-drains-ether-from-wallets/
+date_of_breach: '2023-03-14'
+date_of_disclosure: '2023-03-14'
+category: data-leak
+notes: 'When USDC deviated from its dollar peg on March 10, phishers were quick to
+  devise a scheme to take advantage of holders'' fears. A group launched a website
+  appearing to be the blog belonging to Circle, the company that backs USDC. On the
+  fake blog, they announced a supposed defi exchange where users would be able to
+  exchange their USDC for stablecoins like Tether.Holders trying to use the exchange
+  approved transactions which they didn''t realize allowed the phishers to drain their
+  ETH. So far, the scammers have stolen around 74 ETH ($130,500).
+
+
+  Total loss estimated at $130,500.'

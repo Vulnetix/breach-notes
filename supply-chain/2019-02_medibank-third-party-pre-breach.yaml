@@ -1,0 +1,13 @@
+source_name: "Medibank Private 2019 Unauthorised Third-Party Access — Pre-2022 Breach"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/medibank-data-breach"
+date_of_breach: "2019-02-01"
+date_of_disclosure: "2019-08-26"
+date_of_customer_notification: "2019-08-26"
+category: "data-leak"
+initial_attack_vector: "Unauthorised access was obtained to customer data stored in systems managed by a third-party vendor providing services to Medibank Private; the vendor's systems were accessed without authorisation"
+cve: []
+vendor_product: "Medibank Private third-party vendor systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In early 2019, Medibank Private experienced an earlier, smaller breach via a third-party vendor that accessed customer data without authorisation. This breach predated the much larger 2022 ransomware attack. Medibank disclosed the 2019 breach under Australia's Mandatory Data Breach (NDB) scheme in August 2019. Affected data included personal details and health insurance information for a subset of Medibank and ahm customers. Medibank notified the OAIC and affected customers. This earlier incident was significant because it demonstrated that Medibank had prior experience with supply chain security failures before the catastrophic 2022 ransomware attack — raising retrospective questions about whether remediation from the 2019 incident was sufficient. The OAIC's investigation into the 2022 breach also considered Medibank's broader security posture and history."

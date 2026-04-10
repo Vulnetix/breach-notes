@@ -1,0 +1,12 @@
+source_name: '"Saddle Finance"'
+source_url: https://rekt.news/saddle-finance-rekt/
+date_of_breach: '2021-01-19'
+date_of_disclosure: '2021-01-19'
+category: data-leak
+notes: 'The Saddle Finance defi project, a fork of the Curve Finance project, launched
+  on January 20. It promised it would "eliminate slippage".The project was exploited
+  only hours later, by attackers who stole more than 7.9 BTC (~$275,000) by taking
+  advantage of high slippage on the platform.
+
+
+  Total loss estimated at $275,000.'

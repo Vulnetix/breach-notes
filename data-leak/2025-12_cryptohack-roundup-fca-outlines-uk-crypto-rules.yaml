@@ -1,0 +1,18 @@
+source_name: 'Cryptohack Roundup: FCA Outlines UK Crypto Rules (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-fca-outlines-uk-crypto-rules-a-30389
+date_of_breach: '2025-12-25'
+date_of_disclosure: '2025-12-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, the U.K. FCA mapped a path to U.K. crypto regulation, iComTech
+  promoter sentenced in Ponzi case, the U.S. SEC sought public company bans for former
+  FTX
+
+
+  Source: DataBreachToday article coverage.'

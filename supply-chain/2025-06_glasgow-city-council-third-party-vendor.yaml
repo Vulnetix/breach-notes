@@ -1,0 +1,20 @@
+source_name: Glasgow City Council Third-Party Breach (June 2025)
+source_url: https://therecord.media/glasgow-city-council-cyber-incident
+date_of_breach: 2025-06-01
+date_of_disclosure: '2025-06-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Glasgow City Council impacted by ‘cyber incident’. The Glasgow City Council
+  announced that it was affected by an incident “disrupting a number of online services
+  and which may have involved the theft of customer data.”. Glasgow City Council announced
+  on Wednesday being impacted by a cyber incident which it said was “disrupting a
+  number of online services and which may have involved the theft of customer data.”.
+  The nature of the incident hasn’t been confirmed. It was uncovered by the council’s
+  IT supplier CGI last week, “on servers managed by a third-party supplier,” according
+  to the council’s statement.

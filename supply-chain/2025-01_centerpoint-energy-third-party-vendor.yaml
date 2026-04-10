@@ -1,0 +1,21 @@
+source_name: CenterPoint Energy Third-Party Breach (January 2025)
+source_url: https://therecord.media/texas-utility-firm-investigating-potential-data-leak-moveit-breach
+date_of_breach: 2025-01-01
+date_of_disclosure: '2025-01-28'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Texas utility firm investigating potential leak of customer data tied to 2023
+  MOVEit breach. A large Texas energy company confirmed it is investigating reports
+  of stolen customer data that has been published on a cybercriminal forum after it
+  was allegedly taken during a 2023 breach. CenterPoint Energy told Recorded Future
+  News that it is aware of reports that customer data has been leaked after researchers
+  uncovered a cybercriminal forum post with the information. “Based on our investigation,
+  we believe this data was obtained from a third-party vendor’s system,” a spokesperson
+  for CenterPoint Energy said. “We have no reason to believe that our network was
+  compromised in connection with this issue.”.

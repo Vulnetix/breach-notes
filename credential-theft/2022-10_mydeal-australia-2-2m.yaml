@@ -1,0 +1,13 @@
+source_name: "MyDeal Australia Data Breach — 2.2 Million Customers via Compromised Credentials"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/mydeal-data-breach"
+date_of_breach: "2022-10-09"
+date_of_disclosure: "2022-10-16"
+date_of_customer_notification: "2022-10-16"
+category: "credential-theft"
+initial_attack_vector: "Attacker used compromised user credentials to access MyDeal's CRM system, which contained customer data; the compromised credentials allowed the attacker to extract approximately 2.2 million customer records"
+cve: []
+vendor_product: "MyDeal CRM system"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 9 October 2022, MyDeal — an Australian online retail marketplace owned by Woolworths Group (acquired in 2022 for A$217 million) — was breached via compromised user credentials that provided access to the company's CRM system. The attack exposed data for approximately 2.2 million MyDeal customers. Exposed data included names, email addresses, phone numbers, delivery addresses, and partial dates of birth. Payment information was not stored in the compromised system and was not affected. MyDeal disclosed the breach on 16 October 2022 and notified the Australian Cyber Security Centre and relevant authorities under Australia's mandatory NDB scheme. MyDeal was in the process of being integrated into Woolworths Group's systems following the recent acquisition. Woolworths Group clarified that its own systems and customer data were not affected. The breach occurred during a period of heightened attention to Australian data security following the high-profile Optus breach (22 September 2022) and shortly before the Medibank Private breach (12 October 2022), creating a period of intense focus on Australian data breach practices and regulatory requirements. The OAIC opened an investigation. The incident highlighted risks during corporate acquisitions when data systems are being integrated."

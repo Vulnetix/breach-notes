@@ -1,0 +1,18 @@
+source_name: Nabholz Construction Third-Party Breach (February 2024)
+source_url: https://www.hipaajournal.com/february-14-2024-healthcare-data-breach-round-up/
+date_of_breach: 2024-02-01
+date_of_disclosure: '2024-02-14'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Cadence Bank
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'February 14, 2024 Healthcare Data Breach Round-Up. Data breaches have recently
+  been reported by the Hampton-Newport News Community Services Board, Marywood Nursing
+  Care Center, Health Alliance, United Data breaches have been reported by the Hampton-Newport
+  News Community Services Board, Marywood Nursing Care Center, Health Alliance, United
+  Regional Health Care System, Nabholz Construction, and J.D. Gilmour & Co. Third-party
+  company: Cadence Bank.'

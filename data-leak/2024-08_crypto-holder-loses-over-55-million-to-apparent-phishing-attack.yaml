@@ -1,0 +1,14 @@
+source_name: Tweet by Lookonchain
+source_url: https://x.com/lookonchain/status/1826161475049894198
+date_of_breach: '2024-08-20'
+date_of_disclosure: '2024-08-20'
+category: data-leak
+notes: 'Someone holding almost $55.5 million in the DAI stablecoin was apparently
+  phished, signing a transaction to reassign ownership of their DAI stash to a phishing
+  address. The victim appeared to realize their error several hours later, attempting
+  to withdraw the tokens only to have the transaction fail since they were no longer
+  the owner of the assets.The attacker later moved the stablecoins to a new wallet,
+  and exchanged about half of them for 10,625 ETH.
+
+
+  Total loss estimated at $55,473,618.'

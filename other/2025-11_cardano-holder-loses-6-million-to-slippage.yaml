@@ -1,0 +1,22 @@
+source_name: '"''Fat-Finger'' Fail? Cardano Whale Torches $6M After Hitting Illiquid
+  USDA Pool"'
+source_url: https://www.coindesk.com/markets/2025/11/17/fat-finger-fail-cardano-whale-torches-usd6m-after-hitting-illiquid-usda-pool
+date_of_breach: '2025-11-16'
+date_of_disclosure: '2025-11-16'
+category: other
+notes: 'A holder of around 14.4 million ADA (~$6.9 million), the token for the Cardano
+  network, made an expensive error when attempting to swap the tokens for a stablecoin.
+  Because the stablecoin they were looking to buy is lightly used and has only around
+  $10.6 million tokens in circulation, an attempt to purchase millions of the tokens
+  on the market caused the dollar-pegged stablecoin''s price to spike to around $1.26.
+  The resulting slippage meant that the trader spent their roughly $6.9 million in
+  tokens to receive a little less than $850,000 in the USDA stablecoin, meaning the
+  trader essentially threw away $6 million.Observers have questioned what happened.
+  It''s possible that the holder, who had not been active on-chain since 2020, was
+  simply unaware of the slippage risk. It''s also possible that it was a "fat-finger"
+  trade — that the trader accidentally selected the wrong stablecoin from a list of
+  similarly named options, some of which could have more easily absorbed a trade of
+  that size.
+
+
+  Total loss estimated at $6,000,000.'

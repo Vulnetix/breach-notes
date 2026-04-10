@@ -1,0 +1,24 @@
+source_name: '"He lost $340,000 to a crypto scam. Such cases are on the rise"'
+source_url: https://www.npr.org/2023/06/25/1180256165/crypto-scam-senior-victims-spirebit
+date_of_breach: '2023-06-25'
+date_of_disclosure: '2023-06-25'
+category: data-leak
+notes: 'According to a report from NPR, a crypto investment scam called SpireBit drained
+  the life savings of a 74-year-old man in California. The scheme followed a familiar
+  pattern: an online ad followed by some personalized recruiting convinced the man
+  to put a relatively modest sum into an online account with a platform supposedly
+  showing his crypto investments. After seeing those investments skyrocket, the man
+  was convinced to put in more and more money, seeing massive returns. Only once he
+  had put in his life savings did he try to withdraw, and discovered he could not.
+  Ultimately, he realized the platform was a sham.SpireBit claimed to be partnered
+  with established companies within and outside of the crypto ecosystem, and took
+  on the name of a real company as its supposed "parent" firm. Its online footprint
+  was convincing at a glance, but a little digging revealed LinkedIn profiles using
+  stock photos as portraits.After NPR began poking around, the UK''s Financial Conduct
+  Authority issued a warning that SpireBit "is an unauthorised firm that uses the
+  details of a genuine FCA-regulated firm when offering products and services. This
+  makes the unauthorised firm appear as if it is regulated."NPR could not determine
+  how many people had fallen for the scheme, or how much money had been lost in total.
+
+
+  Total loss estimated at $340,000.'

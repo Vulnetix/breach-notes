@@ -1,0 +1,20 @@
+source_name: Arietis Health Third-Party Breach (October 2023)
+source_url: https://healthitsecurity.com/news/rcm-company-reports-data-breach-tied-to-moveit-software-1.9m-impacted
+date_of_breach: 2023-10-01
+date_of_disclosure: '2023-10-17'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'RCM Company Reports Data Breach Tied to MOVEit Software, 1.9M Impacted | TechTarget.
+  The revenue cycle management company reported a data breach that impacted more than
+  1.9 million individuals across more than 50 healthcare organizations. Revenue cycle
+  management company Arietis Health notified more than 1.9 million individuals of
+  a data breach stemming from the MOVEit Transfer hack. As previously reported , entities
+  across all sectors have felt the effects of the hack, which impacted commonly used
+  file transfer software. MOVEit disclosed the vulnerability on May 31 and issued
+  a patch on the same day. Third-party company: Ipswitch, Inc..'

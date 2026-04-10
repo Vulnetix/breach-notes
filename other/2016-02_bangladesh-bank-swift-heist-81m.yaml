@@ -1,0 +1,13 @@
+source_name: "Bangladesh Bank SWIFT Heist — $81 Million Stolen via Fraudulent SWIFT Messages"
+source_url: "https://krebsonsecurity.com/2016/04/bangladesh-bank-hacker-stole-credentials-via-malware/"
+date_of_breach: "2016-02-04"
+date_of_disclosure: "2016-03-08"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "North Korean Lazarus Group gained access to Bangladesh Bank's SWIFT messaging terminals by compromising workstations at the bank using malware introduced via a malicious PDF; the attackers installed malware that modified SWIFT software to forge outgoing payment messages and delete evidence of the fraudulent transfers"
+cve: []
+vendor_product: "Bangladesh Bank SWIFT terminal / SWIFT Alliance Access software"
+software_package: ""
+malware: "EVTDIAG, MSOUTC, MSOUTC (Lazarus custom malware)"
+supply_chain_claimed: false
+notes: "In February 2016, North Korea's Lazarus Group executed the most audacious central bank heist in history by compromising Bangladesh Bank's SWIFT messaging system and fraudulently transferring $951 million from Bangladesh Bank's account at the Federal Reserve Bank of New York. The attack began weeks before — Lazarus Group had gained access to Bangladesh Bank's network by enticing bank employees to install malware via phishing. By early February 2016, they had access to the SWIFT terminals used to send international payment instructions. On 4-5 February 2016 (a Thursday-Friday, when Bangladesh Bank was closed for the Islamic weekend), the attackers sent 35 fraudulent SWIFT payment instructions to the New York Fed totalling $951 million, requesting transfers to accounts in Sri Lanka and the Philippines. Only $101 million was successfully transferred before the New York Fed and Deutsche Bank blocked further payments due to suspicions. $81 million was successfully laundered through Philippine casinos before being traced. A typo in one instruction ('fandation' instead of 'foundation') caused Deutsche Bank to flag and block additional transfers. SWIFT acknowledged it was not responsible for the bank's security but subsequently launched a comprehensive security programme across its 11,000 member institutions. The attack prompted major SWIFT reform and highlighted the catastrophic risk of SWIFT terminal compromise. Lazarus Group used similar techniques against multiple other central banks."

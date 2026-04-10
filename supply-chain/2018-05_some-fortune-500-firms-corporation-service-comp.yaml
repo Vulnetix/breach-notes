@@ -1,0 +1,38 @@
+source_name: SC Media
+source_url: https://www.scworld.com/news/corporation-service-company-breach-exposes-pii-on-5678-customers
+date_of_breach: '2018-04-05'
+date_of_disclosure: '2018-05-01'
+date_of_customer_notification: '2018-05-01'
+category: supply-chain
+initial_attack_vector: Unauthorized network intrusion and data exfiltration from CSC systems
+cve: []
+vendor_product: Corporation Service Company (CSC)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  Corporation Service Company (CSC), a major provider of domain registration, corporate
+  compliance, and agent-for-service-of-process services to Fortune 500 companies and other
+  businesses, disclosed that an unauthorized third party accessed its network and exfiltrated
+  files containing personally identifiable information of 5,678 customers.
+
+  CSC discovered the intrusion during routine security monitoring and determined on April 5,
+  2018, that an unknown actor had accessed its network and certain systems, exfiltrating files
+  containing client names, Social Security numbers, and credit or debit card information. The
+  company filed a breach notification with the California Attorney General's office and began
+  notifying affected customers.
+
+  In response, CSC took immediate steps to contain the intrusion, contacted law enforcement,
+  and engaged two outside cybersecurity firms to conduct a thorough forensic investigation.
+  The company offered affected customers identity protection and credit monitoring services.
+
+  The breach was significant because of CSC's role as a trusted third-party service provider
+  to many of the largest corporations in the United States. CSC acts as a registered agent
+  and handles sensitive corporate filings and domain registrations for a substantial
+  proportion of Fortune 500 companies, meaning a compromise of CSC's systems could have
+  implications well beyond the 5,678 directly affected customers. The exfiltration of Social
+  Security numbers and payment card data indicated the attacker targeted the most sensitive
+  categories of PII available in CSC's systems. While the number of directly affected
+  individuals was relatively small, the incident underscored the concentrated risk that
+  third-party corporate service providers represent when they hold sensitive data for large
+  numbers of major organizations.

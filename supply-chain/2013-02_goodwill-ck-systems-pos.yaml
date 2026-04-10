@@ -1,0 +1,13 @@
+source_name: "Goodwill Industries POS Malware Breach — Payment Card Data at Thrift Stores"
+source_url: "https://krebsonsecurity.com/2014/09/breach-at-goodwill-involved-third-party-service-provider/"
+date_of_breach: "2013-02-01"
+date_of_disclosure: "2014-09-01"
+date_of_customer_notification: "2014-09-01"
+category: "supply-chain"
+initial_attack_vector: "Malware was installed on point-of-sale systems at Goodwill Industries stores nationwide through a compromised third-party payment processing vendor (C&K Systems); the malware collected payment card track data during transactions"
+cve: []
+vendor_product: "C&K Systems (third-party POS service provider for Goodwill Industries)"
+software_package: ""
+malware: "POS RAM-scraping malware"
+supply_chain_claimed: true
+notes: "Beginning in February 2013, a third-party point-of-sale service provider to Goodwill Industries — C&K Systems, a payment processing vendor — had its systems compromised with malware that was able to scrape payment card data from the magnetic stripe during transactions at Goodwill stores. The malware operated for approximately 18 months before detection. Goodwill Industries of America disclosed the breach in September 2014 after being alerted by Visa and MasterCard about patterns of fraudulent card activity traced back to Goodwill stores. Over 330 Goodwill stores across 20 states were potentially affected, covering 868,000 payment cards. The breach demonstrated the supply chain risk of third-party POS service providers — a relatively understudied attack surface compared to direct breaches at that time. Goodwill International stated that only some of its member organizations used C&K Systems and those members were notified. The C&K Systems vendor was also used by other retailers, potentially exposing additional victims. This breach followed a pattern of POS malware attacks in 2013-2014 affecting retailers via shared payment processing vendors, culminating in the Target and Home Depot breaches."

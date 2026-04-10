@@ -1,0 +1,21 @@
+source_name: Thief wallet
+source_url: https://etherscan.io/address/0xbaff2f13638c04b10f8119760b2d2ae86b08f8b5
+date_of_breach: '2025-12-19'
+date_of_disclosure: '2025-12-19'
+category: data-leak
+notes: A crypto trader lost almost $50 million in the Tether stablecoin after falling
+  victim to an address poisoning attack. Because blockchain wallet addresses are long,
+  random alphanumeric strings, traders often use the first and/or last several characters
+  to quickly recognize wallets, and copy and paste regularly used wallet addresses
+  from their transaction history. This has given rise to a type of scam known as "address
+  poisoning", where scammers generate wallet addresses that share similar beginning
+  and end characters, and use them to send transactions to wealthy victims. If they're
+  lucky, as they were in this case, the victim will accidentally copy the similar
+  looking scammer's wallet address when making a transfer of significant size.After
+  the theft, the victim sent an on-chain message to the scammer, offering a $1 million
+  "bounty" for the return of the remaining funds. They threatened, "We have officially
+  filed a criminal case. With the assistance of law enforcement, cybersecurity agencies,
+  and multiple blockchain protocols, we have already gathered substantial and actionable
+  intelligence regarding your activities." However, there's been no activity from
+  the wallet since the message, and the thief had long since begun laundering the
+  funds via Tornado Cash.

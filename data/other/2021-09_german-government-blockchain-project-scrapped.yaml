@@ -1,0 +1,16 @@
+source_name: '"ID Wallet: The German government had long known about IT security vulnerabilities"'
+source_url: https://marketresearchtelecast.com/id-wallet-the-german-government-had-long-known-about-it-security-vulnerabilities/190919/
+date_of_breach: '2021-09-23'
+date_of_disclosure: '2021-09-23'
+category: other
+notes: Shortly before the federal election, the German government launched the app
+  "ID Wallet". It was supposed to store driver's licenses and other identification
+  documents, and allow them to be shared with authorized parties (like the police,
+  or during hotel check-ins). Because the distributed ledger back-end met neither
+  basic EU security standards, nor handled more than a few thousand users (in total,
+  not per second), the launch failed and private data stored in the app would have
+  been exposed to identity theft. FOIA requests revealed that the project developers
+  had known about the shortcomings of their design months in advance. The German Federal
+  Office for Information Security wrote in a report, "[the use of the blockchain-based
+  solution] significantly increases the complexity and, as a result, the fundamental
+  susceptibility to security gaps in the entire system if the benefits are unclear".

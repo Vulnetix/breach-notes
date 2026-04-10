@@ -1,0 +1,12 @@
+source_name: '"StableMagnet and Others Rugpull $22M in Stablecoin Through Unverified
+  Swap Code"'
+source_url: https://www.bsc.news/post/stablemagnet-and-others-rugpull-22m-in-stablecoin-through-unverified-swap-code
+date_of_breach: '2021-06-23'
+date_of_disclosure: '2021-06-23'
+category: other
+notes: 'StableMagnet creators rugpulled about $27 million from users by swapping out
+  linked library code. Users who had StableMagnet linked to their cryptocurrency wallets
+  saw their wallets drained.
+
+
+  Total loss estimated at $27,000,000.'

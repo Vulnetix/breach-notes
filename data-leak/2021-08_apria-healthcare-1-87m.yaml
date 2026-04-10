@@ -1,0 +1,13 @@
+source_name: "Apria Healthcare Data Breach (2021) — 1.87 Million Patients via Email Phishing, Two Intrusion Periods"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2021-08-22"
+date_of_disclosure: "2022-05-22"
+date_of_customer_notification: "2022-05-22"
+category: "data-leak"
+initial_attack_vector: "Phishing emails compromised employee email accounts at Apria Healthcare; the company experienced two separate unauthorized access periods (May-August 2019 and August-October 2021); the 2019 intrusion was discovered during investigation of the 2021 compromise"
+cve: []
+vendor_product: "Apria Healthcare employee email systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Apria Healthcare, a major US home healthcare equipment provider (durable medical equipment, infusion therapy, oxygen therapy), disclosed in May 2022 that it had experienced two separate unauthorized access incidents. The first breach ran from 5 May to 5 August 2019; the second from 22 August to 10 October 2021. The 2019 breach was only discovered during the forensic investigation of the 2021 incident. Approximately 1.87 million patients were affected. Data exposed included names, Social Security numbers, financial account information, health insurance details, medical record numbers, and clinical information. The 2022 disclosure came nearly three years after the first breach. HHS OCR opened an investigation. Multiple class-action lawsuits were filed. Owens & Minor acquired Apria in 2022."

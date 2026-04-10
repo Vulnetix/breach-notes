@@ -1,0 +1,20 @@
+source_name: '"Waves founder’s role in lost $530m raises questions about who’s to
+  blame"'
+source_url: https://www.dlnews.com/articles/defi/waves-vires-finance-sasha-ivanov-role-in-crypto-530m/
+date_of_breach: '2022-04-01'
+date_of_disclosure: '2022-04-01'
+category: other
+notes: 'An up-and-coming defi lending project called Vires Finance, which was based
+  on the Waves protocol, offered high returns of 30–70% APY on stablecoins placed
+  in the project. As with so many promises of huge returns, this one fell apart when
+  wallets began siphoning millions of dollars from the protocol by putting up the
+  Waves-based algorithmic stablecoin USDN as collateral, and then withdrawing stablecoins
+  like USDC and Tether. When the USDN stablecoin later de-pegged, those with funds
+  on Vires Finance were left with around $530 million in bad debt.Waves founder Aleksandr
+  Ivanov blamed the withdrawals on outsiders. However, various crypto researchers
+  believe they have identified Ivanov as the one behind wallets involved in the mass
+  withdrawals. These allegations were later repeated by the FTX bankruptcy estate
+  in an adversary lawsuit against Ivanov.
+
+
+  Total loss estimated at $530,000,000.'

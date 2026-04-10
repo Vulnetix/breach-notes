@@ -1,0 +1,44 @@
+source_name: Mastercard Priceless Specials Loyalty Program Breach
+source_url: https://www.bleepingcomputer.com/news/security/data-of-90k-mastercard-priceless-specials-members-shared-online/
+date_of_breach: '2019-08-19'
+date_of_disclosure: '2019-08-20'
+date_of_customer_notification: '2019-08-21'
+category: supply-chain
+initial_attack_vector: Third-party loyalty program operator compromise; data exfiltrated and posted publicly online
+cve: []
+vendor_product: Priceless Specials loyalty platform (third-party operated)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'On August 19, 2019, data belonging to approximately 90,000 members of Mastercard''s
+  Priceless Specials loyalty program was posted publicly on the internet, triggering
+  Mastercard to notify both the German and Belgian Data Protection Authorities (DPAs).
+  The Priceless Specials program was a rewards and discount platform operated by a
+  third-party vendor on behalf of Mastercard, primarily serving customers in Germany
+  and Belgium. Mastercard did not publicly name the third-party operator responsible
+  for the breach.
+
+  The leaked dataset included customers'' full names, payment card numbers (partial
+  or full — reports varied), email addresses, home addresses, phone numbers, gender,
+  and dates of birth. Notably, card expiration dates, CVV/CVC check digits, and account
+  passwords were not included in the exposed data, limiting the immediate fraud risk
+  somewhat. German media reported the data had been circulating in hacking forums
+  before it was posted more broadly.
+
+  Mastercard shut down the loyalty program immediately after becoming aware of the
+  breach. The company offered all affected customers one year of free credit monitoring
+  and identity theft protection services. Mastercard stated the breach was isolated
+  to the Priceless Specials platform and that its core payment network and systems
+  were not affected.
+
+  Initial German press coverage noted the breach appeared larger than Mastercard initially
+  acknowledged, with subsequent reporting suggesting the number of affected records
+  may have exceeded the 90,000 figure initially cited. The German DPA (Bundesbeauftragter
+  für den Datenschutz und die Informationsfreiheit) and the Belgian Data Protection
+  Authority coordinated their investigation under GDPR cross-border provisions, as
+  the program served consumers in both jurisdictions.
+
+  This incident is a textbook example of third-party vendor risk: Mastercard''s core
+  infrastructure was not compromised, but a downstream loyalty platform operated by
+  a vendor held sensitive customer PII and payment card data without adequate security
+  controls, resulting in a significant data exposure and regulatory scrutiny under GDPR.'

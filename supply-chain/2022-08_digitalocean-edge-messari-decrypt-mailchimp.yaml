@@ -1,0 +1,13 @@
+source_name: Mailchimp Social Engineering Breach — 133 Customers Affected Including Trezor, Fanatics, WooCommerce
+source_url: https://mailchimp.com/newsroom/important-update-about-mailchimp-security/
+date_of_breach: '2022-08-01'
+date_of_disclosure: '2022-08-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Attackers used social engineering to target Mailchimp customer-facing operations staff, obtaining credentials to access internal tools used by Mailchimp's customer support and account administration teams; the attackers then used this access to view and export customer list data
+cve: []
+vendor_product: Mailchimp email marketing platform (internal admin tools)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'In April 2022, Mailchimp discovered that a malicious actor had conducted a social engineering attack on Mailchimp employees and contractors, gaining access to Mailchimp''s internal admin tool. The attackers used the access to view data from 319 Mailchimp accounts and export audience data from 102 accounts. Affected accounts included crypto-related businesses (Trezor hardware wallet — whose subscriber list was used to send phishing emails to Trezor customers), sports merchandise retailer Fanatics, WooCommerce, and others. The Trezor incident had significant downstream impact: attackers sent phishing emails to Trezor customers claiming a security breach and directing them to a fake Trezor site to enter their seed phrases — a direct attempt to steal cryptocurrency funds. Mailchimp disclosed the breach on 4 April 2022. A second Mailchimp social engineering breach occurred in August 2022, affecting DigitalOcean and others. A third breach occurred in January 2023, affecting 133 accounts. The repeated breaches at Mailchimp highlighted the difficulty of protecting SaaS platforms against social engineering targeting internal support staff who necessarily have access to customer data.'

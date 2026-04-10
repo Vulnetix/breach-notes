@@ -1,0 +1,21 @@
+source_name: CVS Health Third-Party Breach (June 2021)
+source_url: https://healthitsecurity.com/news/cvs-health-faces-data-breach1b-search-records-exposed
+date_of_breach: 2021-06-01
+date_of_disclosure: '2021-06-21'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: CVS Health Faces Data Breach,1B Search Records Exposed | TechTarget. A CVS
+  Health data breach led to over 1 billion search records being accidentally posted
+  online, as reported by an independent cybersecurity researcher. More than 1 billion
+  CVS Health search records were accidentally posted online in a data breach incident
+  in late March by an unnamed third party vendor. Independent cybersecurity researcher
+  Jerimiah Fowler discovered the breach and quickly alerted CVS and the database was
+  taken offline on the same day. The records contained search data from CVS.com and
+  CVSHealth.com for both COVID-19 vaccines and medications. In most cases, the search
+  data could not be linked to a specific person, Fowler told Forbes.

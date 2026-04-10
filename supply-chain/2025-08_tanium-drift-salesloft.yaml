@@ -1,0 +1,20 @@
+source_name: Tanium Third-Party Breach (August 2025)
+source_url: https://www.tanium.com/blog/salesloft-drift-data-breach-what-we-know-and-what-were-doing/
+date_of_breach: 2025-08-01
+date_of_disclosure: '2025-08-28'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Drift (Salesloft)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Salesloft Drift Data Breach: What We Know and What We''re Doing. Hackers breached
+  Salesloft in a major data theft campaign, stealing OAuth and refresh tokens linked
+  to the Drift AI chat agent. The impact of their unauthorized access to Salesloft
+  Drift was limited to Salesforce and no other Tanium systems. Accelerate decision-making
+  agility, strengthen resilience, and save costs with a single, unified platform for
+  both IT and security—powered by AI and real-time intelligence. Accelerate decision-making
+  agility and save costs with autonomous operations, integrated IT and security, and
+  comprehensive endpoint management. Third-party company: Drift (Salesloft).'

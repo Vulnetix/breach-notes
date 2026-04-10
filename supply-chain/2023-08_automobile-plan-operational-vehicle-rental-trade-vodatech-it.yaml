@@ -1,0 +1,14 @@
+source_name: Automobile Plan Operational Vehicle Rental Trade Third-Party Breach (August
+  2023)
+source_url: https://www.kvkk.gov.tr/Icerik/7687/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Oto-Plan-Operasyonel-Tasit-Kiralama-Ticaret-AS
+date_of_breach: 2023-08-01
+date_of_disclosure: 2023-08-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Vodatech IT
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party company: Vodatech IT.'

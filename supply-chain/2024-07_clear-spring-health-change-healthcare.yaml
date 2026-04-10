@@ -1,0 +1,24 @@
+source_name: Clear Spring Health Third-Party Breach (July 2024)
+source_url: https://www.hipaajournal.com/southcoast-health-call-4-health-notify-patients-about-cyberattacks/
+date_of_breach: 2024-07-01
+date_of_disclosure: '2024-07-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Change Healthcare
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'SouthCoast Health; Call 4 Health Notify Patients About Cyberattacks. SouthCoast
+  Health and Privia Medical Group in Georgia have notified patients about a cyberattack
+  and HIPAA compliance data breach that occurred in June South Coast Health has notified
+  patients about a June 2023 cyberattack, Call 4 Health has disclosed details of its
+  March 2024 cyberattack, and Clear Spring Health has warned Medicare recipients that
+  they have been affected by the Change Healthcare cyberattack. South Coast Health
+  confirmed that the intrusion was limited to its own network, with Privia Medical
+  Group’s network unaffected; however, some Privia Medical Group patients did have
+  their information exposed. The substitute breach notice provided to the South Carolina
+  Attorney General does not list the types of data compromised in the attack, but
+  that information is detailed in the individual notifications. Third-party company:
+  Change Healthcare.'

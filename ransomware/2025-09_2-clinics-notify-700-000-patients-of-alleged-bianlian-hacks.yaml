@@ -1,0 +1,17 @@
+source_name: 2 Clinics Notify 700,000 Patients of Alleged BianLian Hacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/2-clinics-notify-700000-patients-alleged-bianlian-hacks-a-29499
+date_of_breach: '2025-09-22'
+date_of_disclosure: '2025-09-22'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Two medical practices - in North Carolina and Florida - are notifying a total
+  of more than 700,000 patients whose information was potentially stolen in separate
+
+
+  Source: DataBreachToday article coverage.'

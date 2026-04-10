@@ -1,0 +1,21 @@
+source_name: Fullerton Health Third-Party Breach (October 2021)
+source_url: https://www.zdnet.com/article/third-party-data-breach-in-singapore-hits-healthcare-provider/
+date_of_breach: 2021-10-01
+date_of_disclosure: '2021-10-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Agape Connecting People
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party data breach in Singapore hits healthcare provider. Fullerton Health
+  says its third-party vendor, which platform facilitates appointment booking, had
+  suffered a security breach first detected on October 19 that compromised patients''
+  personal data, including name and contact details as well as bank account information.
+  Another third-party security breach has been reported in Singapore, this time, affecting
+  patients of Fullerton Health and compromising personal data that included bank account
+  details in "a few cases". The affected vendor Agape Connecting People, which platform
+  facilitates appointment booking, first detected the breach on October 19 and appeared
+  to affect only Fullerton Health. Third-party company: Agape Connecting People.'

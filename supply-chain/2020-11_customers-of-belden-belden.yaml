@@ -1,0 +1,49 @@
+source_name: Belden Industrial Networking Cyberattack — Employee and Partner Data Stolen (November 2020)
+source_url: https://www.bleepingcomputer.com/news/security/belden-networking-giants-company-data-stolen-in-cyberattack/
+date_of_breach: "2020-11-12"
+date_of_disclosure: "2020-11-24"
+date_of_customer_notification: "2020-11-24"
+category: supply-chain
+initial_attack_vector: Sophisticated external network intrusion; attackers accessed company servers and exfiltrated files containing employee and business partner data
+cve: []
+vendor_product: Belden
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: |-
+  Belden Inc., a U.S.-based global manufacturer of network connectivity and industrial
+  networking equipment (including routers, firewalls, switches, cabling, and connectors),
+  disclosed a data breach on November 24, 2020 after detecting unauthorized access to
+  its servers on November 12. Belden described the attack as "sophisticated" and confirmed
+  that an external threat actor accessed company systems and copied files containing
+  employee and business partner data.
+
+  The initial disclosure stated that data accessed included "some current and former
+  employee data, as well as limited company information regarding some business partners."
+  Personal information potentially exposed included: employee names, dates of birth,
+  government-issued identification numbers (Social Security numbers and national insurance
+  numbers), bank account information for North American employees on Belden payroll,
+  home addresses, and email addresses.
+
+  A subsequent disclosure revealed that the breach was more extensive than initially
+  reported: attackers also accessed and copied data related to employees' healthcare
+  benefits, including information about family members covered under their health plans.
+  The healthcare data component significantly expanded the sensitivity of the exposed
+  records beyond standard employment PII.
+
+  Belden notified affected employees and business partners, engaged forensic investigators,
+  and notified appropriate regulatory and law enforcement authorities. The company offered
+  free identity monitoring and support services to affected individuals. Class action
+  litigation was subsequently filed against Belden; the company reached a settlement
+  (amount undisclosed) without admitting wrongdoing.
+
+  Belden is a significant player in industrial and enterprise network infrastructure,
+  with products deployed in manufacturing, energy, broadcasting, and transportation
+  sectors. The breach did not appear to involve operational technology (OT) or industrial
+  control systems directly — the compromised data was HR and administrative in nature —
+  but the targeting of an industrial networking vendor raises supply chain concerns
+  given Belden's role in critical infrastructure environments.
+
+  The specific intrusion vector (e.g., phishing, credential compromise, exploitation
+  of a public-facing service) was not publicly detailed. No CVEs or malware families
+  were attributed in public disclosures.

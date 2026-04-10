@@ -1,0 +1,13 @@
+source_name: "Wonga Payday Loans Data Breach — 270,000 UK and 25,000 Poland Customers"
+source_url: "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2018/01/ico-fines-wonga-40-000-for-data-breach-which-affected-245-000-uk-customers/"
+date_of_breach: "2017-04-01"
+date_of_disclosure: "2017-04-09"
+date_of_customer_notification: "2017-04-09"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to Wonga's systems and customer data; Wonga identified the breach through internal monitoring and immediately launched an investigation; the specific attack vector was not disclosed publicly"
+cve: []
+vendor_product: "Wonga Finance UK customer database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In April 2017, Wonga Finance — the UK's largest payday loan company at its peak, with approximately 1 million UK customers — suffered a data breach affecting approximately 270,000 UK customers and 25,000 Polish customers. Exposed data included names, email addresses, home addresses, phone numbers, and bank account numbers and sort codes (for UK customers) — a highly sensitive combination enabling bank fraud. Wonga contacted affected customers on 9 April 2017 and notified the Information Commissioner's Office (ICO) and the Financial Conduct Authority (FCA). The ICO subsequently investigated and fined Wonga £40,000 under the pre-GDPR Data Protection Act 1998 (the maximum fine available at the time, though this would have been far higher under GDPR). The breach of bank account details was particularly serious — while sort codes and account numbers alone cannot enable online banking access, they enable direct debit fraud and targeted social engineering. Wonga was already under regulatory pressure at the time: the FCA had imposed strict affordability checks on payday lenders following widespread criticism of predatory lending practices. Wonga entered administration in August 2018, partly due to the wave of PPI-style compensation claims from borrowers who had taken out unaffordable loans. The data breach added further reputational damage to a company already struggling with regulatory scrutiny."

@@ -1,0 +1,23 @@
+source_name: Fertility Clinics incl. Shady Grove Fertility, Reproductive Science Center
+  San Francisco, IVF Florida, and Fertility Center of Illinois Third-Party Breach
+  (February 2021)
+source_url: https://www.bleepingcomputer.com/news/security/ransomware-hits-largest-us-fertility-network-patient-data-stolen/
+date_of_breach: 2021-02-01
+date_of_disclosure: '2020-11-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: USF
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Ransomware hits largest US fertility network, patient data stolen. US Fertility,
+  the largest network of fertility centers in the U.S., says that some of its systems
+  were encrypted in a ransomware attack that affected the company two months ago,
+  in September 2020. The US Fertility (USF) network is comprised of 55 locations across
+  10 states that completed almost 25,000 IVF cycles in 2018 through its clinics and
+  more than 80 physicians. In total, more than 130,000 babies have been born with
+  the help of partner IVF/fertility practices in the USF network, including but not
+  limited to Shady Grove Fertility, Reproductive Science Center San Francisco, IVF
+  Florida, and Fertility Center of Illinois. Third-party company: USF.'

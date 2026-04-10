@@ -1,0 +1,17 @@
+source_name: '"Experts Raise Warnings About Steve Bannon’s New Cryptocurrency"'
+source_url: https://www.motherjones.com/politics/2022/01/steve-bannon-boris-epshteyn-fjb-crypto/
+date_of_breach: '2021-12-23'
+date_of_disclosure: '2021-12-23'
+category: other
+notes: Around the holidays, Steve Bannon started touting a "Fuck Joe Biden" ($FJB)
+  coin (formerly known as the "Let's Go Brandon" coin, and not to be confused with
+  the other Let's Go Brandon coin) on his podcast. He and his partners have touted
+  investing in the currency as a way to somehow "let your feelings, your primal disapproval,
+  your primal disgust with Biden be heard" (and certainly not just a way to pad Bannon's
+  own pockets). Reviewers inspecting the coin's contracts observed some unusual features,
+  including provisions that allow the currency's operators to manually lock an individual's
+  token balance so they can't sell (how decentralized!), though this of course does
+  not apply to the operators themselves. One reviewer observed how this could easily
+  be exploited for rug pull purposes, if the operators locked token holders from selling
+  as they sold off their own coins, allowing them to get out before others started
+  selling off too.

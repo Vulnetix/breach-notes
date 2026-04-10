@@ -1,0 +1,19 @@
+source_name: Adidas Third-Party Breach (May 2025)
+source_url: https://www.bleepingcomputer.com/news/security/adidas-warns-of-data-breach-after-customer-service-provider-hack/
+date_of_breach: 2025-05-01
+date_of_disclosure: '2025-05-27'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Adidas warns of data breach after customer service provider hack. German sportswear
+  giant Adidas disclosed a data breach after attackers hacked a customer service provider
+  and stole some customers' data. "adidas recently became aware that an unauthorized
+  external party obtained certain consumer data through a third-party customer service
+  provider," the company said on Friday. "We immediately took steps to contain the
+  incident and launched a comprehensive investigation, collaborating with leading
+  information security experts.".

@@ -1,0 +1,13 @@
+source_name: "Global Ransomware Law Enforcement Disruption Operations 2025-2026 — Europol, FBI, NCA"
+source_url: "https://www.europol.europa.eu/media-press/newsroom/news/europol-coordinates-global-operation-against-ransomware-group"
+date_of_breach: "2024-01-01"
+date_of_disclosure: "2026-03-30"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Law enforcement disruption of ransomware infrastructure using proactive techniques: infiltrating group chats and affiliate portals months before public action (Operation Cronos / LockBit), seizing cryptocurrency from ransomware wallets, arresting affiliates and key operators globally, and publishing decryption keys for victims"
+cve: []
+vendor_product: "LockBit, BlackCat/ALPHV, Hive, Cl0p, Scattered Spider — ransomware operations disrupted 2024-2026"
+software_package: ""
+malware: "LockBit, ALPHV/BlackCat, Hive, Cl0p, REvil, Scattered Spider"
+supply_chain_claimed: false
+notes: "By 2025-2026, international law enforcement agencies had significantly shifted their approach to ransomware disruption — moving from reactive arrests after the fact to proactive infiltration and takedown operations conducted while groups were still active. Key operations: (1) Operation Cronos (February 2024): Europol, FBI, NCA, and 10 other agencies simultaneously seized LockBit's infrastructure, websites, affiliate portals, and cryptocurrency wallets; arrested two LockBit operators; published decryption keys for 1,000+ victims; unmasked LockBitSupp as Dmitry Khoroshev (Russian national, sanctioned); (2) Operation Endgame (May 2024): Europol disrupted malware loaders (IcedID, Pikabot, Trickbot, SystemBC, Bumblebee, Smokeloader) used as ransomware delivery infrastructure; (3) ALPHV/BlackCat takedown (December 2023): FBI seized ALPHV's website and obtained decryption keys for 400+ victims; (4) Hive takedown (January 2023): FBI infiltrated Hive for seven months, decrypting $130M of ransoms; (5) Scattered Spider arrests (2024-2025): Multiple arrests of 0ktapus/Scattered Spider members in UK, US, and Spain; (6) Volt Typhoon botnet disruption (January 2024): FBI and DOJ disrupted China's Volt Typhoon KV-botnet targeting US critical infrastructure. Stan Duijf of the Dutch National Police and other experts noted in 2026 that the shift to proactive disruption — targeting ransomware infrastructure months before public action — was yielding measurable results in reducing victim counts for targeted groups."

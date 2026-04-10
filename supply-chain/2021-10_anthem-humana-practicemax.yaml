@@ -1,0 +1,22 @@
+source_name: Anthem, Humana Third-Party Breach (October 2021)
+source_url: https://healthitsecurity.com/news/third-party-vendor-ransomware-attack-impacts-humana-anthem-members
+date_of_breach: 2021-10-01
+date_of_disclosure: '2021-10-27'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PracticeMax
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-Party Vendor Ransomware Attack Impacts Humana, Anthem Members | TechTarget.
+  PracticeMax, a billing and IT solutions provider, experienced a ransomware attack
+  that impacted some Humana and Anthem members. Both Humana and Anthem began notifying
+  members that their protected health information (PHI) had been exposed following
+  a ransomware attack on billing and IT solutions vendor PracticeMax. Humana and Anthem
+  use PracticeMax to share information with Village Health, a provider that helps
+  patients with end-stage kidney disease. Village Health provides care coordination
+  between dialysis centers, providers, and nephrologists. Humana stated that over
+  4,000 patients were impacted, and it remains unclear how many Anthem members were
+  exposed. Third-party company: PracticeMax.'

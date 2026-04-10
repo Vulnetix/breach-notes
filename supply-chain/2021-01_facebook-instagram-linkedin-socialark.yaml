@@ -1,0 +1,24 @@
+source_name: Facebook, Instagram, LinkedIn Third-Party Breach (January 2021)
+source_url: https://www.safetydetectives.com/blog/socialarks-leak-report/
+date_of_breach: 2021-01-01
+date_of_disclosure: '2021-01-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: SocialArk
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Chinese start-up leaked 400GB of scraped data exposing 200+ million Facebook,
+  Instagram and LinkedIn users. High-flying and rapidly growing Chinese social media
+  management company Socialarks has suffered a huge data leak leading to the exposure
+  of over 400GB of person. The company’s unsecured ElasticSearch database contained
+  personally identifiable information (PII) from at least 214 million social media
+  users from around the world, using both populist consumer platforms such as Facebook
+  and Instagram, as well as professional networks such as LinkedIn. The Elastic instance
+  was discovered as part of Safety Detectives’ cybersecurity mission of discovering
+  online vulnerabilities that could potentially pose risks to the general public.
+  Once the owner of the data is identified, our team then informs the affected parties
+  as soon as possible to mitigate the risk of any cybersecurity breaches and server
+  leaks. Third-party company: SocialArk.'

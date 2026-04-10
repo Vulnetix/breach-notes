@@ -1,0 +1,20 @@
+source_name: University of Sydney Third-Party Breach (September 2023)
+source_url: https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/
+date_of_breach: 2023-09-01
+date_of_disclosure: '2023-09-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Unknown
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: University of Sydney data breach impacts recent applicants. The University
+  of Sydney (USYD) has announced it has suffered a data breach through a third-party
+  service provider, exposing the personal data of recently applied and enrolled international
+  applicants. The University of Sydney (USYD) announced that a breach at a third-party
+  service provider exposed personal information of recently applied and enrolled international
+  applicants. The public university started operations in 1850 and has nearly 70,000
+  students and about 8,500 academic and administrative personnel. It is considered
+  one of Australia's most important educational institutes.

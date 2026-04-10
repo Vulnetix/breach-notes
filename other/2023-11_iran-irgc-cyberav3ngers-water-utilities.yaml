@@ -1,0 +1,13 @@
+source_name: "Iranian IRGC CyberAv3ngers Water Utility ICS Attacks — US and Israel Infrastructure"
+source_url: "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a"
+date_of_breach: "2023-11-22"
+date_of_disclosure: "2023-12-01"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "CyberAv3ngers (affiliated with Iran's Islamic Revolutionary Guard Corps Cyber-Electronic Command, IRGC-CEC) exploited internet-exposed Unitronics Vision Series PLCs at water and wastewater facilities; the PLCs had default factory passwords and were directly internet-accessible without authentication"
+cve: ["CVE-2023-6448"]
+vendor_product: "Unitronics Vision Series PLCs (programmable logic controllers) at US water and wastewater facilities"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Beginning 22 November 2023, CyberAv3ngers — a threat group affiliated with Iran's IRGC Cyber-Electronic Command — conducted attacks against Unitronics Vision Series PLCs at water and wastewater facilities in the United States and Israel. The first publicly confirmed victim was the Municipal Water Authority of Aliquippa, Pennsylvania (MWAA), which announced on 25 November 2023 that CyberAv3ngers had taken over one of its booster stations' PLCs, displaying a message reading 'You have been hacked, Down With Israel.' MWAA clarified that water safety was not affected. CISA, the FBI, EPA, and NSA issued a joint advisory on 1 December 2023 identifying the specific vulnerability: Unitronics PLCs running default passwords and exposed directly to the internet (CVE-2023-6448). Multiple US water utilities in Pennsylvania, Texas, and other states were similarly attacked. The attacks highlighted that critical infrastructure ICS/OT systems remained publicly internet-accessible with default credentials — a known and preventable configuration failure. CyberAv3ngers had previously attacked Israeli water infrastructure and was motivated by geopolitical opposition to Israel's military operations. The attacks prompted emergency guidance from the EPA and water sector ISACs (WaterISAC). In February 2024, the US DOJ indicted six IRGC members in connection with the CyberAv3ngers water utility attacks. The campaign continued to generate concern into 2026, with DataBreachToday and CISA reporting ongoing prepositioned IRGC access to US water and energy sector ICS systems."

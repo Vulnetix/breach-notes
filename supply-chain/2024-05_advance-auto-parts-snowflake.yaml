@@ -1,0 +1,19 @@
+source_name: Advance Auto Parts Third-Party Breach (May 2024)
+source_url: https://techcrunch.com/2024/06/07/snowflake-ticketmaster-lendingtree-customer-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAp-QBodfvJGI6H699Rp2QNUDqHv0m0H9ixITAc8MaO4cxURq4B4FCPL8X8a8H4pX6Se11l244IWowOt3UqyHNb4M8tf7W2UkVSrGzeqKd_hy6cq8CN_TEsgq7mSaXaxzDFHqSjeVdxZM1_Yk3Bgfv8L1oNC1fu3yXBUvmLJk3CK
+date_of_breach: 2024-05-01
+date_of_disclosure: '2024-06-08'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Snowflake
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'What Snowflake isn''t saying about its customer data breaches | TechCrunch.
+  As another Snowflake customer confirms a data breach, the cloud data company says
+  its position "remains unchanged.". Snowflake’s security problems following a recent
+  spate of customer data thefts are, for want of a better word, snowballing. Ticketmaster
+  was the first company to link its recent data breach to the cloud data company Snowflake
+  , and loan comparison site LendingTree has now confirmed its QuoteWizard subsidiary
+  had data stolen from Snowflake. Third-party company: Snowflake.'

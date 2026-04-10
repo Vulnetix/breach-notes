@@ -1,0 +1,46 @@
+source_name: Healthcare IT News
+source_url: https://www.healthcareitnews.com/news/vendor-error-exposes-data-more-14000-health-plan-participants
+date_of_breach: '2016-12-22'
+date_of_disclosure: '2017-02-01'
+date_of_customer_notification: '2017-03-01'
+category: supply-chain
+initial_attack_vector: Misconfiguration of third-party vendor patient management system
+cve: []
+vendor_product: Unnamed patient management software vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On December 22, 2016, an unauthorized individual gained access to electronic
+  files stored on computer systems maintained by a third-party vendor that
+  provided patient management software applications to Brand New Day, a
+  Medicare Advantage health plan based in California. Brand New Day discovered
+  the breach on December 28, 2016, when it learned that the vendor's system
+  had been improperly configured, allowing unauthorized access to electronic
+  protected health information.
+
+  The breach affected 14,005 Brand New Day members. Exposed data included
+  patient names, addresses, phone numbers, dates of birth, and Medicare ID
+  numbers. The vendor's system was used by one of Brand New Day's contracted
+  healthcare providers, and the misconfiguration allowed external access to
+  files that should have been restricted.
+
+  Upon discovering the breach, Brand New Day contacted the vendor the same
+  day. The vendor identified and corrected the configuration error within
+  hours, eliminating the unauthorized access pathway. Brand New Day then
+  conducted an internal investigation to determine the scope of the exposure
+  and identify all affected members.
+
+  The incident was reported to the HHS Office for Civil Rights in February
+  2017 as a HIPAA breach affecting more than 500 individuals. Notification
+  letters were sent to affected members beginning in March 2017. Impacted
+  individuals were offered one year of free identity theft protection and
+  credit monitoring services as a remediation measure.
+
+  The case highlighted the risks healthcare organizations face when relying
+  on third-party vendors for patient data management. Even though the breach
+  originated from a vendor's system, Brand New Day as the covered entity
+  bore responsibility for notifying patients and regulators. The incident
+  underscored the importance of business associate agreements that include
+  security configuration requirements and regular vendor audits to ensure
+  proper access controls are maintained on systems handling ePHI.

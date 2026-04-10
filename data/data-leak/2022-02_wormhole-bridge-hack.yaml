@@ -1,0 +1,19 @@
+source_name: Tweet by wormholecrypto
+source_url: https://twitter.com/wormholecrypto/status/1489001949881978883
+date_of_breach: '2022-02-02'
+date_of_disclosure: '2022-02-02'
+category: data-leak
+notes: 'The Wormhole Network is a blockchain bridge between Solana and various other
+  blockchains, allowing assets to be traded across the different and not otherwise
+  interoperable chains. After an attacker was able to spoof a guardian account, Wormhole
+  was exploited on February 2 for 120,000 wETH, or about $326 million. The network
+  was taken down for maintenance, and Wormhole promised that "ETH will be added over
+  the next hours to ensure wETH is backed 1:1". The parent company of Wormhole, Jump
+  Trading, replaced the funds that had been drained; meanwhile, Wormhole offered a
+  $10 million bounty to try to tempt the attacker into returning the funds. The hack
+  was the fourth-largest cryptocurrency theft of all time, trailing behind the $480
+  million Mt. Gox theft in 2014, the $547 million Coincheck theft in 2018, and the
+  $611 million Poly Network theft (that was later returned) in 2021.
+
+
+  Total loss estimated at $180,000,000.'

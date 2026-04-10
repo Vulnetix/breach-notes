@@ -1,0 +1,51 @@
+source_name: NBC News
+source_url: https://www.nbcnews.com/news/us-news/thousands-patient-records-leaked-hospital-data-breach-n756981
+date_of_breach: '2014-01-01'
+date_of_disclosure: '2017-05-03'
+date_of_customer_notification: '2017-07-01'
+category: supply-chain
+initial_attack_vector: Misconfigured rsync backup server left publicly accessible without authentication
+cve: []
+vendor_product: iHealth Innovations
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On May 3, 2017, security researcher Bob Diachenko of the Kromtech Security
+  Research Center discovered a massive trove of patient records from
+  Bronx-Lebanon Hospital Center in New York City exposed on an unsecured
+  backup server. The records were found during a routine audit of exposed
+  rsync protocols using the Shodan search engine. The misconfigured server
+  was operated by iHealth Innovations, a Louisville, Kentucky-based IT
+  services and records management company that managed backup operations for
+  the hospital.
+
+  The rsync backup had been left without password protection or encryption,
+  making the data accessible to anyone who knew the server address. The
+  exposure had persisted for approximately three years, dating back to
+  roughly 2014. Initially, researchers estimated that tens of thousands to
+  potentially millions of patient records were accessible. The final
+  confirmed count reported to HHS was approximately 7,000 affected
+  individuals.
+
+  The exposed data was extremely sensitive, including patient names, home
+  addresses, medical diagnoses, health histories, HIV statuses, mental
+  health records, addiction histories, reports of domestic violence, sexual
+  assault documentation, and other highly confidential clinical information.
+  The records spanned patients who visited the hospital between 2014 and
+  2017.
+
+  The investigation determined that only one individual, the Kromtech
+  researcher who discovered the exposure, had accessed the data. After
+  notification, iHealth Innovations reconfigured the server to prevent
+  further access and engaged a third-party cybersecurity firm to validate
+  its analysis and remediation. Bronx-Lebanon Hospital reported the breach
+  to HHS and notified affected patients.
+
+  The incident became a widely cited example of the dangers of
+  misconfigured backup systems and inadequate vendor security practices in
+  healthcare. It demonstrated how a single configuration oversight by a
+  third-party vendor could expose years of highly sensitive patient data,
+  including information protected under both HIPAA and various state
+  privacy laws governing HIV status, mental health, and substance abuse
+  records.

@@ -1,0 +1,12 @@
+source_name: '"DeFi platform ‘bEarn Fi’ promises 105% compensation after $10 million
+  hack, but is it the right thing?"'
+source_url: https://cryptoslate.com/defi-platform-bearn-fi-promises-105-compensation-after-10-million-hack-but-is-it-the-right-thing/
+date_of_breach: '2021-05-16'
+date_of_disclosure: '2021-05-16'
+category: data-leak
+notes: 'An attacker pulled $10.85 million in funds out of one of bEarn Fi''s vaults
+  by exploiting a bug that allowed them to withdraw more funds than they deposited.
+  bEarn promised to compensate affected users with 105% of the amount they lost.
+
+
+  Total loss estimated at $10,850,000.'

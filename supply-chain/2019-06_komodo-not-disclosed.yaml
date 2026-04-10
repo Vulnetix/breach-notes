@@ -1,0 +1,21 @@
+source_name: Komodo Third-Party Breach (June 2019)
+source_url: https://coingeek.com/komodo-hacks-own-agama-wallet-to-protect-user-funds/
+date_of_breach: 2019-06-01
+date_of_disclosure: 2019-06-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Latest Blockchain News, BSV Insights, and AI Web3 Trends from CoinGeek. A serious
+  vulnerability has been discovered in a cryptocurrency wallet app, putting millions
+  of dollars’ worth of user cryptocurrency at imminent risk of theft. The vulnerability
+  was discovered in the Agama wallet app, which runs on the Komodo platform, during
+  an independent security audit of the code this week. When alerted to the hack, the
+  Komodo team used the same exploit to take user funds out of compromised accounts
+  and move them to safe storage, a risky tactic that saw them effectively hack their
+  own app to protect users. The tactic appears to have saved some 96 SegWitCoin (BTC),
+  worth around $13 million, before a hacker stumbled over the funds.

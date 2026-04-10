@@ -1,0 +1,20 @@
+source_name: EdFinancial and Oklahoma Student Loan Authority Third-Party Breach (July
+  2022)
+source_url: https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/
+date_of_breach: 2022-07-01
+date_of_disclosure: '2022-08-31'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Nelnet Servicing
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Student Loan Breach Exposes 2.5M Records. 2.5 million people were affected,
+  in a breach that could spell more trouble down the line. EdFinancial and the Oklahoma
+  Student Loan Authority (OSLA) are notifying over 2.5 million loanees that their
+  personal data was exposed in a data breach. The target of the breach was Nelnet
+  Servicing, the Lincoln, Neb.-based servicing system and web portal provider for
+  OSLA and EdFinancial, according to a breach disclosure letter. Third-party company:
+  Nelnet Servicing.'

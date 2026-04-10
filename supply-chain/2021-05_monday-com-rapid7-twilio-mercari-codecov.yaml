@@ -1,0 +1,22 @@
+source_name: "Codecov Bash Uploader Supply Chain Attack — CI Token Theft, Rapid7/Twilio/Monday.com/Mercari Among Victims"
+source_url: "https://www.bleepingcomputer.com/news/security/hundreds-of-networks-reportedly-hacked-in-codecov-supply-chain-attack/"
+date_of_breach: "2021-01-31"
+date_of_disclosure: "2021-04-01"
+date_of_customer_notification: "2021-04-15"
+category: supply-chain
+initial_attack_vector: "CWE-506: Embedded Malicious Code — attackers exploited a Docker image build flaw in Codecov's CI pipeline to insert a credential-harvesting curl command into the Bash Uploader script"
+cve: []
+vendor_product: "Codecov Bash Uploader"
+software_package: "codecov/codecov-action; bash uploader script"
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  Codecov, a widely used code coverage reporting service, suffered a sophisticated supply chain compromise that began January 31, 2021, and was not discovered until April 1, 2021 — giving attackers more than two months of undetected access. Attackers exploited a flaw in Codecov's Docker image build process that allowed them to extract credentials, which they then used to gain access to Codecov's GCS (Google Cloud Storage) bucket hosting the Bash Uploader script.
+
+  The attackers modified the Bash Uploader to append a malicious one-liner: a curl command that silently exfiltrated all CI/CD environment variables — including tokens, API keys, AWS keys, and any secret stored in the CI environment — to an attacker-controlled server (35.85.59[.]168). Because the Bash Uploader was executed inside thousands of CI pipelines on every code push, the attackers received a continuous stream of credentials across a wide range of organizations throughout the 2.5-month window.
+
+  The attack was structurally similar to the SolarWinds compromise: a trusted tool inserted into developers' build pipelines became a universal collection mechanism. Codecov's post-mortem confirmed periodic unauthorized alterations to the script occurred across the window. The FBI and CISA investigated the incident.
+
+  Confirmed victims who publicly disclosed impact included: Rapid7 (source code repository access and a small number of internal credentials from their MDR tooling CI server); Twilio (GitHub repository credentials accessed); Monday.com (source code accessed via compromised tokens); Mercari (source code and internal credentials); HashiCorp (GPG signing key used for HashiCorp releases exposed, leading to key rotation); Confluent (source code exposed). Hundreds of additional organizations were reported affected but did not publicly disclose. The attackers appeared to prioritize targets with access to further high-value infrastructure rather than mass exploitation.
+
+  Codecov rotated all credentials, replaced the compromised Bash Uploader, and notified affected customers beginning April 15, 2021. The incident prompted widespread calls to remove curl-pipe-to-bash patterns from CI pipelines and to use integrity-verified, pinned script downloads.

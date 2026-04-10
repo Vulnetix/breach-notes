@@ -1,0 +1,12 @@
+source_name: Tweet thread by Bacon Protocol
+source_url: https://twitter.com/BaconProtocol/status/1500174000206475265
+date_of_breach: '2022-03-05'
+date_of_disclosure: '2022-03-05'
+category: data-leak
+notes: 'Bacon Protocol, a defi project seeking to provide NFT mortgage liens (yes,
+  really) was hacked. A reentrancy bug in their smart contract enabled attackers to
+  get more lending credits than they should have been allowed, and was exploited for
+  a total loss to Bacon Protocol of around $1 million.
+
+
+  Total loss estimated at $1,000,000.'

@@ -1,0 +1,22 @@
+source_name: Virginia Dept. of Medical Assistance Services Third-Party Breach (October
+  2023)
+source_url: https://www.hipaajournal.com/september-2023-healthcare-data-breach-report/
+date_of_breach: 2023-10-01
+date_of_disclosure: '2023-10-20'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Maximus
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'September 2023 Healthcare Data Breach Report. September was a much better
+  month for healthcare data privacy, with the lowest number of reported healthcare
+  data breaches since February 2023. In. For the second successive month, there was
+  a fall in the number of breached records, which dropped 36.6% month-over-month.
+  Across the 48 reported data breaches, the protected health information of 7,556,174
+  individuals was exposed or impermissibly disclosed. September’s total was below
+  the 12-month average of 7,906,890 records per month, but this year has seen two
+  particularly bad months for data breaches. More healthcare records were exposed
+  in May and June than were exposed in all of 2020!. Third-party company: Maximus.'

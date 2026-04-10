@@ -1,0 +1,13 @@
+source_name: '"8ight Finance Hacked: All Funds in Treasury Withdrawn due to Leak of
+  the Private Key"'
+source_url: https://blog.coincodecap.com/8ight-finance-hacked-all-funds-in-treasury-withdrawn-due-to-leak-of-the-private-key
+date_of_breach: '2021-12-06'
+date_of_disclosure: '2021-12-06'
+category: data-leak
+notes: 'A compromised private key allowed an attacker to remove all funds from 8ight
+  Finance''s treasury, amounting to about $1.75 million. The team admitted to sending
+  the key through Facebook chat and Google Drive, writing, "This is our first project,
+  so we must admit our opsec [operational security] was low."
+
+
+  Total loss estimated at $1,750,000.'

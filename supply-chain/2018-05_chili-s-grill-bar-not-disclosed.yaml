@@ -1,0 +1,40 @@
+source_name: Bleeping Computer
+source_url: https://www.bleepingcomputer.com/news/security/card-breach-announced-at-chili-s-restaurant-chain/
+date_of_breach: '2018-03-01'
+date_of_disclosure: '2018-05-12'
+date_of_customer_notification: '2018-05-12'
+category: supply-chain
+initial_attack_vector: Point-of-sale RAM-scraping malware deployed on restaurant POS systems
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: POS RAM-scraping malware
+supply_chain_claimed: true
+notes: >-
+  Brinker International, the parent company operating over 1,600 Chili's Grill and Bar
+  restaurants worldwide, disclosed a payment card data breach on May 12, 2018, one day after
+  discovering the security incident on May 11. The breach involved malware installed on
+  point-of-sale systems at some Chili's restaurant locations, active between March and April
+  2018, though the company did not disclose the exact number of affected locations or
+  customers.
+
+  The malware was designed to capture payment card data as it was processed through POS
+  terminals, potentially compromising credit and debit card numbers and cardholder names.
+  Brinker International did not identify the specific malware variant used, though the attack
+  was consistent with RAM-scraping malware commonly deployed against restaurant and retail POS
+  systems during this period. This type of malware intercepts unencrypted card data in memory
+  during the brief moment between card swipe and encryption.
+
+  Brinker engaged third-party forensic experts and notified law enforcement to investigate
+  the scope and origin of the breach. The company advised customers who dined at Chili's
+  between March and April 2018 to monitor their payment card statements for unauthorized
+  charges.
+
+  The Chili's breach was part of a broader pattern of POS malware attacks targeting the
+  restaurant industry in 2017-2018, alongside similar incidents at Applebee's, Sonic
+  Drive-In, Jason's Deli, and other chains. These attacks exploited the widespread use of
+  magnetic stripe payment card technology and the distributed nature of restaurant POS
+  infrastructure, where hundreds or thousands of individual terminals across locations
+  created a large attack surface. The supply-chain element involves the POS system vendors
+  whose products were compromised, though Brinker did not publicly identify the specific
+  vendor or vulnerability exploited.

@@ -1,0 +1,14 @@
+source_name: '"Tiger Incident Analysis"'
+source_url: https://www.certik.com/resources/blog/6ztg7aaiKvTFuOo0IdCzTn-tiger-incident-analysis
+date_of_breach: '2022-06-02'
+date_of_disclosure: '2022-06-02'
+category: other
+notes: 'The TIGER project was supposed to be a DAO aiming to "support global technical
+  teams" and protect wild animals and the environment. The project was broad-ranging,
+  and had NFT, gaming, and defi components. Beginning on June 2, the project rug pulled
+  64,171 TIGER tokens notionally worth around $4.52 million. The TIGER token dropped
+  by more than 50% following the first rug pull transaction, and transactions continued
+  for another 20 days.
+
+
+  Total loss estimated at $4,518,000.'

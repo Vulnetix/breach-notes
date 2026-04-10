@@ -1,0 +1,13 @@
+source_name: '"XKingdom Incident Analysis"'
+source_url: https://www.certik.com/resources/blog/xkingdom-incident-analysis
+date_of_breach: '2024-01-06'
+date_of_disclosure: '2024-01-06'
+category: other
+notes: 'The xKingdom project promised users a way to "build your kingdom" on Twitter,
+  earning tokens by interacting with tweets and doing "quests". Users had to borrow
+  XKING tokens in order to participate.On January 6, the project''s creators drained
+  the tokens that had been put into the project, then deleted their website and social
+  media accounts. Altogether, they withdrew 558.3 ETH (~$1.25 million).
+
+
+  Total loss estimated at $1,250,000.'

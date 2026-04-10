@@ -1,0 +1,23 @@
+source_name: <i>SEC v. Binance</i>
+source_url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.256060/gov.uscourts.dcd.256060.1.0.pdf
+date_of_breach: '2023-06-05'
+date_of_disclosure: '2023-06-05'
+category: other
+notes: 'The SEC has filed a complaint against Binance, various related companies,
+  and Binance CEO Changpeng "CZ" Zhao. They allege that the company has been acting
+  with "blatant disregard" of US securities laws through their operation of unregistered
+  trading platforms, have performed multiple offers of unregistered securities and
+  investment schemes, and have defrauded investors through material misstatements
+  around supposed controls for manipulative trading activity, such as wash trading,
+  on the Binance platforms.The complaint echoes some of the allegations made by the
+  CFTC in a March lawsuit, including that Binance.US was primarily a front for Binance''s
+  international platform that was used to try to distract US regulators. However,
+  it also goes farther by adding allegations around Binance''s lack of controls around
+  market manipulation, which the SEC alleges contradict public statements by Binance
+  that they had sophisticated programs to prevent wash trading and other manipulative
+  actions. The SEC even claims that the CZ-owned and -operated market maker Sigma
+  Chain was engaged in substantial wash trading on the platform.The SEC lawsuit was
+  also a bit of a bombshell in its naming of some major cryptocurrencies as securities:
+  SOL, ADA, MATIC, FIL, ATOM, SAND, MANA, ALGO, AXS, and COTI. These are the crypto
+  assets associated, respectively, with the Solana, Cardano, Polygon, Filecoin,[d]
+  Cosmos, The Sandbox, Decentraland, Algorand, Axie Infinity, and Coti projects.'

@@ -1,0 +1,13 @@
+source_name: "Three Mobile UK Breach — 133,827 Customer Upgrade Orders, Insider Threat"
+source_url: "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2017/11/three-mobile-fined-400-000-for-serious-data-breach/"
+date_of_breach: "2016-11-01"
+date_of_disclosure: "2016-11-17"
+date_of_customer_notification: "2016-11-17"
+category: "data-leak"
+initial_attack_vector: "Fraudsters used a legitimate employee login credential (obtained via an insider or social engineering) to access Three Mobile's customer upgrade database; they then used customer data to intercept handset upgrades — diverting new handsets to fraudsters rather than legitimate customers"
+cve: []
+vendor_product: "Three Mobile UK customer upgrade database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2016, Three Mobile UK — one of the UK's major mobile network operators — disclosed a breach of its customer upgrade system. Fraudsters used compromised employee login credentials to access Three's upgrade customer database containing records for 133,827 customers who had ordered phone upgrades. The breach was used for an unusual type of fraud: the attackers intercepted handset deliveries and diverted new premium smartphones (worth hundreds of pounds each) to fraudulent addresses. This 'handset interception' fraud netted the criminals numerous high-value phones. Three's breach resulted in significant customer disruption. The UK ICO investigated and fined Three £400,000 under the pre-GDPR Data Protection Act 1998 for security failings. Three's handling of the incident was criticised for inadequate access controls and monitoring of employee credential use. Eight individuals were subsequently arrested by the National Crime Agency in connection with the fraud. The breach was notable for demonstrating how customer database access can be monetised through physical goods fraud rather than identity theft — a less commonly discussed but highly damaging attack vector."

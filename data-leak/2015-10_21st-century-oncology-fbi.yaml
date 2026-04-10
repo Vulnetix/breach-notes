@@ -1,0 +1,13 @@
+source_name: "21st Century Oncology Data Breach — 2.2 Million Patients, FBI Investigation"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2015-10-03"
+date_of_disclosure: "2016-03-04"
+date_of_customer_notification: "2016-03-04"
+category: "data-leak"
+initial_attack_vector: "FBI notified 21st Century Oncology that its systems had been compromised by an unknown attacker who gained access to its patient database; specific technical attack vector was not disclosed; the FBI discovered the breach during an unrelated investigation and tipped off the cancer treatment provider"
+cve: []
+vendor_product: "21st Century Oncology patient database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2015, an unknown attacker compromised the patient database of 21st Century Oncology Holdings — the largest radiation oncology treatment chain in the United States, operating approximately 180 treatment centers. The FBI discovered the breach during an investigation unrelated to 21st Century Oncology and notified the company. 21st Century Oncology was asked by the FBI not to disclose the breach publicly for several months to avoid jeopardising the investigation. The breach was eventually disclosed in March 2016, approximately five months after initial FBI notification. Approximately 2.2 million patient records were exposed including names, Social Security numbers, dates of birth, physician names, diagnoses, treatment information, and insurance information. HHS OCR opened a HIPAA investigation. Separately, the company also discovered a second, smaller breach in 2016. 21st Century Oncology subsequently filed for Chapter 11 bankruptcy in 2017, citing in part the costs of data breach litigation and remediation. Multiple class-action lawsuits were consolidated. The delayed disclosure — made at the FBI's request — created tension between law enforcement investigation needs and HIPAA's 60-day breach notification requirement, highlighting a recurring challenge in healthcare cybersecurity incidents involving law enforcement investigations."

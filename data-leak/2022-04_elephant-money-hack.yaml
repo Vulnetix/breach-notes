@@ -1,0 +1,20 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1513930003943026690
+date_of_breach: '2022-04-12'
+date_of_disclosure: '2022-04-12'
+category: data-leak
+notes: 'A person was able to use a flash loan attack to drain the Elephant Money project,
+  crashing the token price to 0 while cashing out 27,416 BNB ($11 million). Losses
+  to the project were likely higher, including the loss of 30 billion $ELEPHANT tokens
+  (~$10 million). The project boasted audits by both CertiK and Solidity Finance on
+  its website, though CertiK later tweeted that the flaw was with the treasury contract,
+  which was unverified and unaudited.Elephant Money is a defi project with some questionable
+  promises — its Twitter account advertises that people can "earn 672% APY", and a
+  recent tweet encouraged people to use Elephant Money "as your new bank: Your share
+  of ELEPHANT tokens can be compared to your debit account, except that it also generates
+  you money. Stampede Perpetual Bonds is your retirement fund." Hopefully no one took
+  them up on their suggestion to put their debit account balance or retirement money
+  into the project.
+
+
+  Total loss estimated at $22,000,000.'

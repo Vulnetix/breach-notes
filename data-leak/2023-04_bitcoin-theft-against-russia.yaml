@@ -1,0 +1,17 @@
+source_name: '"Russian Bitcoin Wallets Allegedly Exposed by Apparent Hacker"'
+source_url: https://www.coindesk.com/business/2023/04/27/russian-bitcoin-wallets-allegedly-exposed-by-apparent-hacker/
+date_of_breach: '2023-04-27'
+date_of_disclosure: '2023-04-27'
+category: data-leak
+notes: 'A thief has identified nearly 1,000 Bitcoin addresses they believe to have
+  been used in connection with Russian hacking activity. This is partly backed by
+  analysis from the blockchain research group Chainalysis, which has linked some of
+  the wallets to Russian Solarwinds attackers and those pushing election disinformation.
+  The thief took control of some of the wallets, destroying $300,000 worth of Bitcoin
+  as they left messages in the transactions to make their allegations.The thief''s
+  activity began shortly before the Russian invasion of Ukraine. After the invasion,
+  the thief stopped destroying the Bitcoin and instead began transferring it to addresses
+  identified for Ukrainian aid.
+
+
+  Total loss estimated at $300,000.'

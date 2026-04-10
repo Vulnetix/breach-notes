@@ -1,0 +1,26 @@
+source_name: '"Atomic Wallet hacks lead to over $35 million in crypto stolen"'
+source_url: https://www.bleepingcomputer.com/news/security/atomic-wallet-hacks-lead-to-over-35-million-in-crypto-stolen/
+date_of_breach: '2023-06-03'
+date_of_disclosure: '2023-06-03'
+category: data-leak
+notes: 'Multiple users of the Atomic Wallet software suffered wallet compromises totaling
+  more than $100 million in a spate of hacks suggesting an issue with the wallet itself.
+  Atomic Wallet is a self-custody wallet, a suggested safer alternative than storing
+  crypto assets in accounts controlled by third party companies. In February 2022,
+  a security firm was forced to publicly disclose issues with the Atomic Wallet software
+  after attempting to address them with the company via traditional routes, but went
+  ignored.Following the thefts, Atomic Wallet tweeted that they were aware of the
+  reports of wallet compromises, and that they were attempting to learn more about
+  the attacks, but had not yet confirmed any method of attack. They''ve since taken
+  down the wallet software download page, likely out of concern that the software
+  itself has been compromised.Crypto sleuth zachxbt compiled a list of reported compromised
+  Atomic Wallets, finding that multiple individuals lost multiple millions in the
+  attack. The largest known individual theft so far involved almost $8 million in
+  USDT (Tether); other individuals lost $2.8 million in USDT and 1,897 ETH (~$3.5
+  million).Users of Atomic Wallet have been advised to transfer their assets to other
+  wallets.On June 6, both zachxbt and blockchain research group Elliptic speculated
+  that the laundering strategy by the thieves resembled that of the North Korea-linked
+  Lazarus Group, which has been responsible for other major crypto thefts.
+
+
+  Total loss estimated at $100,000,000.'

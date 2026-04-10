@@ -1,0 +1,22 @@
+source_name: Swiss Goverment Third-Party Breach (March 2024)
+source_url: https://www.bleepingcomputer.com/news/security/switzerland-play-ransomware-leaked-65-000-government-documents/
+date_of_breach: 2024-03-01
+date_of_disclosure: '2024-03-07'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Xplain
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Switzerland: Play ransomware leaked 65,000 government documents. The National
+  Cyber Security Centre (NCSC) of Switzerland has released a report on its analysis
+  of a data breach following a ransomware attack on Xplain, disclosing that the incident
+  impacted thousands of sensitive Federal government files. Xplain is a Swiss technology
+  and software solutions provider for various government departments, administrative
+  units, and even the country''s military force. The Play ransomware gang breached
+  the company on May 23, 2023. At the time, the threat actor claimed to have stolen
+  documents containing confidential information, and in early June 2023, it followed
+  through on its threats and published the stolen data on its darknet portal. Third-party
+  company: Xplain.'

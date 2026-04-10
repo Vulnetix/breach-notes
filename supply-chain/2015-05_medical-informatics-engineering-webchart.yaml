@@ -1,0 +1,13 @@
+source_name: "Medical Informatics Engineering (MIE) / WebChart Breach — 3.9 Million Patients"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2015-05-07"
+date_of_disclosure: "2015-07-23"
+date_of_customer_notification: "2015-07-23"
+category: "data-leak"
+initial_attack_vector: "An attacker used a compromised username and password to access Medical Informatics Engineering's cloud-based EHR system (WebChart) hosted server; the specific method of initial credential compromise was not disclosed but may have involved stolen credentials from other breaches or phishing"
+cve: []
+vendor_product: "Medical Informatics Engineering WebChart EHR (electronic health records)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Between 7 and 26 May 2015, an attacker accessed Medical Informatics Engineering's (MIE) WebChart EHR cloud server using compromised credentials. MIE is a health information technology company providing WebChart, a web-based electronic health record system, to hospitals and physician practices. The breach exposed personal and health data for approximately 3.9 million individuals across multiple healthcare providers who used WebChart. Exposed data included names, Social Security numbers, addresses, dates of birth, diagnoses, conditions, laboratory results, medications, disability codes, health insurance information, and clinical notes — among the most sensitive categories of medical data. MIE notified HHS OCR on 10 July 2015. Multiple healthcare organisations notified their patients, including Franciscan St. Francis Health, Community Mercy Health Partners, Concentra Health Services, and many others across numerous US states. HHS OCR opened an investigation and found multiple HIPAA violations. In 2018, HHS OCR issued a $100,000 civil monetary penalty against MIE for HIPAA violations including failure to conduct an adequate risk analysis and failure to implement technical safeguards. Class-action lawsuits were filed in multiple jurisdictions. The breach was one of the first major demonstrations of the systemic supply chain risk in healthcare EHR vendors — where a single cloud EHR provider being breached could expose patient data from dozens of client healthcare organisations simultaneously."

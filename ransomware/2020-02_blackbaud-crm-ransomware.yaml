@@ -1,0 +1,13 @@
+source_name: "Blackbaud Cloud CRM Ransomware and Data Exfiltration — Nonprofits, Universities, Hospitals"
+source_url: "https://www.bleepingcomputer.com/news/security/blackbaud-paid-a-ransom-after-2020-ransomware-attack/"
+date_of_breach: "2020-02-07"
+date_of_disclosure: "2020-07-16"
+date_of_customer_notification: "2020-07-16"
+category: "ransomware"
+initial_attack_vector: "Ransomware group gained access to Blackbaud's self-hosted customer cloud environments; the attackers spent approximately five months conducting reconnaissance and exfiltrating data prior to deploying ransomware; initial access vector was not fully disclosed"
+cve: []
+vendor_product: "Blackbaud CRM (cloud fundraising and constituent relationship management platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In February 2020, attackers breached Blackbaud — the world's largest provider of nonprofit and education CRM/fundraising software — and spent approximately five months in the environment before deploying ransomware. Blackbaud paid the undisclosed ransom, claiming it received a promise from the attackers that stolen data was destroyed. Blackbaud did not initially disclose that sensitive data including Social Security numbers, bank account information, usernames, passwords, and healthcare information was stolen — disclosure of the full scope came only after the SEC and multiple state attorneys general investigated. The breach affected over 600 organizations including universities (University of East Anglia, San Diego State University, University of London), hospitals and healthcare charities (Cancer Research UK, Royal Trinity Hospice), and nonprofits worldwide. In the US, affected entities filed notifications with HHS OCR affecting millions of individuals. The FTC and 49 US state attorneys general reached a $49.5 million settlement with Blackbaud in October 2023 over deceptive data practices, the inadequate security that allowed the breach, and the misleading initial disclosure. The SEC separately charged Blackbaud with misleading disclosures, resulting in a $3 million penalty. Blackbaud agreed to implement comprehensive security improvements. The breach demonstrated the severe downstream impact of a single cloud CRM vendor being compromised across hundreds of customer organizations simultaneously."

@@ -1,0 +1,21 @@
+source_name: Carson City Third-Party Breach (February 2020)
+source_url: https://carsonnow.org/story/02/11/2020/financial-information-compromised-carson-city-residents-who-pay-water-bill-online
+date_of_breach: 2020-02-01
+date_of_disclosure: '2020-02-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Hackers compromise financial information for Carson City residents who pay
+  water bill online - Carson Now. According to a letter sent out to a group of residents
+  who pay their water bill online in Carson City, their financial information was
+  compromised due to a data breach, according to City Manager Nancy Paulson. The incident
+  “may have involved some personal information you provided to a Carson City vendor
+  in connection with a utility payment,” Paulson states in the letter. Carson City
+  received a report of a security vulnerability on their third-party vendor’s online
+  payment system, Click2Gov, which impacted individuals who legitimately used their
+  website to make payments. Third-party company: Click2Gov.'

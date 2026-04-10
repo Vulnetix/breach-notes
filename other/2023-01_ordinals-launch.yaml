@@ -1,0 +1,26 @@
+source_name: Tweet by LukeDashjr
+source_url: https://twitter.com/LukeDashjr/status/1619145878819975168
+date_of_breach: '2023-01-31'
+date_of_disclosure: '2023-01-31'
+category: other
+notes: A recent project called "Ordinals" has the Bitcoin community up in arms. The
+  project is the latest attempt to introduce NFTs to the Bitcoin blockchain, a controversial
+  subject among a group of people with strong ideological beliefs about what Bitcoin
+  should be. Ordinals takes advantage of a change in the blockchain codebase called
+  SegWit that was introduced in 2017, and stores NFT data in a portion of the transaction
+  called the "witness". Some think this is a clever hack, while others think they're
+  abusing the design.Following the change, Bitcoin block sizes have reached all-time
+  highs nearing 2.5 MB. Some are not thrilled that the size of the chain is ballooning
+  with what they view to be junk data, given the whole thing needs to be recorded
+  forever.Longtime Bitcoin Core developer Luke Dashjr described Ordinals as a "spam
+  attack" and an "attack on Bitcoin's fungibility", warning they would "break" the
+  major Bitcoin-based projects Lightning and CoinJoin. He has argued that the miners
+  should begin filtering the transactions as spam, which brought strong reactions
+  from some in the community who pushed back that Bitcoin should be censorship resistant.
+  "1) Bitcoin hasn't been censorship-resistant since mining centralisation. 2) Censorship
+  resistance is about censorship, not fighting spam/attacks," he replied. Dashjr's
+  fellow Core developer Adam Back also seemed unimpressed with the project, tweeting
+  about Ordinals' "sheer waste and stupidity".Ordinals are not the first Bitcoin-based
+  NFTs, but they are the most recent and perhaps the most popular. On February 9,
+  an "Ordinal Punk" — a Bitcoin-based homage to Ethereum's CryptoPunks — sold for
+  9.5 BTC (~$218,000).

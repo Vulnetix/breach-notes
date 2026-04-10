@@ -1,0 +1,18 @@
+source_name: Rochester YMCA Third-Party Breach (August 2020)
+source_url: https://krocnews.com/data-breach-may-have-affected-some-rochester-ymca-accounts/
+date_of_breach: 2020-08-01
+date_of_disclosure: '2020-08-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Data Breach May Have Affected Some Rochester YMCA Accounts. Donors of the Rochester
+  YMCA have been notified of a data breach that may have affected their personal information.
+  Rochester, MN (KROC AM News) - D onors of the Rochester YMCA have been notified
+  of a data breach that may have affected their personal information. The alert was
+  sent by YMCA of the North, the Twin Cities organization the Rochester Y is a member
+  of.

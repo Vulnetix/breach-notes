@@ -1,0 +1,19 @@
+source_name: '"Community Alert: Ronin Validators Compromised"'
+source_url: https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=r
+date_of_breach: '2022-03-29'
+date_of_disclosure: '2022-03-29'
+category: data-leak
+notes: 'One of the most popular play-to-earn games, Axie Infinity, suffered an enormous
+  hack to the Ronin network on which it runs. The project announced that a majority
+  of Ronin validator nodes had been compromised — four belonging to the Sky Mavis
+  company that builds Axie Infinity, and one belonging to the Axie DAO. After gaining
+  control of the validators, they were able to approve malicious withdrawals of 173,600
+  ETH (about $600 million) and 25.5M USDC (a stablecoin, worth $25.5M). The $625 million
+  loss was possibly the largest to date in the history of defi projects.Sky Mavis
+  announced that they had halted the Ronin Bridge and Katana DEX, and were making
+  changes to their network to try to guard against future attacks. They also wrote
+  that they were "working with law enforcement officials, forensic cryptographers,
+  and our investors to make sure all funds are recovered or reimbursed".
+
+
+  Total loss estimated at $619,300,000.'

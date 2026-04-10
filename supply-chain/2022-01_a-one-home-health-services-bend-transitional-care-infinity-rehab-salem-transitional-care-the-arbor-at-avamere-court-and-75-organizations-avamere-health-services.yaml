@@ -1,0 +1,21 @@
+source_name: Avamere Health Services Third-Party Breach — 75+ Long-Term Care Organizations
+source_url: "https://www.avamere.com/data-security-incident/"
+date_of_breach: 2022-01-01
+date_of_disclosure: 2022-01-01
+date_of_customer_notification: 
+category: supply-chain
+initial_attack_vector: Avamere Health Services — a managed services provider for senior living and post-acute care facilities — suffered a ransomware or unauthorized access incident that exposed patient data for 75+ affiliated healthcare organizations
+cve: []
+vendor_product: "Avamere Health Services (managed healthcare services provider)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  In January-February 2022, Avamere Health Services — a Wilsonville, Oregon-based managed services provider for 
+  senior living, skilled nursing, and rehabilitation facilities — experienced a cybersecurity incident that expo
+  sed data for residents and patients across approximately 75 affiliated healthcare organizations. Affected orga
+  nizations included A-One Home Health Services, Bend Transitional Care, Infinity Rehab, Salem Transitional Care
+  , and dozens of Avamere-managed facilities across the Pacific Northwest. Exposed data included patient names, 
+  Social Security numbers, dates of birth, addresses, health insurance information, and clinical data. HHS OCR b
+  reach notifications were filed by Avamere and multiple affiliated entities. The breach illustrates the concent
+  ration risk of healthcare management services providers that simultaneously hold PHI for multiple facilities.

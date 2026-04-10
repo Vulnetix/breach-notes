@@ -1,0 +1,13 @@
+source_name: "Freepik / Flaticon Breach — 8.3 Million User Accounts"
+source_url: "https://support.freepik.com/hc/en-us/articles/360019530359-Security-Breach"
+date_of_breach: "2020-07-01"
+date_of_disclosure: "2020-08-20"
+date_of_customer_notification: "2020-08-20"
+category: "data-leak"
+initial_attack_vector: "An attacker used an SQL injection vulnerability in Freepik's website to access the Freepik and Flaticon user databases; the SQL injection gave the attacker access to the database tables containing user credentials and personal information"
+cve: []
+vendor_product: "Freepik / Flaticon website database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2020, Freepik — one of the world's largest stock photography and design resources websites (along with its vector icon subsidiary Flaticon) — disclosed a data breach affecting approximately 8.3 million users. The breach was caused by an SQL injection vulnerability in Freepik's website. The attacker exfiltrated 8.3 million user accounts from the Freepik and Flaticon databases combined. Of these, 4.5 million accounts only had hashed passwords using bcrypt (most secure), 3.77 million accounts had hashed passwords using MD5 with salt (moderate risk), and approximately 229,000 accounts had emails but no password (federated login via Google, Apple, or Facebook — safest). The oldest 4.5 million accounts used bcrypt hashing; the 3.77 million MD5-hashed accounts were more recent additions. Freepik notified affected users with different messaging based on their hashing scheme — MD5-hashed users were strongly urged to change passwords everywhere. Spanish data protection authority AEPD (Agencia Española de Protección de Datos) was notified as required under GDPR (Freepik is based in Spain). ICO and other EU DPAs were notified. Freepik offers graphic design resources used by millions of businesses globally, meaning the breach potentially exposed business email credentials used across many organisations."

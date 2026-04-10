@@ -1,0 +1,59 @@
+source_name: OmniTRAX Third-Party Breach (January 2021)
+source_url: https://finance.yahoo.com/finance/news/ransomware-attack-hits-short-line-140331188.html?&web_view=true
+date_of_breach: 2021-01-01
+date_of_disclosure: '2021-01-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Broe Group
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Ransomware Attack Hits Short Line Rail Operator OmniTRAX. Colorado-based short
+  line rail operator and logistics provider OmniTRAX was hit by a recent ransomware
+  attack and data theft that targeted its corporate parent, Broe Group.OmniTRAX confirmed
+  to FreightWaves that the cyberattack had occurred after the Conti ransomware gang
+  posted stolen data from a leak site. The company, however, provided no details about
+  the incident and whether it impacted any operations."We are fully aware of the situation,
+  but company policy requires we do not comment on security protocols," John Spiegleman,
+  OmniTRAX''s chief legal officer and general counsel, said in a statement. "OmniTRAX
+  continues to operate, business as usual."OmniTRAX, headquartered in Denver, operates
+  21 short line railroads in the U.S. and one in Canada. While there was no indication
+  of operational impacts, the short line railroads play an essential role in the North
+  American supply chain by linking shippers with the larger rail networks. The attack
+  occurred sometime before Dec. 24, based on the timing of the ransomware gang''s
+  post. The leak itself suggests that the Broe Group, which owns OmniTRAX as part
+  of a multibillion dollar portfolio and is headquartered at the same location, refused
+  to pay the hackers'' ransom demands.A sample of the 70 gigabytes leaked files viewed
+  by FreightWaves include internal OmniTRAX documents, including the apparent contents
+  of individual employee work computers. It was not clear if it included data pertaining
+  to OmniTRAX''s rail operations or its customers.First publicly known cyberattack
+  of its kind in the U.S. freight rail sector It represents the first publicly known
+  case of a so-called double-exhortation ransomware attack against a U.S. freight
+  rail operator. Numerous trucking and logistics companies including Forward Air have
+  been targeted by an array of ransomware groups using the tactic of stealing and
+  then encrypting data and demanding payments in exchange for unlocking systems and
+  a promise to never release that data publicly. A cybersecurity expert familiar with
+  the rail industry told FreightWaves that the likely attack caused little to no disruption
+  to OmniTRAX''s rail operations. But the expert said the public disclosure of employee
+  data is troubling. Concerns have grown in recent years about cyberattacks on railroads,
+  with the increasing digitization of the industry but the absence of appropriate
+  cybersecurity. Fears have largely focused on the prospects of a large-scale disruption
+  to the supply chain, or hackers compromising the systems of rolling stock, potentially
+  stopping trains or disabling safety systems. Ransomware attacks generally are a
+  blunter instrument designed for the purpose of making the hacking groups money.
+  But as evidenced by the recent Forward Air attack, the locking of data can impact
+  transportation operations. The CEO of railcar manufacturer Greenbrier, Bill Furman,
+  told financial analysts on Wednesday that the company is stepping up its cybersecurity
+  efforts in response to high threat levels."This is a growing risk to all companies
+  we operate, where we have some vulnerabilities if we were penetrated, we''ve all
+  watched those headlines," Furman said. "So our board is concerned about that. We''re
+  concerned about it. We''re investing to protect ourselves."FreightWaves Senior Staff
+  Reporter Joanna Marsh contributed to this report.Click for more FreightWaves articles
+  by Nate Tabak.As ransomware attacks hit trucking, victims face costly dilemma5 defining
+  cyberattacks on trucking and logistics in 2020Forward Air reveals ransomware attack,
+  warns of revenue hitSee more from Benzinga * Click here for options trades from
+  Benzinga * China Remains Top US Trade Partner, Mexico No. 2 * US Steel Sells Pa.
+  Logistics Complex To NorthPoint(C) 2021 Benzinga.com. Benzinga does not provide
+  investment advice. All rights reserved. Third-party company: Broe Group.'

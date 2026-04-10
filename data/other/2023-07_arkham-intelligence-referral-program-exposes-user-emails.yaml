@@ -1,0 +1,21 @@
+source_name: Tweet thread by m4gicpotato
+source_url: https://twitter.com/m4gicpotato/status/1678462447005618176
+date_of_breach: '2023-07-10'
+date_of_disclosure: '2023-07-10'
+category: other
+notes: 'In a somewhat amusing complement to Arkham Intelligence''s "on-chain intelligence
+  exchange" announcement, a new product which seeks to allow people to buy and sell
+  private information about blockchain wallet owners, Arkham has found themselves
+  in hot water for exposing user email addresses without the users'' knowledge.Like
+  many platforms, Arkham Intelligence allows its users to earn rewards for referring
+  new customers. Users are given a unique link to invite others to sign up, which
+  then credits them for the referral. However, some people have observed that the
+  unique string used to identify the user is simply their email address, base64-encoded.
+  This is a simple way of encoding a piece of text, which is trivially reversed to
+  expose the email address.A user who noticed the encoding strategy tweeted: "ABSOLUTE
+  LMAO. ALL #ARKHAM REFERRAL LINKS SHARED ON TWITTER IS DOXXING EVERYONE BECAUSE THE
+  EMAIL IS IN THE REFERRAL URL". They then went on to decode some referral links from
+  anonymous crypto personalities, writing "HOW DOES IT FEEL TO GET DOXXED???"Arkham
+  Intelligence quickly updated its referral program to use an encryption algorithm
+  that can''t easily be reversed in this way, and the CEO apologized for what he said
+  was an early version of creating referral links that was never updated.'

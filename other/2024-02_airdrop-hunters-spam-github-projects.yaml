@@ -1,0 +1,21 @@
+source_name: '"Airdrop farmers are now spamming GitHub in light of Starknet, Celestia
+  distributions"'
+source_url: https://www.theblock.co/post/278046/airdrop-farmers-are-now-spamming-github-in-light-of-starknet-celestia-distributions
+date_of_breach: '2024-02-19'
+date_of_disclosure: '2024-02-19'
+category: other
+notes: After projects like Celestia and Starknet distributed airdrops of crypto tokens
+  to people who had contributed to their open source Github repositories, airdrop
+  hunters have begun spamming other projects in hope that they might one day receive
+  tokens for their "contributions". In the recent Starknet airdrop, one individual
+  received 1,800 STRK (~$3,200 at current estimates, though the token isn't actively
+  trading yet) for an unmerged pull request fixing a typo in project documentation,
+  so the hope that relatively trivial contributions could result in a windfall isn't
+  completely unjustified.Several repositories for crypto projects that have not launched
+  tokens were inundated with hundreds of trivial Github issues apparently written
+  in the hopes that in the event of an airdrop, they would be considered contributions."Please
+  don't submit a GitHub issue just for farming purposes," wrote one employee of a
+  crypto project receiving such spammy contributions. "The [project] core team is
+  stretched thin enough as it is, please don't make our lives harder." Several projects
+  had to limit who was allowed to open new issues in their repositories to try to
+  tackle the spam.

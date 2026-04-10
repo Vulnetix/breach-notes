@@ -1,0 +1,31 @@
+source_name: TerraUSD/USD on CoinMarketCap
+source_url: https://coinmarketcap.com/currencies/terrausd/
+date_of_breach: '2022-05-09'
+date_of_disclosure: '2022-05-09'
+category: other
+notes: 'It''s been a rough few days for TerraUSD, one of several popular stablecoins
+  pegged to the US dollar. Unlike many stablecoins like Tether or USDC, Terra is an
+  algorithmic stablecoin, meaning that instead of (ostensibly) being backed 1-1 by
+  various assets, they are based around an algorithm that uses various market incentives
+  to maintain a set price. UST is the largest algorithmic stablecoin on the market
+  at the moment, followed by projects like Fei and FRAX.The incentives that should
+  keep TerraUSD trading at $1 have been put to the test lately, with a combination
+  of spiraling cryptocurrency prices across the board and some apparent large sell-offs
+  by those holding UST. The coin dipped down to $0.992 on May 7 before some large
+  buys returned it close to its peg. It dipped again by a smaller amount the following
+  day, reaching a low of around $0.994. These values may seem like small changes on
+  the micro scale, but when major stablecoins diverge from their peg by even fractions
+  of a cent they have major effects throughout the cryptocurrency ecosystem.On May
+  9, UST saw its most extreme de-peg, plunging to $0.95, then again to $0.84 later
+  that day, despite Luna Foundation Guard liquidating $1.3 billion in Bitcoin reserves
+  to try to restore the peg.Do Kwon, cofounder of Terraform Labs, initially seemed
+  to be doing his best to portray confidence on Twitter by tweeting things that give
+  the exact opposite impression. "If yall girls are gonna fud, try to do it during
+  my waking hours pls," he wrote on May 7. "You could listen to [crypto Twitter] influensooors
+  about UST depegging for the 69th time. Or you could remember they''re all now poor,
+  and go for a run instead", he tweeted, somewhat blithely acknowledging UST''s repeated
+  history of losing its peg. His tweets seemed to take a more serious turn beginning
+  the evening of May 8, as the situation grew more dire.
+
+
+  Total loss estimated at $40,000,000,000.'

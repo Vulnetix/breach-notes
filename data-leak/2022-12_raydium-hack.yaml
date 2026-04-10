@@ -1,0 +1,18 @@
+source_name: '"Solana-Based Raydium Exchange Victim of 7-Figure Exploit"'
+source_url: https://www.coindesk.com/business/2022/12/16/solana-based-raydium-exchange-victim-of-9-figure-exploit/
+date_of_breach: '2022-12-16'
+date_of_disclosure: '2022-12-16'
+category: data-leak
+notes: 'An exploit on the Solana-based Raydium decentralized exchange project resulted
+  in a total loss to the platform of $4.4 to $5.5 million. The attacker''s actual
+  spoils were less — somewhere around $2–3.5 million.Raydium claims the exploit was
+  a trojan attack, though they''ve provided no further evidence to substantiate this.
+  According to Raydium, a trojan allowed an attacker to compromise the private key
+  belonging to the pool owner account. With control over the private key, the attacker
+  was able to withdraw a mix of assets from the pools. They bridged at least $2 million
+  to Ethereum and tumbled them through Tornado Cash; another $1.5 million remained
+  on the Solana chain, where some projects began freezing assets.Raydium has offered
+  a 10% "bug bounty" to the hacker if they return the stolen funds.
+
+
+  Total loss estimated at $4,400,000.'

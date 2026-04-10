@@ -1,0 +1,13 @@
+source_name: "Deloitte Email Server Breach — Internal Client Communications Exposed"
+source_url: "https://www.theguardian.com/business/2017/sep/25/deloitte-hit-by-cyber-attack-revealing-clients-secret-emails"
+date_of_breach: "2016-10-01"
+date_of_disclosure: "2017-09-25"
+date_of_customer_notification: "2016-10-01"
+category: "data-leak"
+initial_attack_vector: "Attacker compromised an administrator account on Deloitte's Microsoft Azure-hosted email platform that had no multi-factor authentication enabled; this granted unrestricted access to the Azure Active Directory storing email for all partners and staff"
+cve: []
+vendor_product: "Deloitte Microsoft Azure email / Active Directory"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "An attacker compromised a single Deloitte administrator account that lacked multi-factor authentication, granting access to Deloitte's global email server hosted on Microsoft Azure. The breach gave access to all of Deloitte's email — approximately 244,000 staff globally. The attacker had potential access to emails, attachments, usernames, passwords, IP addresses, business plans, and health information from Deloitte's blue-chip clients (which include some of the world's largest banks, multinational corporations, media enterprises, and government agencies). Deloitte discovered the breach in March 2017, having been compromised since at least October 2016. The company notified a 'handful' of clients whose information may have been exfiltrated. Deloitte hired Hogan Lovells law firm to conduct an external review and work with law enforcement, keeping the investigation confidential. The breach was revealed publicly by The Guardian in September 2017. Deloitte disputed some reporting, stating the breach was confined to a small number of clients and limited data. The exposure of privileged client communications at one of the world's 'Big Four' professional services firms — which audits and consults for governments and major financial institutions — raised significant questions about the security of sensitive client data at major consulting firms. The use of a single compromised admin account without MFA was particularly notable given Deloitte's cybersecurity advisory practice."

@@ -1,0 +1,22 @@
+source_name: VestaCP Third-Party Breach (October 2018)
+source_url: https://www.hackread.com/vesta-control-panel-servers-ddos-malware-supply-chain-attack/
+date_of_breach: 2018-10-01
+date_of_disclosure: '2018-10-22'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Vesta control panel servers infected with DDoS malware after supply chain attack.
+  An open-source hosting panel software provider, Vesta Control Panel (VestaCP), has
+  admitted that the company became a victim of a supply chain attack. In an announcement
+  made by VestaCP on its forum, it was revealed that the hacker managed to contaminate
+  the source code of its project with DDoS malware. The malware was capable of recording
+  passwords and can open shells as well as launch DDoS attacks. In the forum post,
+  a team member of the company stated that an already present bug in the API of an
+  earlier version of VestaCP software was exploited by the attacker to infect the
+  server. “Our infrastructure server was hacked. The hackers then changed all installation
+  scripts to log admin password and .”.

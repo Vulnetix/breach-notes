@@ -1,0 +1,13 @@
+source_name: "TalkTalk Cyberattack — 157,000 UK Customers, £400K ICO Fine"
+source_url: "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2016/10/talktalk-gets-record-400-000-fine-for-failing-to-prevent-october-2015-attack/"
+date_of_breach: "2015-10-21"
+date_of_disclosure: "2015-10-23"
+date_of_customer_notification: "2015-10-23"
+category: "data-leak"
+initial_attack_vector: "Three teenagers exploited a SQL injection vulnerability in a legacy web component of TalkTalk's website (an outdated Metapack database acquired in 2009 that was inadequately secured); the attackers scraped customer data from the vulnerable endpoint"
+cve: []
+vendor_product: "TalkTalk website / legacy Metapack database component"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 21 October 2015, TalkTalk — one of the UK's largest broadband and telecoms providers serving approximately 4 million customers — was attacked by a group of teenagers who exploited a SQL injection vulnerability in a legacy website component. The vulnerability was in a database component inherited from Metapack, a delivery software company TalkTalk had acquired in 2009 that was not properly secured post-acquisition. The attack exposed data for 156,959 TalkTalk customers including names, addresses, dates of birth, phone numbers, email addresses, partial credit card data (not enough for fraud), and partial account numbers. TalkTalk initially disclosed the attack on 23 October 2015 while investigation was ongoing and dramatically overestimated the number affected (initially claiming potentially all 4 million customers). The UK ICO fined TalkTalk £400,000 — at the time the largest fine ever issued by the ICO — for failing to implement basic security measures. Four teenagers pleaded guilty to charges under the Computer Misuse Act; sentences ranged from community service to youth custodial orders. TalkTalk CEO Dido Harding was widely criticised for her crisis communication response, including stating she didn't know if data was encrypted. TalkTalk's share price dropped 12% and the company subsequently lost approximately 95,000 customers. The incident led to significant changes in UK data protection enforcement."

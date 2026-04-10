@@ -1,0 +1,14 @@
+source_name: Space Crypto (SPE) to USD Chart
+source_url: https://coinmarketcap.com/currencies/space-crypto-spe/
+date_of_breach: '2022-02-23'
+date_of_disclosure: '2022-02-23'
+category: other
+notes: Space Crypto, a play-to-earn game that launched on February 15, announced on
+  February 23 that users wouldn't be able to withdraw all their reward tokens, as
+  expected. Without previously informing investors, they decided that players won't
+  be able to withdraw the necessary amount of reward tokens ($SPE) to repair all their
+  ships, essentially locking everyone in to artificially extend the game's life. They
+  also decided that the token exchange rate would be 5 in-game tokens = 1 $SPE (also
+  not specified in the whitepaper), essentially hiding the true amount of in-game
+  currency needed for positive return on investment. The community was fairly universally
+  enraged, and the $SPE token price dropped in value by 93% after the announcement.

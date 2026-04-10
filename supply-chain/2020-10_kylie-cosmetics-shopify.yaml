@@ -1,0 +1,19 @@
+source_name: Kylie Cosmetics Third-Party Breach (October 2020)
+source_url: https://www.justice4you.com/blog/shopify-data-breach.html
+date_of_breach: 2020-10-01
+date_of_disclosure: '2020-10-08'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Shopify
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Shopify Data Breach - Arnold Law Firm. The Shopify data breach has affected
+  thousands of merchants. Our lawyers can help you understand your legal rights and
+  options for compensation. On September 22, 2020, e-commerce platform Shopify disclosed
+  a security incident on their blog. Shopify reported that two “rogue” support team
+  employees illegitimately accessed and stole customer transactional records of certain
+  merchants, including Thrive Causemetics and Kylie Cosmetics. Third-party company:
+  Shopify.'

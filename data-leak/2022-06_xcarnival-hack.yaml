@@ -1,0 +1,17 @@
+source_name: Tweet thread by PeckShield
+source_url: https://twitter.com/peckshield/status/1541047171453034501
+date_of_breach: '2022-06-26'
+date_of_disclosure: '2022-06-26'
+category: data-leak
+notes: 'XCarnival is a project describing itself as a "metaverse asset bank". The
+  project drew in users by promising high rewards, with one marketing campaign promising
+  41% APY.A hacker was able to exploit a flaw in the smart contract for the project,
+  stealing crypto notionally worth $3.8 million. The loss to the protocol was likely
+  higher. XCarnival paused its smart contract after learning about the hack from a
+  crypto watchdog.On June 26, XCarnival announced that they had reached an agreement
+  to give a 1,500 ETH "bug bounty" to the attacker, who agreed to return the remaining
+  1,587 ETH ($1.9 million) with an agreement that XCarnival would not pursue legal
+  action.
+
+
+  Total loss estimated at $1,900,000.'

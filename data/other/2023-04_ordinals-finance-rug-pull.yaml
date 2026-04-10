@@ -1,0 +1,14 @@
+source_name: Tweet by CertiKAlert
+source_url: https://twitter.com/CertiKAlert/status/1650543396514148357?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1650543396514148357%7Ctwgr%5Ed3aa691520ad660f73068bda1df43c7f1e92df20%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fordinals-finance-has-conducted-a-1m-rug-pull-certik
+date_of_breach: '2023-04-24'
+date_of_disclosure: '2023-04-24'
+category: other
+notes: 'Ordinals Finance was a short-lived project, emerging in late February with
+  promises to help build out a defi ecosystem on the Bitcoin blockchain.On April 24,
+  the project developer withdrew 256 million OFI tokens and swapped them to ETH worth
+  around $1 million. They then laundered the funds through the Tornado Cash crypto
+  mixer. The project creator deleted the project''s Twitter account and took down
+  its website.
+
+
+  Total loss estimated at $1,000,000.'

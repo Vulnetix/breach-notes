@@ -1,0 +1,20 @@
+source_name: Blue Cross and Blue Shield of Massachusetts Third-Party Breach (June
+  2022)
+source_url: https://healthitsecurity.com/news/bcbs-of-massachusetts-reports-third-party-vendor-data-breach
+date_of_breach: 2022-06-01
+date_of_disclosure: '2022-07-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: LifeWorks US
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'BCBS of Massachusetts Reports Third-Party Vendor Data Breach | TechTarget.
+  BCBS of Massachusetts reported a third-party vendor data breach involving its pension
+  plan payment vendor. Blue Cross and Blue Shield (BCBS) of Massachusetts began notifying
+  4,855 individuals of a third-party vendor data breach, a notice on the Maine Attorney
+  General’s Office website stated. The breach originated at LifeWorks US, a vendor
+  used by BCBS of Massachusetts and BCBS of Massachusetts HMO Blue for services related
+  to pension plan payments. Third-party company: LifeWorks US.'

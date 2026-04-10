@@ -1,0 +1,20 @@
+source_name: '"Beware: This Fake BAYC Metaverse Land NFT Exploits OpenSea Bug"'
+source_url: https://nftevening.com/beware-this-fake-bayc-metaverse-land-nft-exploits-opensea-bug/
+date_of_breach: '2022-04-01'
+date_of_disclosure: '2022-04-01'
+category: data-leak
+notes: An apparent scammer was able to create transactions that appeared as though
+  they were coming from the smart contract belonging to the Bored Ape Yacht Club.
+  OpenSea's UI doesn't differentiate these spoofed transfers from those that are actually
+  coming from the project's contract, and so only users who carefully look at the
+  transaction details can spot that the NFT is suspicious. "This is unfortunately
+  just how the blockchain works", wrote gofannon.eth, the Director of Engineering
+  for the company behind BAYC.Whoever was behind these transactions airdropped fake
+  NFTs purporting to be a part of an upcoming BAYC metaverse land project, sending
+  them to owners of pricey NFTs and various NFT influencers. It's not clear whether
+  the NFT can perform malicious actions, or if any individuals have been impacted
+  by it if so. However, part of the scam appeared to be to try to entice other users
+  hoping to get in on the next new BAYC project to fall for a phishing scam. Tracing
+  the transactions back showed an OpenSea profile with a fake "verified" badge and
+  a mint link to what appears to be a phishing website, which invites people to connect
+  their wallets to supposedly mint their own BAYC land NFTs.

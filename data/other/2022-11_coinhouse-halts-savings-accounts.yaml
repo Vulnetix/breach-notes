@@ -1,0 +1,10 @@
+source_name: Tweets by Coinhouse
+source_url: https://twitter.com/CoinhouseHQ/status/1593198640914632704
+date_of_breach: '2022-11-17'
+date_of_disclosure: '2022-11-17'
+category: other
+notes: The French crypto broker Coinhouse announced that they would be suspending
+  withdrawals from their crypto "savings account" product. Coinhouse partners with
+  Genesis to offer the service, and Genesis recently suspended their service due to
+  the FTX collapse. As a result, services that relied on Genesis, including Gemini
+  and now Coinhouse, are halting their own services as the dominoes continue to fall.

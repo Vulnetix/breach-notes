@@ -1,0 +1,20 @@
+source_name: Roblox Third-Party Breach (July 2024)
+source_url: https://www.bleepingcomputer.com/news/security/roblox-vendor-data-breach-exposes-dev-conference-attendee-info/
+date_of_breach: 2024-07-01
+date_of_disclosure: '2024-07-08'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: FNTech
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Roblox vendor data breach exposes dev conference attendee info. Roblox announced
+  late last week that it suffered a data breach impacting attendees of the 2022, 2023,
+  and 2024 Roblox Developer Conference attendees. Roblox is an online gaming and game
+  creation platform popular among younger audiences that design, create, and share
+  games with a large community of over 200 million active users. The company hosts
+  an annual Roblox Developer Conference (RDC) event that helps developers network,
+  learn, and share knowledge with others through workshops and new tool presentations.
+  Third-party company: FNTech.'

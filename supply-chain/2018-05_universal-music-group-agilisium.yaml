@@ -1,0 +1,41 @@
+source_name: Bleeping Computer
+source_url: https://www.bleepingcomputer.com/news/security/contractor-exposes-credentials-for-universal-music-groups-it-infrastructure/
+date_of_breach: '2018-05-30'
+date_of_disclosure: '2018-06-05'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Unsecured Apache Airflow server deployed by contractor without authentication
+cve: []
+vendor_product: Agilisium
+software_package: Apache Airflow
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On May 30, 2018, security researcher Bob Diachenko of Kromtech Security Center discovered
+  an Apache Airflow server belonging to Agilisium, a cloud data contractor for Universal
+  Music Group (UMG), that was publicly accessible on the internet without any password
+  protection or authentication. Apache Airflow is a workflow orchestration platform used to
+  manage data pipelines and task scheduling across an organization.
+
+  The exposed server revealed highly sensitive credentials for UMG's IT infrastructure,
+  including internal FTP server credentials, AWS secret access keys and passwords, SQL root
+  passwords, and internal source code. With these credentials, an attacker could have gained
+  deep access to UMG's cloud infrastructure, databases, and file servers, potentially
+  accessing proprietary music content, business data, and internal systems.
+
+  The root cause was a misconfiguration by Agilisium during deployment of the Apache Airflow
+  instance. By default, Apache Airflow does not enforce authentication on its web interface,
+  requiring administrators to explicitly configure access controls. Agilisium failed to
+  implement any authentication before deploying the server to a public-facing environment.
+
+  Diachenko contacted Universal Music Group, which quickly responded and resolved the issue
+  by securing the exposed server. The incident was publicly disclosed in early June 2018.
+  There was no evidence that malicious actors accessed the exposed credentials before the
+  researcher's discovery, though the duration of the exposure was not determined.
+
+  The incident demonstrated a common cloud security failure pattern where third-party
+  contractors deploy management and orchestration tools with default configurations that lack
+  authentication. It also highlighted how a single misconfigured server at a contractor could
+  expose credentials providing access to an entire organization's cloud infrastructure,
+  making the blast radius of such misconfigurations far larger than the exposed server
+  itself.

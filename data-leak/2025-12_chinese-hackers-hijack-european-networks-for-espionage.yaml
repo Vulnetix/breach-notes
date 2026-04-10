@@ -1,0 +1,18 @@
+source_name: Chinese Hackers Hijack European Networks for Espionage (DataBreachToday)
+source_url: https://www.databreachtoday.com/chinese-hackers-hijack-european-networks-for-espionage-a-30319
+date_of_breach: '2025-12-17'
+date_of_disclosure: '2025-12-17'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Chinese hacking group is using compromised European government networks
+  as relay nodes to route commands and support other hacking operations. Security
+  firm Check
+
+
+  Source: DataBreachToday article coverage.'

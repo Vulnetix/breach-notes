@@ -1,0 +1,13 @@
+source_name: "Cash App Insider Data Breach — 8.2 Million Current and Former Customers"
+source_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001512673&type=8-K&dateb=&owner=include&count=40"
+date_of_breach: "2021-12-10"
+date_of_disclosure: "2022-04-04"
+date_of_customer_notification: "2022-04-04"
+category: "data-leak"
+initial_attack_vector: "A former Cash App employee who retained access to internal reports after leaving the company downloaded customer brokerage account data without authorization; the employee downloaded reports after their employment terminated"
+cve: []
+vendor_product: "Cash App Investing (Block, Inc.) internal reporting system"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In December 2021, a former employee of Cash App Investing — a subsidiary of Block, Inc. (formerly Square) — downloaded CSV reports containing brokerage account data for 8.2 million current and former Cash App customers in the United States. The former employee had legitimate access to these reports during their employment but retained that access after leaving the company. Downloaded data included full names, brokerage account numbers, brokerage portfolio values, brokerage portfolio holdings, and stock trading activity. Social Security numbers, date of birth, payment card numbers, bank account information, and passwords were not included. Block disclosed the breach on 4 April 2022 in an SEC 8-K filing, more than three months after discovering it. Block notified approximately 8.2 million current and former customers. Cash App and Cash App Investing are separate products; Cash App (the peer-to-peer payment app) users were not affected — only Cash App Investing (stock trading) users in the US were exposed. Block filed a report with the FBI. Class-action lawsuits were subsequently filed. The breach highlighted the insider threat risk of former employees retaining data access post-termination and the importance of promptly revoking all data access when employees leave."

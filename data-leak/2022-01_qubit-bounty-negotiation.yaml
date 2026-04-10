@@ -1,0 +1,20 @@
+source_name: Twitter feed of Qubit Finance
+source_url: https://twitter.com/QubitFin
+date_of_breach: '2022-01-30'
+date_of_disclosure: '2022-01-30'
+category: data-leak
+notes: After a bug in their code allowed an attacker to make off with $80 million,
+  Qubit immediately began trying to contact the exploiter and convince them to return
+  the money. First they wrote that they were "prepared to offer the maximum bounty",
+  which was $250,000, or 0.3% of the amount the attacker had just stolen. The exploiter
+  presumably felt that $80 million was truly the maximum bounty, and didn't take them
+  up on the offer. The next day, Qubit wrote a message asking the exploiter to "negotiate
+  directly with us... if the maximum bounty offer is not what you are looking for".
+  The day after that, Qubit bumped the reward to $1 million (a whole 1.25% of the
+  $80M!) and begged the exploiters to "please consider the big amount of people, families,
+  stories involved in this". On January 30, Qubit announced they would be offering
+  "the highest bounty in history", $2 million (2.5% of $80M), continuing to underscore
+  that they wouldn't seek prosecution if the attacker returned the funds. A number
+  of hours later, Qubit apparently decided to change tactics, writing that they were
+  "developing a website that users can easily search their losses related to the exploit...
+  users can connect their wallets to get documents to report to the police".

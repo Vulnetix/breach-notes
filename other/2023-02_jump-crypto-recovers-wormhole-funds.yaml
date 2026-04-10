@@ -1,0 +1,29 @@
+source_name: '"Jump Executes Counter Exploit Against Wormhole Exploiter"'
+source_url: https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit
+date_of_breach: '2023-02-24'
+date_of_disclosure: '2023-02-24'
+category: other
+notes: In a world where "code is law", crypto users don't necessarily expect that
+  the smart contracts might change out from under them — particularly given contracts
+  are often assumed to be immutable once they're deployed. However, for various reasons
+  including the need to patch bugs in deployed contracts, some projects use upgradable
+  smart contracts.This decision was what allowed Jump Crypto to obtain a court order
+  requiring the Oasis platform to "upgrade" a smart contract in such a way that Jump
+  Crypto could remove stolen funds from where the hacker had placed them on the Oasis
+  protocol. Oasis released a defensive statement, writing that their cooperation in
+  the recovery was "only possible due to a previously unknown vulnerability in the
+  design of the admin multisig access", and that "we will be making no further comment
+  at this time". Oasis is a frontend for the MakerDAO project, which was originally
+  started as part of MakerDAO but later spun into a separate entity, though it still
+  appears to enjoy preferred status by MakerDAO.The stolen funds in question were
+  the proceeds of the February 2022 Wormhole bridge exploit, in which attackers stole
+  120,000 wETH (then ~$326 million; now $192 million). After the hack, Wormhole's
+  parent company Jump Crypto plugged the hole left by the hack with their own funds.
+  Since then, the attackers have been moving the funds throughout the cryptocurrency
+  ecosystem, even taking out a highly-leveraged position on in Lido-staked Ether last
+  month.Ultimately, Jump was able to recover around $140 million via their "counter-exploit".
+  While many celebrated the recovery, some were concerned about the precedent of a
+  so-called defi platform changing a smart contract to remove funds from a wallet
+  at the direction of a court. Some described the upgradability as a "backdoor". "If
+  they'd do it for Jump, what does that say about possible coercion via state actors?"
+  wrote one trader on Twitter.

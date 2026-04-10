@@ -1,0 +1,14 @@
+source_name: Tweet thread by CertiKAlert
+source_url: https://twitter.com/CertiKAlert/status/1590859073813188608
+date_of_breach: '2022-11-10'
+date_of_disclosure: '2022-11-10'
+category: data-leak
+notes: 'An attacker was able to use a flash loan to exploit a vulnerability in the
+  smart contract for DFX Finance, a decentralized forex trading platform. The platform
+  suffered a loss amounting to around $5 million. The attacker subsequently laundered
+  the funds through the Tornado Cash cryptocurrency tumbler. The attacker didn''t
+  make off with the entire amount lost from the platform, partly due to an MEV bot
+  snagging a significant amount of the funds.
+
+
+  Total loss estimated at $5,000,000.'

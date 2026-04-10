@@ -1,0 +1,21 @@
+source_name: Florida Blue Third-Party Breach (November 2019)
+source_url: https://www.staugustine.com/news/20191109/data-breach-put-thousands-of-florida-blue-members-personal-information-at-risk
+date_of_breach: 2019-11-01
+date_of_disclosure: '2019-11-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Magellan Health Inc
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Data breach put thousands of Florida Blue members'' personal information at
+  risk. A data breach at Magellan Health Inc. has put the personal information of
+  Florida Blue members at risk, the company announced Friday. Florida Blue says "less
+  than 1 percent" of its approximately 5 million members were affected. The breach,
+  which reportedly occurred on May 28, was traced back to an employee who handles
+  the healthcare provider''s member data. Magellan believes the employee''s email
+  was hacked in a phishing scam. In doing so, numerous personal identifiers including
+  the members'' names, dates of birth and prescriptions might''ve been accessed. Third-party
+  company: Magellan Health Inc.'

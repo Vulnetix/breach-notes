@@ -1,0 +1,48 @@
+source_name: Dental Care Alliance (DCA) Network Intrusion Affecting 1M+ Patients (2020)
+source_url: https://www.hipaajournal.com/dental-care-alliance-data-breach-impacts-more-than-1-million-patients/
+date_of_breach: "2020-09-18"
+date_of_disclosure: "2020-11-01"
+date_of_customer_notification: "2020-11-01"
+category: supply-chain
+initial_attack_vector: Unauthorized network intrusion; attackers accessed and exfiltrated patient data from DCA systems over approximately 26 days before detection
+cve: []
+vendor_product: Dental Care Alliance (DCA)
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  Dental Care Alliance (DCA), a Florida-based dental support organization (DSO) providing
+  administrative and operational support to more than 320 affiliated dental practices
+  across 20 U.S. states, suffered a network intrusion that compromised protected health
+  information (PHI) and financial data belonging to over one million dental patients.
+
+  The breach began on September 18, 2020. DCA detected unusual network activity on
+  October 11, 2020, and contained the intrusion on October 13 — meaning attackers had
+  persistent access for approximately 26 days. Notification letters were sent to affected
+  individuals in November 2020. The original breach report filed with the HHS Office for
+  Civil Rights identified 1,004,304 affected individuals; a subsequent amendment raised
+  the total to 1,723,375 individuals.
+
+  Data potentially compromised for the majority of affected patients included: patient
+  names, mailing addresses, dental diagnoses, treatment information, patient account
+  numbers, billing information, dentist names, and health insurance information. For
+  approximately 10% of affected patients, financial account numbers were also accessed
+  and acquired by the attackers — a more severe subset of exposure carrying direct
+  fraud risk.
+
+  As a dental support organization, DCA functions as a centralized administrative hub
+  for its affiliated practices — handling billing, records management, and practice
+  support services. This concentration makes DSOs a high-value target: a single
+  intrusion can expose patients from hundreds of practices simultaneously without any
+  of those practices having direct knowledge of the compromise.
+
+  DCA faced class action litigation following the breach. A $3 million proposed settlement
+  was reached, which included two years of complimentary Identity Guard identity theft
+  protection (covering dark web monitoring, breach notifications, and up to $1 million
+  in identity theft insurance) for all class members. DCA did not admit wrongdoing as
+  part of the settlement.
+
+  The attack vector was not publicly specified beyond "unauthorized access." The
+  prolonged dwell time of 26 days before detection is consistent with network-level
+  intrusions involving credential compromise or exploitation of perimeter vulnerabilities,
+  though no specific CVE or malware was publicly attributed.

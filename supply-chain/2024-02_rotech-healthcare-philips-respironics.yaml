@@ -1,0 +1,20 @@
+source_name: Rotech Healthcare Third-Party Breach (February 2024)
+source_url: https://www.hipaajournal.com/r1-rcm-data-breach-impacts-16000-patients/
+date_of_breach: 2024-02-01
+date_of_disclosure: '2024-03-21'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Philips Respironics
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'R1 RCM Data Breach Impacts 16,000 Patients. Data breaches have recently been
+  reported by R1 RCM, St. Mary''s Healthcare System for Children, Philips Respironics,
+  and California Correctional Health A data breach at R1 RCM has affected 16,121 individuals.
+  Data breaches have also been reported by St. Mary''s Healthcare System for Children,
+  Philips Respironics, and California Correctional Health Care Services. Data breaches
+  have recently been reported by R1 RCM, St. Mary’s Healthcare System for Children,
+  Philips Respironics, and California Correctional Health Care Services. Third-party
+  company: Philips Respironics.'

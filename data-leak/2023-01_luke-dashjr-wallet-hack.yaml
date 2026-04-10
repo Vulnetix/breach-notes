@@ -1,0 +1,19 @@
+source_name: '"Bitcoin core developer claims to have lost 200+ BTC in hack"'
+source_url: https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack
+date_of_breach: '2023-01-01'
+date_of_disclosure: '2023-01-01'
+category: data-leak
+notes: 'One of the original Bitcoin core developers, Luke Dashjr, claimed on Twitter
+  that attackers had managed to compromise multiple wallets — which he described as
+  both hot and cold wallets — to steal all of his Bitcoins. Dashjr originally blamed
+  the attack on a PGP key compromise, but later said the PGP compromise was only a
+  part of a much broader hack where attackers also bypassed two-factor authentication
+  and got access to what he had believed to be a cold wallet.Dashjr complained on
+  Twitter about having trouble getting in contact with the FBI about the theft. Some
+  joked about the irony of a Bitcoin maximalist running to the FBI when his coins
+  were stolen.There are some questions about the veracity of Dashjr''s claims, given
+  his supposed security practices, the extent of the breach, and some of his odd comments
+  on Twitter.
+
+
+  Total loss estimated at $3,600,000.'

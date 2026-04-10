@@ -1,0 +1,19 @@
+source_name: Heilbronn City Library Third-Party Breach (April 2024)
+source_url: https://therecord.media/genios-germany-ransomware-attack
+date_of_breach: 2024-04-01
+date_of_disclosure: '2024-04-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Genios
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'German database company Genios confirms ransomware attack. The Munich-based
+  company said that as a result of the incident, “unfortunately we have to assume
+  an outage for several days.”. GBI Genios, a database company used by numerous media
+  organizations in Germany, announced on Tuesday its servers were unavailable “due
+  to a massive hacker attack.”. In a post on LinkedIn , Genios said the incident was
+  a ransomware attack and cautioned, “unfortunately we have to assume an outage for
+  several days.”. Third-party company: Genios.'

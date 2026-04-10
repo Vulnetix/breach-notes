@@ -1,0 +1,24 @@
+source_name: University of Colorado Hospital Authority Third-Party Breach (January
+  2023)
+source_url: https://www.jdsupra.com/legalnews/university-of-colorado-hospital-2697397/#:~:text=On%20January%2017%2C%202023%2C%20the,the%20organization%27s%20vendors%2C%20Diligent%20Corporation.
+date_of_breach: 2023-01-01
+date_of_disclosure: 2023-01-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Diligent Corporation
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'University of Colorado Hospital Authority Announces Third-Party Data Breach
+  Following Incident at Diligent Corporation | JD Supra. On January 17, 2023, the
+  University of Colorado Hospital Authority (“UCHealth”) filed notice of a data breach
+  with the U.S. Department of Health and. If you are among the 48,879 individuals
+  who received a data breach letter from UCHealth, it means that your sensitive information
+  was leaked in the recent Diligent Corp. data breach. As we’ve discussed in prior
+  posts , cybercriminals routinely target healthcare providers and related companies
+  in hopes of obtaining information they can use to commit identity theft and other
+  frauds. Thus, as a result of the UCHealth / Diligent data breach, you are now at
+  a significantly increased risk of being the target of identity theft or other frauds.
+  Third-party company: Diligent Corporation.'

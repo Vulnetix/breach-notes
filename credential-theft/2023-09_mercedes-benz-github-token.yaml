@@ -1,0 +1,13 @@
+source_name: "Mercedes-Benz GitHub Token Exposure — Source Code Repository Access"
+source_url: "https://www.bleepingcomputer.com/news/security/mercedes-benz-accidentally-exposed-its-github-token-leaking-source-code/"
+date_of_breach: "2023-09-29"
+date_of_disclosure: "2023-01-26"
+date_of_customer_notification: ""
+category: "credential-theft"
+initial_attack_vector: "A Mercedes-Benz employee inadvertently included a GitHub API token in a public GitHub repository; the token provided unrestricted read access (with no expiration date) to the entire Mercedes-Benz Enterprise GitHub organization, allowing access to all private repositories"
+cve: []
+vendor_product: "Mercedes-Benz GitHub Enterprise organization / source code repositories"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2024 (revealed for an exposure dating to September 2023), RedHunt Labs security researchers discovered that a GitHub API authentication token belonging to a Mercedes-Benz employee had been inadvertently published in a public GitHub repository. The token provided read access to the entirety of Mercedes-Benz's GitHub Enterprise organization — including all private repositories — with no expiration date. Mercedes-Benz confirmed the incident, stating that the token had been published in a public repository unintentionally. The token was active and provided access to Mercedes-Benz's entire internal codebase, potentially including proprietary vehicle software, engineering designs, and internal tooling. Mercedes-Benz revoked the token immediately after being notified by RedHunt Labs. The company stated that no customer data was compromised. The incident highlighted several security failures: no secret scanning to detect token commits, lack of token expiration policies, and inadequate monitoring of developer credential hygiene. This type of exposure — an authentication token committed to a public repository — is extremely common; GitHub Secret Scanning detects millions of such exposures annually. The Mercedes-Benz case received attention due to the company's scale (a major automotive manufacturer) and the breadth of access the single token provided."

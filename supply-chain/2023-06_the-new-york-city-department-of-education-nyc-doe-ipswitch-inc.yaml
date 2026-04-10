@@ -1,0 +1,22 @@
+source_name: The New York City Department of Education (NYC DOE) Third-Party Breach
+  (June 2023)
+source_url: https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-45-000-new-york-city-students-in-moveit-breach/
+date_of_breach: 2023-06-01
+date_of_disclosure: '2023-06-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Hackers steal data of 45,000 New York City students in MOVEit breach. The
+  New York City Department of Education (NYC DOE) says hackers stole documents containing
+  the sensitive personal information of up to 45,000 students from its MOVEit Transfer
+  server. The managed file transfer (MFT) software was used by NYC DOE to securely
+  transfer data and documents internally and externally to various vendors, including
+  special education service providers. NYC DOE patched the servers as soon as the
+  developer disclosed info on the exploited vulnerability (CVE-2023-34362); however,
+  the attackers were already abusing the bug in large-scale attacks as a zero-day
+  before security updates were available. Third-party company: Ipswitch, Inc..'

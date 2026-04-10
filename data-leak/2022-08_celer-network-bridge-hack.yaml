@@ -1,0 +1,14 @@
+source_name: Tweet by CelerNetwork
+source_url: https://twitter.com/CelerNetwork/status/1560046919535464449
+date_of_breach: '2022-08-17'
+date_of_disclosure: '2022-08-17'
+category: data-leak
+notes: 'The Celer Network''s cBridge project was targeted with a BGP hijacking attack.
+  Users who tried to access the bridge''s frontend were instead shown a site that
+  prompted them to authorize transactions that drained their wallets. The attacker
+  was able to steal around 128 ETH (~$240,000) before the exploit was discovered and
+  Celer took the frontend offline. The stolen funds were quickly transfered to the
+  Tornado Cash cryptocurrency tumbler.
+
+
+  Total loss estimated at $240,000.'

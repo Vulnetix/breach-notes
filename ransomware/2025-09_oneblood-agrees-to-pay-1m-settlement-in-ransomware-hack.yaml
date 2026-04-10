@@ -1,0 +1,18 @@
+source_name: OneBlood Agrees to Pay $1M Settlement in Ransomware Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/oneblood-agrees-to-pay-1m-settlement-in-ransomware-hack-a-29593
+date_of_breach: '2025-09-29'
+date_of_disclosure: '2025-09-29'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'OneBlood, which provides blood supplies to 250 hospitals in Florida, Georgia
+  and the Carolinas, will pay $1 million to settle proposed class action litigation
+  filed
+
+
+  Source: DataBreachToday article coverage.'

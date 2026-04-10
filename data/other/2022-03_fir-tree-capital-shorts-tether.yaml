@@ -1,0 +1,17 @@
+source_name: '"Hedge Fund Fir Tree Bets Big With Short of Stablecoin Tether"'
+source_url: https://www.bloomberg.com/news/articles/2022-03-11/hedge-fund-fir-tree-bets-big-with-short-of-stablecoin-tether
+date_of_breach: '2022-03-11'
+date_of_disclosure: '2022-03-11'
+category: other
+notes: The large hedge fund Fir Tree Capital Management has decided that the doubts
+  around the stablecoin Tether are serious enough to take out a substantial short
+  position against the project. Tether has faced questions from regulators, many of
+  which center around whether or not the stablecoin is actually backed by the reserves
+  it claims to have. Some of the assets Tether holds are high-yield commercial paper,
+  which Fir Tree evidently believes is substantially tied to Chinese real estate firms.
+  If that is the case, the real estate crisis in China (primarily revolving around
+  Evergrande Group) could cause the value of Tether's reserves to plummet. According
+  to Fir Tree, they've been shorting Tether since July, and expect their bet could
+  pay off within a year. Other commenters and analysts have speculated that if Tether
+  collapses, and that it very well might, there could be enormous ramifications for
+  the rest of the cryptocurrency space.

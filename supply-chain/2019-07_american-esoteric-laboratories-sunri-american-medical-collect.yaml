@@ -1,0 +1,34 @@
+source_name: American Esoteric Laboratories, Sunrise Medical Laboratories, and other labs via AMCA Breach
+source_url: https://www.securityweek.com/amca-breach-many-more-impacted-healthcare-firms-come-forward/
+date_of_breach: '2018-08-01'
+date_of_disclosure: '2019-07-01'
+date_of_customer_notification: '2019-07-01'
+category: supply-chain
+initial_attack_vector: Web skimmer / malicious code injected into third-party payment page
+cve: []
+vendor_product: American Medical Collection Agency (AMCA)
+software_package: ''
+malware: web payment page skimmer
+supply_chain_claimed: true
+notes: |
+  As the American Medical Collection Agency (AMCA) breach continued to unfold through July 2019, a second wave of laboratory companies came forward to disclose patient data exposure. This record covers the smaller labs affected, most of which disclosed in July 2019 following the initial June disclosures from Quest Diagnostics, LabCorp, and OPKO Health / BioReference Laboratories.
+
+  AMCA, a Elmsford, New York-based debt collection firm, had its web payment portal compromised between August 1, 2018 and March 30, 2019 by an unauthorized actor who injected malicious skimming code to harvest patient and payment data. The breach was discovered in late May 2019 by an external cybersecurity firm monitoring dark web data sales.
+
+  The additional companies that disclosed patient exposure included:
+  - American Esoteric Laboratories (AEL), Memphis, TN: approximately 542,000 patients affected (some sources cite 534,500), with about 7,400 records also containing financial data
+  - Sunrise Medical Laboratories (SML): approximately 412,000 patients, with ~15,000 financial records
+  - CBLPath: approximately 145,100 patients, ~3,800 financial records
+  - Laboratory Medicine Consultants (LMC): approximately 143,400 patients, ~4,200 financial records
+  - Austin Pathology Associates (APA): approximately 44,700 patients, ~1,800 financial records
+  - South Texas Dermatopathology: approximately 14,900 patients, ~1,200 financial records
+  - Pathology Solutions: approximately 12,700 patients, ~600 financial records
+  - Laboratory of Dermatopathology ADX: approximately 4,000 patients, ~240 financial records
+  - Seacoast Pathology: approximately 9,200 patients, ~800 financial records
+  - Western Pathology Consultants: approximately 4,200 patients, ~350 financial records
+  - Arizona Dermatopathology: approximately 6,500 patients, ~500 financial records
+  - Natera: patient count undisclosed
+
+  Exposed data for each company consisted of names, addresses, phone numbers, dates of birth, dates of service, provider information, and balance data. A subset of records per company also included credit card or bank account numbers that patients had entered on AMCA's payment portal.
+
+  Combined with the earlier disclosures, the total patient count from the AMCA breach exceeded 25 million records across all affected organizations by late July 2019. AMCA filed for Chapter 11 bankruptcy on June 17, 2019, overwhelmed by remediation costs and legal exposure. A 41-state AG coalition later assessed $21 million in penalties (suspended). The AMCA breach remains the most expansive healthcare supply chain breach disclosed in the United States at the time.

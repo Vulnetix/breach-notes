@@ -1,0 +1,20 @@
+source_name: Poll County Schools Third-Party Breach (March 2021)
+source_url: https://www.wtsp.com/article/news/local/polkcounty/data-breach-involving-former-polk-county-schools-vendor-could-impact-thousands/67-f39c5ca9-d441-4ecc-9488-8e73ef6952ee
+date_of_breach: 2021-03-01
+date_of_disclosure: 2021-03-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PCS Revenue Systems
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Data breach involving former Polk County Schools vendor could impact thousands.
+  This issue involves a company hired by Polk Schools to collect information about
+  students using the school’s free and discount meal program. BARTOW, Fla. — A personal
+  data breach could impact thousands of current and former Polk County students. Carol
+  Martell is among the hundreds, perhaps thousands, of parents and students in the
+  Polk school system concerned about a data breach. The information includes names,
+  dates of birth, and student identification numbers. Third-party company: PCS Revenue
+  Systems.'

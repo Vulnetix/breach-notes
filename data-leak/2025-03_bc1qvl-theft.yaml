@@ -1,0 +1,15 @@
+source_name: Telegram post
+source_url: https://t.me/investigations/242
+date_of_breach: '2025-03-28'
+date_of_disclosure: '2025-03-28'
+category: data-leak
+notes: 'A Coinbase customer reportedly lost 400 BTC (~$35 million) in a scam identified
+  by blockchain sleuth zachxbt. While investigating the massive theft from the single
+  customer, he also observed at least $11 million in thefts from various other Coinbase
+  customers throughout March.zachxbt has previously accused Coinbase of not doing
+  enough to protect customers from hundreds of millions of dollars in scams, and he
+  noted that in these cases, Coinbase had not marked the thief wallets as malicious
+  in various cryptocurrency compliance tools.
+
+
+  Total loss estimated at $46,000,000.'

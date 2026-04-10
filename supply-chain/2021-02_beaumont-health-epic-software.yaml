@@ -1,0 +1,20 @@
+source_name: Beaumont Health Third-Party Breach (February 2021)
+source_url: https://healthitsecurity.com/news/actor-exploits-beaumont-healths-covid-19-vaccine-scheduling-tool
+date_of_breach: 2021-02-01
+date_of_disclosure: '2021-02-02'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Epic Software
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Actor Exploits Beaumont Health’s COVID-19 Vaccine Scheduling Tool | TechTarget.
+  This week&#039;s breach roundup is led by a Beaumont Health security incident. An
+  actor exploited a flaw in Epic&#039;s scheduling tool, which allowed 2,700 people
+  to make unauthorized COVID-19 vaccine appts. Michigan-based Beaumont Health was
+  forced to shut down its tool for scheduling COVID-19 vaccine appointments over the
+  weekend, after an unauthorized actor exploited a flaw in the Epic platform. The
+  act allowed 2,700 people to cut in line and register for unauthorized appointments.
+  Third-party company: Epic Software.'

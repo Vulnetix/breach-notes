@@ -1,0 +1,16 @@
+source_name: '"A DAO that funds students to attend crypto events loses half its budget
+  to risky management"'
+source_url: https://www.theblockcrypto.com/post/134287/dao-students-funding-crypto-events-budget-management
+date_of_breach: '2022-01-27'
+date_of_disclosure: '2022-01-27'
+category: other
+notes: 'Padawan DAO is a project that aims to provide funding to students under 25
+  to attend blockchain-related events. In early January, the DAO decided to essentially
+  gamble with project funds on the price of Ethereum staying high: they placed the
+  treasury''s $150,000 into a collateralized debt position (CDP) for a decentralized
+  stablecoin called DAI. As the crypto market entered a dip, the project''s position
+  went underwater and the protocol had to sell 53 ETH ($117,000) to keep the DAI fully
+  backed. The project had been counting on Ethereum not taking a tumble below $2,200,
+  as it did on January 27, which would have allowed them to keep their 53 ETH and
+  cash out their DAI. Since this didn''t happen, the project found itself with their
+  budget halved.'

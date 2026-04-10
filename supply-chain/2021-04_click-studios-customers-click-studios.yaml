@@ -1,0 +1,20 @@
+source_name: "Click Studios Passwordstate Supply Chain Attack — Malicious Update, 29,000 Companies"
+source_url: "https://www.bleepingcomputer.com/news/security/passwordstate-password-manager-hacked-in-supply-chain-attack/"
+date_of_breach: "2021-04-20"
+date_of_disclosure: "2021-04-24"
+date_of_customer_notification: "2021-04-24"
+category: supply-chain
+initial_attack_vector: "CWE-506: Embedded Malicious Code — attackers hijacked Passwordstate's In-Place Upgrade CDN endpoint to serve trojanized update containing Moserpass infostealer"
+cve: []
+vendor_product: "Click Studios Passwordstate"
+software_package: "Passwordstate"
+malware: "Moserpass"
+supply_chain_claimed: true
+notes: |-
+  Click Studios, the Australian developer of the enterprise password manager Passwordstate, suffered a supply chain compromise between April 20–22, 2021 (a 28-hour window). Attackers breached Click Studios' infrastructure and redirected the application's In-Place Upgrade functionality to a threat-actor-controlled CDN, causing any customer who triggered an update during that window to silently receive a malicious DLL alongside the legitimate update package.
+
+  The malware payload, dubbed Moserpass by CSIS Security Group (which discovered the attack), collected and exfiltrated a broad set of sensitive data to attacker-controlled servers: computer name, username, domain name, current process name and ID, as well as all credential fields stored in Passwordstate vaults — title, username, description, notes, URL, and plaintext password. The harvested credentials were transmitted to a hardcoded C2 endpoint using HTTP POST requests.
+
+  Passwordstate is used by over 370,000 security and IT professionals at approximately 29,000 organizations worldwide, spanning government, defense, finance, aerospace, retail, automotive, healthcare, legal, and media sectors. Click Studios issued an emergency advisory on April 24 urging all customers who had performed an In-Place Upgrade to immediately reset every password stored in the vault. The company published a hotfix on April 24 and removed the compromised upgrade mechanism entirely in a longer-term remediation released August 2, 2021.
+
+  The attack bore structural similarities to SolarWinds SUNBURST: legitimate software update infrastructure was weaponized to reach deeply embedded enterprise users, and the payload was designed to harvest the most sensitive possible data — stored credentials — rather than deliver ransomware or destructive malware. Attribution was not publicly confirmed. Customers complained for months about insufficient transparency, as Click Studios declined to publicly disclose how many customers had been impacted or which specific organizations had received the malicious update.

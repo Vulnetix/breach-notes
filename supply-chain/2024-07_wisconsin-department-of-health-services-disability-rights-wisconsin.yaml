@@ -1,0 +1,23 @@
+source_name: Wisconsin Department of Health Services Third-Party Breach (July 2024)
+source_url: https://www.hipaajournal.com/email-breaches-skincure-oncology-wisconsin-department-health-services/
+date_of_breach: 2024-07-01
+date_of_disclosure: '2024-07-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Disability Rights Wisconsin
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Email Breaches Reported by SkinCure Oncology & the Wisconsin Department of
+  Health Services. SkinCure Oncology has notified 13,434 patients about an email attack
+  that occurred in June 2023, and the Wisconsin Department of Health Services has
+  A Disability Rights Wisconsin email account has been compromised, exposing the data
+  of 19,150 Medicaid recipients. SkinCure Oncology has notified 13,434 patients about
+  an email attack that occurred in June 2023. SkinCure Oncology in Burr Ridge, IL,
+  has issued individual notifications to 13,434 patients whose protected health information
+  was compromised in an email breach that occurred more than a year ago. According
+  to the substitute breach notice, the investigation confirmed that multiple email
+  accounts were accessed by an unauthorized third party between June 23 and June 25,
+  2023. Third-party company: Disability Rights Wisconsin.'

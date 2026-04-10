@@ -1,0 +1,18 @@
+source_name: '"More Than 220 DeFi Protocols Still ''at Risk'' From Squarespace DNS
+  Hijack"'
+source_url: https://decrypt.co/239524/220-defi-protocols-risk-squarespace-dns-hijack
+date_of_breach: '2024-07-11'
+date_of_disclosure: '2024-07-11'
+category: data-leak
+notes: 'Websites providing the frontends for some popular defi services, including
+  Compound Finance, were compromised and replaced with wallet drainers: websites resembling
+  the usual frontend, but which drain unsuspecting users'' wallets when used.Somewhat
+  ironically, the "Unstoppable Domains" web3 domain service was also impacted, and
+  their site was offline for a while before they regained control.The hijacking appears
+  to be thanks to an attack on Squarespace''s domain registry. Crypto founder Bobby
+  Ong has suggested that the attack is affecting domains acquired through Google Domains,
+  which sold its business to Squarespace several months ago. "Tthe forced migration
+  of domains to Squarespace removed 2FA causing all these domains to be vulnerable
+  and several have been hijacked," he wrote. "Best thing to do is to not interact
+  with crypto and rest for the next couple of days until everything is resolved."Web2
+  is going just great!'

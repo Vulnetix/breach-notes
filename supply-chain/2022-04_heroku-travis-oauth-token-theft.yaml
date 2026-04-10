@@ -1,0 +1,13 @@
+source_name: "Heroku / Travis CI OAuth Token Theft — GitHub Private Repositories Exposed"
+source_url: "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/"
+date_of_breach: "2022-04-07"
+date_of_disclosure: "2022-04-15"
+date_of_customer_notification: "2022-04-15"
+category: "supply-chain"
+initial_attack_vector: "An attacker obtained stolen OAuth user tokens issued to Heroku and Travis CI (two third-party GitHub integrations); used the tokens to enumerate and download private GitHub repositories for organizations that had granted these integrations OAuth access; then used credentials found in those repositories to access downstream systems"
+cve: []
+vendor_product: "GitHub OAuth / Heroku integration / Travis CI integration"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In April 2022, GitHub detected that an attacker had used stolen OAuth user tokens issued to third-party integrations — specifically Heroku Dashboard (OAuth app ID 145909) and Travis CI (OAuth app IDs 9216 and 8230) — to download data from private GitHub repositories. The tokens had been stolen from Heroku's and Travis CI's systems without their knowledge. GitHub notified Heroku and Travis CI on 12 April 2022. The attacker used access to private repositories to search for credentials, secrets, and API keys stored in code, then used those credentials to access downstream services including NPM's infrastructure. NPM is owned by GitHub parent company Microsoft. The NPM breach allowed access to NPM's AWS environment and production databases. GitHub discovered the attack when it detected anomalous API activity. NPM confirmed that some NPM private package manifests and the associated private packages were downloaded by the attacker. GitHub revoked all OAuth tokens issued to Heroku and Travis CI integrations globally, breaking integrations for thousands of developers and organizations. Heroku subsequently announced it would permanently discontinue its GitHub integration. Travis CI — already struggling commercially — further declined after the incident. The attack demonstrated how OAuth delegation chains create supply chain risk: compromise of one OAuth application can expose all customer repositories that granted it access."

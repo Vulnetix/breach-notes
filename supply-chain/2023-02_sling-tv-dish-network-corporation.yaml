@@ -1,0 +1,20 @@
+source_name: Sling TV Third-Party Breach (February 2023)
+source_url: https://techcrunch.com/2023/02/28/dish-cyberattack-personal-data-theft/?guccounter=1
+date_of_breach: 2023-02-01
+date_of_disclosure: '2023-02-28'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: DISH Network Corporation
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Dish confirms ransomware attack allowed hackers to steal personal data | TechCrunch.
+  Dish said a ransomware attack is to blame for an ongoing, multiday outage and warned
+  that hackers exfiltrated data from company systems. U.S. satellite television provider
+  Dish confirmed that a ransomware is to blame for an ongoing outage and warned that
+  intruders exfiltrated data from its systems. The multiday outage , which began last
+  Thursday and was confirmed by Dish on Monday, is affecting Dish’s main website,
+  apps and customer support systems, along with the company’s Sling TV streaming and
+  wireless services. Third-party company: DISH Network Corporation.'

@@ -1,0 +1,15 @@
+source_name: '"Two Polygon, Fantom Front Ends Hit by DNS Attack"'
+source_url: https://www.coindesk.com/tech/2022/07/01/two-polygon-fantom-front-ends-hit-by-dns-attack/
+date_of_breach: '2022-07-01'
+date_of_disclosure: '2022-07-01'
+category: data-leak
+notes: The Ankr public RPC gateways (basically an API for dApps and other services
+  to communicate with the blockchain) for Polygon and Fantom were impacted when attackers
+  compromised the projects' DNS management. Those who accessed Polygon or Fantom using
+  Ankr's RPC gateways saw pop-up windows stating that "funds are at risk", and prompting
+  them to enter their seed phrases at a website linked from the popup to "restore
+  their wallet".Polygon's chief information security officer Mudit Gupta told CoinDesk
+  that day that "no funds [were] lost as far as we know but we are still investigating",
+  and that dApps using the Ankr RPC endpoint were non-functional. Ankr later announced
+  that the RPC systems had been fully restored, and that the breach had come from
+  a "third-party vendor" that enabled attackers to change Ankr's domain hosts.

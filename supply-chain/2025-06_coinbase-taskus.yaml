@@ -1,0 +1,21 @@
+source_name: Coinbase Third-Party Breach (June 2025)
+source_url: https://www.bleepingcomputer.com/news/security/coinbase-breach-tied-to-bribed-taskus-support-agents-in-india/
+date_of_breach: 2025-06-01
+date_of_disclosure: '2025-06-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: TaskUs
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Coinbase breach tied to bribed TaskUs support agents in India. A recently
+  disclosed data breach at Coinbase has been linked to India-based customer support
+  representatives from outsourcing firm TaskUs, who threat actors bribed to steal
+  data from the crypto exchange. According to Reuters, who spoke to numerous TaskUs
+  employees, the data breach was first discovered in January after a TaskUs employee
+  was caught capturing photos of her computer screen using a personal device. Reportedly,
+  the incident was witnessed by multiple TaskUs employees, and during the subsequent
+  investigations, two admitted they were funneling sensitive Coinbase user data to
+  external hackers in exchange for bribes. Third-party company: TaskUs.'

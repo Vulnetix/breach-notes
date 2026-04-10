@@ -1,0 +1,13 @@
+source_name: "Cathay Pacific Airways Data Breach — 9.4 Million Passengers, 860K Passport Numbers"
+source_url: "https://media.cathaypacific.com/media/en/cathay-pacific-data-security-event-customer-data-accessed.html"
+date_of_breach: "2018-03-01"
+date_of_disclosure: "2018-10-25"
+date_of_customer_notification: "2018-10-25"
+category: "data-leak"
+initial_attack_vector: "An attacker gained access to Cathay Pacific's IT systems containing passenger data; Cathay discovered suspicious activity on its network in March 2018 but did not identify the breach until May 2018; the attack vector was not publicly disclosed in detail"
+cve: []
+vendor_product: "Cathay Pacific Airways passenger data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2018, an attacker accessed Cathay Pacific's IT systems and obtained data for approximately 9.4 million passengers — one of the largest aviation data breaches ever. Cathay Pacific discovered suspicious activity in March 2018 and identified the breach in May 2018, but did not publicly disclose it until October 2018 — a five-month delay that drew significant regulatory and public criticism. Exposed data included: names, nationalities, dates of birth, phone numbers, email addresses, physical addresses, passport numbers (for 860,000 passengers), national ID card numbers (for 245,000 passengers), and historic travel information. Some 27 expired credit card numbers and 403 unexpired credit card numbers without CVV codes were also exposed. Cathay notified the Hong Kong Privacy Commissioner in May 2018. The airline disclosed the breach to the public on 25 October 2018 via a customer notification letter and website disclosure. The Hong Kong Privacy Commissioner launched an investigation. The UK ICO fined Cathay Pacific HK$500,000 under the Personal Data (Privacy) Ordinance. The delay between breach discovery (March 2018) and customer notification (October 2018) — over seven months — drew criticism as GDPR had come into effect on 25 May 2018 with 72-hour notification requirements. As a Hong Kong-registered carrier, Cathay was not directly subject to GDPR but operated extensively in the EU. The breach was particularly damaging due to the exposure of hundreds of thousands of passport numbers."

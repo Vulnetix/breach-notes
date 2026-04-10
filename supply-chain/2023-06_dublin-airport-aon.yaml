@@ -1,0 +1,22 @@
+source_name: Dublin Airport Third-Party Breach (June 2023)
+source_url: https://www.theregister.com/2023/07/03/dublin_airport_data/
+date_of_breach: 2023-06-01
+date_of_disclosure: '2023-07-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Aon
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Dublin Airport staff pay data hit by criminals. Attackers accessed it via
+  third-party services provider, says management group. It''s an awkward Monday for
+  Dublin Airport after pay and benefits details for some 2,000 staff were apparently
+  "compromised" following a recent attack on professional service provider Aon. Aon
+  appears to be the latest victim of the massive supply chain attack sweeping the
+  world via a since-patched flaw – CVE-2023-34362 – in Progress Software''s massively
+  popular MOVEit file transfer suite. Progress first disclosed the flaw on May 31,
+  and issued a patch the the next day . The vendor has since patched another two critical
+  flaws . If you''re a MOVEit transfer customer, you need to check for updates ASAP
+  using the vendor''s KB article here. Third-party company: Aon.'

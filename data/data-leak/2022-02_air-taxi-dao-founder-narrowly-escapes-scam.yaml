@@ -1,0 +1,26 @@
+source_name: Tweet thread by thomasg.eth
+source_url: https://twitter.com/thomasg_eth/status/1492663192404779013
+date_of_breach: '2022-02-12'
+date_of_disclosure: '2022-02-12'
+category: data-leak
+notes: thomasg.eth is the founder of Arrow, a DAO that is working to create "open-source
+  VTOL [vertical take-off and landing] aircraft and air taxi protocol". In a long
+  Twitter thread, he wrote about a pair of scammers, one of whom posed as a 3D artist
+  from Ubisoft and one of whom impersonated a team member of an existing metaverse
+  project called SpaceFalcon. After weeks of interaction, during which the supposed
+  3D artist supplied thomasg.eth with high-quality renderings and the supposed metaverse
+  project team member invited him to tour the facilities of a different VTOL project,
+  one of them invites him to test their NFT staking app. thomasg.eth was, fortunately,
+  cautious about interacting with unfamiliar NFTs from his main wallets, at which
+  point the scammers began to act a bit cagey. When thomasg.eth inspected the smart
+  contracts, he realized they would enable the scammers to transfer any amount of
+  aWETH (wETH on the Aave protocol) tokens from his wallet.While many web3 scammers
+  are fairly primitive in their tactics, these appeared to be running a sophisticated
+  and highly-targeted scam. The pair worked to impersonate an existing web3 project,
+  even buying a similar domain. They apparently hired a 3D artist to produce renderings
+  to help ingratiate one of the scammers into the target's web3 project. And when
+  thomasg.eth inspected the scammers' addresses, he found that they were working with
+  at least 100 ETH in funding (currently equivalent to around $300,000). thomasg.eth
+  is currently holding over $100 million in his wallet with the same name, so it's
+  not hard to see why the scammers might have picked him as a target worth some extra
+  effort.

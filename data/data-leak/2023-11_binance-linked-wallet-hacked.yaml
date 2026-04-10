@@ -1,0 +1,14 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1723757797316133240
+date_of_breach: '2023-11-12'
+date_of_disclosure: '2023-11-12'
+category: data-leak
+notes: 'An attacker apparently stole $27 million in the Tether stablecoin from a wallet
+  that had just withdrawn the funds from their Binance account. The hacker quickly
+  converted the funds to evade attempts at freezing the stolen assets.Crypto researcher
+  zachxbt observed that the wallet targeted for the theft had in 2019 received a transfer
+  from the Binance deployer, suggesting that the compromised wallet may have some
+  ties to Binance itself.
+
+
+  Total loss estimated at $27,000,000.'

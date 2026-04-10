@@ -1,0 +1,21 @@
+source_name: KLM Third-Party Breach (January 2023)
+source_url: https://www.bleepingcomputer.com/news/security/air-france-and-klm-notify-customers-of-account-hacks/
+date_of_breach: 2023-01-01
+date_of_disclosure: '2023-01-06'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Flying Blue
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Air France and KLM notify customers of account hacks. Air France and KLM have
+  informed Flying Blue customers that some of their personal information was exposed
+  after their accounts were breached. Flying Blue is a loyalty program allowing clients
+  of multiple airlines, including Air France, KLM, Transavia, Aircalin, Kenya Airways,
+  and TAROM, to exchange loyalty points for various rewards. "Our security operations
+  teams have detected suspicious behavior by an unauthorized entity in relation to
+  your account. We have immediately implemented corrective action to prevent further
+  exposure of your data," notifications sent to affected customers said. Third-party
+  company: Flying Blue.'

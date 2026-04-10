@@ -1,0 +1,18 @@
+source_name: Austria's Interior Ministry Says 100 Email Accounts Breached (DataBreachToday)
+source_url: https://www.databreachtoday.com/austrias-interior-ministry-says-100-email-accounts-breached-a-29340
+date_of_breach: '2025-09-01'
+date_of_disclosure: '2025-09-01'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The Austrian government said a &quot;targeted and professional&quot; hack
+  attack breached about 100 government email accounts in its interior ministry, which
+  is
+
+
+  Source: DataBreachToday article coverage.'

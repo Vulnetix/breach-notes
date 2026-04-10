@@ -1,0 +1,14 @@
+source_name: '"Crypto project PAID exploited, attacker gains over 2,000 ETH after
+  minting nearly $160M in tokens"'
+source_url: https://www.theblockcrypto.com/linked/97411/paid-network-token-minting-exploit-eth
+date_of_breach: '2021-03-05'
+date_of_disclosure: '2021-03-05'
+category: data-leak
+notes: 'A contract exploit allowed a hacker to mint almost 60 million PAID tokens
+  (priced at around $160 million based on the value before the attack) on the PAID
+  Network. The hacker then made off with about $3 million in Ethereum from their efforts.
+  The attack caused the PAID token to crash about 88% in value over the course of
+  a day, from around $2.86 to $0.32.
+
+
+  Total loss estimated at $3,000,000.'

@@ -1,0 +1,20 @@
+source_name: 500 – 1,000 e-commerce stores Third-Party Breach (May 2025)
+source_url: https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/
+date_of_breach: 2025-05-01
+date_of_disclosure: '2025-05-02'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Tigren, Meetanshi and MGS
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Magento supply chain attack compromises hundreds of e-stores. A supply chain
+  attack involving 21 backdoored Magento extensions has compromised between 500 and
+  1,000 e-commerce stores, including one belonging to a $40 billion multinational.
+  Sansec researchers who discovered the attack report that some extensions were backdoored
+  as far back as 2019, but the malicious code was only activated in April 2025. "Multiple
+  vendors were hacked in a coordinated supply chain attack, Sansec found 21 applications
+  with the same backdoor," explains Sansec. Third-party company: Tigren, Meetanshi
+  and MGS.'

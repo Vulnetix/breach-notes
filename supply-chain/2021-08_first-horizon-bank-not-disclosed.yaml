@@ -1,0 +1,18 @@
+source_name: First Horizon Bank Third-Party Breach (August 2021)
+source_url: https://www.infosecurity-magazine.com/news/first-horizon-bank-customers/
+date_of_breach: 2021-08-01
+date_of_disclosure: '2021-04-29'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: First Horizon Bank Customers Have Account Funds Drained. Attackers stole under
+  $1 million after breaching internal security. A leading US bank has revealed a data
+  breach in which over 100 online customers had their funds accessed by an unauthorized
+  intruder. First Horizon Bank claimed in a filing with the Securities and Exchange
+  Commission (SEC) yesterday that less than $1 million was stolen in total from those
+  accounts.

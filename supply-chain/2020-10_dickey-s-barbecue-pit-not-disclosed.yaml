@@ -1,0 +1,49 @@
+source_name: Dickey's Barbecue Pit POS Malware Breach — 3M Cards on Joker's Stash (2019–2020)
+source_url: https://krebsonsecurity.com/2020/10/breach-at-dickeys-bbq-smokes-3m-cards/
+date_of_breach: "2019-07-01"
+date_of_disclosure: "2020-10-13"
+date_of_customer_notification: ""
+category: supply-chain
+initial_attack_vector: Point-of-sale (POS) malware installed on in-store payment systems; likely facilitated by remote access compromise or supply chain intrusion into POS provider
+cve: []
+vendor_product: Not disclosed
+software_package: ""
+malware: POS memory-scraping malware (specific family not disclosed)
+supply_chain_claimed: false
+notes: |-
+  Dickey's Barbecue Pit, a Dallas-based smoked-meat restaurant chain with approximately
+  469 locations across the United States, suffered a prolonged point-of-sale (POS)
+  malware compromise that resulted in the theft of payment card data from roughly 156
+  locations across 30 states. The stolen data — over three million payment card records
+  — was posted for sale on the Joker's Stash dark web carding marketplace in October
+  2020 under the label "BlazingSun."
+
+  The compromise is estimated to have begun around July 2019 and continued through
+  at least August 2020, representing a dwell time of over 13 months. Multiple financial
+  institutions confirmed to Krebs on Security that cards offered in the BlazingSun
+  batch were all used at Dickey's BBQ locations during that window. Cards were advertised
+  with "valid rates" of 90–100%, indicating freshness, and sold at a median price of
+  $17 per card.
+
+  The root technical cause was POS memory-scraping malware installed on in-store payment
+  terminals. Dickey's used outdated magnetic stripe (magstripe) payment technology at
+  affected locations, which is vulnerable to track data harvesting by RAM-scraping POS
+  malware. EMV chip card processing would have prevented this class of attack by
+  replacing static track data with dynamic cryptograms. The most affected states were
+  California and Arizona, accounting for a disproportionate share of the 156 compromised
+  locations.
+
+  KrebsOnSecurity first contacted Dickey's on October 13, 2020; the company acknowledged
+  awareness of "a possible payment card security incident at some of its eateries" that
+  same day. The POS provider or third-party vendor responsible for maintaining the
+  payment systems was not named in public disclosures, which is why the vendor_product
+  field remains undisclosed. The intrusion pathway — whether through direct compromise
+  of the restaurant's network, a POS vendor's remote management infrastructure, or
+  physical tampering — was not publicly detailed.
+
+  This breach followed a pattern common to restaurant chains: attackers target franchise
+  POS systems, often through compromised remote desktop (RDP) credentials used by POS
+  service providers, and deploy persistent memory-scrapers that silently harvest
+  payment card track data over many months. The long dwell time and wide geographic
+  spread across franchise locations are consistent with a centrally managed POS vendor
+  compromise rather than location-by-location attacks.

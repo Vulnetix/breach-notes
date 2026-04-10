@@ -1,0 +1,20 @@
+source_name: Tweet thread by bantg
+source_url: https://twitter.com/bantg/status/1735279127752540465
+date_of_breach: '2023-12-14'
+date_of_disclosure: '2023-12-14'
+category: supply-chain
+notes: 'A supply chain attack on the Ledger connector application has rippled throughout
+  the world of decentralized apps, which widely use the software to enable people
+  to connect their popular Ledger hardware wallets to perform transactions. Although
+  hardware wallets are meant to be among the most secure ways to store crypto, they
+  too are vulnerable to attacks when they are connected to perform transactions.A
+  hacker was able to obtain access to Ledger''s source code management tool and push
+  out a new release that contained code that would drain wallets as users connect
+  them. Because the library is so widely used, many crypto applications were vulnerable
+  — including Revoke.cash, a security-focused project intended to help people guard
+  against attacks on their wallets.CTO of the Sushi crypto project issued a broad
+  warning: "Do not interact with ANY dApps until further notice." At least $600,000
+  has been drained from multiple users so far.
+
+
+  Total loss estimated at $610,000.'

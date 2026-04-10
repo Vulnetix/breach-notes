@@ -1,0 +1,17 @@
+source_name: '"Delta Prime attacker stole $6M by minting massive number of tokens"'
+source_url: https://cointelegraph.com/news/delta-prime-attack-6m-mint-tokens
+date_of_breach: '2024-09-16'
+date_of_disclosure: '2024-09-16'
+category: data-leak
+notes: 'The DeltaPrime defi protocol suffered a $6 million loss after a private key
+  was leaked. Access to the private key allowed the attacker to mint 1.1×1069 DPUSDC,
+  which are tokens that allow holders to redeem the USDC stablecoin at a 1:1 ratio.
+  They repeated the mint with several other deposit receipt tokens for bitcoin, ether,
+  and other cryptocurrencies. Altogether, they redeemed a small fraction of these
+  enormous quantities of deposit receipts, amounting to around $6 million in assets.DeltaPrime
+  acknowledged the attack on Twitter, and announced that "the risk is contained".
+  They also stated that they were "looking into other ways to reduce user losses to
+  a minimum", including by pulling from the protocol''s insurance pool.
+
+
+  Total loss estimated at $6,000,000.'

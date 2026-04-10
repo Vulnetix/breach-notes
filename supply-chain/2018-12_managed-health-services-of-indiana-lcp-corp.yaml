@@ -1,0 +1,13 @@
+source_name: Managed Health Services of Indiana / LCP Transportation Phishing Breach (2018)
+source_url: https://healthitsecurity.com/news/third-party-vendor-phishing-attack-breaches-31000-patient-records
+date_of_breach: '2018-07-30'
+date_of_disclosure: '2018-12-21'
+date_of_customer_notification: '2018-12-21'
+category: supply-chain
+initial_attack_vector: Phishing attack against LCP Transportation employees who surrendered email credentials; attackers gained remote access to employee email accounts containing Medicaid member PHI between July 30 and September 7, 2018
+cve: []
+vendor_product: LCP Transportation (LCP Corp.)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "Managed Health Services of Indiana (MHS), which administers Indiana's Hoosier Healthwise and Hoosier Care Connect Medicaid managed care programs, disclosed in December 2018 that 31,876 plan members had their protected health information (PHI) potentially exposed through a phishing attack on its transportation vendor, LCP Transportation.\n\nLCP Transportation provides non-emergency medical transportation coordination services for MHS members — arranging rides to medical appointments for Medicaid beneficiaries. Because of this role, LCP held PHI relating to MHS plan members in its email systems.\n\nThe breach stemmed from a phishing campaign targeting LCP employees. Between July 30 and September 7, 2018, LCP employees responded to phishing emails and provided their email account credentials to attackers, who then remotely accessed those accounts. The compromised email accounts contained MHS member information, and it is unknown whether the attackers actually viewed, copied, or used any of the PHI.\n\nLCP informed MHS of the breach on October 29, 2018 — approximately seven weeks after the unauthorized access window closed. MHS then issued notifications to affected plan members on December 21, 2018, and offered complimentary 12-month credit monitoring through CyberScan.\n\nInformation potentially exposed included member names, insurance ID numbers, mailing addresses, dates of birth, dates of service, and descriptions of medical conditions or services. The inclusion of medical condition details elevated the sensitivity of the exposure beyond typical PII breaches, as it could expose members' health status.\n\nLCP immediately secured the compromised email accounts upon discovery and engaged a computer forensics firm. The incident is a textbook example of a healthcare business associate breach under HIPAA: LCP, as a covered vendor handling PHI on behalf of MHS, was subject to HIPAA's Business Associate Agreement requirements, yet its employees fell victim to a basic phishing attack — a common and largely preventable threat vector."

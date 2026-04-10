@@ -1,0 +1,18 @@
+source_name: Tweet by BigWhale
+source_url: https://twitter.com/bigwhaleio/status/1709159020186173687
+date_of_breach: '2023-10-03'
+date_of_disclosure: '2023-10-03'
+category: data-leak
+notes: "The defi staking and lending project BigWhale announced that the private key\
+  \ to one of their crypto wallets had been leaked, and 7,200 BNB (~$1.5 million)\
+  \ had been stolen.In a long post on Twitter, the project promised \"we will refund\
+  \ all investor funds down to the last cent\". They also wrote that \"Not only are\
+  \ we going to use the fullest extent of the law to go after the person or persons\
+  \ behind this hack / attack, we will also use ALL OTHER MEANS NECESSARY - and we\
+  \ do have such resources at our disposal, to go after the ones who are behind this.\
+  \ (We work with assets within the Russian government directly...)\"In a later post\
+  \ on their website, however, they wrote that they do \"not bear legal liability\
+  \ to refund investors for the losses incurred unless the hacked funds are successfully\
+  \ recovered\", attributing the incident to force majeure. They repeatedly claimed\
+  \ that they had not been involved in the theft. The project completely took down\
+  \ its website, redirecting it to this post. \n\nTotal loss estimated at $1,500,000."

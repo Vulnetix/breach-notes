@@ -1,0 +1,22 @@
+source_name: Ames parking ticket payments Third-Party Breach (September 2019)
+source_url: https://businessrecord.com/Content/Default/All-Latest-News/Article/Ames-parking-ticket-payments-hit-by-second-national-Click2Gov-data-breach/-3/248/88111
+date_of_breach: 2019-09-01
+date_of_disclosure: 2019-09-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Home - Business Record. [](https://www.businessrecord.com/survey-on-gender-equity-in-iowa-caregiving-workplace-bias-and-financial-resources-identified-as-top-issues/).
+  Casey’s General Stores Inc., headquartered in Ankeny, has been added to the S&P
+  500, a stock market index that tracks the performance of 500 leading large-cap U.S.
+  companies. This is the first time Casey’s has been included on the S&P 500 since
+  becoming a publicly traded company in 1983. The convenience store chain is the….
+  The Des Moines Art Center has received a $26,200 Bedrock Grant from the Every Page
+  Foundation to fund conservation and educational initiatives celebrating women artists.
+  The grant will enable the preservation of significant works by women in the museum’s
+  collection for inclusion in the upcoming 2027 exhibition Whisper to a Scream: Women
+  Artists and Minimalism,…. Third-party company: Click2Gov.'

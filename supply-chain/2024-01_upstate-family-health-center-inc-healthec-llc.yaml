@@ -1,0 +1,20 @@
+source_name: Upstate Family Health Center, Inc. Third-Party Breach (January 2024)
+source_url: https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/#google_vignette
+date_of_breach: 2024-01-01
+date_of_disclosure: '2024-01-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: HealthEC LLC
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Data breach at healthcare tech firm impacts 4.5 million patients. HealthEC
+  LLC, a provider of health management solutions, suffered a data breach that impacts
+  close to 4.5 million individuals who received care through one of the company''s
+  customers. HealthEC provides a population health management (PHM) platform that
+  healthcare organizations can use for data integration, analytics, care coordination,
+  patient engagement, compliance, and reporting. On December 22, the firm disclosed
+  that it suffered a data breach between July 14 and 23, 2023, which resulted in unauthorized
+  access to some of its systems. Third-party company: HealthEC LLC.'

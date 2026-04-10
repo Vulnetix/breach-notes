@@ -1,0 +1,21 @@
+source_name: Health Share of Oregon / GridWorks Laptop Theft — 654,000 Members Exposed (2020)
+source_url: https://www.hipaajournal.com/health-share-of-oregon-notifies-654000-members-about-business-associate-data-breach/
+date_of_breach: '2019-11-01'
+date_of_disclosure: '2020-02-05'
+date_of_customer_notification: '2020-02-05'
+category: supply-chain
+initial_attack_vector: Physical theft of unencrypted laptop from transportation vendor's office
+cve: []
+vendor_product: GridWorks IC
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'In November 2019, a laptop computer was stolen in a burglary at the offices of GridWorks IC, a medical transportation coordination vendor contracted by Health Share of Oregon — the state''s largest Medicaid coordinated care organization (CCO). The laptop contained unencrypted protected health information (PHI) for approximately 654,000 current and former Health Share members. GridWorks notified Health Share about the theft on January 2, 2020. Health Share began mailing notification letters to affected members on February 5, 2020.
+
+  The stolen laptop contained PHI including: full names, home addresses, telephone numbers, dates of birth, Health Share member ID numbers, Medicaid ID numbers, and Social Security numbers. The combination of SSNs, health coverage identifiers, and contact information represents a high-severity exposure for identity theft and potential medical identity fraud.
+
+  A critical finding in the breach investigation was that the GridWorks laptop was not encrypted, despite Health Share of Oregon''s HIPAA compliance policies explicitly requiring business associates to encrypt all portable devices containing patient information. The reasons the device was left unencrypted were not publicly disclosed, but the failure represented a direct violation of contractual and regulatory obligations under HIPAA''s Security Rule (45 CFR § 164.312(a)(2)(iv)).
+
+  Health Share offered one year of complimentary credit monitoring and identity theft protection to affected members. Following the incident, Health Share announced it would expand its vendor security audit program and take steps to ensure only the minimum necessary patient information is transmitted to its business associates.
+
+  The breach was one of the largest HIPAA breaches reported in early 2020 by volume of affected individuals. It illustrates the compounding risk of physical security failures at vendors that hold large volumes of sensitive health data — and the gap that can exist between a covered entity''s documented security requirements and actual vendor compliance. GridWorks IC''s role as a transportation broker meant the data was arguably not essential to their core function, raising questions about data minimization practices in vendor data-sharing agreements.'

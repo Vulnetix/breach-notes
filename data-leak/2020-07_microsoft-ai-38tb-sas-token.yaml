@@ -1,0 +1,13 @@
+source_name: "Microsoft AI Research Division 38TB Data Exposure via SAS Token — GitHub Misconfiguration"
+source_url: "https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers"
+date_of_breach: "2020-07-01"
+date_of_disclosure: "2023-09-18"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Microsoft AI researchers accidentally included an overly permissive Azure Shared Access Signature (SAS) token when publishing open-source training data to a public GitHub repository; the SAS token granted full read-write-delete access to the entire Azure Storage account — not just the intended public dataset"
+cve: []
+vendor_product: "Microsoft Azure Storage (AI division internal data)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In July 2020, Microsoft's AI research division accidentally published an Azure Shared Access Signature (SAS) token with overly permissive access when sharing an open-source training data contribution on GitHub. The SAS token granted anyone with the link full access to the entire Azure Storage account — not just the intended public training data. The storage account contained 38 terabytes of sensitive data including private keys, passwords, internal Microsoft Teams messages from 359 Microsoft employees, and over 30,000 internal Microsoft Teams messages, as well as secrets, private keys, passwords, and other sensitive internal Microsoft files. The token was accidentally published for approximately 3 years (July 2020 to September 2023), until Wiz.io security researchers discovered and reported it. Microsoft patched and secured the storage account after Wiz's notification. Microsoft stated that no customer data was exposed and no other internal Microsoft services were put at risk. The overly permissive SAS token also allowed write and delete access — meaning anyone who discovered it could have modified or deleted the exposed data or potentially planted malicious data into AI training datasets. The case illustrated a fundamental risk with Azure SAS tokens: they grant access based on the URL alone (no authentication required), making accidental exposure in code or documentation particularly dangerous, and they can persist for years if not carefully managed."

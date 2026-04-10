@@ -1,0 +1,21 @@
+source_name: '"Post-Mortem Report: Pike USDC Withdrawal Vulnerability"'
+source_url: https://mirror.xyz/pikefinance.eth/M1ToE42vwEHuE6xlz0dVRQwPT0xpaRtpIIw2arOdBAM
+date_of_breach: '2024-04-30'
+date_of_disclosure: '2024-04-30'
+category: data-leak
+notes: 'Pike Finance, a cross-chain lending protocol, was exploited twice in four
+  days as attackers discovered vulnerabilities in the project''s smart contracts.The
+  first attack, on April 26, was enabled by a flaw in the security measures related
+  to transfers of the USDC stablecoin. An attacker was able to change the recipient
+  address and amount, ultimately making off with almost $300,000 in the stablecoin.
+  Pike released a postmortem two days later, acknowledging that the bug had been identified
+  by a third-party auditor but had not been rectified by their team.When the Pike
+  team went to patch the smart contracts to thwart this attack, they introduced new,
+  even worse vulnerabilities. As a result, on April 30, an attacker was able to upgrade
+  the project''s smart contracts to malicious ones, then withdraw $1.68 million in
+  ETH, ARB, and OP tokens.Pike Finance has offered a 20% reward for the return of
+  the funds or information pertaining to the attacker, and has promised "a plan to
+  make users whole". Pike, which launched in early 2024, is backed by Circle and Wormhole.
+
+
+  Total loss estimated at $2,000,000.'

@@ -1,0 +1,18 @@
+source_name: Red Hat Confirms Consulting Arm's GitLab Instance Breached (DataBreachToday)
+source_url: https://www.databreachtoday.com/red-hat-confirms-consulting-arms-gitlab-instance-breached-a-29639
+date_of_breach: '2025-10-03'
+date_of_disclosure: '2025-10-03'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Commercial Linux distribution producer Red Hat has issued a security alert
+  warning that attackers stole customer data from its consulting arm''s GitLab instance.
+  The
+
+
+  Source: DataBreachToday article coverage.'

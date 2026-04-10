@@ -1,0 +1,19 @@
+source_name: Israeli Likud Party Third-Party Breach (March 2021)
+source_url: https://www.timesofisrael.com/personal-details-of-all-israeli-voters-again-leaked-online-day-before-election/
+date_of_breach: 2021-03-01
+date_of_disclosure: '2021-03-22'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Elector Software
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Personal details of all Israeli voters again leaked online, day before election.
+  Anonymous hackers publish databases with 6.5 million names and ID numbers, including
+  where people are set to vote, in latest election-related privacy scandal. Personal
+  details of all voters were published online Monday, in another massive leak of Israelis’
+  personal information before Knesset elections. The data breach was apparently linked
+  to the Elector app, which was blamed for previous leaks when it was being used by
+  the ruling Likud party to boost turnout. Third-party company: Elector Software.'

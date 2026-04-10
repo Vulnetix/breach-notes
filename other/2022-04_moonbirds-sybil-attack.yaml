@@ -1,0 +1,16 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1515436912907104265
+date_of_breach: '2022-04-16'
+date_of_disclosure: '2022-04-16'
+category: other
+notes: The NFT project "Moonbirds" generated so much hype that they implemented a
+  raffle system for the many people who hoped to get on the project's allowlist, hoping
+  to make it more fair. However, because it is relatively trivial for a person to
+  create many crypto wallets, a person was able to game the system by creating over
+  400 wallets, which went on to win more than 50 slots on the project allowlist. This
+  strategy — creating many accounts or wallets to gain an advantage — is known as
+  a "Sybil attack".This did not go over so well for the people who were eager to get
+  a spot in line to mint NFTs that cost 2.5 ETH ($7,650), but was selling with a floor
+  price of 13.1 ETH ($40,000) on the secondary market shortly after the mint completed.
+  If the person behind the Sybil scheme flipped their NFTs for the current floor price,
+  they could make upwards of $1.6 million in profit.

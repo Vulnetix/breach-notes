@@ -1,0 +1,23 @@
+source_name: '"Velocore Incident Post-Mortem"'
+source_url: https://velocorexyz.medium.com/velocore-incident-post-mortem-6197020ec3e9
+date_of_breach: '2024-06-02'
+date_of_disclosure: '2024-06-02'
+category: data-leak
+notes: 'The Velocore DEX, built on the Linea Ethereum layer-2 blockchain, was exploited
+  for around $6.8 million in ETH. The hacker was able to take advantage of a bug in
+  the project''s smart contract in the logic to calculate swap fees. Using a flash
+  loan attack funded through Tornado Cash, the attacker drained most of the tokens
+  from the pool, bridged the tokens back to the Ethereum mainnet, and then tumbled
+  the stolen funds back through Tornado.In an unusual move, the operators of the Linea
+  layer-2 blockchain chose to unilaterally halt the chain in order to stop the outflow
+  of stolen assets. Because Linea — like many layer-2 chains — is highly centralized,
+  it was possible for the Linea team to unilaterally stop the production of blocks.This
+  was very controversial, as a single operator being able to unilaterally control
+  the operation of a blockchain goes against much of the cryptocurrency ethos. Following
+  their action, they tried to explain that "Linea''s goal is to decentralize our network
+  - including the sequencer. When our network matures to a decentralized, censorship-resistant
+  environment, Linea''s team will no longer have the ability to halt block production
+  and censor addresses - this is a primary goal of our network".
+
+
+  Total loss estimated at $6,800,000.'

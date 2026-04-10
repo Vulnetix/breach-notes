@@ -1,0 +1,18 @@
+source_name: '"OKX/OkEx silently changes to $5000 lifetime withdrawal limit, locking
+  all user funds and holding ransom. Who else is affected?"'
+source_url: https://www.reddit.com/r/OkX_WithdrawalHell/comments/134ba3r/okxokex_silently_changes_to_5000_lifetime/
+date_of_breach: '2023-05-02'
+date_of_disclosure: '2023-05-02'
+category: other
+notes: As regulatory groups have started to pay more attention to crypto platforms,
+  it hasn't been terribly unusual to see them tighten their identification requirements
+  — particularly for customers engaging in high-value transactions. However, the Seychelles-based
+  OKX exchange suddenly and without warning implemented a $5,000 total withdrawal
+  limit for users of its crypto exchange that hadn't provided detailed identification
+  (KYC), leaving some users who were unwilling to provide such identification with
+  large sums of crypto assets trapped on the exchange. Previously, users who had submitted
+  only the base level of identification were able to deposit or withdraw $50,000 per
+  day. These users weren't notified of the change, even when they deposited funds,
+  and only discovered the new limit when they went to withdraw or heard about it on
+  social media.It's not clear when precisely the change went into effect, but reports
+  of the limitation began appearing in April 2023.

@@ -1,0 +1,22 @@
+source_name: City of Kirkland, Monroe, Redmonde, Seattle, Lakewood Water District,
+  Third-Party Breach (February 2021)
+source_url: https://www.bleepingcomputer.com/news/security/us-cities-disclose-data-breaches-after-vendors-ransomware-attack/
+date_of_breach: 2021-02-01
+date_of_disclosure: '2021-02-18'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: AFTS
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'US cities disclose data breaches after vendor''s ransomware attack. A ransomware
+  attack against the widely used payment processor ATFS has sparked data breach notifications
+  from numerous cities and agencies within California and Washington. Automatic Funds
+  Transfer Services (AFTS) is used by many cities and agencies in Washington and other
+  US states as a payment processor and address verification service. As the data is
+  used for billing and verifying customers and residents is wide and varied, this
+  attack could have a massive and widespread impact. The attack occurred around February
+  3rd when a cybercrime gang known as ''Cuba ransomware'' stole unencrypted files
+  and deployed the ransomware. Third-party company: AFTS.'

@@ -1,0 +1,13 @@
+source_name: "Dymocks Booksellers Data Breach — 836,000 Australian Customers"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/dymocks-data-breach"
+date_of_breach: "2023-07-01"
+date_of_disclosure: "2023-09-06"
+date_of_customer_notification: "2023-09-06"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker exfiltrated a database containing customer records from Dymocks Booksellers; Troy Hunt of Have I Been Pwned was alerted to the breach by a third party who shared the data with him before Dymocks was aware"
+cve: []
+vendor_product: "Dymocks Booksellers customer database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2023, Dymocks Booksellers — Australia's largest book retailer operating approximately 65 stores — disclosed a data breach affecting approximately 836,000 customers. The breach was first identified not by Dymocks but by Have I Been Pwned founder Troy Hunt, who was contacted by a third party sharing the breached data. Hunt notified Dymocks, who then confirmed the breach and notified the OAIC under Australia's mandatory NDB scheme. Exposed data included names, email addresses, gender, date of birth, phone numbers, member since dates, membership status, and membership tier — but not payment card information or government identification. Dymocks notified affected customers in September 2023. The OAIC commenced an investigation. The case highlighted a challenge with the NDB scheme: organisations may be unaware of their own breaches until external parties alert them, creating notification delays. Dymocks was criticised for the time between the breach occurring (estimated July 2023) and customer notification (September 2023). The breach was one of several significant Australian consumer data breaches in 2023 following the high-profile Optus and Medibank incidents of 2022, which had raised public awareness of cybersecurity in Australia."

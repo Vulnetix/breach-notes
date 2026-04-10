@@ -1,0 +1,15 @@
+source_name: State Governments of U.S. Third-Party Breach (January 2020)
+source_url: https://www.infosecurity-magazine.com/news/data-leak-exposes-750k-birth-cert/
+date_of_breach: 2020-01-01
+date_of_disclosure: '2019-12-10'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Data Leak Exposes 750K Birth Certificate Applications. AWS misconfiguration
+  leaves storage bucket wide open. Over 750,000 applications for US birth certificates
+  have been found exposed online thanks to a misconfigured cloud server.

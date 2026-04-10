@@ -1,0 +1,17 @@
+source_name: Tweet by zachxbt
+source_url: https://twitter.com/zachxbt/status/1661129110062788608
+date_of_breach: '2023-05-23'
+date_of_disclosure: '2023-05-23'
+category: data-leak
+notes: 'A Ponzi scheme called Morgan DF Fintoch lured consumers by claiming to be
+  owned by the American banking giant Morgan Stanley. Morgan Stanley themselves warned
+  of the scheme, writing that it was an impersonator, and that any claims of affiliation
+  were false. The government of Singapore also issued a warning about the firm in
+  early May. The company advertised a wallet which they claimed would "pay 1% per
+  day,36% 30 Days and 100% in 63 days".On May 23, crypto sleuth zachxbt tweeted that
+  the project appeared to have executed their exit scam, bridging around 31.6 million
+  Tether to various addresses. Platform users began to report that they could not
+  withdraw funds.
+
+
+  Total loss estimated at $31,600,000.'

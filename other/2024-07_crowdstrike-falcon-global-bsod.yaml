@@ -1,0 +1,13 @@
+source_name: "CrowdStrike Falcon Sensor Update — Global Windows BSOD Outage (8.5 Million Devices)"
+source_url: "https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/"
+date_of_breach: "2024-07-19"
+date_of_disclosure: "2024-07-19"
+date_of_customer_notification: "2024-07-19"
+category: "other"
+initial_attack_vector: "A faulty content configuration update (Channel File 291) for the CrowdStrike Falcon sensor on Windows hosts caused a logic error in the sensor's Content Interpreter, triggering an out-of-bounds memory read that led to an exception handling failure and Windows BSOD (Blue Screen of Death)"
+cve: []
+vendor_product: "CrowdStrike Falcon sensor (Windows) — Channel File 291"
+software_package: "CrowdStrike Falcon sensor"
+malware: ""
+supply_chain_claimed: true
+notes: "On 19 July 2024, CrowdStrike released a faulty content configuration update (Channel File 291) to Windows systems running the CrowdStrike Falcon endpoint detection and response sensor, causing approximately 8.5 million Windows devices worldwide to crash into a Blue Screen of Death (BSOD) and enter a continuous reboot loop. The update was deployed between 04:09 and 05:27 UTC. The impact was unprecedented in scale: airlines including Delta, United, and American grounded flights; hospitals cancelled surgeries and appointments; banks and financial services went offline; emergency services were disrupted; broadcasters (Sky News in the UK) went off-air; and businesses worldwide were crippled. Delta Air Lines alone reported a $500 million financial impact and cancelled over 7,000 flights. Recovery required manual intervention on each affected device, including booting into Safe Mode and deleting the problematic file — a process that took hours per machine and days across enterprise environments. CrowdStrike CEO George Kurtz issued a public apology. The incident was not a cyberattack or breach — no data was stolen or compromised — but it was treated as a critical cyber incident given its global impact, supply chain nature (a security tool causing mass outage), and demonstration that widely-deployed security software is itself critical infrastructure. Microsoft estimated the financial cost to the Fortune 500 at $5.4 billion. A faulty test validation process for rapid channel file updates was identified as the root cause. CrowdStrike subsequently settled with Delta and promised customers $10 million in credits."

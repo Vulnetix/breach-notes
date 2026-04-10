@@ -1,0 +1,17 @@
+source_name: Tweet by Cyvers Alerts
+source_url: https://twitter.com/CyversAlerts/status/1759923312036073952
+date_of_breach: '2024-02-20'
+date_of_disclosure: '2024-02-20'
+category: other
+notes: 'The Hong Kong-based AAX cryptocurrency exchange suspended withdrawals in November
+  2022, only days after the FTX collapse and related chaos in the cryptocurrency world.
+  They claimed that user funds were safe, but the exchange never restored service.
+  A month later, police arrested two of the company''s executives.Now, over a year
+  later, the Cyvers blockchain security firm has observed more than 24,000 ETH (~$55.6
+  million) has been moved from wallets used by the platform. Although there could
+  be innocuous explanations for money moving off a defunct platform, whoever was moving
+  the funds used various decentralized services to launder the money, appearing to
+  be trying to make it more difficult to trace.
+
+
+  Total loss estimated at $55,600,000.'

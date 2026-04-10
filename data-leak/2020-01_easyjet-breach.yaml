@@ -1,0 +1,13 @@
+source_name: "EasyJet Data Breach — 9 Million Customers, 2,208 Credit Cards"
+source_url: "https://mediacentre.easyjet.com/story/2439/easyjet-update-on-cyberattack"
+date_of_breach: "2020-01-01"
+date_of_disclosure: "2020-05-19"
+date_of_customer_notification: "2020-05-19"
+category: "data-leak"
+initial_attack_vector: "Sophisticated cyber attack; specific technical vector not publicly disclosed; EasyJet stated it was a highly sophisticated attacker; email addresses and travel details were the primary target alongside payment card data for a subset of customers"
+cve: []
+vendor_product: "EasyJet customer booking systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "EasyJet disclosed on 19 May 2020 that it had suffered a cyberattack that exposed the personal data of approximately 9 million customers. The attack was first detected in late January 2020 and investigated internally before public disclosure. Email addresses and travel details (itineraries, booking references) were accessed for approximately 9 million customers. The credit card details of 2,208 customers — including CVV codes — were also stolen. EasyJet immediately notified the ICO as required under GDPR and began contacting the 2,208 affected customers with financial data exposed. The UK ICO opened an investigation. A class-action lawsuit was filed by PGMBM on behalf of affected customers, seeking approximately £18 billion in compensation (£2,500 per affected customer under GDPR Article 82). EasyJet chose not to disclose specifics of the attack vector, citing ongoing law enforcement cooperation. The disclosure timing — during COVID-19 when airlines were already struggling financially — was noted as difficult. The ICO had not concluded its investigation by the time EasyJet subsequently entered financial difficulties. The incident highlighted GDPR Article 33 obligations and the challenge of balancing timely disclosure with investigation integrity."

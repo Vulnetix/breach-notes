@@ -1,0 +1,13 @@
+source_name: "Marriott International 2022 Social Engineering Breach — 20GB Data Stolen"
+source_url: "https://www.bleepingcomputer.com/news/security/marriott-international-confirms-another-data-breach-affecting-300-to-400-individuals/"
+date_of_breach: "2022-06-01"
+date_of_disclosure: "2022-07-05"
+date_of_customer_notification: "2022-07-05"
+category: "credential-theft"
+initial_attack_vector: "Attacker used social engineering to trick a Marriott employee at a Maryland property into granting remote access to their workstation; once access was established, approximately 20GB of data was exfiltrated over a period prior to detection"
+cve: []
+vendor_product: "Marriott International employee workstation / local property data"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2022, Marriott International suffered its third significant data breach in four years (after the 2018 Starwood breach affecting 383M guests and the 2020 employee credential breach affecting 5.2M guests). A threat actor used social engineering to trick an employee at a Marriott property in Maryland into granting access to their workstation. The attacker then exfiltrated approximately 20 gigabytes of data. Marriott disclosed the breach on 5 July 2022. The breach affected a small number of files — Marriott stated the data impacted approximately 300-400 individuals, primarily employees. The stolen data included business files and customer credit card information for a limited number of guests. However, the group responsible (calling themselves 'GRP8') attempted to extort Marriott and eventually shared some of the data with DataBreaches.net. The data allegedly included customer credit card numbers, confidential hotel source code, and employee ID information. The Maryland attorney general was notified. Marriott is one of the world's largest hotel chains with approximately 8,000 properties. This third breach in four years demonstrated persistent vulnerability to social engineering despite presumably enhanced security following previous incidents. The UK ICO noted the pattern of Marriott breaches in its communications."

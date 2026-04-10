@@ -1,0 +1,20 @@
+source_name: "CaptureRx Ransomware Breach — 1.9M Patients, 340B Healthcare Providers Across US"
+source_url: "https://www.hipaajournal.com/capturerx-ransomware-attack-affects-multiple-healthcare-provider-clients/"
+date_of_breach: "2021-02-06"
+date_of_disclosure: "2021-05-14"
+date_of_customer_notification: "2021-05-14"
+category: supply-chain
+initial_attack_vector: "Ransomware with data exfiltration prior to encryption (double-extortion) targeting CaptureRx, a 340B pharmaceutical administration services vendor"
+cve: []
+vendor_product: "CaptureRx (NEC Networks)"
+software_package: ""
+malware: "Ransomware (strain not publicly identified)"
+supply_chain_claimed: true
+notes: |-
+  NEC Networks LLC, doing business as CaptureRx, a San Antonio, Texas-based provider of 340B drug pricing program administrative services to healthcare organizations, suffered a ransomware attack on February 6, 2021. The intrusion was detected on February 19, 2021. Following a review of exfiltrated files conducted through March 19, the company began notifying affected healthcare provider clients on March 30, with public disclosure and patient notifications following in May 2021.
+
+  The attackers employed a double-extortion model: files containing patient protected health information (PHI) were accessed and exfiltrated prior to encryption. The exposed data included patient full names, dates of birth, prescription information, and in some cases medical record numbers. The breach is notable for its breadth: because CaptureRx served as a shared administrative services vendor to dozens of healthcare organizations participating in the federal 340B program (which provides discounted drugs to qualifying safety-net providers), a single compromise rippled across a large number of distinct covered entities.
+
+  Affected organizations included UPMC Cole, UPMC Wellsboro, Hidalgo Medical Services, Trinity Health Twin City Hospital, HopeHealth, Massena Hospital, Penobscot Community Health Care, Lourdes Hospital, Faxton St. Luke's Healthcare (17,655 patients), Gifford Health Care, NYC Health + Hospitals (43,727 patients), Catholic Health System — St. Mary's and Sisters of Charity Hospitals (17,002 patients), Thrifty Drug Stores, and others. The total number of affected individuals across all clients was reported to HHS as approximately 2.42 million, with the Maine Attorney General breach report citing 1,919,938 individuals.
+
+  The breach ranked among the ten largest healthcare data breaches of 2021. CaptureRx faced a class action lawsuit and agreed to a $4.75 million settlement. The company indicated it faced potential bankruptcy if the settlement was not approved, reflecting the severe financial consequences of a supply chain healthcare breach at this scale. The incident reinforced that shared-services vendors to multiple HIPAA covered entities represent a high-value single point of failure for patient data security.

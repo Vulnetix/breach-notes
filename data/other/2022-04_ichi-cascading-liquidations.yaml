@@ -1,0 +1,25 @@
+source_name: '"How Ichi Tokens Plunged 90% After Bad Debt Fiasco on Rari"'
+source_url: https://www.coindesk.com/tech/2022/04/12/how-ichi-tokens-plunged-90-after-bad-debt-fiasco-on-rari/
+date_of_breach: '2022-04-11'
+date_of_disclosure: '2022-04-11'
+category: other
+notes: 'Ichi, a defi project that allows other projects to create their own stablecoins
+  suffered cascading liquidations in its Rari pool, leading to a token price crash.
+  Rari is a protocol that allows users earn yields on liquidity pools for various
+  assets. Ichi''s liquidity pool on Rari was set up with an extremely high collateral
+  factor (85%) and no supply caps, which allowed borrowers to borrow more $ICHI to
+  use as collateral than actually existed in the liquidity pool, with many borrowing
+  $ICHI to buy more $ICHI. As borrowers did this, the price briefly spiked from the
+  token''s early April price of around $70 to $139 before plummeting to below $2.One
+  Rari developer blamed Ichi for the disaster, writing, "Fuse is a permissionless
+  protocol. Pool operators are responsible for following best practices to avoid situations
+  like this one". Rari Capital''s official Twitter account also blamed Ichi, stating,
+  "This is a permissionless pool that is owned and operated by Ichi. We hope to see
+  an announcement from Ichi regarding redemption strategies and next steps to make
+  users whole."In the FAQ about the incident, Ichi wrote that they had allowed such
+  a high LTV ratio in the pool because they expected "users would make responsible
+  decisions that would benefit the community". There is currently around $30 million
+  of bad debt in the liquidity pool.
+
+
+  Total loss estimated at $30,000,000.'

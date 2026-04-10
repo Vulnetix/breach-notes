@@ -1,0 +1,13 @@
+source_name: "T-Mobile Prepaid Account Data Breach — 1 Million Customers (CPNI Exposure)"
+source_url: "https://www.t-mobile.com/news/network/information-about-a-cybersecurity-incident"
+date_of_breach: "2019-11-22"
+date_of_disclosure: "2019-11-26"
+date_of_customer_notification: "2019-11-26"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to T-Mobile's prepaid account information through a misconfigured API or application server; T-Mobile stated it was a criminal attack that gained access to prepaid account subscriber information"
+cve: []
+vendor_product: "T-Mobile prepaid account management systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 22 November 2019, T-Mobile detected and stopped a cyberattack that gained access to information for approximately 1 million T-Mobile prepaid customers. T-Mobile disclosed the breach on 26 November 2019. Exposed data included names, billing addresses, phone numbers, account numbers, and plan information for prepaid subscribers. No financial information, SSNs, or passwords were exposed. The data was classified as CPNI (Customer Proprietary Network Information) — regulated customer data protected under FCC rules. T-Mobile notified the FCC as required. This was T-Mobile's third known data breach in two years (following a 2018 breach affecting 2 million customers and a 2019 breach of a vendor system). The breach was relatively small compared to T-Mobile's subsequent 2021 breach (54.6 million records) and 2023 API breach. Law enforcement was notified. T-Mobile reset account PINs for affected customers as a precautionary measure and offered additional security measures. The series of T-Mobile breaches throughout 2018-2021 established the company as a persistent target for data theft and led to an FCC settlement and enhanced security requirements."

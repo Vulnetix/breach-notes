@@ -1,0 +1,13 @@
+source_name: "Clearview AI Database Breach — Entire Customer List, Search History Stolen"
+source_url: "https://www.dailybeast.com/clearview-ai-had-its-entire-client-list-stolen-by-hackers"
+date_of_breach: "2020-02-01"
+date_of_disclosure: "2020-02-26"
+date_of_customer_notification: "2020-02-26"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorised access to Clearview AI's systems and exfiltrated the company's entire client list — including law enforcement agencies, government clients, and private entities — along with their search histories (faces searched)"
+cve: []
+vendor_product: "Clearview AI client database and search history systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In February 2020, Clearview AI — a controversial facial recognition company that scraped billions of photos from social media to build its facial recognition database, primarily serving law enforcement — was notified that its entire client list had been stolen. Clearview sent notifications to its clients (primarily law enforcement agencies, government entities, and banks) informing them that a security breach had exposed their user accounts, including their Clearview AI search histories (the faces they had searched). Clearview's client list at the time included major US law enforcement agencies including the FBI, DHS, and hundreds of local police departments. The breach exposed which law enforcement agencies were using Clearview (some without public disclosure) and the faces of individuals they had searched. Clearview insisted that the breach did not include search results or images, only the list of clients and their query history. The attorney general of Vermont sent a letter to Clearview. The incident occurred while Clearview was already under significant public and regulatory pressure: Clearview had been sent cease-and-desist letters by Twitter, Facebook, Google, and others for scraping their platforms. Multiple US states subsequently banned or regulated law enforcement use of facial recognition technology, and the EU identified Clearview's practices as violating GDPR."

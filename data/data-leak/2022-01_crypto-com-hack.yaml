@@ -1,0 +1,17 @@
+source_name: '"Crypto.com Suspends Withdrawals After ''Unauthorized Activity''"'
+source_url: https://www.bloomberg.com/news/articles/2022-01-17/crypto-com-suspends-withdrawls-after-unauthorized-activity
+date_of_breach: '2022-01-17'
+date_of_disclosure: '2022-01-17'
+category: data-leak
+notes: 'Popular cryptocurrency wallet provider and trading platform Crypto.com briefly
+  suspended trading after acknowledging there had been "unauthorized activity" in
+  user accounts. The platform restored trading later that day after pushing an update
+  to require their users to re-authenticate their sessions and reset two-factor authentication.Although
+  some users reported funds missing from their wallets, including one investor who
+  reported that $16.3 million missing, Crypto.com announced that "All funds are safe".
+  Over the next few days this was revealed to be untrue; as of January 20, the total
+  estimated funds stolen from the platform had reached $30 million. Large amounts
+  of stolen funds were quickly laundered through Tornado Cash, a popular crypto mixer.
+
+
+  Total loss estimated at $34,000,000.'

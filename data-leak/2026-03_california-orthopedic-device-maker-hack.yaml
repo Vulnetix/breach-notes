@@ -1,0 +1,13 @@
+source_name: "California Orthopedic Device Maker (OrthoLogic/Implantable Device Company) Cyberattack"
+source_url: "https://www.databreachtoday.com/implantable-orthopedic-device-maker-reports-hack-a-31303"
+date_of_breach: "2026-03-01"
+date_of_disclosure: "2026-03-31"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to the California-based implantable orthopedic device manufacturer's systems; the company reported the hacking incident to relevant authorities and is among several medical device makers to disclose cybersecurity incidents in early 2026"
+cve: []
+vendor_product: "California-based implantable orthopedic device manufacturer (specific company name not confirmed at time of reporting)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On approximately 31 March 2026, a California-based maker of implantable orthopedic devices disclosed it had been the victim of a cybersecurity incident. DataBreachToday reported the company as the 'latest medical device maker in recent weeks to disclose a cybersecurity incident,' suggesting a pattern of similar attacks against medical device manufacturers in early 2026. Implantable orthopedic devices include spinal implants, joint replacements (hip, knee, shoulder), bone plates, and screws. California-headquartered implantable orthopedic device companies include Alphatec Holdings (Carlsbad, CA — focused on spinal systems), Surgalign (previously Holo Surgical), Conformis, and others. The breach of a medical device manufacturer raises concerns beyond standard data privacy: potential exposure of proprietary device designs, patient implant registries, clinical trial data, FDA 510(k) regulatory submissions, and manufacturing specifications. Medical device intellectual property is a high-value target for both financially motivated criminals and nation-state actors engaged in industrial espionage. The US FDA's cybersecurity requirements for medical device manufacturers (strengthened under the Consolidated Appropriations Act of 2023) require device makers to maintain robust cybersecurity programmes and disclose vulnerabilities. The company notified relevant regulatory bodies and was investigating the scope of the breach."

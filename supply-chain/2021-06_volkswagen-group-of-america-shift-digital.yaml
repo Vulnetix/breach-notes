@@ -1,0 +1,20 @@
+source_name: "Volkswagen/Audi Shift Digital Breach — 3.3M Customers, Unsecured Cloud Data 2019–2021"
+source_url: "https://www.bleepingcomputer.com/news/security/audi-volkswagen-data-breach-affects-33-million-customers/"
+date_of_breach: "2019-08-01"
+date_of_disclosure: "2021-06-11"
+date_of_customer_notification: "2021-06-11"
+category: supply-chain
+initial_attack_vector: "Misconfigured cloud storage — Shift Digital left an unsecured dataset containing VW/Audi customer data exposed on the internet between August 2019 and May 2021"
+cve: []
+vendor_product: "Shift Digital (digital marketing vendor for Volkswagen Group of America)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  Volkswagen Group of America and Audi of America disclosed in June 2021 that approximately 3.3 million customers and prospective buyers had their personal data exposed due to an unsecured dataset left accessible on the internet by Shift Digital, a digital marketing vendor that VW and Audi used to conduct sales and marketing campaigns.
+
+  The data was compiled from customer interactions with VW and Audi dealers and websites between 2014 and 2019, and was left unsecured by Shift Digital at some point between August 2019 and May 2021 — a window of approximately 21 months. The dataset was discovered and reported to Volkswagen by an unnamed security researcher.
+
+  The exposed data varied by individual. The majority of affected records (over 3.3 million) included contact information: first and last name, personal or business mailing address, email address, and phone number, along with vehicle details such as VIN, make, model, year, color, and trim package for vehicles purchased, leased, or inquired about. A more sensitive subset of approximately 90,000 Audi customers had highly sensitive financial and identification data exposed, including driver's license numbers, dates of birth, Social Security numbers or social insurance numbers (for Canadian customers), and account or loan numbers.
+
+  No Mercedes-Benz, Porsche, or other VW Group brand customers outside of VW and Audi of America were reported as affected. The breach class action was settled for $3.5 million. The incident illustrated how automotive OEMs that share customer data with digital marketing and lead-generation vendors create significant downstream exposure when those vendors fail to apply adequate cloud storage access controls. Shift Digital did not publicly comment on the specifics of the misconfiguration.

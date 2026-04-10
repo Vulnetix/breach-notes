@@ -1,0 +1,13 @@
+source_name: "Iowa AG Sues UnitedHealth / Change Healthcare over 2024 Ransomware Breach — State Enforcement Action"
+source_url: "https://www.databreachtoday.com/state-ag-sues-change-healthcare-in-2024-ransomware-attack-a-31326"
+date_of_breach: "2024-02-12"
+date_of_disclosure: "2026-04-02"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "See original Change Healthcare ALPHV/BlackCat ransomware breach record (2024-02-12): MFA-less Citrix remote access portal exploited by ALPHV affiliates using stolen credentials"
+cve: []
+vendor_product: "UnitedHealth Group / Change Healthcare (regulatory enforcement record)"
+software_package: ""
+malware: "ALPHV/BlackCat ransomware (original incident)"
+supply_chain_claimed: false
+notes: "In April 2026, Iowa Attorney General Brenna Bird filed a lawsuit against UnitedHealth Group seeking financial damages, civil penalties, and improvements to the company's data security practices for alleged violations of Iowa consumer protection and data privacy laws arising from the February 2024 Change Healthcare ransomware attack. The Iowa AG's action is one of several state-level enforcement actions following the breach — which affected approximately 100 million Americans, disrupted healthcare billing and claims processing across the US for weeks, and cost UnitedHealth over $3 billion in remediation. Iowa's complaint alleges UnitedHealth Group failed to implement adequate cybersecurity measures (specifically, the lack of MFA on a critical remote access system), failed to timely notify affected Iowans, and violated state consumer protection statutes. The state seeks civil monetary penalties of up to $20,000 per violation, actual damages, and a court order requiring UnitedHealth to implement specific security controls. Multiple other state attorneys general have opened investigations or taken similar actions. The FTC had previously reached a settlement requiring UnitedHealth to implement a comprehensive data security program. The HHS OCR opened a HIPAA compliance investigation that is ongoing. UnitedHealth Group CEO Andrew Witty testified before Congress in May 2024. This enforcement record supplements the primary breach record at data/ransomware/2024-02_change-healthcare.yaml."

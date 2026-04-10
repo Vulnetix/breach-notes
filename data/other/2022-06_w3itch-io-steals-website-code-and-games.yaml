@@ -1,0 +1,18 @@
+source_name: Tweet by KenneyNL
+source_url: https://twitter.com/KenneyNL/status/1542244945280618498
+date_of_breach: '2022-06-29'
+date_of_disclosure: '2022-06-29'
+category: other
+notes: A somewhat blundering group of developers decided to create "w3itch.io", an
+  online marketplace for game creators. The marketplace said it was intended to be
+  friendly to games incorporating NFTs and other crypto-related technologies, unlike
+  the indie game marketplace itch.io, which tweeted in February that "NFTs are a scam.
+  If you think they are legitimately useful for anything other than the exploitation
+  of creators, financial scams, and the destruction of the planet the we ask that
+  [you] please reevaluate your life choices."W3itch.io apparently decided the best
+  way to accomplish their goal would be to not only steal itch.io's site design, but
+  the source code itself. The games hosted on the website were also taken without
+  the consent from their creators.After being called out by the KennyNL Twitter account,
+  W3itch.io admitted to stealing the CSS, as well as buying Twitter followers. However,
+  they refused to take the website down, and seemed to claim they were unable to remove
+  listings of stolen games.

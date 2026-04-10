@@ -1,0 +1,17 @@
+source_name: 12 Insurance Company Third-Party Breach (April 2025)
+source_url: https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2573a7a-93b9-4b12-9a9b-15572078eb14.html
+date_of_breach: 2025-04-01
+date_of_disclosure: 2025-04-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Landmark Admin
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Office of the Maine AG: Consumer Protection: Privacy, Identity Theft and Data
+  Security Breaches. Home > Consumer Information > Privacy, Identity Theft and Data
+  Security Breaches > Data Breach Notifications. If content on this page is inaccessible
+  and you would like to request the information in a different format, please contact
+  (207) 626-8800 and it will be provided to you. Third-party company: Landmark Admin.'

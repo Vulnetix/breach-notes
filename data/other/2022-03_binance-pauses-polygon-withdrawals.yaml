@@ -1,0 +1,11 @@
+source_name: '"Binance temporarily halts Polygon deposit and withdrawal to sync nodes"'
+source_url: https://cointelegraph.com/news/binance-temporarily-halts-polygon-deposit-and-withdrawal-to-sync-nodes
+date_of_breach: '2022-03-15'
+date_of_disclosure: '2022-03-15'
+category: other
+notes: After an extended Polygon outage on March 10, Binance temporarily paused deposits
+  and withdrawals via Polygon on March 15. Although Binance reported it was "due to
+  the network wide issues of the Polygon network", Polygon stated that "Polygon PoS
+  network is stable, and working fine. All funds are safe. Binance is upgrading its
+  nodes, and currently syncing the block data, hence they have paused the deposit
+  and withdrawal." It was unclear why this would happen days after the original outage.

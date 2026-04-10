@@ -1,0 +1,20 @@
+source_name: Sharp Healthcare Third-Party Breach (June 2025)
+source_url: https://therecord.media/5-million-affected-episource-data-breach
+date_of_breach: 2025-06-01
+date_of_disclosure: '2025-06-18'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Episource
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'More than 5 million affected by data breach at healthcare tech firm Episource.
+  California-based Episource disclosed in filings with the U.S. Department of Health
+  and Human Services that more than 5.4 million people had their information taken
+  in a breach discovered in February. A tech firm providing services to the healthcare
+  industry said hackers stole information on millions of people in an incident discovered
+  in early February. Documents filed with the U.S. Department of Health and Human
+  Services Department show that 5,418,866 people had information taken from Episource.
+  Third-party company: Episource.'

@@ -1,0 +1,19 @@
+source_name: Yves Rocher Third-Party Breach (September 2019)
+source_url: https://threatpost.com/data-leak-impacts-millions/147908/
+date_of_breach: 2019-09-01
+date_of_disclosure: '2019-09-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Aliznet
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Cosmetics Giant Yves Rocher Caught in Data Leak Impacting Millions of Customers.
+  International cosmetics brand Yves Rocher found itself caught in a third-party data
+  exposure incident that leaked the personal information of millions of customers.
+  Cosmetics giant Yves Rocher is warning that a giant data leak exposed the personal
+  data of millions of its customers and reams of sensitive internal company information
+  to the public. The data exposure stems from a database left unprotected by a third-party
+  consultant to the firm. Third-party company: Aliznet.'

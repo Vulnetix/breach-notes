@@ -1,0 +1,25 @@
+source_name: Target Corporation BlackPOS POS Malware Breach via Fazio Mechanical HVAC
+  Vendor
+source_url: https://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/
+date_of_breach: '2013-11-01'
+date_of_disclosure: '2014-02-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Attackers stole network credentials from Fazio Mechanical Services
+  — a Pennsylvania HVAC (heating, ventilation, and air conditioning) contractor —
+  by infecting Fazio employee computers with Citadel malware; these credentials provided
+  access to Target's vendor portal, from which attackers pivoted to Target's POS network
+  and installed BlackPOS RAM-scraping malware
+cve: []
+vendor_product: Fazio Mechanical Services (HVAC contractor) / Target vendor portal
+software_package: ''
+malware: BlackPOS (Kaptoxa) RAM-scraping malware; Citadel malware (on vendor's systems)
+supply_chain_claimed: true
+notes: 'Last week, Target told reporters at The Wall Street Journal and Reuters that
+  the initial intrusion into its systems was traced back to network credentials that
+  were stolen from a third party vendor. Sources now tell KrebsOnSecurity that the
+  vendor…. Sources close to the investigation said the attackers first broke into
+  the retailer’s network on Nov. 15, 2013 using network credentials stolen from Fazio
+  Mechanical Services , a Sharpsburg, Penn.-based provider of refrigeration and HVAC
+  systems. Black Kite timeline context: Data breached: Unknown. Use of third party:
+  Unknown. Third-party company: Third-party vendor.'

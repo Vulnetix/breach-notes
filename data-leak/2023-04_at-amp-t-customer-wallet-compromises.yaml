@@ -1,0 +1,17 @@
+source_name: '"Hackers are breaking into AT&amp;T email accounts to steal cryptocurrency"'
+source_url: https://techcrunch.com/2023/04/26/hackers-are-breaking-into-att-email-accounts-to-steal-cryptocurrency/
+date_of_breach: '2023-04-26'
+date_of_disclosure: '2023-04-26'
+category: data-leak
+notes: 'TechCrunch reported that attackers were able to gain access to AT&amp;T email
+  accounts which they then used to gain access to customers'' cryptocurrency accounts.
+  Various customers reported their accounts at exchanges including Coinbase and Gemini
+  had been drained. One individual victim lost $134,000 from their Coinbase account.An
+  anonymous source corresponding with TechCrunch claims that the total amount of cryptocurrency
+  stolen is somewhere between $15 million and $20 million. The tipster also claimed
+  that the hackers have the ability to gain access to any AT&amp;T account via the
+  AT&amp;T employee portal; AT&amp;T has denied this and instead claimed that "the
+  bad actors used an API access."
+
+
+  Total loss estimated at $15,000,000.'

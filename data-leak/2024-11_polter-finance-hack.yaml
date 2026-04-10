@@ -1,0 +1,17 @@
+source_name: '"Crypto lender Polter Finance halts operations after $12M hack"'
+source_url: https://cointelegraph.com/news/polter-finance-12m-hack-response
+date_of_breach: '2024-11-16'
+date_of_disclosure: '2024-11-16'
+category: data-leak
+notes: 'The Fantom-based Polter Finance defi project was exploited for $7 million
+  when an attacker was able to perform an oracle manipulation attack. By artificially
+  increasing the price of the $BOO token, which is a governance token used by the
+  SpookySwap project, they were then able to use that token to drain Polter''s liquidity
+  pools using a flash loan. The attacker successfully drained the entire $12 million
+  worth of tokens on the platform.The creator of the platform stated that they had
+  filed a police report with Singaporean authorities. They also attempted to contact
+  the hacker via on-chain message to negotiate the return of funds, but have not received
+  a response.
+
+
+  Total loss estimated at $12,000,000.'

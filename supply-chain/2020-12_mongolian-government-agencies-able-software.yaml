@@ -1,0 +1,20 @@
+source_name: Mongolian Government Agencies Third-Party Breach (December 2020)
+source_url: https://www.zdnet.com/article/chinese-apt-suspected-of-supply-chain-attack-on-mongolian-government-agencies/
+date_of_breach: 2020-12-01
+date_of_disclosure: '2020-12-10'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Able Software
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Chinese APT suspected of supply chain attack on Mongolian government agencies.
+  Chinese hackers have compromised the update mechanism of a chat app used by hundreds
+  of Mongolian government agencies. A Chinese state-sponsored hacking group, also
+  known as an APT, is suspected of having breached a Mongolian software company and
+  compromised a chat app used by hundreds of Mongolian government agencies. A roundup
+  of the best software and apps for Windows and Mac computers, as well as iOS and
+  Android devices, to keep yourself safe from malware and viruses. Third-party company:
+  Able Software.'

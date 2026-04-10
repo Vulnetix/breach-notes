@@ -1,0 +1,14 @@
+source_name: Schools, jail cells, hospital ICUs, and major companies like Tesla, Nissan,
+  Equinox, Cloudflare Third-Party Breach (March 2021)
+source_url: https://www.cbsnews.com/news/verkada-hack-tesla-nissan-equinox-cloudflare/
+date_of_breach: 2021-03-01
+date_of_disclosure: 2021-03-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Verkada
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party company: Verkada.'

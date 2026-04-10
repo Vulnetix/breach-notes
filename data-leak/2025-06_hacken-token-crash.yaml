@@ -1,0 +1,15 @@
+source_name: Tweet thread
+source_url: https://x.com/hackenclub/status/1936487412101742852
+date_of_breach: '2025-06-21'
+date_of_disclosure: '2025-06-21'
+category: data-leak
+notes: 'Web3 cybersecurity firm Hacken had a cybersecurity incident of their own when
+  the private key belonging to a wallet with mint access for the project''s $HAI token
+  was leaked. According to Hacken, the leak was attributable to "human error during
+  architectural changes". After a malicious party gained access to the key, they minted
+  around 900 million $HAI on the Ethereum and BNB chains, almost doubling the total
+  supply. The attacker only profited around $250,000, but they crashed the token price
+  by around 97% in the process.
+
+
+  Total loss estimated at $250,000.'

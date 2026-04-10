@@ -1,0 +1,18 @@
+source_name: Allianz Life Third-Party Breach (July 2025)
+source_url: https://www.scworld.com/brief/massive-data-breach-confirmed-by-allianz-life
+date_of_breach: 2025-07-01
+date_of_disclosure: '2025-07-28'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Massive data breach confirmed by Allianz Life. U.S. life insurance firm Allianz
+  Life had most of its 1.4 million customers' data compromised following a data breach
+  this month, reports BleepingComputer. Allianz Insurance has been a leader in fostering
+  a DevSecOps culture. Today’s columnist, Matias Madou of Secure Code Warrior, offers
+  advice on how to bring the AppSec and DevOps teams together to create a collaborative
+  DevSecOps approach.

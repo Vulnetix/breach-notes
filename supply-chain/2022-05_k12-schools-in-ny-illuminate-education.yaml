@@ -1,0 +1,19 @@
+source_name: K12 Schools in NY Third-Party Breach (May 2022)
+source_url: https://www.govinfosecurity.com/illuminate-education-mega-breach-affects-k-12-students-a-19032
+date_of_breach: 2022-05-01
+date_of_disclosure: 2022-05-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Illuminate Education
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Illuminate Education Mega-Breach Affects K-12 Students. New York state officials
+  are investigating a data breach at Illuminate Education, maker of a widely used
+  software platform for K-12 schools. More than 1 million. Data Breach Notification
+  , Incident & Breach Response , Security Operations. New York state officials have
+  launched an investigation into a data breach involving a widely used digital education
+  software platform that exposed protected, personal information for more than 1 million
+  school-age children. Third-party company: Illuminate Education.'

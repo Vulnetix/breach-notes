@@ -1,0 +1,21 @@
+source_name: Fortra GoAnywhere MFT Zero-Day Cl0p Exploitation — CVE-2023-0669, 130+ Organizations
+source_url: "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a"
+date_of_breach: 2023-01-18
+date_of_disclosure: 2023-06-01
+date_of_customer_notification: ""
+category: supply-chain
+initial_attack_vector: |-
+                       Cl0p exploited CVE-2023-0669, a pre-authentication remote code injection vulnerability in Fortra GoAnywhere MFT's administrative interface; attackers installed a web shell ('Truebot') and exfiltrated data before the vulnerability was publicly known
+cve: []
+vendor_product: Fortra GoAnywhere Managed File Transfer (MFT)
+software_package: ""
+malware: Cl0p; Truebot web shell
+supply_chain_claimed: true
+notes: |-
+  Beginning 18 January 2023, Cl0p exploited a zero-day (CVE-2023-0669) in Fortra's GoAnywhere MFT, claiming to
+  have breached approximately 130 organizations over 10 days before Fortra issued an emergency patch on 1
+  February 2023. Major victims: Community Health Systems (1M patients), Rubrik, Hitachi Energy, City of Toronto,
+  Hatch Bank, Saks Fifth Avenue, Procter & Gamble, and many others. Cl0p only stole data — no encryption
+  deployed. The GoAnywhere campaign established Cl0p's template of exploiting enterprise MFT platforms that was
+  later applied at far greater scale with MOVEit (May 2023) and Cleo (December 2024). Healthcare organizations
+  were disproportionately affected.

@@ -1,0 +1,22 @@
+source_name: San Francisco Employees' Retirement System (SFERS) Third-Party Breach
+  (June 2020)
+source_url: https://www.scmagazine.com/home/security-news/data-breach/san-francisco-benefits-program-breach-exposes-pii-on-74000/
+date_of_breach: 2020-06-01
+date_of_disclosure: '2020-06-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: 10up Inc
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'San Francisco benefits program breach exposes PII on 74,000. A breach of the
+  San Francisco Employees’ Retirement System (SFERS) may have exposed the information
+  of 74,000 members, including names, addresses, birth dates, banking and IRS data
+  as well as details on beneficiaries. An unauthorized third party on February 24
+  accessed a database that a SFERS vendor, 10up Inc., was using in a test environment,.
+  “The vendor promptly shut down the server and began an investigation,” the notification
+  said. “The vendor found no evidence that the information of SFERS members was removed
+  from its server, but at this time, it cannot confirm that the information was not
+  viewed or copied by an unauthorized party.”. Third-party company: 10up Inc.'

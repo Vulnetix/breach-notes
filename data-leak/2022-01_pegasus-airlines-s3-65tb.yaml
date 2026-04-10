@@ -1,0 +1,13 @@
+source_name: "Pegasus Airlines AWS S3 Bucket Exposure — 6.5TB Flight Records, Source Code, Crew Data"
+source_url: "https://www.verizon.com/business/resources/reports/dbir/"
+date_of_breach: "2022-01-01"
+date_of_disclosure: "2022-03-30"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Misconfigured publicly accessible Amazon S3 bucket containing Pegasus Airlines' Electronic Flight Bag (EFB) software — airline operational data systems — was discovered by SafetyDetectives researchers; the bucket required no authentication to access"
+cve: []
+vendor_product: "Pegasus Airlines AWS S3 bucket (Electronic Flight Bag / EFB data)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early 2022, SafetyDetectives researchers discovered a publicly accessible Amazon S3 bucket belonging to Pegasus Airlines — a major Turkish airline with approximately 74 million passengers per year — that contained approximately 6.5 terabytes of data. The exposed data included: Electronic Flight Bag (EFB) software source code, flight logs, navigation charts, insurance documents, crew personal information (names, addresses, passport numbers, employment details), and numerous operational files. The bucket contained approximately 23 million files. The exposure was particularly sensitive because it included crew member personal identification documents (passports) and operational aviation data that could potentially be used to understand flight operations. SafetyDetectives responsibly disclosed the findings to Pegasus Airlines, which was identified from the S3 bucket naming convention. This exposure occurred while Pegasus Airlines was already dealing with a separate data breach from a 2020 incident. The case demonstrated the persistent risk of misconfigured cloud storage at major transportation companies handling highly sensitive operational data. Aviation data exposures carry particular regulatory weight under IATA and ICAO data security standards. Pegasus secured the bucket after notification."

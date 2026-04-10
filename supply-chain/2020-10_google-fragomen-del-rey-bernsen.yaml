@@ -1,0 +1,46 @@
+source_name: Google / Fragomen Del Rey Bernsen & Loewy Law Firm Breach (October 2020)
+source_url: https://techcrunch.com/2020/10/26/fragomen-data-breach-google-employees/
+date_of_breach: "2020-09-24"
+date_of_disclosure: "2020-10-26"
+date_of_customer_notification: ""
+category: supply-chain
+initial_attack_vector: Unauthorized third-party network intrusion into law firm; single file with I-9 employment verification records accessed
+cve: []
+vendor_product: "Fragomen, Del Rey, Bernsen & Loewy"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  Fragomen, Del Rey, Bernsen & Loewy LLP — one of the largest immigration law firms
+  in the United States, with over 582 attorneys across 47 global offices — disclosed
+  a data breach affecting current and former employees of its client Google. On September
+  24, 2020, an unauthorized third party gained access to the firm's network and accessed
+  a file containing personal information of Google employees who had used the firm's
+  I-9 employment eligibility verification services.
+
+  Fragomen provides immigration law and employment verification services to major technology
+  companies and other large employers. As part of I-9 processing, the firm collects and
+  retains detailed personal documentation verifying workers' legal authorization to work
+  in the United States. The accessed file contained: full legal names, dates of birth,
+  home addresses, email addresses, phone numbers, Social Security numbers, passport
+  details, and other immigration-related identifiers from I-9 and visa processing.
+
+  The breach was publicly disclosed on October 26, 2020 — approximately one month after
+  the intrusion. Fragomen declined to specify the number of affected individuals, describing
+  it only as "a discrete number of Googlers" and former Google employees. The intrusion
+  method was not detailed beyond being characterized as unauthorized access. Google was
+  notified, and Fragomen offered complimentary identity theft protection and credit
+  monitoring services to all affected individuals.
+
+  This incident is a textbook third-party supply chain breach: Google itself was not
+  directly compromised, but its employees' sensitive PII was exposed through a vendor
+  entrusted with HR and immigration compliance functions. Immigration law firms are
+  particularly high-value targets because I-9 and visa files routinely contain passport
+  scans, Social Security numbers, and government-issued identification — some of the
+  most valuable PII for identity fraud purposes.
+
+  The number of affected individuals was never publicly disclosed by either Fragomen
+  or Google, making this one of the more opaque high-profile third-party breaches of
+  2020. The incident highlighted the security risks inherent in legal service providers
+  handling sensitive HR and immigration data, a class of vendor that had historically
+  received less security scrutiny than direct technology suppliers.

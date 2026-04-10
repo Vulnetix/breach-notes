@@ -1,0 +1,21 @@
+source_name: BugCrowd Third-Party Breach (September 2025)
+source_url: https://www.bugcrowd.com/blog/update-bugcrowd-response-to-salesloft-drift-third-party-security-event/
+date_of_breach: 2025-09-01
+date_of_disclosure: '2025-09-05'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Drift (Salesloft)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Update: Bugcrowd Response to Salesloft Drift Third-Party Security Event |
+  @Bugcrowd. We want to share an update to our blog post regarding the recent unauthorized
+  access to Salesloft’s Drift application, which was integrated with Bugcrowd’s Salesforce
+  instance. Bugcrowd is among the more than 700 companies impacted by this incident.
+  We have no reason to believe this activity affected Bugcrowd’s platform, customer
+  vulnerability information, its broader systems, […]. As we discuss further below,
+  any potential impact to Bugcrowd and its customers would be the result of the integration
+  of Salesloft’s Drift application with Bugcrowd’s Salesforce instance. Third-party
+  company: Drift (Salesloft).'

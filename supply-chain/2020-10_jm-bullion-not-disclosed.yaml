@@ -1,0 +1,20 @@
+source_name: JM Bullion Third-Party Breach (October 2020)
+source_url: https://www.bankinfosecurity.com/precious-metal-trader-jm-bullion-admits-to-data-breach-a-15294
+date_of_breach: 2020-10-01
+date_of_disclosure: 2020-10-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Precious Metal Trader JM Bullion Acknowledges Breach. In a notification letter
+  filed to the Montana Department of Justice, precious metal trader JM Bullion has
+  revealed that an unknown amount of customer information. Data Breach Notification
+  , Fraud Management & Cybercrime , Incident & Breach Response. In a notification
+  letter filed with the Montana Department of Justice, precious metal trader JM Bullion
+  has revealed that an unknown amount of customer information has been compromised
+  in a data breach that appears to have occurred during a five-month period earlier
+  this year.

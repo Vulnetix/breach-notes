@@ -1,0 +1,24 @@
+source_name: Cook County Health Third-Party Breach (October 2023)
+source_url: https://www.hipaajournal.com/cook-county-health-cyberattack-medical-transcription-firm/
+date_of_breach: 2023-10-01
+date_of_disclosure: '2023-10-16'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Perry Johnson & Associates, Inc., (PJ&A)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Cook County Health Patients Affected by Cyberattack at Medical Transcription
+  Firm. Cook County Health, which operates John H. Stroger, Jr. Hospital and Provident
+  Hospital in Chicago, IL, has been informed by one of its business Cook County Health
+  is awaiting confirmation on the patients affected by an April 2023 cyberattack at
+  its business associate. Unauthorized individuals had access to the network of AIDS
+  Alabama for 10 months. PJ&A provides medical transcription services to Cook County
+  Health and has access to patients’ protected health information. PJ&A notified Cook
+  County Health on July 21, 2023, that it was investigating a cyberattack, and confirmed
+  on July 26, 2023, that the personal information of Cook County Health patients was
+  stored on the compromised parts of its network. The forensic investigation confirmed
+  that an unauthorized third party accessed the systems where patient data was stored
+  in April 2023. Third-party company: Perry Johnson & Associates, Inc., (PJ&A).'

@@ -1,0 +1,13 @@
+source_name: "BioStar 2 Biometric Security Platform Exposure — 27.8 Million Records, 1 Million Fingerprints"
+source_url: "https://www.vpnmentor.com/blog/report-biostar2-leak/"
+date_of_breach: "2019-08-01"
+date_of_disclosure: "2019-08-14"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Security researchers at vpnMentor discovered that Suprema's BioStar 2 web-based security platform had a publicly accessible, unprotected Elasticsearch database; the database was accessible without authentication and contained the biometric and security management data for the platform's clients"
+cve: []
+vendor_product: "Suprema BioStar 2 biometric access control platform"
+software_package: "Elasticsearch"
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2019, vpnMentor security researchers Noam Rotem and Ran Locar discovered a publicly accessible Elasticsearch database belonging to Suprema — a South Korean security company whose BioStar 2 platform manages biometric access control (fingerprint and facial recognition) for facilities worldwide. The unsecured database contained approximately 27.8 million records totalling approximately 23 gigabytes of data. Most critically, the database contained actual fingerprint data (minutiae templates) for over 1 million individuals who used fingerprint scanners for facility access — and biometric data cannot be changed once compromised. Additional exposed data included: unencrypted usernames and passwords, facial recognition data and photographs, personal information (names, addresses, emails), records of security and facility access, details of facial recognition systems and CCTV installations, and mobile device information. BioStar 2 is used by over 1.5 million organisations worldwide including governments, banks, defence contractors, and corporations. UK Metropolitan Police contracted facilities used BioStar 2. The researchers notified Suprema who secured the database. The exposure of fingerprint data and facial recognition templates was particularly alarming because biometric data is immutable — unlike passwords or credit card numbers, you cannot change your fingerprints. The breach was described by privacy experts as one of the most serious biometric data exposures ever recorded."

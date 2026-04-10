@@ -1,0 +1,16 @@
+source_name: Discord Third-Party Breach (October 2025)
+source_url: "https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/"
+date_of_breach: 2025-10-01
+date_of_disclosure: 2025-10-01
+date_of_customer_notification: ""
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  In 2025, Discord experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Third-party vendor. Source reporting:
+  https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/

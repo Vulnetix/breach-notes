@@ -1,0 +1,14 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1478215817661915136
+date_of_breach: '2022-01-03'
+date_of_disclosure: '2022-01-03'
+category: other
+notes: 'Yield farming platform ArbixFinance was drained of at least $10 million, with
+  some reporting amounts up to $32 million. Some optimistic users hoped it was a glitch,
+  but the fact that the formerly-active @ArbixFinance Twitter account disappeared
+  along with their website as the funds were being drained points to a rugpull. The
+  platform had previously been audited and approved by CertiK in November, lending
+  the project credibility in the eyes of prospective users.
+
+
+  Total loss estimated at $10,000,000.'

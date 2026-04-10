@@ -1,0 +1,24 @@
+source_name: '"0xInfini Incident Analysis"'
+source_url: https://www.certik.com/resources/blog/0xinfini-incident-analysis
+date_of_breach: '2025-02-24'
+date_of_disclosure: '2025-02-24'
+category: data-leak
+notes: 'Around $49.5 million in the USDC stablecoin was stolen from the Infini crypto-focused
+  "stablecoin neobank", a fintech company that promises "financial freedom" by "democratizing
+  banking" and "redefining the future of digital finance".Infini experienced a different
+  form of "financial freedom" when attackers liberated almost $50 million from the
+  company after a thief with access to a wallet with admin rights drained tokens,
+  then swapped them for the DAI stablecoin, which unlike USDC cannot be frozen by
+  its issuer.The attack came only a day after a celebratory tweet from the company
+  in which it had announced that they had achieved $50 million in total value locked,
+  suggesting that the theft affected substantially all of the assets on the platform.
+  Despite this, they have claimed that transactions on the platform are unaffected,
+  and when someone asked how that was possible, they simply replied: "We''ve got solid
+  runway to operate. No worries."Infini attempted to contact the thief via on-chain
+  message, threatening that they had "gathered critical IP and device information"
+  about them, and asking them to return 80% of the funds in exchange for a promise
+  that Infini "will cease further tracking or analysis, and you will not face accountability".
+  However, Infini''s 48-hour deadline has come and gone without any reply.
+
+
+  Total loss estimated at $49,500,000.'

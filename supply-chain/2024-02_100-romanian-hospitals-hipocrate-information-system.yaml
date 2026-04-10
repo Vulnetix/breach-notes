@@ -1,0 +1,19 @@
+source_name: 100 Romanian hospitals Third-Party Breach (February 2024)
+source_url: https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-100-romanian-hospitals-to-go-offline/
+date_of_breach: 2024-02-01
+date_of_disclosure: '2024-02-12'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Hipocrate Information System (HIS)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Ransomware attack forces 100 Romanian hospitals to go offline. 100 hospitals
+  across Romania have taken their systems offline after a ransomware attack hit their
+  healthcare management system. Update: The article and title have been revised to
+  reflect the increasing number of impacted hospitals. The Hipocrate Information System
+  (HIS) used by hospitals to manage medical activity and patient data was targeted
+  over the weekend and is now offline after its database was encrypted. Third-party
+  company: Hipocrate Information System (HIS).'

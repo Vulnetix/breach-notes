@@ -1,0 +1,20 @@
+source_name: '"Hackers hijack npm packages with 2 billion weekly downloads in supply
+  chain attack"'
+source_url: https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/
+date_of_breach: '2025-09-08'
+date_of_disclosure: '2025-09-08'
+category: supply-chain
+notes: 'After a JavaScript developer''s NPM account was compromised in a phishing
+  attack, attackers used it to upload malicious versions of heavily used JavaScript
+  color and debugging libraries, as well as simple utilities that do things like strip-ansi
+  or determine if a variable is-arrayish. Altogether, the packages get around two
+  billion downloads per week, and the compromise is being called the "largest supply
+  chain attack in history".Once the malicious code is injected, it then intercepts
+  network traffic and API calls, scanning for cryptocurrency transactions across numerous
+  blockchains. When a network request is made to transfer crypto, the malicious code
+  intercepts it and replaces the destination with wallets controlled by the attackers.Various
+  prominent people in crypto have warned about the attack, with Ledger CTO Charles
+  Guillemet tweeting: "If you use a hardware wallet, pay attention to every transaction
+  before signing and you''re safe. If you don''t use a hardware wallet, refrain from
+  making any on-chain transactions for now."Ultimately, the exploit was not very financially
+  successful, with reports that less than $1,000 was stolen.'

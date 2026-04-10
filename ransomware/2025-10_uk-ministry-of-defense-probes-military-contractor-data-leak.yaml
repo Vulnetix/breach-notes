@@ -1,0 +1,17 @@
+source_name: UK Ministry of Defense Probes Military Contractor Data Leak (DataBreachToday)
+source_url: https://www.databreachtoday.com/uk-ministry-defense-probes-military-contractor-data-leak-a-29764
+date_of_breach: '2025-10-20'
+date_of_disclosure: '2025-10-20'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The U.K. Ministry of Defense is investigating an apparent data breach by Russian-speaking
+  ransomware hackers of a building facilities contractor with ties to the
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,13 @@
+source_name: NetSarang ShadowPad Supply Chain Backdoor — 100+ Corporate Victims
+source_url: https://www.kaspersky.com/about/press-releases/2017_shadowpad-how-attackers-hide-backdoor-in-software-used-by-hundreds-of-large-companies-around-the-world
+date_of_breach: '2017-07-01'
+date_of_disclosure: '2017-07-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Chinese APT (BRONZE ATLAS / Winnti Group) compromised NetSarang's software build infrastructure and inserted the ShadowPad modular backdoor into NetSarang's legitimate server management software products (Xmanager, Xshell, Xftp, Xlpd) before code signing; the signed trojanized software was distributed through NetSarang's official website
+cve: []
+vendor_product: NetSarang Xmanager Enterprise / Xshell / Xftp (server management software)
+software_package: ''
+malware: ShadowPad modular backdoor
+supply_chain_claimed: true
+notes: In July 2017, Kaspersky Lab researchers discovered that NetSarang Computer's server management software suite — used by hundreds of large enterprises globally for SSH, telnet, and file transfer management — had been trojanized with ShadowPad, a sophisticated modular backdoor. NetSarang is a South Korean company whose products (Xmanager, Xshell, Xftp, Xlpd) are used by approximately 500,000 enterprise organizations for remote server management. The attackers (attributed to BRONZE ATLAS / Winnti Group, a China-linked APT) compromised NetSarang's build process and embedded ShadowPad in a legitimately signed .nls library (nssock2.dll) that was distributed as part of the official software update. ShadowPad decrypts a plugin from encrypted strings and connects to command-and-control infrastructure. Kaspersky detected active ShadowPad infections at a Hong Kong financial institution. NetSarang issued an emergency update and software patch on 4 August 2017 — 17 days after the malicious version (Build 1234) was released. Victims included corporations in financial services, pharmaceuticals, telecommunications, and government sectors. The ShadowPad technique was later used in additional supply chain campaigns. The attack predated and inspired similar vendor software compromise techniques, including NotPetya's MeDoc distribution and later more prominent attacks.

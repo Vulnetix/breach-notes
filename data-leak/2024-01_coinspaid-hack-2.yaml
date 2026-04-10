@@ -1,0 +1,13 @@
+source_name: Tweet by Cyvers
+source_url: https://twitter.com/CyversAlerts/status/1743639524448587799
+date_of_breach: '2024-01-06'
+date_of_disclosure: '2024-01-06'
+category: data-leak
+notes: 'The crypto payments platform CoinsPaid was hacked for the second time in six
+  months. This time, around $7.5 million in various tokens was stolen.In July 2023,
+  an attacker stole $37.3 million from the CoinsPaid platform. CoinsPaid said at the
+  time that they suspected the attacker was the North Korean Lazarus hacking group,
+  which has been a prolific perpetrator of cryptocurrency thefts.
+
+
+  Total loss estimated at $7,500,000.'

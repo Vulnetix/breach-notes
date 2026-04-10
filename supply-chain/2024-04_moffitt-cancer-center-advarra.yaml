@@ -1,0 +1,19 @@
+source_name: Moffitt Cancer Center Third-Party Breach (April 2024)
+source_url: https://www.hipaajournal.com/bianlian-cyberattack-tennessee-eye-clinic-network/
+date_of_breach: 2024-04-01
+date_of_disclosure: '2024-04-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Advarra.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'BianLian Threat Group Claims Responsibility for Cyberattack on Tennessee Eye
+  Clinic Network. Politzer and Durocher, PLC, which does business as Optometric Physicians
+  of Middle Tennessee (OPMT), has recently reported a hacking incident to the HHS
+  The BianLian threat group has claimed responsibility for a cyberattack on Optometric
+  Physicians of Middle Tennessee, patient data was stolen in a cyberattack on Somerset
+  Dental Las Vegas, and a breach at Advarra has affected Moffitt Cancer Center patients.
+  Third-party company: Advarra..'

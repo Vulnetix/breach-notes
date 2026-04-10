@@ -1,0 +1,18 @@
+source_name: Piedmont Health Services Third-Party Breach (March 2021)
+source_url: https://www.thetimesnews.com/story/news/2021/03/25/data-breach-reported-piedmont-health-services/6991961002/
+date_of_breach: 2021-03-01
+date_of_disclosure: 2021-03-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: PeakTPA
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Data breach reported at Piedmont Health Services. We have used your information
+  to see if you have a subscription with us, but did not find one. Please use the
+  button below to verify an existing account or to purchase a new subscription. Your
+  current subscription does not provide access to this content. Please use the button
+  below to manage your account. [](https://www.thetimesnews.com/users/admin/service/purchase/?serviceid=11860&referer_url=https%3A%2F%2Fwww.thetimesnews.com%2Fsite%2Fforms%2Fsubscription_services%2F).
+  Third-party company: PeakTPA.'

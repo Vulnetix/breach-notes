@@ -1,0 +1,13 @@
+source_name: SolarWinds Orion SUNBURST Supply Chain Attack — Russia SVR, 18,000 Organizations
+source_url: https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-352a
+date_of_breach: '2020-12-01'
+date_of_disclosure: '2020-12-01'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Russia SVR/Cozy Bear/APT29 compromised SolarWinds' Orion software build pipeline and injected the SUNBURST backdoor into legitimate Orion updates, signed with SolarWinds' code signing certificate and distributed to ~18,000 organizations
+cve: []
+vendor_product: SolarWinds Orion IT monitoring platform
+software_package: ''
+malware: SUNBURST, TEARDROP, RAINDROP
+supply_chain_claimed: true
+notes: 'See comprehensive record: data/supply-chain/2020-12_solarwinds-sunburst.yaml. The SolarWinds Orion supply chain attack is the defining supply chain cyber incident of the decade — Russia''s SVR compromised a trusted IT monitoring vendor to gain simultaneous access to 18,000 organizations including US federal agencies, Microsoft, Intel, and Cisco. The attack remained undetected for approximately 9 months.'

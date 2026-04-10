@@ -1,0 +1,18 @@
+source_name: Hanover County Third-Party Breach (January 2019)
+source_url: https://www.hanovercounty.gov/DocumentCenter/View/3183/Hanover-County-Credit-Card-Notice-PDF
+date_of_breach: 2019-01-01
+date_of_disclosure: 2019-01-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Custom404 • Hanover County, VA • CivicEngage. This website is AudioEye enabled
+  and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift
+  + =". Some assistive technologies may require the use of a passthrough function
+  before this keystroke. For more information, activate the button labeled "Explore
+  your accessibility options". [](http://www.hanovercounty.gov/DocumentCenter/View/3183/Hanover-County-Credit-Card-Notice-PDF).
+  Third-party company: Click2Gov.'

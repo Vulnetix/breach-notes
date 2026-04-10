@@ -1,0 +1,21 @@
+source_name: City of Saint John Third-Party Breach (December 2018)
+source_url: https://www.theglobeandmail.com/canada/article-as-many-as-6000-people-may-be-affected-by-data-breach-in-saint-john/
+date_of_breach: 2018-12-01
+date_of_disclosure: '2018-12-23'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Click2Gov
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'As many as 6,000 people may be affected by data breach in Saint John parking
+  ticket system. The third-party software product Click2Gov, run by CentralSquare
+  Technologies, was hacked. As many as 6,000 people in Saint John, N.B., could have
+  had their personal information exposed, an analyst group said as the city announced
+  it was one of dozens of municipalities affected by a data breach to its online parking
+  ticket payment system. The city said it learned about a breach to the third-party
+  software product Click2Gov, run by CentralSquare Technologies. . The product gives
+  customers the option to pay parking tickets through the city’s website. Third-party
+  company: Click2Gov.'

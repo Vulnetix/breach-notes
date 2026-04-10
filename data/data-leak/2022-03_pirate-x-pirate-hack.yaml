@@ -1,0 +1,18 @@
+source_name: Tweet thread by BlockSecTeam
+source_url: https://twitter.com/BlockSecTeam/status/1501474711599198211
+date_of_breach: '2022-03-09'
+date_of_disclosure: '2022-03-09'
+category: data-leak
+notes: 'The Pirate X Pirate blockchain gaming platform was exploited, with an attacker
+  selling of more than 9.6 million $PXP. They were able to dump the tokens into the
+  market for a profit of around 212 BNB ($78,000). In a blog post following the incident,
+  Pirate X Pirate wrote, "Such attack could happen due to the team''s utter carelessness
+  to launch the conversion feature despite of its vulnerability. We deeply regret
+  bypassing the inspection that should have been done by a white hat hacker as we
+  intended to roll out the feature long-suspended as fast as we could. We have decided
+  to dismiss our current developer team and are currently in the process of recruiting
+  a new team to assume the responsibilities." They also announced that they had bought
+  back the total $PXP that were stolen, and would be undergoing an audit.
+
+
+  Total loss estimated at $78,000.'

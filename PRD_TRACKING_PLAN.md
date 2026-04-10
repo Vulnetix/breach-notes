@@ -112,6 +112,12 @@ Add breach batch N: X new incidents (summary of categories/themes)
 
 ### Confirmed Working (automated)
 
+- `scripts/import-web3isgoinggreat.py`
+  - Source: `https://www.web3isgoinggreat.com/web1`
+  - Method: parse `__NEXT_DATA__` JSON (Next.js SSR), follow cursor pagination (`?cursor=YYYY-MM-DD-N&direction=next`) until `hasNext: false`
+  - Result: full site archive of crypto/DeFi/NFT/blockchain hacks, scams, rug-pulls, collapses — 2,200+ incidents from 2021–2026
+  - Run: `uv run --with pyyaml --with requests --with beautifulsoup4 python scripts/import-web3isgoinggreat.py`
+
 - `scripts/import-breaches-cloud.py`
   - Source: `https://www.breaches.cloud/incidents/index.xml`
   - Method: RSS/XML parse
@@ -152,6 +158,21 @@ Run from repo root to update README.md with correct stats after import batches:
 ```bash
 ./analyze/analyze
 ```
+
+## Repository Status (Updated 2026-04-10)
+
+- **Total records**: 3,425 breach incidents
+- **By category**: data-leak (1,078), other (1,333), supply-chain (769), ransomware (129), credential-theft (116)
+- **Coverage**: 1996–2026
+- **Sources ingested**: BlackKite third-party timeline (687 supply-chain stubs), Web3 Is Going Great full archive (2,200+ crypto/DeFi incidents via paginated scraper), DataBreachToday sitemap, breaches.cloud RSS, manually curated major incidents
+
+## Confirmed Working Automation Sources
+
+- `scripts/import-web3isgoinggreat.py`
+  - Source: `https://www.web3isgoinggreat.com/web1` (Next.js SSP endpoint, paginated with cursor)
+  - Method: parse `__NEXT_DATA__` JSON from page HTML; follow `cursor` pagination via `?cursor=YYYY-MM-DD-N&direction=next`; create YAML per entry skipping already-existing files
+  - Result: 2,200+ crypto/DeFi/NFT/blockchain incidents ingested across data-leak, supply-chain, and other categories
+  - Run: `uv run --with pyyaml --with requests --with beautifulsoup4 python scripts/import-web3isgoinggreat.py`
 
 ## Immediate Next Automation Priorities
 

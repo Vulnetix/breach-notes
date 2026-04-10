@@ -1,0 +1,48 @@
+source_name: PNI Digital Media Photo Center Breach (Krebs on Security, NBC News, SC Magazine)
+source_url: https://krebsonsecurity.com/2015/07/cvs-probes-card-breach-at-online-photo-unit/
+date_of_breach: '2015-06-01'
+date_of_disclosure: '2015-07-17'
+date_of_customer_notification: '2015-09-11'
+category: supply-chain
+initial_attack_vector: Malware installed on PNI Digital Media servers used to capture and exfiltrate customer payment card data and personal information from online photo center transactions
+cve: []
+vendor_product: PNI Digital Media (online photo printing platform)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  In June and July 2015, attackers compromised servers operated by PNI Digital
+  Media, a Canadian company (subsidiary of Staples) that provided online photo
+  printing and processing services to major retailers. The attackers installed
+  malware on PNI's systems that captured and exfiltrated customer data as it was
+  entered on the photo center websites, affecting an estimated 300,000 or more
+  customer records.
+
+  The breach impacted online photo services for at least six major retailers:
+  CVS, Costco, Sam's Club, Walmart Canada, Rite Aid, and British supermarket
+  chain Tesco. On July 17, 2015, CVS was the first to take down its CVSPhoto.com
+  site, posting a warning that credit card data may have been compromised. Costco,
+  Walmart Canada, and Rite Aid followed by suspending their online photo services
+  within days.
+
+  Compromised data included customers' names, physical addresses, phone numbers,
+  email addresses, photo account usernames and passwords, and credit/debit card
+  information (card numbers, expiration dates, and security codes). The class
+  action lawsuit established that the breach window extended from June 2014
+  through July 2015 for transactions made through PNI-operated photo websites.
+
+  CVS formally confirmed the breach on September 11, 2015, notifying customers
+  that "unauthorized acquisition of data" had occurred on CVSPhoto.com. The
+  affected retailers offered identity monitoring and credit protection services
+  to impacted customers.
+
+  Multiple class action lawsuits were filed against CVS, Costco, Rite Aid, and
+  PNI Digital Media. On December 1, 2017, a settlement covering CVS, Costco, and
+  Rite Aid photo customers was granted final approval. The affected photo center
+  websites were rebuilt with enhanced security measures and gradually re-launched
+  beginning in September 2015.
+
+  The incident highlighted the systemic risk of third-party vendor breaches, as a
+  single compromise at PNI cascaded across multiple major retail brands
+  simultaneously, affecting millions of customers who had no visibility into which
+  company actually processed their photo orders.

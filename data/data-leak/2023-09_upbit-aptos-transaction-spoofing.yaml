@@ -1,0 +1,15 @@
+source_name: Tweet by Definalist
+source_url: https://twitter.com/definalist/status/1705900412208029894
+date_of_breach: '2023-09-24'
+date_of_disclosure: '2023-09-24'
+category: data-leak
+notes: Upbit, a major South Korean cryptocurrency exchange, suddenly suspended deposits
+  and withdrawals of the Aptos $APT token after some users were able to deposit and
+  withdraw fake versions of the token that were intended to spoof the original. Because
+  of a bug in how Upbit verified tokens, transfers of the spoofed token were identified
+  as transfers of the native Aptos token, which could have caused a massive loss if
+  users began redeeming the fake Aptos tokens as though they were real.However, a
+  bug on the part of the counterfeiter prevented massive losses. The spoofer used
+  only six decimal places instead of eight, meaning that those who tried to redeem
+  the fake tokens only received $250 instead of $25,000.Upbit later re-enabled Aptos
+  transactions after patching the bug.

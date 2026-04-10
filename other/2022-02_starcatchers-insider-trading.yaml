@@ -1,0 +1,21 @@
+source_name: Tweet thread by MetaMehdee
+source_url: https://twitter.com/mehdeegbr/status/1511328109446168576
+date_of_breach: '2022-02-26'
+date_of_disclosure: '2022-02-26'
+category: other
+notes: 'The Starcatchers NFT project sold NFTs which did not immediately show the
+  image associated with them, but would instead be revealed at a later date. An observant
+  collector noticed that several of the NFTs in the project sold for considerably
+  higher than others. Following the reveal, it turned out that these were the rarest
+  NFTs in the project. One of the NFTs (#1755, pictured) has been described as the
+  "project mascot", and later sold back to the Starcatchers team for 30 ETH (~$83,400).It
+  turned out that "Beutrec", a co-founder and the primary artist behind the collection,
+  had used his access to the project metadata to identify and buy the rarest NFTs
+  in the collection. Although he attempted to use distinct wallets to perform the
+  transactions, they were trivially linked back to him. He made around 50 ETH (~$140,000)
+  in profit from flipping the NFTs he bought with insider knowledge. After his actions
+  were revealed in April 2022, Beutrec''s new NFT project, Boki, announced that Beutrec
+  would no longer be a part of their team.
+
+
+  Total loss estimated at $140,000.'

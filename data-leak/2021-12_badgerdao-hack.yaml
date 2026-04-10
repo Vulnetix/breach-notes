@@ -1,0 +1,12 @@
+source_name: '"Hacked Cryptocurrency Platform Begs Hacker to Please Return $119 Million"'
+source_url: https://www.vice.com/en/article/v7dv4a/hacked-cryptocurrency-platform-begs-hacker-to-please-return-dollar119-million
+date_of_breach: '2021-12-01'
+date_of_disclosure: '2021-12-01'
+category: data-leak
+notes: 'A hacker was able to use a compromised Cloudflare API key to inject malicious
+  code into the BadgerDAO platform via Cloudflare Workers. They then siphoned currency
+  of various kinds, equivalent to approximately $120 million, out of user accounts
+  over approximately two weeks before being discovered.
+
+
+  Total loss estimated at $120,000,000.'

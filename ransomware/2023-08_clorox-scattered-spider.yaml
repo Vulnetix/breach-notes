@@ -1,0 +1,13 @@
+source_name: "Clorox Cyberattack — $356 Million Business Impact, Production Disruption"
+source_url: "https://investors.thecloroxcompany.com/news-releases/news-release-details/clorox-provides-update-cyberattack"
+date_of_breach: "2023-08-11"
+date_of_disclosure: "2023-08-14"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "ALPHV/BlackCat ransomware affiliates (Scattered Spider) gained access to Clorox's network; the attack used the same social engineering techniques deployed against MGM and Caesars — helpdesk vishing and MFA fatigue to impersonate employees and gain network access"
+cve: []
+vendor_product: "Clorox Company IT infrastructure"
+software_package: ""
+malware: "ALPHV/BlackCat ransomware"
+supply_chain_claimed: false
+notes: "On 11 August 2023, Clorox Company — one of the world's largest consumer goods manufacturers (Clorox, Hidden Valley, Burt's Bees, Kingsford charcoal) — detected a cyberattack and took systems offline, significantly disrupting production and order processing. Clorox disclosed the attack to the SEC on 14 August 2023. The company was unable to process orders manually at the required scale, resulting in significant product shortages across retail stores. Clorox reported in October 2023 that the attack caused approximately $356 million in financial damage — one of the largest quantified losses from a ransomware attack on a consumer goods manufacturer. The losses included: $217 million in lost net sales (approximately 28% decline in Q1 FY2024 revenue), $94 million in increased supply chain costs, and $45 million in direct attack costs. The attack disrupted Clorox's order management systems, which cascaded to production scheduling and distribution. The attack was attributed to the ALPHV/BlackCat Scattered Spider affiliates based on TTPs consistent with contemporaneous attacks on MGM and Caesars. Clorox did not disclose customer data impacts. The company spent several months fully recovering operations. The SEC disclosure was among the first under the new SEC cybersecurity incident rules that required rapid disclosure of material cybersecurity events."

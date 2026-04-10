@@ -1,0 +1,25 @@
+source_name: Lowe's Driver Records Breach via SafetyFirst E-Driver File Platform
+source_url: https://www.csoonline.com/article/2158122/identity-management/vendor-error-forces-lowes-to-issue-breach-notification-letters.html
+date_of_breach: '2014-07-01'
+date_of_disclosure: '2014-05-22'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: SafetyFirst's E-Driver File online database system — used by
+  Lowe's to store driver qualification records for commercial vehicle operators —
+  had a configuration error or vulnerability that exposed driver records to unauthorized
+  access
+cve: []
+vendor_product: SafetyFirst E-Driver File (driver management platform)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'In a letter to both current and former employees, Lowe’s says that personal
+  information might have been compromised after a third-party vendor exposed it to
+  the public. In a letter to both current and former employees, Scott Purvis, Vice
+  President of Human Resources at Lowe’s, says that personal information might have
+  been compromised after a third-party vendor exposed it to the public. According
+  to the letter , the personal information of current and former drivers for the company,
+  including names, addresses, birthdays, Social Security numbers, driver’s license
+  numbers, and other driving record information, were exposed during the incident.
+  Black Kite timeline context: Data breached: Unknown. Use of third party: Unknown.
+  Third-party company: Third-party vendor.'

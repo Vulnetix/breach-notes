@@ -1,0 +1,20 @@
+source_name: Qantas Airways Limited Third-Party Breach (July 2025)
+source_url: https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/
+date_of_breach: 2025-07-01
+date_of_disclosure: '2025-07-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Qantas confirms data breach impacts 5.7 million customers. Australian airline
+  Qantas has confirmed that 5.7 million people have been impacted by a recent data
+  breach, in which threat actors stole customers' data. On July 1st, Qantas disclosed
+  that it had detected a cyberattack the previous day on a third-party platform used
+  by a Qantas airline contact centre. While the company did not share any further
+  details, BleepingComputer learned that the attack shared similarities with other
+  attacks on the aviation industry linked to threat actors classified as Scattered
+  Spider.

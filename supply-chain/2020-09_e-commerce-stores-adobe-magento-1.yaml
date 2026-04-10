@@ -1,0 +1,18 @@
+source_name: E-commerce stores Third-Party Breach (September 2020)
+source_url: https://www.bankinfosecurity.com/payment-card-skimming-hits-2000-e-commerce-sites-a-15000
+date_of_breach: 2020-09-01
+date_of_disclosure: 2020-09-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Adobe Magento 1
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Payment Card Skimming Hits 2,000 E-Commerce Sites. From Friday through Monday,
+  malicious JavaScript skimming code was injected into nearly 2,000 e-commerce sites
+  that were running an older version of Adobe''s Magento. See Also: Intelligent Banking
+  in the Age of AI: Unifying Fraud, Security, and Compliance. The hackers may have
+  used a zero-day exploit for Magneto that was being sold on a darknet forum, the
+  security firm reports. Third-party company: Adobe Magento 1.'

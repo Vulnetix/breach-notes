@@ -1,0 +1,20 @@
+source_name: Chubb Third-Party Breach (March 2020)
+source_url: https://techcrunch.com/2020/03/26/chubb-insurance-breach-ransomware/
+date_of_breach: 2020-03-01
+date_of_disclosure: '2020-03-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Cyber insurer Chubb had data stolen in Maze ransomware attack. Chubb, a major
+  cybersecurity insurance provider for businesses hit by data breaches, has itself
+  become a target of a data breach. The insurance giant told TechCrunch it was investigating
+  a “security incident” involving the unauthorized access to data belonging to an
+  unnamed third-party. Chubb spokesperson Jeffrey Zack said the company had “no evidence”
+  the incident affected Chubb’s own network and that its network “remains fully operational.”.
+  But the spokesperson declined to comment further or answer any of our questions,
+  including if its customers were affected.

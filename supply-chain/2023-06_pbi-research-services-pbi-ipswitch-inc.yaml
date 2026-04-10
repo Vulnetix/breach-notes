@@ -1,0 +1,20 @@
+source_name: PBI Research Services (PBI) Third-Party Breach (June 2023)
+source_url: https://www.bleepingcomputer.com/news/security/moveit-breach-impacts-genworth-calpers-as-data-for-32-million-exposed/
+date_of_breach: 2023-06-01
+date_of_disclosure: '2023-06-23'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Ipswitch, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'MOVEIt breach impacts Genworth, CalPERS as data for 3.2 million exposed. PBI
+  Research Services (PBI) has suffered a data breach with three clients disclosing
+  that the data for 4.75 million people was stolen in the recent MOVEit Transfer data-theft
+  attacks. These attacks started on May 27th , 2023, when the Clop ransomware gang
+  began exploiting a MOVEit Transfer zero-day vulnerability to allegedly steal data
+  from hundreds of companies. Over the past week, the Clop gang began extorting companies
+  by slowly listing impacted organizations on its data leak site as they attempt to
+  pressure victims to pay a ransom demand. Third-party company: Ipswitch, Inc..'

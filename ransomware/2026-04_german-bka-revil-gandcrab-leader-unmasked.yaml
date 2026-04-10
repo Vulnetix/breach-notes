@@ -1,0 +1,13 @@
+source_name: "German BKA Police Unmask REvil Ransomware Leader — GandCrab Successor Identified"
+source_url: "https://www.databreachtoday.com/breach-roundup-german-police-expose-revil-gandcrab-boss-a-31382"
+date_of_breach: "2018-01-01"
+date_of_disclosure: "2026-04-09"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "REvil (Sodinokibi) is a ransomware-as-a-service (RaaS) operation that evolved from the GandCrab RaaS (which ran 2018-2019 and claimed revenues of over $2 billion); the REvil core developer and administrator was identified through a multi-year international law enforcement investigation involving German BKA, FBI, Europol, and partner agencies"
+cve: []
+vendor_product: "Multiple global victims of REvil/Sodinokibi and GandCrab ransomware (2018-2021)"
+software_package: ""
+malware: "REvil (Sodinokibi), GandCrab"
+supply_chain_claimed: false
+notes: "In April 2026, German Federal Criminal Police (BKA — Bundeskriminalamt) announced that it had, in conjunction with international law enforcement partners, identified and publicly named a key leader and developer behind the REvil ransomware group and its predecessor GandCrab. GandCrab operated from January 2018 to May 2019 and was one of the most prolific RaaS operations in history, claiming revenues of over $2 billion from victims worldwide and powering the evolution of modern ransomware-as-a-service business models. GandCrab's operators announced retirement in May 2019 after claiming their ransoms had made them sufficient income. REvil (Sodinokibi), which emerged shortly after GandCrab's closure and is widely believed to share core developers, went on to conduct some of the most high-profile ransomware attacks ever: the Travelex attack ($6M ransom), the Kaseya VSA attack (1,500+ businesses, $70M demand), the JBS Foods attack ($11M paid), and many others. Previous law enforcement actions had already apprehended affiliates and some operators: Yaroslav Vasinskyi (Rabotnik) was extradited to the US and convicted in 2023, and Yevgeniy Polyanin was indicted. The April 2026 German BKA identification of the core REvil/GandCrab leader/developer represents a significant additional law enforcement achievement in dismantling one of cybercrime's most historically significant ransomware operations. The identification follows the BKA's established pattern of unmasking cybercriminals through long-term financial tracking, forum analysis, and intelligence-sharing with US and Eastern European partners."

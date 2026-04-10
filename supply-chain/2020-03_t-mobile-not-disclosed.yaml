@@ -1,0 +1,17 @@
+source_name: T-Mobile Third-Party Breach (March 2020)
+source_url: https://www.androidcentral.com/t-mobile-warns-customers-about-recent-data-breach
+date_of_breach: 2020-03-01
+date_of_disclosure: '2020-03-05'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'T-Mobile warns customers about a recent data breach. T-Mobile this week notified
+  customers about a data breach. According to the alert, a malicious third-party gained
+  access to T-Mobile employee accounts and used that access to acquire. Caught in
+  a loop: Google''s March update causes booting issues for its Pixels. Google''s $135M
+  Android data settlement is getting closer, and you can now set your payout method.'

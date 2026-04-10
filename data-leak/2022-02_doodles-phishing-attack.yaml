@@ -1,0 +1,13 @@
+source_name: Tweet by Doodles
+source_url: https://twitter.com/doodles/status/1497669611017359363
+date_of_breach: '2022-02-26'
+date_of_disclosure: '2022-02-26'
+category: data-leak
+notes: The enormously popular "Doodles" NFT project announced on February 26 that
+  their Discord server had been "penetrated by a hacked bot", and that all messages
+  should be ignored. They wrote, "Our lawyers, friends at discord, and the community
+  are helping us". Later that day they announced that they had regained control of
+  the server, and that they would compensate community members affected by the attack.
+  It wasn't clear the scale of losses that may have been suffered by members of the
+  Discord who believed that messages coming from an attacker were from the official
+  team.

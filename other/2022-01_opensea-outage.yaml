@@ -1,0 +1,13 @@
+source_name: '"People Can’t See Some NFTs on Twitter, Crypto Wallets After OpenSea
+  Goes Down"'
+source_url: https://www.vice.com/en/article/g5qjej/people-cant-see-some-nfts-in-crypto-wallets-after-opensea-goes-down
+date_of_breach: '2022-01-20'
+date_of_disclosure: '2022-01-20'
+category: other
+notes: Popular NFT marketplace OpenSea suffered an outage that had ripple effects
+  throughout several major services using their APIs, including the browser extension
+  crypto wallet MetaMask. The same day, Twitter announced it was rolling out its support
+  for NFT profile pictures, an announcement that was dampened a bit by collection
+  pages failing to load due to the outage. The widespread effects of the outage highlighted
+  points by many web3 critics, that the ecosystem is hardly as decentralized in practice
+  as it claims to be.

@@ -1,0 +1,20 @@
+source_name: Humana Third-Party Breach (January 2019)
+source_url: https://securityboulevard.com/2019/01/humana-informs-customers-of-third-party-security-incident/
+date_of_breach: 2019-01-01
+date_of_disclosure: '2019-01-09'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: LCP Corp.
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Humana has notified customers of a third-party security incident that might
+  have exposed some of their personal information. According to a breach notification
+  letter obtained by DataBreaches.net, the for-profit American health insurance company
+  learned on 25 October 2018 that bad actors had gained access to the system credentials
+  of some employees at Bankers Life, one … Read More The post Humana Informs Customers
+  of Third-Party Security Incident appeared first on The State of Security. Home »
+  Cybersecurity » Data Security » Humana Informs Customers of Third-Party Security
+  Incident. Third-party company: LCP Corp..'

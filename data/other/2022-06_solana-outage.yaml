@@ -1,0 +1,12 @@
+source_name: Tweet by CryptoWhale
+source_url: https://twitter.com/CryptoWhale/status/1532052583216447491
+date_of_breach: '2022-06-01'
+date_of_disclosure: '2022-06-01'
+category: other
+notes: Solana is one of the more popular proof-of-stake blockchains, and is often
+  trotted out as an alternative to Ethereum when people bring up Ethereum's environmental
+  impact, slowness, or high transaction costs.However, Solana has been plagued with
+  stability issues, and on June 1 it was taken offline by its developers for what
+  CryptoWhale says was the eighth time this year. This occurred only days after an
+  incident in which the Solana blockchain clock drifted significantly behind real-world
+  time.

@@ -1,0 +1,23 @@
+source_name: Phipps Conservatory Third-Party Breach (September 2020)
+source_url: https://triblive.com/local/regional/phipps-conservancy-says-members-safe-despite-data-breach-that-disclose-some-info/
+date_of_breach: 2020-09-01
+date_of_disclosure: '2020-09-03'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: BlackBaud
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Phipps Conservancy says members safe despite data breach that disclosed some
+  info. Phipps Conservatory and Botanical Gardens in Pittsburgh&rsquo;s Oakland section
+  contacted its members this week to report a data breach from one of its contractors.
+  For nearly two decades, Phipps has used , Blackbaud, Inc.&rsquo;s donor data management
+  software, said Joe Reed, Phipps director of marketing. Blackbaud, of Charleston,
+  S.C. calls. Phipps Conservatory and Botanical Gardens in Pittsburgh’s Oakland section
+  contacted its members this week to report a data breach from one of its contractors.
+  For nearly two decades, Phipps has used , Blackbaud, Inc.’s donor data management
+  software, said Joe Reed, Phipps director of marketing. Blackbaud, of Charleston,
+  S.C. calls itself as the world’s leading cloud software company. Third-party company:
+  BlackBaud.'

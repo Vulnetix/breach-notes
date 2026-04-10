@@ -1,0 +1,24 @@
+source_name: '"U.S. charges fraud in Mango crypto manipulation case"'
+source_url: https://www.reuters.com/legal/us-charges-accused-mango-crypto-manipulator-with-fraud-2022-12-27/?taid=63ab83809b50560001124bc4
+date_of_breach: '2022-12-27'
+date_of_disclosure: '2022-12-27'
+category: other
+notes: 'In October, an exploiter was able to manipulate collateral prices to extract
+  tokens from the Mango Markets defi project, ultimately resulting in a $116 million
+  loss for the project. The exploiter then tried to create a governance proposal in
+  which he would agree to return some of the stolen funds in exchange for an agreement
+  that the protocol would not try to freeze the tokens or pursue criminal charges.It
+  quickly became apparent that a man named Avraham Eisenberg was behind the exploit.
+  In screenshots leaked from a conversation in a private Discord channel shortly before
+  the attack, Eisenberg talked about the exploit he had planned. "I''m investigating
+  a platform that could maybe lead to a 9 figure payday. Should I do it?" he wrote.
+  When someone replied, "unles[s] it is highly illegal", Eisenberg responded: "Are
+  there rules these days?" When someone suggested responsibly disclosing the vulnerability
+  to the protocol, Eisenberg refused, saying the bug bounty was likely to be too small.Eisenberg
+  later owned up to the attack, tweeting a thread in which he wrote that he "was involved
+  with a team that operated a highly profitable trading strategy last week. I believe
+  all of our actions were legal open market actions, using the protocol as designed,
+  even if the development team did not fully anticipate all the consequences of setting
+  parameters the way they are."The feds apparently disagreed with his evaluation,
+  and arrested Eisenberg in Puerto Rico on December 26. He is charged with commodities
+  fraud and commodities manipulation.'

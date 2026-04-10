@@ -1,0 +1,13 @@
+source_name: "WannaCry NHS Attack — 80 of 236 NHS Trusts Hit, £92M Cost"
+source_url: "https://www.nao.org.uk/wp-content/uploads/2017/10/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf"
+date_of_breach: "2017-05-12"
+date_of_disclosure: "2017-05-12"
+date_of_customer_notification: "2017-05-12"
+category: "ransomware"
+initial_attack_vector: "WannaCry ransomware worm exploited the EternalBlue NSA exploit (CVE-2017-0144) targeting unpatched Windows XP and Windows 7 systems across NHS organisations; many NHS trusts had not applied the March 2017 MS17-010 patch and were running legacy Windows XP systems no longer supported by Microsoft"
+cve: ["CVE-2017-0144", "CVE-2017-0145"]
+vendor_product: "NHS England / NHS Scotland IT infrastructure (Windows XP/7 systems)"
+software_package: ""
+malware: "WannaCry ransomware"
+supply_chain_claimed: false
+notes: "On 12 May 2017, WannaCry ransomware caused the most significant cyberattack on the UK National Health Service in history. Of the 236 NHS Trusts in England, 80 were affected — about 34% of all NHS trusts. Additionally, 595 GP practices were affected. Key findings of the National Audit Office (NAO) investigation: NHS organisations had been warned about the vulnerability in March 2017 but many had not applied patches. NHS Digital had issued a critical alert about the EternalBlue vulnerability but lacked legal authority to compel patching. At least one-third of NHS trusts in England were running Windows XP systems that no longer received security patches. 19,494 medical appointments were cancelled, including cancer treatments and non-urgent surgeries. Ambulances were diverted from affected hospitals in some areas. Five hospitals had to divert emergency admissions. Key facilities affected included Barts Health NHS Trust (the largest NHS Trust in England), Queen's Medical Centre Nottingham, and Royal London Hospital. Patients were turned away or redirected. The total cost to the NHS was estimated at £92 million (£19M in IT costs to recover, £73M in lost output). NHS Digital subsequently launched a major cybersecurity improvement programme. The attack could have been prevented with basic cyber hygiene — patching and disabling SMBv1. The NHS had not previously registered with NCSC for assistance that was available."

@@ -1,0 +1,20 @@
+source_name: Blue Cross Blue Shield of Arizona, Clover Health, Kaiser Permanente,
+  Point32Health, UPMC Health Plan, and 33 healthcare organizations Third-Party Breach
+  (April 2022)
+source_url: https://1touchpoint.com/notice-of-data-event
+date_of_breach: 2022-04-01
+date_of_disclosure: '2023-06-08'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: OneTouchPoint
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Local Marketing Automation & Brand Harmony | OneTouchPoint. Empower local
+  teams with OneTouchPoint. Our OTP One platform ensures brand compliance while accelerating
+  speed-to-market for multi-location brands. Learn the four essential elements of
+  effective multichannel marketing strategies for financial services institutions.
+  Marketing leaders in the manufacturing industry are balancing growing price. Third-party
+  company: OneTouchPoint.'

@@ -1,0 +1,20 @@
+source_name: "Mercedes-Benz USA Cloud Vendor Breach — 1.6M Records Exposed, SSNs and Credit Card Data for ~1,000"
+source_url: "https://www.bleepingcomputer.com/news/security/mercedes-benz-data-breach-exposes-ssns-credit-card-numbers/"
+date_of_breach: "2014-01-01"
+date_of_disclosure: "2021-06-11"
+date_of_customer_notification: "2021-06-11"
+category: supply-chain
+initial_attack_vector: "Misconfigured cloud storage platform — an unnamed vendor left a dataset of Mercedes-Benz customer records unsecured and accessible via the internet"
+cve: []
+vendor_product: "Unnamed cloud storage vendor (Mercedes-Benz USA)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  Mercedes-Benz USA (MBUSA) disclosed on June 11, 2021, that a vendor had inadvertently left sensitive customer and prospective buyer data accessible on a cloud storage platform. The data was collected via dealer and Mercedes-Benz USA websites between January 1, 2014 and June 19, 2017. The exposure was discovered and reported to Mercedes-Benz by an external security researcher; the vendor was promptly notified and secured the data.
+
+  The overall dataset encompassed approximately 1.6 million customer records assessed during the investigation. The majority of records contained relatively lower-sensitivity contact and vehicle interest data: names, addresses, email addresses, phone numbers, and vehicle inquiry information. However, a subset of fewer than 1,000 individuals had significantly more sensitive data exposed, including self-reported credit scores, driver's license numbers, Social Security numbers, credit card numbers (including card type and associated bank), and dates of birth.
+
+  Mercedes-Benz stated that viewing the data required knowledge of specialized software tools rather than being accessible via a standard internet search, and that there was no evidence any Mercedes-Benz systems were directly compromised or that the data was maliciously accessed or misused. The vendor responsible was not publicly identified by Mercedes-Benz.
+
+  The incident is a textbook example of the "long-tail cloud misconfiguration" pattern: data collected years earlier for a legitimate marketing purpose was passed to a vendor, and then left improperly secured on cloud infrastructure for an extended period before external discovery. The combination of a large total record count (1.6M) with a small highly-sensitive subset (<1,000 with SSNs/credit card data) required Mercedes-Benz to notify all 1.6 million individuals as a precautionary measure under applicable US state breach notification laws.

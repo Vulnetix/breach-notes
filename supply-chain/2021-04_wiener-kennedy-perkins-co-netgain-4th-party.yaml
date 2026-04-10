@@ -1,0 +1,18 @@
+source_name: Wiener & Kennedy Third-Party Breach (April 2021)
+source_url: https://www.wweek.com/technology/2021/04/04/wieden-kennedy-employees-exposed-to-a-data-breach/
+date_of_breach: 2021-04-01
+date_of_disclosure: 2021-04-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Perkins & Co, Netgain (4th party)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Wieden+Kennedy Employees Exposed to a Data Breach. This is a preview. This
+  ad will run at the top of the page as expected when running (or previewing) on your
+  website. [](https://ad.broadstreetads.com/click/1373395/c926451/z169549?preview=true&preview=true).
+  [](http://www.wweek.com/ "Willamette Week")NEWSCULTUREFOODDRINKMUSICCALENDAR Opens
+  in new windowGUIDESWW STORE Opens in new window. Third-party company: Perkins &
+  Co, Netgain (4th party).'

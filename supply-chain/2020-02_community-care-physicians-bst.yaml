@@ -1,0 +1,22 @@
+source_name: Community Care Physicians Third-Party Breach (February 2020)
+source_url: https://healthitsecurity.com/news/accounting-firm-ransomware-hack-affects-community-care-patient-data
+date_of_breach: 2020-02-01
+date_of_disclosure: '2020-02-26'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: BST
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Accounting Firm Ransomware Hack Affects Community Care Patient Data | TechTarget.
+  This week&#039;s breach roundup is led by a ransomware attack on the accounting
+  firm BST, which potentially compromised patient data from Community Care Physicians;
+  Maze ransomware is suspected. New York-based accounting firm BST was recently infected
+  with Maze malware, which potentially compromised patient data from Community Care
+  Physicians. According to the notification , BST fell victim to a ransomware attack
+  in December. The impacted network contained data from the accounting firm’s local
+  clients, to which BST provides accounting and tax services. CCP data was included
+  in those records. But its systems were not impacted by the event. Third-party company:
+  BST.'

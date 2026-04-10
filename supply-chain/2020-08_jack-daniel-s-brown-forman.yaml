@@ -1,0 +1,18 @@
+source_name: Jack Daniel's Third-Party Breach (August 2020)
+source_url: https://www.infosecurity-magazine.com/news/jack-danielsmaker-suffers-revil/
+date_of_breach: 2020-08-01
+date_of_disclosure: '2020-08-17'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Brown-Forman
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Jack Daniel’s-Maker Suffers REvil Ransomware Breach. Attackers claim to have
+  1TB of stolen data in their possession. US wine and spirits giant Brown-Forman has
+  become the latest big-name brand to suffer a serious ransomware-related data breach,
+  cyber-criminals have claimed. The Jack Daniel’s-maker has released few details about
+  the incident but claimed it successfully prevented attackers from encrypting its
+  files. Third-party company: Brown-Forman.'

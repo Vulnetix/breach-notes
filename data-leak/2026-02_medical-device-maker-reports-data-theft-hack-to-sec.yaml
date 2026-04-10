@@ -1,0 +1,19 @@
+source_name: "UFP Technologies Medical Device Maker Data Theft — SEC Notification"
+source_url: "https://www.databreachtoday.com/medical-device-maker-reports-data-theft-hack-to-sec-a-30847"
+date_of_breach: '2026-02-25'
+date_of_disclosure: '2026-02-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: "Unknown attacker gained unauthorized access to UFP Technologies' systems and exfiltrated data; UFP filed an SEC 8-K cybersecurity incident notification"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: |-
+  UFP Technologies — a Massachusetts-based manufacturer of single-use medical device components, specialty
+  packaging, and protective solutions for healthcare — disclosed a data theft hack to the SEC via an 8-K filing
+  in early 2026. UFP Technologies serves medical device OEMs with foam, fiber, and plastic components for
+  surgical, diagnostic, and protective applications. The SEC disclosure triggered under the December 2023 SEC
+  cybersecurity incident rules that require disclosure of material cybersecurity incidents within 4 business
+  days. The breach involved data theft of proprietary or customer information.

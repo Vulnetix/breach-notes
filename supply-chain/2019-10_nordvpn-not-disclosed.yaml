@@ -1,0 +1,50 @@
+source_name: NordVPN Finland Datacenter Server Breach
+source_url: https://nordvpn.com/blog/official-response-datacenter-breach/
+date_of_breach: '2018-03-01'
+date_of_disclosure: '2019-10-21'
+date_of_customer_notification: '2019-10-21'
+category: supply-chain
+initial_attack_vector: Unauthorized access via undisclosed IPMI (Intelligent Platform Management Interface) remote management account installed by datacenter provider without NordVPN's knowledge
+cve: []
+vendor_product: Unnamed Finland datacenter provider (remote management system)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'In October 2019, NordVPN disclosed that one of its rented servers at a datacenter
+  in Finland had been accessed without authorization. The actual breach occurred in
+  March 2018 — more than 18 months before public disclosure — making the timeline
+  and delayed notification a central point of controversy.
+
+  The attack vector was an insecure remote management account that the datacenter
+  provider had added to the server without NordVPN''s knowledge or consent. Specifically,
+  the unauthorized access was made possible through an undisclosed IPMI (Intelligent
+  Platform Management Interface) account — a powerful out-of-band server management
+  interface used by datacenter operators. The datacenter had configured this account
+  without informing NordVPN, and an attacker exploited it to gain access to the single
+  server.
+
+  The datacenter deleted the undisclosed management account on March 20, 2018, effectively
+  ending the attacker''s access window. NordVPN was not notified about the breach
+  until April 13, 2019, at which point the company immediately shredded the affected
+  server. NordVPN publicly confirmed the incident on October 21, 2019, after learning
+  that information about the breach had begun circulating publicly.
+
+  What was compromised: The attacker obtained a single expired TLS key associated
+  with the affected server. NordVPN maintained that user activity logs do not exist
+  on its servers (the company operates a strict no-logs policy), meaning the attacker
+  could not have obtained user identities, usernames, passwords, or browsing histories.
+  The expired TLS key would theoretically have allowed a man-in-the-middle attack
+  only against users connected to that specific server at that specific time, though
+  NordVPN emphasized that exploiting even this would have been extremely difficult
+  in practice.
+
+  NordVPN terminated its contract with the unnamed Finnish datacenter provider and
+  launched a comprehensive audit of its entire server infrastructure across all countries.
+  The company later announced a bug bounty program and plans for an independent security
+  audit as part of its remediation response.
+
+  This incident is notable as a pure third-party/supply-chain risk case: NordVPN''s
+  own systems were not hacked — instead, a vendor had silently introduced an insecure
+  remote access mechanism. The 18-month gap between breach and disclosure also raised
+  significant questions about vendor breach notification obligations, even when the
+  vendor itself only discovered the issue months after the fact.'

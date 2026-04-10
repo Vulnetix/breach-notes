@@ -1,0 +1,21 @@
+source_name: Active Network Blue Bear Platform — Web Skimming Attack on School Stores (2019–2020)
+source_url: https://databreaches.net/2020/01/02/school-software-vendor-active-network-suffers-data-breach/
+date_of_breach: '2019-10-01'
+date_of_disclosure: '2020-01-02'
+date_of_customer_notification: '2020-01-02'
+category: supply-chain
+initial_attack_vector: Web skimming (Magecart-style) attack — malicious JavaScript injected into Blue Bear school e-commerce platform to harvest payment card data at point of entry
+cve: []
+vendor_product: Active Network (Blue Bear platform)
+software_package: Blue Bear school accounting and store software
+malware: JavaScript web skimmer
+supply_chain_claimed: true
+notes: 'Between October 1 and November 13, 2019, unknown attackers gained unauthorized access to Blue Bear, Active Network''s web-based school accounting and online store management platform used by K-12 schools and districts across the United States. The attackers injected malicious JavaScript code — a technique commonly associated with Magecart threat actors — into the Blue Bear platform''s e-commerce checkout pages. This skimmer silently harvested payment card details from parents and students as they entered them in real-time, while completing legitimate purchases of school supplies, paying fees, or contributing to student activity accounts.
+
+  Active Network disclosed the breach publicly on or around January 2, 2020. The exposure window covered any purchase made through affected school web stores between October 1 and November 13, 2019. Compromised data included payment card numbers, expiration dates, and card security codes (CVV/CVC), along with Blue Bear account usernames and passwords. Social Security numbers, driver''s license numbers, and similar government-issued ID numbers were not affected.
+
+  Active Network offered complimentary identity monitoring services to affected users. Schools using the Blue Bear platform were advised to notify their communities and encourage affected individuals to monitor payment card statements and request new cards from their issuers.
+
+  The attack is technically a supply chain compromise affecting downstream school communities: the malicious code was hosted within Active Network''s own Blue Bear infrastructure, meaning that school IT teams had no direct ability to detect or prevent it. Any school running a Blue Bear store during the window was potentially a vector for compromise of student and parent payment data.
+
+  Active Network is a technology provider serving non-profits, government agencies, and educational institutions. Blue Bear is their purpose-built school financial management product. The incident is consistent with a broader wave of Magecart-style web skimming attacks that affected hundreds of e-commerce platforms between 2018 and 2020, targeting small and mid-sized platforms used by organizations with limited security oversight.'

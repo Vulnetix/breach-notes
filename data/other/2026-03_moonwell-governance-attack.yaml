@@ -1,0 +1,15 @@
+source_name: Attack proposal
+source_url: https://moonwell.fi/governance/proposal/moonriver?id=74
+date_of_breach: '2026-03-24'
+date_of_disclosure: '2026-03-24'
+category: other
+notes: The Moonwell lending protocol faced a governance attack on its deprecated Moonriver
+  instance that could have drained $1 million from the project. Because Moonwell's
+  MFAM governance token trades at fractions of a cent, an attacker was able to accumulate
+  around 40 million tokens, submit a malicious proposal, and achieve quorum. Moonwell
+  governance token holders scrambled to vote down the proposal before the voting ended
+  on March 27.Ultimately, facing being outvoted, the attacker dumped their MFAM holdings
+  and the proposal was canceled as their balance had fallen below the proposal threshold.This
+  was only the most recent of Moonwell's troubles after the protocol suffered a $1.78
+  million loss in February due to an oracle misconfiguration and a $3.7 million loss
+  in November 2025.

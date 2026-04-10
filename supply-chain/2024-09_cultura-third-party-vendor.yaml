@@ -1,0 +1,18 @@
+source_name: Cultura Third-Party Breach (September 2024)
+source_url: https://therecord.media/france-retailers-hacked-confirm-cyberattack
+date_of_breach: 2024-09-01
+date_of_disclosure: '2024-09-11'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Third-party vendor
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Popular French retailers confirm hackers stole customer data. Targets of the
+  cyberattacks include electronics and home appliances store Boulanger and the retailer
+  Cultura. Several well-known French retail brands reported having data stolen by
+  a cyberattack late last week. The targets include Boulanger, which specializes in
+  electronics and home appliances, and the retailer Cultura. Several French media
+  outlets reported the list of victims could be even longer.

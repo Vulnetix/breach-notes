@@ -1,0 +1,17 @@
+source_name: '"Revest Protocol Exploit Recovery Plan"'
+source_url: https://revestfinance.medium.com/revest-protocol-exploit-recovery-plan-b06ca33fbdf5
+date_of_breach: '2022-03-27'
+date_of_disclosure: '2022-03-27'
+category: data-leak
+notes: 'The Revest protocol was targeted with an attack that stole $BLOCKS, $ECO,
+  and $RENA tokens from their vault. The protocol wrote that the attacker used a "highly
+  sophisticated attack on a vulnerability that went unnoticed during our Solidity.Finance
+  audit as well as ... multiple peer-reviews". The hacker quickly swapped the stolen
+  tokens for ETH via various decentralized exchanges, then tumbled the funds using
+  Tornado Cash. The protocol wrote that they "do not possess the funds needed for
+  meaningful financial recompense, and are not covered by any DeFi insurance provider",
+  but promised to try to "do everything within our power to make things as right as
+  they can possibly be made".
+
+
+  Total loss estimated at $2,000,000.'

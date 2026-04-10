@@ -1,0 +1,16 @@
+source_name: UniCredit Third-Party Breach (October 2019)
+source_url: https://www.fintechfutures.com/2019/10/unicredit-reports-data-breach-affecting-three-million-accounts/
+date_of_breach: 2019-10-01
+date_of_disclosure: 2019-10-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Our pick of the top fintech news stories this week includes Revolut, Coinbase,
+  Bolt, FundApps, and more. Copyright © 2026 Informa PLC. Informa PLC is registered
+  in England and Wales with company number 8860726 whose registered and head office
+  is 5 Howick Place, London, SW1P 1WG.

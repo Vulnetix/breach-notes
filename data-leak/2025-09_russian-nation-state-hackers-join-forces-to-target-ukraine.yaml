@@ -1,0 +1,18 @@
+source_name: Russian Nation-State Hackers Join Forces to Target Ukraine (DataBreachToday)
+source_url: https://www.databreachtoday.com/russian-nation-state-hackers-join-forces-to-target-ukraine-a-29484
+date_of_breach: '2025-09-19'
+date_of_disclosure: '2025-09-19'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Two long-running advanced persistent threat groups tied to Russia''s Federal
+  Security Service, the FSB, called Turla and Gamaredon, appear for the first time
+  to be
+
+
+  Source: DataBreachToday article coverage.'

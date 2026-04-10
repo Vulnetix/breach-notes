@@ -1,0 +1,17 @@
+source_name: Cyberattack Disrupts Services at 2 Massachusetts Hospitals (DataBreachToday)
+source_url: https://www.databreachtoday.com/cyberattack-disrupts-services-at-2-massachusetts-hospitals-a-29765
+date_of_breach: '2025-10-20'
+date_of_disclosure: '2025-10-20'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A North Central Massachusetts nonprofit healthcare system with two community
+  hospitals, a medical group and several other care facilities has taken its IT network
+
+
+  Source: DataBreachToday article coverage.'

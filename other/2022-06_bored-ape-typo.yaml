@@ -1,0 +1,12 @@
+source_name: OpenSea transaction history
+source_url: https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/7256
+date_of_breach: '2022-06-01'
+date_of_disclosure: '2022-06-01'
+category: other
+notes: 'NFT collector onekiller purchased Bored Ape #7256 for 188 ETH a month ago
+  — at the time worth about $513,000. On June 1, they sold the ape for 0.088 ETH,
+  or $161.It''s not quite clear what happened, but it seems likely that it may have
+  been a listing error. Onekiller had posted and then canceled listings for the ape
+  several times in the past week and as recently as four hours before the sale, all
+  between 250 and 145 ETH, suggesting that they had control of their account and made
+  a mistake while entering the listing value.'

@@ -1,0 +1,20 @@
+source_name: Amazon, Ebay, Shopify, Stripe, PayPal Third-Party Breach (March 2020)
+source_url: https://www.comparitech.com/blog/information-security/uk-shopper-records-exposed/
+date_of_breach: 2020-03-01
+date_of_disclosure: '2020-03-10'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 8 million UK shopping records exposed on the web, customers' personal info
+  leaked - Comparitech. A 3rd-party app used by EU merchants on Amazon, Ebay, and
+  other marketplaces exposed 8 million sales records containing customers' personal
+  data. A software vendor used by small retailers in the EU exposed a database of
+  nearly 8 million sales records on the web without a password or any other authentication
+  required to access it. The documents contained sales records including customer
+  names, email addresses, shipping addresses, purchases, and the last four digits
+  of credit card numbers , among other info. Anyone could find and access the data.

@@ -1,0 +1,13 @@
+source_name: "Cyberattacks in Modern Armed Conflicts — Russia-Ukraine, Israel-Hamas, Taiwan Strait 2022-2026"
+source_url: "https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025"
+date_of_breach: "2022-02-24"
+date_of_disclosure: "2022-02-24"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Coordination of destructive wiper malware, DDoS campaigns, information operations, and OT/ICS attacks by state-sponsored threat actors and hacktivist auxiliaries alongside conventional military operations; use of pre-positioned access (established months or years before conflict activation) against critical infrastructure"
+cve: ["CVE-2022-24521"]
+vendor_product: "Ukrainian government, financial, energy, and media infrastructure; Israeli government and critical infrastructure; civilian internet services globally"
+software_package: ""
+malware: "HermeticWiper, WhisperGate, CaddyWiper, IsaacWiper, Sandworm AcidRain, Industroyer2, SolarWinds SUNBURST"
+supply_chain_claimed: false
+notes: "The 2022-2026 period fundamentally documented the integration of cyberattacks into modern armed conflicts as a standard component of military operations. Key documented cyber dimensions of armed conflicts: (1) Russia-Ukraine War (from February 2022): Pre-invasion wiper campaigns (WhisperGate in January 2022, HermeticWiper on 24 February 2022); Sandworm's Industroyer2 attempted power grid attack (April 2022, blocked); Viasat KA-SAT satellite attack disrupting Ukrainian military communications (24 February 2022); sustained DDoS, defacement, and data exfiltration campaigns; Microsoft identified 237 Russian cyberattacks against Ukraine in the first year; (2) Israel-Hamas conflict (from October 2023): Iranian-backed hacktivist groups (CyberAv3ngers, Cyber Toufan) conducted destructive attacks against Israeli civilian infrastructure and US companies perceived as pro-Israel; (3) Taiwan Strait tensions: China-linked groups (Volt Typhoon) established persistent pre-positioned access in US critical infrastructure as documented deterrence capability; (4) ENISA Threat Landscape 2025 identified state-sponsored attacks as the single largest category of serious cyber incidents globally. The expanding role of cyberattacks — affecting civilian infrastructure, supply chains, and critical services far from active combat zones — raises fundamental questions about civilian harm under international humanitarian law and the application of jus in bello principles to cyber operations. The Paris Call for Trust and Security in Cyberspace (supported by 80+ countries) continues to attempt to establish norms against attacks on civilian infrastructure."

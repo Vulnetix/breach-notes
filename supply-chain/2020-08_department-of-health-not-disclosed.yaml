@@ -1,0 +1,19 @@
+source_name: Department of Health Third-Party Breach (August 2020)
+source_url: https://www.oodaloop.com/subscribe/
+date_of_breach: 2020-08-01
+date_of_disclosure: 2020-08-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: not disclosed
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: Subscriber Access To OODA Content. When you join with subscriber level to OODA
+  Loop, you’re not just reading intelligence, you are adding fuel to your OODA Loop.
+  Subscriber Access vs. Full. Joining the OODA network offers invaluable benefits
+  for professionals navigating the intersections of technology, security, and federal
+  markets. The OODA network are a group of insiders that have unique perspectives
+  on national security events and if one is seeking an informed perspective this is
+  the community to provide it.

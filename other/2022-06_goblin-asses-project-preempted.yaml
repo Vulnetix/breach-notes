@@ -1,0 +1,13 @@
+source_name: Tweet thread by FedorLinnik
+source_url: https://twitter.com/FedorLinnik/status/1532497652390285315
+date_of_breach: '2022-06-02'
+date_of_disclosure: '2022-06-02'
+category: other
+notes: Hoping to riff off the popularity of the recent and weird Goblintown NFT project,
+  some NFT enthusiasts decided to make their own "Goblin Asses" project, which is
+  exactly what it sounds like. As one of the team wrote in a thread explaining what
+  they also clearly thought was a pretty funny turn of events, the team was working
+  quickly and with only one developer. They cut some corners on their development
+  practices, and when testing their project contract, a watchful observer was able
+  to scrape the image data, duplicate the contract, deploy it, and create and release
+  their own website for the project.All my goblin asses gone.

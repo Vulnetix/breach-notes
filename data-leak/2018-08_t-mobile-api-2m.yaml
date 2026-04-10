@@ -1,0 +1,13 @@
+source_name: "T-Mobile August 2018 Data Breach — 2 Million Customers via API Vulnerability"
+source_url: "https://www.t-mobile.com/news/network/t-mobile-cyberattack-and-some-customer-information"
+date_of_breach: "2018-08-20"
+date_of_disclosure: "2018-08-23"
+date_of_customer_notification: "2018-08-23"
+category: "data-leak"
+initial_attack_vector: "An international hacker (later identified as a 21-year-old in the Netherlands) exploited an API vulnerability in T-Mobile's system to access and extract customer data; the vulnerability allowed access to customer account data without proper authentication"
+cve: []
+vendor_product: "T-Mobile customer API"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 20 August 2018, T-Mobile detected and shut down an attack that exploited a vulnerability in T-Mobile's API, exposing account data for approximately 2 million customers. T-Mobile disclosed the breach on 23 August 2018. Exposed data included names, billing zip codes, phone numbers, email addresses, account numbers, and account type (prepaid/postpaid). More sensitive data such as financial information and Social Security numbers was not exposed. T-Mobile stated it detected the attack on August 20 and immediately closed the vulnerability. A Dutch hacker, Sijmen Ruwhof, took credit for the breach and provided a detailed write-up of the API vulnerability. T-Mobile filed a police report and worked with law enforcement. This was T-Mobile's first of what would become a series of data breaches (2018, 2019, 2020, 2021, 2022, 2023). The 2018 breach was relatively small compared to the 2021 breach (54.6 million records) but established a pattern of inadequate API security at T-Mobile. The FCC subsequently fined T-Mobile $31.5 million in 2024 for its combined data security failures across multiple breaches from 2021-2023."

@@ -1,0 +1,23 @@
+source_name: Iowa Department of Health and Human Services – Iowa Medicaid Enterprise
+  (Iowa HHS-IME) Third-Party Breach (April 2023)
+source_url: https://www.hipaajournal.com/april-2023-healthcare-data-breach-report/
+date_of_breach: 2023-04-01
+date_of_disclosure: '2023-05-23'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Independent Living Systems
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'April 2023 Healthcare Data Breach Report. There was a 17.5% month-over-month
+  fall in the number of reported healthcare data HIPAA compliance breaches with 52
+  breaches of 500 or more records There was a 17.5% month-over-month fall in the number
+  of reported healthcare data breaches with 52 breaches of 500 or more records reported
+  and 4,425,891 records breached. One of the largest healthcare data breaches of the
+  year was reported in April, but there was still a significant month-over-month reduction
+  in breached records, which fell by 30.7% to 4,425,891 records. The total is less
+  than the 12-month average of 4.9 million records a month, although more than twice
+  the number of records that were breached in April 2022. Third-party company: Independent
+  Living Systems.'

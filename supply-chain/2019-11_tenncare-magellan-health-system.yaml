@@ -1,0 +1,13 @@
+source_name: TennCare Third-Party Breach (November 2019)
+source_url: https://www.beckershospitalreview.com/cybersecurity/tenncare-warns-44-000-members-of-data-breach.html
+date_of_breach: 2019-11-01
+date_of_disclosure: 2019-11-01
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Magellan Health System
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Third-party company: Magellan Health System.'

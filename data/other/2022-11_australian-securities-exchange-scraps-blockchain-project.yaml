@@ -1,0 +1,15 @@
+source_name: '"ASX kills its blockchain project, will write off $250 million"'
+source_url: https://www.afr.com/companies/financial-services/asx-kills-its-blockchain-project-will-write-off-250-million-20221117-p5byzn
+date_of_breach: '2022-11-17'
+date_of_disclosure: '2022-11-17'
+category: other
+notes: The Australian Securities Exchange (ASX) has finally pulled the plug on their
+  project that would have replaced the aging CHESS system that is used for transfer
+  and settlement. The group had spent seven years and AU$250 million (US$167 million)
+  on a private blockchain project, which has suffered repeated delays and setbacks.
+  A recent, third-party report by Accenture on the project estimated that it was only
+  63% complete, and was excessively complex, "including in the way ASX requirements
+  interact with the application and underlying ledger". The project has grappled with
+  issues including lack of throughput to settle trades.ASX will write off the AU$245–$255
+  million (US$164–$170M) they have poured into the project, and start again on designing
+  a replacement for the CHESS system.

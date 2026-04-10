@@ -22,9 +22,7 @@ sync-data:
 
 # Generate recent-breaches.yaml (top 10 latest)
 generate-recent:
-    go build -o update-breaches ./scripts/update-breaches.go
-    ./update-breaches
-    rm -f update-breaches
+    go run ./scripts/update-breaches.go
 
 # Validate all YAML breach files
 validate:

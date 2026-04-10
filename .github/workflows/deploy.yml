@@ -39,9 +39,7 @@ jobs:
           done
 
       - name: Generate recent breaches
-        run: |
-          go build -o update-breaches ./scripts/update-breaches.go
-          ./update-breaches
+        run: go run ./scripts/update-breaches.go
 
       - name: Build Hugo site
         run: hugo --minify

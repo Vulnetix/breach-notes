@@ -1,0 +1,13 @@
+source_name: "Ticketmaster UK Inbenta Magecart Supply Chain Attack — 40,000 Payment Cards"
+source_url: "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2020/11/ico-fines-ticketmaster-uk-125000-for-failing-to-keep-customers-payment-details-secure/"
+date_of_breach: "2018-02-01"
+date_of_disclosure: "2018-06-27"
+date_of_customer_notification: "2018-06-27"
+category: "supply-chain"
+initial_attack_vector: "Magecart Group 5 compromised Inbenta Technologies — a third-party AI-powered customer support chatbot provider — and injected malicious JavaScript into the Inbenta chat widget code; the malicious script was then automatically loaded onto Ticketmaster's payment pages, skimming payment card data in real-time"
+cve: []
+vendor_product: "Inbenta Technologies chatbot (third-party vendor loaded on Ticketmaster payment pages)"
+software_package: ""
+malware: "Magecart skimmer"
+supply_chain_claimed: true
+notes: "From approximately February to June 2018, Magecart Group 5 skimmed payment card data from Ticketmaster UK customers by compromising Inbenta Technologies — a third-party customer support chatbot vendor whose JavaScript widget was loaded on Ticketmaster's payment pages. Inbenta acknowledged that a single piece of custom JavaScript code written specifically for Ticketmaster was modified by the attackers. Ticketmaster was notified by Monzo Bank in April 2018 (two months before disclosure) — Monzo had detected a pattern of fraudulent card charges for customers who had used Ticketmaster, and contacted Ticketmaster, who initially did not act. Between 40,000 and potentially up to 380,000 customers had payment card data stolen. Ticketmaster shut down and replaced the Inbenta chatbot on 23 June 2018 and disclosed the breach on 27 June. The UK ICO fined Ticketmaster £1.25 million (later reduced to £1.25 million from an initial £1.5 million) for failing to put appropriate security measures in place to prevent the breach. Inbenta blamed Ticketmaster for improperly using a script intended only for their home page on payment pages, against Inbenta's recommendations. The attack is considered one of the defining Magecart supply chain incidents and was part of a broader Magecart campaign affecting hundreds of e-commerce sites in 2017-2018."

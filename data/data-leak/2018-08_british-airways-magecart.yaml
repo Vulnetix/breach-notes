@@ -1,0 +1,13 @@
+source_name: "British Airways Magecart Payment Card Skimming Breach"
+source_url: "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2020/10/ico-fines-british-airways-20m-for-data-breach-affecting-500-000-customers/"
+date_of_breach: "2018-08-21"
+date_of_disclosure: "2018-09-06"
+date_of_customer_notification: "2018-09-06"
+category: "data-leak"
+initial_attack_vector: "Magecart Group 6 injected a 22-line JavaScript skimmer into British Airways' website and mobile app via a compromised third-party Modernizr JavaScript library; skimmer exfiltrated payment card data to attacker-controlled domain baways.com"
+cve: []
+vendor_product: "British Airways website / mobile app (Modernizr library)"
+software_package: ""
+malware: "Magecart skimmer"
+supply_chain_claimed: true
+notes: "Between 21 August and 5 September 2018, a Magecart Group 6 skimmer silently exfiltrated payment card details from approximately 500,000 British Airways customers who purchased tickets online or via mobile app. The skimmer was injected through a compromised Modernizr JavaScript library served from BA's own infrastructure after the attackers gained access to BA's network. Customer names, billing addresses, email addresses, and full payment card details including CVV codes were exfiltrated to the attacker-controlled domain baways.com. BA detected the breach on 5 September 2018 and publicly disclosed it on 6 September. The UK ICO investigated and issued a £183.39 million fine (subsequently reduced to £20 million due to COVID-19 economic considerations) — at the time the largest GDPR fine ever issued, equivalent to 1.5% of BA's global annual turnover. The attack was attributed to FIN6/Magecart Group 6 based on shared infrastructure and tactics. This was one of the first and most prominent GDPR enforcement actions, establishing that payment card skimming via web-injection constitutes a major personal data breach subject to GDPR Article 33 notification obligations within 72 hours."

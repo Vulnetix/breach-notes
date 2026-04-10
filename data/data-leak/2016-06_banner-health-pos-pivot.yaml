@@ -1,0 +1,13 @@
+source_name: "Banner Health Data Breach — 3.7 Million Patients and Health Plan Members"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2016-06-17"
+date_of_disclosure: "2016-08-03"
+date_of_customer_notification: "2016-08-03"
+category: "data-leak"
+initial_attack_vector: "Attackers first compromised Banner Health's food and beverage payment card systems (targeting point-of-sale systems at Banner's healthcare facility cafeterias and restaurants) and used that initial foothold to pivot into Banner's main healthcare network, accessing patient data systems"
+cve: []
+vendor_product: "Banner Health patient records / payment card systems"
+software_package: ""
+malware: "POS RAM-scraping malware"
+supply_chain_claimed: false
+notes: "Between 23 June and 7 July 2016, attackers first compromised Banner Health's point-of-sale (POS) systems at food and beverage outlets within Banner Health facilities, using RAM-scraping malware to steal payment card data. The attackers then pivoted from the POS network into Banner's broader healthcare IT infrastructure and accessed patient, health plan member, and provider data. Banner Health operates 29 hospitals and numerous clinics across multiple US states. The total breach affected approximately 3.7 million individuals: approximately 2.9 million patients and health plan members whose personal and health information was exposed (names, dates of birth, Social Security numbers, addresses, clinical and claims data), plus payment card data for individuals who used food and beverage outlets at Banner facilities between 23 June and 7 July 2016, and provider data for physicians credentialed with Banner. Banner disclosed the breach on 3 August 2016. HHS OCR investigated and reached a $1.25 million settlement with Banner Health in 2023 for multiple HIPAA violations related to the breach, including insufficient risk analysis, inadequate access controls, and failure to implement hardware and software controls. The breach demonstrated a novel attack vector: using lightly-secured ancillary payment systems as a pivot point into the main healthcare network."

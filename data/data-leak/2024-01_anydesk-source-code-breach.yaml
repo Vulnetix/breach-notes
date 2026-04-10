@@ -1,0 +1,13 @@
+source_name: "AnyDesk Production System Breach — Source Code and Code Signing Certificates Stolen"
+source_url: "https://anydesk.com/en/public-statement"
+date_of_breach: "2024-01-20"
+date_of_disclosure: "2024-02-02"
+date_of_customer_notification: "2024-02-02"
+category: "data-leak"
+initial_attack_vector: "Undisclosed sophisticated attack on AnyDesk's production systems; AnyDesk described it as a cyberattack on their production systems that resulted in compromise of their private code signing keys and source code; no ransomware was deployed"
+cve: []
+vendor_product: "AnyDesk production systems / code signing infrastructure"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2024, AnyDesk — the widely-used remote desktop software with over 170,000 customers including major enterprises and government agencies — discovered a breach of its production systems. AnyDesk confirmed on 2 February 2024 that attackers had accessed its production systems and stolen source code and private code signing certificates. AnyDesk's security audit found no evidence of the Cl0p ransomware or that end-user devices were affected. As a precautionary measure, AnyDesk revoked all security-related certificates and replaced its code signing certificate, urging all users to update to the latest version (8.0.8+) which used the new certificate. AnyDesk also reset all passwords for its web portal (my.anydesk.com) and recommended customers change their AnyDesk credentials. The timing was concerning as a cybercriminal forum subsequently advertised 18,317 AnyDesk customer credentials for sale, though AnyDesk stated these appeared to have been obtained through credential stuffing (compromised credentials from other breaches) rather than from the production system breach itself. Resecurity reported observing the sale of AnyDesk credentials on cybercriminal forums. AnyDesk stated user data and connection metadata were not included in the breach. The theft of code signing certificates raised fears about potential tampered/trojanized AnyDesk installers being distributed, though no confirmed supply chain attacks were identified from these stolen certs."

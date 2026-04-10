@@ -1,0 +1,13 @@
+source_name: "Australian Red Cross Blood Service Data Breach — 550,000 Donor Records (OAIC First Civil Penalty)"
+source_url: "https://www.oaic.gov.au/privacy/privacy-decisions/investigation-reports/the-australian-red-cross-blood-service-and-pentroth-pty-ltd"
+date_of_breach: "2016-10-25"
+date_of_disclosure: "2016-10-28"
+date_of_customer_notification: "2016-10-28"
+category: "data-leak"
+initial_attack_vector: "A web development contractor (Precedent Communications, later identified) inadvertently uploaded a backup file of donor registration data to a publicly accessible directory on the Australian Red Cross Blood Service website; the file was discovered by a security researcher and reported responsibly"
+cve: []
+vendor_product: "Australian Red Cross Blood Service / Precedent Communications web hosting"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On 25 October 2016, a file named 'donorquestionnaire.bak' containing registration data for 550,000 blood donors was inadvertently left in a publicly accessible directory on the Australian Red Cross Blood Service website by their web development contractor, Precedent Communications. The file remained publicly accessible for approximately 30 days before being discovered by a security researcher who responsibly disclosed it. The exposed data included full names, genders, dates of birth, postcodes, email addresses, phone numbers, country of birth, and responses to sensitive donor eligibility questions — including whether donors had ever had sex for money, whether they had recently been in prison, and whether they had recently used IV drugs. This was considered highly sensitive due to the nature of the health-related questions and the stigma that could result from exposure. The OAIC investigated and found that both the Australian Red Cross Blood Service and Precedent Communications had breached the Australian Privacy Act. This was the largest recorded data breach in Australian history at the time and triggered significant public debate about the voluntary Notifiable Data Breaches scheme (which became mandatory in February 2018). The breach occurred before Australia's mandatory NDB scheme came into effect, but the organizations chose to notify voluntarily. Both organisations entered into court-enforceable undertakings with the OAIC to implement improved security practices."

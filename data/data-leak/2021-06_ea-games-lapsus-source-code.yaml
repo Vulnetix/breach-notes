@@ -1,0 +1,13 @@
+source_name: "EA Games Lapsus$ Source Code Theft — FIFA 21, Frostbite Engine, 780GB Data"
+source_url: "https://www.vice.com/en/article/hackers-say-they-breached-ea-games-source-code-stolen/"
+date_of_breach: "2021-06-06"
+date_of_disclosure: "2021-06-10"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Attackers purchased stolen Slack authentication cookies from an underground criminal marketplace for $10 and used them to impersonate an EA employee in Slack; used Slack access to social engineer EA's IT support into issuing a multi-factor authentication token, granting VPN and corporate network access"
+cve: []
+vendor_product: "EA Games internal development network / Slack"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early June 2021, a group (later attributed to early Lapsus$ affiliates) breached Electronic Arts' internal network using purchased Slack cookies worth approximately $10 purchased from underground markets. The attackers used Slack access to pose as an employee and social engineered EA's IT helpdesk into providing MFA tokens, then gained VPN and network access. The group exfiltrated approximately 780 GB of data including FIFA 21 complete source code, Frostbite game engine source code, EA's matchmaking server source code, internal tools and frameworks, and the Battlefield SDK. The stolen data was initially offered for sale on hacker forums for $28 million, later reduced to $28 million, and eventually released freely after no buyers were found. EA confirmed the breach on 10 June 2021, stating no player data was accessed and the company did not anticipate any impact on their games or business. EA attributed the attack to a 'limited amount of game source code and related tools.' Law enforcement worked with EA but no arrests directly tied to the EA breach were announced before the Lapsus$ arrests in March 2022. The attack highlighted the risk of Slack as an enterprise credential target and the viability of purchasing stolen authentication cookies as an attack vector."

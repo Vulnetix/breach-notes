@@ -1,0 +1,13 @@
+source_name: "Okta October 2023 Support System Breach — All Customer Support Users Affected"
+source_url: "https://sec.okta.com/harfiles"
+date_of_breach: "2023-09-28"
+date_of_disclosure: "2023-10-20"
+date_of_customer_notification: "2023-11-29"
+category: "credential-theft"
+initial_attack_vector: "Attacker used a stolen credential to access Okta's customer support case management system (Salesforce Service Cloud); the credential was compromised because an Okta employee had signed into their personal Google account on a work device, and the credential was stored in the personal Google account which was later breached"
+cve: []
+vendor_product: "Okta Customer Support System (Salesforce Service Cloud)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 28 September 2023, an attacker used a stolen service account credential to gain access to Okta's customer support case management system. The attacker downloaded a report containing data for all 18,400 customers in Okta's customer support system. The stolen credential was from an Okta employee who had saved their work credentials in their personal Google Chrome browser profile on a work device, then signed into their personal Google account. The personal Google account was compromised, exposing the saved credential. The attacker used access to the support system to view HAR (HTTP Archive) files that customers had shared for debugging — these files contain sensitive session tokens and cookies. The attacker used stolen session tokens to hijack active Okta sessions at BeyondTrust and Cloudflare (among others). Cloudflare detected the attack on the same day; BeyondTrust had alerted Okta in early October, but Okta took approximately two weeks to confirm the root cause. Okta's October 2023 disclosure stated initially that only 134 customers were affected; Okta revised this to 'all customers in the support system' in November 2023. The full extent — 18,400 customers — was disclosed only after additional investigation. The breach was Okta's fourth significant security incident in two years (following the January 2022 Lapsus$ breach, a 2022 source code theft, and a 2023 1Password-related incident). Okta's identity platform is used by over 18,000 organizations for SSO — making any Okta breach extremely high-impact for downstream organisations."

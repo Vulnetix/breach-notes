@@ -1,0 +1,13 @@
+source_name: "Desjardins Insider Data Breach — 4.2 Million Members, 2.7 Years of Exfiltration"
+source_url: "https://www.desjardins.com/en/about-us/news/2019/desjardins-personal-data-disclosure.html"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2019-06-20"
+date_of_customer_notification: "2019-06-20"
+category: "data-leak"
+initial_attack_vector: "Malicious insider — a Desjardins employee who had legitimate access to member data as part of their role — exfiltrated member personal data over approximately 26 months and shared the data with third parties outside the organization"
+cve: []
+vendor_product: "Desjardins Group internal member database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "A Desjardins Group employee with legitimate access to member data exfiltrated personal information of members over approximately 26 months (from early 2017 to March 2019) and shared it with unauthorized individuals outside the organization. Desjardins is Canada's largest financial cooperative, serving approximately 7 million members. The breach was discovered when police advised Desjardins of suspicious activity. The initial disclosure in June 2019 stated 2.9 million personal members were affected; subsequent investigation expanded this to 4.2 million personal members and 173,000 business members. Stolen data included full names, dates of birth, social insurance numbers (SINs), addresses, phone numbers, email addresses, and information about banking habits. No PINs, passwords, or security questions were included. A Desjardins employee, Sébastien Bolduc, was charged with fraud and breach of trust in March 2020 in connection with the theft; he pleaded guilty. The Quebec privacy watchdog (CAI) opened an investigation. Desjardins set up a credit monitoring service for all affected members and offered a comprehensive identity theft protection package. The breach cost Desjardins approximately $108 million in remediation and class-action settlement. A class-action lawsuit was certified, and Desjardins reached a $201 million settlement — one of the largest class-action settlements for a data breach in Canadian history. The breach highlighted the severe risks of insider threats in financial institutions."

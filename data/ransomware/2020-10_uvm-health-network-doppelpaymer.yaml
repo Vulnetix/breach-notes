@@ -1,0 +1,13 @@
+source_name: "UVM Medical Center DoppelPaymer Ransomware Attack — 20 Hospitals Affected"
+source_url: "https://www.bleepingcomputer.com/news/security/university-of-vermont-health-network-hit-by-cyberattack/"
+date_of_breach: "2020-10-28"
+date_of_disclosure: "2020-10-29"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "DoppelPaymer ransomware group gained initial access via phishing email delivering the Emotet banking trojan, which subsequently dropped the Ryuk precursor; the attack targeted the University of Vermont Medical Center and its health network affiliate hospitals simultaneously"
+cve: []
+vendor_product: "University of Vermont Health Network IT infrastructure (6-hospital network)"
+software_package: ""
+malware: "DoppelPaymer ransomware"
+supply_chain_claimed: false
+notes: "On 28 October 2020, the University of Vermont Medical Center (UVMMC) and its University of Vermont Health Network — encompassing six hospitals and approximately 1,000 providers across Vermont and upstate New York — was struck by a DoppelPaymer ransomware attack that disabled critical patient care systems including Epic EHR, payroll, and telephone systems. The attack forced hospitals to revert to paper-based procedures for weeks. The UVM Medical Center in Burlington was most severely impacted; cancer treatment schedules were disrupted, chemotherapy appointments cancelled, and staff were unable to access patient records. Recovery took approximately a month. The attack was part of a coordinated US Health and Human Services (HHS) warning in October 2020 of an 'imminent and increased cybercrime threat' to US hospitals, alongside similar attacks on Sky Lakes Medical Center (Oregon) and St. Lawrence Health System (New York) in the same week. The FBI and CISA issued a joint advisory (AA20-302A). The full recovery cost for UVM Health Network was estimated at over $63 million, including lost revenue and remediation costs — one of the most costly ransomware incidents in US healthcare history. Federal investigators identified the attackers as a group using Trickbot malware infrastructure linked to Russian-speaking cybercriminals."

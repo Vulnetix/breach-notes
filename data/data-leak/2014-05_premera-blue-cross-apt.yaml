@@ -1,0 +1,13 @@
+source_name: "Premera Blue Cross Data Breach — 11 Million Members, Nation-State APT (Winnti)"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2019/07/premera-blue-cross-settles-ftc-data-security-charges"
+date_of_breach: "2014-05-05"
+date_of_disclosure: "2015-03-17"
+date_of_customer_notification: "2015-03-17"
+category: "data-leak"
+initial_attack_vector: "Nation-state APT group (assessed as Winnti/APT41, China-linked) gained initial access via a spear-phishing email; maintained persistent access for approximately 9 months while conducting lateral movement and data exfiltration from Premera's member database"
+cve: []
+vendor_product: "Premera Blue Cross member database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 5 May 2014, attackers believed to be a Chinese APT group (assessed as Winnti/APT41) gained access to Premera Blue Cross's network via a spear-phishing attack. The attackers maintained persistent access for approximately 9 months before being discovered. During this period they exfiltrated data for approximately 11 million current and former Premera members across Premera Blue Cross, Premera Blue Cross Blue Shield of Alaska, Vivacity, and Connexion Insurance Solutions. Exposed data included Social Security numbers, bank account information, member ID numbers, dates of birth, email addresses, phone numbers, mailing addresses, and clinical information including claims and clinical notes — particularly sensitive given the healthcare context. Premera discovered the attack in January 2015 and disclosed it in March 2015. The breach was attributed to the same threat group responsible for the Anthem breach (disclosed February 2015) based on similar TTPs and malware. The FTC and 30 state attorneys general reached a $74 million settlement with Premera in 2019 for inadequate security practices. An FTC settlement required Premera to implement a comprehensive information security program. HHS OCR separately fined Premera $6.85 million for HIPAA violations. The total cost to Premera exceeded $100 million in settlements, legal fees, and remediation."

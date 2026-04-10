@@ -1,0 +1,13 @@
+source_name: "Los Angeles Unified School District Vice Society Ransomware Attack — 500GB Student Data"
+source_url: "https://achieve.lausd.net/Page/18551"
+date_of_breach: "2022-09-03"
+date_of_disclosure: "2022-09-06"
+date_of_customer_notification: "2022-10-03"
+category: "ransomware"
+initial_attack_vector: "Vice Society gained access to LAUSD's network prior to the Labor Day weekend attack; the group had likely been present in the network for weeks before deploying ransomware; initial access was via compromised contractor credentials obtained through an external-facing vulnerability"
+cve: []
+vendor_product: "Los Angeles Unified School District IT infrastructure"
+software_package: ""
+malware: "Vice Society ransomware"
+supply_chain_claimed: false
+notes: "Over the Labor Day weekend of 3-6 September 2022, Vice Society ransomware attacked the Los Angeles Unified School District (LAUSD) — the second-largest school district in the United States, serving approximately 600,000 students. LAUSD refused to pay the ransom. In retaliation, Vice Society published approximately 500 GB of stolen data in early October 2022, including sensitive records on students and staff: Social Security numbers, passport numbers, tax forms, bank account details, health information, psychological assessments, legal documents, and disciplinary records for current and former students dating back decades. Affected individuals included students' parents and former staff. LAUSD Superintendent Alberto Carvalho publicly refused to pay, stating paying would be morally indefensible and would not guarantee data security. The US CISA and FBI issued a joint advisory warning about Vice Society's targeting of the education sector. LAUSD partnered with CISA for recovery assistance. Microsoft subsequently donated $5 million worth of cybersecurity tools to LAUSD. California Governor Gavin Newsom convened a strike team to address cybersecurity in K-12 schools following the attack. Vice Society has been particularly active against schools and hospitals, operating as a ransomware-as-a-service (RaaS) affiliate targeting organizations with limited cybersecurity resources."

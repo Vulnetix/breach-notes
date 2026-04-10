@@ -1,0 +1,13 @@
+source_name: "CNA Financial Phoenix CryptoLocker Ransomware Attack ($40M Ransom)"
+source_url: "https://www.bleepingcomputer.com/news/security/insurance-giant-cna-financial-paid-40-million-ransom-to-recover-files/"
+date_of_breach: "2021-03-21"
+date_of_disclosure: "2021-03-23"
+date_of_customer_notification: "2021-05-12"
+category: "ransomware"
+initial_attack_vector: "Evil Corp affiliate used a fake browser update delivered via a legitimate website (watering hole / drive-by download) to deploy the Phoenix CryptoLocker ransomware; CNA employees were redirected to a malicious page that pushed a malicious update package"
+cve: []
+vendor_product: "CNA Financial internal network and endpoint systems"
+software_package: ""
+malware: "Phoenix CryptoLocker (Evil Corp)"
+supply_chain_claimed: false
+notes: "On 21 March 2021, CNA Financial — one of the largest commercial insurance companies in the United States — suffered a ransomware attack using a new malware strain called Phoenix CryptoLocker, believed to be developed and operated by the Evil Corp cybercrime group. The attack encrypted more than 15,000 devices on CNA's network, including the machines of remote employees working over VPN. CNA was forced to disconnect systems and notify customers and authorities. The company reportedly paid a $40 million ransom in May 2021 — the largest publicly known ransomware payment at the time — to regain access to its network after about two weeks of negotiations. The payment was controversial because Evil Corp is a sanctioned entity (OFAC sanctions), meaning US entities are prohibited from making payments to them. CNA insisted it followed all applicable laws and consulted with OFAC before the payment. The attack encrypted 15,000 devices and disrupted CNA's operations for three days. The company spent approximately two months recovering. CNA disclosed that personal data of up to 75,349 individuals was accessed by the attackers prior to encryption. As an insurance company, CNA ironically underwrites cyber insurance policies. The incident highlighted the OFAC sanction risk in ransomware payments and the particular irony of a cyber insurer being victimised."

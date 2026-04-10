@@ -1,0 +1,13 @@
+source_name: "AMCA (American Medical Collection Agency) Third-Party Breach — Quest Diagnostics, LabCorp, 20M Patients"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/amca/index.html"
+date_of_breach: "2018-08-01"
+date_of_disclosure: "2019-06-03"
+date_of_customer_notification: "2019-06-03"
+category: "supply-chain"
+initial_attack_vector: "Attacker compromised AMCA's web payment portal via unknown initial access vector; malicious code siphoned payment card data and personal information over an eight-month period before detection; AMCA was a third-party billing collections vendor for multiple major healthcare laboratories"
+cve: []
+vendor_product: "AMCA web payment portal"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "American Medical Collection Agency (AMCA), a major third-party billing and collections vendor for US healthcare laboratories, suffered a long-running breach of its web payment portal between August 2018 and March 2019. AMCA was first alerted by a security firm in May 2019 after stolen payment card data appeared for sale on dark web forums. The breach affected AMCA's clients: Quest Diagnostics (11.9 million patients), LabCorp (7.7 million patients), Carecentrix (500,000 patients), Sunrise Laboratories, Clinical Pathology Laboratories, and others — totalling approximately 20 million affected individuals. Stolen data included Social Security numbers, dates of birth, financial account information, medical information, payment card data, and personal contact information. The scale of the breach and the resulting lawsuits and regulatory investigations caused AMCA's parent company Retrieval-Masters Creditors Bureau to file for Chapter 11 bankruptcy in June 2019. AMCA notified the HHS OCR HIPAA Breach Portal. Multiple class-action lawsuits were filed. The incident highlighted severe risks of healthcare supply chains and third-party vendor access to sensitive patient billing data. Quest Diagnostics and LabCorp each faced SEC scrutiny for their disclosure timelines."

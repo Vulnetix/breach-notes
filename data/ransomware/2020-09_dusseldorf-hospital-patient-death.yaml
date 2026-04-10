@@ -1,0 +1,13 @@
+source_name: "University Hospital Düsseldorf Ransomware — First Ransomware-Attributed Patient Death"
+source_url: "https://www.bleepingcomputer.com/news/security/german-hospital-hit-with-ransomware-patient-possibly-first-to-die-from-cyberattack/"
+date_of_breach: "2020-09-09"
+date_of_disclosure: "2020-09-11"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Ransomware group exploited CVE-2019-19781 — a critical path traversal vulnerability in Citrix Application Delivery Controller (Citrix ADC / NetScaler) — to gain initial access to University Hospital Düsseldorf's network; the unpatched Citrix vulnerability had been known and widely exploited since January 2020"
+cve: ["CVE-2019-19781"]
+vendor_product: "University Hospital Düsseldorf IT infrastructure / Citrix ADC"
+software_package: ""
+malware: "DoppelPaymer ransomware"
+supply_chain_claimed: false
+notes: "On 9 September 2020, ransomware (assessed as DoppelPaymer) crippled the IT systems of University Hospital Düsseldorf (Universitätsklinikum Düsseldorf) — one of Germany's largest hospitals with approximately 1,200 beds — via an unpatched Citrix ADC vulnerability (CVE-2019-19781). The attack forced the emergency department to close and redirect ambulances to other hospitals. A critically ill female patient who was being transported to University Hospital Düsseldorf for emergency treatment was redirected 32 km to Wuppertal Hospital due to the closure; she died approximately an hour after arrival. German prosecutors opened a negligent homicide investigation — the first time a ransomware attack had potentially caused a patient death. The investigation was ultimately closed in December 2020 as investigators concluded the patient was so critically ill that the delay may not have been the direct cause of death — but it raised fundamental questions about ransomware liability and critical infrastructure risk. Notably, the ransom note was addressed to Heinrich Heine University (which is affiliated with the hospital) rather than the hospital itself, suggesting the hospital may have been an unintended victim. When German police contacted the attackers explaining they had hit a hospital, the attackers provided the decryption key and withdrew their ransom demand. Germany's BSI and law enforcement investigated. The case drove significant changes to German hospital cybersecurity funding and requirements."

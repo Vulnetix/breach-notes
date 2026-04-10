@@ -1,0 +1,13 @@
+source_name: "PageUp People HR SaaS Platform Breach — Australian HR Vendor Affecting 100+ Employers"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/pageup-data-breach-information-for-affected-individuals"
+date_of_breach: "2018-05-23"
+date_of_disclosure: "2018-06-05"
+date_of_customer_notification: "2018-06-05"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker compromised PageUp People's cloud-based HR and recruitment platform; PageUp described it as unusual activity in its IT infrastructure suggesting a malware infection; the platform stored candidate and employee data for over 100 Australian and global employers"
+cve: []
+vendor_product: "PageUp People HR recruitment SaaS platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In May 2018, PageUp People — a Melbourne-based HR and recruitment software company with clients across Australia, UK, US, Canada, and other countries — discovered unusual activity in its IT systems suggesting a malware-based compromise. PageUp disclosed the breach on 5 June 2018, prompting over 100 employer clients to suspend their use of PageUp and notify job applicants and employees. Major Australian employers affected included Telstra, Linfox, Reserve Bank of Australia, Aldi, Medibank, Target Australia, and the Australian government. UK clients included the BBC, Oxfam, and several UK government departments. The data potentially exposed included applicant details (names, addresses, dates of birth, email addresses, telephone numbers, employment history, academic qualifications), employee data, and reference information. PageUp stated that encrypted credit card data (not stored by PageUp), references, and documents were not compromised. PageUp notified the OAIC under Australia's new mandatory Notifiable Data Breaches scheme (which had only come into effect in February 2018 — the PageUp breach was one of the first major cases under the new regime). The OAIC and UK ICO both investigated. The incident highlighted the risk of HR platform supply chains and the breadth of downstream impact when a single SaaS recruitment platform is compromised — affecting hundreds of thousands of job applicants across dozens of major organisations simultaneously."

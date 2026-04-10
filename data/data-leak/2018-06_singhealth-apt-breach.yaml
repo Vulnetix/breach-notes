@@ -1,0 +1,13 @@
+source_name: "SingHealth Singapore National Health Database Breach (1.5M Patients, PM Lee Targeted)"
+source_url: "https://www.mci.gov.sg/pressroom/news-and-speeches/pressroom/2018/7/mci-press-statement-on-public-healthcare-data-breach"
+date_of_breach: "2018-06-27"
+date_of_disclosure: "2018-07-20"
+date_of_customer_notification: "2018-07-20"
+category: "data-leak"
+initial_attack_vector: "Advanced persistent threat group (assessed as state-sponsored, linked to Chinese APT10/APT41) used phishing email to compromise a SingHealth front-end workstation, moved laterally to the SCM database via multiple infected machines, and used a custom remote access tool to extract data over approximately three weeks"
+cve: []
+vendor_product: "SingHealth Sunrise Clinical Manager (SCM) patient database"
+software_package: ""
+malware: "Custom RAT (remote access trojan)"
+supply_chain_claimed: false
+notes: "Between 27 June and 4 July 2018, attackers exfiltrated personal data of 1.495 million patients from SingHealth's Sunrise Clinical Manager outpatient database — approximately 25% of Singapore's total population. Data stolen included NRIC numbers, names, addresses, dates of birth, race, and gender. 160,000 patients also had their outpatient dispensed medication records stolen. The personal records of Prime Minister Lee Hsien Loong were specifically and repeatedly targeted, suggesting geopolitical espionage motivations. The attack was first detected on 4 July 2018 by a database administrator who noticed unusual activity. Initial suspicious activity had actually been detected by Integrated Health Information Systems (IHiS) staff in late June but initial response was insufficient. The Committee of Inquiry (COI) set up by the Singapore government concluded in January 2019 that the attack was a deliberate, targeted, well-planned APT attack and not the work of casual hackers. The COI identified failures including insufficient staff training, inadequate incident response, and delayed escalation. IHiS CEO Chong Yoke Sin and two other staff received financial penalties. Singapore strengthened its Cybersecurity Act and mandatory breach notification regime following the incident. The attack is widely attributed to a state-sponsored threat actor linked to China."

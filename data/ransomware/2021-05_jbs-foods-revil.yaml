@@ -1,0 +1,13 @@
+source_name: "JBS Foods REvil Ransomware Attack ($11M Ransom, Global Meat Supply Disruption)"
+source_url: "https://www.fbi.gov/news/press-releases/press-releases/fbi-statement-on-jbs-cyberattack"
+date_of_breach: "2021-05-30"
+date_of_disclosure: "2021-06-01"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "REvil ransomware-as-a-service affiliate obtained credentials to JBS's VPN; specific initial access vector was compromised remote access credentials; the attack targeted JBS's North American and Australian operations simultaneously"
+cve: []
+vendor_product: "JBS Foods IT infrastructure (North America and Australia)"
+software_package: ""
+malware: "REvil (Sodinokibi)"
+supply_chain_claimed: false
+notes: "On 30 May 2021, JBS S.A. — the world's largest meat processing company, processing approximately one-fifth of all US beef — was hit by a REvil ransomware attack that forced the shutdown of all its US beef plants and disrupted operations in Australia and Canada. JBS processes approximately 23 million pounds of beef per day in the US. The attack forced the temporary closure of nine beef-processing plants in the US, halting roughly 20% of US beef production capacity for multiple days and causing wholesale beef prices to rise approximately 6%. In Australia, JBS shut down 10 plants affecting thousands of workers. JBS paid an $11 million USD ransom in Bitcoin to the REvil ransomware group on approximately 9 June 2021, three days after fully restoring operations. JBS CEO Andre Novaes stated the ransom was paid to prevent any potential risk to data and to ensure no future threat from the actors. The FBI attributed the attack to REvil (also known as Sodinokibi). The US subsequently tracked and recovered approximately $2.3 million of the ransom payment through law enforcement action. The attack demonstrated that ransomware groups were deliberately targeting critical food infrastructure as a high-impact target. President Biden discussed the attack with Russian President Putin in their June 2021 summit, framing ransomware as a national security issue."

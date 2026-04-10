@@ -1,0 +1,13 @@
+source_name: "HWL Ebsworth Law Firm ALPHV/BlackCat Ransomware — Australia's Largest Law Firm Breach"
+source_url: "https://www.oaic.gov.au/updates/news-and-media/hwl-ebsworth-cyber-incident"
+date_of_breach: "2023-04-28"
+date_of_disclosure: "2023-05-08"
+date_of_customer_notification: "2023-06-01"
+category: "ransomware"
+initial_attack_vector: "ALPHV/BlackCat ransomware-as-a-service affiliates compromised HWL Ebsworth's network via unknown initial access vector; spent time in the network exfiltrating approximately 4 terabytes of data before being detected"
+cve: []
+vendor_product: "HWL Ebsworth law firm internal systems"
+software_package: ""
+malware: "ALPHV/BlackCat ransomware"
+supply_chain_claimed: false
+notes: "In late April 2023, ALPHV/BlackCat ransomware affiliates breached HWL Ebsworth — one of Australia's largest national law firms with offices in all Australian capital cities and thousands of clients including many government agencies and major corporations. The attackers exfiltrated approximately 4 terabytes of data and published portions of it after HWL Ebsworth refused to pay the ransom. The firm serves as legal counsel to over 60 Australian government agencies including federal and state/territory governments, and the stolen data included highly sensitive government legal files, client communications, court documents, and employee records. The breach was particularly significant because HWL Ebsworth held privileged legal communications for numerous government departments, creating concerns about national security implications and legal professional privilege. The ALPHV group published approximately 1.45 TB of data on their dark web leak site in multiple tranches. Affected government clients included the Reserve Bank of Australia, Australian Taxation Office, ASIC, various state police forces, and major banks. The Australian Government Solicitor was among entities notified. HWL Ebsworth notified the OAIC under Australia's Notifiable Data Breaches scheme. The incident was described as the most significant law firm data breach in Australian history and highlighted the systemic risk of a single law firm holding sensitive data for hundreds of government and corporate clients."

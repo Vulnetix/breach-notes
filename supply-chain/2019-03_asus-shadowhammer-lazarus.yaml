@@ -1,0 +1,13 @@
+source_name: "ASUS Live Update ShadowHammer Supply Chain Attack — Lazarus Group / OPERATION ShadowHammer"
+source_url: "https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/"
+date_of_breach: "2019-01-01"
+date_of_disclosure: "2019-03-25"
+date_of_customer_notification: "2019-03-26"
+category: "supply-chain"
+initial_attack_vector: "Attackers (assessed as Lazarus Group / BARIUM) compromised ASUS's software signing infrastructure and injected malicious code into the legitimate ASUS Live Update Utility; the trojanized utility was signed with genuine ASUS digital certificates and distributed via ASUS's official update servers to approximately 1 million ASUS laptop and desktop computers worldwide"
+cve: []
+vendor_product: "ASUS Live Update Utility (ASUS pre-installed automatic update tool)"
+software_package: "ASUS Live Update Utility"
+malware: "ShadowHammer backdoor"
+supply_chain_claimed: true
+notes: "Between June 2018 and November 2018 (disclosed March 2019), attackers compromised ASUS's software build and signing infrastructure to inject a backdoor into the ASUS Live Update Utility — a tool pre-installed on most ASUS laptops and desktops to automatically push firmware, BIOS, driver, and application updates. The trojanized version was signed with legitimate ASUS digital certificates, making it indistinguishable from genuine software. Approximately 1 million devices received the malicious update via ASUS's official servers. However, the backdoor contained a hardcoded list of approximately 600 specific MAC addresses that were the true targets — when the malware found a matching MAC address, it downloaded and executed a second-stage payload. The narrow targeting on specific machines within a massive distribution indicated a precision espionage operation. Kaspersky Lab discovered the attack (code-named OPERATION ShadowHammer) and disclosed it on 25 March 2019 after notifying ASUS in January 2019. Kaspersky published a MAC address checker to allow affected users to determine if their device was a targeted machine. ASUS released a patched version of Live Update (3.6.8) and a diagnostic tool. The attack was attributed to BARIUM, a threat actor associated with Lazarus Group based on code similarities to earlier ShadowPad and CCleaner supply chain attacks. ASUS was criticised for its delayed public response and for not proactively notifying customers. The operation demonstrated that highly targeted APT espionage campaigns could use mass-scale software distribution as a delivery mechanism while only activating on specific targets."

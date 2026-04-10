@@ -1,0 +1,13 @@
+source_name: "Ledger Connect Kit Supply Chain Attack — DRAINER injected via compromised npm account"
+source_url: "https://www.ledger.com/blog/a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit"
+date_of_breach: "2023-12-14"
+date_of_disclosure: "2023-12-14"
+date_of_customer_notification: "2023-12-14"
+category: "supply-chain"
+initial_attack_vector: "Former Ledger employee's NPMJS account was compromised via a targeted phishing attack after the employee left the company; attacker used the account to publish malicious versions (1.1.5, 1.1.6, 1.1.7) of the @ledgerhq/connect-kit package — a widely integrated JavaScript library that enables hardware wallet connections in DeFi front-ends — replacing the legitimate code with a wallet drainer that redirected cryptocurrency transactions to attacker-controlled addresses"
+cve: []
+vendor_product: "Ledger Connect Kit (@ledgerhq/connect-kit npm package)"
+software_package: "@ledgerhq/connect-kit"
+malware: "Angel Drainer (cryptocurrency wallet drainer injected via CDN)"
+supply_chain_claimed: true
+notes: "On 14 December 2023, an attacker compromised the npm account of a former Ledger employee (whose account retained access to the @ledgerhq/connect-kit package despite employment termination) via a phishing attack. The attacker published malicious versions 1.1.5, 1.1.6, and 1.1.7 of Ledger Connect Kit — a JavaScript SDK used by hundreds of DeFi and Web3 applications to integrate Ledger hardware wallet connections. The malicious code replaced the legitimate wallet connection interface with an 'Angel Drainer' payload that redirected users' cryptocurrency transaction signatures to attacker-controlled wallets. Any DeFi application that loaded the compromised Connect Kit via CDN (cdn.jsdelivr.net) automatically served the malicious code to all users. Major affected platforms included SushiSwap, Kyber Network, RevokeCash, Zapper, and dozens of others. The malicious versions were live for approximately 5 hours (10:44 to 17:17 UTC). Confirmed losses were approximately $484,000 drained from at least 99 wallets, though additional victims likely did not report. Tether (USDT) froze approximately $44,000 associated with the attacker's address. Ledger revoked the compromised npm token within ~40 minutes of discovery and published a clean version (1.1.8). The incident highlighted: (1) the need to revoke access for departed employees from package repositories; (2) the risk of CDN-delivered JavaScript for financial applications; and (3) how a single compromised npm package can affect hundreds of downstream DeFi protocols simultaneously. Ledger committed to implementing npm package freezing and stricter off-boarding procedures."

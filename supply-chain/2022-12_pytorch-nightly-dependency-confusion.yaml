@@ -1,0 +1,13 @@
+source_name: "PyTorch Nightly Dependency Confusion Attack — torchtriton Malicious Package"
+source_url: "https://pytorch.org/blog/compromised-nightly-dependency/"
+date_of_breach: "2022-12-25"
+date_of_disclosure: "2022-12-30"
+date_of_customer_notification: "2022-12-31"
+category: "supply-chain"
+initial_attack_vector: "Dependency confusion attack: attacker uploaded a malicious package named 'torchtriton' to the public PyPI index that took precedence over the legitimate same-named package in PyTorch's private package index (download.pytorch.org); any user who installed PyTorch nightly builds between 25-30 December 2022 using pip received the malicious torchtriton package which stole sensitive data from the victim's system"
+cve: []
+vendor_product: "PyTorch nightly build (Meta AI deep learning framework)"
+software_package: "torchtriton"
+malware: "triton (malicious PyPI package — data stealer)"
+supply_chain_claimed: true
+notes: "On 25 December 2022, an attacker uploaded a malicious package named 'torchtriton' to the public PyPI index. PyTorch nightly builds depended on a package with the same name ('torchtriton') from PyTorch's own private package repository at download.pytorch.org. Because pip searches the public PyPI index before private sources by default, the malicious public package took precedence over the legitimate private one — a classic dependency confusion attack. Any developer who installed PyTorch-nightly between 25-30 December 2022 received the malicious torchtriton package. The malicious package contained code that collected: the system's environment variables, /etc/hosts file contents, current working directory, hostname, the running user's username, home directory, and the SSH private keys from ~/.ssh. It also collected information about all .gitconfig files. The stolen data was exfiltrated to the domain H4CK[.]cfd via DNS queries (using the whois.das.ws DNS-over-HTTPS service). PyTorch detected the issue on 30 December and disclosed it on 31 December. PyTorch removed the malicious package, released a fix, and advised all users who installed nightly builds during the window to consider their systems compromised, rotate credentials, and check for exfiltrated SSH keys. The attacker had uploaded the malicious package under the username 'pytorchtriton'. The incident highlighted how private PyPI indices combined with pip's default resolution order create a class of supply chain vulnerability affecting machine learning and data science workflows specifically."

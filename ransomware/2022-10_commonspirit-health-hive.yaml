@@ -1,0 +1,13 @@
+source_name: "CommonSpirit Health Hive Ransomware Attack — 140 Hospitals, 623K Patients"
+source_url: "https://commonspirit.org/cybersecurity-incident/"
+date_of_breach: "2022-10-03"
+date_of_disclosure: "2022-10-04"
+date_of_customer_notification: "2022-12-01"
+category: "ransomware"
+initial_attack_vector: "Hive ransomware group gained access to CommonSpirit's internal network via compromised credentials; attackers had access from 16 September through 3 October 2022 before the attack was detected; specific initial access vector (likely phishing or RDP) was not fully disclosed"
+cve: []
+vendor_product: "CommonSpirit Health hospital IT infrastructure"
+software_package: ""
+malware: "Hive ransomware"
+supply_chain_claimed: false
+notes: "On 3 October 2022, CommonSpirit Health — the second-largest nonprofit hospital system in the United States with 140 hospitals and over 1,000 care sites across 21 states — was hit by a Hive ransomware attack. CommonSpirit disclosed the 'IT security issue' on 4 October initially calling it an IT disruption. The attack forced hospitals to take EHR systems offline, revert to paper-based procedures, and cancel or reschedule non-urgent appointments and procedures across multiple states. Affected hospitals included CHI Memorial Hospital (Chattanooga, TN), St. Luke's Medical Center (Houston, TX), Virginia Mason Franciscan Health (Seattle, WA), and dozens of others. A documented patient safety incident occurred at CHI Memorial Hospital in Tennessee: a nurse unable to access EHR systems administered a tenfold pain medication overdose to a patient; the patient survived. CommonSpirit notified HHS OCR that 623,774 patient records were compromised, including names, dates of birth, phone numbers, addresses, and internal medical record numbers. The investigation determined attackers had access to certain files from 16 September to 3 October 2022 — 17 days before detection. The Hive ransomware group was disrupted by the FBI in January 2023, which had infiltrated Hive's network for seven months and obtained decryption keys. The CommonSpirit attack represented one of the largest US hospital ransomware incidents by patient count in 2022."

@@ -1,0 +1,13 @@
+source_name: "Codecov Bash Uploader Supply Chain Attack — CI/CD Credential Exfiltration"
+source_url: "https://about.codecov.io/security-update/"
+date_of_breach: "2021-01-31"
+date_of_disclosure: "2021-04-15"
+date_of_customer_notification: "2021-04-15"
+category: "supply-chain"
+initial_attack_vector: "Attacker exploited a flaw in Codecov's Docker image creation process to extract credentials from Codecov's Google Cloud Storage bucket; used these credentials to modify the bash uploader script (bash.codecov.io/bash) — distributed to CI/CD pipelines globally — to exfiltrate environment variables including secrets, API tokens, and credentials to an attacker-controlled server (opcode.io)"
+cve: []
+vendor_product: "Codecov Bash Uploader (codecov.io CI/CD code coverage reporting tool)"
+software_package: "codecov-bash"
+malware: ""
+supply_chain_claimed: true
+notes: "Between 31 January and 1 April 2021, attackers silently modified Codecov's popular bash uploader script, which thousands of CI/CD pipelines used to upload code coverage reports. Every CI/CD pipeline that ran the tampered script had its environment variables — including secrets, API tokens, AWS keys, and credentials — exfiltrated to an attacker-controlled server (opcode.io). Codecov discovered the compromise on 1 April 2021 after a customer noticed a SHA256 checksum mismatch, and disclosed it publicly on 15 April. The script was used in pipelines at major companies including Twilio, Atlassian, HashiCorp, Snyk, The Washington Post, Shopify, Confluent, Procore, and hundreds of others. Twilio confirmed their build environment was compromised; HashiCorp's Mercurial mirror signing key was exposed (requiring key rotation); Atlassian confirmed credential exposure. The FBI assisted with the investigation. The attack was notable for running silently in CI pipelines for over two months — affecting both open-source and private enterprise pipelines. The attacker leveraged stolen credentials to attempt further downstream breaches. The technique — compromising a widely used CI/CD integration to harvest secrets at scale — became a template for subsequent supply chain attacks. Attribution pointed to a Russian-nexus actor with TTPs similar to APT29/Cozy Bear (SVR). The incident prompted industry-wide review of CI/CD pipeline security, bash script integrity checking, and least-privilege credential practices."

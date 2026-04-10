@@ -3,7 +3,7 @@
 This document outlines the process for populating breach data in the breach-notes repository.
 
 ## Objective
-Continuously discover and document new cybersecurity breach incidents from public sources.
+Continuously discover and document cybersecurity breach incidents from public sources, covering incidents from 1999 to the present day.
 
 ## Process
 1. Monitor security news sources, breach databases, and threat intelligence feeds
@@ -27,6 +27,9 @@ Continuously discover and document new cybersecurity breach incidents from publi
 - HaveIBeenPwned (haveibeenpwned.com)
 - DataBreaches.net
 - Privacy Guides breach roundups (privacyguides.org)
+- DataBreachToday (databreachtoday.com) — comprehensive breach news and analysis; sitemap at databreachtoday.com/sitemap.html covers incidents back to ~2010
+- Breaches.cloud (breaches.cloud/incidents/) — cloud-specific breach incidents with technical root cause analysis; covers major cloud misconfigurations and credential theft incidents
+- BlackKite Third-Party Breach List (blackkite.com/data-breaches-caused-by-third-parties) — supply chain and vendor-related breaches going back to 2013
 
 ### Regulatory & Mandatory Notification Registries
 

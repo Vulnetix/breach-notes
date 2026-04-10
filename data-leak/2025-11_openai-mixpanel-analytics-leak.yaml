@@ -1,0 +1,13 @@
+source_name: "OpenAI Mixpanel Product Analytics Data Exposure"
+source_url: "https://www.bleepingcomputer.com/news/security/openai-discloses-data-exposure-via-mixpanel-analytics-provider/"
+date_of_breach: "2025-10-01"
+date_of_disclosure: "2025-11-10"
+date_of_customer_notification: "2025-11-10"
+category: "data-leak"
+initial_attack_vector: "OpenAI's product analytics vendor Mixpanel was compromised, exposing behavioral and account data that OpenAI had shared with Mixpanel for product analytics purposes"
+cve: []
+vendor_product: "Mixpanel (product analytics SaaS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In November 2025, OpenAI disclosed that customer data had been exposed via Mixpanel, its third-party product analytics platform. OpenAI had shared user behavioral data with Mixpanel for product improvement purposes, and the compromise of Mixpanel's systems exposed this data. Affected information included user names, email addresses, approximate geographic location, operating system and browser information, and organizational/user identifiers. This was part of a broader Mixpanel breach that affected multiple technology companies including PornHub, Pinterest's Shuffles app, CoinDCX, SoundCloud, SwissBorg, and CoinLedger in November-December 2025."

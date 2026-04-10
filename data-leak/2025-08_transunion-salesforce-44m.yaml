@@ -1,0 +1,13 @@
+source_name: "TransUnion Salesforce Platform Breach (44M+ Records)"
+source_url: "https://www.bleepingcomputer.com/news/security/transunion-confirms-data-exposed-in-salesforce-breach/"
+date_of_breach: "2025-07-01"
+date_of_disclosure: "2025-08-20"
+date_of_customer_notification: "2025-08-20"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters compromised TransUnion's Salesforce environment through social engineering / vishing of a Salesforce-privileged user, part of the broader 2025 Scattered Spider/ShinyHunters Salesforce campaign targeting major enterprises"
+cve: []
+vendor_product: "Salesforce"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2025, TransUnion confirmed it had been affected by the ShinyHunters/Scattered Spider Salesforce social engineering campaign, with limited personal information exposed for an estimated 44 million or more individuals. TransUnion, as one of the US's three major credit bureaus, holds extensive consumer credit and financial records. The breach was part of a broader wave of ShinyHunters vishing attacks against enterprises using Salesforce, in which attackers impersonated IT support staff to obtain Salesforce administrator credentials. Other confirmed victims of the same campaign include Air France-KLM, Cisco, Pandora, Chanel, Stellantis, and Farmers Insurance."

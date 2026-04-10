@@ -1,0 +1,13 @@
+source_name: "London North Eastern Railway (LNER) Third-Party Vendor Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/uk-train-operator-lner-discloses-customer-data-breach/"
+date_of_breach: "2025-08-15"
+date_of_disclosure: "2025-09-25"
+date_of_customer_notification: "2025-09-25"
+category: "data-leak"
+initial_attack_vector: "An unnamed third-party vendor used by LNER was compromised, exposing customer contact details and journey information stored in the vendor's systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "London North Eastern Railway (LNER), the UK train operator serving the East Coast Main Line between London King's Cross, Edinburgh, and Aberdeen, disclosed in September 2025 that a third-party vendor had been compromised. The breach exposed customer contact details and journey information for affected LNER passengers. LNER notified affected customers and reported the incident to the ICO as required under GDPR/UK GDPR obligations."

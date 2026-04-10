@@ -1,0 +1,13 @@
+source_name: "Marks & Spencer Tata Consultancy Services Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/marks-and-spencer-cyber-incident-caused-by-scattered-spider-hackers/"
+date_of_breach: "2025-04-22"
+date_of_disclosure: "2025-04-22"
+date_of_customer_notification: "2025-05-13"
+category: "data-leak"
+initial_attack_vector: "Scattered Spider (UNC3944) conducted a social engineering / vishing attack targeting Tata Consultancy Services (TCS) employees who had privileged access to M&S systems, gaining access to M&S Active Directory via NTLM hash relay and deploying DragonForce ransomware"
+cve: []
+vendor_product: "Tata Consultancy Services (IT outsourcing vendor)"
+software_package: ""
+malware: "DragonForce ransomware"
+supply_chain_claimed: true
+notes: "Beginning around April 22, 2025, Scattered Spider (also tracked as UNC3944 and Octo Tempest) attacked Marks & Spencer, the UK's largest clothing retailer, by socially engineering employees at TCS (Tata Consultancy Services), M&S's IT outsourcing provider. Attackers obtained credentials and used NTLM hash relay attacks to access M&S's internal Active Directory. DragonForce ransomware was deployed in late April 2025, causing widespread disruption to M&S's online ordering, contactless payments, and supply chain systems. Online clothing orders were suspended for over three weeks. The breach affected customer data including names, email addresses, phone numbers, home addresses, and order history — though M&S stated payment data was not compromised. The attack caused an estimated £300M+ in lost sales and share price decline. Simultaneously part of the broader wave of Scattered Spider attacks on UK retailers in spring 2025."

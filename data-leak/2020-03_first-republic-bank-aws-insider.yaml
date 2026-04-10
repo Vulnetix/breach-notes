@@ -1,0 +1,13 @@
+source_name: "First Republic Bank AWS Insider Threat Data Exfiltration"
+source_url: "https://www.bleepingcomputer.com/news/security/first-republic-bank-insider-stole-customer-data-using-aws-access/"
+date_of_breach: "2020-03-11"
+date_of_disclosure: "2020-03-12"
+date_of_customer_notification: "2020-03-12"
+category: "data-leak"
+initial_attack_vector: "A First Republic Bank employee with legitimate AWS access used their credentials to exfiltrate customer data from AWS-hosted banking systems"
+cve: []
+vendor_product: "Amazon Web Services (AWS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2020, First Republic Bank (a US private bank and wealth management company) disclosed that an insider threat incident had occurred. A bank employee with legitimate access to AWS cloud systems used those credentials to exfiltrate customer data over a brief window on March 11-12, 2020. The data exfiltrated included customer names, addresses, and account information. First Republic Bank promptly identified the unauthorized access, terminated the employee's access, and notified affected customers and regulators. The incident occurred around the same time as the COVID-19 lockdown began, which likely affected the bank's ability to monitor for insider threats."

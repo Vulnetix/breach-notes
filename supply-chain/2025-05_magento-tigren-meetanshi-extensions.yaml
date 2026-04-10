@@ -1,0 +1,13 @@
+source_name: "Magento Extension Supply Chain Attack (Tigren, Meetanshi, MGS — 500-1000 E-Commerce Stores)"
+source_url: "https://www.bleepingcomputer.com/news/security/malicious-magento-extensions-found-on-tigren-meetanshi-mgs-servers/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-05-01"
+date_of_customer_notification: ""
+category: "supply-chain"
+initial_attack_vector: "Attackers compromised the servers of three Magento extension vendors (Tigren, Meetanshi, and MGS/Mageplaza) and trojanized their extension packages to include a backdoor that exfiltrated customer payment card data and credentials from the e-commerce stores that installed them"
+cve: []
+vendor_product: "Tigren; Meetanshi; MGS (Magento extensions)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In May 2025, security researchers disclosed that three Magento extension vendors — Tigren, Meetanshi, and MGS (Mageplaza) — had their extension distribution servers compromised. Attackers injected malicious code into extension packages that were then downloaded and installed by e-commerce stores. The trojanized extensions installed a backdoor that exfiltrated customer data including payment card details and login credentials. Approximately 500-1,000 e-commerce stores were estimated to have installed compromised extensions. Affected store customers had their payment card data silently harvested (a Magecart-style attack delivered via the supply chain rather than direct injection). The three vendors, popular across small and mid-sized Magento-based online stores globally, removed the compromised packages after disclosure."

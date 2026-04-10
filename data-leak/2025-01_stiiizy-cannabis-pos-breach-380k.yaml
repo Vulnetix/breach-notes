@@ -1,0 +1,13 @@
+source_name: "Stiiizy Cannabis Retailer POS Provider Breach (380K Customers)"
+source_url: "https://www.bleepingcomputer.com/news/security/cannabis-brand-stiiizy-discloses-data-breach-impacting-380-000-customers/"
+date_of_breach: "2024-10-01"
+date_of_disclosure: "2025-01-15"
+date_of_customer_notification: "2025-01-15"
+category: "data-leak"
+initial_attack_vector: "Threat actors compromised Stiiizy's third-party point-of-sale (POS) system provider, gaining access to customer purchasing records that include highly sensitive government-issued identity documents"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Stiiizy, a major California-based cannabis brand and retailer, disclosed in January 2025 that a breach via its unnamed third-party POS system provider in approximately October 2024 had exposed records for approximately 380,000 customers. Because cannabis retailers are required to verify customer age and identity, the POS system stored particularly sensitive data including customer names, dates of birth, addresses, driver's licenses, government-issued ID documents, passports, and cannabis purchase cards/medical marijuana cards. The nature of the data — identity documents tied to regulated cannabis purchases — creates unique reputational and safety risks for affected customers."

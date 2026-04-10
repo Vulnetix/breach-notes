@@ -1,0 +1,13 @@
+source_name: "StreamElements Gooten Merchandise Operations Vendor Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/streamelements-discloses-third-party-data-breach-via-merchandise-vendor/"
+date_of_breach: "2025-02-15"
+date_of_disclosure: "2025-03-20"
+date_of_customer_notification: "2025-03-20"
+category: "supply-chain"
+initial_attack_vector: "Gooten, a merchandise fulfillment and print-on-demand vendor used by StreamElements for its creator merchandise programs, was compromised, exposing StreamElements content creator customer data"
+cve: []
+vendor_product: "Gooten (merchandise/print-on-demand fulfillment)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "StreamElements, a platform for live streaming tools and creator merchandise, disclosed in March 2025 that a third-party vendor breach had exposed customer data. The breach originated at Gooten, StreamElements' merchandise fulfillment partner used to handle print-on-demand and merchandise shipping for content creators. Exposed data included creator and fan names, home addresses, phone numbers, and email addresses. StreamElements notified affected users and has since moved to alternative merchandise fulfillment providers. The incident highlighted the risk exposure of content creator platforms that pass fan shipping addresses to fulfillment vendors."

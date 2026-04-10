@@ -1,0 +1,13 @@
+source_name: "UNC2903 IMDSv1 AWS Instance Metadata Service Abuse"
+source_url: "https://cloud.google.com/blog/topics/threat-intelligence/cloud-metadata-server-ssrf-exploitation"
+date_of_breach: "2021-06-21"
+date_of_disclosure: "2022-05-04"
+date_of_customer_notification: ""
+category: "credential-theft"
+initial_attack_vector: "UNC2903 exploited Server-Side Request Forgery (SSRF) vulnerabilities in web applications running on AWS EC2 instances to query the IMDSv1 (Instance Metadata Service v1) endpoint at 169.254.169.254, retrieving temporary IAM role credentials without authentication"
+cve: []
+vendor_product: "Amazon Web Services EC2 IMDSv1 (Instance Metadata Service v1)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "UNC2903 is a financially-motivated threat actor tracked by Mandiant/Google Cloud that systematically exploited IMDSv1 vulnerabilities in AWS deployments. Beginning in mid-2021, UNC2903 scanned for and exploited web applications with SSRF vulnerabilities to reach the AWS EC2 Instance Metadata Service v1 endpoint (169.254.169.254), which returns temporary IAM role credentials without requiring any authentication. These credentials were then used to access S3 buckets and other AWS services. IMDSv1 by design provides credentials to anyone who can reach the metadata endpoint, including through SSRF. AWS subsequently made IMDSv2 (which requires a session token obtained via PUT request, preventing SSRF exploitation) the default for new instances. This campaign was disclosed in Google Cloud's threat intelligence report in May 2022 and is a canonical example of the SSRF-to-cloud-credentials attack chain."

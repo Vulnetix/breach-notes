@@ -1,0 +1,13 @@
+source_name: "Sharp HealthCare Episource Third-Party Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/sharp-healthcare-discloses-data-breach-affecting-patient-records/"
+date_of_breach: "2025-05-01"
+date_of_disclosure: "2025-06-15"
+date_of_customer_notification: "2025-06-15"
+category: "supply-chain"
+initial_attack_vector: "Episource, a healthcare risk adjustment and analytics vendor, was breached, exposing patient records for Sharp HealthCare clients that had been shared with Episource for clinical documentation and risk adjustment analytics services"
+cve: []
+vendor_product: "Episource (healthcare risk adjustment analytics)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Sharp HealthCare, a major integrated regional health system in San Diego, California, disclosed in June 2025 that a breach at Episource, its third-party healthcare risk adjustment and analytics vendor, had exposed patient records. Exposed data included Social Security numbers, health insurance plan IDs, medical records and chart information, diagnoses, clinical notes, images, and diagnostic test results. The depth of clinical data exposed — including imaging and test results — was particularly severe. Sharp HealthCare filed notifications with HHS OCR and notified affected patients. Episource provides risk adjustment documentation and analytics to health plans and provider groups across the US; this breach affected patients whose data had been shared for clinical documentation improvement purposes."

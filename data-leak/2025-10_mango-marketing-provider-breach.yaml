@@ -1,0 +1,13 @@
+source_name: "MANGO Third-Party Marketing Provider Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/mango-clothing-brand-discloses-data-breach-via-marketing-provider/"
+date_of_breach: "2025-09-15"
+date_of_disclosure: "2025-10-10"
+date_of_customer_notification: "2025-10-10"
+category: "data-leak"
+initial_attack_vector: "MANGO's third-party marketing service provider was compromised, exposing customer contact and demographic data used for marketing campaigns"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "MANGO, the Spanish global fashion retailer, disclosed in October 2025 that a third-party marketing provider had been compromised, exposing customer data. Exposed information included customer first names, countries of residence, postal codes, email addresses, and phone numbers. MANGO notified affected customers and filed notifications with relevant European data protection authorities. The breach did not expose payment information or full postal addresses."

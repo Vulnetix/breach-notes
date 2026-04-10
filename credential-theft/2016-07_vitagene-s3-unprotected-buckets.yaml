@@ -1,0 +1,13 @@
+source_name: "Vitagene Unprotected S3 Buckets Expose Genetic and Health Data"
+source_url: "https://techcrunch.com/2019/08/01/vitagene-dna-health-data-exposed/"
+date_of_breach: "2016-01-01"
+date_of_disclosure: "2019-08-01"
+date_of_customer_notification: "2019-08-15"
+category: "data-leak"
+initial_attack_vector: "Vitagene left Amazon S3 buckets containing customer raw DNA data and health profile files publicly accessible without authentication, with no CloudTrail logging enabled to detect unauthorized access"
+cve: []
+vendor_product: "Amazon S3"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Vitagene, a consumer DNA and ancestry testing company, left Amazon S3 buckets containing raw genetic data files, health reports, and personal information for customers publicly accessible without authentication. The buckets were discovered by researchers in 2019, but had been publicly accessible since at least 2016, meaning data may have been accessible for up to three years. Exposed data included raw DNA files, health and ancestry reports, and personal information including names, dates of birth, and health conditions. Vitagene had also disabled CloudTrail logging, making it impossible to determine whether any unauthorized access had occurred. The FTC investigated the company for failing to honor its privacy promises and secure sensitive genetic health data. This case is notable for the extreme sensitivity of the exposed data (raw genetic files) and the lack of audit logging that prevented any assessment of exposure duration."

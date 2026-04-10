@@ -1,0 +1,13 @@
+source_name: "TalkTalk CSG Ascendon Telecom Platform Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/talktalk-investigates-data-breach-after-hackers-claim-theft-of-customer-info/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-01-22"
+date_of_customer_notification: "2025-01-22"
+category: "supply-chain"
+initial_attack_vector: "Threat actors compromised CSG Ascendon, a third-party telecom billing and subscriber management platform used by TalkTalk, gaining access to subscriber account records"
+cve: []
+vendor_product: "CSG Ascendon (telecom billing/subscriber management SaaS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In January 2025, TalkTalk, the UK telecommunications provider, disclosed that a data breach had occurred via CSG Ascendon, its third-party subscriber management and billing platform provider. A threat actor who claimed responsibility offered the stolen data for sale on a cybercrime forum. The exposed data included subscriber names, email addresses, IP addresses, and phone numbers. TalkTalk confirmed that CSG Ascendon's systems were the source of the breach, not TalkTalk's own infrastructure. This is TalkTalk's third significant data security incident following its major 2015 breach (157K customers, £400K ICO fine) and 2020 reseller incident."

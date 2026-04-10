@@ -1,0 +1,13 @@
+source_name: "Air France-KLM Salesforce ShinyHunters Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/air-france-klm-discloses-data-breach-via-salesforce-platform/"
+date_of_breach: "2025-07-01"
+date_of_disclosure: "2025-08-20"
+date_of_customer_notification: "2025-08-20"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters compromised Air France-KLM's Salesforce CRM environment through social engineering / vishing of a Salesforce-privileged employee, part of the broader 2025 ShinyHunters Salesforce campaign"
+cve: []
+vendor_product: "Salesforce"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Air France-KLM, the Franco-Dutch multinational airline group, disclosed in August 2025 that their Salesforce CRM environment had been compromised as part of the ShinyHunters/Scattered Spider Salesforce social engineering campaign. Exposed data included customer names, email addresses, phone numbers, Flying Blue frequent flyer rewards details, and transaction history. Air France-KLM notified affected customers and filed notifications with French (CNIL) and Dutch (AP) data protection authorities. Part of the broader 2025 Salesforce campaign also affecting TransUnion (44M+), Cisco, Pandora, Chanel, Stellantis, and Farmers Insurance."

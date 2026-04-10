@@ -1,0 +1,13 @@
+source_name: "Marina Bay Sands Singapore Loyalty Programme Breach (665K Members)"
+source_url: "https://www.pdpc.gov.sg/enforcement-decisions"
+date_of_breach: "2023-10-19"
+date_of_disclosure: "2023-10-26"
+date_of_customer_notification: "2023-11-03"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to Marina Bay Sands' Sands LifeStyle loyalty programme customer database; attacker obtained credentials to access the loyalty programme's backend systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 19-20, 2023, unauthorized actors accessed the Sands LifeStyle loyalty programme database of Marina Bay Sands, Singapore's iconic integrated resort and casino. The breach exposed personal data for 665,000 loyalty programme members. Compromised data included names, email addresses, phone numbers, mobile numbers, membership tier details, and membership numbers. Marina Bay Sands disclosed the breach on October 26 and began notifying affected members. The Singapore Personal Data Protection Commission (PDPC) investigated and in October 2025 fined Marina Bay Sands Pte Ltd SGD 2.4 million (approximately USD 1.8 million) — one of the largest PDPC enforcement actions under the Personal Data Protection Act (PDPA). The PDPC found failures in access control, monitoring, and security management of the loyalty programme systems."

@@ -1,0 +1,13 @@
+source_name: "SwissBorg Kiln Staking Infrastructure Breach ($41M SOL)"
+source_url: "https://www.bleepingcomputer.com/news/security/swissborg-loses-41-million-in-solana-after-kiln-staking-provider-hacked/"
+date_of_breach: "2025-09-01"
+date_of_disclosure: "2025-09-15"
+date_of_customer_notification: "2025-09-15"
+category: "other"
+initial_attack_vector: "Threat actors compromised Kiln, a professional crypto staking infrastructure provider, and used their access to drain Solana (SOL) funds belonging to SwissBorg customers from the Kiln-managed Solana Earn product"
+cve: []
+vendor_product: "Kiln (crypto staking infrastructure)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2025, SwissBorg, a Swiss crypto asset management platform, lost approximately $41 million worth of Solana (SOL) after threat actors compromised Kiln, the third-party staking infrastructure provider that managed SwissBorg's Solana Earn product. Attackers gained unauthorized access to Kiln's systems and drained the SOL staking pool. SwissBorg confirmed the funds belonged to customers participating in the Solana Earn yield product. The incident highlighted the risk of DeFi/staking yield products where customer funds are custodied with third-party infrastructure providers. SwissBorg committed to making affected customers whole."

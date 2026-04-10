@@ -1,0 +1,13 @@
+source_name: "Adidas Third-Party Customer Service Provider Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/adidas-discloses-data-breach-after-customer-service-provider-hacked/"
+date_of_breach: "2025-04-01"
+date_of_disclosure: "2025-05-12"
+date_of_customer_notification: "2025-05-12"
+category: "data-leak"
+initial_attack_vector: "An unauthorized actor gained access to an unnamed third-party customer service provider used by Adidas, obtaining customer contact data stored in that system"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In May 2025, Adidas disclosed that a data breach had occurred via an unnamed third-party customer service provider. The breach exposed customer contact information including names, email addresses, phone numbers, dates of birth, and home addresses. Adidas stated that no payment information or passwords were compromised. The company notified affected customers and relevant data protection authorities. The breach underscores the recurring risk of consumer brands storing customer data with third-party support vendors that may have weaker security controls."

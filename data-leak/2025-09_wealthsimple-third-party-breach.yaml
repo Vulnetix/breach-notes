@@ -1,0 +1,13 @@
+source_name: "Wealthsimple Third-Party Vendor Data Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/wealthsimple-discloses-data-breach-via-third-party-vendor/"
+date_of_breach: "2025-08-15"
+date_of_disclosure: "2025-09-05"
+date_of_customer_notification: "2025-09-05"
+category: "data-leak"
+initial_attack_vector: "A third-party vendor used by Wealthsimple was compromised, exposing sensitive personal and financial identity documents for affected customers"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Wealthsimple, a major Canadian online investment and financial services platform, disclosed in September 2025 that a third-party vendor had been compromised, resulting in the exposure of sensitive customer data. The breach exposed customer contact details, government-issued identity documents (passports, driver's licenses), financial account details, and Social Insurance Numbers (SINs) for affected customers. Wealthsimple notified affected customers and the Office of the Privacy Commissioner of Canada (OPC). Given the sensitivity of identity and financial data exposed, affected customers faced significant identity theft risk."

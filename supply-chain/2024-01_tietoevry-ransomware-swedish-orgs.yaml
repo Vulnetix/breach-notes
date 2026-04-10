@@ -1,0 +1,13 @@
+source_name: "TietoEVRY Ransomware Attack (Swedish Universities, Municipalities, Companies)"
+source_url: "https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-disrupts-swedens-largest-universities/"
+date_of_breach: "2024-01-19"
+date_of_disclosure: "2024-01-20"
+date_of_customer_notification: "2024-01-20"
+category: "ransomware"
+initial_attack_vector: "Akira ransomware group deployed ransomware against TietoEVRY's Sweden-based cloud hosting platform, impacting one of TietoEVRY's datacenters and disrupting cloud services for dozens of Swedish customers"
+cve: []
+vendor_product: "TietoEVRY (cloud hosting and IT services)"
+software_package: ""
+malware: "Akira ransomware"
+supply_chain_claimed: true
+notes: "On January 19-20, 2024, TietoEVRY, a Finnish-Norwegian IT company and one of the largest IT service providers in the Nordics, suffered an Akira ransomware attack against its Sweden-based cloud hosting infrastructure. The attack disrupted services for dozens of Swedish customers across government, education, retail, and private sectors. Confirmed affected organizations include Uppsala County Council, Vellinge Municipality, Statens Service Center, Malmö University, Lund University, Stockholm University, University West, SLU (Swedish University of Agricultural Sciences), Karolinska Institutet, Grangnården, Moelven, Rusta, and Filmstaden. TietoEVRY worked to restore systems but many customers experienced multi-day to multi-week service outages affecting business-critical systems. This was one of the most impactful Nordic IT supply chain ransomware events of 2024."

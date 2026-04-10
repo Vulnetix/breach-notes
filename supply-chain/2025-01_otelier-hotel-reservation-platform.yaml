@@ -1,0 +1,13 @@
+source_name: "Otelier Hotel Management Platform Breach (Marriott, Hilton, Hyatt, Wyndham)"
+source_url: "https://www.bleepingcomputer.com/news/security/otelier-data-breach-exposes-info-of-guests-from-marriott-hilton-hyatt-and-wyndham/"
+date_of_breach: "2024-07-01"
+date_of_disclosure: "2025-01-10"
+date_of_customer_notification: "2025-01-10"
+category: "supply-chain"
+initial_attack_vector: "Threat actors compromised Otelier's hotel management SaaS platform by stealing credentials through an infostealer malware infection, then used those credentials to access Otelier's Atlassian systems and AWS S3 buckets containing hotel customer reservation data"
+cve: []
+vendor_product: "Otelier (formerly Hotel Effectiveness)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Otelier, a cloud-based hotel management platform used by major hotel chains worldwide, was breached starting in approximately July 2024. Threat actors obtained employee credentials — believed to have been stolen via infostealer malware — and used them to access Otelier's internal Atlassian tools and AWS S3 data storage containing customer reservation records. The breach affected guests at Marriott, Hilton, Hyatt, and Wyndham properties that used Otelier for reservation management. Exposed data included guest names, email addresses, home addresses, reservation dates, transaction information, and PII. Otelier notified affected hotel brands in late 2024/early 2025. This incident highlighted the vulnerability of the hospitality sector's shared SaaS infrastructure, where a single vendor breach can cascade to hundreds of major hotel properties and millions of guests across multiple competing brands."

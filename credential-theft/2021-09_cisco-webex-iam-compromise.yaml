@@ -1,0 +1,13 @@
+source_name: "Cisco WebEx AWS IAM User Compromise"
+source_url: "https://www.bleepingcomputer.com/news/security/cisco-discloses-security-incident-involving-cisco-webex-teams/"
+date_of_breach: "2020-09-24"
+date_of_disclosure: "2021-02-10"
+date_of_customer_notification: "2021-02-10"
+category: "credential-theft"
+initial_attack_vector: "Attackers compromised AWS IAM user credentials associated with Cisco WebEx's infrastructure, gaining access to Cisco's cloud environment and exfiltrating data before the intrusion was detected"
+cve: []
+vendor_product: "Amazon Web Services (IAM); Cisco WebEx"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Cisco disclosed in February 2021 that unauthorized actors had compromised AWS IAM credentials associated with the Cisco WebEx Teams video conferencing service. The attackers maintained access from approximately September 2020 through discovery in early 2021 — a dwell time of approximately five months. The incident was attributed to the use of long-lived IAM user credentials rather than role-based temporary credentials. Cisco took remediation steps including rotating all affected credentials and implementing enhanced monitoring. The extended dwell time highlighted the difficulty of detecting credential-based attacks that use legitimate access patterns."

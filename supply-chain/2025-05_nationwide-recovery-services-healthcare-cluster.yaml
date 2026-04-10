@@ -1,0 +1,13 @@
+source_name: "Nationwide Recovery Services Healthcare Billing Vendor Breach (Multiple Hospitals)"
+source_url: "https://www.bleepingcomputer.com/news/security/nationwide-recovery-services-data-breach-hits-multiple-healthcare-providers/"
+date_of_breach: "2025-04-01"
+date_of_disclosure: "2025-05-15"
+date_of_customer_notification: "2025-05-15"
+category: "supply-chain"
+initial_attack_vector: "Nationwide Recovery Services (NRS), a medical billing and revenue cycle management vendor, suffered a breach of its systems, exposing patient data from more than a dozen healthcare provider clients"
+cve: []
+vendor_product: "Nationwide Recovery Services (medical billing/RCM)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In May 2025, Nationwide Recovery Services (NRS), a healthcare billing and accounts receivable management vendor, disclosed a data breach affecting over a dozen healthcare provider clients. Confirmed affected organizations include: TRG Medical Imaging, Smile Solutions of Goodlettsville, Duncan Regional Hospital, MAK Anesthesia, City of Chattanooga municipal health, Swedish Edmonds Hospital, Erlanger Western Carolina Hospital, Rhea Medical Center, Radiology Chartered, Northeast Georgia Health System, Shore Medical Center, UChicago Medicine Medical Group, Vitruvian Health, and Harbin Clinic. For all affected patients, the breach exposed names, Social Security numbers, dates of birth, financial account information, and detailed medical information. The broad impact across 14+ healthcare organizations from a single vendor breach illustrates the systemic risk of healthcare revenue cycle management outsourcing."

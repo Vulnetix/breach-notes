@@ -1,17 +1,20 @@
-source_name: Worker Benefits Administrator Notifying 2.7M of Hack (DataBreachToday)
-source_url: https://www.databreachtoday.com/worker-benefits-administrator-notifying-27m-hack-a-31085
+source_name: "Employee Benefits Administrator Hack — 2.7 Million Individuals Notified"
+source_url: "https://www.databreachtoday.com/worker-benefits-administrator-notifying-27m-hack-a-31085"
 date_of_breach: '2026-03-19'
 date_of_disclosure: '2026-03-19'
 date_of_customer_notification: ''
 category: data-leak
-initial_attack_vector: Unauthorized access / data exposure
+initial_attack_vector: "Unknown attacker compromised a Washington State-based employee benefits administrator's systems, accessing employer and employee benefits enrollment data"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'A Washington-state based employee benefits administrator is notifying nearly
-  2.7 million individuals that their information, including health plan and personal
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  A Washington State-based employee benefits administrator notified approximately 2.7 million individuals of a
+  data breach. The firm provides employee benefits enrollment, administration, and management services to
+  employers. Benefits administrators handle highly sensitive data including health insurance selections,
+  dependent information, Social Security numbers, employment records, and sometimes medical information. The
+  breach affected individuals across multiple client employers who relied on the administrator for benefits
+  management. Washington State's AG office and HHS OCR were notified. The scale of impact (2.7 million) reflects
+  the concentration of employee data at benefits administration platform vendors.

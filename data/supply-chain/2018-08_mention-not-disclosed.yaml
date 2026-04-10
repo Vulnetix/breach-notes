@@ -1,13 +1,19 @@
 source_name: Mention Third-Party Breach (August 2018)
-source_url: "https://www.siliconrepublic.com/enterprise/mention-data-breach"
+source_url: https://www.siliconrepublic.com/enterprise/mention-data-breach
 date_of_breach: 2018-08-01
-date_of_disclosure: 2018-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2018-08-03'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2018, Mention experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.siliconrepublic.com/enterprise/mention-data-breach"
+notes: 'Media monitoring app Mention suffers third-party data breach. Web and social
+  media monitoring app Mention has revealed that a third-party provider has been hit
+  by a data breach. Champs-Élysées, Paris. Mention was founded in the French capital.
+  Image: Ioan Panaite/Shutterstock. Founded in 2012, Mention offers brands a media
+  monitoring app to allow them to leverage filtered data for their overall strategies.
+  Mention provides this service for customers such as Airbnb, Deliveroo, Microsoft
+  and Adobe.'

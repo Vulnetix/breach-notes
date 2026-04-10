@@ -1,17 +1,22 @@
-source_name: Multi-Month Cyberespionage Campaign Hits Libyan Oil Refinery (DataBreachToday)
-source_url: https://www.databreachtoday.com/multi-month-cyberespionage-campaign-hits-libyan-oil-refinery-a-31091
+source_name: "Libyan Oil Refinery Multi-Month Cyberespionage Campaign"
+source_url: "https://www.databreachtoday.com/multi-month-cyberespionage-campaign-hits-libyan-oil-refinery-a-31091"
 date_of_breach: '2026-03-20'
 date_of_disclosure: '2026-03-20'
 date_of_customer_notification: ''
-category: credential-theft
-initial_attack_vector: Credential theft or account compromise
+category: other
+initial_attack_vector: "A suspected cyberespionage campaign targeted a Libyan oil refinery using commodity malware, maintaining persistent access over multiple months for industrial intelligence collection"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'A suspected cyberespionage campaign targeted a Libyan oil refinery using commodity
-  malware and politically themed phishing lures. The activity ran from November
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  A multi-month cyberespionage campaign targeted a Libyan oil refinery in 2026, using commodity (commercially
+  available) malware to maintain persistent covert access for intelligence collection. Oil and gas critical
+  infrastructure in politically unstable regions like Libya represents high-value targets for state-sponsored
+  espionage actors seeking intelligence on energy production capacity, export volumes, financial transactions,
+  and operational vulnerabilities. The use of commodity malware (rather than custom tools) suggests either a
+  nation-state actor using commercial tools for deniability, or a sophisticated criminal group with geopolitical
+  clients. The campaign was detected and disclosed by cybersecurity researchers. Libyan oil infrastructure is
+  controlled by the National Oil Corporation (NOC) and is a focal point of geopolitical competition between
+  multiple regional actors.

@@ -1,17 +1,20 @@
-source_name: Minnesota Agency Notifies 304,000 of Vendor Breach (DataBreachToday)
-source_url: https://www.databreachtoday.com/minnesota-agency-notifies-304000-vendor-breach-a-30570
+source_name: "Minnesota Department of Human Services Vendor Breach — 304,000 Medicaid Recipients"
+source_url: "https://www.databreachtoday.com/minnesota-agency-notifies-304000-vendor-breach-a-30570"
 date_of_breach: '2026-01-20'
 date_of_disclosure: '2026-01-20'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Third-party / vendor compromise
+initial_attack_vector: "A third-party vendor providing services to the Minnesota Department of Human Services (DHS) suffered a data breach, exposing Medicaid and public benefits recipient data"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'The Minnesota Department of Human Services is notifying nearly 304,000 people
-  of data breach involving someone at a healthcare provider who inappropriately accessed
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  The Minnesota Department of Human Services notified approximately 304,000 people — primarily Medicaid and
+  public benefits recipients — of a data breach involving a third-party vendor. The breach exposed sensitive
+  government benefits data including names, Medicaid ID numbers, dates of birth, addresses, and in some cases
+  Social Security numbers and medical information. Minnesota DHS administers Medicaid (Medical Assistance), SNAP
+  (food assistance), and other public benefits programs. Government agency vendor breaches are particularly
+  impactful as they expose data of vulnerable populations who cannot opt out of sharing information required to
+  receive government benefits. The Minnesota Attorney General and HHS OCR were notified.

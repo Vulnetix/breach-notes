@@ -1,17 +1,21 @@
-source_name: 'Stryker Wiper Attack: Hackers Boast as Lawsuits Pile Up (DataBreachToday)'
-source_url: https://www.databreachtoday.com/stryker-wiper-attack-hackers-boast-as-lawsuits-pile-up-a-31074
+source_name: "Stryker Wiper Attack Aftermath — Lawsuits Filed as Hackers Boast"
+source_url: "https://www.databreachtoday.com/stryker-wiper-attack-hackers-boast-as-lawsuits-pile-up-a-31074"
 date_of_breach: '2026-03-18'
 date_of_disclosure: '2026-03-18'
 date_of_customer_notification: ''
-category: ransomware
-initial_attack_vector: Ransomware intrusion
+category: other
+initial_attack_vector: "Handala (Iran-linked hacktivist group) deployed a wiper attack against Stryker's Microsoft Intune MDM infrastructure; subsequent lawsuits and ongoing recovery documented"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'As medtech maker Stryker continues working to restore global IT systems brought
-  offline by a cyberattack last week, class action lawsuits against the company are
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  In the weeks following Stryker's March 2026 Handala wiper attack (documented separately), multiple lawsuits
+  were filed against Stryker as the Iranian-linked Handala group continued to boast about the attack on social
+  media and dark web channels. Handala published additional stolen materials and claimed ongoing access to
+  Stryker systems. Stryker — the $22B medical technology company — continued recovery operations across global
+  IT systems disrupted by the Intune MDM wiper. The lawsuits alleged Stryker failed to adequately protect its
+  MDM infrastructure against nation-state attacks. The attack drew significant attention to the vulnerability of
+  enterprise MDM platforms as attack surfaces and the specific risk from Iran-linked actors targeting US medical
+  technology companies during heightened geopolitical tensions.

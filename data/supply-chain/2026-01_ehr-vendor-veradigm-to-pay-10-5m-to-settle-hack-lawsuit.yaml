@@ -1,17 +1,20 @@
-source_name: EHR Vendor Veradigm to Pay $10.5M to Settle Hack Lawsuit (DataBreachToday)
-source_url: https://www.databreachtoday.com/ehr-vendor-veradigm-to-pay-105m-to-settle-hack-lawsuit-a-30578
+source_name: "EHR Vendor Veradigm $10.5M Data Breach Lawsuit Settlement"
+source_url: "https://www.databreachtoday.com/ehr-vendor-veradigm-to-pay-105m-to-settle-hack-lawsuit-a-30578"
 date_of_breach: '2026-01-21'
 date_of_disclosure: '2026-01-21'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Third-party / vendor compromise
+initial_attack_vector: "Veradigm (formerly Allscripts Healthcare Solutions) suffered a data breach affecting physician practice clients; the breach resulted in class-action litigation that settled for $10.5 million"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Electronic health records vendor Veradigm agreed to pay $10.5 million to settle
-  consolidated class action litigation involving a December 2024 hacking incident
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  Electronic health records vendor Veradigm (formerly Allscripts Healthcare Solutions, rebranded 2022) agreed to
+  pay $10.5 million to settle a class-action lawsuit arising from a data breach affecting patient data from
+  physician practices using Veradigm's EHR platform. Veradigm serves approximately 700,000 physicians in the US.
+  The settlement covered affected patients whose personal and health data was exposed through the breach.
+  Veradigm had a previous major cybersecurity incident in January 2018 when SamSam ransomware disrupted its
+  services for approximately 1,500 physician practices. The 2026 settlement relates to a more recent breach. The
+  $10.5M figure represents one of the larger EHR vendor breach class-action settlements.

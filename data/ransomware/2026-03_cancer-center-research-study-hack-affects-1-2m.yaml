@@ -1,17 +1,20 @@
-source_name: Cancer Center Research Study Hack Affects 1.2M (DataBreachToday)
-source_url: https://www.databreachtoday.com/cancer-center-research-study-hack-affects-12m-a-30912
+source_name: "University of Hawaii Cancer Center Research Study Hack — 1.2 Million Affected"
+source_url: "https://www.databreachtoday.com/cancer-center-research-study-hack-affects-12m-a-30912"
 date_of_breach: '2026-03-04'
 date_of_disclosure: '2026-03-04'
 date_of_customer_notification: ''
 category: ransomware
-initial_attack_vector: Ransomware intrusion
+initial_attack_vector: "Ransomware attack on the University of Hawaii Cancer Center's research data infrastructure in August 2025"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'An August 2025 ransomware attack on the University of Hawaii Cancer Center''s
-  epidemiology division has affected 1.2 million individuals, including personal
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  An August 2025 ransomware attack on the University of Hawaii Cancer Center's research study data systems was
+  disclosed in early 2026 as affecting approximately 1.2 million individuals who had participated in cancer
+  research studies. Research participants had provided personal and medical information for oncology research
+  trials. The exposure of cancer research participant data is particularly sensitive as it may reveal health
+  diagnoses, genetic information, and treatment history. The University of Hawaii Cancer Center conducts
+  population-based cancer research serving Hawaii's diverse population. HHS OCR and the University of Hawaii
+  system were notified. See also the primary University of Hawaii Cancer Center ransomware record.

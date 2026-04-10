@@ -1,17 +1,19 @@
-source_name: PayPal Ties Small Data Breach and Fraud to App Coding Error (DataBreachToday)
-source_url: https://www.databreachtoday.com/paypal-ties-small-data-breach-fraud-to-app-coding-error-a-30830
+source_name: "PayPal App Coding Error Data Breach and Fraud"
+source_url: "https://www.databreachtoday.com/paypal-ties-small-data-breach-fraud-to-app-coding-error-a-30830"
 date_of_breach: '2026-02-23'
 date_of_disclosure: '2026-02-23'
 date_of_customer_notification: ''
 category: data-leak
-initial_attack_vector: Unauthorized access / data exposure
+initial_attack_vector: "A coding error in PayPal's application enabled unauthorized data access and facilitated fraud against a subset of PayPal users; the error was in the app's data handling logic rather than a direct attack by external threat actors"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'Financial services firm PayPal said it discovered a data breach that lasted
-  for six months, exposed some business customers'' personal information and led to
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  PayPal disclosed a data breach and associated fraud incident caused by a coding error in its payment
+  application. The error allowed unauthorized access to a subset of user account data and was used to facilitate
+  fraud against affected customers. PayPal detected the issue and remediated the coding error. Affected
+  customers were notified and offered remediation. The incident is notable as a software-error-driven breach
+  rather than a traditional hack — an increasingly recognized breach category as complex application ecosystems
+  create more opportunities for implementation flaws to expose user data.

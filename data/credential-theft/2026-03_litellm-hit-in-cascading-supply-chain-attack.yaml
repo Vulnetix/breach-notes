@@ -1,17 +1,20 @@
-source_name: LiteLLM Hit in Cascading Supply-Chain Attack (DataBreachToday)
-source_url: https://www.databreachtoday.com/litellm-hit-in-cascading-supply-chain-attack-a-31210
+source_name: "LiteLLM Cascading Supply Chain Attack — TeamPCP Trivy Credentials Used"
+source_url: "https://www.databreachtoday.com/litellm-hit-in-cascading-supply-chain-attack-a-31210"
 date_of_breach: '2026-03-26'
 date_of_disclosure: '2026-03-26'
 date_of_customer_notification: ''
-category: credential-theft
-initial_attack_vector: Credential theft or account compromise
+category: supply-chain
+initial_attack_vector: "TeamPCP (UNC6780) used credentials stolen in the Trivy GitHub Actions compromise to push malicious versions of LiteLLM to PyPI, creating a second-stage supply chain attack"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
-supply_chain_claimed: false
-notes: 'Threat group TeamPCP exploited credentials stolen in the Trivy breach to push
-  malicious versions of LiteLLM to PyPI, exposing developers to credential theft,
-
-
-  Source: DataBreachToday article coverage.'
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  The LiteLLM PyPI supply chain attack by TeamPCP involved a cascading attack chain: TeamPCP first compromised
+  the Trivy security scanner's GitHub Actions CI/CD pipeline (March 19, 2026), used stolen credentials to access
+  LiteLLM's PyPI publishing infrastructure, and pushed malicious versions of LiteLLM on March 27, 2026. LiteLLM
+  is a widely used Python library for calling LLM APIs (OpenAI, Anthropic, etc.) used in AI application
+  development. Downstream victim Mercor (AI data training startup) suffered a major breach via the LiteLLM
+  compromise. This 'supply chain of supply chains' attack — one compromise enabling access to another trusted
+  package — is documented separately in the LiteLLM/Mercor/TeamPCP records.

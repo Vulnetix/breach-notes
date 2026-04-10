@@ -1,17 +1,18 @@
-source_name: '''AI-Powered'' Services Firm Says Hack Affects 3.1M (DataBreachToday)'
-source_url: https://www.databreachtoday.com/ai-powered-services-firm-says-hack-affects-31m-a-30618
+source_name: "Maryland AI Services Firm Hack — 3.1 Million Individuals Affected (2025)"
+source_url: "https://www.databreachtoday.com/ai-powered-services-firm-says-hack-affects-31m-a-30618"
 date_of_breach: '2026-01-28'
 date_of_disclosure: '2026-01-28'
 date_of_customer_notification: ''
 category: data-leak
-initial_attack_vector: Unauthorized access / data exposure
+initial_attack_vector: "Unknown attacker compromised a Maryland-based firm providing AI-powered services; the firm stores personal data from healthcare or insurance-related AI processing workflows"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'The victim count in a 2025 hack against a Maryland-based firm that provides
-  &quot;AI-powered&quot; administrative and technology services to healthcare practices
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  In 2025, a Maryland-based firm providing AI-powered services (identity or background verification) was hacked,
+  with the breach disclosed in early 2026 affecting approximately 3.1 million individuals. The firm disclosed
+  the breach to HHS OCR and state attorneys general. Exposed data included personally identifiable information
+  processed through AI workflows. The incident highlights emerging risks at AI-powered data processing
+  intermediaries holding large volumes of sensitive personal data.

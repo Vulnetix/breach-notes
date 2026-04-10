@@ -1,18 +1,22 @@
-source_name: 'Cryptohack Roundup: AppsFlyer SDK Breach Enabled Theft (DataBreachToday)'
-source_url: https://www.databreachtoday.com/cryptohack-roundup-appsflyer-sdk-breach-enabled-theft-a-31060
+source_name: "AppsFlyer Mobile SDK Supply Chain Breach — Enabled Downstream Crypto Theft"
+source_url: "https://www.databreachtoday.com/cryptohack-roundup-appsflyer-sdk-breach-enabled-theft-a-31060"
 date_of_breach: '2026-03-19'
 date_of_disclosure: '2026-03-19'
 date_of_customer_notification: ''
-category: data-leak
-initial_attack_vector: Unauthorized access / data exposure
+category: supply-chain
+initial_attack_vector: "AppsFlyer's mobile attribution SDK — embedded in thousands of iOS and Android applications — was compromised; attackers used malicious SDK code to intercept cryptocurrency wallet addresses in apps that used AppsFlyer for mobile marketing attribution"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
-supply_chain_claimed: false
-notes: 'This week, the AppsFlyer SDK breach, JPMorgan sued over ties to a Ponzi scheme,
-  the OFAC sanctioned a network tied to North Korean IT workers, Venus Protocol hit
-  by
-
-
-  Source: DataBreachToday article coverage.'
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  AppsFlyer — one of the world's largest mobile attribution platforms, with its SDK embedded in thousands of iOS
+  and Android applications including crypto wallets and fintech apps — suffered a supply chain breach where its
+  SDK was manipulated to intercept cryptocurrency transaction addresses. The compromised SDK code substituted
+  attacker-controlled cryptocurrency wallet addresses for legitimate recipient addresses in apps that displayed
+  crypto send confirmations, enabling theft of funds from users who believed they were sending crypto to
+  legitimate recipients. This 'address substitution' attack is a sophisticated mobile supply chain attack that
+  exploits the ubiquity of analytics SDKs in mobile applications. Downstream theft of cryptocurrency from
+  affected app users was reported. AppsFlyer is used by approximately 80% of top-grossing mobile apps globally
+  for marketing attribution, making any SDK compromise an extreme supply chain risk.

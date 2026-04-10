@@ -1,13 +1,19 @@
 source_name: Foosackly Third-Party Breach (September 2018)
-source_url: "https://www.al.com/news/mobile/2018/09/foosacklys_reports_payment-car.html"
+source_url: https://www.al.com/news/mobile/2018/09/foosacklys_reports_payment-car.html
 date_of_breach: 2018-09-01
-date_of_disclosure: 2018-09-01
-date_of_customer_notification: ""
+date_of_disclosure: '2018-09-06'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2018, Foosackly experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.al.com/news/mobile/2018/09/foosacklys_reports_payment-car.html"
+notes: Foosackly's reports payment-card data breach. Mobile-based chicken-finger chain
+  Foosackly's is warning customers of a data breach in its payment system. According
+  to information released by Three Fingers, Inc., which does business in the Mobile
+  and Pensacola area under the Foosackly's name, its cash register system was affected.
+  That system is managed by a third party vendor, according to the company. "The security
+  incident resulted in unauthorized access to customer payment card information,"
+  the company said. "No other personal information was involved.".

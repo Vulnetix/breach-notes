@@ -1,18 +1,19 @@
-source_name: Ex-Nuance IT Worker Faces More Charges in Geisinger Breach (DataBreachToday)
-source_url: https://www.databreachtoday.com/ex-nuance-worker-faces-more-charges-in-geisinger-breach-a-30693
+source_name: "Former Nuance IT Worker Additional Charges — Geisinger Health Patient Data Breach"
+source_url: "https://www.databreachtoday.com/ex-nuance-worker-faces-more-charges-in-geisinger-breach-a-30693"
 date_of_breach: '2026-02-05'
 date_of_disclosure: '2026-02-05'
 date_of_customer_notification: ''
 category: data-leak
-initial_attack_vector: Unauthorized access / data exposure
+initial_attack_vector: "Former Nuance Communications IT employee retained access to healthcare client systems after termination; used former access credentials to access Geisinger Health patient data"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'A former Nuance Communications IT worker is facing additional federal charges
-  in an ongoing criminal case alleging he downloaded and stored on a personal hard
-  drive
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  In early 2026, the former Nuance Communications IT worker responsible for the Geisinger Health patient data
+  breach (documented separately) faced additional federal charges. The original breach involved the employee
+  accessing Geisinger patient data after their employment at Nuance (a Microsoft subsidiary providing healthcare
+  IT services including clinical documentation solutions) was terminated. The additional charges related to the
+  scope of unauthorized access and data theft. The case highlights the critical importance of immediately
+  revoking third-party vendor employee access upon termination.

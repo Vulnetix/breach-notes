@@ -1,17 +1,21 @@
-source_name: HHS OCR Fines Firm $10K in Breach Affecting 15M (DataBreachToday)
-source_url: https://www.databreachtoday.com/hhs-ocr-fines-firm-10k-in-breach-affecting-15m-a-30938
+source_name: "HHS OCR $10K HIPAA Fine — Dental Practice Software Vendor, 15 Million Records Breach"
+source_url: "https://www.databreachtoday.com/hhs-ocr-fines-firm-10k-in-breach-affecting-15m-a-30938"
 date_of_breach: '2026-03-06'
 date_of_disclosure: '2026-03-06'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Third-party / vendor compromise
+initial_attack_vector: "A dental practice management software vendor suffered a data breach exposing protected health information for approximately 15 million dental patients"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'U.S. federal regulators fined a dental practice software vendor with a seemingly
-  lowball financial penalty for a high-stakes 2020 hack affecting 15 million
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  The US Department of Health and Human Services Office for Civil Rights (HHS OCR) issued a $10,000 civil
+  monetary penalty to a dental practice management software vendor responsible for a breach affecting
+  approximately 15 million patient records. The nominal penalty ($10,000 for 15 million affected individuals —
+  less than $0.001 per person) reflects the vendor's small size and limited financial resources, as HIPAA
+  penalties are scaled based on the organization's financial capacity. The case highlights the tension in HIPAA
+  enforcement between accountability and deterrence — small healthcare IT vendors handling massive datasets face
+  penalties that may be insufficient to incentivize adequate investment in security. The dental practice
+  software market serves tens of thousands of dental offices nationwide.

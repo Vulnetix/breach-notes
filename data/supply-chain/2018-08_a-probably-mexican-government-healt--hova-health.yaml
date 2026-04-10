@@ -2,7 +2,7 @@ source_name: A (probably) Mexican government healt agency Third-Party Breach (Au
   2018)
 source_url: https://www.healthcareitnews.com/news/telemedicine-vendor-breaches-data-24-million-patients-mexico
 date_of_breach: 2018-08-01
-date_of_disclosure: '2026-04-09'
+date_of_disclosure: '2018-08-01'
 date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship

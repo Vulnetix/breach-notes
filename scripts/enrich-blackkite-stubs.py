@@ -25,7 +25,7 @@ import argparse
 import json
 import re
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -420,6 +420,30 @@ def is_blackkite_candidate(doc: dict) -> bool:
     return False
 
 
+def is_placeholder_date(value: str) -> bool:
+    value = clean_text(value)
+    return bool(re.match(r"^\d{4}-\d{2}-01$", value))
+
+
+def is_plausible_disclosure_date(doc: dict, published: str) -> bool:
+    published = clean_text(published)
+    if not re.match(r"^\d{4}-\d{2}-\d{2}$", published):
+        return False
+
+    pub_year = int(published[:4])
+    this_year = datetime.now(timezone.utc).year
+    if pub_year > this_year + 1:
+        return False
+
+    breach = clean_text(str(doc.get("date_of_breach", "")))
+    if re.match(r"^\d{4}-\d{2}-\d{2}$", breach):
+        breach_year = int(breach[:4])
+        if pub_year < breach_year - 1 or pub_year > breach_year + 2:
+            return False
+
+    return True
+
+
 def build_notes(summary: str, data_breached: str, use_of_3p: str, third_party: str) -> str:
     bits: list[str] = []
 
@@ -517,10 +541,11 @@ def main() -> None:
             doc["notes"] = new_notes
             changed = True
 
-        # Update disclosure date only when we got a full date.
-        if published:
+        # Update disclosure date only when we got a plausible full date and
+        # the existing value looks like a placeholder.
+        if published and is_plausible_disclosure_date(doc, published):
             old_disclosure = clean_text(str(doc.get("date_of_disclosure", "")))
-            if old_disclosure != published:
+            if (not old_disclosure or is_placeholder_date(old_disclosure)) and old_disclosure != published:
                 doc["date_of_disclosure"] = published
                 changed = True
 

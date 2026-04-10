@@ -1,17 +1,20 @@
-source_name: Harvard, UPenn Data Leaked in ShinyHunters Shakedown (DataBreachToday)
-source_url: https://www.databreachtoday.com/harvard-upenn-data-leaked-in-shinyhunters-shakedown-a-30677
+source_name: "Harvard University and UPenn Data Leaked by ShinyHunters Vishing Campaign"
+source_url: "https://www.databreachtoday.com/harvard-upenn-data-leaked-in-shinyhunters-shakedown-a-30677"
 date_of_breach: '2026-02-04'
 date_of_disclosure: '2026-02-04'
 date_of_customer_notification: ''
 category: data-leak
-initial_attack_vector: Unauthorized access / data exposure
+initial_attack_vector: "ShinyHunters' vishing (voice phishing) social engineering campaign targeting cloud service providers; victims included service providers holding Harvard and UPenn alumni, donor, or student data"
 cve: []
-vendor_product: ''
-software_package: ''
-malware: ''
+vendor_product: ""
+software_package: ""
+malware: ""
 supply_chain_claimed: false
-notes: 'Harvard University has been named as a victim and doxed by hack-and-leak group
-  ShinyHunters, apparently as a result of the cybercrime group''s ongoing &quot;live
-
-
-  Source: DataBreachToday article coverage.'
+notes: |-
+  Harvard University and the University of Pennsylvania were named as victims and had data leaked by
+  ShinyHunters, the prolific hack-and-leak group responsible for numerous high-profile breaches including the
+  Snowflake UNC5537 campaign. The data was obtained via ShinyHunters' characteristic vishing social engineering
+  campaign targeting IT helpdesks at cloud service providers holding Harvard and UPenn data. Exposed data
+  reportedly included alumni contact information, donor records, or institutional data. Both universities
+  notified affected individuals. ShinyHunters has previously targeted Santander, Ticketmaster, and dozens of
+  other organizations through similar cloud provider social engineering campaigns.

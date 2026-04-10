@@ -1,0 +1,13 @@
+source_name: "GlassWorm Supply-Chain Attack - 72 Malicious Open VSX Extensions"
+source_url: "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
+date_of_breach: "2026-01-30"
+date_of_disclosure: "2026-02-01"
+date_of_customer_notification: ""
+category: "supply-chain"
+initial_attack_vector: "GlassWorm threat actor compromised a legitimate developer's Open VSX publishing credentials (leaked token or unauthorized access) to publish malicious extension versions; also abused extensionPack/extensionDependencies transitive dependency chains to turn benign extensions into GlassWorm delivery vehicles after trust was established"
+cve: []
+vendor_product: "Open VSX Registry (VS Code extension marketplace)"
+software_package: ""
+malware: "GlassWorm"
+supply_chain_claimed: true
+notes: "Since January 31, 2026, researchers identified at least 72 malicious Open VSX extensions linked to the GlassWorm campaign. On January 30, 2026, four established Open VSX extensions published by the 'oorzc' developer account had malicious versions pushed via a compromised publishing token. GlassWorm is an ongoing operation that has repeatedly targeted both Microsoft Visual Studio Marketplace and Open VSX. The malware uses extensionPack and extensionDependencies metadata to create transitive delivery chains — extensions can appear benign and begin serving malware only after trust is established via later updates. Extensions impersonate developer tools including linters, formatters, database utilities, and AI coding assistant integrations. The malicious payload decodes to a multi-stage loader that steals tokens, credentials, and secrets; drains cryptocurrency wallets; and conscripts infected developer endpoints as proxies. Between March 3-9, 2026, approximately 151 GitHub repositories were additionally compromised in a concurrent GlassWorm mass campaign."

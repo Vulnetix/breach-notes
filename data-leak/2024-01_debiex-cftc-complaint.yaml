@@ -1,18 +1,17 @@
-source_name: '"CFTC Charges Bogus Digital Asset Platform with Fraud and Misappropriation
-  in an Online Romance Scam"'
+source_name: '"CFTC Charges Bogus Digital Asset Platform with Fraud and Misappropriation in an Online Romance Scam"'
 source_url: https://www.cftc.gov/PressRoom/PressReleases/8850-24
 date_of_breach: '2024-01-19'
 date_of_disclosure: '2024-01-19'
 category: data-leak
-notes: 'The CFTC has filed a complaint against Debiex, a shadowy cryptocurrency platform
-  whose precise location and executives are unknown. The company''s employees primarily
-  targeted Chinese Americans, and used common romance scam techniques: first striking
-  up a friendship or romantic relationship with the victim, then convincing them that
-  they could earn huge profits by putting money on Debiex.Debiex, however, only resembled
-  a cryptocurrency trading platform. In reality, the website merely mimicked a trading
-  platform, and the funds supposedly deposited there for trading purposes were taken
-  by Debiex.The CFTC identified five victims who were allegedly defrauded of a combined
-  $2.3 million.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Debiex CFTC complaint
+financial_loss_usd: 2300000
+notes: 'The CFTC has filed a complaint against Debiex, a shadowy cryptocurrency platform whose precise location and executives
+  are unknown. The company''s employees primarily targeted Chinese Americans, and used common romance scam techniques: first
+  striking up a friendship or romantic relationship with the victim, then convincing them that they could earn huge profits
+  by putting money on Debiex.Debiex, however, only resembled a cryptocurrency trading platform. In reality, the website merely
+  mimicked a trading platform, and the funds supposedly deposited there for trading purposes were taken by Debiex.The CFTC
+  identified five victims who were allegedly defrauded of a combined $2.3 million.
 
 
   Total loss estimated at $2,300,000.'

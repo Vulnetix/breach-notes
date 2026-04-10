@@ -3,17 +3,15 @@ source_url: https://www.theblock.co/post/309261/zkx-investors-market-makers-say-
 date_of_breach: '2024-07-30'
 date_of_disclosure: '2024-07-30'
 category: other
-notes: The Starknet-based decentralized exchange ZKX abruptly shuttered operations
-  on July 30, with an announcement from founder Eduard Tur explaining that they had
-  "been unable to find an economically viable path for the protocol."ZKX had raised
-  $4.5 million in seed funding from investors including the now-bankrupt Alameda Research,
-  Starkware, HTX, Amber Group, ArkStream Capital, and HashKey Capital. The project
-  had announced a second, $7.6 million raise only a few weeks before its shutdown.People
-  at Amber Group, ArkStream, and HashKey publicly criticized the lack of transparency
-  from ZKX around its financial situation. Ye Su, a founding partner at ArkStream,
-  explained that he felt they had been "rug pulled".Blockchain sleuth zachxbt joined
-  the VCs in characterizing the project as a rug, and further elaborated that he felt
-  the retail investors who had purchased the project's token only weeks earlier had
-  been tricked into buying a token by the project team, who "misled the community/retail
-  ... by giving the appearance the project was healthy and strong when in reality
-  they were in a bad position and about to shut down."
+initial_attack_vector: Exit scam / rug pull
+vendor_product: ZKX shutdown
+notes: The Starknet-based decentralized exchange ZKX abruptly shuttered operations on July 30, with an announcement from founder
+  Eduard Tur explaining that they had "been unable to find an economically viable path for the protocol."ZKX had raised $4.5
+  million in seed funding from investors including the now-bankrupt Alameda Research, Starkware, HTX, Amber Group, ArkStream
+  Capital, and HashKey Capital. The project had announced a second, $7.6 million raise only a few weeks before its shutdown.People
+  at Amber Group, ArkStream, and HashKey publicly criticized the lack of transparency from ZKX around its financial situation.
+  Ye Su, a founding partner at ArkStream, explained that he felt they had been "rug pulled".Blockchain sleuth zachxbt joined
+  the VCs in characterizing the project as a rug, and further elaborated that he felt the retail investors who had purchased
+  the project's token only weeks earlier had been tricked into buying a token by the project team, who "misled the community/retail
+  ... by giving the appearance the project was healthy and strong when in reality they were in a bad position and about to
+  shut down."

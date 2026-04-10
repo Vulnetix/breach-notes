@@ -1,0 +1,17 @@
+source_name: Ransomware Attack on Supply Chain Provider Causes Disruption (DataBreachToday)
+source_url: https://www.databreachtoday.com/ransomware-attack-on-supply-chain-provider-causes-disruption-a-26907
+date_of_breach: '2024-11-26'
+date_of_disclosure: '2024-11-26'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Major grocery store chains, Starbucks and other large organizations are experiencing
+  disruptions following a ransomware attack against supply chain management
+
+
+  Source: DataBreachToday article coverage.'

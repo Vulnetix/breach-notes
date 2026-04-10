@@ -3,9 +3,10 @@ source_url: https://twitter.com/CertiKAlert/status/1739336531213763036
 date_of_breach: '2023-12-25'
 date_of_disclosure: '2023-12-25'
 category: other
-notes: The Megabot project rug pulled, stealing $742,000 from those who bought in
-  to the project's presale. The majority of the money — around $692,000 — was stolen
-  on the Solana network.Megabot had advertised itself as an AI trading bot that would
-  earn users "up to 30% monthly". The team had promised that the bot would perform
-  trades while "sidestepping potential risks such as honeypots, rugs, and slow rugs"."No
-  one will be able to rug you anymore", their website boasted. Ah, well.
+initial_attack_vector: AI-assisted attack or AI-generated exploit
+vendor_product: Megabot exit
+blockchain: solana, ethereum, bsc
+notes: The Megabot project rug pulled, stealing $742,000 from those who bought in to the project's presale. The majority of
+  the money — around $692,000 — was stolen on the Solana network.Megabot had advertised itself as an AI trading bot that would
+  earn users "up to 30% monthly". The team had promised that the bot would perform trades while "sidestepping potential risks
+  such as honeypots, rugs, and slow rugs"."No one will be able to rug you anymore", their website boasted. Ah, well.

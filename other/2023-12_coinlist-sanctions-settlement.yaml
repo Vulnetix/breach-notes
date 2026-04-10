@@ -1,13 +1,14 @@
-source_name: '"OFAC Settles with CoinList Markets LLC for $1,207,830 Related to Apparent
-  Violations of the Ukraine-/Russia-Related Sanctions Regulations"'
+source_name: '"OFAC Settles with CoinList Markets LLC for $1,207,830 Related to Apparent Violations of the Ukraine-/Russia-Related
+  Sanctions Regulations"'
 source_url: https://ofac.treasury.gov/media/932406/download?inline
 date_of_breach: '2023-12-13'
 date_of_disclosure: '2023-12-13'
 category: other
-notes: The Californian cryptocurrency exchange CoinList has settled a lawsuit from
-  the Treasury Departments Office of Foreign Assets Control (OFAC) for $1.2 million.
-  OFAC charged CoinList for processing almost 1,000 transactions between April 2020
-  and May 2022 on behalf of residents of Crimea, a Ukrainian territory occupied by
-  Russia in 2014 and sanctioned by the United States shortly after.CoinList reportedly
-  allowed 89 users to sign up for accounts on the platform, most of whom had stated
+initial_attack_vector: Regulatory / legal action
+vendor_product: CoinList sanctions settlement
+affected_count: 89
+notes: The Californian cryptocurrency exchange CoinList has settled a lawsuit from the Treasury Departments Office of Foreign
+  Assets Control (OFAC) for $1.2 million. OFAC charged CoinList for processing almost 1,000 transactions between April 2020
+  and May 2022 on behalf of residents of Crimea, a Ukrainian territory occupied by Russia in 2014 and sanctioned by the United
+  States shortly after.CoinList reportedly allowed 89 users to sign up for accounts on the platform, most of whom had stated
   that they were residents of Russia but provided addresses in Crimea.

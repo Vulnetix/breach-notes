@@ -1,17 +1,14 @@
-source_name: '"Students for Trump co-founder denies rug pull accusations after selling
-  half of ''TIKTOK'' memecoin''s supply"'
+source_name: '"Students for Trump co-founder denies rug pull accusations after selling half of ''TIKTOK'' memecoin''s supply"'
 source_url: https://www.theblock.co/post/335663/students-for-trump-co-founder-denies-rug-pull-accusations-after-selling-half-of-tiktok-memecoins-supply?utm_source=rss&utm_medium=rss
 date_of_breach: '2025-01-19'
 date_of_disclosure: '2025-01-19'
 category: other
-notes: 'Ryan Fournier, a co-founder of the Students for Trump organization, worked
-  with a memecoin creator to create a $TIKTOK memecoin, which he said was intended
-  to celebrate TikTok lifting its brief restriction on US users amid an impending
-  ban. The token quickly increased in price amid early attention. However, when the
-  price began to drop, Fournier dumped 505 million TIKTOK for around $700,000 in SOL.Fournier
-  posted on Twitter, claiming he was scammed by his collaborator. When accused of
-  rugging the token, Fournier replied "I''m very new to crypto and I promise you I
-  didn’t rug it." "Buddy, we see your wallet. It’s all on-chain," replied another
-  person. Fournier, apparently not knowing he was describing a rug pull, wrote: "I
-  literally sold because it was going down increasingly. I don’t know who wouldn’t
-  do that."'
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Students for Trump co-founder admits to rugpulling memecoin
+notes: 'Ryan Fournier, a co-founder of the Students for Trump organization, worked with a memecoin creator to create a $TIKTOK
+  memecoin, which he said was intended to celebrate TikTok lifting its brief restriction on US users amid an impending ban.
+  The token quickly increased in price amid early attention. However, when the price began to drop, Fournier dumped 505 million
+  TIKTOK for around $700,000 in SOL.Fournier posted on Twitter, claiming he was scammed by his collaborator. When accused
+  of rugging the token, Fournier replied "I''m very new to crypto and I promise you I didn’t rug it." "Buddy, we see your
+  wallet. It’s all on-chain," replied another person. Fournier, apparently not knowing he was describing a rug pull, wrote:
+  "I literally sold because it was going down increasingly. I don’t know who wouldn’t do that."'

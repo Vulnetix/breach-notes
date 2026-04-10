@@ -3,23 +3,19 @@ source_url: https://x.com/KpunToN00b/status/1991937269910139194
 date_of_breach: '2025-11-21'
 date_of_disclosure: '2025-11-21'
 category: other
-notes: On November 21, the Cardano blockchain suffered a major chainsplit after someone
-  created a transaction that exploited an old bug in Cardano node software, causing
-  the chain to split. The person who submitted the transaction fessed up on Twitter,
-  writing, "It started off as a 'let's see if I can reproduce the bad transaction'
-  personal challenge and then I was dumb enough to rely on AI's instructions on how
-  to block all traffic in/out of my Linux server without properly testing it on testnet
-  first, and then watched in horror as the last block time on explorers froze."Charles
-  Hoskinson, the founder of Cardano, responded with a tweet boasting about how quickly
-  the chain recovered from the catastrophic split, then accused the person of acting
-  maliciously. "It was absolutely personal", Hoskinson wrote, adding that the person's
-  public version of events was merely him "trying to walk it back because he knows
-  the FBI is already involved". Hoskinson added, "There was a premeditated attack
-  from a disgruntled [single pool operator] who spent months in the Fake Fred discord
-  actively looking at ways to harm the brand and reputation of IOG. He targeted my
-  personal pool and it resulted in disruption of the entire cardano network."Hoskinson's
-  decision to involve the FBI horrified some onlookers, including one other engineer
-  at the company who publicly quit after the incident. They wrote, "I've fucked up
-  pen testing in a major way once. I've seen my colleagues do the same. I didn't realize
-  there was a risk of getting raided by the authorities because of that + saying mean
-  things on the Internet."
+initial_attack_vector: AI-assisted attack or AI-generated exploit
+vendor_product: Cardano founder calls the FBI after chainsplit
+blockchain: cardano
+notes: On November 21, the Cardano blockchain suffered a major chainsplit after someone created a transaction that exploited
+  an old bug in Cardano node software, causing the chain to split. The person who submitted the transaction fessed up on Twitter,
+  writing, "It started off as a 'let's see if I can reproduce the bad transaction' personal challenge and then I was dumb
+  enough to rely on AI's instructions on how to block all traffic in/out of my Linux server without properly testing it on
+  testnet first, and then watched in horror as the last block time on explorers froze."Charles Hoskinson, the founder of Cardano,
+  responded with a tweet boasting about how quickly the chain recovered from the catastrophic split, then accused the person
+  of acting maliciously. "It was absolutely personal", Hoskinson wrote, adding that the person's public version of events
+  was merely him "trying to walk it back because he knows the FBI is already involved". Hoskinson added, "There was a premeditated
+  attack from a disgruntled [single pool operator] who spent months in the Fake Fred discord actively looking at ways to harm
+  the brand and reputation of IOG. He targeted my personal pool and it resulted in disruption of the entire cardano network."Hoskinson's
+  decision to involve the FBI horrified some onlookers, including one other engineer at the company who publicly quit after
+  the incident. They wrote, "I've fucked up pen testing in a major way once. I've seen my colleagues do the same. I didn't
+  realize there was a risk of getting raided by the authorities because of that + saying mean things on the Internet."

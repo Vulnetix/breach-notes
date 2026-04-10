@@ -1,20 +1,18 @@
-source_name: '"''Money we don''t have to spare'': Spoofed website causes Toronto man
-  to lose $100K"'
+source_name: '"''Money we don''t have to spare'': Spoofed website causes Toronto man to lose $100K"'
 source_url: https://www.cp24.com/local/toronto/2025/01/07/money-we-dont-have-to-spare-spoofed-website-causes-toronto-man-to-lose-100k/
 date_of_breach: '2025-01-07'
 date_of_disclosure: '2025-01-07'
 category: data-leak
-notes: 'A man who received an inheritance in 2021 and decided to put it into crypto
-  lost his entire $100,000 balance when he fell victim to a spoofing site in 2023.
-  When he decided to withdraw the tokens, he Googled to find the Kraken crypto exchange
-  where he had purchased them, and clicked on a result. However, despite the fact
-  that it "was the first one to come up and it was branded with the same colours",
-  the man clicked on a phishing website designed to mimic the Kraken exchange. Minutes
-  after entering his credentials, his real Kraken account was drained. "This is money
-  we don''t have to spare," said the man. "I have three kids to put through college
-  and this has been quite disruptive in the family."The man contacted Canadian police,
-  who told him the assets had been transferred out of the country and that they were
-  unable to trace it.
+initial_attack_vector: Phishing attack
+vendor_product: Kraken spoofing website
+financial_loss_usd: 100000
+notes: 'A man who received an inheritance in 2021 and decided to put it into crypto lost his entire $100,000 balance when
+  he fell victim to a spoofing site in 2023. When he decided to withdraw the tokens, he Googled to find the Kraken crypto
+  exchange where he had purchased them, and clicked on a result. However, despite the fact that it "was the first one to come
+  up and it was branded with the same colours", the man clicked on a phishing website designed to mimic the Kraken exchange.
+  Minutes after entering his credentials, his real Kraken account was drained. "This is money we don''t have to spare," said
+  the man. "I have three kids to put through college and this has been quite disruptive in the family."The man contacted Canadian
+  police, who told him the assets had been transferred out of the country and that they were unable to trace it.
 
 
   Total loss estimated at $100,000.'

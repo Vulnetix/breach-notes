@@ -1,24 +1,18 @@
-source_name: '"Real-World Asset Loan Worth $20M Sours on DeFi Platform Goldfinch,
-  Bringing RWA Lending Under Scrutiny"'
+source_name: '"Real-World Asset Loan Worth $20M Sours on DeFi Platform Goldfinch, Bringing RWA Lending Under Scrutiny"'
 source_url: https://www.coindesk.com/markets/2023/10/09/real-world-asset-loan-worth-20m-sours-on-defi-platform-goldfinch-bringing-rwa-lending-under-scrutiny/
 date_of_breach: '2023-10-10'
 date_of_disclosure: '2023-10-10'
 category: other
-notes: Goldfinch is a decentralized lending platform aiming to provide undercollateralized
-  loans, an unusual strategy in the crypto world where loans are typically overcollateralized
-  due to the difficulty in evaluating the trustworthiness of borrowers and in preventing
-  them from just taking off with the loan funds.They may now be discovering this was
-  a bad idea, as an impending default on a $20 million loan from February 2022 threatens
-  the platform with a possible $7 million loss.The loan went to a fintech credit fund
-  called Stratos, who in turn used the money for a risky real estate technology investment
-  (now written down to zero), crypto investments of their own (not disclosed to Goldfinch,
-  and sold at a "near full loss"), and other investments. Stratos is, awkwardly, an
-  investor in Goldfinch, and Stratos' founder was an advisor.This is not the first
-  loan gone bad for Goldfinch, who suffered a loss when an African motorcycle taxi
-  financing company used a $5 million loan to try to plug the hole in the finances
-  of a sister company.A commenter on the disclosure about the distressed loan wrote,
-  "This is the second occurrence of a lack of transparency from a borrower or a lack
-  of auditing capability from Goldfinch. We can all appreciate that Warbler Labs will
-  backstop the loss, but it is increasingly worrying to discover a complete lack of
-  control from the loan underwriter, especially in the context of Stratos being an
-  equity investor in Goldfinch."
+vendor_product: Goldfinch lending platform facing $7 million loss
+notes: Goldfinch is a decentralized lending platform aiming to provide undercollateralized loans, an unusual strategy in the
+  crypto world where loans are typically overcollateralized due to the difficulty in evaluating the trustworthiness of borrowers
+  and in preventing them from just taking off with the loan funds.They may now be discovering this was a bad idea, as an impending
+  default on a $20 million loan from February 2022 threatens the platform with a possible $7 million loss.The loan went to
+  a fintech credit fund called Stratos, who in turn used the money for a risky real estate technology investment (now written
+  down to zero), crypto investments of their own (not disclosed to Goldfinch, and sold at a "near full loss"), and other investments.
+  Stratos is, awkwardly, an investor in Goldfinch, and Stratos' founder was an advisor.This is not the first loan gone bad
+  for Goldfinch, who suffered a loss when an African motorcycle taxi financing company used a $5 million loan to try to plug
+  the hole in the finances of a sister company.A commenter on the disclosure about the distressed loan wrote, "This is the
+  second occurrence of a lack of transparency from a borrower or a lack of auditing capability from Goldfinch. We can all
+  appreciate that Warbler Labs will backstop the loss, but it is increasingly worrying to discover a complete lack of control
+  from the loan underwriter, especially in the context of Stratos being an equity investor in Goldfinch."

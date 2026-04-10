@@ -3,14 +3,13 @@ source_url: https://x.com/StepFinance_/status/2025986934112145849
 date_of_breach: '2026-02-23'
 date_of_disclosure: '2026-02-23'
 category: other
-notes: 'Step Finance announced that, following a $30 million theft in late January,
-  the project would be shutting down. Along with it, they will shut down SolanaFloor
-  — a Solana-focused media project — and Remora Markets — a Solana-based tokenized
-  stocks platform.According to Step Finance, "we explored every possible path forward,
-  including financing and acquisition opportunities. Unfortunately, we were unable
-  to secure a viable outcome and have made the difficult decision to end all operations
-  effective immediately."In reply to Step Finance''s announcement, crypto investor
-  Mike Dudas claimed that the project had contacted him about bridge financing, but
-  that Step had never responded to his request for more information about the hack.
-  "i responded: ''would need to see the security post mortem before i could consider
-  investing here'' &lt;crickets&gt;"'
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Step Finance
+blockchain: solana
+notes: 'Step Finance announced that, following a $30 million theft in late January, the project would be shutting down. Along
+  with it, they will shut down SolanaFloor — a Solana-focused media project — and Remora Markets — a Solana-based tokenized
+  stocks platform.According to Step Finance, "we explored every possible path forward, including financing and acquisition
+  opportunities. Unfortunately, we were unable to secure a viable outcome and have made the difficult decision to end all
+  operations effective immediately."In reply to Step Finance''s announcement, crypto investor Mike Dudas claimed that the
+  project had contacted him about bridge financing, but that Step had never responded to his request for more information
+  about the hack. "i responded: ''would need to see the security post mortem before i could consider investing here'' &lt;crickets&gt;"'

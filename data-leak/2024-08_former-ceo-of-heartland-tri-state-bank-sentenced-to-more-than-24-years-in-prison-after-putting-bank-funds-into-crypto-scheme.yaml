@@ -3,18 +3,19 @@ source_url: https://www.justice.gov/usao-ks/pr/former-ceo-failed-bank-sentenced-
 date_of_breach: '2024-08-19'
 date_of_disclosure: '2024-08-19'
 category: data-leak
-notes: 'Shan Hanes, the former CEO of the Kansas Heartland Tri-State Bank, was sentenced
-  to 293 months (24 years, 5 months) imprisonment after pleading guilty to embezzlement
-  by a bank officer. Hanes had fallen for a "pig butchering" scam, where he believed
-  he could earn returns by "investing" funds under the bank''s control into a cryptocurrency
-  scheme.Between May and July of 2023, Hanes transferred $47.1 million of the bank''s
-  funds to the fraudulent scheme. This ultimately led to the bank collapsing, with
-  equity investors losing $9 million and the FDIC footing the bill. "There were people
-  who lost 70, 80% of their retirement" as a result of their investment losses, stated
-  a community member.Hanes had also taken money from a local church, an investment
-  club, and his daughter''s college savings. These funds were reportedly used to buy
-  cryptocurrency after those running the scheme told him they needed more money to
-  "unlock" the returns on his investments — a common tactic with these scams.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Former CEO of Heartland Tri-State Bank sentenced to more than 24 years in prison after putting bank funds
+  into crypto sc
+financial_loss_usd: 47100000
+notes: 'Shan Hanes, the former CEO of the Kansas Heartland Tri-State Bank, was sentenced to 293 months (24 years, 5 months)
+  imprisonment after pleading guilty to embezzlement by a bank officer. Hanes had fallen for a "pig butchering" scam, where
+  he believed he could earn returns by "investing" funds under the bank''s control into a cryptocurrency scheme.Between May
+  and July of 2023, Hanes transferred $47.1 million of the bank''s funds to the fraudulent scheme. This ultimately led to
+  the bank collapsing, with equity investors losing $9 million and the FDIC footing the bill. "There were people who lost
+  70, 80% of their retirement" as a result of their investment losses, stated a community member.Hanes had also taken money
+  from a local church, an investment club, and his daughter''s college savings. These funds were reportedly used to buy cryptocurrency
+  after those running the scheme told him they needed more money to "unlock" the returns on his investments — a common tactic
+  with these scams.
 
 
   Total loss estimated at $47,100,000.'

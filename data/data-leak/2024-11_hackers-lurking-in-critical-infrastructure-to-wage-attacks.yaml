@@ -1,0 +1,17 @@
+source_name: Hackers Lurking in Critical Infrastructure to Wage Attacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/hackers-lurking-in-critical-infrastructure-to-wage-attacks-a-26815
+date_of_breach: '2024-11-14'
+date_of_disclosure: '2024-11-14'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The Australian government is alerting critical infrastructure providers that
+  state-sponsored actors are positioning malware in their networks that can be weaponized
+
+
+  Source: DataBreachToday article coverage.'

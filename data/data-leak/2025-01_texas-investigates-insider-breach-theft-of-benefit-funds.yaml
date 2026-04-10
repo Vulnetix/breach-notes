@@ -1,0 +1,17 @@
+source_name: Texas Investigates Insider Breach, Theft of Benefit Funds (DataBreachToday)
+source_url: https://www.databreachtoday.com/texas-investigates-insider-breach-theft-benefit-funds-a-27353
+date_of_breach: '2025-01-22'
+date_of_disclosure: '2025-01-22'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Authorities in Texas are investigating an insider incident at the Texas Health
+  and Human Services Commission that led to the firing of seven employees, with
+
+
+  Source: DataBreachToday article coverage.'

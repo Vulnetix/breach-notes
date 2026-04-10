@@ -1,0 +1,17 @@
+source_name: Rhode Island Schools Deploy DNS Service to Tackle Ransomware (DataBreachToday)
+source_url: https://www.databreachtoday.com/rhode-island-schools-deploy-dns-service-to-tackle-ransomware-a-27005
+date_of_breach: '2024-12-09'
+date_of_disclosure: '2024-12-09'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Rhode Island will become the first state in the nation to launch a statewide
+  cybersecurity tool for K-12 schools, offering enhanced protection against ransomware
+
+
+  Source: DataBreachToday article coverage.'

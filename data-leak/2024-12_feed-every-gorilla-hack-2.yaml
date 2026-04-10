@@ -3,15 +3,16 @@ source_url: https://protos.com/feg-token-holders-in-despair-after-third-hack-cau
 date_of_breach: '2024-12-29'
 date_of_disclosure: '2024-12-29'
 category: data-leak
-notes: 'The "Feed Every Gorilla" project has once again been hacked, after suffering
-  a pair of flash loan attacks in May 2022 amounting to $1.9 million in losses. The
-  protocol also suffered losses later in 2022, thanks to an issue with a token locking
-  service that cost FEG $2 million (though around $1.9 million was ultimately returned
-  by the exploiter).This time, the FEG project team blamed an issue with the project''s
-  bridge, which is a tool used to deposit and withdraw tokens from the project. An
-  attacker was able to maliciously withdraw a large amount of FEG tokens via the flaw
-  in the bridge, which they then sold off for around $1.07 million, tanking the FEG
-  token price by 99% in the process. The bridge had been audited by the PeckShield
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Feed Every Gorilla
+blockchain: bsc, ethereum
+financial_loss_usd: 1070000
+notes: 'The "Feed Every Gorilla" project has once again been hacked, after suffering a pair of flash loan attacks in May 2022
+  amounting to $1.9 million in losses. The protocol also suffered losses later in 2022, thanks to an issue with a token locking
+  service that cost FEG $2 million (though around $1.9 million was ultimately returned by the exploiter).This time, the FEG
+  project team blamed an issue with the project''s bridge, which is a tool used to deposit and withdraw tokens from the project.
+  An attacker was able to maliciously withdraw a large amount of FEG tokens via the flaw in the bridge, which they then sold
+  off for around $1.07 million, tanking the FEG token price by 99% in the process. The bridge had been audited by the PeckShield
   blockchain security firm.
 
 

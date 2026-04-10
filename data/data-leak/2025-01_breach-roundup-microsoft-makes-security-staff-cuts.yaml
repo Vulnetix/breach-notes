@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Microsoft Makes Security Staff Cuts (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-microsoft-makes-security-staff-cuts-a-27312
+date_of_breach: '2025-01-16'
+date_of_disclosure: '2025-01-16'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Microsoft laid off security staff and released Patch Tuesday, Russian
+  hackers intensified attacks on Ukraine in 2024, Telefónica confirmed a breach, a
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,22 +1,20 @@
-source_name: '"Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged
-  With Money Laundering And Unlicensed Money Transmitting Offenses"'
+source_name: '"Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed
+  Money Transmitting Offenses"'
 source_url: https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering
 date_of_breach: '2024-04-24'
 date_of_disclosure: '2024-04-24'
 category: other
-notes: Keonne Rodriguez and William Lonergan Hill, founders of the Samourai Wallet,
-  were arrested and charged with conspiracy to commit money laundering and conspiracy
-  to operate an unlicensed money transmitting business. The charges relate to their
-  operation of a cryptocurrency mixer that the DOJ says helped to launder over $2
-  billion in unlawful transactions. $100 million of that, they say, was connected
-  to dark web markets including Silk Road and Hydra Market. Indeed, Samourai had actively
-  marketed its products to "Dark/Grey Market participants".Rodriguez was arrested
-  in the United States; the United States will seek extradition for Hill, who was
-  arrested in Portugal.Samourai Wallet advertised itself as "a bitcoin wallet made
-  for the streets", which would "keep your transactions private, your identity masked,
-  and your funds secure". It touted features including "remote self-destruct", and
-  would hide itself from a phone's applications list. As charges were filed in the
-  United States, the wallet's website began displaying a seizure notice that informed
-  visitors of a coordinated law enforcement action by the US Attorney's Office in
-  the Southern District of New York, FBI, IRS, Europol, and Portuguese and Icelandic
-  police. The app was also removed from the Google Play Store.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Samourai Wallet operators charged
+blockchain: bitcoin
+notes: Keonne Rodriguez and William Lonergan Hill, founders of the Samourai Wallet, were arrested and charged with conspiracy
+  to commit money laundering and conspiracy to operate an unlicensed money transmitting business. The charges relate to their
+  operation of a cryptocurrency mixer that the DOJ says helped to launder over $2 billion in unlawful transactions. $100 million
+  of that, they say, was connected to dark web markets including Silk Road and Hydra Market. Indeed, Samourai had actively
+  marketed its products to "Dark/Grey Market participants".Rodriguez was arrested in the United States; the United States
+  will seek extradition for Hill, who was arrested in Portugal.Samourai Wallet advertised itself as "a bitcoin wallet made
+  for the streets", which would "keep your transactions private, your identity masked, and your funds secure". It touted features
+  including "remote self-destruct", and would hide itself from a phone's applications list. As charges were filed in the United
+  States, the wallet's website began displaying a seizure notice that informed visitors of a coordinated law enforcement action
+  by the US Attorney's Office in the Southern District of New York, FBI, IRS, Europol, and Portuguese and Icelandic police.
+  The app was also removed from the Google Play Store.

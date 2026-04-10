@@ -1,22 +1,22 @@
-source_name: '"New Ronin Bridge hack down to dodgy upgrade, team banks on ''white
-  hat'' op"'
+source_name: '"New Ronin Bridge hack down to dodgy upgrade, team banks on ''white hat'' op"'
 source_url: https://protos.com/new-ronin-bridge-hack-down-to-dodgy-upgrade-team-banks-on-white-hat-op/
 date_of_breach: '2024-08-06'
 date_of_disclosure: '2024-08-06'
 category: data-leak
-notes: 'The Ronin bridge, which bridges crypto assets to the Ronin Network used by
-  Axie Infinity and other gaming projects, has once again suffered a breach — though
-  a considerably smaller one than the recordbreaking $625 million theft in March 2022.
-  An update to the bridge code introduced a flaw with respect to how transactions
-  were confirmed.Fortunately for the Ronin team, it seems that most of the losses
-  actually went to whitehats and MEV bots that were frontrunning transactions by would-be
-  exploiters. ETH and USDC priced at around $12 million were taken — the maximum amount
-  before triggering a safety feature in the code. Later that day, Ronin announced
-  that the ETH (worth around $10 million) had been returned, and that the USDC was
-  in the process of being returned. They also announced that they would reward the
-  whitehats with a $500,000 bug bounty reward.The Ronin bridge was taken offline shortly
-  after the flaw was detected, and the team announced it would undergo an audit before
-  being brought back online.
+initial_attack_vector: MEV / sandwich attack
+vendor_product: $12 million taken by whitehats from Ronin bridge
+blockchain: ethereum
+financial_loss_usd: 12000000
+financial_recovered_usd: 11500000
+notes: 'The Ronin bridge, which bridges crypto assets to the Ronin Network used by Axie Infinity and other gaming projects,
+  has once again suffered a breach — though a considerably smaller one than the recordbreaking $625 million theft in March
+  2022. An update to the bridge code introduced a flaw with respect to how transactions were confirmed.Fortunately for the
+  Ronin team, it seems that most of the losses actually went to whitehats and MEV bots that were frontrunning transactions
+  by would-be exploiters. ETH and USDC priced at around $12 million were taken — the maximum amount before triggering a safety
+  feature in the code. Later that day, Ronin announced that the ETH (worth around $10 million) had been returned, and that
+  the USDC was in the process of being returned. They also announced that they would reward the whitehats with a $500,000
+  bug bounty reward.The Ronin bridge was taken offline shortly after the flaw was detected, and the team announced it would
+  undergo an audit before being brought back online.
 
 
   Total loss estimated at $12,000,000.'

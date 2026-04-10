@@ -1,0 +1,17 @@
+source_name: 3 Health Groups Report 2024 Hacks Affecting 1.2 Million (DataBreachToday)
+source_url: https://www.databreachtoday.com/3-health-groups-report-2024-hacks-affecting-12-million-a-27448
+date_of_breach: '2025-02-04'
+date_of_disclosure: '2025-02-04'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Three healthcare entities - including a California hospital and outpatient
+  care provider, an Alabama cardiology practice, and a Colorado community health system,
+
+
+  Source: DataBreachToday article coverage.'

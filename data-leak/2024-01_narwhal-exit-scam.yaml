@@ -3,13 +3,14 @@ source_url: https://twitter.com/CertiKAlert/status/1744369159461376048
 date_of_breach: '2024-01-07'
 date_of_disclosure: '2024-01-07'
 category: data-leak
-notes: 'A cryptocurrency project called Narwhal appears to have rug-pulled, claiming
-  that they were hacked. In a post on their Twitter account, they claimed that a "hacker
-  attack" caused "significant losses to [their] community members", but urged followers
-  to "maintain trust in the platform".However, investigation by the CertiK blockchain
-  security firm suggests that the "hack" may have been an inside job, with much of
-  the $1.5 million that was "stolen" going to wallets with links to the Narwhal team.The
-  Narwhal project had launched in mid-December.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Narwhal exit
+financial_loss_usd: 1500000
+notes: 'A cryptocurrency project called Narwhal appears to have rug-pulled, claiming that they were hacked. In a post on their
+  Twitter account, they claimed that a "hacker attack" caused "significant losses to [their] community members", but urged
+  followers to "maintain trust in the platform".However, investigation by the CertiK blockchain security firm suggests that
+  the "hack" may have been an inside job, with much of the $1.5 million that was "stolen" going to wallets with links to the
+  Narwhal team.The Narwhal project had launched in mid-December.
 
 
   Total loss estimated at $1,500,000.'

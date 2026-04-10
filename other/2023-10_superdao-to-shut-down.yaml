@@ -3,9 +3,9 @@ source_url: https://superdao.notion.site/Superdao-is-closing-down-7429cd1a9ee244
 date_of_breach: '2023-10-19'
 date_of_disclosure: '2023-10-19'
 category: other
-notes: 'Superdao, a project aiming to assist communities in forming DAOs, has announced
-  it will be closing its doors. It was blunt in its announcement: "it became clear
-  that the crypto industry itself becomes much smaller than its initial ambition (''the
-  new internet'') and specialized tools for crypto companies are unlikely to produce
-  venture-scale outcomes."The project had raised $10.5 million in a 2021 seed funding
-  round, and has said they intend to return remaining funds to its investors.'
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Superdao to
+notes: 'Superdao, a project aiming to assist communities in forming DAOs, has announced it will be closing its doors. It was
+  blunt in its announcement: "it became clear that the crypto industry itself becomes much smaller than its initial ambition
+  (''the new internet'') and specialized tools for crypto companies are unlikely to produce venture-scale outcomes."The project
+  had raised $10.5 million in a 2021 seed funding round, and has said they intend to return remaining funds to its investors.'

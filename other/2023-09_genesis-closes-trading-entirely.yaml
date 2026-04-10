@@ -3,10 +3,10 @@ source_url: https://www.coindesk.com/business/2023/09/14/genesis-has-ceased-all-
 date_of_breach: '2023-09-14'
 date_of_disclosure: '2023-09-14'
 category: other
-notes: After announcing on September 5 that Genesis would be closing their U.S. spot
-  trading business in a "decision ... made voluntarily and for business reasons",
-  Genesis has now announced that they will be closing all trading. They again write
-  that "This decision was made voluntarily and for business reasons" - the kind of
-  statement that gets less believable the more they repeat it.Although Genesis Global
-  Capital filed for bankruptcy in January 2023, portions of its business were excluded
-  from the bankruptcy and continued to operate.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Genesis closes trading entirely
+notes: After announcing on September 5 that Genesis would be closing their U.S. spot trading business in a "decision ... made
+  voluntarily and for business reasons", Genesis has now announced that they will be closing all trading. They again write
+  that "This decision was made voluntarily and for business reasons" - the kind of statement that gets less believable the
+  more they repeat it.Although Genesis Global Capital filed for bankruptcy in January 2023, portions of its business were
+  excluded from the bankruptcy and continued to operate.

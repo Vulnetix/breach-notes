@@ -3,11 +3,14 @@ source_url: https://cointelegraph.com/news/dough-finance-loses-1-8m-flash-loan-a
 date_of_breach: '2024-07-12'
 date_of_disclosure: '2024-07-12'
 category: data-leak
-notes: 'Defi platform Dough Finance was hacked for 608 ETH ($1.8 million) by a hacker
-  using a flash loan attack funded through the Railgun privacy service.Dough Finance
-  sent an on-chain message to the attacker, asking them to return the "misappropriated
-  funds", threatening that they would "pursue all criminal, legal, and administrative
-  avenues available" in the event that the attacker did not do so.
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Dough Finance
+blockchain: ethereum
+financial_loss_usd: 1800000
+notes: 'Defi platform Dough Finance was hacked for 608 ETH ($1.8 million) by a hacker using a flash loan attack funded through
+  the Railgun privacy service.Dough Finance sent an on-chain message to the attacker, asking them to return the "misappropriated
+  funds", threatening that they would "pursue all criminal, legal, and administrative avenues available" in the event that
+  the attacker did not do so.
 
 
   Total loss estimated at $1,800,000.'

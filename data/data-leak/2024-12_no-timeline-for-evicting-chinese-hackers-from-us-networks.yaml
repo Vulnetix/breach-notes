@@ -1,0 +1,17 @@
+source_name: No Timeline for Evicting Chinese Hackers from US Networks (DataBreachToday)
+source_url: https://www.databreachtoday.com/no-timeline-for-evicting-chinese-hackers-from-us-networks-a-26956
+date_of_breach: '2024-12-03'
+date_of_disclosure: '2024-12-03'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Chinese hackers who penetrated U.S. telecoms likely haven''t been fully evicted
+  partially due to shifting tactics made in response to public disclosures, federal
+
+
+  Source: DataBreachToday article coverage.'

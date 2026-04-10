@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: DeepSeek Leaked Sensitive Data (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-deepseek-leaked-sensitive-data-a-27408
+date_of_breach: '2025-01-30'
+date_of_disclosure: '2025-01-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, DeepSeek exposed sensitive data, hackers exploited unpatched Zyxel
+  flaws, infostealer malware on Mexican government computers, Smiths Group incident,
+
+
+  Source: DataBreachToday article coverage.'

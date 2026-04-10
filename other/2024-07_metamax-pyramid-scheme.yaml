@@ -3,19 +3,17 @@ source_url: https://in-cyprus.philenews.com/local/man-arrested-for-metamax-pyram
 date_of_breach: '2024-07-15'
 date_of_disclosure: '2024-07-15'
 category: other
-notes: Three people have been arrested in connection to a crypto pyramid scheme called
-  Metamax. Those behind the scam promised that people who invested in the scam could
-  then earn income of up to $400 a day simply by watching, sharing, liking, and reviewing
-  videos. There was, of course, a referral component as well, where people earned
-  commission on the "investments" of people they referred. And for people who chose
-  to invest in one of Metamax's fixed investment plans, they were promised 1.5% daily
-  returns.Unsurprisingly, the project turned out to be a pyramid scheme. On June 25,
-  the Philippines SEC issued a warning, noting that the project was not registered
-  with them, and that it "has the characteristics of a 'Ponzi scheme'". Shortly afterwards,
-  Metamax deleted their Twitter account, and shut down victims' online access to their
-  accounts.Local news estimated that the scheme affected around 15,000 victims, mainly
-  in Cyprus and Greece. Three people have been arrested in connection to the scheme,
-  including a retired Cypriot police officer. One of the suspects turned himself in
-  to police, claiming that he himself was a victim of the scam, and that he believed
-  his life was in danger as he was being threatened by Metamax victims. Days later,
-  a bomb was detonated near a home he once rented.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Metamax pyramid scheme
+affected_count: 15000
+notes: Three people have been arrested in connection to a crypto pyramid scheme called Metamax. Those behind the scam promised
+  that people who invested in the scam could then earn income of up to $400 a day simply by watching, sharing, liking, and
+  reviewing videos. There was, of course, a referral component as well, where people earned commission on the "investments"
+  of people they referred. And for people who chose to invest in one of Metamax's fixed investment plans, they were promised
+  1.5% daily returns.Unsurprisingly, the project turned out to be a pyramid scheme. On June 25, the Philippines SEC issued
+  a warning, noting that the project was not registered with them, and that it "has the characteristics of a 'Ponzi scheme'".
+  Shortly afterwards, Metamax deleted their Twitter account, and shut down victims' online access to their accounts.Local
+  news estimated that the scheme affected around 15,000 victims, mainly in Cyprus and Greece. Three people have been arrested
+  in connection to the scheme, including a retired Cypriot police officer. One of the suspects turned himself in to police,
+  claiming that he himself was a victim of the scam, and that he believed his life was in danger as he was being threatened
+  by Metamax victims. Days later, a bomb was detonated near a home he once rented.

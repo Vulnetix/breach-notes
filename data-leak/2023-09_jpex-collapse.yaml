@@ -1,18 +1,17 @@
-source_name: '"Hong Kong JPEX scandal: who are the suspects arrested so far and how
-  are they tied to cryptocurrency platform?"'
+source_name: '"Hong Kong JPEX scandal: who are the suspects arrested so far and how are they tied to cryptocurrency platform?"'
 source_url: https://www.scmp.com/news/hong-kong/law-and-crime/article/3235551/hong-kong-jpex-scandal-who-are-suspects-arrested-so-far-and-how-are-they-tied-cryptocurrency
 date_of_breach: '2023-09-25'
 date_of_disclosure: '2023-09-25'
 category: data-leak
-notes: 'After the Hong Kong-based JPEX exchange limited withdrawals amidst what appeared
-  to be an impending collapse of the platform, things are now looking a lot more like
-  fraud.Police have received more than 2,200 complaints pertaining to the exchange,
-  involving $191 million (and counting) in possible losses. Eleven people, including
-  various crypto influencers who had promoted the exchange, were taken in for questioning.
-  However, police have said those eleven people were not likely central to the fraud,
-  and that the leaders of the JPEX project are on the run.According to the South China
-  Morning Post, "The alleged case of financial fraud involving HK$1.37 billion is
-  the largest of its kind in Hong Kong''s history."
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: JPEX
+financial_loss_usd: 191000000
+notes: 'After the Hong Kong-based JPEX exchange limited withdrawals amidst what appeared to be an impending collapse of the
+  platform, things are now looking a lot more like fraud.Police have received more than 2,200 complaints pertaining to the
+  exchange, involving $191 million (and counting) in possible losses. Eleven people, including various crypto influencers
+  who had promoted the exchange, were taken in for questioning. However, police have said those eleven people were not likely
+  central to the fraud, and that the leaders of the JPEX project are on the run.According to the South China Morning Post,
+  "The alleged case of financial fraud involving HK$1.37 billion is the largest of its kind in Hong Kong''s history."
 
 
   Total loss estimated at $191,000,000.'

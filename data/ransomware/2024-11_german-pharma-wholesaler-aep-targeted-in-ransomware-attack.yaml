@@ -1,0 +1,17 @@
+source_name: German Pharma Wholesaler AEP Targeted in Ransomware Attack (DataBreachToday)
+source_url: https://www.databreachtoday.com/german-pharma-wholesaler-aep-targeted-in-ransomware-attack-a-26704
+date_of_breach: '2024-11-01'
+date_of_disclosure: '2024-11-01'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A ransomware attack on German pharmaceutical distributor AEP detected Monday
+  has not led to medication shortages so far, report local media. AEP disclosed Wednesday
+
+
+  Source: DataBreachToday article coverage.'

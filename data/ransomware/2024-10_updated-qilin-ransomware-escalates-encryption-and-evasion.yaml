@@ -1,0 +1,17 @@
+source_name: Updated Qilin Ransomware Escalates Encryption and Evasion (DataBreachToday)
+source_url: https://www.databreachtoday.com/updated-qilin-ransomware-escalates-encryption-evasion-a-26637
+date_of_breach: '2024-10-25'
+date_of_disclosure: '2024-10-25'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Operators of a Russian-speaking ransomware group launched a new encryptor
+  with enhanced measures for defeating cyber defenders including wiping logs, disrupting
+
+
+  Source: DataBreachToday article coverage.'

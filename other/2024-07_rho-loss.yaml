@@ -3,11 +3,13 @@ source_url: https://x.com/zachxbt/status/1814286415347544211
 date_of_breach: '2024-07-19'
 date_of_disclosure: '2024-07-19'
 category: other
-notes: An apparent misconfiguration by the RHO Markets lending protocol allowed operators
-  of an MEV bot to take $7.6 million from the project's users across multiple chains.In
-  a stroke of luck for the RHO team, the MEV bot operator sent RHO an on-chain message
-  indicating they were willing to return all of the funds, although they first demanded
-  that RHO "admit that it was not an exploit or a hack, but a misconfiguration on
-  your end. Also, please provide what you are going to do to prevent it from happening
-  again."RHO is built on the Scroll Ethereum layer-2 network. Scroll temporarily paused
-  the chain as RHO investigated the loss.
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Rho loss
+blockchain: ethereum
+financial_recovered_usd: 7600000
+notes: An apparent misconfiguration by the RHO Markets lending protocol allowed operators of an MEV bot to take $7.6 million
+  from the project's users across multiple chains.In a stroke of luck for the RHO team, the MEV bot operator sent RHO an on-chain
+  message indicating they were willing to return all of the funds, although they first demanded that RHO "admit that it was
+  not an exploit or a hack, but a misconfiguration on your end. Also, please provide what you are going to do to prevent it
+  from happening again."RHO is built on the Scroll Ethereum layer-2 network. Scroll temporarily paused the chain as RHO investigated
+  the loss.

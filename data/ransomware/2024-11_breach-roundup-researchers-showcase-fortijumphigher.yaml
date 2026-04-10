@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Researchers Showcase ''FortiJumpHigher'' (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-researchers-showcase-fortijumphigher-a-26813
+date_of_breach: '2024-11-14'
+date_of_disclosure: '2024-11-14'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Researchers say Fortinet didn''t fully patch FortiJump, &quot;Jinn
+  Ransomware&quot; was a setup, Microsoft Patch Tuesday and a Moody''s warning over
+
+
+  Source: DataBreachToday article coverage.'

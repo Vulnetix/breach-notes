@@ -3,13 +3,12 @@ source_url: https://www.web3isgoinggreat.com/?id=2024-09-23-0
 date_of_breach: '2024-09-23'
 date_of_disclosure: '2024-09-23'
 category: data-leak
-notes: The Twitter account belonging to OpenAI's news account was compromised and
-  used to "announce" a scam website purporting to announce the $OPENAI token. "All
-  OpenAI users are eligible to claim a piece of $OPENAI’s initial supply. Holding
-  $OPENAI will grant access to all of our future beta programs," the scam tweets claimed.
-  A link in the tweets directed users to a malicious website that invited users to
-  connect their wallets to claim tokens.This latest hack is only the latest in a slew
-  of Twitter account compromises "announcing" a scam token. Over a year, OpenAI CTO
-  Mira Murati had her account hacked to promote an "$OPENAI" token. Three months ago,
-  accounts belonging to chief scientist Jakub Pachocki and researcher Jason Wei were
-  hacked and used to post the same scam as today.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: OpenAI Twitter account
+notes: The Twitter account belonging to OpenAI's news account was compromised and used to "announce" a scam website purporting
+  to announce the $OPENAI token. "All OpenAI users are eligible to claim a piece of $OPENAI’s initial supply. Holding $OPENAI
+  will grant access to all of our future beta programs," the scam tweets claimed. A link in the tweets directed users to a
+  malicious website that invited users to connect their wallets to claim tokens.This latest hack is only the latest in a slew
+  of Twitter account compromises "announcing" a scam token. Over a year, OpenAI CTO Mira Murati had her account hacked to
+  promote an "$OPENAI" token. Three months ago, accounts belonging to chief scientist Jakub Pachocki and researcher Jason
+  Wei were hacked and used to post the same scam as today.

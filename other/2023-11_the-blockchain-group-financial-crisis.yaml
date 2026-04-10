@@ -1,15 +1,14 @@
-source_name: '"The Blockchain Group annonce la suspension du cours de ses actions
-  sur Euronext Growth et l’ajournement de l’assemblée générale mixte du 1er décembre
-  2023"'
+source_name: '"The Blockchain Group annonce la suspension du cours de ses actions sur Euronext Growth et l’ajournement de
+  l’assemblée générale mixte du 1er décembre 2023"'
 source_url: https://www.theblockchain-group.com/wp-content/uploads/2023/11/TBG-CP17112023.pdf
 date_of_breach: '2023-11-17'
 date_of_disclosure: '2023-11-17'
 category: other
-notes: French blockchain firm The Blockchain Group announced that they had requested
-  trading be halted on the company's shares and postponed a planned company meeting.
-  The announcement disclosed "financial difficulties" that had caused the company
-  to try to obtain rescue financing. They also said that they had begun discussions
-  with creditors around possible restructuring.The Blockchain Group is behind a number
-  of different services, including a crypto wallet called Eniblock and an open source
-  software bounty project called Bountysource. Users of the Bountysource project have
-  been complaining about issues receiving payments since as far back as May 2023.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: The Blockchain Group financial crisis
+notes: French blockchain firm The Blockchain Group announced that they had requested trading be halted on the company's shares
+  and postponed a planned company meeting. The announcement disclosed "financial difficulties" that had caused the company
+  to try to obtain rescue financing. They also said that they had begun discussions with creditors around possible restructuring.The
+  Blockchain Group is behind a number of different services, including a crypto wallet called Eniblock and an open source
+  software bounty project called Bountysource. Users of the Bountysource project have been complaining about issues receiving
+  payments since as far back as May 2023.

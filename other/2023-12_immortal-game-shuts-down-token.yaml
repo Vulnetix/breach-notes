@@ -3,13 +3,12 @@ source_url: https://immortal.game/wiki/important-update-from-immortal-game
 date_of_breach: '2023-12-12'
 date_of_disclosure: '2023-12-12'
 category: other
-notes: After raising $12 million from crypto-focused venture funds, the Immortal Game
-  blockchain chess platform has announced that they would be nixing most of the blockchain
-  part by shutting down support for their "Checkmate" token and stopping development
-  on play-to-earn and NFT projects. Although they began as a blockchain chess company,
-  they seem to be pivoting to just being a chess company."We found that by offering
-  large amounts of cash with no limit barrier to entry, we encouraged heavy cheating
-  on the platform and degraded the user experience for our legitimate player base
-  who want a fair and safe place to play chess online," they wrote. Who could have
-  guessed.Somewhat ironically, they suggested that they may still intended to look
-  into using web3 technology for "anti-cheat measures".
+vendor_product: Immortal Game
+blockchain: ethereum
+notes: After raising $12 million from crypto-focused venture funds, the Immortal Game blockchain chess platform has announced
+  that they would be nixing most of the blockchain part by shutting down support for their "Checkmate" token and stopping
+  development on play-to-earn and NFT projects. Although they began as a blockchain chess company, they seem to be pivoting
+  to just being a chess company."We found that by offering large amounts of cash with no limit barrier to entry, we encouraged
+  heavy cheating on the platform and degraded the user experience for our legitimate player base who want a fair and safe
+  place to play chess online," they wrote. Who could have guessed.Somewhat ironically, they suggested that they may still
+  intended to look into using web3 technology for "anti-cheat measures".

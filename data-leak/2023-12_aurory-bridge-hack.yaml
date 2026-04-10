@@ -3,15 +3,16 @@ source_url: https://cointelegraph.com/news/aurory-usdc-pool-drained-arbitrum-dex
 date_of_breach: '2023-12-17'
 date_of_disclosure: '2023-12-17'
 category: data-leak
-notes: 'The Aurory gaming platform uses a bridge called SyncSpace to move assets between
-  the blockchain and the game''s off-chain network. On December 17, the bridge was
-  targeted on Arbitrum''s Camelot DEX, and an attacker successfully siphoned around
-  600,000 $AURY tokens from the liquidity pool. As a result, the pool went from around
-  $1.5 million in liquidity to around $312,000, and the price of the $AURY token dropped
-  11% as the attacker sold it off in bulk.The Aurory team posted on Twitter to acknowledge
-  the hack, writing that they''d disabled SyncSpace as they investigated. They also
-  wrote that SyncSpace had been audited months ago, but that the audit had failed
-  to detect the vulnerability.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Aurory bridge
+blockchain: solana, ethereum
+financial_loss_usd: 1188000
+notes: 'The Aurory gaming platform uses a bridge called SyncSpace to move assets between the blockchain and the game''s off-chain
+  network. On December 17, the bridge was targeted on Arbitrum''s Camelot DEX, and an attacker successfully siphoned around
+  600,000 $AURY tokens from the liquidity pool. As a result, the pool went from around $1.5 million in liquidity to around
+  $312,000, and the price of the $AURY token dropped 11% as the attacker sold it off in bulk.The Aurory team posted on Twitter
+  to acknowledge the hack, writing that they''d disabled SyncSpace as they investigated. They also wrote that SyncSpace had
+  been audited months ago, but that the audit had failed to detect the vulnerability.
 
 
   Total loss estimated at $1,188,000.'

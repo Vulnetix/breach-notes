@@ -1,19 +1,16 @@
-source_name: '"Attorney General Bonta Secures $3.9 Million Settlement with Cryptocurrency
-  Company Robinhood"'
+source_name: '"Attorney General Bonta Secures $3.9 Million Settlement with Cryptocurrency Company Robinhood"'
 source_url: https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-39-million-settlement-cryptocurrency-company
 date_of_breach: '2024-09-04'
 date_of_disclosure: '2024-09-04'
 category: other
-notes: Robinhood has paid $3.9 million to settle charges from the California Department
-  of Justice that the platform was violating commodities laws. From 2018 to 2022,
-  the popular trading platform prohibited its customers from actually taking custody
-  of the cryptocurrency assets they purchased on the platform. According to the California
-  DOJ, this violated the state's commodities laws.In addition to the fine, terms of
-  the settlement require the platform to allow its customers to withdraw their crypto
-  assets, and to update disclosures regarding asset custody.The California DOJ also
-  accused the platform of misleading its customers by claiming that the app "advertis[ed]
-  it would connect to multiple trading venues, to ensure customers receive the most
-  competitive prices between the venues, which was not always true". They also say
-  that Robinhood lied about always holding all customer crypto assets purchased through
-  the platform, when in reality, "there were instances in which it arranged for trading
-  venues to hold customer assets for extended periods".
+initial_attack_vector: Regulatory / legal action
+vendor_product: Robinhood pays settlement to California
+notes: Robinhood has paid $3.9 million to settle charges from the California Department of Justice that the platform was violating
+  commodities laws. From 2018 to 2022, the popular trading platform prohibited its customers from actually taking custody
+  of the cryptocurrency assets they purchased on the platform. According to the California DOJ, this violated the state's
+  commodities laws.In addition to the fine, terms of the settlement require the platform to allow its customers to withdraw
+  their crypto assets, and to update disclosures regarding asset custody.The California DOJ also accused the platform of misleading
+  its customers by claiming that the app "advertis[ed] it would connect to multiple trading venues, to ensure customers receive
+  the most competitive prices between the venues, which was not always true". They also say that Robinhood lied about always
+  holding all customer crypto assets purchased through the platform, when in reality, "there were instances in which it arranged
+  for trading venues to hold customer assets for extended periods".

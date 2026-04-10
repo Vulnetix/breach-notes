@@ -3,18 +3,17 @@ source_url: https://blog.bittensor.com/bittnesor-community-update-july-3-2024-45
 date_of_breach: '2024-07-02'
 date_of_disclosure: '2024-07-02'
 category: data-leak
-notes: 'Some users of the Bittensor wallet software suffered wallet drains as thieves
-  emptied their cryptocurrency wallets of the project’s TAO token. Around 32,000 TAO,
-  notionally worth around $8 million, was siphoned. Although blockchain sleuth zachxbt
-  hypothesized that the attack may have been thanks to a private key leak, Bittensor
-  later claimed that affected users had in fact been compromised by a malicious Bittensor
-  package that had been uploaded to Python''s PyPi package manager. It''s not yet
-  clear how the malicious package made it onto the package manager.Bittensor is among
-  the artificial intelligence-focused cryptocurrency projects that have become popular
-  recently amid the AI hype. Although the project website boasts that "Bittensor is
-  creating a new future for humanity, where new economies and new commodities are
-  decentralized by design and where no single entity is a sole authority," the group
-  unilaterally halted the chain in the wake of the attack.
+initial_attack_vector: AI-assisted attack or AI-generated exploit
+vendor_product: Bittensor wallet drain
+financial_loss_usd: 8000000
+notes: 'Some users of the Bittensor wallet software suffered wallet drains as thieves emptied their cryptocurrency wallets
+  of the project’s TAO token. Around 32,000 TAO, notionally worth around $8 million, was siphoned. Although blockchain sleuth
+  zachxbt hypothesized that the attack may have been thanks to a private key leak, Bittensor later claimed that affected users
+  had in fact been compromised by a malicious Bittensor package that had been uploaded to Python''s PyPi package manager.
+  It''s not yet clear how the malicious package made it onto the package manager.Bittensor is among the artificial intelligence-focused
+  cryptocurrency projects that have become popular recently amid the AI hype. Although the project website boasts that "Bittensor
+  is creating a new future for humanity, where new economies and new commodities are decentralized by design and where no
+  single entity is a sole authority," the group unilaterally halted the chain in the wake of the attack.
 
 
   Total loss estimated at $8,000,000.'

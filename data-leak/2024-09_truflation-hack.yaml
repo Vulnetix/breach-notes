@@ -3,13 +3,14 @@ source_url: https://cointelegraph.com/news/truflation-loses-estimated-5-million-
 date_of_breach: '2024-09-26'
 date_of_disclosure: '2024-09-26'
 category: data-leak
-notes: 'The Truflation platform suffered a loss of around $5 million after what they
-  described as "an attack using malware". The company acknowledged the attack and
-  limited some of their services while they worked to mitigate it. They also offered
-  a reward to "any white hats offering assistance", and offered to negotiate a "bug
-  bounty" with the attacker.Truflation is a blockchain-based project that provides
-  economic data including inflation rates and asset valuations. The platform has been
-  backed by Coinbase Ventures, Chainlink, and others.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Truflation
+financial_loss_usd: 5000000
+notes: 'The Truflation platform suffered a loss of around $5 million after what they described as "an attack using malware".
+  The company acknowledged the attack and limited some of their services while they worked to mitigate it. They also offered
+  a reward to "any white hats offering assistance", and offered to negotiate a "bug bounty" with the attacker.Truflation is
+  a blockchain-based project that provides economic data including inflation rates and asset valuations. The platform has
+  been backed by Coinbase Ventures, Chainlink, and others.
 
 
   Total loss estimated at $5,000,000.'

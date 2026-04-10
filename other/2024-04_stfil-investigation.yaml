@@ -1,21 +1,20 @@
-source_name: '"Filecoin liquid staking platform STFIL claims team members under investigation
-  by Chinese police"'
+source_name: '"Filecoin liquid staking platform STFIL claims team members under investigation by Chinese police"'
 source_url: https://www.theblock.co/post/287163/filecoin-stfil-china
 date_of_breach: '2024-04-09'
 date_of_disclosure: '2024-04-09'
 category: other
-notes: 'STFIL, a protocol that promises liquid staking and "leverage mining" to holders
-  of Filecoin''s FIL token, announced on Twitter that "We believe that the STFIL core
-  technical team is under investigation by local Chinese police."According to STFIL,
-  while some of the core team members were detained by Chinese police, FIL tokens
-  were moved to an unknown wallet. They also acknowledged that there had been "abnormal,
-  unscheduled upgrades to the protocol". They asked their community members for help
-  in tracking the wallet.Some speculated that the story was fake, and that the project
-  had stolen the funds. However, Chinese police have in several instances cracked
-  down on people and companies involved in Filecoin-related projects, including an
-  $83.3 million alleged pyramid scheme in August 2023 and a group of Filecoin Ponzi
-  schemers in 2021. Filecoin mining became popular in China after its 2018 initial
-  coin offering, and also became a magnet for Ponzi schemes and other scams.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: STFIL investigation
+financial_loss_usd: 23000000
+notes: 'STFIL, a protocol that promises liquid staking and "leverage mining" to holders of Filecoin''s FIL token, announced
+  on Twitter that "We believe that the STFIL core technical team is under investigation by local Chinese police."According
+  to STFIL, while some of the core team members were detained by Chinese police, FIL tokens were moved to an unknown wallet.
+  They also acknowledged that there had been "abnormal, unscheduled upgrades to the protocol". They asked their community
+  members for help in tracking the wallet.Some speculated that the story was fake, and that the project had stolen the funds.
+  However, Chinese police have in several instances cracked down on people and companies involved in Filecoin-related projects,
+  including an $83.3 million alleged pyramid scheme in August 2023 and a group of Filecoin Ponzi schemers in 2021. Filecoin
+  mining became popular in China after its 2018 initial coin offering, and also became a magnet for Ponzi schemes and other
+  scams.
 
 
   Total loss estimated at $23,000,000.'

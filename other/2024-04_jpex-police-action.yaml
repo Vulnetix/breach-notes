@@ -1,12 +1,12 @@
-source_name: '"Hong Kong JPEX cryptocurrency scandal: 72 arrested, HK$228 million
-  in assets frozen so far"'
+source_name: '"Hong Kong JPEX cryptocurrency scandal: 72 arrested, HK$228 million in assets frozen so far"'
 source_url: https://www.scmp.com/news/hong-kong/law-and-crime/article/3259533/hong-kong-jpex-cryptocurrency-scandal-72-arrested-hk228-million-assets-frozen-so-far
 date_of_breach: '2024-04-18'
 date_of_disclosure: '2024-04-18'
 category: other
-notes: Police in Hong Kong have arrested 72 people and frozen HK$228 million (~US$29
-  million) in connection to the collapse of the JPEX cryptocurrency exchange in September
-  2023. The South China Morning Post has described the collapse as the largest alleged
-  fraud of its kind in Hong Kong.According to Hong Kong police, they have received
-  more than 2,600 complaints about JPEX, involving HK$1.6 billion (~US$204 million)
-  in assets.
+initial_attack_vector: Regulatory / legal action
+vendor_product: JPEX police action
+affected_count: 72
+notes: Police in Hong Kong have arrested 72 people and frozen HK$228 million (~US$29 million) in connection to the collapse
+  of the JPEX cryptocurrency exchange in September 2023. The South China Morning Post has described the collapse as the largest
+  alleged fraud of its kind in Hong Kong.According to Hong Kong police, they have received more than 2,600 complaints about
+  JPEX, involving HK$1.6 billion (~US$204 million) in assets.

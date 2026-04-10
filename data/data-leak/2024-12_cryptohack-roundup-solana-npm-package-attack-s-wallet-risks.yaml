@@ -1,0 +1,18 @@
+source_name: 'Cryptohack Roundup: Solana npm Package Attack''s Wallet Risks (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-solana-npm-package-attacks-wallet-risks-a-26987
+date_of_breach: '2024-12-05'
+date_of_disclosure: '2024-12-05'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Solana npm package attack, a Brazilian banking giant entered crypto
+  trading and a Nebraska man pleaded guilty to cryptojacking. Australia tightened
+  rules
+
+
+  Source: DataBreachToday article coverage.'

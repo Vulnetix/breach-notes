@@ -1,20 +1,17 @@
-source_name: '"Tornado Cash Developer Alexey Pertsev Found Guilty, Sentenced to 64
-  Months in Prison by Dutch Court"'
+source_name: '"Tornado Cash Developer Alexey Pertsev Found Guilty, Sentenced to 64 Months in Prison by Dutch Court"'
 source_url: https://www.coindesk.com/policy/2024/05/14/tornado-cash-developer-alexey-pertsev-found-guilty-of-money-laundering/
 date_of_breach: '2024-05-14'
 date_of_disclosure: '2024-05-14'
 category: other
-notes: Alexey Pertsev, one of the developers of the Tornado Cash mixing service, was
-  found guilty of money laundering and sentenced to 64 months imprisonment in the
-  Netherlands. Prosecutors claimed that Pertsev knew the service was being used to
-  launder money, but "chose not to intervene". They argued that, although the developers
-  could not necessarily prevent bad actors from laundering money through the service
-  directly, they could have done more to prevent people from using the web interface
-  to wash funds from known criminal wallets.The case is a concerning one, as sanctioning
-  software developers for how the code they write is used — particularly when it comes
-  to software intended to protect privacy — has frightening implications. Although
-  there is some precedent in the United States that "code is speech", and merely writing
-  and publishing code is protected by the First Amendment, that obviously does not
-  apply to the Netherlands. A collaborator to Pertsev, Roman Storm, is set to be tried
-  on charges of money laundering and sanctions violations in the United States in
-  September, and that case is likely to grapple with this exact issue.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Alexey Pertsev sentencing
+notes: Alexey Pertsev, one of the developers of the Tornado Cash mixing service, was found guilty of money laundering and
+  sentenced to 64 months imprisonment in the Netherlands. Prosecutors claimed that Pertsev knew the service was being used
+  to launder money, but "chose not to intervene". They argued that, although the developers could not necessarily prevent
+  bad actors from laundering money through the service directly, they could have done more to prevent people from using the
+  web interface to wash funds from known criminal wallets.The case is a concerning one, as sanctioning software developers
+  for how the code they write is used — particularly when it comes to software intended to protect privacy — has frightening
+  implications. Although there is some precedent in the United States that "code is speech", and merely writing and publishing
+  code is protected by the First Amendment, that obviously does not apply to the Netherlands. A collaborator to Pertsev, Roman
+  Storm, is set to be tried on charges of money laundering and sanctions violations in the United States in September, and
+  that case is likely to grapple with this exact issue.

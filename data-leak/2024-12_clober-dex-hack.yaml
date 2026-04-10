@@ -3,12 +3,14 @@ source_url: https://www.certik.com/resources/blog/clober-dex-incident-analysis
 date_of_breach: '2024-12-11'
 date_of_disclosure: '2024-12-11'
 category: data-leak
-notes: 'Clober, a DEX built on Coinbase''s Base Ethereum layer-2,  suffered an exploit
-  only about a week after its launch. A re-entrancy bug in the project allowed an
-  attacker to siphon 133.7 ETH (~$501,000) from the project. Although the project
-  boasted of audits, Clober had made changes to a contract after the audits that introduced
-  the vulnerability.Clober has offered a 20% "bug bounty" to the exploiter vi on-chain
-  message, though they have not yet received any public reply.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Clober DEX
+blockchain: ethereum
+financial_loss_usd: 501000
+notes: 'Clober, a DEX built on Coinbase''s Base Ethereum layer-2,  suffered an exploit only about a week after its launch.
+  A re-entrancy bug in the project allowed an attacker to siphon 133.7 ETH (~$501,000) from the project. Although the project
+  boasted of audits, Clober had made changes to a contract after the audits that introduced the vulnerability.Clober has offered
+  a 20% "bug bounty" to the exploiter vi on-chain message, though they have not yet received any public reply.
 
 
   Total loss estimated at $501,000.'

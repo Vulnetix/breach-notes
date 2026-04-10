@@ -3,29 +3,22 @@ source_url: https://danromero.org/farcaster/
 date_of_breach: '2024-02-15'
 date_of_disclosure: '2024-02-15'
 category: other
-notes: 'One of the promises made by proponents of crypto-focused decentralized social
-  networks like Farcaster is that you can''t be de-platformed by centralized companies,
-  and you maintain control over your own presence on these platforms.This made it
-  a bit of a shock when the co-founder of the a16z-backed Farcaster blockchain-based
-  social network messaged a user to inform them that he would be taking away the channel
-  name he had registered, whether he agreed to it or not. According to the co-founder,
-  Dan Romero, the popular Bankless crypto podcast had requested the bankless channel
-  name, which the user he was messaging had already registered.After the user argued
-  back against Romero''s offer of $25 in USDC to reimburse him for the channel name,
-  and said it set a poor precedent, Romero stated: "ok this isn''t productive. do
-  you want USDC for the refund or warps" (referring to the non-crypto points used
-  by the Warpcast client for Farcaster).On one hand, some criticized the user who
-  had registered the name for allegedly squatting on the channel name and trying to
-  resell it. Romero defended his decision by arguing, "I never said channels were
-  decentralized yet" (though the platform does generally claim to be "sufficiently
-  decentralized"). Others argued the action set a bad precedent, and flew in the face
-  of the ethos supposedly motivating these types of web3 social networks.Romero has
-  promised on Twitter that Farcaster channels "will be onchain later this year and
-  like [user identifiers] won''t be able to be touched." When pushed on the precedent
-  this sets, he replied, "So let the squatter extort money?" Romero clearly needs
-  to grapple with the fact that, like it or not, squatting is a feature of systems
-  that take a hands-off approach to managing access to identifiers. This should not
-  be news to anyone remotely familiar with the web, where "domaining" emerged out
-  of the relatively laissez-faire structure of DNS — though unlike with fully decentralized
-  identifiers, there can be some intervention when domain name speculation enters
-  the realm of cybersquatting.'
+vendor_product: Farcaster name controversy
+blockchain: ethereum
+notes: 'One of the promises made by proponents of crypto-focused decentralized social networks like Farcaster is that you
+  can''t be de-platformed by centralized companies, and you maintain control over your own presence on these platforms.This
+  made it a bit of a shock when the co-founder of the a16z-backed Farcaster blockchain-based social network messaged a user
+  to inform them that he would be taking away the channel name he had registered, whether he agreed to it or not. According
+  to the co-founder, Dan Romero, the popular Bankless crypto podcast had requested the bankless channel name, which the user
+  he was messaging had already registered.After the user argued back against Romero''s offer of $25 in USDC to reimburse him
+  for the channel name, and said it set a poor precedent, Romero stated: "ok this isn''t productive. do you want USDC for
+  the refund or warps" (referring to the non-crypto points used by the Warpcast client for Farcaster).On one hand, some criticized
+  the user who had registered the name for allegedly squatting on the channel name and trying to resell it. Romero defended
+  his decision by arguing, "I never said channels were decentralized yet" (though the platform does generally claim to be
+  "sufficiently decentralized"). Others argued the action set a bad precedent, and flew in the face of the ethos supposedly
+  motivating these types of web3 social networks.Romero has promised on Twitter that Farcaster channels "will be onchain later
+  this year and like [user identifiers] won''t be able to be touched." When pushed on the precedent this sets, he replied,
+  "So let the squatter extort money?" Romero clearly needs to grapple with the fact that, like it or not, squatting is a feature
+  of systems that take a hands-off approach to managing access to identifiers. This should not be news to anyone remotely
+  familiar with the web, where "domaining" emerged out of the relatively laissez-faire structure of DNS — though unlike with
+  fully decentralized identifiers, there can be some intervention when domain name speculation enters the realm of cybersquatting.'

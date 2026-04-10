@@ -3,13 +3,14 @@ source_url: https://protos.com/dutch-police-arrest-law-student-behind-multi-mill
 date_of_breach: '2025-01-08'
 date_of_disclosure: '2025-01-08'
 category: data-leak
-notes: 'A self-described crypto banker from Hengelo, Netherlands was arrested in connection
-  to an alleged crypto pyramid scheme he''d been running. He''d originally told police
-  that he was being harassed by investors after he told them he had lost the invested
-  funds, and police helped him move to a safe location. However, after a group of
-  investors amassed evidence that he was scamming the friends, associates, and others
-  he''d lured into the scam, he''s been arrested.Victims estimate that between €1.5
-  million and €4.5 million (~$1.54 million – $4.64 million) was stolen.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Hengelo man arrested in alleged crypto pyramid scheme
+financial_loss_usd: 3090000
+notes: 'A self-described crypto banker from Hengelo, Netherlands was arrested in connection to an alleged crypto pyramid scheme
+  he''d been running. He''d originally told police that he was being harassed by investors after he told them he had lost
+  the invested funds, and police helped him move to a safe location. However, after a group of investors amassed evidence
+  that he was scamming the friends, associates, and others he''d lured into the scam, he''s been arrested.Victims estimate
+  that between €1.5 million and €4.5 million (~$1.54 million – $4.64 million) was stolen.
 
 
   Total loss estimated at $3,090,000.'

@@ -3,18 +3,19 @@ source_url: https://github.com/banteg/yeth-exploit/blob/main/report.pdf
 date_of_breach: '2025-11-30'
 date_of_disclosure: '2025-11-30'
 category: data-leak
-notes: 'Yearn Finance, a defi yield protocol, has suffered another hack. The exploiter
-  took advantage of bugs in the project''s smart contract to drain assets from several
-  of its pools by minting a huge number of yETH tokens and then withdrawing the corresponding
-  asset in the pools.$2.4 million of the stolen assets, which were denominated in
-  pxETH, a liquid staking token issued by Redacted Cartel, were recovered after the
-  issuer burned the stolen tokens and reissued them to the team''s wallet — essentially,
-  removing the tokens from the hacker''s wallet. However, the hacker routed the remaining
-  funds through the Tornado Cash cryptocurrency mixer, which makes recovery substantially
-  more challenging.This is the third time Yearn Finance has been hacked, following
-  an $11 million exploit in 2023 and another $11 million exploit in 2021. Yearn also
-  suffered around $1.4 million in losses in 2023 in connection to the Euler Finance
-  attack.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Yearn Finance
+blockchain: ethereum
+financial_loss_usd: 6600000
+financial_recovered_usd: 2400000
+notes: 'Yearn Finance, a defi yield protocol, has suffered another hack. The exploiter took advantage of bugs in the project''s
+  smart contract to drain assets from several of its pools by minting a huge number of yETH tokens and then withdrawing the
+  corresponding asset in the pools.$2.4 million of the stolen assets, which were denominated in pxETH, a liquid staking token
+  issued by Redacted Cartel, were recovered after the issuer burned the stolen tokens and reissued them to the team''s wallet
+  — essentially, removing the tokens from the hacker''s wallet. However, the hacker routed the remaining funds through the
+  Tornado Cash cryptocurrency mixer, which makes recovery substantially more challenging.This is the third time Yearn Finance
+  has been hacked, following an $11 million exploit in 2023 and another $11 million exploit in 2021. Yearn also suffered around
+  $1.4 million in losses in 2023 in connection to the Euler Finance attack.
 
 
   Total loss estimated at $6,600,000.'

@@ -1,23 +1,21 @@
-source_name: '"The DOJ Seemingly Outed Top Crypto Executives as Falling for a Nigerian
-  Crypto Scam"'
+source_name: '"The DOJ Seemingly Outed Top Crypto Executives as Falling for a Nigerian Crypto Scam"'
 source_url: https://www.notus.org/money/crypto-scam-doj-moonpay
 date_of_breach: '2025-07-11'
 date_of_disclosure: '2025-07-11'
 category: data-leak
-notes: 'In a seizure request filed by the DC Attorney General, the Justice Department
-  outlined how a Nigerian scammer used the classic "lowercase Ls look like uppercase
-  Is" trick to steal $250,000 — apparently from the MoonPay crypto exchange. Using
-  the email address steve_witkoff@t47lnaugural.com, the scammer directed "Ivan &amp;
-  Mouna" to deposit $250,000 in Tether to a specified wallet address. Mouna then replies
-  to confirm the transaction, providing a link to a blockchain explorer. The FBI was
-  only able to recover around 16% of the stolen funds, issuing seizure requests to
-  Tether and Binance that regained control of $40,353.As it happens, "Ivan &amp; Mouna"
-  match the names of MoonPay CEO Ivan Soto-Wright and CFO Mouna Siala. The crypto
-  address used to send the transaction also appears to be one of MoonPay''s company
-  crypto wallets.MoonPay had told Fox Business shortly before the transaction that
-  they intended to contribute an undisclosed amount to the Trump inaugural fund.Only
-  weeks after the botched donation, MoonPay was selected as a payment processor for
-  Trump''s $TRUMP memecoin.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: MoonPay donation
+financial_loss_usd: 250000
+financial_recovered_usd: 40353
+notes: 'In a seizure request filed by the DC Attorney General, the Justice Department outlined how a Nigerian scammer used
+  the classic "lowercase Ls look like uppercase Is" trick to steal $250,000 — apparently from the MoonPay crypto exchange.
+  Using the email address steve_witkoff@t47lnaugural.com, the scammer directed "Ivan &amp; Mouna" to deposit $250,000 in Tether
+  to a specified wallet address. Mouna then replies to confirm the transaction, providing a link to a blockchain explorer.
+  The FBI was only able to recover around 16% of the stolen funds, issuing seizure requests to Tether and Binance that regained
+  control of $40,353.As it happens, "Ivan &amp; Mouna" match the names of MoonPay CEO Ivan Soto-Wright and CFO Mouna Siala.
+  The crypto address used to send the transaction also appears to be one of MoonPay''s company crypto wallets.MoonPay had
+  told Fox Business shortly before the transaction that they intended to contribute an undisclosed amount to the Trump inaugural
+  fund.Only weeks after the botched donation, MoonPay was selected as a payment processor for Trump''s $TRUMP memecoin.
 
 
   Total loss estimated at $250,000.'

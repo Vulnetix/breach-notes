@@ -3,23 +3,21 @@ source_url: https://www.justice.gov/opa/pr/man-convicted-violent-home-invasion-r
 date_of_breach: '2024-06-25'
 date_of_disclosure: '2024-06-25'
 category: other
-notes: 'The Department of Justice busted a group of more than a dozen people, led
-  by a 24-year-old man named Remy St. Felix, who perpetrated a string of break-ins
-  and violent assaults in hopes of obtaining their victims'' cryptocurrency holdings.
-  The group seems to have been far more successful with their hacking thefts than
-  with their in-person attempts to obtain cryptocurrency, but that didn''t stop them
-  from committing a string of eleven break-ins where they assaulted, threatened, and
-  kidnapped victims.In one case, a victim was able to transfer $150,000 in cryptocurrency
-  to the attackers before their cryptocurrency exchange blocked the suspicious transfers.
-  However, in their other attempts to physically steal crypto, they were unsuccessful,
-  with victims either refusing to hand over their crypto or successfully escaping.In
-  one case, St. Felix and his associates targeted a woman from whom his group had
-  already stolen $3 million in a SIM swapping attack. When they broke in and held
-  the woman at gunpoint to try to steal the $500,000 in crypto she had left, the woman
-  refused to turn over her password to her cryptocurrency account, so dismayed by
-  her earlier loss that she told the men just to shoot her.St. Felix was convicted
-  on nine counts by a federal jury, and faces a sentence of seven years to life in
-  prison. Thirteen co-conspirators also pleaded guilty.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Remy St. Felix conviction
+financial_loss_usd: 150000
+notes: 'The Department of Justice busted a group of more than a dozen people, led by a 24-year-old man named Remy St. Felix,
+  who perpetrated a string of break-ins and violent assaults in hopes of obtaining their victims'' cryptocurrency holdings.
+  The group seems to have been far more successful with their hacking thefts than with their in-person attempts to obtain
+  cryptocurrency, but that didn''t stop them from committing a string of eleven break-ins where they assaulted, threatened,
+  and kidnapped victims.In one case, a victim was able to transfer $150,000 in cryptocurrency to the attackers before their
+  cryptocurrency exchange blocked the suspicious transfers. However, in their other attempts to physically steal crypto, they
+  were unsuccessful, with victims either refusing to hand over their crypto or successfully escaping.In one case, St. Felix
+  and his associates targeted a woman from whom his group had already stolen $3 million in a SIM swapping attack. When they
+  broke in and held the woman at gunpoint to try to steal the $500,000 in crypto she had left, the woman refused to turn over
+  her password to her cryptocurrency account, so dismayed by her earlier loss that she told the men just to shoot her.St.
+  Felix was convicted on nine counts by a federal jury, and faces a sentence of seven years to life in prison. Thirteen co-conspirators
+  also pleaded guilty.
 
 
   Total loss estimated at $150,000.'

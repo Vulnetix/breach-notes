@@ -3,20 +3,17 @@ source_url: https://x.com/zachxbt/status/2014685263327351116
 date_of_breach: '2026-01-23'
 date_of_disclosure: '2026-01-23'
 category: other
-notes: Two crypto thieves decided to settle an argument over who was wealthier by
-  screensharing as they transferred crypto between wallets to prove ownership. In
-  doing so, one of them — known online as "Lick" — revealed a wallet address that
-  crypto sleuth zachxbt quickly tied to the theft of around $40 million from US government
-  wallets containing seized crypto assets, including a $20 million theft zachxbt reported
-  in October 2024. Lick's wallets contained around $90 million in total, including
-  the stolen government assets and those stolen from other victims.zachxbt has alleged
-  that "Lick" is a man named John Daghita. After reporting Daghita's identity, "Lick"
-  appeared to try to scrub his Telegram account, then dusted zachxbt's public crypto
-  wallet from one of the theft addresses.Daghitia is reportedly the son of Dean Daghita,
-  the owner of Command Services &amp; Support (CMDSS). In October 2024, CMDSS landed
-  a contract with the US Marshals to manage seized crypto assets, which is still active.
-  After zachxbt linked the younger Daghita to his father and CMDSS, CMDSS also scrubbed
-  its online presence. Around that time, Lick began trolling zachxbt again, and later
-  sent 0.6767 ETH (~$1,900) of the stolen funds to zachxbt.CMDSS' website boasts that
-  they are "a proven provider of mission-critical services to the Department of Defense
-  and Department of Justice".
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Lick theft
+notes: Two crypto thieves decided to settle an argument over who was wealthier by screensharing as they transferred crypto
+  between wallets to prove ownership. In doing so, one of them — known online as "Lick" — revealed a wallet address that crypto
+  sleuth zachxbt quickly tied to the theft of around $40 million from US government wallets containing seized crypto assets,
+  including a $20 million theft zachxbt reported in October 2024. Lick's wallets contained around $90 million in total, including
+  the stolen government assets and those stolen from other victims.zachxbt has alleged that "Lick" is a man named John Daghita.
+  After reporting Daghita's identity, "Lick" appeared to try to scrub his Telegram account, then dusted zachxbt's public crypto
+  wallet from one of the theft addresses.Daghitia is reportedly the son of Dean Daghita, the owner of Command Services &amp;
+  Support (CMDSS). In October 2024, CMDSS landed a contract with the US Marshals to manage seized crypto assets, which is
+  still active. After zachxbt linked the younger Daghita to his father and CMDSS, CMDSS also scrubbed its online presence.
+  Around that time, Lick began trolling zachxbt again, and later sent 0.6767 ETH (~$1,900) of the stolen funds to zachxbt.CMDSS'
+  website boasts that they are "a proven provider of mission-critical services to the Department of Defense and Department
+  of Justice".

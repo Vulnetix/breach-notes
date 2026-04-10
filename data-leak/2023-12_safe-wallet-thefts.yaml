@@ -3,12 +3,14 @@ source_url: https://twitter.com/realScamSniffer/status/1731236292166590507
 date_of_breach: '2023-12-03'
 date_of_disclosure: '2023-12-03'
 category: data-leak
-notes: 'Users of the (not so) Safe Wallet have lost $2.05 million altogether in the
-  past week as they''ve been targeted by an attacker using an address poisoning attack.
-  The same attacker was also behind such an attack on the Florence Finance real-world
-  lending protocol, in which they stole $1.45 million.According to research group
-  ScamSniffer, the attacker has stolen at least $5 million from at least 21 victims
-  in the past four months.
+initial_attack_vector: Address poisoning attack
+vendor_product: Safe Wallet thefts
+financial_loss_usd: 5000000
+affected_count: 21
+notes: 'Users of the (not so) Safe Wallet have lost $2.05 million altogether in the past week as they''ve been targeted by
+  an attacker using an address poisoning attack. The same attacker was also behind such an attack on the Florence Finance
+  real-world lending protocol, in which they stole $1.45 million.According to research group ScamSniffer, the attacker has
+  stolen at least $5 million from at least 21 victims in the past four months.
 
 
   Total loss estimated at $5,000,000.'

@@ -1,18 +1,16 @@
-source_name: '"Kraken crypto exchange operator to pay $8 million following ASIC enforcement
-  action"'
+source_name: '"Kraken crypto exchange operator to pay $8 million following ASIC enforcement action"'
 source_url: https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-274mr-kraken-crypto-exchange-operator-to-pay-8-million-following-asic-enforcement-action/
 date_of_breach: '2024-12-12'
 date_of_disclosure: '2024-12-12'
 category: other
-notes: The US-based cryptocurrency exchange Kraken has been fined AU$8 million (US$5.1
-  million) for illegally offering margin trading to Australian customers. The firm
-  had offered the margin product to more than 1,100 Australians without first undergoing
-  the process to determine if the products were appropriate for retail customers.The
-  more than 1,100 customers lost more than US$5 million. While some of the customers
-  were likely sophisticated investors, Kraken made no effort to limit the product
-  to such a group. Around 81% of the customers who used Kraken's margin product lost
-  money.This is far from Kraken's first run-in with regulators. The company has settled
-  with US regulators over sanctions violations and failure to comply with securities
-  regulations pertaining to its staking product. They also have an open lawsuit from
-  the US SEC over alleged unregistered securities offerings and commingling corporate
-  and customer funds.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Kraken fined $5.1 million by ASIC
+affected_count: 1100
+notes: The US-based cryptocurrency exchange Kraken has been fined AU$8 million (US$5.1 million) for illegally offering margin
+  trading to Australian customers. The firm had offered the margin product to more than 1,100 Australians without first undergoing
+  the process to determine if the products were appropriate for retail customers.The more than 1,100 customers lost more than
+  US$5 million. While some of the customers were likely sophisticated investors, Kraken made no effort to limit the product
+  to such a group. Around 81% of the customers who used Kraken's margin product lost money.This is far from Kraken's first
+  run-in with regulators. The company has settled with US regulators over sanctions violations and failure to comply with
+  securities regulations pertaining to its staking product. They also have an open lawsuit from the US SEC over alleged unregistered
+  securities offerings and commingling corporate and customer funds.

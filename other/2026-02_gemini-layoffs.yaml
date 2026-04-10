@@ -3,12 +3,11 @@ source_url: https://www.gemini.com/en-GB/blog/gemini-2-0-a-bridge-to-the-future-
 date_of_breach: '2026-02-05'
 date_of_disclosure: '2026-02-05'
 category: other
-notes: Gemini, the cryptocurrency exchange founded and run by Cameron and Tyler Winklevoss,
-  will lay off as many as 200 employees globally. The news came amid an announcement
-  that the company would be withdrawing from the UK, EU, and Australia. "These foreign
-  markets have proven hard to win in for various reasons," they said. They also announced
-  that they would be "parting ways" with their CFO, CLO, and COO.As many companies
-  do these days, the Winklevosses tried to pin the layoffs on AI, claiming that the
-  engineers using AI are ten times more productive. "A smaller organization, leveraging
-  the right tools, isn't just more efficient, it's actually faster," they wrote —
-  in a blog post that itself reeks of AI.
+initial_attack_vector: AI-assisted attack or AI-generated exploit
+vendor_product: Gemini layoffs
+notes: Gemini, the cryptocurrency exchange founded and run by Cameron and Tyler Winklevoss, will lay off as many as 200 employees
+  globally. The news came amid an announcement that the company would be withdrawing from the UK, EU, and Australia. "These
+  foreign markets have proven hard to win in for various reasons," they said. They also announced that they would be "parting
+  ways" with their CFO, CLO, and COO.As many companies do these days, the Winklevosses tried to pin the layoffs on AI, claiming
+  that the engineers using AI are ten times more productive. "A smaller organization, leveraging the right tools, isn't just
+  more efficient, it's actually faster," they wrote — in a blog post that itself reeks of AI.

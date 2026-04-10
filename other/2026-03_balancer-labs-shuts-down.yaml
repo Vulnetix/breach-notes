@@ -1,19 +1,17 @@
-source_name: '"On the Future of Balancer: Shutting Down Balancer Labs, Supporting
-  the Path Forward"'
+source_name: '"On the Future of Balancer: Shutting Down Balancer Labs, Supporting the Path Forward"'
 source_url: https://forum.balancer.fi/t/on-the-future-of-balancer-shutting-down-balancer-labs-supporting-the-path-forward/7002/4
 date_of_breach: '2026-03-24'
 date_of_disclosure: '2026-03-24'
 category: other
-notes: After a November 2025 exploit in which $110 million was drained from the Balancer
-  defi protocol, the company behind the project has announced it will shut down. Besides
-  the massive loss, the hack also caused users to flee the protocol, and Balancer's
-  total value locked quickly plummeted from around $775 million to around $300 million.
-  It has continued to decline since, now hovering around $150 million.Balancer co-founder
-  Fernando Martinelli has said he strongly considered shutting down the protocol entirely,
-  but ultimately decided to continue the project as it generates a relatively small
-  amount of revenue. Instead, the project will move to being operated by a DAO and
-  operating company, which Martinelli hopes will allow them to dodge "real and ongoing
-  legal exposure" and "the liability of past security incidents".Although another
-  Balancer co-founder has optimistically presented this as "the start of a better
-  chapter" for Balancer, it remains to be seen whether a skeleton crew will be able
-  to revive the project.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Balancer Labs
+blockchain: ethereum
+notes: After a November 2025 exploit in which $110 million was drained from the Balancer defi protocol, the company behind
+  the project has announced it will shut down. Besides the massive loss, the hack also caused users to flee the protocol,
+  and Balancer's total value locked quickly plummeted from around $775 million to around $300 million. It has continued to
+  decline since, now hovering around $150 million.Balancer co-founder Fernando Martinelli has said he strongly considered
+  shutting down the protocol entirely, but ultimately decided to continue the project as it generates a relatively small amount
+  of revenue. Instead, the project will move to being operated by a DAO and operating company, which Martinelli hopes will
+  allow them to dodge "real and ongoing legal exposure" and "the liability of past security incidents".Although another Balancer
+  co-founder has optimistically presented this as "the start of a better chapter" for Balancer, it remains to be seen whether
+  a skeleton crew will be able to revive the project.

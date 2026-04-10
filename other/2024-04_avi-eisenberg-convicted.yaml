@@ -3,12 +3,11 @@ source_url: https://www.coindesk.com/policy/2024/04/18/mango-markets-exploiter-a
 date_of_breach: '2024-04-18'
 date_of_disclosure: '2024-04-18'
 category: other
-notes: A jury found Avi Eisenberg guilty of fraud and market manipulation after he
-  stole $110 million from the Mango Markets defi protocol in October 2022. Although
-  he tried to argue that "code is law", and that his actions were legal as they were
-  allowed by the project's smart contracts, jurors ultimately agreed with prosecutors
-  that his manipulation of token prices constituted fraud.Shortly after he was identified
-  as the person behind the attack, Eisenberg tweeted that he "was involved with a
-  team that operated a highly profitable trading strategy last week. I believe all
-  of our actions were legal open market actions". Sadly for him, jurors didn't share
-  this belief.Eisenberg faces up to 20 years in prison.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Avi Eisenberg convicted
+notes: A jury found Avi Eisenberg guilty of fraud and market manipulation after he stole $110 million from the Mango Markets
+  defi protocol in October 2022. Although he tried to argue that "code is law", and that his actions were legal as they were
+  allowed by the project's smart contracts, jurors ultimately agreed with prosecutors that his manipulation of token prices
+  constituted fraud.Shortly after he was identified as the person behind the attack, Eisenberg tweeted that he "was involved
+  with a team that operated a highly profitable trading strategy last week. I believe all of our actions were legal open market
+  actions". Sadly for him, jurors didn't share this belief.Eisenberg faces up to 20 years in prison.

@@ -3,19 +3,19 @@ source_url: https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-ex
 date_of_breach: '2024-03-11'
 date_of_disclosure: '2024-03-11'
 category: data-leak
-notes: 'Since March 5, those who used the Incognito Market darkweb narcotics marketplace
-  have found themselves unable to withdraw the Bitcoin and Monero they had on the
-  platform. It appeared the platform had exit scammed for somewhere between $10 and
-  $30 million.Making matters worse, on March 10 the website posted a message reading,
-  "Yes, this is an extortion !!" They wrote that, although the platform promised to
-  "auto-encrypt" messages between buyers and sellers, and auto-delete after an expiry
-  date, messages were not encrypted or deleted. They demanded that users pay an additional
-  $100 to $20,000 to have their information removed from the dataset, which they promised
-  to release at the end of May. "Whether or not you and your customers'' info is on
-  that list is totally up to you."The tactic is reminiscent of that of ransomware
-  groups, which often demand double fees: one from victims of hacks first to regain
-  access to their systems, and another in exchange for a promise to destroy stolen
-  data.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Incognito Market exit
+blockchain: bitcoin, monero
+financial_loss_usd: 20000000
+notes: 'Since March 5, those who used the Incognito Market darkweb narcotics marketplace have found themselves unable to withdraw
+  the Bitcoin and Monero they had on the platform. It appeared the platform had exit scammed for somewhere between $10 and
+  $30 million.Making matters worse, on March 10 the website posted a message reading, "Yes, this is an extortion !!" They
+  wrote that, although the platform promised to "auto-encrypt" messages between buyers and sellers, and auto-delete after
+  an expiry date, messages were not encrypted or deleted. They demanded that users pay an additional $100 to $20,000 to have
+  their information removed from the dataset, which they promised to release at the end of May. "Whether or not you and your
+  customers'' info is on that list is totally up to you."The tactic is reminiscent of that of ransomware groups, which often
+  demand double fees: one from victims of hacks first to regain access to their systems, and another in exchange for a promise
+  to destroy stolen data.
 
 
   Total loss estimated at $20,000,000.'

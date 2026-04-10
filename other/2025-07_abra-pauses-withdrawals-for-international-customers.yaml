@@ -1,17 +1,15 @@
-source_name: '"Crypto lender Abra pauses withdrawals as dozens of customers fear their
-  funds are gone"'
+source_name: '"Crypto lender Abra pauses withdrawals as dozens of customers fear their funds are gone"'
 source_url: https://www.dlnews.com/articles/web3/crypto-lender-abra-pauses-withdrawals-as-client-fears-mount/
 date_of_breach: '2025-07-29'
 date_of_disclosure: '2025-07-29'
 category: other
-notes: The Abra cryptocurrency lender sent an email to customers announcing that "Abra
-  Earn international services are currently paused, effective immediately", attributing
-  the decision to "broader risk management efforts" and saying it was "influenced
-  by external circumstances outside of our control". This has raised concern among
-  Abra customers, and carries troubling echoes of the wave of crypto lenders pausing
-  withdrawals before they collapsed during the 2022 "crypto winter".This isn't the
-  first sign of shakiness at Abra, which was alleged to be insolvent by the Texas
-  state securities regulator in 2023. The company wound down its US operations in
-  mid-2023 and refunded $82 million to US customers, after reaching a settlement with
-  25 state regulators. Abra also faced a lawsuit from the US federal securities regulator
-  in 2024, which they settled in August of that year.
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Abra pauses withdrawals for international customers
+notes: The Abra cryptocurrency lender sent an email to customers announcing that "Abra Earn international services are currently
+  paused, effective immediately", attributing the decision to "broader risk management efforts" and saying it was "influenced
+  by external circumstances outside of our control". This has raised concern among Abra customers, and carries troubling echoes
+  of the wave of crypto lenders pausing withdrawals before they collapsed during the 2022 "crypto winter".This isn't the first
+  sign of shakiness at Abra, which was alleged to be insolvent by the Texas state securities regulator in 2023. The company
+  wound down its US operations in mid-2023 and refunded $82 million to US customers, after reaching a settlement with 25 state
+  regulators. Abra also faced a lawsuit from the US federal securities regulator in 2024, which they settled in August of
+  that year.

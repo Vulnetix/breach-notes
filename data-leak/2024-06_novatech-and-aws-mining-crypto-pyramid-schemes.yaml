@@ -1,22 +1,22 @@
-source_name: “Attorney General James Sues Cryptocurrency Companies NovaTechFx and
-  AWS Mining for Defrauding Investors of More Than $1 Billion”
+source_name: “Attorney General James Sues Cryptocurrency Companies NovaTechFx and AWS Mining for Defrauding Investors of More
+  Than $1 Billion”
 source_url: https://ag.ny.gov/press-release/2024/attorney-general-james-sues-cryptocurrency-companies-novatechfx-and-aws-mining
 date_of_breach: '2024-06-06'
 date_of_disclosure: '2024-06-06'
 category: data-leak
-notes: 'The New York Attorney General’s office has sued Cynthia and Eddy Petion over
-  two allegedly fraudulent cryptocurrency pyramid schemes called AWS Mining and NovaTech.
-  They particularly targeted victims of Haitian descent, promoting their schemes in
-  Creole, leveraging their victims’ religion, and promising them “financial freedom”
-  and “freedom from the plantation”.In reality, the schemes were pyramid schemes in
-  which investors earned crypto for recruiting others to buy in. NovaTech also used
-  the funds from newer investors to pay out the supposed “returns” from the investment
-  scheme, in a classic Ponzi fashion. From August 2019 – April 2023, victims deposited
-  more than $1 billion into NovaTech. Though it was described as a trading operation,
-  only about $26 million ever went into crypto trading.In June 2022, the couple secretly
-  sold their Florida house and moved to Panama, while continuing to pretend they were
-  in the state. Speaking to another operator of the scheme, Cynthia Petion advised:
-  “leave the country…they can’t serve you if they can’t find you lol.”
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: NovaTech and AWS Mining crypto pyramid schemes
+financial_loss_usd: 1000000000
+affected_count: 2023
+notes: 'The New York Attorney General’s office has sued Cynthia and Eddy Petion over two allegedly fraudulent cryptocurrency
+  pyramid schemes called AWS Mining and NovaTech. They particularly targeted victims of Haitian descent, promoting their schemes
+  in Creole, leveraging their victims’ religion, and promising them “financial freedom” and “freedom from the plantation”.In
+  reality, the schemes were pyramid schemes in which investors earned crypto for recruiting others to buy in. NovaTech also
+  used the funds from newer investors to pay out the supposed “returns” from the investment scheme, in a classic Ponzi fashion.
+  From August 2019 – April 2023, victims deposited more than $1 billion into NovaTech. Though it was described as a trading
+  operation, only about $26 million ever went into crypto trading.In June 2022, the couple secretly sold their Florida house
+  and moved to Panama, while continuing to pretend they were in the state. Speaking to another operator of the scheme, Cynthia
+  Petion advised: “leave the country…they can’t serve you if they can’t find you lol.”
 
 
   Total loss estimated at $1,000,000,000.'

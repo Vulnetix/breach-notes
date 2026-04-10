@@ -1,0 +1,18 @@
+source_name: 'Breach Roundup: US Seeks Extradition of Alleged LockBit Coder (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-us-seeks-extradition-alleged-lockbit-coder-a-27104
+date_of_breach: '2024-12-19'
+date_of_disclosure: '2024-12-19'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, U.S. asks Israel to extradite an alleged LockBit coder, don''t
+  say &quot;pig butchering,&quot; and an Apache Struts flaw. A hunt for alleged data
+  thieves
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,18 @@
+source_name: 'Catholic Hospital Chain: 2023 Hack Affected Nearly 900,000 (DataBreachToday)'
+source_url: https://www.databreachtoday.com/catholic-hospital-chain-2023-hack-affected-nearly-900000-a-27473
+date_of_breach: '2025-02-07'
+date_of_disclosure: '2025-02-07'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Midwest chain of doctor practices and 13 Catholic hospitals has reported
+  that a 2023 hacking incident that disrupted its IT system for several days and may
+  have
+
+
+  Source: DataBreachToday article coverage.'

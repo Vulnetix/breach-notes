@@ -3,10 +3,10 @@ source_url: https://x.com/CurveFinance/status/1922199907269501130
 date_of_breach: '2025-05-12'
 date_of_disclosure: '2025-05-12'
 category: data-leak
-notes: The website and Twitter accounts belonging to the Curve Finance defi projects
-  were compromised in quick succession. On May 5, an attacker compromised the Twitter
-  account belonging to the project, posting a scam in which they appeared to announce
-  an airdrop.Then, on May 12, the project posted a warning that the website for the
-  Curve frontend was "hijacked" in an apparent domain takeover.This is not the first
-  such compromise for Curve, which suffered a frontend compromise in August 2022 that
-  resulted in $620,000 in losses (later recovered with the help of some exchanges).
+initial_attack_vector: DNS hijacking / domain takeover (front-end compromise)
+vendor_product: Curve Finance website and Twitter account
+notes: The website and Twitter accounts belonging to the Curve Finance defi projects were compromised in quick succession.
+  On May 5, an attacker compromised the Twitter account belonging to the project, posting a scam in which they appeared to
+  announce an airdrop.Then, on May 12, the project posted a warning that the website for the Curve frontend was "hijacked"
+  in an apparent domain takeover.This is not the first such compromise for Curve, which suffered a frontend compromise in
+  August 2022 that resulted in $620,000 in losses (later recovered with the help of some exchanges).

@@ -1,15 +1,13 @@
-source_name: '"Trader Joe''s Wants All Profits in Trademark Lawsuit Against Trader
-  Joe DeFi Platform"'
+source_name: '"Trader Joe''s Wants All Profits in Trademark Lawsuit Against Trader Joe DeFi Platform"'
 source_url: https://decrypt.co/200862/trader-joes-wants-all-profits-in-copyright-lawsuit-against-trader-joe-defi-platform
 date_of_breach: '2023-10-10'
 date_of_disclosure: '2023-10-10'
 category: other
-notes: The American supermarket chain and cookie butter paradise, Trader Joe's, has
-  filed a lawsuit against the popular Trader Joe decentralized exchange. According
-  to the lawsuit, the supermarket believes the exchange is trying to benefit off the
-  supermarket's popularity.This is actually the second such lawsuit by the supermarket
-  against the exchange, after the first was thrown out when defendants claimed that
-  they had simply named the project after the co-founder's brother, Joe. However,
-  shortly after the victory, a co-founder admitted on their blog that they "just named
-  it Trader Joe, after the supermarket".Trader Joe's is seeking all profits made by
-  the exchange, plus damages and compensation for the failed lawsuit last year.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Trader Joe's sues Trader Joe
+notes: The American supermarket chain and cookie butter paradise, Trader Joe's, has filed a lawsuit against the popular Trader
+  Joe decentralized exchange. According to the lawsuit, the supermarket believes the exchange is trying to benefit off the
+  supermarket's popularity.This is actually the second such lawsuit by the supermarket against the exchange, after the first
+  was thrown out when defendants claimed that they had simply named the project after the co-founder's brother, Joe. However,
+  shortly after the victory, a co-founder admitted on their blog that they "just named it Trader Joe, after the supermarket".Trader
+  Joe's is seeking all profits made by the exchange, plus damages and compensation for the failed lawsuit last year.

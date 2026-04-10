@@ -1,0 +1,17 @@
+source_name: AI-Driven Ransomware Group Strikes 85 Victims (DataBreachToday)
+source_url: https://www.databreachtoday.com/ai-driven-ransomware-group-strikes-85-victims-a-27291
+date_of_breach: '2025-01-14'
+date_of_disclosure: '2025-01-14'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Cybersecurity researchers discovered an artificial intelligence-driven ransomware
+  group that emerged at the end of last year and compromised more than 85 victims
+
+
+  Source: DataBreachToday article coverage.'

@@ -3,15 +3,17 @@ source_url: https://decrypt.co/205465/justin-sun-owned-crypto-exchange-poloniex-
 date_of_breach: '2023-11-10'
 date_of_disclosure: '2023-11-10'
 category: data-leak
-notes: 'Assets including Bitcoin, Ethereum, and Tron''s TRX token, priced at more
-  than $126 million, were stolen from Justin Sun''s Poloniex cryptocurrency exchange.
-  Researchers are still homing in on the exact amount of funds that were stolen from
-  the company''s hot wallets across multiple blockchains, but suffice to say it''s
-  a lot.Poloniex was initially tight-lipped, posting on Twitter that they had "disabled
-  for maintenance" an exchange wallet. Justin Sun later updated that they were investigating
-  the "hack incident", and promised to "fully reimburse" the massive theft... somehow.
-  He later tweeted that they would offer a 5% "bounty" to the hacker if they returned
-  the funds within a week, threatening to "engage law enforcement" otherwise.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Poloniex
+blockchain: ethereum, tron, bitcoin
+financial_loss_usd: 126000000
+notes: 'Assets including Bitcoin, Ethereum, and Tron''s TRX token, priced at more than $126 million, were stolen from Justin
+  Sun''s Poloniex cryptocurrency exchange. Researchers are still homing in on the exact amount of funds that were stolen from
+  the company''s hot wallets across multiple blockchains, but suffice to say it''s a lot.Poloniex was initially tight-lipped,
+  posting on Twitter that they had "disabled for maintenance" an exchange wallet. Justin Sun later updated that they were
+  investigating the "hack incident", and promised to "fully reimburse" the massive theft... somehow. He later tweeted that
+  they would offer a 5% "bounty" to the hacker if they returned the funds within a week, threatening to "engage law enforcement"
+  otherwise.
 
 
   Total loss estimated at $126,000,000.'

@@ -1,0 +1,18 @@
+source_name: Ransomware Campaign Targets Amazon S3 Buckets (DataBreachToday)
+source_url: https://www.databreachtoday.com/ransomware-campaign-targets-amazon-s3-buckets-a-27294
+date_of_breach: '2025-01-14'
+date_of_disclosure: '2025-01-14'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A ransomware group is targeting Amazon S3 buckets, exploiting the data stored
+  there using AWS''s server-side encryption with customer keys and demanding a ransom
+  in
+
+
+  Source: DataBreachToday article coverage.'

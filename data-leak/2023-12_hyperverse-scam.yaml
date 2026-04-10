@@ -3,23 +3,21 @@ source_url: https://www.theguardian.com/australia-news/2023/dec/14/crypto-curren
 date_of_breach: '2023-12-13'
 date_of_disclosure: '2023-12-13'
 category: data-leak
-notes: 'Many investors have reported losses thanks to a cryptocurrency investment
-  scheme called HyperVerse, which operated in Australia from around 2018 to mid-2023.
-  Several financial watchdogs issued warnings about the company, including the UK,
-  Canada, Germany, and New Zealand. The Hungarian central bank warned in August 2022
-  that the HyperVerse project was a "suspected pyramid scheme... behind which there
-  is no real economic activity... There is a significant chance that investors may
-  permanently lose part or all of their invested capital."Estimates by Chainalysis
-  suggest that victims have lost a combined $1.3 billion (with a B) to the scam thus
-  far.The scheme''s operators Sam Lee and Zijing "Ryan" Xu were also behind Blockchain
-  Global, a collapsed company that operated the Australian ACX crypto exchange that
-  collapsed in 2019. The company is in liquidation, and creditor claims are expected
-  to surpass $50 million. Although Lee and Xu were reported for investigation to the
-  Australian Securities &amp; Investments Commission, ASIC did not take any action.Lee
-  has also been involved in other investment platforms, including two that are currently
-  active: StableDao and We Are All Satoshi. Both platforms were the target of cease
-  and desist letters from the Californian Department of Financial Protection and Innovation
-  in September 2023, who described them both as "fraudulent pyramid and Ponzi scheme[s]".
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: HyperVerse
+financial_loss_usd: 1300000000
+notes: 'Many investors have reported losses thanks to a cryptocurrency investment scheme called HyperVerse, which operated
+  in Australia from around 2018 to mid-2023. Several financial watchdogs issued warnings about the company, including the
+  UK, Canada, Germany, and New Zealand. The Hungarian central bank warned in August 2022 that the HyperVerse project was a
+  "suspected pyramid scheme... behind which there is no real economic activity... There is a significant chance that investors
+  may permanently lose part or all of their invested capital."Estimates by Chainalysis suggest that victims have lost a combined
+  $1.3 billion (with a B) to the scam thus far.The scheme''s operators Sam Lee and Zijing "Ryan" Xu were also behind Blockchain
+  Global, a collapsed company that operated the Australian ACX crypto exchange that collapsed in 2019. The company is in liquidation,
+  and creditor claims are expected to surpass $50 million. Although Lee and Xu were reported for investigation to the Australian
+  Securities &amp; Investments Commission, ASIC did not take any action.Lee has also been involved in other investment platforms,
+  including two that are currently active: StableDao and We Are All Satoshi. Both platforms were the target of cease and desist
+  letters from the Californian Department of Financial Protection and Innovation in September 2023, who described them both
+  as "fraudulent pyramid and Ponzi scheme[s]".
 
 
   Total loss estimated at $1,300,000,000.'

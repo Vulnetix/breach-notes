@@ -1,0 +1,18 @@
+source_name: 'ISMG Editors: UK Ransomware Reporting Mandate Sparks Debate (DataBreachToday)'
+source_url: https://www.databreachtoday.com/ismg-editors-uk-ransomware-reporting-mandate-sparks-debate-a-27323
+date_of_breach: '2025-01-17'
+date_of_disclosure: '2025-01-17'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'In this week''s update, ISMG editors discussed a U.K. proposal to mandate
+  ransomware payment reporting, tackling financial crime by bringing together fraud
+  and AML
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: Judge Strikes Down ''Dealer Rule'' Change (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-judge-strikes-down-dealer-rule-change-a-26938
+date_of_breach: '2024-11-28'
+date_of_disclosure: '2024-11-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week''s cryptohack roundup includes a U.S. federal judge striking down
+  the SEC''s expanded &quot;Dealer Rule,&quot; a Python crypto library update stealing
+
+
+  Source: DataBreachToday article coverage.'

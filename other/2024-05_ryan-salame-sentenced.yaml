@@ -3,16 +3,14 @@ source_url: https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salam
 date_of_breach: '2024-05-28'
 date_of_disclosure: '2024-05-28'
 category: other
-notes: Ryan Salame was the CEO of FTX Digital Markets which was the Bahamian portion
-  of the FTX business. In September 2023, just before Sam Bankman-Fried's trial began,
-  Salame pleaded guilty to one count each of conspiracy to operate an unlicensed money
-  transmitting business and conspiracy to make unlawful political contributions and
-  defraud the Federal Election Commission. He was the only co-conspirator of four
-  to not plead under a cooperation agreement, and he did not testify at Bankman-Fried's
-  trial.In his sentencing memo, Salame asked for a sentence of no more than 18 months
-  imprisonment, claiming that "he was duped, as was everyone else, into believing
-  that the companies were legitimate, solvent, and wildly profitable." Judge Kaplan
-  didn't seem to agree, ultimately passing down a sentence greater than the five to
-  seven years requested by prosecutors. He also will pay $6 million in forfeiture,
-  $5 million in restitution, and spend three years on supervised release.Salame is
-  the first of Bankman-Fried's co-conspirators to be sentenced.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Ryan Salame sentenced
+notes: Ryan Salame was the CEO of FTX Digital Markets which was the Bahamian portion of the FTX business. In September 2023,
+  just before Sam Bankman-Fried's trial began, Salame pleaded guilty to one count each of conspiracy to operate an unlicensed
+  money transmitting business and conspiracy to make unlawful political contributions and defraud the Federal Election Commission.
+  He was the only co-conspirator of four to not plead under a cooperation agreement, and he did not testify at Bankman-Fried's
+  trial.In his sentencing memo, Salame asked for a sentence of no more than 18 months imprisonment, claiming that "he was
+  duped, as was everyone else, into believing that the companies were legitimate, solvent, and wildly profitable." Judge Kaplan
+  didn't seem to agree, ultimately passing down a sentence greater than the five to seven years requested by prosecutors.
+  He also will pay $6 million in forfeiture, $5 million in restitution, and spend three years on supervised release.Salame
+  is the first of Bankman-Fried's co-conspirators to be sentenced.

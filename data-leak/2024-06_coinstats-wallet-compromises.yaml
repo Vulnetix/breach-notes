@@ -3,14 +3,15 @@ source_url: https://cointelegraph.com/news/cryptocurrency-portfolio-manager-coin
 date_of_breach: '2024-06-22'
 date_of_disclosure: '2024-06-22'
 category: data-leak
-notes: 'CoinStats, an application promising to help people track their cryptocurrency
-  holdings, has suffered a breach impacting more than 1,500 user wallets.The application
-  asks its users to connect their wallets to allow it to track their holdings, but
-  promises on the website that it offers "the ultimate security for your digital assets".
-  "Since we ask for read-only access only, your holdings are perfectly safe under
-  any conditions," the website promises, later touting its "military-grade encryption".CoinStats
-  shut down the platform while investigating the incident. Losses have been estimated
-  at around $2.2 million.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: CoinStats wallet compromises
+financial_loss_usd: 2200000
+notes: 'CoinStats, an application promising to help people track their cryptocurrency holdings, has suffered a breach impacting
+  more than 1,500 user wallets.The application asks its users to connect their wallets to allow it to track their holdings,
+  but promises on the website that it offers "the ultimate security for your digital assets". "Since we ask for read-only
+  access only, your holdings are perfectly safe under any conditions," the website promises, later touting its "military-grade
+  encryption".CoinStats shut down the platform while investigating the incident. Losses have been estimated at around $2.2
+  million.
 
 
   Total loss estimated at $2,200,000.'

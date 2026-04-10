@@ -1,16 +1,14 @@
-source_name: '"SEC Charges Crypto-Focused Advisory Firm Galois Capital for Custody
-  Failures"'
+source_name: '"SEC Charges Crypto-Focused Advisory Firm Galois Capital for Custody Failures"'
 source_url: https://www.sec.gov/newsroom/press-releases/2024-111
 date_of_breach: '2024-09-03'
 date_of_disclosure: '2024-09-03'
 category: other
-notes: Eighteen months after the crypto-focused algorithmic trading fund Galois Capital
-  shut down, explaining that they had lost around $40 million in the FTX collapse,
-  the SEC has filed a lawsuit against the firm for failing to properly custody their
-  clients' funds. According to the SEC, instead of complying with SEC requirements
-  that investment advisers hold assets with qualified custodians like banks, Galois
-  was keeping assets on crypto exchanges including FTX.The SEC also charged that Galois
-  Capital had misled some investors into believing they needed five business days
-  of notice to redeem assets, while other investors were allowed to redeem assets
-  more quickly.Galois agreed to a settlement with the SEC in which they will pay a
-  $225,000 penalty, which will go to investors who lost money.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC charges Galois Capital, Galois settles
+notes: Eighteen months after the crypto-focused algorithmic trading fund Galois Capital shut down, explaining that they had
+  lost around $40 million in the FTX collapse, the SEC has filed a lawsuit against the firm for failing to properly custody
+  their clients' funds. According to the SEC, instead of complying with SEC requirements that investment advisers hold assets
+  with qualified custodians like banks, Galois was keeping assets on crypto exchanges including FTX.The SEC also charged that
+  Galois Capital had misled some investors into believing they needed five business days of notice to redeem assets, while
+  other investors were allowed to redeem assets more quickly.Galois agreed to a settlement with the SEC in which they will
+  pay a $225,000 penalty, which will go to investors who lost money.

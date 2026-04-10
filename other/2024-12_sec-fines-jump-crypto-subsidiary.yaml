@@ -1,17 +1,16 @@
-source_name: “Tai Mo Shan to Pay $123 Million for Negligently Misleading Investors
-  About Stability of Terra USD”
+source_name: “Tai Mo Shan to Pay $123 Million for Negligently Misleading Investors About Stability of Terra USD”
 source_url: https://www.sec.gov/newsroom/press-releases/2024-212
 date_of_breach: '2024-12-20'
 date_of_disclosure: '2024-12-20'
 category: other
-notes: The SEC has levied a $123 million fine against Jump Crypto subsidiary Tai Mo
-  Shan, which was part of a secret deal with Terraform Labs to help prop up the floundering
-  Terra stablecoin in May 2021. Jump spent $20 million to help the supposedly “self-healing”
-  stablecoin regain its $1 peg, earning about $1.28 billion in the process, and Terraform
-  Labs CEO Do Kwon would later claim that the restoration to a $1 price was thanks
-  to an automatic feature of the Terra project and not some backroom deal. This lie
-  by Terraform Labs and Jump Crypto helped build confidence in the sustainability
-  of the Terra token, which collapsed horrendously a year later.The SEC also found
-  that Tai Mo Shan had acted as a statuary underwriter for the Terra sister token
-  Luna, which was an unregistered security.Tai Mo Shan agreed to the fine, and to
-  a prohibition on future violations of securities laws.
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC fines Jump Crypto subsidiary
+blockchain: terra
+notes: The SEC has levied a $123 million fine against Jump Crypto subsidiary Tai Mo Shan, which was part of a secret deal
+  with Terraform Labs to help prop up the floundering Terra stablecoin in May 2021. Jump spent $20 million to help the supposedly
+  “self-healing” stablecoin regain its $1 peg, earning about $1.28 billion in the process, and Terraform Labs CEO Do Kwon
+  would later claim that the restoration to a $1 price was thanks to an automatic feature of the Terra project and not some
+  backroom deal. This lie by Terraform Labs and Jump Crypto helped build confidence in the sustainability of the Terra token,
+  which collapsed horrendously a year later.The SEC also found that Tai Mo Shan had acted as a statuary underwriter for the
+  Terra sister token Luna, which was an unregistered security.Tai Mo Shan agreed to the fine, and to a prohibition on future
+  violations of securities laws.

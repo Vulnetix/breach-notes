@@ -3,20 +3,20 @@ source_url: https://twitter.com/CyversAlerts/status/1786363410243858869
 date_of_breach: '2024-05-03'
 date_of_disclosure: '2024-05-03'
 category: data-leak
-notes: 'An Ethereum wallet was apparently drained of 1,155 wrapped bitcoin (~$72.7
-  million) when they transferred it to a malicious address that had been operating
-  an address poisoning scheme.Address poisoning is a scam tactic that takes advantage
-  of crypto traders'' tendencies to copy and paste wallet addresses from their transaction
-  histories, since the addresses are long strings of characters that are not practical
-  to type from memory. By creating a new wallet address with identical start and/or
-  ending character strings to addresses used by the victim, and spamming the victim
-  with transactions from that similar address, scammers are sometimes able to get
-  victims to erroneously copy the spoofed address for future transfers.That''s what
-  appears to have happened in this case, when a victim transferred 1,155 wrapped bitcoin
-  — tokens pegged to the bitcoin price meant for use on the Ethereum blockchain —
-  to the malicious address.The victim and the exploiter later reached an agreement
-  for the return of most of the funds, with the exploiter keeping $7.2 million as
-  a "bounty".
+initial_attack_vector: Address poisoning attack
+vendor_product: 0x1E227 address poisoning
+blockchain: bitcoin, ethereum
+financial_loss_usd: 7200000
+financial_recovered_usd: 65500000
+notes: 'An Ethereum wallet was apparently drained of 1,155 wrapped bitcoin (~$72.7 million) when they transferred it to a
+  malicious address that had been operating an address poisoning scheme.Address poisoning is a scam tactic that takes advantage
+  of crypto traders'' tendencies to copy and paste wallet addresses from their transaction histories, since the addresses
+  are long strings of characters that are not practical to type from memory. By creating a new wallet address with identical
+  start and/or ending character strings to addresses used by the victim, and spamming the victim with transactions from that
+  similar address, scammers are sometimes able to get victims to erroneously copy the spoofed address for future transfers.That''s
+  what appears to have happened in this case, when a victim transferred 1,155 wrapped bitcoin — tokens pegged to the bitcoin
+  price meant for use on the Ethereum blockchain — to the malicious address.The victim and the exploiter later reached an
+  agreement for the return of most of the funds, with the exploiter keeping $7.2 million as a "bounty".
 
 
   Total loss estimated at $7,200,000.'

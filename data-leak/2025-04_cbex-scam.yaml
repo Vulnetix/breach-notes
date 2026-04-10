@@ -3,14 +3,14 @@ source_url: https://www.bbc.com/news/articles/cx2w9v91je1o
 date_of_breach: '2025-04-15'
 date_of_disclosure: '2025-04-15'
 category: data-leak
-notes: 'Victims, mostly in Nigeria and Kenya, have lost approximately $12 million
-  to a Ponzi scheme called CBEX, which was named to mimic an association with the
-  China Beijing Equity Exchange. The Nigerian company claimed it was registered in
-  the US, and that it used AI-powered trading systems to produce guaranteed monthly
-  returns.Initially, CBEX claimed that the frozen withdrawals were due to a hack,
-  and that the platform would soon be operational again. However, services never resumed.
-  Later, a scheme called LWEX emerged, linked to the CBEX scheme and targeting Kenyan
-  victims.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: CBEX
+financial_loss_usd: 12000000
+notes: 'Victims, mostly in Nigeria and Kenya, have lost approximately $12 million to a Ponzi scheme called CBEX, which was
+  named to mimic an association with the China Beijing Equity Exchange. The Nigerian company claimed it was registered in
+  the US, and that it used AI-powered trading systems to produce guaranteed monthly returns.Initially, CBEX claimed that the
+  frozen withdrawals were due to a hack, and that the platform would soon be operational again. However, services never resumed.
+  Later, a scheme called LWEX emerged, linked to the CBEX scheme and targeting Kenyan victims.
 
 
   Total loss estimated at $12,000,000.'

@@ -1,0 +1,17 @@
+source_name: Romanian Sentenced to 20 Years for NetWalker Ransomware (DataBreachToday)
+source_url: https://www.databreachtoday.com/romanian-sentenced-to-20-years-for-netwalker-ransomware-a-27117
+date_of_breach: '2024-12-20'
+date_of_disclosure: '2024-12-20'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A U.S. federal court sentenced a Romanian man to 20 years in a U.S. prison
+  for his role in Netwalker ransomware attacks including against healthcare and education
+
+
+  Source: DataBreachToday article coverage.'

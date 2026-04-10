@@ -3,11 +3,11 @@ source_url: https://www.sec.gov/files/litigation/admin/2025/33-11357.pdf
 date_of_breach: '2025-01-17'
 date_of_disclosure: '2025-01-17'
 category: other
-notes: The Digital Currency Group has agreed to settle with the SEC for $38 million
-  over charges that its Genesis subsidiary misled investors. When the hedge fund Three
-  Arrows Capital blew up and defaulted on a margin call in June 2022, DCG publicly
-  downplayed the fact that their entire business was at risk, and overstated its ability
-  to bail out the Genesis subsidiary by taking on its liabilities and doing some weird
-  accounting maneuvering involving a $1.1 billion promissory note. In November, with
-  further crypto market turmoil, Genesis could no longer meet withdrawal requests
-  and collapsed. The company filed for bankruptcy the following January.
+initial_attack_vector: Regulatory / legal action
+vendor_product: Genesis settles with the SEC
+notes: The Digital Currency Group has agreed to settle with the SEC for $38 million over charges that its Genesis subsidiary
+  misled investors. When the hedge fund Three Arrows Capital blew up and defaulted on a margin call in June 2022, DCG publicly
+  downplayed the fact that their entire business was at risk, and overstated its ability to bail out the Genesis subsidiary
+  by taking on its liabilities and doing some weird accounting maneuvering involving a $1.1 billion promissory note. In November,
+  with further crypto market turmoil, Genesis could no longer meet withdrawal requests and collapsed. The company filed for
+  bankruptcy the following January.

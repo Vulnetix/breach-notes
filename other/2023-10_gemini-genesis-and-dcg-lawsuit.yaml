@@ -1,21 +1,18 @@
-source_name: '"Attorney General James Sues Cryptocurrency Companies Gemini, Genesis,
-  and DCG for Defrauding Investors"'
+source_name: '"Attorney General James Sues Cryptocurrency Companies Gemini, Genesis, and DCG for Defrauding Investors"'
 source_url: https://ag.ny.gov/press-release/2023/attorney-general-james-sues-cryptocurrency-companies-gemini-genesis-and-dcg
 date_of_breach: '2023-10-19'
 date_of_disclosure: '2023-10-19'
 category: other
-notes: The New York Attorney General filed suit against Gemini, Genesis, and Digital
-  Currency Group (DCG), a group of companies that have been involved in a bitter feud
-  amongst themselves. As Genesis undergoes bankrutpcy proceedings, Gemini and its
-  Winklevoss twin cofounders have been firing accusations of fraud at them as they
-  try to recover around $900 million of their customer funds that were with Genesis
-  when it collapsed.Now, the New York Attorney General is alleging that Gemini repeatedly
-  lied to investors about its Gemini Earn program, assuring them that it was low-risk
-  when internal analysis had revealed Genesis' loans to in fact be quite risky. Some
-  personnel involved in evaluating this risk even withdrew their own funds from the
-  program in the summer of 2022.Genesis, DCG, and DCG CEO Barry Silbert are charged
-  with defrauding both investors and the public when they tried to cover up $1.1 billion
-  in losses. The lawsuit alleges that Genesis had not properly audited its borrowers,
-  and lied to Gemini about regular reviews of borrowers' financial conditions.In a
-  press release, the AG claims that the companies' actions resulted in around $1 billion
-  in losses, including in some cases their customers' entire life savings.
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Gemini, Genesis, and DCG lawsuit
+notes: The New York Attorney General filed suit against Gemini, Genesis, and Digital Currency Group (DCG), a group of companies
+  that have been involved in a bitter feud amongst themselves. As Genesis undergoes bankrutpcy proceedings, Gemini and its
+  Winklevoss twin cofounders have been firing accusations of fraud at them as they try to recover around $900 million of their
+  customer funds that were with Genesis when it collapsed.Now, the New York Attorney General is alleging that Gemini repeatedly
+  lied to investors about its Gemini Earn program, assuring them that it was low-risk when internal analysis had revealed
+  Genesis' loans to in fact be quite risky. Some personnel involved in evaluating this risk even withdrew their own funds
+  from the program in the summer of 2022.Genesis, DCG, and DCG CEO Barry Silbert are charged with defrauding both investors
+  and the public when they tried to cover up $1.1 billion in losses. The lawsuit alleges that Genesis had not properly audited
+  its borrowers, and lied to Gemini about regular reviews of borrowers' financial conditions.In a press release, the AG claims
+  that the companies' actions resulted in around $1 billion in losses, including in some cases their customers' entire life
+  savings.

@@ -3,12 +3,12 @@ source_url: https://www.dlnews.com/articles/defi/gitcoin-tokens-worth-500k-usd-l
 date_of_breach: '2023-10-06'
 date_of_disclosure: '2023-10-06'
 category: other
-notes: 'After agreeing to allocate $500,000 to "MMM" (merchandise, memes, and marketing
-  — no, really), Gitcoin screwed up sending the money so badly that it''s gone forever.
-  Whoever was in charge of making the transfer accidentally pasted the Gitcoin contract
-  address into the recipient field, rendering the tokens permanently inaccessible.
-  Such mistakes can be devastating, and yet are very common in the crypto world, where
-  transfers are irreversible.
+vendor_product: Gitcoin transfer mistake
+financial_loss_usd: 500000
+notes: 'After agreeing to allocate $500,000 to "MMM" (merchandise, memes, and marketing — no, really), Gitcoin screwed up
+  sending the money so badly that it''s gone forever. Whoever was in charge of making the transfer accidentally pasted the
+  Gitcoin contract address into the recipient field, rendering the tokens permanently inaccessible. Such mistakes can be devastating,
+  and yet are very common in the crypto world, where transfers are irreversible.
 
 
   Total loss estimated at $500,000.'

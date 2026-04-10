@@ -3,12 +3,15 @@ source_url: https://x.com/0xCygaar/status/1891948692204368122
 date_of_breach: '2025-02-18'
 date_of_disclosure: '2025-02-18'
 category: data-leak
-notes: 'Around $400,000 in ETH was stolen from around 9,000 wallets on the Abstract
-  layer-2 network, which is built by the same company that makes the Pudgy Penguins
-  NFTs. It appears that the affected wallets had all been used to play Cardex, a fantasy
-  trading card game that had launched only a week prior.Attackers compromised a private
-  key belonging to the game''s creators, which allowed them to drain wallets that
-  still had an active session with the game.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Abstract Cardex
+blockchain: ethereum
+financial_loss_usd: 400000
+affected_count: 9000
+notes: 'Around $400,000 in ETH was stolen from around 9,000 wallets on the Abstract layer-2 network, which is built by the
+  same company that makes the Pudgy Penguins NFTs. It appears that the affected wallets had all been used to play Cardex,
+  a fantasy trading card game that had launched only a week prior.Attackers compromised a private key belonging to the game''s
+  creators, which allowed them to drain wallets that still had an active session with the game.
 
 
   Total loss estimated at $400,000.'

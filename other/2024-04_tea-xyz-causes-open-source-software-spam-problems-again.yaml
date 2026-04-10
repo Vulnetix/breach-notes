@@ -3,22 +3,17 @@ source_url: https://blog.rubygems.org/2024/04/14/the-implications-of-crypto-rewa
 date_of_breach: '2024-04-14'
 date_of_disclosure: '2024-04-14'
 category: other
-notes: The tea.xyz protocol first earned an entry on Web3 is Going Just Great in late
-  February, when their plan to reward open source software contributors resulted in
-  crypto enthusiasts with no intention of participating in OSS opening endless pull
-  requests to claim ownership of prominent OSS projects. This spam was disruptive
-  to said projects, whose (usually volunteer) maintainers had to figure out what was
-  going on and then try to stop the spammy PRs.Max Howell, the creator of tea.xyz
-  (and creator of homebrew, though he's no longer involved), seemed apologetic, and
-  promised to make changes to the protocol to stop this spammy behavior.Now, deprived
-  of that avenue, people are just creating massive waves of empty software packages,
-  with nothing other than a "teafile" with their crypto wallet address for rewards,
-  and submitting them to package managers like NPM and RubyGems.This spam prompted
-  a blog post from RubyGems, who wrote that they had to devote time to strengthening
-  limits on package publishing and "ensuring [accounts] didn't disrupt the community
-  further."Security researchers at Phylum also wrote up the protocol's impact on the
-  JavaScript world, which has seen as many as 7x as many packages published on NPM
-  as previous daily averages. "Automated sustained spamming of this volume for months
-  on end is rare and does nothing but cause heavy strain on the ecosystem itself,
-  degrading the performance of the ecosystem for genuine users and straining open
-  source security researchers," they wrote.
+vendor_product: tea.xyz causes open source software spam problems, again
+notes: The tea.xyz protocol first earned an entry on Web3 is Going Just Great in late February, when their plan to reward
+  open source software contributors resulted in crypto enthusiasts with no intention of participating in OSS opening endless
+  pull requests to claim ownership of prominent OSS projects. This spam was disruptive to said projects, whose (usually volunteer)
+  maintainers had to figure out what was going on and then try to stop the spammy PRs.Max Howell, the creator of tea.xyz (and
+  creator of homebrew, though he's no longer involved), seemed apologetic, and promised to make changes to the protocol to
+  stop this spammy behavior.Now, deprived of that avenue, people are just creating massive waves of empty software packages,
+  with nothing other than a "teafile" with their crypto wallet address for rewards, and submitting them to package managers
+  like NPM and RubyGems.This spam prompted a blog post from RubyGems, who wrote that they had to devote time to strengthening
+  limits on package publishing and "ensuring [accounts] didn't disrupt the community further."Security researchers at Phylum
+  also wrote up the protocol's impact on the JavaScript world, which has seen as many as 7x as many packages published on
+  NPM as previous daily averages. "Automated sustained spamming of this volume for months on end is rare and does nothing
+  but cause heavy strain on the ecosystem itself, degrading the performance of the ecosystem for genuine users and straining
+  open source security researchers," they wrote.

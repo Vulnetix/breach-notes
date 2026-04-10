@@ -1,12 +1,11 @@
-source_name: '"Everscale token price drops 20% as team says large number of EVER tokens
-  were stolen"'
+source_name: '"Everscale token price drops 20% as team says large number of EVER tokens were stolen"'
 source_url: https://www.theblock.co/post/257895/everscale-token-price-drops-20-as-team-says-large-number-of-ever-tokens-were-stolen
 date_of_breach: '2023-10-17'
 date_of_disclosure: '2023-10-17'
 category: data-leak
-notes: The team behind the Everscale blockchain project disclosed that a "large number"
-  of tokens had been stolen. In an attempt to thwart the attacker from cashing out,
-  they announced that they had halted the project's bridge.The team did not announce
-  how many tokens were stolen. The price of $EVER suffered a 20% drop, though whether
-  it was due to an attacker selling off tokens or collective panic by other token
-  holders is not clear. The method of the theft was also not described.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Everscale
+notes: The team behind the Everscale blockchain project disclosed that a "large number" of tokens had been stolen. In an attempt
+  to thwart the attacker from cashing out, they announced that they had halted the project's bridge.The team did not announce
+  how many tokens were stolen. The price of $EVER suffered a 20% drop, though whether it was due to an attacker selling off
+  tokens or collective panic by other token holders is not clear. The method of the theft was also not described.

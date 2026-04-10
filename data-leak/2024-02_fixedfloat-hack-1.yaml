@@ -3,14 +3,16 @@ source_url: https://cointelegraph.com/news/fixed-float-confirms-26m-exploit-bitc
 date_of_breach: '2024-02-18'
 date_of_disclosure: '2024-02-18'
 category: data-leak
-notes: 'The FixedFloat cryptocurrency exchange was exploited for around 409 BTC (~$21.17
-  million) and 1,728 ETH (~$4.85 million) for a total loss of just over $26 million.
-  FixedFloat is a decentralized cryptocurrency exchange that doesn''t require user
-  registration or Know Your Customer, making it popular for hackers looking to launder
-  stolen funds.FixedFloat first wrote that they had "encountered some minor technical
-  problems", then acknowledged that there had been a hack. FixedFloat is non-custodial,
-  so no user funds were impacted, however some have reported frozen transactions and
-  missing funds from using the service on social media.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: FixedFloat
+blockchain: ethereum, bitcoin
+financial_loss_usd: 26100000
+notes: 'The FixedFloat cryptocurrency exchange was exploited for around 409 BTC (~$21.17 million) and 1,728 ETH (~$4.85 million)
+  for a total loss of just over $26 million. FixedFloat is a decentralized cryptocurrency exchange that doesn''t require user
+  registration or Know Your Customer, making it popular for hackers looking to launder stolen funds.FixedFloat first wrote
+  that they had "encountered some minor technical problems", then acknowledged that there had been a hack. FixedFloat is non-custodial,
+  so no user funds were impacted, however some have reported frozen transactions and missing funds from using the service
+  on social media.
 
 
   Total loss estimated at $26,100,000.'

@@ -3,10 +3,12 @@ source_url: https://x.com/Federico0x/status/1882411493280649237
 date_of_breach: '2025-01-23'
 date_of_disclosure: '2025-01-23'
 category: data-leak
-notes: 'The Singapore-based Phemex cryptocurrency exchange has acknowledged the compromise
-  of some of the exchange''s hot wallets, which saw outflows of at least $37 million
-  across multiple blockchains. Phemex wrote on Twitter that they were "look[ing] into"
-  reports that their hot wallets had been compromised.
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Phemex
+financial_loss_usd: 70000000
+notes: 'The Singapore-based Phemex cryptocurrency exchange has acknowledged the compromise of some of the exchange''s hot
+  wallets, which saw outflows of at least $37 million across multiple blockchains. Phemex wrote on Twitter that they were
+  "look[ing] into" reports that their hot wallets had been compromised.
 
 
   Total loss estimated at $70,000,000.'

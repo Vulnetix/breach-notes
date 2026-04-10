@@ -1,17 +1,18 @@
-source_name: '"This Child Made $30K Rugging a Solana Meme Coin—Then Crypto Degens
-  Got Revenge"'
+source_name: '"This Child Made $30K Rugging a Solana Meme Coin—Then Crypto Degens Got Revenge"'
 source_url: https://decrypt.co/292594/this-child-made-30k-rugging-a-solana-meme-coin-then-crypto-degens-got-revenge
 date_of_breach: '2024-11-20'
 date_of_disclosure: '2024-11-20'
 category: other
-notes: 'A 13-year-old known as the "Gen Z Quant kid," created a token called QUANT
-  and executed a rug pull, making $30,000. In retaliation, various people in the cryptocurrency
-  world executed a "revenge pump" — pumping up the price of the token after the kid
-  cashed out, causing him to miss out on potential gains. Worse, they then found the
-  child''s identity, and published his address and the school he attended. They also
-  identified his mother, and began leaving hateful comments on her Instagram account.
-  Rumors also emerged that a member of the cryptocurrency community dognapped the
-  child''s dog, then launched a memecoin based on the animal.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: QUANT
+blockchain: solana
+financial_loss_usd: 30000
+notes: 'A 13-year-old known as the "Gen Z Quant kid," created a token called QUANT and executed a rug pull, making $30,000.
+  In retaliation, various people in the cryptocurrency world executed a "revenge pump" — pumping up the price of the token
+  after the kid cashed out, causing him to miss out on potential gains. Worse, they then found the child''s identity, and
+  published his address and the school he attended. They also identified his mother, and began leaving hateful comments on
+  her Instagram account. Rumors also emerged that a member of the cryptocurrency community dognapped the child''s dog, then
+  launched a memecoin based on the animal.
 
 
   Total loss estimated at $30,000.'

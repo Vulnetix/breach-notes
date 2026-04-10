@@ -1,17 +1,16 @@
-source_name: '"Lacoste Quietly Shuts Down NFT Project UNDW3, Community Alleges ''Soft
-  Rug Pull''"'
+source_name: '"Lacoste Quietly Shuts Down NFT Project UNDW3, Community Alleges ''Soft Rug Pull''"'
 source_url: https://blog.cryptoflies.com/lacoste-quietly-shuts-down-nft-project-undw3-community-alleges-soft-rug/#:~:text=Lacoste%20quietly%20shut%20down%20its,may%20have%20influenced%20the%20decision.&text=Fashion%20brand%20Lacoste%20appears%20to,(NFT)%20project%2C%20UNDW3.
 date_of_breach: '2024-09-03'
 date_of_disclosure: '2024-09-03'
 category: other
-notes: Lacoste abruptly shutdown the website, Discord, and Twitter account belonging
-  to "UNDW3", its NFT project. Lacoste launched its original collection of NFTs in
-  June 2022, selling 11,212 of the tokens for 0.08 ETH (~$93 at the time). Lacoste
-  made around $1 million off the mint, plus earnings from fees on secondary sales.
-  Later announcements promised holders of the NFTs that they could participate in
-  raffles to earn real-life merchandise and "digital twins". They were also promised
-  a say in the future direction of the brand.However, that's vanished as the project
-  was closed without any acknowledgement. People still have their NFTs, but can no
-  longer earn benefits from Lacoste. Meanwhile, resale prices have dwindled to around
-  0.004 ETH (~$13). Angry token holders have accused Lacoste of a "soft rug pull".Perhaps
-  naming your crypto project "underwater" was an ill omen.
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Lacoste quietly ditches its "UNDW3" project
+blockchain: ethereum
+notes: Lacoste abruptly shutdown the website, Discord, and Twitter account belonging to "UNDW3", its NFT project. Lacoste
+  launched its original collection of NFTs in June 2022, selling 11,212 of the tokens for 0.08 ETH (~$93 at the time). Lacoste
+  made around $1 million off the mint, plus earnings from fees on secondary sales. Later announcements promised holders of
+  the NFTs that they could participate in raffles to earn real-life merchandise and "digital twins". They were also promised
+  a say in the future direction of the brand.However, that's vanished as the project was closed without any acknowledgement.
+  People still have their NFTs, but can no longer earn benefits from Lacoste. Meanwhile, resale prices have dwindled to around
+  0.004 ETH (~$13). Angry token holders have accused Lacoste of a "soft rug pull".Perhaps naming your crypto project "underwater"
+  was an ill omen.

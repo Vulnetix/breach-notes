@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Russia Suspected of Severing Undersea Cables (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-russia-suspected-severing-undersea-cables-a-26872
+date_of_breach: '2024-11-21'
+date_of_disclosure: '2024-11-21'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Russia suspected in Balctic Sea cable sabotage, VPNs draw ransomware
+  attackers and Swiss snail mail malware. An AI training company reported a cybertheft
+
+
+  Source: DataBreachToday article coverage.'

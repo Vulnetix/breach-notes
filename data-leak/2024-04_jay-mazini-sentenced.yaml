@@ -1,24 +1,21 @@
-source_name: '"Instagram Influencer Known as ''Jay Mazini'' Sentenced to 84 Months
-  in Prison for Overlapping Fraud Schemes"'
+source_name: '"Instagram Influencer Known as ''Jay Mazini'' Sentenced to 84 Months in Prison for Overlapping Fraud Schemes"'
 source_url: https://www.justice.gov/usao-edny/pr/instagram-influencer-known-jay-mazini-sentenced-84-months-prison-overlapping-fraud-0
 date_of_breach: '2024-04-24'
 date_of_disclosure: '2024-04-24'
 category: data-leak
-notes: 'Jay Mazini, an influencer who often boasted of his wealth on Instagram by
-  doing cash giveaways to random strangers, has been sentenced to seven years in prison
-  after running "overlapping fraud schemes" that scammed victims out of at least $8
-  million. One of them involved a multi-million dollar cryptocurrency scam in which
-  he would promise to pay higher prices for crypto, and would convince those who were
-  interested to transfer their funds to him by providing doctored images of wire transfer
-  confirmations to suggest that he''d fulfilled his end of the deal.Mazini also ran
-  a scam targeting the Muslim community in New York, via a company called Halal Capital.
-  In reality, this was a Ponzi scheme, and payouts to his investors were funded in
-  part by the crypto scam he was also running.Mazini was arrested in March 2021 on
-  kidnapping charges, after he kidnapped and beat someone who might have witnessed
-  his frauds. He was sentenced to five years in prison for that charge, to which he
-  pled guilty. His new fraud sentence will be served concurrently with the kidnapping
-  sentence.In addition to seven years in prison, Mazini has been ordered to forfeit
-  $10 million. Restitution has not yet been determined.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Jay Mazini sentenced
+financial_loss_usd: 8000000
+notes: 'Jay Mazini, an influencer who often boasted of his wealth on Instagram by doing cash giveaways to random strangers,
+  has been sentenced to seven years in prison after running "overlapping fraud schemes" that scammed victims out of at least
+  $8 million. One of them involved a multi-million dollar cryptocurrency scam in which he would promise to pay higher prices
+  for crypto, and would convince those who were interested to transfer their funds to him by providing doctored images of
+  wire transfer confirmations to suggest that he''d fulfilled his end of the deal.Mazini also ran a scam targeting the Muslim
+  community in New York, via a company called Halal Capital. In reality, this was a Ponzi scheme, and payouts to his investors
+  were funded in part by the crypto scam he was also running.Mazini was arrested in March 2021 on kidnapping charges, after
+  he kidnapped and beat someone who might have witnessed his frauds. He was sentenced to five years in prison for that charge,
+  to which he pled guilty. His new fraud sentence will be served concurrently with the kidnapping sentence.In addition to
+  seven years in prison, Mazini has been ordered to forfeit $10 million. Restitution has not yet been determined.
 
 
   Total loss estimated at $8,000,000.'

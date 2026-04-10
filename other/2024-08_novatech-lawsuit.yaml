@@ -1,15 +1,13 @@
-source_name: '"SEC Charges NovaTech and its Principals and Promoters with $650 Million
-  Crypto Fraud"'
+source_name: '"SEC Charges NovaTech and its Principals and Promoters with $650 Million Crypto Fraud"'
 source_url: https://www.sec.gov/newsroom/press-releases/2024-95
 date_of_breach: '2024-08-12'
 date_of_disclosure: '2024-08-12'
 category: other
-notes: Following a lawsuit from the New York Attorney General in June, the SEC has
-  filed a lawsuit against the promoters of the NovaTech crypto pyramid scheme and
-  affinity fraud. Cynthia and Eddy Petion particularly targeted victims of Haitian
-  descent, promoting their schemes in Creole, leveraging their victims' religion,
-  and promising them "financial freedom" and "freedom from the plantation".The SEC's
-  lawsuit also targets six other promoters of the NovaTech scheme, all of whom the
-  agency says used "religious overtones" when attracting new investors. Ultimately,
-  the scheme was revealed to be a Ponzi scheme, with new investors' money being used
-  to pay out previous investors, as the promoters also took money for themselves.
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: NovaTech lawsuit
+notes: Following a lawsuit from the New York Attorney General in June, the SEC has filed a lawsuit against the promoters of
+  the NovaTech crypto pyramid scheme and affinity fraud. Cynthia and Eddy Petion particularly targeted victims of Haitian
+  descent, promoting their schemes in Creole, leveraging their victims' religion, and promising them "financial freedom" and
+  "freedom from the plantation".The SEC's lawsuit also targets six other promoters of the NovaTech scheme, all of whom the
+  agency says used "religious overtones" when attracting new investors. Ultimately, the scheme was revealed to be a Ponzi
+  scheme, with new investors' money being used to pay out previous investors, as the promoters also took money for themselves.

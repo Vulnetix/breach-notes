@@ -1,18 +1,18 @@
-source_name: '"Blast Ecosystem Sees First Apparent Scam as ''RiskOnBlast'' Rug Pulls
-  $1.3M Ether"'
+source_name: '"Blast Ecosystem Sees First Apparent Scam as ''RiskOnBlast'' Rug Pulls $1.3M Ether"'
 source_url: https://www.coindesk.com/markets/2024/02/26/blast-ecosystem-sees-first-apparent-scam-as-riskonblast-rug-pulls-13m-ether/
 date_of_breach: '2024-02-25'
 date_of_disclosure: '2024-02-25'
 category: other
-notes: 'RiskOnBlast, a gambling and trading platform on the new ethereum layer-2 Blast
-  blockchain, appears to have performed the blockchain''s first major rug pull — before
-  the blockchain has even officially launched. Blast was created by the developers
-  of the Blur NFT platform, and received funding from the Paradigm crypto VC.The team
-  behind Blast had even helped to promote the RiskOnBlast platform, tweeting from
-  its official account that Blast was "a new challenger" in the ecosystem with "undeniable"
-  potential.On February 25, the platform drained more than 420 ETH (~$1.3 million)
-  from more than 750 user wallets on their platform. The project''s anonymous team
-  then laundered the funds through various services and exchanges. All social media
+initial_attack_vector: Exit scam / rug pull
+vendor_product: RiskOnBlast gambling platform
+blockchain: ethereum
+financial_loss_usd: 13250000
+notes: 'RiskOnBlast, a gambling and trading platform on the new ethereum layer-2 Blast blockchain, appears to have performed
+  the blockchain''s first major rug pull — before the blockchain has even officially launched. Blast was created by the developers
+  of the Blur NFT platform, and received funding from the Paradigm crypto VC.The team behind Blast had even helped to promote
+  the RiskOnBlast platform, tweeting from its official account that Blast was "a new challenger" in the ecosystem with "undeniable"
+  potential.On February 25, the platform drained more than 420 ETH (~$1.3 million) from more than 750 user wallets on their
+  platform. The project''s anonymous team then laundered the funds through various services and exchanges. All social media
   accounts for the project were taken offline.
 
 

@@ -101,4 +101,57 @@
         </div>
     </div>
 </section>
+
+<section class="home-contribute">
+    <div class="container">
+        <header class="section-header">
+            <h2 class="section-title">Contribute a Breach</h2>
+            <p class="section-description">
+                This dataset is open source. Help keep it accurate and up to date by submitting new incidents via GitHub.
+            </p>
+        </header>
+
+        <div class="contribute-grid">
+            <div class="contribute-step">
+                <span class="contribute-step-num">1</span>
+                <h3>Pick a category</h3>
+                <p>Each breach lives in one of five folders: <code>ransomware/</code>, <code>data-leak/</code>, <code>supply-chain/</code>, <code>credential-theft/</code>, or <code>other/</code>.</p>
+            </div>
+            <div class="contribute-step">
+                <span class="contribute-step-num">2</span>
+                <h3>Create a YAML file</h3>
+                <p>Name it <code>YYYY-MM_slug.yaml</code> and fill in the required fields below. Use an existing record as a reference.</p>
+            </div>
+            <div class="contribute-step">
+                <span class="contribute-step-num">3</span>
+                <h3>Open a Pull Request</h3>
+                <p>Submit your file on GitHub. A maintainer will review and merge it, and the site rebuilds automatically.</p>
+            </div>
+        </div>
+
+        <div class="contribute-schema">
+            <h3>Required fields</h3>
+            <pre><code>source_name: "Acme Corp Data Breach"
+source_url: "https://example.com/article"
+date_of_breach: "2025-06-01"
+date_of_disclosure: "2025-06-15"
+category: "data-leak"
+initial_attack_vector: "Phishing email leading to credential theft"
+cve: []                        # list CVE/GHSA IDs if applicable
+vendor_product: "Acme CRM"
+malware: ""                    # ransomware or malware family if known
+supply_chain_claimed: false
+notes: "Narrative description of the incident..."</code></pre>
+        </div>
+
+        <div class="contribute-cta">
+            <a class="btn-contribute" href="https://github.com/Vulnetix/breach-notes" target="_blank" rel="noopener">
+                View on GitHub
+            </a>
+            <a class="btn-contribute btn-contribute--secondary" href="https://github.com/Vulnetix/breach-notes/issues/new" target="_blank" rel="noopener">
+                Report a missing breach
+            </a>
+        </div>
+    </div>
+</section>
 {{ end }}

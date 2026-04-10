@@ -209,7 +209,7 @@
 
 /* Hacker text effects */
 .hacker-text {
-    font-family: 'Courier New', monospace;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
     letter-spacing: 0.05em;
     text-shadow: 0 0 5px #00ff00;
 }
@@ -225,7 +225,7 @@
     background: rgba(0, 255, 0, 0.1);
     border: 1px solid #00ff00;
     color: #00ff00;
-    font-family: 'Courier New', monospace;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
     font-weight: bold;
     text-decoration: none;
     border-radius: 3px;

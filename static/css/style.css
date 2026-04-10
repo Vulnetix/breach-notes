@@ -348,8 +348,8 @@ a:hover {
 /* ── Contribute section ──────────────────────────────────────── */
 .home-contribute {
     padding: 4rem 0;
-    background: var(--bg-secondary, #f8f9fa);
-    border-top: 1px solid var(--border, #e0e0e0);
+    background: rgba(0, 0, 0, 0.9);
+    border-top: 1px solid #00ff00;
 }
 
 .contribute-grid {
@@ -360,11 +360,15 @@ a:hover {
 }
 
 .contribute-step {
-    position: relative;
     padding: 1.5rem;
-    background: var(--bg, #fff);
-    border: 1px solid var(--border, #e0e0e0);
-    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 255, 0, 0.2);
+    border-radius: 5px;
+    transition: box-shadow 0.2s;
+}
+
+.contribute-step:hover {
+    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.15);
 }
 
 .contribute-step-num {
@@ -373,31 +377,36 @@ a:hover {
     justify-content: center;
     width: 2rem;
     height: 2rem;
-    background: var(--accent, #d63031);
-    color: #fff;
+    background: rgba(0, 255, 0, 0.15);
+    border: 1px solid #00ff00;
+    color: #00ff00;
     font-weight: 700;
     border-radius: 50%;
     font-size: 0.9rem;
     margin-bottom: 0.75rem;
+    font-family: 'Courier New', monospace;
 }
 
 .contribute-step h3 {
     margin: 0 0 0.5rem;
     font-size: 1rem;
+    color: #00ff00;
 }
 
 .contribute-step p {
     margin: 0;
     font-size: 0.9rem;
     line-height: 1.5;
-    color: var(--text-muted, #555);
+    color: #ccc;
 }
 
 .contribute-step code {
     font-size: 0.85em;
-    background: var(--bg-secondary, #f0f0f0);
-    padding: 0.1em 0.3em;
+    background: rgba(0, 255, 0, 0.1);
+    color: #00ff00;
+    padding: 0.1em 0.35em;
     border-radius: 3px;
+    font-family: 'Courier New', monospace;
 }
 
 .contribute-schema {
@@ -407,16 +416,20 @@ a:hover {
 .contribute-schema h3 {
     margin-bottom: 0.75rem;
     font-size: 1rem;
+    color: #00ff00;
 }
 
 .contribute-schema pre {
-    background: var(--bg-code, #1e1e1e);
-    color: #d4d4d4;
+    background: rgba(0, 0, 0, 0.7);
+    border: 1px solid rgba(0, 255, 0, 0.2);
+    color: #00ff00;
     padding: 1.25rem 1.5rem;
-    border-radius: 8px;
+    border-radius: 5px;
     overflow-x: auto;
     font-size: 0.85rem;
     line-height: 1.6;
+    font-family: 'Courier New', monospace;
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.4);
 }
 
 .contribute-schema pre code {
@@ -430,34 +443,6 @@ a:hover {
     gap: 1rem;
     flex-wrap: wrap;
     margin-top: 2rem;
-}
-
-.btn-contribute {
-    display: inline-block;
-    padding: 0.65rem 1.4rem;
-    background: var(--accent, #d63031);
-    color: #fff;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 600;
-    font-size: 0.9rem;
-    transition: opacity 0.15s;
-}
-
-.btn-contribute:hover {
-    opacity: 0.85;
-}
-
-.btn-contribute--secondary {
-    background: transparent;
-    color: var(--accent, #d63031);
-    border: 2px solid var(--accent, #d63031);
-}
-
-.btn-contribute--secondary:hover {
-    background: var(--accent, #d63031);
-    color: #fff;
-    opacity: 1;
 }
 
 @media (max-width: 768px) {

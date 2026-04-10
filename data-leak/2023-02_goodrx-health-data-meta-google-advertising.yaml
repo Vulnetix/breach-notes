@@ -1,0 +1,13 @@
+source_name: "GoodRx Health Data Sharing with Meta and Google — FTC First Health Breach Notification Enforcement"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-takes-action-against-goodrx-sharing-consumers-sensitive-health-information-advertisers"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2023-02-01"
+date_of_customer_notification: "2023-02-01"
+category: "data-leak"
+initial_attack_vector: "Third-party tracking pixels and SDKs — GoodRx embedded Meta Pixel, Google Analytics, and other advertising trackers on its website and app that automatically transmitted users' health and prescription information to advertising platforms for targeted advertising purposes"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "GoodRx, a health technology company offering prescription drug discount coupons and telehealth services, shared sensitive user health data with Facebook/Meta, Google, Criteo, Branch, and other advertising platforms from at least 2017 through 2020. The data shared included users' personal health conditions, specific medications they were taking, prescription information, and personal identifiers — enabling advertisers to target users based on their health status. In February 2023, the FTC took enforcement action against GoodRx under the Health Breach Notification Rule (HBNR), which was the first time the FTC used the HBNR against a health app company. GoodRx agreed to pay a $1.5 million civil penalty and was banned from sharing health data with advertising companies for advertising purposes. The FTC found that GoodRx had failed to notify users that it was sharing their health information, violated the FTC Act's prohibition on unfair or deceptive practices, and violated the Health Breach Notification Rule by not notifying users and the FTC of the unauthorized disclosure. The case established that the HBNR applies to consumer health apps and telehealth companies, not just traditional HIPAA-covered entities, significantly expanding the regulatory landscape for health tech companies. GoodRx had over 55 million users at the time of the action. The case is closely linked to the contemporaneous Cerebral enforcement action and broader scrutiny of Meta Pixel use in healthcare."

@@ -1,0 +1,13 @@
+source_name: "Peloton API Misconfiguration — Private User Profile Data Exposed"
+source_url: "https://techcrunch.com/2021/05/05/peloton-bug-private-account-data/"
+date_of_breach: "2021-01-01"
+date_of_disclosure: "2021-05-05"
+date_of_customer_notification: "2021-05-05"
+category: "data-leak"
+initial_attack_vector: "Broken object-level authorization (BOLA/IDOR) — Peloton's API allowed unauthenticated access to any user's profile data by supplying a target user ID; private accounts that users had specifically set to 'private' in the app returned full profile data to unauthenticated API requests"
+cve: []
+vendor_product: "Peloton API"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Security researcher Jan Masters (working with Pen Test Partners) discovered in January 2021 that Peloton's API endpoints did not enforce authentication or authorization checks, allowing anyone to retrieve private user account data — including name, age, city, weight, gender, and workout history — for any Peloton user, including accounts that had been explicitly set to 'private' by the user. The researcher reported the vulnerability to Peloton in January 2021. Peloton acknowledged the report but did not fully fix it. After 90 days without a complete fix, and after TechCrunch began investigating the story, Peloton partially fixed the issue by requiring authentication. However, the fix was incomplete — authenticated users could still access any other user's private profile data. A full fix was deployed around May 2021 when TechCrunch published the story. The number of affected users was not officially disclosed; Peloton had approximately 5.4 million members at the time. The vulnerability was particularly sensitive because Peloton's user base included members of the White House medical unit and other government officials, whose workout habits, weights, and locations could be of interest to foreign intelligence services. The incident highlights how broken object-level authorization (BOLA) — ranked the #1 API security risk by OWASP — can expose private user data at scale, and the importance of not trusting client-side privacy settings to override server-side access controls."

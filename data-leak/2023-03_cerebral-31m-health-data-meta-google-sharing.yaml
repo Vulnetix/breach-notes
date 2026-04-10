@@ -1,0 +1,13 @@
+source_name: "Cerebral Mental Health Data Shared with Meta and Google — 3.1 Million Patients"
+source_url: "https://techcrunch.com/2023/03/06/cerebral-admits-to-sharing-patient-data-with-meta-google-tiktok/"
+date_of_breach: "2019-10-01"
+date_of_disclosure: "2023-03-06"
+date_of_customer_notification: "2023-03-06"
+category: "data-leak"
+initial_attack_vector: "Third-party tracking pixels — Cerebral used Meta Pixel, Google Analytics, TikTok Pixel, and other advertising trackers on its website and app; these trackers automatically captured and transmitted sensitive mental health information, medication details, and personal identifiers to advertising platforms"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Cerebral, a telehealth company specializing in mental health services (particularly ADHD and anxiety/depression treatment), disclosed in March 2023 that it had shared sensitive patient data with Meta, Google, TikTok, and other third-party advertising and analytics platforms from October 2019 through January 2023. Approximately 3.18 million patients were affected. The data shared included: names, phone numbers, email addresses, dates of birth, IP addresses, Cerebral client ID numbers, URLs of pages visited, and — critically — information about patients' mental health conditions, medications prescribed, and appointment details. Mental health data is among the most sensitive categories of personal health information, as its exposure can lead to discrimination, stigma, employment consequences, and relationship harm. Cerebral filed a HIPAA breach report with HHS for the incident. The company also faced a DEA investigation related to over-prescription of controlled substances (a separate matter). Cerebral notified affected users and updated its privacy practices to remove tracking pixels. The Cerebral breach, alongside the GoodRx FTC action and multiple hospital/health system Meta Pixel investigations, prompted the HHS Office for Civil Rights to issue explicit guidance in December 2022 warning that tracking technologies on healthcare websites that transmit PHI to third parties may violate HIPAA — clarifying a legal gray area that many health tech companies had exploited. The combined Cerebral and GoodRx cases substantially reshaped how health tech companies approach advertising technology."

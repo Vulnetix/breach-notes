@@ -1,0 +1,13 @@
+source_name: "Flipboard Social News App Breach — 145 Million Users"
+source_url: "https://about.flipboard.com/news/security-notice/"
+date_of_breach: "2018-06-02"
+date_of_disclosure: "2019-05-28"
+date_of_customer_notification: "2019-05-28"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to Flipboard's databases; the attacker accessed and potentially exfiltrated user data on two separate occasions — once between 2 June 2018 and 22 March 2019, and again between 21-22 April 2019; Flipboard detected the second intrusion through monitoring of its systems"
+cve: []
+vendor_product: "Flipboard social news aggregator user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Flipboard — the popular social news aggregation app — disclosed on 28 May 2019 that it had suffered two separate periods of unauthorized access to its databases. The first period ran from 2 June 2018 to 22 March 2019 (over nine months); the second was 21-22 April 2019. Flipboard discovered the second intrusion and investigated, uncovering both periods of access. Approximately 145 million user accounts were potentially affected. Exposed data included usernames, email addresses, hashed passwords (using SHA-1 with salt for accounts created before June 2012, and bcrypt for later accounts), and in some cases Flipboard account tokens used to connect with third-party accounts (Twitter, Facebook, Google, etc.). Flipboard immediately replaced or deleted all digital tokens and reset all user passwords. The company also notified third-party services including Twitter and Facebook to invalidate the affected tokens. Flipboard stated it found no evidence that any Flipboard accounts connected to third-party services had been accessed through the stolen tokens. The 9-month dwell time before detection of the first intrusion was a significant concern. Flipboard reported the breach to law enforcement and relevant data protection authorities. The exposure of tokens that could have provided access to linked Twitter and Facebook accounts represented the most significant risk — though Flipboard's rapid token invalidation after discovery mitigated this."

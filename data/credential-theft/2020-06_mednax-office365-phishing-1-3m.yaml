@@ -1,0 +1,13 @@
+source_name: "MEDNAX AWS Misconfiguration Breach — 1.3 Million Patients via Phishing"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2020-06-17"
+date_of_disclosure: "2020-09-25"
+date_of_customer_notification: "2020-09-25"
+category: "credential-theft"
+initial_attack_vector: "A phishing attack compromised the Microsoft Office 365 email accounts of multiple MEDNAX employees; the attackers used the compromised email accounts to access MEDNAX's business systems and then exfiltrated patient data from the company's healthcare platforms"
+cve: []
+vendor_product: "MEDNAX Microsoft Office 365 / patient data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2020, MEDNAX — a national health solutions company providing physician services management, including neonatology and pediatric subspecialty care, to approximately 120,000 patients annually — suffered a phishing attack that compromised multiple employee Microsoft Office 365 email accounts. The attackers used the compromised accounts to access MEDNAX's business systems and extract patient data. Approximately 1.29 million patients were affected. Exposed data included patient names, dates of service, diagnoses, health insurance information, Social Security numbers, claims information, and other health data. MEDNAX filed an HHS OCR breach notification on 25 September 2020 covering patients from across its managed medical practices. MEDNAX notified affected patients and offered credit monitoring. HHS OCR opened an investigation. The breach occurred during an unprecedented period of healthcare phishing attacks during COVID-19. MEDNAX operates through over 4,400 affiliated physicians across hospitals in 38 states. The phishing compromise of multiple Office 365 accounts highlighted the inadequacy of password-only authentication for healthcare email systems and the persistent risk of business email compromise (BEC) in healthcare — where attackers access systems through legitimate employee email accounts rather than hacking directly."

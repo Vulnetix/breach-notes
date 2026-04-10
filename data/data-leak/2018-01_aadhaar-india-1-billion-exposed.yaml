@@ -1,0 +1,13 @@
+source_name: "Aadhaar India Biometric Identity Database Exposure — 1.1 Billion Citizens"
+source_url: "https://www.tribuneindia.com/news/archive/nation/rs-500-rs-10-more-and-you-can-get-data-of-any-aadhaar-number-536634"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2018-01-03"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Multiple vulnerabilities and unauthorized access points were identified in the Aadhaar ecosystem: anonymous database access was sold via WhatsApp groups for ₹500; state government portals and websites operated by utility companies exposed Aadhaar numbers; the Aadhaar eKYC API lacked proper rate limiting and access controls"
+cve: []
+vendor_product: "Aadhaar (UIDAI — Unique Identification Authority of India) national biometric identity system"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "India's Aadhaar national biometric identity system — which stores fingerprint and iris scan data for approximately 1.2 billion Indian citizens and links to bank accounts, mobile phones, and government services — suffered multiple exposures and unauthorized access incidents. The most significant was reported by The Tribune of India on 3 January 2018: for ₹500 (approximately $8), anyone could obtain access to an Aadhaar database search portal allowing them to look up any Aadhaar number holder's name, address, photo, phone number, and email. For an additional ₹300, software was available to print Aadhaar cards for any citizen. Access was sold through WhatsApp groups. Separately, a French security researcher (Baptiste Robert) discovered that the eKYC API for Aadhaar authentication had no rate limiting, making it possible to enumerate all 1.1 billion Aadhaar numbers and match them with personal details. The Tribune investigation resulted in police complaints. UIDAI (the governing authority) initially denied the breach and threatened to file charges against journalists. Independent investigations confirmed multiple API vulnerabilities and state government portals displaying full Aadhaar data without proper access controls. The Telecom Regulatory Authority of India found Reliance Jio's eKYC implementation exposed customer data. This case is significant for involving potentially the world's largest biometric identity database and the severe implications of compromising national identity infrastructure."

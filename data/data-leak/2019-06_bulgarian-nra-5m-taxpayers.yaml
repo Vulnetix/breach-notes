@@ -1,0 +1,13 @@
+source_name: "Bulgarian National Revenue Agency Hack — 5 Million Taxpayer Records"
+source_url: "https://www.reuters.com/article/us-bulgaria-data/hacker-claims-responsibility-for-massive-data-theft-at-bulgarias-tax-agency-idUSKCN1UE1O1"
+date_of_breach: "2019-06-01"
+date_of_disclosure: "2019-07-15"
+date_of_customer_notification: "2019-07-15"
+category: "data-leak"
+initial_attack_vector: "A hacker (later identified as a 20-year-old Bulgarian cybersecurity specialist) exploited a SQL injection vulnerability in the Bulgarian National Revenue Agency (NRA) web application to extract taxpayer data from the agency's database"
+cve: []
+vendor_product: "Bulgarian National Revenue Agency (NAP) web application / taxpayer database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In July 2019, the Bulgarian National Revenue Agency (Национална агенция за приходите, NAP) suffered the largest data breach in Bulgarian history. A hacker sent a link to the stolen data to Bulgarian media containing approximately 5 million taxpayer records — essentially covering the entire adult working population of Bulgaria (total population approximately 7 million). The attacker exploited a SQL injection vulnerability in the agency's web application. Exposed data included names, personal identification numbers (equivalent to Social Security numbers), addresses, incomes, and tax filing information. The hacker sent emails to multiple Bulgarian news outlets containing a link to download the stolen data and criticised the country's cybersecurity capabilities. The Bulgarian prosecutor's office arrested a 20-year-old cybersecurity specialist (who worked for a private firm providing cybersecurity consulting) in connection with the attack. The suspect was charged with computer crimes. The Bulgarian Commission for Personal Data Protection opened an investigation and fined the NRA €2.6 million ($2.9 million) for violations of the EU's GDPR. This was one of the first significant GDPR fines related to a government agency data breach. The breach exposed fundamental security failures in Bulgaria's core revenue collection infrastructure and prompted emergency measures to improve NRA security."

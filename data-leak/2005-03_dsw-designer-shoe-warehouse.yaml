@@ -1,0 +1,13 @@
+source_name: "DSW Designer Shoe Warehouse Payment Card Breach (1.4M Cards, FTC Action)"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2007/03/ftc-settles-dsw-data-security-complaint"
+date_of_breach: "2005-01-01"
+date_of_disclosure: "2005-03-09"
+date_of_customer_notification: "2005-03-09"
+category: "credential-theft"
+initial_attack_vector: "Attackers gained unauthorized access to DSW's store networks through connections with other DSW stores; exploited lack of network segmentation and inadequate access controls to access point-of-sale transaction data stored in network files"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "DSW (Designer Shoe Warehouse) Inc. disclosed in March 2005 that a data breach had compromised payment card information from 108 of its 175 retail stores across the United States. Approximately 1.4 million credit and debit card numbers and 96,000 checking account and driver's license numbers were stolen. DSW had stored detailed transaction records containing full magnetic stripe data in network file directories accessible across store networks, without adequate network segmentation. Attackers accessed data through connections between store networks. Several financial institutions, including Citizens Bank and Charter One Bank, identified DSW as the source of compromised card numbers. DSW parent company Retail Ventures (now Value City Department Stores) disclosed the breach via an SEC 8-K filing. The FTC sued DSW in 2006 and settled in March 2007 with a consent decree requiring a comprehensive information security program with biennial audits for 20 years — similar to the concurrent BJ's Wholesale case. The FTC's DSW and BJ's cases established the principle that retailers have a legal obligation to protect consumer payment card data and that systemic security failures can constitute unfair trade practices."

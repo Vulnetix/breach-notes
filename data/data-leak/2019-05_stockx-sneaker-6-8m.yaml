@@ -1,0 +1,13 @@
+source_name: "StockX Sneaker Marketplace Breach — 6.8 Million Users"
+source_url: "https://stockx.com/about/data-security-information/"
+date_of_breach: "2019-05-01"
+date_of_disclosure: "2019-08-01"
+date_of_customer_notification: "2019-08-03"
+category: "data-leak"
+initial_attack_vector: "An unknown hacker gained unauthorized access to StockX's systems and obtained a copy of the user database; the attacker reached out to Vice/Motherboard journalist Lorenzo Franceschi-Bicchierai offering to sell the stolen data, which prompted investigation and disclosure"
+cve: []
+vendor_product: "StockX sneaker resale marketplace user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In May 2019, an attacker obtained user data from StockX — the Detroit-based sneaker and streetwear authentication and resale marketplace valued at over $1 billion. The breach went undiscovered until August 2019, when a hacker contacted Vice/Motherboard offering to sell approximately 6.8 million StockX user records for $300. Motherboard verified the data was authentic. StockX initially told its users it was performing a 'system update' to explain why it was forcing password resets — without disclosing a breach had occurred. When Motherboard revealed the breach, StockX was criticised for this misleading communication. Exposed data included user names, email addresses, hashed passwords (bcrypt), shoe sizes, trading currencies, and purchase histories. The breach data was verified by Motherboard by creating a test account and confirming the data appeared in the stolen database. StockX subsequently acknowledged the breach and issued a proper disclosure. Multiple class-action lawsuits were filed. The breach highlighted a recurring pattern: companies performing forced password resets without disclosing the underlying breach — a practice regulators and security researchers have repeatedly criticised as deceptive."

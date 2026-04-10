@@ -1,0 +1,13 @@
+source_name: "South Carolina DHHS Medicaid Data Breach — 228,000 Recipients"
+source_url: "https://www.scdhhs.gov/internet/pdf/DatasecuritybreachQ&A.pdf"
+date_of_breach: "2012-06-14"
+date_of_disclosure: "2012-08-27"
+date_of_customer_notification: "2012-08-27"
+category: "data-leak"
+initial_attack_vector: "Insider threat — a former employee of South Carolina's Department of Health and Human Services (DHHS) accessed the Medicaid eligibility database and transferred files containing beneficiary data to an unauthorized location; the employee later posted the data online"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2012, the South Carolina Department of Health and Human Services disclosed that a former agency employee, Christopher Lykes Jr., had accessed the state's Medicaid eligibility database after resigning and used his still-active credentials to extract data on approximately 228,435 Medicaid beneficiaries. The stolen data included beneficiary names, Social Security numbers, addresses, Medicaid ID numbers, dates of birth, and claims information. Lykes allegedly posted some of the data online. He was arrested in July 2012 and ultimately convicted of federal and state computer crimes. South Carolina DHHS disclosed the breach to affected beneficiaries and offered one year of free credit monitoring. The breach highlighted several security failures: failure to promptly revoke access credentials when employees depart (a common and persistent problem across industries), insufficient monitoring of privileged database access, and inadequate data loss prevention controls. The incident is one of the more prominent insider threat cases in the healthcare government sector and is frequently cited in discussions of offboarding security procedures and the risk posed by former employees retaining active credentials after termination."

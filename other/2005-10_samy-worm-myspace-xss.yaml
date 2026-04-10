@@ -1,0 +1,13 @@
+source_name: "Samy Worm — First Self-Replicating XSS Worm (MySpace, 1M Infected in 20 Hours)"
+source_url: "https://samy.pl/myspace/"
+date_of_breach: "2005-10-04"
+date_of_disclosure: "2005-10-04"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Reflected/stored cross-site scripting (XSS) vulnerability in MySpace user profiles exploited by a self-replicating JavaScript payload; the worm ran in any visitor's browser when they viewed an infected profile, automatically added the author as a friend, replicated itself to the visitor's own profile, and spread exponentially"
+cve: []
+vendor_product: "MySpace social network"
+software_package: ""
+malware: "Samy worm (JavaScript XSS worm)"
+supply_chain_claimed: false
+notes: "On October 4, 2005, security researcher Samy Kamkar launched the Samy worm — the first self-replicating cross-site scripting (XSS) worm in history. The worm exploited an XSS vulnerability in MySpace user profiles, which attempted to filter JavaScript but could be bypassed by exploiting CSS attribute handling. The payload automatically added Samy Kamkar as a friend of any MySpace user who viewed an infected profile, and replicated the worm code to the viewer's own profile — spreading exponentially. The worm also displayed the message 'but most of all, samy is my hero' on infected profiles. Within approximately 20 hours of launch, the worm had infected approximately 1 million MySpace users, making it one of the fastest-spreading pieces of malware ever at the time. MySpace was forced to take its site offline to contain the infection. Kamkar was visited by US Secret Service agents, had his computers seized, was charged under California Penal Code 502 (unauthorized computer access), and sentenced to three years' probation. The Samy worm demonstrated that client-side web application vulnerabilities (XSS) could be exploited for automated, self-propagating attacks — a revelation that fundamentally advanced the field of web application security and the understanding of XSS as a high-severity vulnerability class."

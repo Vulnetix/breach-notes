@@ -1,0 +1,13 @@
+source_name: "First American Financial IDOR — 885M Mortgage Documents Exposed (SEC Fine)"
+source_url: "https://krebsonsecurity.com/2019/05/first-american-financial-corp-leaked-hundreds-of-millions-of-title-insurance-records/"
+date_of_breach: "2017-03-01"
+date_of_disclosure: "2019-05-24"
+date_of_customer_notification: "2019-05-24"
+category: "data-leak"
+initial_attack_vector: "Insecure Direct Object Reference (IDOR) in First American's EaglePro web application — any authenticated user with a valid document link could increment a sequential numeric document ID in the URL to access any other document without authorization; vulnerability exploitable by any logged-in user without special privileges"
+cve: []
+vendor_product: "First American EaglePro web application"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "First American Financial Corporation, one of the largest title insurance and real estate settlement services providers in the United States, had an IDOR (Insecure Direct Object Reference) vulnerability in its EaglePro document portal that exposed approximately 885 million real estate document images, some dating back to 2003. Documents contained highly sensitive information including Social Security numbers, bank account numbers and statements, mortgage records, wire transfer receipts, driver's licenses, and tax records. The vulnerability was discovered by a real estate developer who shared the finding with cybersecurity journalist Brian Krebs; Krebs reported the story on May 24, 2019. The company had been internally aware of the vulnerability since at least January 2019 — a security team scan had flagged it as a 'serious/level 3' deficiency — but failed to remediate it for months. The SEC launched an enforcement action based on this failure to act on a known vulnerability combined with inadequate disclosure to investors. In June 2021, the SEC fined First American $487,616 — a figure widely criticized as inadequate given the scale of exposure. New York DFS fined an additional $1 million. This exposure is entirely separate from the December 2023 LockBit ransomware attack on First American Financial, which is documented separately in this repository. The IDOR case became a landmark example in both web application security education and SEC cybersecurity disclosure enforcement."

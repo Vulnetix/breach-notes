@@ -1,0 +1,13 @@
+source_name: "Aetna HIV Medication Mailing Breach (11,887 Patients, $17M Settlement)"
+source_url: "https://www.statnews.com/2017/08/24/aetna-hiv-envelopes/"
+date_of_breach: "2017-07-28"
+date_of_disclosure: "2017-08-25"
+date_of_customer_notification: "2017-08-25"
+category: "data-leak"
+initial_attack_vector: "Vendor mailing error — a third-party mailing vendor used envelopes with an oversized clear window cutout that allowed the letter body text (which referenced HIV medications by name) to be visible through the envelope without opening it, disclosing members' HIV status to anyone who handled the mailing"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In late July 2017, Aetna mailed letters to approximately 11,887 members nationwide regarding a court-ordered change to HIV prescription coverage policy (members were being notified they could obtain HIV medication through retail pharmacies rather than mail-order only). The letters were sent by a third-party mailing vendor using window envelopes with oversized clear cutout windows — large enough to reveal the text of the letter body, which prominently referenced 'HIV medication' by name. This exposed the members' HIV-positive status to mail carriers, roommates, family members, and anyone who handled the envelope without the recipient opening it. The breach affected 1,991 members in California and others nationwide. A class action lawsuit was filed; Aetna settled for $17.16 million in 2018. The Office for Civil Rights (HHS OCR) assessed a $1 million HIPAA penalty against Aetna in 2018 covering this incident and two other 2017 Aetna breaches (a separate web portal exposure and a research mailing issue). The California Attorney General settled for $935,000. Additional state penalties in New Jersey, Connecticut, and Washington D.C. totaled approximately $640,000. Total penalties and settlements exceeded $20 million. The incident highlighted that HIPAA breaches need not involve cyberattacks — improper disclosure through physical mail and vendor errors can expose highly sensitive health information with significant consequences."

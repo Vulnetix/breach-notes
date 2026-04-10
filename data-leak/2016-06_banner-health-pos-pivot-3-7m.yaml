@@ -1,0 +1,13 @@
+source_name: "Banner Health POS Pivot to Patient Database Breach (3.7M Individuals)"
+source_url: "https://www.bankinfosecurity.com/banner-health-a-9304"
+date_of_breach: "2016-06-17"
+date_of_disclosure: "2016-08-03"
+date_of_customer_notification: "2016-08-03"
+category: "data-leak"
+initial_attack_vector: "Attackers first compromised Banner Health's food and beverage payment processing systems (POS attack at hospital dining locations) on June 17, 2016, then used that foothold to pivot laterally into Banner's healthcare IT network to access patient, member, and provider databases"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "POS malware"
+supply_chain_claimed: false
+notes: "Banner Health, a Phoenix, Arizona-based nonprofit hospital system operating 28 hospitals and numerous clinics across seven western states, disclosed on August 3, 2016 that it had suffered the largest US healthcare data breach of 2016. Attackers first compromised the payment card processing systems at food and beverage outlet POS terminals at 27 of Banner Health's dining/food service locations between June 23 and July 7, 2016, stealing payment card data. Using their foothold in the POS environment, attackers then pivoted laterally into Banner's healthcare network systems, accessing a separate database containing information on approximately 3.7 million individuals — including patients, health plan members, physicians, and food/beverage customers. Patient and member data exposed included names, dates of birth, addresses, physicians' names, dates of service, health insurance information, Social Security numbers, and claims information. The payment card component (POS malware) also exposed cardholder names, card numbers, expiration dates, and CVVs for those who used payment cards at food service outlets during the affected period. In 2023, HHS OCR settled with Banner Health for $1.25 million over HIPAA Security Rule violations identified during the investigation. The dual-vector nature of the attack (POS pivot into clinical data) was notable and mirrored tactics later seen in other healthcare breaches."

@@ -1,0 +1,13 @@
+source_name: "21st Century Oncology FBI-Notified Breach (2.2M Patients, $2.3M HIPAA Fine)"
+source_url: "https://www.hipaajournal.com/21st-century-oncology-2-2-million-hacking-incident-3346/"
+date_of_breach: "2015-10-03"
+date_of_disclosure: "2016-03-04"
+date_of_customer_notification: "2016-03-04"
+category: "data-leak"
+initial_attack_vector: "External attacker gained unauthorized access to 21st Century Oncology's patient database; on November 13, 2015 the FBI notified the company that a hacker had illegally obtained data from their systems; exact initial access vector not publicly disclosed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "21st Century Oncology, the largest integrated cancer care provider in the United States at the time (operating 180+ locations in 17 states plus international), suffered a database intrusion on or about October 3, 2015. On November 13, 2015, the FBI contacted 21st Century Oncology to inform them that a hacker had illegally obtained patient data from their systems. 21st Century Oncology delayed public notification for approximately 5 months at law enforcement's request while the criminal investigation proceeded, only disclosing in March 2016. Approximately 2.2 million current and former patients were affected. Exposed data included names, Social Security numbers, physicians' names, diagnoses, treatment information, insurance information, and bank account information. In April 2017, HHS OCR settled with 21st Century Oncology for $2.3 million for HIPAA violations including failure to conduct a thorough enterprise-wide risk analysis and failure to implement security measures sufficient to reduce risks to ePHI to a reasonable level. In May 2017, 21st Century Oncology filed for Chapter 11 bankruptcy, citing breach-related costs as a contributing factor. The company later reached a $12.5 million class action settlement. The case illustrated how FBI notification of a breach — rather than self-discovery — coupled with a notification delay for law enforcement reasons could still result in significant regulatory penalties."

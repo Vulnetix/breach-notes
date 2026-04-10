@@ -1,0 +1,13 @@
+source_name: "IRS 'Get Transcript' Breach — SSN-Based Account Takeover (100K+ Taxpayer Accounts)"
+source_url: "https://www.irs.gov/newsroom/irs-statement-on-the-get-transcript-application"
+date_of_breach: "2015-01-01"
+date_of_disclosure: "2015-05-26"
+date_of_customer_notification: "2015-05-26"
+category: "credential-theft"
+initial_attack_vector: "Attackers used stolen personally identifiable information (SSNs, dates of birth, tax filing status, and street addresses — likely from prior third-party breaches) to pass the IRS 'Get Transcript' online application's knowledge-based authentication questions and access prior-year tax transcripts"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between January and May 2015, sophisticated cybercriminals exploited the IRS 'Get Transcript' web application to access prior-year tax return transcripts for over 100,000 taxpayers. The attackers did not hack the IRS directly; instead, they already possessed stolen PII (Social Security numbers, dates of birth, filing status, street addresses) from other sources and used it to pass the application's knowledge-based authentication (KBA) security questions — the type of 'out-of-wallet' questions about prior addresses, loan amounts, etc. The IRS initially disclosed approximately 100,000 successful unauthorized accesses, but later revised the total upward: a May 2015 disclosure covered ~104,000 accounts, a subsequent August 2015 update added ~220,000 more potentially compromised accounts, for a total of approximately 334,000 taxpayers whose transcripts were accessed. An additional 281,000 failed access attempts were identified. The stolen transcripts contained W-2 income data, employer information, and other financial details that were used to file fraudulent tax returns and claim refunds. The IRS took the 'Get Transcript' application offline in May 2015 and relaunched it with stronger authentication in 2016. The incident highlighted the danger of using static KBA questions when adversaries already possess large stores of breached PII."

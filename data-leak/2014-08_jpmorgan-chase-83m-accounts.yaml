@@ -1,0 +1,13 @@
+source_name: "JPMorgan Chase Breach — 83 Million Accounts (Russia-Linked)"
+source_url: "https://www.nytimes.com/2014/10/03/technology/hackers-lurked-in-jpmorgan-network-for-months.html"
+date_of_breach: "2014-06-01"
+date_of_disclosure: "2014-10-02"
+date_of_customer_notification: "2014-10-02"
+category: "data-leak"
+initial_attack_vector: "Attackers exploited a missed security upgrade on a single JPMorgan server — a bank employee had forgotten to enable two-factor authentication on one web application server — allowing the attackers to obtain a root-level list of applications and servers, then pivot to over 90 bank servers"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2014, a sophisticated hacking group breached JPMorgan Chase's network and maintained access until it was discovered approximately in August 2014. The attackers accessed data on approximately 76 million households and 7 million small businesses (83 million total account holders), making it one of the largest financial institution breaches on record. Exposed data included contact information — names, addresses, phone numbers, email addresses — but notably did not include Social Security numbers, account numbers, passwords, or financial information. JPMorgan reported no evidence of fraud resulting directly from the breach. The initial entry point was a single server that had not been upgraded to two-factor authentication, despite a bank-wide security initiative to do so. The attack was attributed by U.S. law enforcement to a group of Russian-speaking individuals: Gery Shalon, Joshua Samuel Aaron, and Ziv Orenstein, who were indicted in 2015 on charges including computer fraud. The breach was alleged to be part of a broader criminal operation involving market manipulation — the attackers used stolen contact information to run pump-and-dump stock schemes and operate illegal online casinos and payment processors. The case illustrated that sophisticated nation-state-quality tools could be wielded by financially motivated criminals and that a single misconfigured server could expose an entire enterprise network."

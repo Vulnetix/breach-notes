@@ -1,0 +1,13 @@
+source_name: "Air India SITA Passenger Service System Breach — 4.5 Million Passengers"
+source_url: "https://www.airindia.com/content/dam/air-india/images/media-room/Media-Advisory-260521.pdf"
+date_of_breach: "2021-02-26"
+date_of_disclosure: "2021-05-21"
+date_of_customer_notification: "2021-05-21"
+category: "supply-chain"
+initial_attack_vector: "SITA Passenger Service System (PSS) — a third-party aviation IT infrastructure provider serving 90% of the world's airlines — was breached by an unknown attacker; the breach affected airline passenger data stored on SITA's servers; multiple airlines' passenger data was compromised through the single SITA breach"
+cve: []
+vendor_product: "SITA Passenger Service System (third-party aviation IT provider)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On 26 February 2021, SITA — the world's leading IT provider to the air transport industry, serving approximately 90% of international airlines — disclosed that its Passenger Service System (PSS) had been subjected to a data security incident involving passenger data. Air India was among the most severely affected airlines: approximately 4.5 million Air India passengers' data was exposed. Air India disclosed the breach on 21 May 2021 — approximately three months after the SITA breach occurred. Exposed data included name, date of birth, contact information, passport information, ticket information, Star Alliance and Air India Flying Returns frequent flyer data, and credit card data. Air India stated it had no indication that credit card data had been misused. Other airlines affected by the SITA breach included Singapore Airlines, Finnair, Jeju Air, Japan Airlines, and Malaysia Airlines — whose members' frequent flyer data was also exposed through SITA's systems. The three-month delay between SITA's initial notification to airlines and Air India's public disclosure drew criticism. The breach demonstrated the extreme supply chain concentration risk in the aviation sector, where a single IT provider handles passenger data for the vast majority of the world's airlines."

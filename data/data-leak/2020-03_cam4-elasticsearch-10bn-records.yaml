@@ -1,0 +1,13 @@
+source_name: "CAM4 Adult Streaming Elasticsearch Exposure — 10.88 Billion Records"
+source_url: "https://www.safetydetectives.com/blog/cam4-data-breach/"
+date_of_breach: "2020-03-01"
+date_of_disclosure: "2020-03-16"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Safety Detectives researchers discovered a publicly accessible Elasticsearch database belonging to CAM4 — an adult livestreaming platform — that exposed an enormous production database with billions of records without any authentication"
+cve: []
+vendor_product: "CAM4 (Granity Entertainment) Elasticsearch database"
+software_package: "Elasticsearch"
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2020, Safety Detectives researchers discovered a publicly accessible Elasticsearch database belonging to CAM4 — a popular adult livestreaming platform operated by Irish company Granity Entertainment — containing approximately 10.88 billion records totaling 7 terabytes. This is one of the largest database exposures ever recorded. The database was a production server (not a backup or test environment). Exposed data included: email addresses, full names, sexual orientation, gender, IP addresses, country of origin, payment logs, authentication tokens, partial credit card numbers, and fraud detection logs. The data exposed the private sexual preferences and identities of millions of users, creating severe privacy and safety risks including blackmail potential. Granity/CAM4 secured the database within 30 minutes of being notified. However, because the data included sexual orientation information for users who may not have disclosed this publicly, the exposure created unique risks — particularly for users in countries where homosexuality is criminalised. The enormous volume (10.88 billion records) reflected the platform's logging practices for fraud detection and analytics. The exposure also included email addresses for several hundred thousand .gov and .mil (US government and military) domains, raising security concerns. The case illustrated how adult content platforms holding sensitive preference data present particularly severe risks when misconfigured."

@@ -1,0 +1,13 @@
+source_name: "OPM Personnel Files Breach (4.2M Federal Employees) — Earlier Intrusion Disclosed June 2015"
+source_url: "https://www.washingtonpost.com/world/national-security/opm-hack-far-more-extensive-than-first-acknowledged/2015/07/09/216aff20-25ee-11e5-b621-b55e495b9b0c_story.html"
+date_of_breach: "2014-03-01"
+date_of_disclosure: "2015-06-04"
+date_of_customer_notification: "2015-06-04"
+category: "data-leak"
+initial_attack_vector: "Chinese state-sponsored attackers (APT3/Gothic Panda, potentially distinct from the APT10 intrusion responsible for the SF-86 clearance breach) gained access to OPM's personnel records system; the initial vector involved stolen credentials, with attackers using the PlugX RAT for persistence"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "PlugX RAT"
+supply_chain_claimed: false
+notes: "The OPM breach disclosed in June 2015 actually comprised two distinct intrusions. This earlier intrusion — dating to approximately March 2014 or possibly as early as late 2013 — targeted OPM's personnel data systems and compromised records for approximately 4.2 million current and former federal government employees. The attackers used PlugX malware (a remote access trojan commonly associated with Chinese threat actors) to maintain persistence. Exposed data included names, Social Security numbers, dates and places of birth, job assignments, performance ratings, and training records. This intrusion was discovered in April 2015 during a network security improvement project. A separate, later intrusion by different Chinese actors (APT10) compromised the SF-86 security clearance background investigation files for 21.5 million individuals (see: 2015-06_opm-security-clearance-breach.yaml). The two intrusions were investigated separately but were both attributed to Chinese intelligence services. The personnel file breach was disclosed first (June 4, 2015), with the much larger and more sensitive SF-86 breach disclosed a month later (July 9, 2015). The existence of two simultaneous long-running intrusions by potentially distinct Chinese APT groups demonstrated the severity of OPM's security posture failures."

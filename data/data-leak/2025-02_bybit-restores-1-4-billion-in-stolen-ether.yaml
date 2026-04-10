@@ -1,0 +1,18 @@
+source_name: Bybit Restores $1.4 Billion in Stolen Ether (DataBreachToday)
+source_url: https://www.databreachtoday.com/bybit-restores-14-billion-in-stolen-ether-a-27586
+date_of_breach: '2025-02-24'
+date_of_disclosure: '2025-02-24'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Hacked crypto exchange Bybit replenished the $1.4 billion in Ether stolen
+  days ago, CEO Ben Zhou said Monday. A new proof-of-reserves audit will confirm that
+  client
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: US Sanctions Iran-Based Nemesis Admin (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-us-sanctions-iran-based-nemesis-admin-a-27663
+date_of_breach: '2025-03-06'
+date_of_disclosure: '2025-03-06'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, the U.S. sanctioned the Nemesis admin, Poco RAT spotted in Latin
+  America, Apple challenged a British order to weaken encryption and the FBI warned
+
+
+  Source: DataBreachToday article coverage.'

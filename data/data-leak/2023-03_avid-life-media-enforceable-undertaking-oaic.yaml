@@ -1,0 +1,22 @@
+source_name: 'Avid Life Media: enforceable undertaking (OAIC Investigation)'
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/avid-life-media-enforceable-undertaking
+date_of_breach: '2023-03-10'
+date_of_disclosure: '2023-03-10'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: See OAIC investigation report
+cve: []
+vendor_product: 'Avid Life Media: enforceable undertaking'
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Enforceable undertaking Under s 33E of the Privacy Act 1988 (Cth) This undertaking
+  is offered to the Australian Information Commissioner by: Avid Life Media Inc. (ALM)
+  (trading as Ruby Corp.) 20 Eglington Avenue West, Suite 1200, Toronto, ON M4R 1K8,
+  Canada ALM offers this enforceable undertaking under s 33E of the Privacy Act 1988
+  (Cth) to address the Commissioner’s concerns identified in a joint investigation
+  commenced by the Office of the Privacy Commissioner of Canada and the Office of
+  the Australian Information Commissioner (OAIC) on 21 August 2015.
+
+
+  Source: OAIC Investigation Report — https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/avid-life-media-enforceable-undertaking'

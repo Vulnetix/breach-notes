@@ -1,0 +1,18 @@
+source_name: Blue Cross and Blue Shield of Texas HIPAA Breach Notification (2025-04)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-04-13'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access or disclosure (Other)
+cve: []
+vendor_product: Blue Cross and Blue Shield of Texas
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Blue Cross and Blue Shield of Texas (IL), a Health Plan, submitted a HIPAA
+  breach notification to the HHS Office for Civil Rights (OCR) on 2025-04-13 for a
+  breach affecting 12086 individuals. Breach type: Unauthorized Access/Disclosure.
+  Information location: Other. Source: HHS OCR Breach Portal (HIPAA Breach Notification
+  Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected
+  health information (PHI) affecting 500 or more individuals.'

@@ -1,0 +1,18 @@
+source_name: Two Ransomware Hacks Affect 1.1 Million Patients (DataBreachToday)
+source_url: https://www.databreachtoday.com/two-ransomware-hacks-affect-11-million-patients-a-28091
+date_of_breach: '2025-04-25'
+date_of_disclosure: '2025-04-25'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Two separate ransomware hacks of a Maryland medical group and a California
+  hospital resulted in data thefts affecting more than 1.1 million patients, according
+  to
+
+
+  Source: DataBreachToday article coverage.'

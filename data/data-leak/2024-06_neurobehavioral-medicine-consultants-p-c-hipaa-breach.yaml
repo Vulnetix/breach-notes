@@ -1,0 +1,19 @@
+source_name: Neurobehavioral Medicine Consultants, P.C. HIPAA Breach Notification
+  (2024-06)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2024-06-14'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Hacking/IT incident targeting network server infrastructure
+cve: []
+vendor_product: Neurobehavioral Medicine Consultants, P.C.
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Neurobehavioral Medicine Consultants, P.C. (OH), a Healthcare Provider, submitted
+  a HIPAA breach notification to the HHS Office for Civil Rights (OCR) on 2024-06-14
+  for a breach affecting 18182 individuals. Breach type: Hacking/IT Incident. Information
+  location: Network Server. Source: HHS OCR Breach Portal (HIPAA Breach Notification
+  Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected
+  health information (PHI) affecting 500 or more individuals.'

@@ -1,0 +1,17 @@
+source_name: Insurer Notifying 335,500 Customers, Agents, Others of Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/insurer-notifying-335500-customers-agents-others-hack-a-27733
+date_of_breach: '2025-03-14'
+date_of_disclosure: '2025-03-14'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Texas-based insurance firm is notifying more than 335,500 people of a December
+  hack involving their sensitive personal and health information. The breach affects
+
+
+  Source: DataBreachToday article coverage.'

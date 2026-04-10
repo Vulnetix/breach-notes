@@ -1,0 +1,25 @@
+source_name: 'Meta Platforms, Inc.: enforceable undertaking (OAIC Investigation)'
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/meta-platforms-inc-enforceable-undertaking
+date_of_breach: '2024-12-17'
+date_of_disclosure: '2024-12-17'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: See OAIC investigation report
+cve: []
+vendor_product: 'Meta Platforms, Inc.: enforceable undertaking'
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: '1.1. This enforceable undertaking is given by Meta Platforms, Inc. ( Meta
+  ) to the Australian Information Commissioner ( Commissioner ) under section 114
+  of the Regulatory Powers (Standard Provisions) Act 2014 ( Regulatory Powers Act
+  ) in conjunction with the discontinuance of Federal Court of Australia Proceeding
+  No NSD 246 of 2020 (the Civil Penalty Proceedings ) against all Respondents, on
+  a without prejudice basis and without any admission of liability. The Civil Penalty
+  Proceedings followed investigations by the OAIC concerning the Cambridge Analytica
+  Incident, the facts of which are described below together with a background to the
+  Civil Penalty Proceedings. 1.2. Meta offers this enforceable undertaking in its
+  capacity as the provider of the Facebook service to users in Australia fro
+
+
+  Source: OAIC Investigation Report — https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/meta-platforms-inc-enforceable-undertaking'

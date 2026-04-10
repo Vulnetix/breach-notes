@@ -1,0 +1,18 @@
+source_name: Deer Oaks Behavioral Health HIPAA Breach Notification (2024-07)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2024-07-31'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Hacking/IT incident targeting network server infrastructure
+cve: []
+vendor_product: Deer Oaks Behavioral Health
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Deer Oaks Behavioral Health (TX), a Healthcare Provider, submitted a HIPAA
+  breach notification to the HHS Office for Civil Rights (OCR) on 2024-07-31 for a
+  breach affecting 171871 individuals. Breach type: Hacking/IT Incident. Information
+  location: Network Server. Source: HHS OCR Breach Portal (HIPAA Breach Notification
+  Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected
+  health information (PHI) affecting 500 or more individuals.'

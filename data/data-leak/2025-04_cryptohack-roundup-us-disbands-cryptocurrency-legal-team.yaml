@@ -1,0 +1,18 @@
+source_name: 'Cryptohack Roundup: US Disbands Cryptocurrency Legal Team (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-us-disbands-cryptocurrency-legal-team-a-27968
+date_of_breach: '2025-04-10'
+date_of_disclosure: '2025-04-10'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Trump administration disbanded a Justice crypto unit, the U.S.
+  Securities and Exchange Commission will review crypto guidance, Usual pledged up
+  to $16M
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,25 @@
+source_name: MBS/PBS data publication (OAIC Investigation)
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/mbspbs-data-publication
+date_of_breach: '2018-03-23'
+date_of_disclosure: '2018-03-23'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: See OAIC investigation report
+cve: []
+vendor_product: MBS/PBS data publication
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Download the print version On 1 August 2016, the Department of Health published
+  on data.gov.au a collection of Medicare Benefits Schedule and Pharmaceutical Benefits
+  Schedule related data. The data consisted of claims information for a 10% sample
+  of people who had made a claim for payment of Medicare Benefits since 1984, or for
+  payment of Pharmaceutical Benefits since 2003. The Department of Health knew that
+  this data would be extremely valuable for medical research and policy development
+  purposes. It appears that the Department’s decision to release the data was made
+  in good faith for the public interest, on an understanding that the privacy interests
+  of all relevant individuals had been protected. A range of steps were taken by the
+  Department of Health to de-identify the dataset before i
+
+
+  Source: OAIC Investigation Report — https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/mbspbs-data-publication'

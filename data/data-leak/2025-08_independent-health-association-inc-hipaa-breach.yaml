@@ -1,0 +1,18 @@
+source_name: Independent Health Association, Inc. HIPAA Breach Notification (2025-08)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-08-22'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access or disclosure (Other)
+cve: []
+vendor_product: Independent Health Association, Inc.
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Independent Health Association, Inc. (NY), a Health Plan, submitted a HIPAA
+  breach notification to the HHS Office for Civil Rights (OCR) on 2025-08-22 for a
+  breach affecting 637 individuals. Breach type: Unauthorized Access/Disclosure. Information
+  location: Other. Source: HHS OCR Breach Portal (HIPAA Breach Notification Rule,
+  45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected health
+  information (PHI) affecting 500 or more individuals.'

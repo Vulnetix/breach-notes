@@ -1,0 +1,17 @@
+source_name: Check Point Breach 'Very Pinpointed Event' (DataBreachToday)
+source_url: https://www.databreachtoday.com/check-point-breach-very-pinpointed-event-a-27887
+date_of_breach: '2025-03-31'
+date_of_disclosure: '2025-03-31'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Israeli cybersecurity firm Check Point rejected Monday a hacker''s assertion
+  that he stole &quot;highly sensitive&quot; information offered for sale on an online
+
+
+  Source: DataBreachToday article coverage.'

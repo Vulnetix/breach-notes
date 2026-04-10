@@ -1,0 +1,20 @@
+source_name: Public Health Trust of Miami Dade County DBA Jackson Health System HIPAA
+  Breach Notification (2025-06)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-06-06'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access or disclosure (Electronic Medical Record)
+cve: []
+vendor_product: Public Health Trust of Miami Dade County DBA Jackson Health System
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Public Health Trust of Miami Dade County DBA Jackson Health System (FL), a
+  Healthcare Provider, submitted a HIPAA breach notification to the HHS Office for
+  Civil Rights (OCR) on 2025-06-06 for a breach affecting 2599 individuals. Breach
+  type: Unauthorized Access/Disclosure. Information location: Electronic Medical Record.
+  Source: HHS OCR Breach Portal (HIPAA Breach Notification Rule, 45 CFR §164.400–414).
+  The OCR portal lists all breaches of unsecured protected health information (PHI)
+  affecting 500 or more individuals.'

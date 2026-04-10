@@ -1,0 +1,17 @@
+source_name: Accounting Firm Notifying 217,000 of Health Data Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/accounting-firm-notifying-217000-health-data-hack-a-27741
+date_of_breach: '2025-03-17'
+date_of_disclosure: '2025-03-17'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A certified public accounting firm that provides services to labor unions,
+  non-profits and other organizations for employee benefit plans is notifying nearly
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,20 @@
+source_name: North Penn Comprehensive Health Services d.b.a Laurel Health Centers
+  HIPAA Breach Notification (2025-09)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-09-12'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Phishing or business email compromise targeting healthcare
+  email accounts
+cve: []
+vendor_product: North Penn Comprehensive Health Services d.b.a Laurel Health Centers
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'North Penn Comprehensive Health Services d.b.a Laurel Health Centers (PA),
+  a Healthcare Provider, submitted a HIPAA breach notification to the HHS Office for
+  Civil Rights (OCR) on 2025-09-12 for a breach affecting 991 individuals. Breach
+  type: Hacking/IT Incident. Information location: Email. Source: HHS OCR Breach Portal
+  (HIPAA Breach Notification Rule, 45 CFR §164.400–414). The OCR portal lists all
+  breaches of unsecured protected health information (PHI) affecting 500 or more individuals.'

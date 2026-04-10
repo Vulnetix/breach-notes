@@ -1,0 +1,19 @@
+source_name: Health and Hospital Corporation of Marion County HIPAA Breach Notification
+  (2026-01)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2026-01-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access or disclosure (Email, Laptop)
+cve: []
+vendor_product: Health and Hospital Corporation of Marion County
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Health and Hospital Corporation of Marion County (IN), a Healthcare Provider,
+  submitted a HIPAA breach notification to the HHS Office for Civil Rights (OCR) on
+  2026-01-30 for a breach affecting 792 individuals. Breach type: Unauthorized Access/Disclosure.
+  Information location: Email, Laptop. Source: HHS OCR Breach Portal (HIPAA Breach
+  Notification Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured
+  protected health information (PHI) affecting 500 or more individuals.'

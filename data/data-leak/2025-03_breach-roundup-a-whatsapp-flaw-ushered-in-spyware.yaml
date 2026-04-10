@@ -1,0 +1,18 @@
+source_name: 'Breach Roundup: A WhatsApp Flaw Ushered in Spyware (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-whatsapp-flaw-ushered-in-spyware-a-27786
+date_of_breach: '2025-03-20'
+date_of_disclosure: '2025-03-20'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Paragon Solutions spread through WhatsApp, France suspended Pavel
+  Durov''s travel ban, Vapor malware hit 60M Android users, state-backed hackers exploit
+  a
+
+
+  Source: DataBreachToday article coverage.'

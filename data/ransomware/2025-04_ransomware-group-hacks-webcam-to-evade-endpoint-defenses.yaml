@@ -1,0 +1,17 @@
+source_name: Ransomware Group Hacks Webcam to Evade Endpoint Defenses (DataBreachToday)
+source_url: https://www.databreachtoday.com/ransomware-group-hacks-webcam-to-evade-endpoint-defenses-a-28078
+date_of_breach: '2025-04-25'
+date_of_disclosure: '2025-04-25'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Top-flight ransomware groups remain relentless in their quest to find &quot;really
+  creative&quot; ways to bypass security defenses to crypto-lock their victims, as
+
+
+  Source: DataBreachToday article coverage.'

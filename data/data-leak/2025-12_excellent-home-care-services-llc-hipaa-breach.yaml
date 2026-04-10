@@ -1,0 +1,19 @@
+source_name: Excellent Home Care Services, LLC HIPAA Breach Notification (2025-12)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-12-17'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Phishing or business email compromise targeting healthcare
+  email accounts
+cve: []
+vendor_product: Excellent Home Care Services, LLC
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Excellent Home Care Services, LLC (NY), a Healthcare Provider, submitted a
+  HIPAA breach notification to the HHS Office for Civil Rights (OCR) on 2025-12-17
+  for a breach affecting 16278 individuals. Breach type: Hacking/IT Incident. Information
+  location: Email. Source: HHS OCR Breach Portal (HIPAA Breach Notification Rule,
+  45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected health
+  information (PHI) affecting 500 or more individuals.'

@@ -1,0 +1,18 @@
+source_name: Cumberland County Hospital Association HIPAA Breach Notification (2025-06)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-06-02'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Hacking/IT incident (Other)
+cve: []
+vendor_product: Cumberland County Hospital Association
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Cumberland County Hospital Association (KY), a Healthcare Provider, submitted
+  a HIPAA breach notification to the HHS Office for Civil Rights (OCR) on 2025-06-02
+  for a breach affecting 36659 individuals. Breach type: Hacking/IT Incident. Information
+  location: Other. Source: HHS OCR Breach Portal (HIPAA Breach Notification Rule,
+  45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected health
+  information (PHI) affecting 500 or more individuals.'

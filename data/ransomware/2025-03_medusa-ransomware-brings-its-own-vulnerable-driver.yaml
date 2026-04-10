@@ -1,0 +1,17 @@
+source_name: Medusa Ransomware Brings Its Own Vulnerable Driver (DataBreachToday)
+source_url: https://www.databreachtoday.com/medusa-ransomware-brings-its-own-vulnerable-driver-a-27813
+date_of_breach: '2025-03-24'
+date_of_disclosure: '2025-03-24'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Russian-speaking ransomware group has been deploying a malicious Windows
+  PE driver that imitates a legitimate CrowdStrike Falcon driver to bypass endpoint
+
+
+  Source: DataBreachToday article coverage.'

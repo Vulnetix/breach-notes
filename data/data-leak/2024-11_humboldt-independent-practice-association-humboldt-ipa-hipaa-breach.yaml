@@ -1,0 +1,20 @@
+source_name: Humboldt Independent Practice Association (Humboldt IPA) HIPAA Breach
+  Notification (2024-11)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2024-11-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Phishing or business email compromise targeting healthcare
+  email accounts
+cve: []
+vendor_product: Humboldt Independent Practice Association (Humboldt IPA)
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Humboldt Independent Practice Association (Humboldt IPA) (CA), a Healthcare
+  Provider, submitted a HIPAA breach notification to the HHS Office for Civil Rights
+  (OCR) on 2024-11-11 for a breach affecting 500 individuals. Breach type: Hacking/IT
+  Incident. Information location: Email. Source: HHS OCR Breach Portal (HIPAA Breach
+  Notification Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured
+  protected health information (PHI) affecting 500 or more individuals.'

@@ -1,0 +1,24 @@
+source_name: Optus Data Breach — 9.8 Million Customers (2022)
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions
+date_of_breach: '2022-09-22'
+date_of_disclosure: '2022-09-22'
+category: data-leak
+initial_attack_vector: Unauthenticated API endpoint on a developer/test environment
+  exposed customer PII without authentication; attacker queried sequentially to exfiltrate
+  9.8 million records
+cve: []
+vendor_product: Optus (Singtel subsidiary)
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: In September 2022, Optus — Australia's second-largest telecommunications provider
+  — suffered a massive data breach exposing personal information of 9.8 million current
+  and former customers. An unauthenticated API endpoint on a developer environment,
+  accessible from the public internet, allowed an attacker to iterate through customer
+  records without authentication. Exposed data included names, dates of birth, phone
+  numbers, email addresses, home addresses, and government identity document numbers
+  (passport, driver's licence, Medicare numbers). The attacker initially demanded
+  AUD $1 million in Monero ransom before releasing 10,200 records publicly and then
+  deleting the demand. OAIC opened a formal investigation. The Australian government
+  subsequently changed laws to allow telcos to share breach data with banks. Optus
+  paid AUD $140 million in legal settlements and remediation costs.

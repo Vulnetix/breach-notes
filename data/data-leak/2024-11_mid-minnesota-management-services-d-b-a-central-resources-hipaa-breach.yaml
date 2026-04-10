@@ -1,0 +1,20 @@
+source_name: Mid-Minnesota Management Services d/b/a Central Resources HIPAA Breach
+  Notification (2024-11)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2024-11-08'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access or disclosure (Other)
+cve: []
+vendor_product: Mid-Minnesota Management Services d/b/a Central Resources
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Mid-Minnesota Management Services d/b/a Central Resources (IL), a Business
+  Associate, submitted a HIPAA breach notification to the HHS Office for Civil Rights
+  (OCR) on 2024-11-08 for a breach affecting 1232 individuals. Breach type: Unauthorized
+  Access/Disclosure. Information location: Other. This was reported by a Business
+  Associate on behalf of a covered entity. Source: HHS OCR Breach Portal (HIPAA Breach
+  Notification Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured
+  protected health information (PHI) affecting 500 or more individuals.'

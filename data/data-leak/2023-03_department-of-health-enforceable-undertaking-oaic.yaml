@@ -1,0 +1,17 @@
+source_name: 'Department of Health: enforceable undertaking (OAIC Investigation)'
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/department-of-health-enforceable-undertaking
+date_of_breach: '2023-03-10'
+date_of_disclosure: '2023-03-10'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: See OAIC investigation report
+cve: []
+vendor_product: 'Department of Health: enforceable undertaking'
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Privacy Act 1988 Undertaking to the Australian Information Commissioner under
+  section 33E of the Privacy Act 1988 by Department of Health ABN 83 605 426 759
+
+
+  Source: OAIC Investigation Report — https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/department-of-health-enforceable-undertaking'

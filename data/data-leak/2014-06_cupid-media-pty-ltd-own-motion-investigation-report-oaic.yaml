@@ -1,0 +1,25 @@
+source_name: 'Cupid Media Pty Ltd: own motion investigation report (OAIC Investigation)'
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/cupid-media-pty-ltd-own-motion-investigation-report
+date_of_breach: '2014-06-01'
+date_of_disclosure: '2014-06-01'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: See OAIC investigation report
+cve: []
+vendor_product: 'Cupid Media Pty Ltd: own motion investigation report'
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Cupid Media Pty Ltd (Cupid) operates over 35 niche dating websites based on
+  personal profile including ethnicity, religion and location. On 13 December 2013,
+  the Australian Privacy Commissioner (the Commissioner) opened an own motion investigation
+  into Cupid. This was in response to media allegations that personal information
+  of Cupid users had been acquired by unauthorised persons, and were found on a server
+  operated by hackers, which Cupid confirmed. The Commissioner’s investigation focused
+  on whether Cupid took reasonable steps to protect user information from misuse,
+  loss, unauthorised access, modification or disclosure. [1] After considering the
+  facts of the case, submissions from Cupid and the relevant provisions of the Privacy
+  Act 1988 (Cth), the Commissioner came to the view that C
+
+
+  Source: OAIC Investigation Report — https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/cupid-media-pty-ltd-own-motion-investigation-report'

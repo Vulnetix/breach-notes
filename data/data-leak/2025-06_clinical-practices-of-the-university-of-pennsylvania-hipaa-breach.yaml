@@ -1,0 +1,19 @@
+source_name: Clinical Practices of the University of Pennsylvania HIPAA Breach Notification
+  (2025-06)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-06-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access or disclosure (Paper/Films)
+cve: []
+vendor_product: Clinical Practices of the University of Pennsylvania
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Clinical Practices of the University of Pennsylvania (PA), a Healthcare Provider,
+  submitted a HIPAA breach notification to the HHS Office for Civil Rights (OCR) on
+  2025-06-30 for a breach affecting 1432 individuals. Breach type: Unauthorized Access/Disclosure.
+  Information location: Paper/Films. Source: HHS OCR Breach Portal (HIPAA Breach Notification
+  Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected
+  health information (PHI) affecting 500 or more individuals.'

@@ -1,0 +1,17 @@
+source_name: Will DOGE Access to CMS Data Lead to HIPAA Breaches? (DataBreachToday)
+source_url: https://www.databreachtoday.com/will-doge-access-to-cms-data-lead-to-hipaa-breaches-a-27463
+date_of_breach: '2025-02-06'
+date_of_disclosure: '2025-02-06'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Privacy experts are keeping a nervous eye on the potential for compromises
+  involving Americans'' health and personal information resulting from the White House''s
+
+
+  Source: DataBreachToday article coverage.'

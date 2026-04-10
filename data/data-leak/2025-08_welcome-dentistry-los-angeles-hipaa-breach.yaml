@@ -1,0 +1,18 @@
+source_name: Welcome Dentistry-Los Angeles HIPAA Breach Notification (2025-08)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-08-13'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Hacking/IT incident targeting network server infrastructure
+cve: []
+vendor_product: Welcome Dentistry-Los Angeles
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Welcome Dentistry-Los Angeles (CA), a Healthcare Provider, submitted a HIPAA
+  breach notification to the HHS Office for Civil Rights (OCR) on 2025-08-13 for a
+  breach affecting 1001 individuals. Breach type: Hacking/IT Incident. Information
+  location: Network Server. Source: HHS OCR Breach Portal (HIPAA Breach Notification
+  Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected
+  health information (PHI) affecting 500 or more individuals.'

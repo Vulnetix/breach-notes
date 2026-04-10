@@ -1,0 +1,25 @@
+source_name: Report into preliminary inquiries of I-MED (OAIC Investigation)
+source_url: https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/report-into-preliminary-inquiries-of-i-med
+date_of_breach: '2025-07-31'
+date_of_disclosure: '2025-07-31'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: See OAIC investigation report
+cve: []
+vendor_product: Report into preliminary inquiries of I-MED
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'As artificial intelligence technologies advance and the practical and financial
+  barriers to their adoption and diffusion reduce, many entities are grappling with
+  legal and ethical questions. Although there is a live policy and regulatory debate
+  about how the development and use of AI should be regulated, it is also clear that
+  existing laws apply to AI technologies, and that regulated entities must ensure
+  that their use of AI adheres to their legal obligations. As the country’s privacy
+  regulator, the Office of the Australian Information Commissioner (OAIC) has been
+  unequivocal that the Privacy Act 1988 (Cth) (Privacy Act) applies to the collection,
+  use and disclosure of personal information to train AI models, just as it applies
+  to all uses of AI that involve personal information. While a n
+
+
+  Source: OAIC Investigation Report — https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/report-into-preliminary-inquiries-of-i-med'

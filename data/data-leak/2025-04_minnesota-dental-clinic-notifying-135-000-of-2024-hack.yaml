@@ -1,0 +1,18 @@
+source_name: Minnesota Dental Clinic Notifying 135,000 of 2024 Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/minnesota-dental-clinic-notifying-135000-2024-hack-a-28042
+date_of_breach: '2025-04-18'
+date_of_disclosure: '2025-04-18'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Minnesota''s largest nonprofit Medicaid dental practice is notifying nearly
+  135,000 people of a December 2024 data theft incident that potentially compromised
+  their
+
+
+  Source: DataBreachToday article coverage.'

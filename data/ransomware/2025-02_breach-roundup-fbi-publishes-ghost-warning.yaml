@@ -1,0 +1,18 @@
+source_name: 'Breach Roundup: FBI Publishes Ghost Warning (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-fbi-publishes-ghost-warning-a-27567
+date_of_breach: '2025-02-20'
+date_of_disclosure: '2025-02-20'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, a FBI warning on Ghost ransomware, Lee Enterprises confirmed its
+  ransomware attack, a proof of concept for Ivanti EPM flaws and a cybersecurity flaw
+  in a
+
+
+  Source: DataBreachToday article coverage.'

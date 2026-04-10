@@ -1,0 +1,19 @@
+source_name: Greater Pittsburgh Orthopaedics Associates HIPAA Breach Notification
+  (2025-08)
+source_url: https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+date_of_breach: ''
+date_of_disclosure: '2025-08-27'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Hacking/IT incident (Desktop Computer)
+cve: []
+vendor_product: Greater Pittsburgh Orthopaedics Associates
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Greater Pittsburgh Orthopaedics Associates (PA), a Healthcare Provider, submitted
+  a HIPAA breach notification to the HHS Office for Civil Rights (OCR) on 2025-08-27
+  for a breach affecting 35000 individuals. Breach type: Hacking/IT Incident. Information
+  location: Desktop Computer. Source: HHS OCR Breach Portal (HIPAA Breach Notification
+  Rule, 45 CFR §164.400–414). The OCR portal lists all breaches of unsecured protected
+  health information (PHI) affecting 500 or more individuals.'

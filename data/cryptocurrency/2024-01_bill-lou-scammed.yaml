@@ -1,0 +1,19 @@
+source_name: Tweet thread by Bill Lou
+source_url: https://twitter.com/BillLou95/status/1742098683133612370
+date_of_breach: '2024-01-02'
+date_of_disclosure: '2024-01-02'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: Bill Lou
+blockchain: ethereum
+financial_loss_usd: 125000
+notes: 'Bill Lou, the co-founder of a cryptocurrency wallet that claims to "revolutionize wallet security", was scammed out
+  of 52 stETH (~$125,000) when he clicked a link promising an airdrop for a project. However, he had fallen for a phishing
+  link that was prominently placed in Google search results, mimicking a real project but draining users'' wallets when they
+  authorized the transaction."I just got scammed out of $125k of stEth while trying to claim the $LFG airdrop. And I''m a
+  fking founder of a wallet startup that''s trying to improve wallet security..." wrote Lou on Twitter. "This is the first
+  time I''ve been scammed. I always read about others but you never think it could happen to you..." he wrote.If the founder
+  of a wallet security project can''t avoid scams in the crypto world, what hope do the rest of us have?
+
+
+  Total loss estimated at $125,000.'

@@ -1,0 +1,17 @@
+source_name: '"EigenLayer Says Unauthorized Selling Was an ''Isolated Incident'', But Critics Still Have Concerns"'
+source_url: https://decrypt.co/284903/eigenlayer-says-unauthorized-selling-was-an-isolated-incident-but-critics-still-have-concerns
+date_of_breach: '2024-10-04'
+date_of_disclosure: '2024-10-04'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: EIGEN token theft
+blockchain: ethereum
+financial_loss_usd: 3100000
+notes: 'Around 1.67 million EIGEN tokens belonging to an investor in the popular Ethereum-based EigenLayer project were stolen
+  after the investor was tricked into transferring the tokens into the attacker''s wallet. The thief then sold the tokens
+  for around $3.1 million, although the tokens were notionally worth around $5.5 million. Some of the stolen funds were later
+  frozen by centralized exchanges.After the incident, some questioned why the tokens had been sent to an investor without
+  a vesting contract, given they were supposed to be locked for a period of time to prevent sale.
+
+
+  Total loss estimated at $3,100,000.'

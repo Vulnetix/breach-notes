@@ -1,0 +1,22 @@
+source_name: '"Inside the Harmony spat over a bug that created $2.2m in tokens"'
+source_url: https://www.dlnews.com/articles/people-culture/harmony-devs-spat-over-a-bug-that-created-millions-in-tokens/
+date_of_breach: '2024-01-15'
+date_of_disclosure: '2024-01-15'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Harmony infinite mint bug
+blockchain: ethereum
+financial_loss_usd: 2200000
+affected_count: 79
+notes: 'On December 7, the Harmony blockchain began encountering a bug that ultimately caused around 150 million of the project''s
+  $ONE token (priced at around $2.2 million) to be erroneously minted and distributed to 79 wallets. Most of the recipients,
+  who were anonymous, quickly sold their unexpected windfall.The bug was fixed about a week later. There has been a dispute
+  since then between Harmony employees and a consultant who was involved in identifying the bug, and the consultant has been
+  accused of delaying action to profit from the excess tokens. The consultant also balked at destroying some of the tokens
+  he mistakenly received.The consultant claims that he didn''t profit from the bug, and objected to a Harmony employee coming
+  after him to destroy the excess tokens when he''d done little towards others who profited from the error. He did, however,
+  say later that he had destroyed the tokens.According to the consultant, a Harmony employee claimed that he had filed reports
+  to the FBI and IRS about the consultant''s behavior, and had the consultant banned from the annual ETH Denver event.
+
+
+  Total loss estimated at $2,200,000.'

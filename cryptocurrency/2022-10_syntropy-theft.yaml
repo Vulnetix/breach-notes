@@ -1,0 +1,18 @@
+source_name: Tweet thread by Syntropy
+source_url: https://twitter.com/Syntropynet/status/1581259742969667584
+date_of_breach: '2022-10-15'
+date_of_disclosure: '2022-10-15'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Syntropy theft
+blockchain: ethereum
+financial_recovered_usd: 825000
+notes: The web3 company Syntropy suffered the loss of 15 million of their $NOIA tokens when they attempted to transfer them
+  to a venture capital firm, but instead they ended up with a thief. In a Twitter statement, the company claims that they
+  had reached an agreement with a venture capital firm to invest in Syntropy, and sent the agreed number of tokens to an escrow
+  agent to complete the deal. However, they say, "it became apparent that the buyer's identity had been compromised. The malicious
+  actor convinced the escrow agent into releasing the tokens to the impersonating party." 15 million $NOIA tokens (notionally
+  worth around $825,000) were stolen, and the $NOIA price crashed from around $0.055 to around $0.037. According to Syntropy,
+  Kucoin froze the accounts holding the stolen funds.Some supporters of Syntropy have questioned the team's decision to take
+  a deal like this from a VC firm after the firm claimed to be fully funded, and without communicating with the community.
+  Others questioned how the deal could have possibly gone so wrong in the way Syntropy claimed.

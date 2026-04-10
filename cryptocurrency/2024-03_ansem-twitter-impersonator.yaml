@@ -1,0 +1,18 @@
+source_name: Tweet by zachxbt
+source_url: https://twitter.com/zachxbt/status/1769150002490638597
+date_of_breach: '2024-03-16'
+date_of_disclosure: '2024-03-16'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Ansem Twitter impersonator
+blockchain: solana
+financial_loss_usd: 2600000
+notes: 'Someone impersonating Ansem, an influential crypto trader, was able to scam people out of more than $2.6 million simply
+  by replying to the real Ansem''s tweets. Using an account mimicking the real account, with only a slight difference in the
+  username, a phisher convinced Ansem''s followers that he was creating his own Solana memecoin and asked them to buy in.In
+  one of the real Ansem''s tweets, Ansem wrote "i dont launch coins bros" — nevertheless, followers eager to get in early
+  on a new memecoin clicked a link offering a presale and had their wallets drained.Altogether, people lost $2.6 million to
+  the scam. One individual lost $1.2 million.
+
+
+  Total loss estimated at $2,600,000.'

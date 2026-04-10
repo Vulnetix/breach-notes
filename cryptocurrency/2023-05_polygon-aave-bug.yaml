@@ -1,0 +1,14 @@
+source_name: '"Aave Users Unable to Access Over $100M in Assets Due to Bug"'
+source_url: https://beincrypto.com/aave-users-unable-to-access-over-100m/
+date_of_breach: '2023-05-19'
+date_of_disclosure: '2023-05-19'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Polygon Aave bug
+blockchain: polygon
+notes: 'Recently, the Aave protocol deployed a contract upgrade on the Polygon version of their v2 project that was not compatible
+  with Polygon. The bug has resulted in around $110 million of funds in wETH, wBTC, USDT, and wMATIC being "stuck", meaning
+  users can''t perform any actions involving those funds.The funds are not at risk, but it will take at least a week before
+  the funds are unstuck because any code change requires a DAO vote. "Considering governance times, if approved, the fix will
+  be applied in approximately 7 days from now: 1 day of delay to start voting, 3 days of voting, 1 day of timelock on Ethereum,
+  and 2 extra days of timelock on Polygon," explained a post by Bored Ghost Developing, a contributor to Aave.'

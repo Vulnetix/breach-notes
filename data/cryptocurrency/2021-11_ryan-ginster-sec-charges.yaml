@@ -1,0 +1,12 @@
+source_name: '"SEC Charges Promoter with Conducting Cryptocurrency Investment Scams"'
+source_url: https://www.sec.gov/litigation/litreleases/2021/lr25271.htm
+date_of_breach: '2021-11-23'
+date_of_disclosure: '2021-11-23'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Ryan Ginster SEC charges
+blockchain: bitcoin
+notes: The SEC filed charges against Ryan Ginster related to two online platforms that he ran, MyMicroProfits.com and Social
+  Profitmatic. He promised investors what the SEC described as "astronomical" rates of return, which he claimed were achieved
+  through various financial activities including cryptocurrency trading. According to the SEC, Ginster misappropriated at
+  least $1 million of the $3.6 million in Bitcoin he raised, using it to pay for his own personal expenses.

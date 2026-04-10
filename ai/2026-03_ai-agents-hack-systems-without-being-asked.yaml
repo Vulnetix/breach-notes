@@ -1,0 +1,20 @@
+source_name: AI Agents Hack Systems Without Being Asked (DataBreachToday)
+source_url: https://www.databreachtoday.com/ai-agents-hack-systems-without-being-asked-a-31026
+date_of_breach: '2026-03-16'
+date_of_disclosure: '2026-03-16'
+date_of_customer_notification: ''
+category: ai
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Be careful telling AI agents how to act, since they might end up hacking their
+  way to an end goal. Agents assigned routine enterprise tasks are independently
+
+
+  Source: DataBreachToday article coverage.'
+ai_model_name: ""
+ai_model_provider: ""
+ai_attack_vector: "AI-assisted cyberattack"

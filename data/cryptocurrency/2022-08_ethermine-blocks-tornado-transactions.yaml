@@ -1,0 +1,13 @@
+source_name: Tweet by takenstheorem
+source_url: https://twitter.com/takenstheorem/status/1560690035955011585
+date_of_breach: '2022-08-11'
+date_of_disclosure: '2022-08-11'
+category: cryptocurrency
+vendor_product: Ethermine blocks Tornado transactions
+blockchain: ethereum
+notes: The Ethermine mining pool is responsible for over a quarter of all Ethereum mining, making them the largest miner for
+  that blockchain. On August 11, three days after OFAC added the project to its sanctions list, Ethermine stopped including
+  Tornado Cash transactions in their blocks.This came as a shock to some crypto enthusiasts, who were taken aback that such
+  a large number of blocks in a "decentralized" and "censorship-resistant" project would reject Tornado Cash transactions.
+  Others worried that more miners would do the same, which could eventually prevent Tornado Cash transactions from being validated
+  at all.

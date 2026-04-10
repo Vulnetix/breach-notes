@@ -1,0 +1,18 @@
+source_name: Tweet by PeckShield
+source_url: https://twitter.com/peckshield/status/1513390068450308097
+date_of_breach: '2022-04-11'
+date_of_disclosure: '2022-04-11'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Creat Future
+blockchain: bsc
+financial_loss_usd: 1900000
+notes: 'An attacker stole about $1.9 million after exploiting a bug in the smart contract for the Creat Future token. The
+  contract''s transfer function was defined as public, with no validation on the caller, allowing anyone to transfer tokens
+  from any wallet. An attacker quickly exploited this flaw to drain millions of $CF tokens from various wallets, then exchange
+  and tumble them to cover their tracks. The attacker made off with about $1.9 million, and the value of $CF crashed.$CF was
+  an asset belonging to Creat Future, an early-stage defi project. Some have speculated that the hack was an inside job, and
+  the vulnerable function was added intentionally.
+
+
+  Total loss estimated at $1,900,000.'

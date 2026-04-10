@@ -1,0 +1,18 @@
+source_name: Tweet by br1an.eth
+source_url: https://x.com/bdguan/status/1798414648884052147
+date_of_breach: '2024-06-05'
+date_of_disclosure: '2024-06-05'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: br1an.eth private key compromise
+blockchain: cosmos
+financial_loss_usd: 48630
+notes: 'A blockchain developer posted on Twitter that he had lost almost $50,000 after his cryptocurrency wallet was drained.
+  He explained that he had been working on a software project on Github in a private repository that contained his wallet''s
+  private key. In order to apply for a funding grant from the Optimism project, he had to make the repository public. However,
+  he forgot that the secret key was in the repository.Generally, it is very bad practice to store sensitive secrets in Github,
+  even when projects are set to private."Got drained of everything," he wrote on Twitter. A commenter asked how long it took
+  for the attacker to steal the money after the private key became publicly visible. "2 min", he replied.
+
+
+  Total loss estimated at $48,630.'

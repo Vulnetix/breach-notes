@@ -1,0 +1,18 @@
+source_name: Tweet thread by PeckShield Inc.
+source_url: https://twitter.com/peckshield/status/1519530463337250817?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1519530463337250817%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.coindesk.com%2Ftech%2F2022%2F04%2F28%2Fhow-deus-finance-was-exploited-for-134m-on-fantom%2F
+date_of_breach: '2022-04-28'
+date_of_disclosure: '2022-04-28'
+category: cryptocurrency
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Deus Finance
+blockchain: fantom
+financial_loss_usd: 13400000
+notes: 'The defi project Deus Finance was hit with a flash loan attack that netted the hacker $13.4 million. The loss to the
+  protocol was likely larger than what the hacker was able to withdraw, though Deus announced that no users had been liquidated
+  and that "the loss is on the protocol".Deus had suffered a similar attack in March, with an attacker using a flash loan
+  attack to steal more than $3.1 million. Deus reimbursed users who were liquidated in the incident.According to Deus'' CEO,
+  the exploit in this incident was not the same one used in the previous attack. He wrote on Twitter that the exploit was
+  "the first of its kind, a zero-day exploit on Solidly [decentralized crypto exchange] swaps".
+
+
+  Total loss estimated at $13,400,000.'

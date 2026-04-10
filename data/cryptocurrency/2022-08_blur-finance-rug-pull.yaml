@@ -1,0 +1,17 @@
+source_name: '"Over $600K Vanishes From DeFi Project Blur Finance; Developers Disappear"'
+source_url: https://www.coindesk.com/tech/2022/08/10/more-than-600k-vanishes-from-defi-project-blur-finance-as-developers-disappear/?utm_medium=referral&utm_source=rss&utm_campaign=headlines
+date_of_breach: '2022-08-10'
+date_of_disclosure: '2022-08-10'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Blur Finance
+blockchain: bsc, polygon
+financial_loss_usd: 600000
+affected_count: 750
+notes: 'The yield aggregator Blur Finance rug pulled, taking more than $600,000 in assets from the BNB Chain and Polygon-based
+  projects before deleting their website and social media accounts. The project had only been active for about a month, and
+  had accumulated about 750 users on its original BNB Chain implementation, and on August 5 had announced their launch on
+  Polygon. In the announcement, they boasted returns of over 4,000% APR.
+
+
+  Total loss estimated at $600,000.'

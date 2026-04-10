@@ -1,0 +1,17 @@
+source_name: Tweet thread by ScamSniffer
+source_url: https://twitter.com/realScamSniffer/status/1699605356740305198
+date_of_breach: '2023-09-06'
+date_of_disclosure: '2023-09-06'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: 0x13e38 phished
+blockchain: ethereum
+financial_loss_usd: 24000000
+notes: 'A crypto phisher hit it big today when they lured in a victim with a massive wallet balance. The victim wallet was
+  drained of 4,851 rETH and 9,579 stETH, both wrapped versions of ETH used for staking. Altogether, the tokens are priced
+  at around $24 million.The wallet address used by the phisher has been associated with multiple crypto phishing websites
+  which attempt to convince users to authorize transactions, often by impersonating known crypto projects or promising token
+  airdrops.
+
+
+  Total loss estimated at $24,000,000.'

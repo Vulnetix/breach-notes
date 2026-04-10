@@ -1,0 +1,16 @@
+source_name: Tweet by Scam Sniffer
+source_url: https://x.com/realScamSniffer/status/1845503748514492492
+date_of_breach: '2024-10-13'
+date_of_disclosure: '2024-10-13'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: PEPE token permit phishing
+blockchain: ethereum
+financial_loss_usd: 1390000
+notes: 'An attacker using the permit phishing technique stole $1.39 million in tokens from an unsuspecting holder. The victim
+  unknowingly signed a "Permit2" signature — a function intended to make crypto transactions smoother and less expensive,
+  but one that also makes it possible for malicious actors to completely drain crypto wallets.The attacker stole around $1.1
+  million of the cartoon frog-themed PEPE tokens, and another roughly $50,000 of the also cartoon frog-themed APU token.
+
+
+  Total loss estimated at $1,390,000.'

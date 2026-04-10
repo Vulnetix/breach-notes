@@ -1,0 +1,16 @@
+source_name: Tweet by Balancer
+source_url: https://twitter.com/Balancer/status/1704281611326357567
+date_of_breach: '2023-09-19'
+date_of_disclosure: '2023-09-19'
+category: cryptocurrency
+initial_attack_vector: DNS hijacking / domain takeover (front-end compromise)
+vendor_product: Balancer frontend compromise
+blockchain: ethereum
+financial_loss_usd: 237932
+notes: 'Balancer issued an urgent warning to stop using its web interface, as it was evidently compromised by malicious actors
+  who redirected the funds to themselves. Within 30 minutes of the tweeted warning, $240,000 had already been stolen.This
+  is the second theft from Balancer in a month, after it warned of a critical vulnerability on August 22, and that vulnerability
+  was exploited for around $2 million several days later.
+
+
+  Total loss estimated at $237,932.'

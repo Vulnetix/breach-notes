@@ -1,0 +1,11 @@
+source_name: '"New York lawmakers pass a moratorium on Bitcoin mining"'
+source_url: https://www.theverge.com/2022/6/3/23151622/new-york-bitcoin-mining-moratorium-bill-state-senate
+date_of_breach: '2022-06-03'
+date_of_disclosure: '2022-06-03'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: New York crypto mining moratorium
+blockchain: bitcoin, ethereum
+notes: The New York state Senate passed a bill putting a two-year halt on issuing new or renewing existing permits for crypto
+  mining at fossil fuel plants — a practice that has been happening near Seneca Lake and elsewhere in the state. The bill
+  will also begin an environmental impact study on such facilities.Next, the bill will go to Governor Hochul to sign or veto.

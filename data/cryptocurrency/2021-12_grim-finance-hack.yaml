@@ -1,0 +1,19 @@
+source_name: '"Grim Finance Hacked for $30 Million in Fantom Tokens"'
+source_url: https://decrypt.co/88727/grim-finance-hacked-30-million-fantom-tokens
+date_of_breach: '2021-12-18'
+date_of_disclosure: '2021-12-18'
+category: cryptocurrency
+initial_attack_vector: Reentrancy attack on smart contract
+vendor_product: Grim Finance
+blockchain: fantom
+financial_loss_usd: 30000000
+notes: 'Grim Finance, the "compounding yield optimizer" DeFi platform, was hacked. According to them, attackers exploited
+  a bug in the platform to perform a reentrancy attack that netted them $30 million. Grim, indeed. A cryptocurrency watchdog
+  group, RugDoc, opined that the exploit was possible because of very basic mistakes in implementation, and wrote, "Hopefully
+  all projects can draw lessons from this incident that there is much knowledge most experienced solidity devs have at hand.
+  If you haven''t acquired this yet, don''t build multi-million dollar projects. Don''t get audits from companies which everyone
+  knows are useless." This was apparently a dig at Solidity Finance, who had performed an audit several months prior to the
+  hack and found that "ReentrancyGuard is used in relevant locations to preent[sic] reentrancy attacks."
+
+
+  Total loss estimated at $30,000,000.'

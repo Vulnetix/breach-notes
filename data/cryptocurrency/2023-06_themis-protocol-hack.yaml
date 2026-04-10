@@ -1,0 +1,20 @@
+source_name: Tweet by PeckShield
+source_url: https://twitter.com/peckshield/status/1673763251824336896
+date_of_breach: '2023-06-27'
+date_of_disclosure: '2023-06-27'
+category: cryptocurrency
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Themis Protocol
+blockchain: ethereum
+financial_loss_usd: 368000
+notes: 'Themis Protocol is a lending platform that has had somewhat of an excruciating rollout, with users waiting ever longer
+  for the platform to finally go live as they endured multiphased airdrops but no usable product. On June 16, the project
+  finally launched in beta on Arbitrum, an Ethereum layer 2.Only eleven days later, on June 27, the team boasted that the
+  project "has grown to over $1m TVL in 2 working days". An hour after that, they announced that they would be suspending
+  the protocol and beginning an immediate investigation into an apparent theft. Themis boasts in its documentation that "security
+  is the highest priority" of the project, and lists multiple audits from PeckShield.An attacker was apparently able to exploit
+  the project, draining around 220 Themis-wrapped ETH (nominally worth ~$417,000). Due to liquidity issues, they could only
+  swap these for around 94 ETH (~$178,000) and almost $190,000 in stablecoins, for a total haul of around $368,000.
+
+
+  Total loss estimated at $368,000.'

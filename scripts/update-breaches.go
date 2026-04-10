@@ -37,6 +37,11 @@ type Breach struct {
 	FinancialLossUSD     float64 `yaml:"financial_loss_usd"`
 	FinancialRecoveredUSD float64 `yaml:"financial_recovered_usd"`
 	AffectedCount        int64   `yaml:"affected_count"`
+
+	// AI
+	AIModelName     string `yaml:"ai_model_name"`
+	AIModelProvider string `yaml:"ai_model_provider"`
+	AIAttackVector  string `yaml:"ai_attack_vector"`
 }
 
 type record struct {
@@ -45,7 +50,7 @@ type record struct {
 	date   time.Time
 }
 
-var dirs = []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "other"}
+var dirs = []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cryptocurrency", "other"}
 
 func main() {
 	records, err := loadAll()
@@ -139,6 +144,9 @@ func writeRecentBreaches(records []record) error {
 			"financial_loss_usd":     b.FinancialLossUSD,
 			"financial_recovered_usd": b.FinancialRecoveredUSD,
 			"affected_count":         b.AffectedCount,
+			"ai_model_name":          b.AIModelName,
+			"ai_model_provider":      b.AIModelProvider,
+			"ai_attack_vector":       b.AIAttackVector,
 			"notes":                  b.Notes,
 		}
 	}
@@ -260,7 +268,7 @@ func buildREADMEBody(records []record) string {
 	sb.WriteString("## Incidents by Category\n\n")
 	sb.WriteString("| Category | Count | % |\n|----------|-------|---|\n")
 	catCounts := groupBy(records, func(r record) string { return r.breach.Category })
-	catOrder := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "other"}
+	catOrder := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cryptocurrency", "other"}
 	for _, cat := range catOrder {
 		n := catCounts[cat]
 		sb.WriteString(fmt.Sprintf("| %s | %d | %s |\n", cat, n, pctOf(n, total)))

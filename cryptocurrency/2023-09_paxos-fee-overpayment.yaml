@@ -1,0 +1,18 @@
+source_name: Bitcoin transaction
+source_url: https://www.blockchain.com/explorer/transactions/btc/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd
+date_of_breach: '2023-09-10'
+date_of_disclosure: '2023-09-10'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Paxos fee overpayment
+blockchain: bitcoin
+financial_recovered_usd: 499171
+notes: A wallet on the Bitcoin blockchain paid a 19.82 BTC ($499,171) fee to transfer 0.074 BTC ($1,865). Put another way,
+  they spent 270x the transaction value to pay the fee. Bitcoin transaction fees are required to make any action on the Bitcoin
+  blockchain, and people can opt to pay higher fees to incentivize their transactions being processed sooner. 19.82 BTC is
+  far outside the realm of someone just hoping to get a speedy transaction, however — the next-highest transaction fee in
+  that block was 0.006 BTC ($159.20).Bitcoiner Jameson Lopp speculated that the transaction "looks like an exchange or payment
+  processor with buggy software" based on its transaction history. "The address in question that made the fee calculation
+  error has the characteristics of a withdraw-only hot wallet from an enterprise," he wrote.His observations were well-founded,
+  as it later came out that the wallet belonged to the Paxos blockchain company, who attributed the overpayment to a bug.
+  Luckily for Paxos, the miner who snapped up the outsized fee agreed to refund it.

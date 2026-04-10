@@ -1,0 +1,15 @@
+source_name: Tweet by CertiK
+source_url: https://twitter.com/CertiKAlert/status/1771220881261355512
+date_of_breach: '2024-03-22'
+date_of_disclosure: '2024-03-22'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Lucky Star Currency
+blockchain: bsc
+financial_loss_usd: 297000
+notes: 'The astrology-based Lucky Star Currency project rug-pulled for $1.1 million in October 2023. You''d think that might
+  be the end of it, but on March 22, 2024, ownership of the project was transferred to a malicious smart contract that then
+  drained tokens priced at almost $300,000 from those who still held them.You almost have to admire the tenacity.
+
+
+  Total loss estimated at $297,000.'

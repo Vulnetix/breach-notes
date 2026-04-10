@@ -1,0 +1,22 @@
+source_name: Tweet thread by CryptoCondom
+source_url: https://twitter.com/crypto_condom/status/1571457077218017280
+date_of_breach: '2022-09-17'
+date_of_disclosure: '2022-09-17'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: AVAX chart
+blockchain: avalanche
+financial_loss_usd: 400000
+notes: 'GMX is a decentralized cryptocurrency exchange that boasts zero price impact trades. On most exchanges, users have
+  to contend with slippage: a difference between the price of a token when the user goes to enter the trade and the price
+  when the trade is executed. A sufficiently large trade can itself cause slippage, particularly with crypto assets with lower
+  liquidity.A whale was able to take advantage of this "feature" by taking large positions in AVAX, the token belonging to
+  the Avalanche blockchain, which has relatively low liquidity compared to larger tokens like Bitcoin or Ether. The whale
+  then manipulated the price by making large trades on a centralized exchange, taking an estimated profit of between $400,000
+  and $450,000 after fees.Some had publicly expressed concerns about the possibility of such an exploit earlier in September:
+  Taureau, a founder of another decentralized exchange, had outlined the possibility of an exploit like this on a podcast
+  episode on September 1.GMX responded to the incident by capping the size of positions that users can take on AVAX. Another
+  project, MM.Finance, announced they would be pausing order execution on their MadMex platform, which is a fork of GMX.
+
+
+  Total loss estimated at $400,000.'

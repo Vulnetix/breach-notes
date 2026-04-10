@@ -1,0 +1,15 @@
+source_name: Tweet by zachxbt
+source_url: https://twitter.com/zachxbt/status/1762064972966986150
+date_of_breach: '2024-02-26'
+date_of_disclosure: '2024-02-26'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Dechat token launch error
+blockchain: bsc
+notes: 'The user experience in crypto is apparently so bad that platforms can''t even keep their own tokens straight. A web3
+  messaging project, Dechat, announced with some fanfare that the Dechat token would begin trading. In their social media
+  post, however, they erroneously linked to the wrong token on the PancakeSwap cryptocurrency exchange. Instead of linking
+  to the token they had developed, they included a link to a honeypot: that is, a malicious smart contract that aims to entice
+  people to deposit funds that can then be stolen."You clowns literally linked a honeypot for your own token launch," wrote
+  crypto sleuth zachxbt. Some users replied that they had lost money to the erroneous link.Dechat quickly removed the post
+  and created a new one with a corrected link. They also promised to reimburse users who had lost money to the honeypot.'

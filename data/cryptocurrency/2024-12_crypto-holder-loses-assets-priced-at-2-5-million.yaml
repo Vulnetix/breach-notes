@@ -1,0 +1,20 @@
+source_name: Tweet by Anchor Drops
+source_url: https://x.com/anchor_drops/status/1867384126954979472
+date_of_breach: '2024-12-12'
+date_of_disclosure: '2024-12-12'
+category: cryptocurrency
+initial_attack_vector: Seed phrase / wallet compromise
+vendor_product: Crypto holder
+blockchain: ethereum, bitcoin
+financial_loss_usd: 2500000
+notes: 'A crypto holder tweeted at the Ledger hardware wallet manufacturer to report that 10 BTC (~$1 million) and "~1.5m
+  of NFTs" had been stolen from a Ledger wallet they were using. "The ledger was purchased directly from you. The seed phrase
+  was stored in a secure location, never entered anywhere online. I never signed any malicious transactions. Everything is
+  in my physical possession.I haven’t touched this ledger in 2 months," they wrote.Some blamed the theft on an apparent malicious
+  Ethereum transaction the user had signed nearly three years prior. However, while a malicious transaction signature on Ethereum
+  could explain the NFT thefts, it should not alone enable the theft of assets on the separate bitcoin blockchain.Despite
+  this, Ledger blamed its customer, telling a media outlet that "As we know, the user got phished when it comes to the ETH
+  wallet, we can assume user error on the BTC side too".
+
+
+  Total loss estimated at $2,500,000.'

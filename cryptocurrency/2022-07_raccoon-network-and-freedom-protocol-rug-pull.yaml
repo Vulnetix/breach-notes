@@ -1,0 +1,16 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1549586789459197954
+date_of_breach: '2022-07-19'
+date_of_disclosure: '2022-07-19'
+category: cryptocurrency
+vendor_product: Raccoon Network and Freedom Protocol
+blockchain: bsc
+financial_loss_usd: 20816856
+notes: '20.8 million BUSD, a dollar-pegged stablecoin on BNB Chain, was transferred from Raccoon Network and the Freedom Protocol
+  on July 19. Security firm PeckShield identified the incident as a scam perpetrated by the people running the projects, although
+  Raccoon Network has tried to claim the transfers were the result of a hack.Raccoon Network is a metaverse project. Freedom
+  Protocol invested in the project in late June, and announced they would be working together. Freedom Protocol is a defi
+  project that advertises an 183,394.2% APY "compounded by scientific calculations".
+
+
+  Total loss estimated at $20,816,856.'

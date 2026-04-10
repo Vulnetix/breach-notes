@@ -1,0 +1,18 @@
+source_name: '"Bank Run at NFT Lender BendDAO Prompts Attempt to Avert Another Liquidity Crisis"'
+source_url: https://www.coindesk.com/business/2022/08/22/bank-run-at-nft-lender-benddao-prompts-attempt-to-avert-another-liquidity-crisis/?utm_medium=referral&utm_source=rss&utm_campaign=headlines
+date_of_breach: '2022-08-22'
+date_of_disclosure: '2022-08-22'
+category: cryptocurrency
+vendor_product: BendDAO bank run
+blockchain: ethereum
+notes: 'Honestly, who can blame BendDAO for failing to consider that the hype bubble around Bored Apes and other NFT projects
+  might not last forever! "We underestimated how illiquid NFTs could be in a bear market when setting the initial parameters",
+  the project wrote in a governance proposal.BendDAO allows people to take out loans with their NFTs as collateral. However,
+  if the floor price of those NFTs drops too far and the borrower doesn''t pay back some of the loan to adjust its risk rating,
+  other people can bid on the NFT.The problem with this whole plan was revealed when lenders'' confidence was shaken when
+  it was reported that $5.3 million in Bored Apes were at risk of liquidation. Panicked users withdrew their assets from the
+  platform, resulting in a bank run that drained the reserves to a low of 5 ETH (~$8,200). BendDAO had other assets, of course:
+  the NFTs below the liquidation threshold. However, a lack of interested buyers willing to pay the minimum prices (95% of
+  the collection floor price) left the project in a tough spot.Since the extremely close brush with a liquidity crisis, the
+  project has begun to consider a proposal that would reduce the threshold at which NFTs can be liquidated, reduce auction
+  and liquidation protection periods, remove the 95% floor price bid requirement, and increase interest rates.'

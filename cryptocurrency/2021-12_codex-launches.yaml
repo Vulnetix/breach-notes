@@ -1,0 +1,10 @@
+source_name: Tweet by @BadWritingTakes
+source_url: https://twitter.com/BadWritingTakes/status/1467502961727348741
+date_of_breach: '2021-12-02'
+date_of_disclosure: '2021-12-02'
+category: cryptocurrency
+vendor_product: CODEX launches
+blockchain: flow
+notes: A platform called "CODEX" announced that they intend to "upgrade the digital book market industry to Web3". This, apparently,
+  involves artificially limiting the number of copies of books that can be distributed, using technology that is definitely
+  not just a worse version of DRM.

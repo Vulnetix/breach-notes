@@ -1,0 +1,16 @@
+source_name: '"Mercenary Gold NFT Project Rugpull: Drains out More Than $760k"'
+source_url: https://coincodecap.com/mercenary-gold-nft-project-rugpull
+date_of_breach: '2022-01-26'
+date_of_disclosure: '2022-01-26'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Mercenary
+blockchain: bsc
+financial_loss_usd: 760000
+notes: 'Mercenary was a short-lived play-to-earn game that promised "innovative tokenomics, to ensure the stability and longevity
+  of the game''s economy". The project had invested heavily in advertising on Twitter and in cryptocurrency outlets like BSC
+  News to attract new players. It launched only a week before the developers rug-pulled on January 27, draining more than
+  $760,000 and deleting the project''s website and social media.
+
+
+  Total loss estimated at $760,000.'

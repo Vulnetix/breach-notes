@@ -1,0 +1,17 @@
+source_name: Tweet thread by Philneeds
+source_url: https://twitter.com/Philneeds/status/1558350072345231362
+date_of_breach: '2022-08-13'
+date_of_disclosure: '2022-08-13'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fake Apecoin
+blockchain: ethereum
+financial_loss_usd: 163770
+notes: 'A scammer created a fake ApeCoin contract on the NFT Trader service, with tokens that appeared identical to the true
+  ApeCoins but were actually worthless. After "chatt[ing] for a long time about location, jobs, the space", the owner of Bored
+  Ape #8373 was convinced to trade it for 26,500 "ApeCoin", which would be valued at $163,770 if they were real. "I didn''t
+  bother double checking the contract as I figured [NFT Trader] only allows [OpenSea] verified collections and contracts anyway,"
+  the victim wrote on Twitter. The scammer flipped the NFT several minutes later for 78 ETH ($154,774).
+
+
+  Total loss estimated at $163,770.'

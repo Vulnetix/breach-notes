@@ -1,0 +1,26 @@
+source_name: '"ZKasino Users Plead for Refunds as $33M of Bridged Ether Sent to Lido"'
+source_url: https://www.coindesk.com/business/2024/04/22/zkasino-users-plead-for-refunds-as-33m-of-bridged-ether-sent-to-lido/
+date_of_breach: '2024-04-20'
+date_of_disclosure: '2024-04-20'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: ZKasino
+blockchain: ethereum
+financial_loss_usd: 33000000
+notes: 'A project promising to build a decentralized casino managed to raise $33 million, despite an anonymous team that had
+  exhibited several instances of shady behavior throughout ZKasino''s development. The project promised that everyone who
+  bridged ETH to their layer-2 chain would be able to receive their ETH back 1:1 in thirty days.Instead, the project''s creators
+  transferred those more than 10,500 ETH ($33 million) to Lido, an Ethereum staking service. As for the "return" of funds,
+  the project team indeed followed through with their promises to return the crypto... except instead of ETH, depositors received
+  the project''s native token, ZKAS, which would vest over a period of 15 months. The project announced that they had calculated
+  the ZKAS distribution based on a discounted rate, "as a favour to our users who have bridged to participate in the ecosystem".
+  Gee, thanks!One investor in the project wrote, "We made a mistake investing in Zkasino early. ... [I]t sounds like a scam,
+  but 95% of crypto consists of such crap. With memecoins pumping every day, people believe this could be the next one."It
+  seems that ZKasino''s creators have links to other crypto scams, including a failed "ZigZagExchange", which raised around
+  $15 million that was allegedly misallocated to work on the ZKasino project. Crypto sleuth zachxbt had also described the
+  team as "proven bad actors" in December, listing multiple instances in which they had avoided making promised payments.After
+  the rug pull, the project''s planned IDO on Ape Terminal and AIT Launchpad were canceled, and MEXC (which had invested in
+  the project''s seed round) canceled the token listing.
+
+
+  Total loss estimated at $33,000,000.'

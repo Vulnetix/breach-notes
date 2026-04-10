@@ -1,0 +1,14 @@
+source_name: '"Binance.US Accused of Misleading Investors in Class-Action Lawsuit Over Terra"'
+source_url: https://www.coindesk.com/business/2022/06/13/binanceus-accused-of-misleading-investors-in-class-action-lawsuit-over-terra/
+date_of_breach: '2022-06-13'
+date_of_disclosure: '2022-06-13'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Binance.US class action filed
+blockchain: terra
+notes: A group of people who put money into Terra (UST), the stablecoin that collapsed in May, have filed a class action lawsuit
+  against Binance.US. Binance.US is a crypto exchange that operates within the US, managed independently from Binance, which
+  is not available to US customers due to fears that it would run afoul of US securities regulations.The lawsuit argues that
+  UST is an unregistered security, and that as a result, Binance.US was violating securities laws by listing it. The lawsuit
+  also alleges that Binance.US misled investors, leading them to believe that UST was more stable than it actually was. More
+  than 2,000 investors have joined the lawsuit.

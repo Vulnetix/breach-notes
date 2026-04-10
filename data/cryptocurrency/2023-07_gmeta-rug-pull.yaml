@@ -1,0 +1,14 @@
+source_name: Tweet thread by Beosin Alert
+source_url: https://twitter.com/BeosinAlert/status/1681240663868973056
+date_of_breach: '2023-07-18'
+date_of_disclosure: '2023-07-18'
+category: cryptocurrency
+vendor_product: GMETA
+blockchain: bsc
+financial_loss_usd: 3600000
+notes: 'The GMETA project on BNB Chain saw its price plummet to near zero as the project creators drained the funds from the
+  project. The contract creator was able to transfer large amounts of the token and swap them for the Tether stablecoin, cashing
+  out a total of around $3.6 million.
+
+
+  Total loss estimated at $3,600,000.'

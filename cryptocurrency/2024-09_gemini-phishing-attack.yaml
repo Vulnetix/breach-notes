@@ -1,0 +1,18 @@
+source_name: '"Police Arrest Two People Related to $243M Crypto Heist Targeting Genesis Creditor"'
+source_url: https://www.coindesk.com/business/2024/09/19/police-arrests-two-people-related-to-243m-crypto-heist-targeting-genesis-creditor
+date_of_breach: '2024-09-19'
+date_of_disclosure: '2024-09-19'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: Gemini phishing attack
+blockchain: bitcoin
+financial_loss_usd: 243000000
+financial_recovered_usd: 500000
+notes: 'Two people have been arrested in relation to a phishing scam that successfully stole more than 4,000 BTC priced at
+  around $243 million from a single individual. The victim was targeted with a phishing scam in which the attackers posed
+  as Google support employees and convinced the victim to reset their two-factor authentication for their account on the Gemini
+  cryptocurrency exchange.The FBI raided a luxury home in Miami in connection to the theft, and arrested two men in their
+  early twenties. Authorities worked with crypto investigators including zachxbt to trace the stolen funds.
+
+
+  Total loss estimated at $243,000,000.'

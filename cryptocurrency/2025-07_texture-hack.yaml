@@ -1,0 +1,19 @@
+source_name: Tweet by Texture
+source_url: https://x.com/texture_fi/status/1942972150631002245
+date_of_breach: '2025-07-09'
+date_of_disclosure: '2025-07-09'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Texture
+blockchain: solana
+financial_loss_usd: 2200000
+financial_recovered_usd: 1980000
+notes: 'An attacker exploited the Solana-based lending protocol Texture, stealing $2.2 million in user funds from one of the
+  project''s vaults.Shortly after the attack, Texture sent a message to the thief: "We are offering a 10% bounty of any funds
+  stolen, which are yours to keep if you return the remaining 90%. You made an opsec mistake, but it’s not too late to avoid
+  escalating the situation."The threat and "bounty" offer apparently worked, and the hacker returned $1.98 million, keeping
+  $220,000 as a so-called "greyhat bounty". "As the hacker has fulfilled their side of the agreement, we will not pursue the
+  matter further," wrote Texture.
+
+
+  Total loss estimated at $2,200,000.'

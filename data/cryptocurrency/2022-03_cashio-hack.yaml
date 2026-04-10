@@ -1,0 +1,25 @@
+source_name: '"Solana Stablecoin Project Cashio Plummets to Zero After Multi-Million Dollar Hack"'
+source_url: https://decrypt.co/95772/solana-stablecoin-project-cashio-plummets-zero-multi-million-dollar-hack
+date_of_breach: '2022-03-23'
+date_of_disclosure: '2022-03-23'
+category: cryptocurrency
+initial_attack_vector: Infinite mint exploit
+vendor_product: Cashio
+blockchain: solana
+financial_loss_usd: 37930000
+financial_recovered_usd: 14070000
+notes: 'A hacker was able to exploit an infinite mint glitch in the protocol of Cashio, a Solana stablecoin project. They
+  were able to pull around $50 million out of the platform, while also tanking the value of the $CASH token in the process.
+  The attacker left a note in the input data of their Ethereum transactions that "Account with less 100k have been returned.
+  all other money will be donated to charity."Saber, the providers of the Cashio liquidity pool, published a postmortem of
+  the attack in which they wrote that "We do not have the money to pay back depositors." The hack was the second largest in
+  Solana history, behind the February Wormhole hack. Saber entreated the hacker to return the funds, writing, "accounts with
+  over $100k are often users'' life savings on leverage, and many of us will seriously be affected financially after this
+  incident."On March 28, the attacker sent a message saying that "the intention was only to take money from those who do not
+  need it, not from those who do", and invited users who had over $100,000 to apply to receive their funds back with "an explanation
+  of the source of this money and why you need it back. more detail is better. money will not be refund to rich american and
+  european that don''t need it." Somewhat strangely, Cashio themselves began hosting a website to allow affected users to
+  plead with the hacker to return the money.
+
+
+  Total loss estimated at $37,930,000.'

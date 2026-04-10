@@ -1,0 +1,19 @@
+source_name: Tweets by HideYoApes
+source_url: https://twitter.com/HideYoApes/status/1629967639383793664
+date_of_breach: '2023-02-26'
+date_of_disclosure: '2023-02-26'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: hideyoapes wallet drain
+blockchain: ethereum
+financial_loss_usd: 208000
+notes: '"I still don''t quite understand what happened here", wrote hideyoapes.eth after their wallet was drained of around
+  30 NFTs. They had previously owned several pricey NFTs from the various Yuga Labs collections, including a Bored Ape, Mutant
+  Ape, three Bored Ape Kennel Club NFTs, a SewerPass, and two Otherdeeds.The thief sold all the NFTs and then transferred
+  the proceeds from the sales to their own wallet. Altogether they made off with 127.3 wETH (~$208,000).On Twitter, hideyoapes
+  explained that they had downloaded and installed the MetaMask wallet extension from MetaMask''s official website. "I didn’t
+  think anything of it because it was the legit site and verified chrome app. While I was sleeping all my assets were sold,"
+  they wrote. At this point, it''s not clear how exactly the hack was perpetrated.
+
+
+  Total loss estimated at $208,000.'

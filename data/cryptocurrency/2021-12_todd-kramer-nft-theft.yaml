@@ -1,0 +1,21 @@
+source_name: '"Bored Ape NFT Collector Loses $2.2M in Phishing Scam"'
+source_url: https://cryptonews.net/en/news/nft/2957969/
+date_of_breach: '2021-12-30'
+date_of_disclosure: '2021-12-30'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: Todd Kramer NFT theft
+blockchain: ethereum
+financial_loss_usd: 2200000
+notes: 'Todd Kramer, an NFT collector who had acquired Bored Ape and other pricey NFTs, clicked on a phishing contract that
+  appeared to be a legitimate NFT trader link. Sixteen NFTs from three collections were taken, including eight Bored Ape NFTs.
+  In total, the loss totalled around 593 ETH (equivalent to about $2.2 million)."I been hacked. all my apes gone." tweeted
+  Kramer, in a phrase that ultimately became a catchphrase of the NFT world (and its critics).After asking for help on Twitter,
+  OpenSea froze the stolen assets, preventing them from being traded on their platform. Some commenters noted that the redress
+  (asset freezing and flagging of suspicious accounts) was only possible because OpenSea is a centralized platform with a
+  large amount of power in the NFT arena, which some see as antithetical to the supposed ideals of web3. This also raises
+  the question of whether BAYC themselves have a way to determine "legitimate ownership" of their NFTs, which in addition
+  to being expensive status symbols also grant their owners exclusive perks including merchandising rights and access to events.p>
+
+
+  Total loss estimated at $2,200,000.'

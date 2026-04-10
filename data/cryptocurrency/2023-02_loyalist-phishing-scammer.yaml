@@ -1,0 +1,20 @@
+source_name: '"Loyalist: $4m stolen from over 400 victims"'
+source_url: https://zachxbt.mirror.xyz/chj355oHn5PcRIc53pQpdDEkQAlC-E6k37oE3w619HY
+date_of_breach: '2023-02-16'
+date_of_disclosure: '2023-02-16'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: '"Loyalist" phishing'
+blockchain: ethereum
+financial_loss_usd: 4000000
+affected_count: 416
+notes: 'Crypto sleuth zachxbt has released research indicating that a cryptocurrency and NFT phishing scammer who goes by
+  Loyalist/Lukas/Shibango has stolen more than $4 million of various assets from at least 416 victims from early 2022 until
+  October 2022. zachxbt identified a slew of phishing websites and other phishing scams that stole both NFTs and cryptocurrency
+  from a large number of victims throughout 2022, which he connected to the Eastern European scammer known as Loyalist. The
+  stolen NFTs included more than 25 Yuga Labs Otherdeeds, more than 15 Meebits, and various others.Although Loyalist had been
+  largely inactive since October, shortly after zachxbt published his research in February 2023, Loyalist moved nearly $1
+  million in the DAI stablecoin out of one of the wallets identified by zachxbt.
+
+
+  Total loss estimated at $4,000,000.'

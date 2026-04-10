@@ -1,0 +1,16 @@
+source_name: Tweet thread by BitKeep Wallet
+source_url: https://twitter.com/BitKeepOS/status/1582157619032395776
+date_of_breach: '2022-10-17'
+date_of_disclosure: '2022-10-17'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: BitKeep Swap
+blockchain: bsc
+financial_loss_usd: 100000
+notes: 'The Swap feature of the BitKeep crypto wallet suffered an exploit that landed a hacker more than $1 million worth
+  of BNB. The project acknowledged the hack, and promised to reimburse users who were impacted.This is the second hack in
+  October of the swap functionality of a crypto wallet, with Transit Swap suffering a $21 million hack on October 1  — although
+  in that case, the attacker subsequently returned a large portion of the stolen funds.
+
+
+  Total loss estimated at $100,000.'

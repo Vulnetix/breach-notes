@@ -1,0 +1,21 @@
+source_name: Tweet thread by 0xfoobar
+source_url: https://twitter.com/0xfoobar/status/1517680400142716929
+date_of_breach: '2022-04-22'
+date_of_disclosure: '2022-04-22'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: AkuDreams bug
+blockchain: ethereum
+financial_loss_usd: 34000000
+notes: 'Micah Johnson, an artist and former professional baseball player, launched an astronaut-themed NFT project called
+  AkuDreams. The auction was based around a Dutch auction, with the added twist that the lowest bid would set the final price
+  for the NFT and all who bidded higher would be refunded.The contract suffered from several flaws, however. The first allowed
+  an exploiter to stop all refunds and withdrawals from the contract. Luckily for the team, the exploiter was well-intentioned
+  and only intended to highlight the issue; they removed the block shortly after, leaving a message urging the team to have
+  their contracts audited before release.AkuDreams were not so lucky with the second issue. A bug in the code failed to account
+  for users minting multiple NFTs in a single transaction, which made it so that the claimProjectFunds function that would
+  allow the team to withdraw their earnings can never successfully execute. This means that the team can never withdraw the
+  11,539 ETH ($34 million) earned from the NFT sales — it is stuck there forever.
+
+
+  Total loss estimated at $34,000,000.'

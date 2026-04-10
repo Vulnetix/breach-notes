@@ -1,0 +1,16 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1732790450350703052
+date_of_breach: '2023-12-07'
+date_of_disclosure: '2023-12-07'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Uranium Finance
+blockchain: bsc
+notes: 'In April 2021, an attacker stole $50 million from the defi exchange Uranium Finance. Blockchain investigator zachxbt
+  now says that he believes this attacker has been able to cash out his ill-gotten funds... in an unusual way.After tracing
+  the attacker''s attempts to launder the money through Tornado Cash and then obfuscate that it had come from the mixing service
+  (something that raises flags at some exchanges), zachxbt observed the funds go to a broker of Magic: The Gathering based
+  in the United States. Altogether, the hacker appeared to be spending millions on starter decks, alpha sets, and sealed boxes
+  — often overpaying by 5-10%. These items routinely sell for hundreds or thousands of dollars.The thief is probably a creative
+  money launderer rather than an massive MTG fan, and is probably reselling the cards to further obscure the source of the
+  money. Then again, MTG is more than a little addictive.'

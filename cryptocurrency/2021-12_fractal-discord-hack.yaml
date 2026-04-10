@@ -1,0 +1,18 @@
+source_name: '"A hacker scammed Fractal''s Discord and stole $150,000"'
+source_url: https://www.protocol.com/bulletins/fractal-hack-discord
+date_of_breach: '2021-12-21'
+date_of_disclosure: '2021-12-21'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fractal Discord
+blockchain: solana
+financial_loss_usd: 150000
+affected_count: 373
+notes: 'Another Discord scam netted its perpetrators around 800 SOL, or about $150,000, from 373 individuals. The scammer
+  posted a fake minting link in the official Discord of Fractal, the upcoming NFT and blockchain gaming marketplace co-founded
+  by Twitch co-founder Justin Kan. Fractal said it would be compensating all who fell for the scam. The scam was apparently
+  made possible by a compromise of the "Grape Protocol" Discord tools, a hack that was also used to target members of the
+  Monkey Kingdom NFT collection Discord that same day.
+
+
+  Total loss estimated at $150,000.'

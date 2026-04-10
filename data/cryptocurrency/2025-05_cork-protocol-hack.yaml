@@ -1,0 +1,18 @@
+source_name: '"DeFi Platform Cork Protocol Suffers $12M Smart Contract Exploit"'
+source_url: https://www.coindesk.com/business/2025/05/28/a16z-backed-cork-protocol-suffers-usd12m-smart-contract-exploit
+date_of_breach: '2025-05-28'
+date_of_disclosure: '2025-05-28'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Cork Protocol
+blockchain: ethereum
+financial_loss_usd: 12000000
+notes: 'Cork Protocol, a defi project aimed at "tokenizing the risk of depeg events for stablecoins and liquid (re)staking
+  tokens", suffered a $12 million loss after an attacker exploited a bug in how the project''s smart contract calculated exchange
+  rates. The attacker stole around 3,762 wrapped staked ETH (wstETH), which they exchanged for ETH. The project announced
+  that they were investigating the theft and had paused markets.Cork had been audited in whole or in part by four different
+  security firms. The project''s funders include Andreessen Horowitz, OrangeDAO, and Steakhouse Financial, and Cork is a part
+  of Andreessen Horowitz''s Crypto Startup Accelerator.
+
+
+  Total loss estimated at $12,000,000.'

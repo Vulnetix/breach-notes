@@ -2,7 +2,7 @@
 <section class="home-hero">
     <div class="container">
         <p class="home-tagline">Every breach is a lesson. This is the record.</p>
-        <p class="home-sub-subtitle">Attackers share tactics. Defenders should too. Browse {{ len (index hugo.Data "ransomware") | add (len (index hugo.Data "data-leak")) | add (len (index hugo.Data "supply-chain")) | add (len (index hugo.Data "credential-theft")) | add (len (index hugo.Data "other")) }} documented incidents — attack vectors, malware families, CVEs, and what actually happened.</p>
+        <p class="home-sub-subtitle">Attackers share tactics. Defenders should too. Browse {{ len (index hugo.Data "ransomware") | add (len (index hugo.Data "data-leak")) | add (len (index hugo.Data "supply-chain")) | add (len (index hugo.Data "credential-theft")) | add (len (index hugo.Data "ai")) | add (len (index hugo.Data "cryptocurrency")) | add (len (index hugo.Data "other")) }} documented incidents — attack vectors, malware families, CVEs, and what actually happened.</p>
         {{ if .Site.Params.hacker_imagery }}
         <div class="hero-hacker-background">
             <div class="binary-rain"></div>
@@ -15,7 +15,7 @@
 <section class="home-stats">
     <div class="container">
         <div class="stats-grid">
-            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "ai" "cryptocurrency" "other" }}
             {{ $total := 0 }}
             {{ $cveCount := 0 }}
             {{ $malwareCount := 0 }}
@@ -72,7 +72,7 @@
 
         <div class="breach-grid recent-breaches">
             {{ $recent := slice }}
-            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "ai" "cryptocurrency" "other" }}
             {{ range $cats }}
                 {{ $cat := . }}
                 {{ with index hugo.Data $cat }}
@@ -115,7 +115,7 @@
             <div class="contribute-step">
                 <span class="contribute-step-num">1</span>
                 <h3>Pick a category</h3>
-                <p>Each breach lives in one of five folders: <code>ransomware/</code>, <code>data-leak/</code>, <code>supply-chain/</code>, <code>credential-theft/</code>, or <code>other/</code>.</p>
+                <p>Each breach lives in one of seven folders: <code>ransomware/</code>, <code>data-leak/</code>, <code>supply-chain/</code>, <code>credential-theft/</code>, <code>ai/</code>, <code>cryptocurrency/</code>, or <code>other/</code>.</p>
             </div>
             <div class="contribute-step">
                 <span class="contribute-step-num">2</span>
@@ -136,7 +136,7 @@ source_name: "Publication or organization reporting the breach"
 source_url: "https://example.com/direct-link-to-report"
 date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
 date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
-category: "ransomware | data-leak | supply-chain | credential-theft | other"
+category: "ransomware | data-leak | supply-chain | credential-theft | ai | cryptocurrency | other"
 notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
 
 # ── Traditional breach fields ───────────────────────────────────────────────────
@@ -152,7 +152,12 @@ supply_chain_claimed: false           # true if a third-party vendor relationshi
 blockchain: "ethereum"                # blockchain(s) involved, e.g. "ethereum, solana"; omit if not applicable
 financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable
 financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable
-affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable</code></pre>
+affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable
+
+# ── AI fields ─────────────────────────────────────────────────────────────────
+ai_model_name: ""                    # AI model involved, e.g. "ChatGPT", "Claude", "Gemini"; omit if not applicable
+ai_model_provider: ""                # organization behind the model, e.g. "OpenAI", "Anthropic"; omit if not applicable
+ai_attack_vector: ""                 # AI-specific attack method, e.g. "prompt injection", "deepfake"; omit if not applicable</code></pre>
         </div>
 
         <div class="contribute-cta">

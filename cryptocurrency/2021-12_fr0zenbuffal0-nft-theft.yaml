@@ -1,0 +1,21 @@
+source_name: Tweet by Fr0zenBuffal0
+source_url: https://twitter.com/Fr0zenBuffal0/status/1476094747278290944
+date_of_breach: '2021-12-23'
+date_of_disclosure: '2021-12-23'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fr0zenBuffal0 NFT theft
+blockchain: ethereum
+financial_loss_usd: 290000
+notes: 'An NFT collector lost his Bored Ape NFT to a scammer impersonating the well-known NFT collector Jeffrey Huang, aka
+  "Machi Big Brother". The real Huang did eventually buy the NFT off the scammer for 77 ETH (about $290,000) and agreed to
+  sell it back to its original owner for that price. Although the original owner tweeted on December 30 that they were "trying
+  to launch a project that will help me raise funds to buy back my ape that was stolen", the following day they seemed disillusioned
+  with the whole space. They wrote, "Been trying to put on a good face since I lost my ape but I gotta be honest. This was
+  my kids college. My mortgage. Just absolute shit that some of you out there think it''s okay that I got ripped off. Fuck
+  you if you think theft is okay because I wasn''t ''smart'' enough. I got news for you tool boxes. This space is going to
+  zero and regulators are coming hard because the lay person isn''t coming with the attitude of a lot of you. No one is coming
+  to a space where they aren''t sure there investments are safe. Good luck in the meta".
+
+
+  Total loss estimated at $290,000.'

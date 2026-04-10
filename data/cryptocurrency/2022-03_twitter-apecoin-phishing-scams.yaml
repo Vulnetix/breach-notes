@@ -1,0 +1,22 @@
+source_name: '"Twitter Scam Uses Verified Accounts to Steal $1 Million in Fake ApeCoin Airdrop"'
+source_url: https://decrypt.co/95995/twitter-scam-accounts-steal-million-fake-ape-coin-airdrop
+date_of_breach: '2022-03-24'
+date_of_disclosure: '2022-03-24'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Twitter Apecoin phishing
+blockchain: ethereum
+financial_loss_usd: 1000000
+notes: 'Some scammers obtained hacked verified Twitter accounts, then rebranded them to claim to be founders of the Bored
+  Ape Yacht Club. They then tweeted about how their team''s ApeCoin launch had been so successful, they''d decided to airdrop
+  more tokens. Users who clicked the link and connected their wallets quickly discovered they''d been scammed when their high-value
+  NFTs were transferred from their accounts, then flipped for resale. One victim of the scam said they''d lost $600,000, and
+  tweeted: "@BhawanaCAN put out a tweet refering for more $ape available- I trusted the blue checkmark @twitter @jack now
+  the ape and my gutter cat is gone - fuck you @BhawanaCAN". @BhawanaCAN, prior to the hack, was an account belonging to the
+  former CEO of the Cricket Association of Nepal.There were multiple scammer accounts involved in the scheme, and one researcher
+  has estimated that the scammers had made around $1 million from reselling the NFTs as of March 24. A similar hack had occurred
+  several days earlier, in which a hacked verified account impersonated a BAYC founder and successfully stole three pricey
+  Bored Apes from a collector.
+
+
+  Total loss estimated at $1,000,000.'

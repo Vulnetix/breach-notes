@@ -1,0 +1,17 @@
+source_name: Post
+source_url: https://support.bitrue.com/hc/en-001/articles/17538384324121
+date_of_breach: '2023-04-14'
+date_of_disclosure: '2023-04-14'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Bitrue
+blockchain: ethereum
+financial_loss_usd: 23000000
+notes: 'The Singapore-based Bitrue crypto exchange suffered a hack on April 14 in which attackers siphoned tokens including
+  Ethereum, Shiba Inu, and MATIC (the token for the Polygon network). Altogether the stolen funds were estimated at around
+  $23 million.Bitrue didn''t release details on how the attack had been achieved, but explained that one of their hot wallets
+  had been impacted. They announced that they would be pausing withdrawals for several days as they investigated the incident,
+  and that they would be compensating affected users.
+
+
+  Total loss estimated at $23,000,000.'

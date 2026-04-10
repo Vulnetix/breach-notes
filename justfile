@@ -15,7 +15,7 @@ build: sync-data generate-recent
 # Sync YAML breach data into Hugo data directory
 sync-data:
     mkdir -p data
-    for cat in ransomware data-leak supply-chain credential-theft other; do \
+    for cat in ransomware data-leak supply-chain credential-theft ai cryptocurrency other; do \
         rm -rf "data/$cat"; \
         cp -r "$cat" "data/$cat"; \
     done

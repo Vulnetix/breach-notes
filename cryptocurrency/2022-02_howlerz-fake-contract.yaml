@@ -1,0 +1,21 @@
+source_name: Thread by HOWLERZNFT
+source_url: https://twitter.com/HOWLERZNFT/status/1497566235667619843
+date_of_breach: '2022-02-26'
+date_of_disclosure: '2022-02-26'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Howlerz fake contract
+blockchain: ethereum
+financial_loss_usd: 675000
+notes: 'A heavily-hyped NFT project called "Howlerz" released its project via "secret mint" with no allowlist, and it went
+  very, very poorly. Would-be buyers who were excitedly waiting for the mint to begin were fooled by a fake contract that
+  scammed buyers for a total of 250 ETH ($675,000). When the project did mint for real, its NFTs sold out within seconds to
+  the swarm of bots waiting to snap up the assets. Some prospective buyers who tried to buy the NFTs ran into "out of gas"
+  problems, where they spent too little gas to cover the transaction, and ended up losing the gas fee on a failed transaction.
+  This is a problem that is usually addressed by NFT developers in their contracts by adding a buffer to the estimated gas
+  required.Part of this collection''s draw has been the promise that "you own the art". However, the artwork is released under
+  the CC0 license, which dedicates the work to the public domain — that is, any ownership of the work in a copyright sense
+  no longer exists.
+
+
+  Total loss estimated at $675,000.'

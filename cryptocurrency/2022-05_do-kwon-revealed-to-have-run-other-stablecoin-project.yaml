@@ -1,0 +1,18 @@
+source_name: '"UST’s Do Kwon Was Behind Earlier Failed Stablecoin, Ex-Terra Colleagues Say"'
+source_url: https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/
+date_of_breach: '2022-05-11'
+date_of_disclosure: '2022-05-11'
+category: cryptocurrency
+vendor_product: Do Kwon revealed to have run other stablecoin project
+blockchain: terra
+notes: In a scoop published shortly after the catastrophes began with TerraUSD and Luna, CoinDesk reported that Terraform
+  Labs CEO Do Kwan had also previously led a different failed stablecoin project. Using the pseudonym "Rick Sanchez", Kwon
+  created "Basis Cash" (BAC), another algorithmic stablecoin. Basis Cash also aimed to peg to the US dollar, but never actually
+  achieved this value. The coin has traded far below $1 for most of its existence, dropping and remaining below $0.01 in early
+  2021.Do Kwon has never disclosed his involvement with this failed project. CoinDesk wrote that although their "default position
+  is to respect the privacy of pseudonymous actors with established reputations under their well-known handles unless there
+  is an overwhelming public interest in revealing their real-world identities", there was now "such public interest as Kwon's
+  UST stablecoin death spirals, wreaking havoc across the broader cryptocurrency market. Amid this precarious situation, investors
+  deserve to know that UST was not Kwon's sole attempt at making an algorithmic stablecoin work." It was not made clear in
+  the article when CoinDesk first learned of Kwon's connection to Basis Cash, though the authors later stated they'd learned
+  of it the night before they published.

@@ -1,0 +1,12 @@
+source_name: '"Host of 10% of Ethereum nodes prohibits crypto usage, discussing consequences"'
+source_url: https://www.theblock.co/post/165976/host-of-10-of-ethereum-nodes-prohibits-crypto-usage-discussing-consequences?utm_source=rss&utm_medium=rss
+date_of_breach: '2022-08-23'
+date_of_disclosure: '2022-08-23'
+category: cryptocurrency
+vendor_product: Ethereum nodes at risk of being booted from hosting provider
+blockchain: ethereum
+notes: The virtual server provider Hetzner posted a clarification that using its service to mine Ethereum — either in its
+  current form or in the promised proof-of-stake version — violates its terms of service and that the company has been "internally
+  discussing how we can best address this issue".16% of all hosting nodes (a category that makes up 62% of all nodes by network
+  type) are hosted with Hetzner —  10% of all nodes. If 10% of all Ethereum nodes being supported by one company sounds awfully
+  centralized to you, wait til you hear that 30% run on Amazon services.

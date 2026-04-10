@@ -1,0 +1,29 @@
+source_name: '"Arbitrum Shows Just How Messy (and Tricky) Crypto Airdrops Can Be"'
+source_url: https://www.coindesk.com/tech/2023/03/29/arbitrum-shows-just-how-messy-and-tricky-crypto-airdrops-can-be/
+date_of_breach: '2023-03-31'
+date_of_disclosure: '2023-03-31'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: Arbitrum airdrop
+blockchain: ethereum
+financial_loss_usd: 1320000
+affected_count: 10000
+notes: 'A token airdrop from the popular Arbitrum Ethereum L2 illustrated many of the challenges with airdrops: events where
+  tokens are automatically distributed to a group of crypto wallets, in this case based on how much they had used the platform.
+  The tokens will ultimately be used for community voting on protocol changes, but also have value on the secondary market.
+  Users were eager to snap them up, particularly as users speculated that the price could reach $10/token (as yet it has not,
+  remaining around $1.38).However, the airdrop had a bumpy start, with scammers latching on to the event to proliferate fake
+  airdrop websites. Phishers reportedly scammed more than 10,000 people using these schemes. At one point, Twitter even suspended
+  the real Arbitrum Twitter account after mistaking it for one of the many phishing accounts. Attackers also compromised a
+  Discord account belonging to an Arbitrum developer, using it to post a phishing link to the official Arbitrum Discord server.Then,
+  when the time for the airdrop came, the token claiming website crashed on the traffic, as did the Arbitrum block explorer.
+  Those who were able to claim their tokens paid exorbitant gas fees, and some wallets attempting to estimate required gas
+  fees malfunctioned, showing estimates in the billions of dollars.Finally, the airdrop was widely gamed by people commandeering
+  hacked vanity addresses to receive the airdrop tokens allocated to them, with at least $500,000 worth of tokens reportedly
+  claimed by one attacker. Other attackers scrambled to compete with one another to claim tokens allocated to compromised
+  wallets whose private keys had been shared publicly on Github and elsewhere, trying to be the first to siphon the funds.
+  Two additional exploiters siphoned a combined total of more than 1 million ARB tokens from other wallets. One sold them
+  for 713 ETH ($1.27 million); the other transferred the ARB tokens to other wallets.
+
+
+  Total loss estimated at $1,320,000.'

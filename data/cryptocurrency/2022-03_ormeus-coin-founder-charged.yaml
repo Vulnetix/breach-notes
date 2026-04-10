@@ -1,0 +1,16 @@
+source_name: '"John Barksdale Charged With Cryptocurrency Securities Fraud In Connection With Sale Of Ormeus Coin"'
+source_url: https://www.justice.gov/usao-sdny/pr/john-barksdale-charged-cryptocurrency-securities-fraud-connection-sale-ormeus-coin
+date_of_breach: '2022-03-08'
+date_of_disclosure: '2022-03-08'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Ormeus Coin founder charged
+blockchain: bitcoin
+affected_count: 12000
+notes: John Barksdale, part of the sibling duo behind Ormeus Coin, was charged with conspiracy, securities fraud, and wire
+  fraud for his role in selling the Ormeus Coin token. He allegedly falsely represented the mining assets controlled by the
+  company, claiming a mining operation that would have been one of the largest in the world, if his representations were true.
+  The company also claimed to have reserves of Bitcoin backing their currency, when in reality these "reserves" belonged to
+  a completely different entity. Through these misrepresentations, which were widely published including in a Times Square
+  billboard, Barksdale drew $70 million in investment from around 12,000 individuals. The various charges Barksdale is facing
+  involve maximum sentences between 5 and 20 years in prison. The SEC also filed a parallel civil action against the Barksdales.

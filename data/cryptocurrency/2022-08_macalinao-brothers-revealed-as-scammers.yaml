@@ -1,0 +1,19 @@
+source_name: '"Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem"'
+source_url: https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/
+date_of_breach: '2022-08-04'
+date_of_disclosure: '2022-08-04'
+category: cryptocurrency
+vendor_product: Macalinao brothers revealed as
+blockchain: solana
+notes: CoinDesk revealed that eleven developers behind Solana projects including Sunny Aggregator and Cashio were all actually
+  personas created by Ian Macalinao. Macalinao created the Saber protocol on Solana, and used his personas to build what appeared
+  to be independent projects that all used Saber. In doing so, he was able to artificially inflate the apparent total value
+  locked (TVL) on Solana by double-counting the same tokens. At their peak popularity, Saber and Sunny were responsible for
+  the $7.5 billion of Solana's $10.5 billion TVL.In an unpublished blog post where he confessed to his deception, he wrote,
+  "I believe it contributed to the dramatic rise of SOL". He wrote the post shortly after one of his persona's projects, Cashio,
+  was hacked for $52 million, but apparently shelved it.Ian Macalinao's brother Dylan, the other co-founder of Saber protocol,
+  aided in the scheme by lending credibility to Ian's various personas to those who had doubts about trusting money to projects
+  led by pseudonymous individuals.All told, Ian Macalinao was responsible for the Saber protocol, the Protagonist VC firm
+  and incubator, and Ubeswap under his real name. He created Sunny Aggregator as Surya Khosla, Cashio as 0xGhostchain, Goki
+  as Goki Rajesh, Quarry as Larry Jarry, TribecaDAO as Swaglioni, Crate as kiwipepper, aSOL as 0xAurelion, Arrow as oliver_code,
+  Traction.Market as 0xIsaacNewton, Sencha as jjmatcha, and VenkoApp as ayyakovenko.

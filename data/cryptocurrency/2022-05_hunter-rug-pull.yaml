@@ -1,0 +1,16 @@
+source_name: Tweet thread by CertiKAlert
+source_url: https://twitter.com/CertiKAlert/status/1523153063875575809
+date_of_breach: '2022-05-08'
+date_of_disclosure: '2022-05-08'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Hunter
+blockchain: bsc
+financial_loss_usd: 1200000
+notes: 'Under the pretense of a contract upgrade, the Hunter defi project team drained the liquidity from the project, swapping
+  the tokens for assets worth around $1.2 million. The team also took down the project website and closed the Discord server.The
+  rug pull was first noticed by CertiK, a blockchain security firm that had also audited the project. "We pointed out these
+  major centralization issues in their audit," CertiK wrote on Twitter.
+
+
+  Total loss estimated at $1,200,000.'

@@ -1,0 +1,20 @@
+source_name: Tweet thread by TheJonnyReid
+source_url: https://twitter.com/TheJonnyReid/status/1528350421047189506
+date_of_breach: '2022-05-22'
+date_of_disclosure: '2022-05-22'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: Johnny Reid wallet
+blockchain: ethereum
+financial_loss_usd: 203000
+notes: 'Crypto speculator Jonny Reid wrote on May 22 that his crypto wallet had been hacked and drained of approximately $203,000.
+  He wrote that he had never owned a hardware wallet before and had only used MyEtherWallet and MetaMask. "My security has
+  always been great, always cautious with phishing links / websites / discord / telegram / social media scans etc". He wrote
+  that he suspected the compromise might have been the result of a Chrome extension he had downloaded to auto-refresh a page
+  to schedule a passport appointment.Reid traced the stolen funds until they disappeared into the crypto exchange "Fixed Float".
+  Reid contacted the exchange, who told him they couldn''t supply him with server logs without a law enforcement request.
+  Reid wrote that he was "angry [with] the fact they cant provide me with any details to help me follow the trace" and urged
+  crypto Twitter to try to pressure the exchange to release more information to him.
+
+
+  Total loss estimated at $203,000.'

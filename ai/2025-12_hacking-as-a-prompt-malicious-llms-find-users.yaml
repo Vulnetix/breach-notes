@@ -1,0 +1,20 @@
+source_name: 'Hacking as a Prompt: Malicious LLMs Find Users (DataBreachToday)'
+source_url: https://www.databreachtoday.com/hacking-as-prompt-malicious-llms-find-users-a-30224
+date_of_breach: '2025-12-08'
+date_of_disclosure: '2025-12-08'
+date_of_customer_notification: ''
+category: ai
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The cybercrime-as-a-service model has a new product line, with malicious large
+  language models built without ethical guardrails selling on Telegram for $50 monthly
+
+
+  Source: DataBreachToday article coverage.'
+ai_model_name: ""
+ai_model_provider: ""
+ai_attack_vector: "malicious LLM"

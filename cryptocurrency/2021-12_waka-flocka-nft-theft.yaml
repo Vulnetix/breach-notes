@@ -1,0 +1,16 @@
+source_name: Tweet from WakaFlocka
+source_url: https://twitter.com/WakaFlocka/status/1475709903184412675
+date_of_breach: '2021-12-28'
+date_of_disclosure: '2021-12-28'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Waka Flocka NFT theft
+blockchain: ethereum
+financial_loss_usd: 19000
+notes: 'Waka Flocka Flame posted to Twitter: "@opensea One of me wallets was hacked wtf man". In a video, he showed NFTs in
+  his OpenSea wallet, saying "This is fake, this is fake, this is fake, this is fake. They popped up in my wallet, I clicked
+  on it to delete it, immediately they stole 19 grand. Happily I just started this wallet, they already stole 19,000 out of
+  it. I need fucking help immediately."
+
+
+  Total loss estimated at $19,000.'

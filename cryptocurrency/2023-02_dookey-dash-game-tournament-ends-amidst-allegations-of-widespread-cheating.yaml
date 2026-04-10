@@ -1,0 +1,20 @@
+source_name: '"Gamers Are Paying Thousands for High Scores in Yuga Labs'' Dookey Dash"'
+source_url: https://decrypt.co/120864/gamers-are-paying-thousands-high-scores-yuga-labs-dookey-dash
+date_of_breach: '2023-02-08'
+date_of_disclosure: '2023-02-08'
+category: cryptocurrency
+vendor_product: '"Dookey Dash" game tournament ends amidst allegations of widespread cheating'
+blockchain: ethereum
+notes: Yuga Labs released an endless runner game called "Dookey Dash" (really) where players compete to see how long they
+  can keep their character navigating through a sewer pipe without crashing. Access to the game is granted through "Sewer
+  Pass" NFTs, which can be claimed by people who own Bored Apes or Mutant Apes, but which were also trading on the secondary
+  market for around 3.1 ETH ($5,100).Yuga Labs has said that, following the end of the three-week-long game tournament, the
+  Sewer Passes with non-zero scores in the game will transform into something new, with the idea that higher scorers may receive
+  more valuable NFTs.This, of course, incentivized users to try to cheat in the game by creating bots, changing the browser-based
+  game code to eliminate obstacles, or access game seeds that allowed them to predict the layout of a course run. Sewer Pass
+  holders began paying others to play their game for them — either more skilled players, or players who were using these tools.
+  Some were charging up to 2.5 ETH (~$4,200) to obtain scores of 700,000 or more for those who hired them.Yuga Labs has promised
+  to review gameplay to ensure that those who cheated are disqualified. They've also warned people buying Sewer Passes after
+  gameplay ended that if they buy a pass that is determined to have cheated, it will be worthless. Some are skeptical of Yuga's
+  ability to accurately detect cheaters, and others have expressed concern over false positives in the game's cheat detection
+  that appeared to be caused by slower Internet connections.

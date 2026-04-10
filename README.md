@@ -3,7 +3,7 @@
 Structured YAML records of breach reports, advisories, and cyber incidents.
 
 <!-- BEGIN GENERATED -->
-**Last updated:** 2026-04-11  **Total records:** 3893
+**Last updated:** 2026-04-10  **Total records:** 3893
 
 ---
 
@@ -30,11 +30,13 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 
 | Category | Count | % |
 |----------|-------|---|
-| ransomware | 227 | 6% |
-| data-leak | 1384 | 36% |
-| supply-chain | 793 | 20% |
-| credential-theft | 156 | 4% |
-| other | 1333 | 34% |
+| ransomware | 225 | 6% |
+| data-leak | 864 | 22% |
+| supply-chain | 788 | 20% |
+| credential-theft | 152 | 4% |
+| ai | 45 | 1% |
+| cryptocurrency | 1086 | 28% |
+| other | 733 | 19% |
 
 ## Incidents by Year
 
@@ -227,7 +229,7 @@ source_name: "Publication or organization reporting the breach"
 source_url: "https://example.com/direct-link-to-report"
 date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
 date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
-category: "ransomware | data-leak | supply-chain | credential-theft | other"
+category: "ransomware | data-leak | supply-chain | credential-theft | ai | cryptocurrency | other"
 notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
 
 # ── Traditional breach fields ───────────────────────────────────────────────────
@@ -244,6 +246,11 @@ blockchain: "ethereum"                # blockchain(s) involved, e.g. "ethereum, 
 financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable
 financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable
 affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable
+
+# ── AI fields ─────────────────────────────────────────────────────────────────
+ai_model_name: ""                    # AI model involved, e.g. "ChatGPT", "Claude", "Gemini"; omit if not applicable
+ai_model_provider: ""                # organization behind the model, e.g. "OpenAI", "Anthropic"; omit if not applicable
+ai_attack_vector: ""                 # AI-specific attack method, e.g. "prompt injection", "deepfake"; omit if not applicable
 ```
 
 ## Folders
@@ -252,4 +259,6 @@ affected_count: 0                    # number of affected wallets, users, or ind
 - `data-leak/` — customer data exposure
 - `supply-chain/` — supply chain attacks
 - `credential-theft/` — credential compromise
+- `ai/` — AI-related cybersecurity incidents
+- `cryptocurrency/` — cryptocurrency, DeFi, and Web3 incidents
 - `other/` — uncategorized or multi-category

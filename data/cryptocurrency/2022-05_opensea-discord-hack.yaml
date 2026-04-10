@@ -1,0 +1,19 @@
+source_name: '"OpenSea Discord Hacked, NFTs Stolen Using Fake YouTube Site"'
+source_url: https://www.vice.com/en/article/m7vz3y/opensea-discord-hacked-nfts-stolen-using-fake-youtube-site
+date_of_breach: '2022-05-06'
+date_of_disclosure: '2022-05-06'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: OpenSea Discord
+blockchain: ethereum
+financial_loss_usd: 20000
+notes: 'The OpenSea Discord server was compromised, allowing a scammer to post a seemingly-official announcement that OpenSea
+  was partnering with YouTube on a line of NFTs. They urged people to act quickly to snag one of only 100 free NFTs that would
+  offer "insane utility".Given OpenSea''s prominence, it''s surprising that the hacker managed to obtain relatively few NFTs
+  of much value. The wallet appeared to have successfully stolen only 13 NFTs, none of which were from high-value collections,
+  that are worth a collective $20,000 if resold at the collections'' floor prices.OpenSea tweeted several messages acknowledging
+  the hack and urging users not to click any links. They have not yet confirmed that they''ve conclusively re-secured their
+  server.
+
+
+  Total loss estimated at $20,000.'

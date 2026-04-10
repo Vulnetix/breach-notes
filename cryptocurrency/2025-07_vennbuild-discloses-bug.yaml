@@ -1,0 +1,14 @@
+source_name: Tweet thread by deeberiroz
+source_url: https://x.com/deeberiroz/status/1943041785476894996
+date_of_breach: '2025-07-09'
+date_of_disclosure: '2025-07-09'
+category: cryptocurrency
+initial_attack_vector: Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise
+vendor_product: VennBuild discloses bug
+blockchain: ethereum
+notes: On July 9, security researchers at VennBuild and other firms disclosed a "critical backdoor" affecting thousands of
+  smart contracts, which one of the researchers said left "over $10,000,000 at risk for months". The researchers suggested
+  that the backdoor was likely created by Lazarus, a North Korean state-sponsored hacking group.According to the researchers,
+  they found thousands of contracts affected by the exploit, and worked with multiple protocols to upgrade contracts or withdraw
+  vulnerable funds. The researchers theorized that the attackers were "likely a sophisticated group waiting for a bigger target,
+  not small wins."

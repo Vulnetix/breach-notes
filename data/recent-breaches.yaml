@@ -1,5 +1,8 @@
 recent_breaches:
     - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: ""
       category: data-leak
       cve: []
@@ -19,6 +22,9 @@ recent_breaches:
       supply_chain_claimed: false
       vendor_product: ""
     - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: ""
       category: data-leak
       cve: []
@@ -38,22 +44,9 @@ recent_breaches:
       supply_chain_claimed: false
       vendor_product: ""
     - affected_count: 0
-      blockchain: ""
-      category: ransomware
-      cve: []
-      date_of_breach: "2026-04-07"
-      date_of_disclosure: "2026-04-07"
-      financial_loss_usd: 0
-      financial_recovered_usd: 0
-      initial_attack_vector: Ransomware or destructive cyberattack on the Massachusetts healthcare system's IT infrastructure; the attack forced the organisation to take clinical systems offline and revert to paper-based downtime procedures; emergency services were diverted to protect patient safety
-      malware: ""
-      notes: On approximately 7 April 2026, a Massachusetts healthcare system disclosed it was experiencing a cyberattack that forced the organisation to divert ambulance patients to other facilities and operate under full downtime procedures. The healthcare system's clinical and administrative IT systems were taken offline as a containment measure. Downtime procedures — the reversion to paper-based workflows for patient care documentation, medication ordering, and clinical decision-making — indicate a significant disruption to the EHR and hospital information systems. Ambulance diversion is among the most serious patient safety impacts of healthcare cyberattacks, as critically ill patients may require transport to more distant facilities, potentially worsening outcomes in time-sensitive conditions such as stroke or cardiac arrest. The healthcare organisation was working with cybersecurity firms and law enforcement to investigate and restore systems. The incident occurred on the same day (7 April 2026) as the ChipSoft Netherlands hospitals ransomware attack, illustrating the continued and intensifying targeting of healthcare infrastructure globally. The full identity of the Massachusetts healthcare system and the specific threat actor responsible had not been publicly confirmed at time of initial reporting. Massachusetts has been disproportionately affected by healthcare ransomware attacks given its concentration of major academic medical centers and community hospitals. This incident adds to a pattern of 2026 healthcare sector attacks that include Frederick Health (January), Kettering Health (May 2025), and numerous others.
-      software_package: ""
-      source_name: Massachusetts Healthcare System Ransomware — Ambulance Diversion, Downtime Procedures
-      source_url: https://www.databreachtoday.com/mass-hospital-diverting-ambulances-as-deals-attack-a-31356
-      supply_chain_claimed: false
-      vendor_product: Massachusetts healthcare system IT infrastructure (identity not disclosed at time of reporting)
-    - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: ""
       category: ransomware
       cve: []
@@ -70,8 +63,30 @@ recent_breaches:
       supply_chain_claimed: true
       vendor_product: ChipSoft HiX (Electronic Patient Dossier / EPD healthcare platform)
     - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
+      blockchain: ""
+      category: ransomware
+      cve: []
+      date_of_breach: "2026-04-07"
+      date_of_disclosure: "2026-04-07"
+      financial_loss_usd: 0
+      financial_recovered_usd: 0
+      initial_attack_vector: Ransomware or destructive cyberattack on the Massachusetts healthcare system's IT infrastructure; the attack forced the organisation to take clinical systems offline and revert to paper-based downtime procedures; emergency services were diverted to protect patient safety
+      malware: ""
+      notes: On approximately 7 April 2026, a Massachusetts healthcare system disclosed it was experiencing a cyberattack that forced the organisation to divert ambulance patients to other facilities and operate under full downtime procedures. The healthcare system's clinical and administrative IT systems were taken offline as a containment measure. Downtime procedures — the reversion to paper-based workflows for patient care documentation, medication ordering, and clinical decision-making — indicate a significant disruption to the EHR and hospital information systems. Ambulance diversion is among the most serious patient safety impacts of healthcare cyberattacks, as critically ill patients may require transport to more distant facilities, potentially worsening outcomes in time-sensitive conditions such as stroke or cardiac arrest. The healthcare organisation was working with cybersecurity firms and law enforcement to investigate and restore systems. The incident occurred on the same day (7 April 2026) as the ChipSoft Netherlands hospitals ransomware attack, illustrating the continued and intensifying targeting of healthcare infrastructure globally. The full identity of the Massachusetts healthcare system and the specific threat actor responsible had not been publicly confirmed at time of initial reporting. Massachusetts has been disproportionately affected by healthcare ransomware attacks given its concentration of major academic medical centers and community hospitals. This incident adds to a pattern of 2026 healthcare sector attacks that include Frederick Health (January), Kettering Health (May 2025), and numerous others.
+      software_package: ""
+      source_name: Massachusetts Healthcare System Ransomware — Ambulance Diversion, Downtime Procedures
+      source_url: https://www.databreachtoday.com/mass-hospital-diverting-ambulances-as-deals-attack-a-31356
+      supply_chain_claimed: false
+      vendor_product: Massachusetts healthcare system IT infrastructure (identity not disclosed at time of reporting)
+    - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: bitcoin
-      category: data-leak
+      category: cryptocurrency
       cve: []
       date_of_breach: "2026-04-06"
       date_of_disclosure: "2026-04-06"
@@ -89,8 +104,30 @@ recent_breaches:
       supply_chain_claimed: false
       vendor_product: Bitcoin Depot
     - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: ""
-      category: credential-theft
+      category: supply-chain
+      cve: []
+      date_of_breach: "2026-04-03"
+      date_of_disclosure: "2026-04-03"
+      financial_loss_usd: 0
+      financial_recovered_usd: 0
+      initial_attack_vector: TeamPCP (UNC6780) leveraged credentials stolen via the March 2026 Trivy vulnerability scanner supply chain compromise to breach Cisco's internal development and build environment via a malicious GitHub Action plugin
+      malware: TeamPCP Cloud Stealer
+      notes: In early April 2026, Cisco disclosed that attackers leveraged credentials stolen through the March 2026 Trivy supply chain compromise (attributed to TeamPCP / UNC6780) to penetrate Cisco's internal development and build environment. The malicious GitHub Action plugin from the Trivy compromise was used to steal credentials and data. More than 300 GitHub repositories were cloned, and AWS keys were allegedly stolen. Exposed material reportedly includes source code tied to AI-related projects, with some repositories allegedly connected to corporate customers. Dozens of developer and lab workstations were impacted. Cisco's Unified Intelligence Center, CSIRT, and EOC teams contained the breach. TeamPCP (also tracked by Google GTIG as UNC6780) is the same threat group behind the LiteLLM/PyPI → Mercor breach (March 2026) and the Trivy → European Commission AWS breach (March 2026). The group has been conducting a series of supply chain attacks targeting developer platforms including GitHub, PyPI, NPM, and Docker using their 'TeamPCP Cloud Stealer' infostealer.
+      software_package: Trivy
+      source_name: Cisco Source Code Stolen via Trivy Supply Chain Attack (TeamPCP)
+      source_url: https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/
+      supply_chain_claimed: true
+      vendor_product: Trivy (open-source vulnerability scanner); GitHub Actions
+    - affected_count: 0
+      ai_attack_vector: supply chain attack
+      ai_model_name: ""
+      ai_model_provider: Mercor
+      blockchain: ""
+      category: ai
       cve: []
       date_of_breach: "2026-04-03"
       date_of_disclosure: "2026-04-03"
@@ -108,22 +145,9 @@ recent_breaches:
       supply_chain_claimed: false
       vendor_product: ""
     - affected_count: 0
-      blockchain: ""
-      category: supply-chain
-      cve: []
-      date_of_breach: "2026-04-03"
-      date_of_disclosure: "2026-04-03"
-      financial_loss_usd: 0
-      financial_recovered_usd: 0
-      initial_attack_vector: TeamPCP (UNC6780) leveraged credentials stolen via the March 2026 Trivy vulnerability scanner supply chain compromise to breach Cisco's internal development and build environment via a malicious GitHub Action plugin
-      malware: TeamPCP Cloud Stealer
-      notes: In early April 2026, Cisco disclosed that attackers leveraged credentials stolen through the March 2026 Trivy supply chain compromise (attributed to TeamPCP / UNC6780) to penetrate Cisco's internal development and build environment. The malicious GitHub Action plugin from the Trivy compromise was used to steal credentials and data. More than 300 GitHub repositories were cloned, and AWS keys were allegedly stolen. Exposed material reportedly includes source code tied to AI-related projects, with some repositories allegedly connected to corporate customers. Dozens of developer and lab workstations were impacted. Cisco's Unified Intelligence Center, CSIRT, and EOC teams contained the breach. TeamPCP (also tracked by Google GTIG as UNC6780) is the same threat group behind the LiteLLM/PyPI → Mercor breach (March 2026) and the Trivy → European Commission AWS breach (March 2026). The group has been conducting a series of supply chain attacks targeting developer platforms including GitHub, PyPI, NPM, and Docker using their 'TeamPCP Cloud Stealer' infostealer.
-      software_package: Trivy
-      source_name: Cisco Source Code Stolen via Trivy Supply Chain Attack (TeamPCP)
-      source_url: https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/
-      supply_chain_claimed: true
-      vendor_product: Trivy (open-source vulnerability scanner); GitHub Actions
-    - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: ""
       category: data-leak
       cve: []
@@ -143,6 +167,9 @@ recent_breaches:
       supply_chain_claimed: false
       vendor_product: ""
     - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: ""
       category: other
       cve: []
@@ -159,8 +186,11 @@ recent_breaches:
       supply_chain_claimed: false
       vendor_product: Drift Protocol (Solana DeFi perpetual futures DEX)
     - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: solana
-      category: data-leak
+      category: cryptocurrency
       cve: []
       date_of_breach: "2026-04-01"
       date_of_disclosure: "2026-04-01"
@@ -177,4 +207,4 @@ recent_breaches:
       source_url: https://www.theblock.co/post/396183/drift-280m-exploit-zachxbt-circle
       supply_chain_claimed: false
       vendor_product: Drift
-updated_at: "2026-04-11 02:32:47"
+updated_at: "2026-04-10 23:45:37"

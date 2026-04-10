@@ -1,0 +1,11 @@
+source_name: '"Solana Blockchain Suffers 5-Hour Outage"'
+source_url: https://www.coindesk.com/markets/2024/02/06/solana-network-suffers-brief-outage-sol-steady/
+date_of_breach: '2024-02-06'
+date_of_disclosure: '2024-02-06'
+category: cryptocurrency
+vendor_product: February 2024 Solana outage
+blockchain: solana
+notes: They were doing so well! After suffering a slew of outages during 2022, Solana had seemed to get their act together
+  in 2023 with only one major outage. Now, however, Solana has gone offline again for five hours.With blockchains promising
+  to become "world computers" upon which anyone can create projects ranging from mere toys to critical infrastructure, uptime
+  is crucial, and a five-hour-long outage is devastating.

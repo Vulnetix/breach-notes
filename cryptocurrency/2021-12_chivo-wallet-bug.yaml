@@ -1,0 +1,14 @@
+source_name: Tweet thread by _elcomisionado_
+source_url: https://twitter.com/_elcomisionado_/status/1472326380620632064
+date_of_breach: '2021-12-18'
+date_of_disclosure: '2021-12-18'
+category: cryptocurrency
+vendor_product: Chivo Wallet bug
+blockchain: bitcoin
+financial_loss_usd: 96224
+notes: 'A Twitter thread showed dozens of people reporting amounts from hundreds to tens of thousands of dollars disappearing
+  from their Chivo Wallets, the Bitcoin wallet backed by El Salvadoran President Nayib Bukele. El Salvador adopted Bitcoin
+  as legal tender in September of this year, where it is used alongside the U.S. dollar.
+
+
+  Total loss estimated at $96,224.'

@@ -1,0 +1,18 @@
+source_name: Tweet by Spreekaway
+source_url: https://twitter.com/spreekaway/status/1634399712483635202
+date_of_breach: '2023-03-10'
+date_of_disclosure: '2023-03-10'
+category: cryptocurrency
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Kyber bug
+blockchain: ethereum
+financial_loss_usd: 1970000
+notes: 'Someone tried to swap around 2.03 million 3CRV tokens (priced at around $1.97 million) for stablecoins using the KyberSwap
+  decentralized exchange protocol. However, due to an apparent flaw in which the protocol routed the trade through a project
+  with very little liquidity. The trade suffered from massive slippage, and was frontrun by an MEV bot. The MEV bot made off
+  with a nice $34,400, and the trader wound up with only five cents in the Tether stablecoin.Kyber seemed to acknowledge that
+  the issue was on their end, tweeting that "We have been in touch with him and are investigating the issue. We will provide
+  an update soon."
+
+
+  Total loss estimated at $1,970,000.'

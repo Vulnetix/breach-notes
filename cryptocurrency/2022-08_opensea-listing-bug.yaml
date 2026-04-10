@@ -1,0 +1,18 @@
+source_name: Tweet by penguin_curator
+source_url: https://twitter.com/penguin_curator/status/1561018128280199175
+date_of_breach: '2022-08-20'
+date_of_disclosure: '2022-08-20'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: OpenSea listing bug
+blockchain: ethereum
+financial_recovered_usd: 20000
+notes: The same issue that led to OpenSea paying out $1.8 million to users who lost their NFTs is apparently still alive and
+  well (despite OpenSea's introduction of an "Inactive listings" panel). Users who have listed NFTs for sale and never removed
+  the listing have occasionally been surprised in a very bad way when their NFT suddenly sells for an old price — sometimes
+  much different than the going prices for those NFTs.In this case, a person successfully sold their Pudgy Penguin NFT for
+  8.69 ETH a year ago ($27,500 at the time of sale). Those particular NFTs have been having a comeback lately, and so the
+  collector bought the same NFT back — this time for 20 ETH ($31,500 at the time of sale). However, an old listing from their
+  previous ownership was still active, and someone was able to snap up the NFT from them for only 9.89 ETH ($15,600) within
+  minutes.The collector's near-instantaneous $20,000 loss has a happy ending for them, though — the person who bought the
+  NFT was willing to reverse the trade.

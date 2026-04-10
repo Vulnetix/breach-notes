@@ -1,0 +1,16 @@
+source_name: "AI-Powered Identity Theft Wave — Synthetic Identity Fraud, Deepfake KYC Bypass 2025-2026"
+source_url: "https://www.idtheftcenter.org/post/2025-annual-data-breach-report/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-12-31"
+date_of_customer_notification: ""
+category: ai
+initial_attack_vector: "Threat actors use generative AI tools to create synthetic identities combining real and fabricated personal data; deepfake video and voice generation is used to bypass live KYC (Know Your Customer) verification at banks and cryptocurrency exchanges; AI-driven phishing and vishing attacks increase success rates and reduce costs for attackers"
+cve: []
+vendor_product: "Financial institutions, cryptocurrency exchanges, and identity verification platforms globally"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "By 2025-2026, AI-powered identity theft had emerged as a major and growing threat category, representing a structural shift in how identity fraud and credential theft are conducted at scale. Key developments documented by the Identity Theft Resource Center (ITRC), Okta, and industry researchers: (1) Synthetic identity fraud — AI generates complete fake identities combining real SSNs obtained from data breaches with generated names, addresses, and photos, enabling new account fraud at financial institutions; (2) Deepfake KYC bypass — generative AI video and voice tools defeat liveness detection at banks, crypto exchanges, and identity verification services (Jumio, Onfido, Sumsub) enabling account takeover and fraudulent account creation; (3) AI voice cloning enables highly convincing vishing calls impersonating bank fraud departments, CEOs (BEC), and customer service agents, bypassing voice authentication systems used by major banks; (4) AI-generated phishing emails achieve higher click rates by personalising content using data scraped from social media and data breach dumps; (5) Deepfake impersonation of executives for wire transfer fraud (BEC 2.0) — video call fraud where a fake CFO or CEO authorises fraudulent transactions in real-time video meetings. Verified incidents include the 2024 Arup Engineering deepfake CFO video call fraud ($25M lost in Hong Kong), multiple crypto exchange KYC bypass incidents confirmed by Chainalysis, and a documented AI voice fraud against a major European energy company ($243,000 stolen). ITRC reports that data breach-enabled identity theft complaints exceeded 1.4 million in 2025. The UK NCSC, US FTC, and ENISA all issued 2025-2026 advisories on AI-enabled identity threats."
+ai_model_name: ""
+ai_model_provider: ""
+ai_attack_vector: "deepfake"

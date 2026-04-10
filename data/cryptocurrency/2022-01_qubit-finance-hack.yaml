@@ -1,0 +1,16 @@
+source_name: Tweet by Qubit Finance
+source_url: https://twitter.com/QubitFin/status/1486870238591594497
+date_of_breach: '2022-01-27'
+date_of_disclosure: '2022-01-27'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Qubit Finance
+blockchain: bsc
+financial_loss_usd: 80000000
+notes: 'An attacker exploited a bug in Qubit Finance, a decentralized lending platform. The bug allowed them to call the "deposit"
+  function without actually depositing any funds. This enabled the attacker to mint 77,162 xETH collateral, which they exchanged
+  for BNB worth nearly $80 million. The platform has said they have tried to contact the exploiter to offer the "maximum bounty",
+  which is apparently $250,000. Tempting, I''m sure.
+
+
+  Total loss estimated at $80,000,000.'

@@ -1,0 +1,20 @@
+source_name: Tweet by Kevin Rose
+source_url: https://twitter.com/kevinrose/status/1618323487067869184
+date_of_breach: '2023-01-25'
+date_of_disclosure: '2023-01-25'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Kevin Rose wallet
+blockchain: ethereum
+financial_loss_usd: 831000
+notes: 'Kevin Rose, perhaps best known as the founder of Digg, but also a prominent crypto investor and entrepreneur, lost
+  a substantial number of pricey NFTs when he apparently signed a malicious transaction. The hacker stole 25 Squiggles NFTs,
+  which are trading at a floor price of 13.3 ETH, putting the estimated price based on the floor price at around 332.5 ETH
+  (~$519,000). Rose acquired the Squiggles for between 6.3 and 16 ETH each (~$10,000 to $25,000).The thief also stole an Autoglyph
+  NFT, which rarely change hands, but which have most recently sold for around 200 ETH ($312,000). Rose had been offering
+  his Autoglyph for sale for 345 ETH ($539,000), but had yet to find a buyer.Fortunately for Rose, the hacker was apparently
+  unable to steal a CryptoPunk NFT he owned that resembles a zombie. The rare zombie variant of the already pricey NFT have
+  fetched millions — albeit in periods of stronger interest in NFTs.
+
+
+  Total loss estimated at $831,000.'

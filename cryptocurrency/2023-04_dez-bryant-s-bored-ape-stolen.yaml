@@ -1,0 +1,19 @@
+source_name: dez.eth
+source_url: https://etherscan.io/address/0xA4A8d44646e2F4C4a74b892303A13c85fb876338
+date_of_breach: '2023-04-07'
+date_of_disclosure: '2023-04-07'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Dez Bryant's Bored Ape stolen
+blockchain: ethereum
+financial_loss_usd: 138800
+notes: 'The latest ape escape has affected Dez Bryant, a former NFL player now turned "web3 innovator". Bryant was the proud
+  owner of Bored Ape #2902, an ape with leopard print skin wearing shades, a sailor shirt, and a crown. However, on April
+  7, Bryant was apparently hacked, and the thief stole not only his ape but Moonbirds, World of Women, and RumbleKongLeague
+  NFTs (one each) and some various cryptocurrencies.The Bored Ape would likely fetch somewhere around $125,000 if resold.
+  The other three NFTs would likely resell for somewhere around $8,700. Together with around $3,400 in stolen tokens, Bryant''s
+  total loss is around $139,000.After some observers spotted the suspicious-looking transactions, Bryant confirmed on Twitter:
+  "Yes my ape was stolen and I don''t know how this is crazy".
+
+
+  Total loss estimated at $138,800.'

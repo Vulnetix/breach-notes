@@ -1,0 +1,15 @@
+source_name: Tweet by Whale Alert
+source_url: https://x.com/whale_alert/status/1978539763301744815
+date_of_breach: '2025-10-15'
+date_of_disclosure: '2025-10-15'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Paxos accidental mint
+blockchain: ethereum
+notes: Paxos, the issuer of PayPal's PYUSD stablecoin, accidentally minted 300 trillion of the supposedly dollar-pegged token.
+  For context, this is approximately 2.5x the global GDP, and around 125x the total number of US dollars actually in circulation.Paxos
+  later announced that the mint was an "internal technical error", and that they had burned the excess tokens.While PayPal
+  promises its customers that "Reserves are held 100% in US dollar deposits, US treasuries and cash equivalents – meaning
+  that customer funds are available for 1:1 redemption with Paxos," there clearly isn't much in the way of safeguards to ensure
+  that is always the case. As with most stablecoin issuers, Paxos merely issues self-reported and unreviewed portfolio reports,
+  and monthly third-party attestations (not audits) of reserves.

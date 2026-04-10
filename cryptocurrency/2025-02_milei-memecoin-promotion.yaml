@@ -1,0 +1,19 @@
+source_name: Tweet by Lookonchain
+source_url: https://x.com/lookonchain/status/1890619615883219455
+date_of_breach: '2025-02-14'
+date_of_disclosure: '2025-02-14'
+category: cryptocurrency
+vendor_product: Milei memecoin promotion
+blockchain: solana
+financial_loss_usd: 107000000
+notes: 'A tweet from Argentina''s president Javier Milei promoted a memecoin called Libra, which he described as a "private
+  project [that] will [be] dedicated to encouraging the growth of the Argentine economy by funding small Argentine businesses
+  and startups". The token quickly soared in price as traders poured in.However, within hours of the launch, insiders began
+  selling off their holdings of the token. The token had been highly concentrated among insiders, with around 82% of the token
+  held in a small cluster of apparently insider addresses. Those insiders cashed out around $107 million, crashing the token
+  price by around 95%.After the crash, Milei deleted his tweet promoting the project. He later claimed he was "not aware of
+  the details of the project and after having become aware of it I decided not to continue spreading the word (that is why
+  I deleted the tweet)."
+
+
+  Total loss estimated at $107,000,000.'

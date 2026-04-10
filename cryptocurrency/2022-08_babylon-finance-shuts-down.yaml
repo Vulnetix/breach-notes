@@ -1,0 +1,20 @@
+source_name: '"Babylon Finance is shutting down"'
+source_url: https://medium.com/babylon-finance/babylon-finance-is-shutting-down-b58abf1bc251
+date_of_breach: '2022-08-31'
+date_of_disclosure: '2022-08-31'
+category: cryptocurrency
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Babylon Finance
+blockchain: ethereum
+financial_loss_usd: 3400000
+notes: 'In April, an attacker exploited vulnerabilities in the defi lending project Rari Capital to steal $80 million. The
+  asset management project Babylon Finance was a major lending pool on Rari, and lost $3.4 million in the hack. After the
+  incident, users withdrew more than 3/4 of the assets on the project.Since April, Babylon tried to recover from the hack.
+  However, they described it as "the domino that kickstarted a series of unfortunate events". Rari canceled their planned
+  reimbursement, users withdrew their funds from Babylon Finance, the Fuse pool on Rari was abandoned, and the token price
+  decreased from around $20 to around $5.On August 31, Babylon Finance''s founder Ramon Recuero published a blog post announcing
+  that Babylon would be shutting down. They promised to distribute the remaining project treasury among holders. Users were
+  told to withdraw their funds by November 15.
+
+
+  Total loss estimated at $3,400,000.'

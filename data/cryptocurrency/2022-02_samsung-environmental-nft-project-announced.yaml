@@ -1,0 +1,12 @@
+source_name: '"Turn Red Hearts Green at Samsung 837X for Valentine’s Day. Here’s how!"'
+source_url: https://news.samsung.com/us/837x-valentines-day-turning-red-hearts-green/
+date_of_breach: '2022-02-09'
+date_of_disclosure: '2022-02-09'
+category: cryptocurrency
+vendor_product: Samsung environmental NFT project announced
+blockchain: ethereum, polygon
+notes: Samsung launches a "sustainability-themed quest" on their "Samsung 837X" Decentraland metaverse project, where they
+  invite characters to hunt for "recyclable product boxes", plant trees in the (virtual) forest, and earn NFT badges.The press
+  release doesn't happen to mention that the Decentraland project is built on Ethereum, which was at the time a proof-of-work
+  blockchain that used over 100 TWh of electricity per year — around the same amount as countries like the Netherlands or
+  Finland.

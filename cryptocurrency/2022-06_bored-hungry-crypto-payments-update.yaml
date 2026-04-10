@@ -1,0 +1,14 @@
+source_name: Inside the crypto restaurant after the crypto crash
+source_url: https://www.latimes.com/business/technology/story/2022-06-24/this-restaurant-is-crypto-themed-you-still-have-to-pay-in-dollars
+date_of_breach: '2022-06-24'
+date_of_disclosure: '2022-06-24'
+category: cryptocurrency
+vendor_product: Bored & Hungry crypto payments update
+blockchain: ethereum
+notes: The LA Times reported that the Bored Ape-themed "Bored & Hungry" restaurant in Long Beach, California had stopped accepting
+  crypto payments. Despite excitedly announcing the first ever crypto purchase, made with Apecoin, when the restaurant opened
+  in April, it seems crypto payments haven't been working out for them. The Times reported that the restaurant had stopped
+  accepting crypto at some point in the past, and that an employee described the crypto payment option as both unwieldy and
+  unpopular with customers.The Times later updated the story, writing that the company's co-founder told them that the restaurant
+  shuts off the payment system "'from time to time' for upgrades", but was still accepting crypto.The menu lists prices in
+  USD, not Ether or Apecoin, and most people buy their $13 hamburgers with plain old fiat.

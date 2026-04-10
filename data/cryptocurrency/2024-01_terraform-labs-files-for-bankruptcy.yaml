@@ -1,0 +1,16 @@
+source_name: Chapter 11 petition
+source_url: https://www.courtlistener.com/docket/68180454/1/terraform-labs-pte-ltd/
+date_of_breach: '2024-01-21'
+date_of_disclosure: '2024-01-21'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Terraform Labs files for bankruptcy
+blockchain: terra
+notes: Terraform Labs, the company behind the Terra blockchain, has filed for bankruptcy. Its flagship product, the Terra
+  stablecoin and associated LUNA token, failed spectacularly in May 2022. Its CEO, Do Kwon, was arrested in March 2023, and
+  remains in custody awaiting a decision on whether he will be extradited to the United States or South Korea — both of which
+  are looking to charge him over his role in the scheme.Despite all of that, Terraform Labs had continued to operate. However,
+  it is now in dire financial straits, and has now filed for Chapter 11 bankruptcy in an attempt to sort out its financial
+  obligations amid costly legal cases. Terraform Labs is currently a defendant in a complaint by the SEC, as well as several
+  class-action lawsuits.According to the company's bankruptcy filing, it has between $100 million and $500 million in assets,
+  and liabilities in the same range.

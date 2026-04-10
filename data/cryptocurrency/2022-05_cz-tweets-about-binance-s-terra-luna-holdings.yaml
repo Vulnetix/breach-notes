@@ -1,0 +1,16 @@
+source_name: Tweet thread by CZ
+source_url: https://twitter.com/cz_binance/status/1525915656599789568
+date_of_breach: '2022-05-16'
+date_of_disclosure: '2022-05-16'
+category: cryptocurrency
+vendor_product: CZ tweets about Binance's Terra/Luna holdings
+blockchain: terra
+notes: On May 15, Binance CEO Changpeng Zhao (widely known as CZ) created a tweet thread in which he attempted to speak nonchalantly
+  about questions that had "just occurred to [him]" about whether Binance held any UST. In the thread he attempted to distance
+  himself from decisions or knowledge around such holdings, speaking cavalierly about how "we probably do have some". Former
+  FBI agent James Harris wrote an interesting analysis of the thread, concluding, "If people weren't worried before, they
+  will be now. If investigators weren't suspicious before, they should be now."The following day, CZ tweeted, "Binance received
+  15,000,000 LUNA (at peak worth $1.6 billion USD, now not much) as part of the original ($3m) invest. 560x return at peak."
+  In this tweet, "not much" glossed over the fact that these LUNA, obtained in return for a $3 million investment and at one
+  point nominally worth $1.6 billion, are now worth $2,900.He also wrote that Binance had 12,000,000 UST — worth $12 million
+  when UST was properly pegged, and now worth $1.16 million (assuming liquidity exists to sell it at all).

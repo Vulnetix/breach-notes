@@ -1,0 +1,18 @@
+source_name: '"Multi-Strategy Vault Post-Mortem"'
+source_url: https://docs.google.com/document/d/1aCEbz40BBC3y1RqDksnD9d-5IOXXgbeKAvJWMH2GoI4/edit
+date_of_breach: '2022-08-01'
+date_of_disclosure: '2022-08-01'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Reaper Farm
+blockchain: fantom
+financial_loss_usd: 1698423
+notes: 'Yield farming project Reaper Farm suffered an exploit that resulted in a $1.7 million loss. The attackers discovered
+  a vulnerability that allowed them to withdraw anyone else''s funds. They then bridged funds to Ethereum, then laundered
+  them through Tornado Cash. After discovering the exploit, Reaper Farms used the same vulnerability to remove funds from
+  the remaining vulnerable vaults to prevent the attacker from stealing more.Shortly after the exploit, Reaper Farms announced
+  they plained to raise capital via "the sale of vested $OATH tokens from our treasury with desirable terms", which would
+  then be used alongside other assets in their treasury to compensate users.
+
+
+  Total loss estimated at $1,698,423.'

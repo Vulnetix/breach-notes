@@ -1,0 +1,18 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1607266917894737921
+date_of_breach: '2022-12-26'
+date_of_disclosure: '2022-12-26'
+category: cryptocurrency
+initial_attack_vector: Malicious code injection / supply chain
+vendor_product: BitKeep
+blockchain: bsc
+financial_loss_usd: 8000000
+notes: 'BitKeep, a popular cryptocurrency wallet in Asia, suffered a hack in which at least $8 million in various cryptocurrencies
+  were stolen from user accounts.BitKeep has claimed that attackers were able to compromise a version of their software and
+  introduce malicious code which enabled them to drain user funds. BitKeep recommended their users contact the team behind
+  BNB Chain on social media to plead with them to freeze an address used by the hackers, although the attackers had already
+  begun to tumble the funds.This is the second BitKeep-related hack in the last few months. In October, hackers stole more
+  than $1 million worth of BNB when the Swap feature of the BitKeep wallet was exploited.
+
+
+  Total loss estimated at $8,000,000.'

@@ -1,0 +1,21 @@
+source_name: '"LooksRare team cashes out $30M in WETH, faces community backlash"'
+source_url: https://cointelegraph.com/news/looksrare-team-cashes-out-30m-in-weth-faces-community-backlash
+date_of_breach: '2022-02-07'
+date_of_disclosure: '2022-02-07'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: LooksRare cashout
+blockchain: ethereum
+notes: 'The team behind LooksRare, an NFT platform known for its enormous proportion of wash trading, cashed out around 10,500
+  wETH worth around $30 million. They had earned the wETH by staking $LOOKS tokens, the platform''s native token. A LooksRare
+  team member explained that "The fact that the team earns WETH has never been a secret", though it certainly seemed to come
+  as a surprise to many in the community.The discovery of the withdrawal caused panic, with some community members believing
+  it was a sign that the team was rug pulling. Some also questioned the team members'' choice to send the funds to a cryptocurrency
+  tumbler, believing this meant they were trying to hide the cash-out from community members. One might understand why they
+  would try to hide it: after the withdrawals became public, the value of the native $LOOKS token crashed around 15%.More
+  broadly, the fear around the team cashing out illustrates a common belief among some crypto project communities: that if
+  you cash out even some of your holdings, you''re not a true believer. A LooksRare team member explained that the team behind
+  the project had "been grinding night and day for 6+ months" without payment and had collectively fronted "more than 7 figures
+  in costs" before the platform launch (reassuring!), and the withdrawal was simply 10+ team members finally receiving payment.
+  Apparently unsatisfied with this explanation, the community tried to demand the team use their wETH to repurchase $LOOKS,
+  though it doesn''t appear this has happened.'

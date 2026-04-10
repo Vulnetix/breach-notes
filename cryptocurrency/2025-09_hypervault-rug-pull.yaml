@@ -1,0 +1,16 @@
+source_name: '"$3.6M Drained From Hyperliquid DeFi Platform Hypervault in ‘Abnormal Withdrawal’"'
+source_url: https://decrypt.co/341539/3-6m-drained-from-hyperliquid-defi-platform-hypervault-in-abnormal-withdrawal
+date_of_breach: '2025-09-26'
+date_of_disclosure: '2025-09-26'
+category: cryptocurrency
+vendor_product: Hypervault
+blockchain: hyperliquid
+financial_loss_usd: 3600000
+notes: 'Only days after the Hypervault yield farming platform announced on Twitter that they''d surpassed $5 million in total
+  value locked, the platform suddenly shut down its website and social media accounts. Simultaneously, the crypto security
+  firm PeckShield observed an "abnormal withdrawal" of a large quantity of various crypto assets priced at around $3.6 million,
+  which were swapped to 752 ETH (~$3.1 million) and laundered through Tornado Cash.The project had attracted customers by
+  advertising yields of 76–95%.
+
+
+  Total loss estimated at $3,600,000.'

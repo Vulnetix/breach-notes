@@ -1,0 +1,21 @@
+source_name: '"Arbitrum Foundation Sold ARB Tokens Ahead of ''Ratification'' Vote on Governance, Budget"'
+source_url: https://www.coindesk.com/business/2023/04/02/contentious-arbitrum-vote-over-1b-in-tokens-ratification-not-request-says-foundation
+date_of_breach: '2023-04-02'
+date_of_disclosure: '2023-04-02'
+category: cryptocurrency
+vendor_product: Arbitrum DAO vote fiasco
+blockchain: ethereum
+notes: After a bumpy start to the airdrop that distributed governance tokens to Arbitrum users, the first use of those governance
+  tokens arguably went even worse. Arbitrum submitted a proposal for DAO members to vote on various governance processes,
+  as well as the distribution of 750 million ARB tokens to an "Administrative Budget Wallet" — tokens that were priced at
+  around $1 billion.The vote, which still has a day left before completion, is currently standing at 75% against and 25% in
+  support. However, it was discovered that Arbitrum had already begun spending those 750 million tokens, including via the
+  movement of a substantial amount of tokens, and "conversion of some funds into stablecoins for operational purposes".Another
+  Arbitrum team member subsequently published a post in which they claimed that the proposal was not really a vote but rather
+  a "ratification" of decisions that had already been made by the Arbitrum team, leading many to question what the DAO was
+  even for in the first place. Others questioned the fact that Arbitrum was receiving so much money to use however they liked,
+  not subject to DAO approval.Things got even messier when the Arbitrum Twitter account "clarified" that "40M $ARB tokens
+  have been allocated as a loan to a sophisticated actor in the financial markets space", and the rest had been sold off for
+  "operational costs". The loan of $52 million worth of ARB to an unnamed actor and the conversion of another $13 million
+  to stablecoins led some to accuse the Arbitrum team of "selling off", cashing in far more than would likely be required
+  for foundation costs in a brief period of time.

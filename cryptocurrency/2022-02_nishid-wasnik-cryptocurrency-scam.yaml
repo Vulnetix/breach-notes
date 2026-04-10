@@ -1,0 +1,13 @@
+source_name: '"Nagpur: How A Std XII Pass Man''s MBA Graduate Niece Helped Him In Rs 40 Crore Crypto Scam"'
+source_url: https://www.indiatimes.com/worth/news/mans-mba-graduate-niece-helps-him-in-rs-40-crore-crypto-scam-562544.html
+date_of_breach: '2022-02-19'
+date_of_disclosure: '2022-02-19'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Nishid Wasnik cryptocurrency
+blockchain: ethereum
+notes: Indian authorities arrested at least eleven people accused of running a cryptocurrency scam that drew ₹40 crore (around
+  $5.3 million) from investors. The alleged ringleader, Nishid Wasnik, flaunted his luxury lifestyle to help convince investors
+  to put money into his firm, which he said traded Ether. According to one official, "He manipulated the website of the firm
+  to show a steady rise in the value of investments, while transferring money into his accounts fraudulently between 2017
+  and 2021". Wasnik is also facing outstanding cases, including two murder charges, and had been in hiding since March 2021.

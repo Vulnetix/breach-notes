@@ -1,0 +1,17 @@
+source_name: Tweet by Zilverk
+source_url: https://twitter.com/Ziilverk/status/1490470344171343883
+date_of_breach: '2022-02-06'
+date_of_disclosure: '2022-02-06'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Ratz Club
+blockchain: solana
+financial_loss_usd: 140000
+notes: 'Mexican VTuber Zilverk created an NFT project called Ratz Club, built on the Solana blockchain. On February 6, the
+  project announced that a developer they had contracted drained all of the funds from the project wallet. The project lost
+  about 1,300 SOL, or around $140,000. The project announced that Zilverk and another developer would be putting their own
+  money back into the project, and that "you are going to be able to replace your Ratz with a new series of Ratz, all holders
+  will receive the same amount of Ratz they had minted for free. (Since the Ratz you already minted are kinda are useless)."
+
+
+  Total loss estimated at $140,000.'

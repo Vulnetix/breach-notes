@@ -1,0 +1,20 @@
+source_name: AI Tool Ran Bulk of Cyberattack, Anthropic Says (DataBreachToday)
+source_url: https://www.databreachtoday.com/ai-tool-ran-bulk-cyberattack-anthropic-says-a-30039
+date_of_breach: '2025-11-14'
+date_of_disclosure: '2025-11-14'
+date_of_customer_notification: ''
+category: ai
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Chinese state-linked hacking group relied on the Claude Code model to automate
+  most of a cyberespionage campaign against dozens of organizations, Anthropic said.
+
+
+  Source: DataBreachToday article coverage.'
+ai_model_name: "Claude"
+ai_model_provider: "Anthropic"
+ai_attack_vector: "AI-assisted cyberattack"

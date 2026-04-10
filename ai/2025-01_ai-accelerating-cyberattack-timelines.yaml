@@ -1,0 +1,16 @@
+source_name: "AI-Enabled Cyberattack Acceleration — Reduced Breakout Times, Autonomous Attack Chains"
+source_url: "https://www.crowdstrike.com/global-threat-report/2026/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2026-04-08"
+date_of_customer_notification: ""
+category: ai
+initial_attack_vector: "Threat actors use AI to automate reconnaissance, accelerate vulnerability exploitation, reduce time-to-breach, generate convincing phishing content at scale, and create adaptive malware that evades static detection; defenders face structural disadvantage as AI reduces skill barriers for attackers while defenders face integration and compliance costs"
+cve: []
+vendor_product: "Multiple sectors — financial services, healthcare, critical infrastructure, technology companies globally"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "By 2025-2026, documented evidence shows AI is systematically accelerating cyberattack timelines and lowering barriers to entry for attackers, while defenders face structural disadvantages in AI adoption speed. Key documented impacts from CrowdStrike Global Threat Report 2026, Okta Security Report 2026, Microsoft Digital Defense Report 2025, and ENISA Threat Landscape 2025: (1) Breakout time — average time for attackers to move from initial access to lateral movement — fell from 62 minutes (2023) to under 40 minutes (2025) as AI-assisted tooling automates post-exploitation; (2) CrowdStrike documented adversaries using AI-generated malicious code and AI-driven fuzzing to discover zero-days faster; (3) AI-powered phishing campaigns achieve 3-5x higher click rates than traditional campaigns by personalising content from social media and breach data in real time; (4) Nation-state actors (China, Russia, North Korea, Iran) have all been observed integrating AI into attack workflows; (5) Ransomware negotiation bots using LLMs now conduct initial extortion communications autonomously; (6) Social engineering via deepfake voice and video bypasses human recognition even for security-trained staff. Okta's Brett Winterford documented that attackers are using AI to identify which accounts to target for MFA fatigue attacks — prioritising accounts where success probability is highest. IBM X-Force found that AI-powered scanning tools can identify vulnerable systems in an organisation within 3 minutes of an IP range being provided. The structural challenge is that defenders must secure every attack vector while attackers need only find one path — and AI amplifies this asymmetry."
+ai_model_name: ""
+ai_model_provider: ""
+ai_attack_vector: "AI-assisted cyberattack"

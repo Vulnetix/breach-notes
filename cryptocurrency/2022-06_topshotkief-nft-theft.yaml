@@ -1,0 +1,18 @@
+source_name: Tweet by topshotkief
+source_url: https://twitter.com/topshotkief/status/1532936674216386561
+date_of_breach: '2022-06-04'
+date_of_disclosure: '2022-06-04'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: topshotkief NFT theft
+blockchain: ethereum
+financial_loss_usd: 365000
+notes: 'An NFT collector hoping to claim NFTs from the Goblintown collection was phished, resulting in ten of their NFTs being
+  stolen from them. The scammers took two Mutant Ape NFTs and eight Cool Cats. "They stole everything from me," the collector
+  wrote. "I''m devastated".The collector had bought or minted the NFTs at various points over the past year, spending a total
+  of 84 ETH on the ten stolen NFTs (worth ~$312,000 based on ETH prices at the time of each purchase). The thief has so far
+  flipped seven of the Cool Cats NFTs for a total of  34.5 ETH (~$62,000). This collector doesn''t appear to be the phisher''s
+  only victim; their Ethereum wallet shows a total balance of $365,000.
+
+
+  Total loss estimated at $365,000.'

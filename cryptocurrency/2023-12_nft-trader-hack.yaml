@@ -1,0 +1,23 @@
+source_name: '"NFT Trader hacked, millions of dollars in NFT stolen"'
+source_url: https://cointelegraph.com/news/nft-trader-hacked-millions-dollars-nft-stolen
+date_of_breach: '2023-12-16'
+date_of_disclosure: '2023-12-16'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: NFT Trader
+blockchain: ethereum
+financial_loss_usd: 3000000
+notes: 'Attackers exploited old smart contracts from the NFT Trader peer-to-peer NFT trading application to steal pricey NFTs,
+  including at least 37 Bored Apes, 13 Mutant Apes, and NFTs from the VeeFriends and World of Women collections. Some ETH
+  and APE tokens were also stolen. Altogether, the stolen NFTs are priced at around $3 million, though the hacker may not
+  be able to liquidate them for that ammount.One attacker claimed in on-chain messages that the original attack had been perpetrated
+  by someone else, but that they were one of the many copycat attackers, describing themselves as someone who had "[come]
+  here to pick up residual garbage". They requested victims send additional ETH to get their NFTs back. "If you want the monkey
+  nft back, then you need to pay me a bouty, which is what I deserve", they wrote, asking for NFT holders to send them 10%
+  of the Ape floor price.Meanwhile, NFT holders were urged to revoke access to NFT Trader, since the platform seemed aware
+  of the attack but unable to stop it. NFT Trader was ultimately able to thwart the attacker to stem additional bleeding,
+  likely thanks to help from community members who pointed out a way the contract could be shut down.Later, the "residual
+  garbage" attacker returned 36 Bored Apes and 18 Mutant Apes after a Yuga Labs co-founder paid the 120 ETH (~$260,000) ransom.
+
+
+  Total loss estimated at $3,000,000.'

@@ -1,0 +1,20 @@
+source_name: Tweet thread by SlowMist
+source_url: https://twitter.com/SlowMist_Team/status/1516961806509563904
+date_of_breach: '2022-04-20'
+date_of_disclosure: '2022-04-20'
+category: cryptocurrency
+initial_attack_vector: Seed phrase / wallet compromise
+vendor_product: Terra Google ad phishing
+blockchain: terra
+financial_loss_usd: 4310000
+notes: 'Scammers ran Google ads for popular search queries relating to the Terra ecosystem. When users searched for things
+  like "Anchor protocol" or "Astroport", the first result was actually a Google ad purchased by scammers impersonating the
+  real protocols. The scammers were even able to make the domains resemble the correct domains, though these changed once
+  the users clicked the advertisement. Users were then prompted to enter their seed phrases to connect their wallets, after
+  which point the scammers were able to empty the wallets.52 different people fell for the scam, losing a total of around
+  $4.3 million in assets. The scammers appeared to be targeting high-value wallets, with only two accounts transferring less
+  than $1,000. 24 individual wallets were scammed for more than $10,000 each, 7 wallets lost more than $100,000, and one user
+  lost almost $1.4 million.
+
+
+  Total loss estimated at $4,310,000.'

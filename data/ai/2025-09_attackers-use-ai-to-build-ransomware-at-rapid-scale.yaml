@@ -1,0 +1,21 @@
+source_name: Attackers Use AI to Build Ransomware at Rapid Scale (DataBreachToday)
+source_url: https://www.databreachtoday.com/attackers-use-ai-to-build-ransomware-at-rapid-scale-a-29552
+date_of_breach: '2025-09-29'
+date_of_disclosure: '2025-09-29'
+date_of_customer_notification: ''
+category: ai
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Adversaries are using artificial intelligence to develop phishing emails,
+  build malware, and exploit cloud misconfigurations and identity gaps at rapid scale
+  while
+
+
+  Source: DataBreachToday article coverage.'
+ai_model_name: ""
+ai_model_provider: ""
+ai_attack_vector: "AI-generated malware"

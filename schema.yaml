@@ -50,6 +50,8 @@ fields:
       - data-leak
       - supply-chain
       - credential-theft
+      - ai
+      - cryptocurrency
       - other
     description: "Incident category"
 
@@ -136,3 +138,31 @@ fields:
     required: false
     minimum: 0
     description: "Number of affected wallets, users, or individuals; omit if unknown"
+
+  # ── AI fields ────────────────────────────────────────────────────────────────
+
+  ai_model_name:
+    group: ai
+    type: string
+    required: false
+    description: >
+      Name of the AI model involved in the incident
+      (e.g. "ChatGPT", "Claude", "Gemini", "GitHub Copilot"). Omit if unknown or not applicable.
+
+  ai_model_provider:
+    group: ai
+    type: string
+    required: false
+    description: >
+      Organization behind the AI model or service
+      (e.g. "OpenAI", "Anthropic", "Google", "Microsoft"). Omit if unknown or not applicable.
+
+  ai_attack_vector:
+    group: ai
+    type: string
+    required: false
+    description: >
+      AI-specific attack technique or involvement type
+      (e.g. "prompt injection", "deepfake", "AI-generated malware",
+      "model poisoning", "training data exposure", "jailbreak",
+      "adversarial input", "AI-assisted cyberattack"). Omit if not applicable.

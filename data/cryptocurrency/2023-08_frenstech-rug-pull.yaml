@@ -1,0 +1,19 @@
+source_name: Tweet by Hayden Adams
+source_url: https://twitter.com/haydenzadams/status/1690395983773880321?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1690395983773880321%7Ctwgr%5E4402778224e8653c3a08fa935c8d905d621b8524%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.cryptopolitan.com%2Funiswap-fires-employee-responsible-for-scam%2F
+date_of_breach: '2023-08-12'
+date_of_disclosure: '2023-08-12'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: FrensTech
+blockchain: ethereum
+financial_loss_usd: 25900
+notes: 'After pulling off a rug pull that only netted 14 ETH (~$25,900), Allen Lin (known as AzFlin) lost his day job for
+  the company that maintains the Uniswap DEX. Hope it was worth it.Lin had created a project called "FrensTech", which aimed
+  to capitalize on the popularity of a product called "friends.tech", and which ultimately accumulated the 14 ETH in fees
+  before he decided to drain liquidity. Lin had not tried to conceal his identity. After the rug pull, Uniswap founder Hayden
+  Adams wrote on Twitter: "Wanted to let people know this person is no longer with the company. Not behavior we support or
+  condone."Lin was unapologetic, tweeting: "got fired from uniswap, but gained 600 new followers and [crypto Twitter] villain
+  status. net neutral tbh".
+
+
+  Total loss estimated at $25,900.'

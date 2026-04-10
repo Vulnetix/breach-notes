@@ -1,0 +1,22 @@
+source_name: Tweet by finance_build
+source_url: https://twitter.com/finance_build/status/1492591680716951556
+date_of_breach: '2022-02-14'
+date_of_disclosure: '2022-02-14'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: BuildFinance governance attack
+blockchain: ethereum
+financial_loss_usd: 470000
+notes: 'A person managed to submit a proposal to the DAO that governs BuildFinance, a "decentralized venture builder", that
+  would allow them to take over the project contract. The attacker succeeded in obtaining enough votes for the proposal to
+  pass, primarily because they held an outsized number of governance tokens, and because they were able to disable community
+  Discord features that would have alerted more of the community to the proposal. After the proposal passed and they were
+  granted control over the project, they began minting and selling the project''s native $BUILD token, draining the project
+  treasury of about $470,000. According to BuildFinance, "As things stand, the attacker has full control of the governance
+  contract, minting keys and treasury. The DAO no longer has control over any part of the key infrastructure." Some have questioned
+  whether the incident can properly be described as an "attack" or "hostile takeover": everything worked exactly as it was
+  supposed to in a "code is law" sort of way, even though it was against the intentions of the project founders and presumably
+  most of its community.
+
+
+  Total loss estimated at $470,000.'

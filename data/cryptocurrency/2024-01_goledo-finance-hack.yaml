@@ -1,0 +1,15 @@
+source_name: Tweet by CertiK
+source_url: https://twitter.com/CertiKAlert/status/1752005387623051496
+date_of_breach: '2024-01-28'
+date_of_disclosure: '2024-01-28'
+category: cryptocurrency
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Goledo Finance
+blockchain: ethereum
+financial_loss_usd: 1700000
+notes: 'Goledo Finance, an Aave-based lending protocol, was exploited through a flash loan attack. The attacker stole assets
+  estimated by CertiK at around $1.7 million.Goledo Finance contacted the attacker to offer a 10% "bounty" for the return
+  of the remaining assets. In a message on January 29, the attacker wrote: "I hacked Goledo and want to negotiate".
+
+
+  Total loss estimated at $1,700,000.'

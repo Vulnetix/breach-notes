@@ -1,0 +1,26 @@
+source_name: Tweet thread by Jason Falovitch
+source_url: https://twitter.com/jfx/status/1574034465134989312
+date_of_breach: '2022-09-25'
+date_of_disclosure: '2022-09-25'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Jason Falovitch NFT theft
+blockchain: ethereum
+financial_loss_usd: 150000
+notes: 'Sports manager turned crypto entrepreneur Jason Falovitch is now perhaps best known for his influence in the NFT space.
+  He co-founded the Leverage Game Media company along with Mark Cuban, a group that owns many NFT assets and helps promote
+  NFT projects through their control of major sports social media pages. Falovitch also co-founded @NFT, a group of social
+  media pages that earned a ban from Twitter in February after accusations that they promoted scammy NFT projects without
+  proper disclosure.On September 25, Falovitch tweeted "I got hackled last night on Opensea. Apes, doodles, eth. It''s not
+  pretty." Four NFTs had been stolen from his wallet — two Doodles, and a Mutant and Bored Ape — along with 6 ETH (~$7,750).
+  The Mutant and Bored Apes were both resold, for 15.99 ETH (~$20,700) and 82.69 ETH (~$107,000) respectively. Factoring in
+  Doodle floor prices, the hacker is looking at at least $150,000 in profit.The loss, however, is larger for Falovitch, who
+  spent ~$377,000 on the four NFTs based on the price of ETH at the times of purchase. Falovitch tweeted after the hack, "Now
+  I''m over $1M hacked in ETH and NFTs." It''s not clear if he''s referring to other wallets he may control that were compromised,
+  previous hacks he''s suffered, or if he''s massively overestimating the value of the stolen NFTs. He also tweeted that he
+  discovered his car was broken into as he went to drive to the police department to report the NFT thefts.Well-known crypto
+  researcher zachxbt, who is known for helping victims of wallet hacks recover their assets, tweeted to Falovitch: "Karma
+  for all of the people you rekt with the scams promoted on your Instagram page. Definitely won''t be tracking this one."
+
+
+  Total loss estimated at $150,000.'

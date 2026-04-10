@@ -1,0 +1,12 @@
+source_name: '"SEC Charges Issuers and CEO for $18 Million Illegal Securities Offering"'
+source_url: https://www.sec.gov/litigation/litreleases/2021/lr25198.htm
+date_of_breach: '2021-09-08'
+date_of_disclosure: '2021-09-08'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Rivetz Corp. SEC charges
+blockchain: ethereum
+notes: The SEC charged Rivetz Corp. and related entities with running an illegal ICO when they launched their "RvT tokens".
+  They raised $18 million through the ICO, which they never registered with the SEC, to raise funds for the Rivetz blockchain
+  security company. The funds, which were raised in ETH, were used to give the company's founder a $1 million bonus, plus
+  a $2.5 million loan which he used to "purchase a house in the Cayman Islands that he then leased back to Rivetz Int'l."

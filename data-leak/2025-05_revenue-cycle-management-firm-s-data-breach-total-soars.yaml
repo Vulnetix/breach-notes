@@ -1,0 +1,18 @@
+source_name: Revenue Cycle Management Firm's Data Breach Total Soars (DataBreachToday)
+source_url: https://www.databreachtoday.com/revenue-cycle-management-firms-data-breach-total-soars-a-28524
+date_of_breach: '2025-05-28'
+date_of_disclosure: '2025-05-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The number of people affected by a March 2024 hack on a healthcare revenue
+  cycle management and billing services provider has soared in recent weeks to more
+  than
+
+
+  Source: DataBreachToday article coverage.'

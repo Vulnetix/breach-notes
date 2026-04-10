@@ -1,0 +1,17 @@
+source_name: 'Ransomware Response: Real-World Lessons From the Frontlines (DataBreachToday)'
+source_url: https://www.databreachtoday.com/ransomware-response-real-world-lessons-from-frontlines-a-28691
+date_of_breach: '2025-06-16'
+date_of_disclosure: '2025-06-16'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: '&quot;There''s a misconception around threat actor negotiation that if you''re
+  going to speak to a threat actor, you''re ultimately going to go and pay them,&quot;
+
+
+  Source: DataBreachToday article coverage.'

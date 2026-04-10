@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: US Sanctions Iran Shadow Banking Network (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-us-sanctions-iran-shadow-banking-network-a-29477
+date_of_breach: '2025-09-18'
+date_of_disclosure: '2025-09-18'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'US sanctions Iranian shadow banking network, Texas man denied bankruptcy discharge,
+  Nemo blames $2.6M exploit on developer errors, THORChain founder hacked,
+
+
+  Source: DataBreachToday article coverage.'

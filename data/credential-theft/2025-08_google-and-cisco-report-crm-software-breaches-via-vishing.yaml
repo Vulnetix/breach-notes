@@ -1,0 +1,18 @@
+source_name: Google and Cisco Report CRM Software Breaches Via Vishing (DataBreachToday)
+source_url: https://www.databreachtoday.com/google-cisco-report-crm-software-breaches-via-vishing-a-29134
+date_of_breach: '2025-08-06'
+date_of_disclosure: '2025-08-06'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Technology giants Google and Cisco separately said they''ve both suffered
+  recent data breaches after attackers socially engineered their employees via voice
+  phishing
+
+
+  Source: DataBreachToday article coverage.'

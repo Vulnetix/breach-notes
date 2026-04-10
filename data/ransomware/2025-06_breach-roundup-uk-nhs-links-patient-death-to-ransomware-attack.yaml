@@ -1,0 +1,18 @@
+source_name: 'Breach Roundup: UK NHS Links Patient Death to Ransomware Attack (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-uk-nhs-links-patient-death-to-ransomware-attack-a-28836
+date_of_breach: '2025-06-26'
+date_of_disclosure: '2025-06-26'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, ransomware kills, Salt Typhoon hit Canada, Russian backdoors, SAP
+  and Citrix patches, China hackers in the oil and energy sector. Brother printers
+  have
+
+
+  Source: DataBreachToday article coverage.'

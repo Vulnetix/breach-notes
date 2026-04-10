@@ -1,0 +1,18 @@
+source_name: 'Cryptohack Roundup: New York Man, Firm to Pay $228M in Ponzi Scheme
+  (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-new-york-man-firm-to-pay-228m-in-ponzi-scheme-a-29269
+date_of_breach: '2025-08-21'
+date_of_disclosure: '2025-08-21'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Ponzi scammer must pay $228 million, Google clarified Play Store
+  non-custodial wallet rules, Coinbase misconfiguration, GMX repayment, BtcTurk halted
+
+
+  Source: DataBreachToday article coverage.'

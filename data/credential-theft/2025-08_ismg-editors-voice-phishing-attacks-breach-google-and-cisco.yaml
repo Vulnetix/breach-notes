@@ -1,0 +1,17 @@
+source_name: 'ISMG Editors: Voice Phishing Attacks Breach Google and Cisco (DataBreachToday)'
+source_url: https://www.databreachtoday.com/ismg-editors-voice-phishing-attacks-breach-google-cisco-a-29157
+date_of_breach: '2025-08-08'
+date_of_disclosure: '2025-08-08'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'In this week’s update, four ISMG editors examined the voice phishing attacks
+  linked to the Google and Cisco breaches, the funding gap in U.S. cybersecurity
+
+
+  Source: DataBreachToday article coverage.'

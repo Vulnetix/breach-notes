@@ -1,0 +1,18 @@
+source_name: Accounting Firm Pays Feds $175K for HIPAA Ransomware Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/accounting-firm-pays-feds-175k-for-hipaa-ransomware-breach-a-29248
+date_of_breach: '2025-08-18'
+date_of_disclosure: '2025-08-18'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'An investigation into a ransomware breach reported in 2020 as affecting the
+  protected personal information of 170,000 people led to a $175,000 fine against
+  a
+
+
+  Source: DataBreachToday article coverage.'

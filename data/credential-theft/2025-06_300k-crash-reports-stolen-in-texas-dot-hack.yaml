@@ -1,0 +1,18 @@
+source_name: 300K Crash Reports Stolen in Texas DOT Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/300k-crash-reports-stolen-in-texas-dot-hack-a-28646
+date_of_breach: '2025-06-10'
+date_of_disclosure: '2025-06-10'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Hackers accessed the Texas Department of Transportation''s crash records system
+  using a compromised account, stealing nearly 300,000 reports containing personal
+  and
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,18 @@
+source_name: Hackers Use Backdoor to Steal Data From SonicWall Appliance (DataBreachToday)
+source_url: https://www.databreachtoday.com/hackers-use-backdoor-to-steal-data-from-sonicwall-appliance-a-28979
+date_of_breach: '2025-07-16'
+date_of_disclosure: '2025-07-16'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A cybercrime group used a backdoor in a fully patched SonicWall appliance
+  to steal credentials and may have sold the stolen data to ransomware groups as part
+  of an
+
+
+  Source: DataBreachToday article coverage.'

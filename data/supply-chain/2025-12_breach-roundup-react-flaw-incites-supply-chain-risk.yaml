@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: React Flaw Incites Supply Chain Risk (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-react-flaw-incites-supply-chain-risk-a-30194
+date_of_breach: '2025-12-04'
+date_of_disclosure: '2025-12-04'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'This week, the React flaw, a belated Windows fix, Defense Secretary Pete Hegseth''s
+  Signal group posed operational risk, more North Korean npm packages. An
+
+
+  Source: DataBreachToday article coverage.'

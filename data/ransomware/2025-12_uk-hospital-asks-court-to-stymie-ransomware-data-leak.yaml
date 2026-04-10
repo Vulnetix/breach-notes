@@ -1,0 +1,17 @@
+source_name: UK Hospital Asks Court to Stymie Ransomware Data Leak (DataBreachToday)
+source_url: https://www.databreachtoday.com/uk-hospital-asks-court-to-stymie-ransomware-data-leak-a-30222
+date_of_breach: '2025-12-08'
+date_of_disclosure: '2025-12-08'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A National Health Service hospital is seeking assistance from the U.K. High
+  Court to stymie a potential data leak tied to a ransomware hack. The hospital, NHS
+
+
+  Source: DataBreachToday article coverage.'

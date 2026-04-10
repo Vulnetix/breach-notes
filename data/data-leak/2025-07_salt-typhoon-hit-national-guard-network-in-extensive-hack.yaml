@@ -1,0 +1,18 @@
+source_name: Salt Typhoon Hit National Guard Network in 'Extensive' Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/salt-typhoon-hit-national-guard-network-in-extensive-hack-a-28999
+date_of_breach: '2025-07-17'
+date_of_disclosure: '2025-07-17'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A newly released Department of Homeland Security memo revealed the Chinese
+  cyberespionage group Salt Typhoon infiltrated a state Army National Guard network
+  for
+
+
+  Source: DataBreachToday article coverage.'

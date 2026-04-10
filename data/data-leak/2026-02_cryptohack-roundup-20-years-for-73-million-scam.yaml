@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: 20 Years for $73 Million Scam (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-20-years-for-73-million-scam-a-30743
+date_of_breach: '2026-02-12'
+date_of_disclosure: '2026-02-12'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, a 20-year sentence in a $73 million scam, SafeMoon CEO got eight
+  years for fraud, Sam Bankman-Fried sought a new trial, Epstein''s early crypto
+
+
+  Source: DataBreachToday article coverage.'

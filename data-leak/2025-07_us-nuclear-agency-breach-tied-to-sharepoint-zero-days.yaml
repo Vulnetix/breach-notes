@@ -1,0 +1,17 @@
+source_name: US Nuclear Agency Breach Tied to SharePoint Zero-Days (DataBreachToday)
+source_url: https://www.databreachtoday.com/us-nuclear-agency-breach-tied-to-sharepoint-zero-days-a-29037
+date_of_breach: '2025-07-23'
+date_of_disclosure: '2025-07-23'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The U.S. government agency that maintains and designs America''s nuclear weapons
+  was reportedly breached by attackers exploiting zero-day flaws in on-premises
+
+
+  Source: DataBreachToday article coverage.'

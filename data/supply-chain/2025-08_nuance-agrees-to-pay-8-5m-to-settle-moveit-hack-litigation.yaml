@@ -1,0 +1,18 @@
+source_name: Nuance Agrees to Pay $8.5M to Settle MOVEit Hack Litigation (DataBreachToday)
+source_url: https://www.databreachtoday.com/nuance-agrees-to-pay-85m-to-settle-moveit-hack-litigation-a-29272
+date_of_breach: '2025-08-21'
+date_of_disclosure: '2025-08-21'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Nuance Communications, a Microsoft subsidiary, has agreed to pay $8.5 million
+  to settle class action litigation filed after hackers exploited a zero-day flaw
+  in
+
+
+  Source: DataBreachToday article coverage.'

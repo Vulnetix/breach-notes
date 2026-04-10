@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Suspected XSS Cybercrime Forum Admin Arrested (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-suspected-xss-cybercrime-forum-admin-arrested-a-29050
+date_of_breach: '2025-07-24'
+date_of_disclosure: '2025-07-24'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, XSS forum admin arrested, Clorox sued Cognizant, Lumma Stealer
+  is back, NY regulates water, U.S. maritime cybersecurity rules in effect, new Coyote
+
+
+  Source: DataBreachToday article coverage.'

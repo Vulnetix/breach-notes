@@ -1,0 +1,17 @@
+source_name: UK ICO Fines LastPass Over 2022 Data Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/uk-ico-fines-lastpass-over-2022-data-breach-a-30266
+date_of_breach: '2025-12-11'
+date_of_disclosure: '2025-12-11'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The British data regulator imposed a fine of 1.2 million pounds against password
+  manager LastPass over a 2022 data breach that exposed the data of millions of its
+
+
+  Source: DataBreachToday article coverage.'

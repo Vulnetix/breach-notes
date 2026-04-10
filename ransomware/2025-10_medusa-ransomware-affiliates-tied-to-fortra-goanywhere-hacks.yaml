@@ -1,0 +1,18 @@
+source_name: Medusa Ransomware Affiliates Tied to Fortra GoAnywhere Hacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/medusa-ransomware-affiliates-tied-to-fortra-goanywhere-hacks-a-29665
+date_of_breach: '2025-10-07'
+date_of_disclosure: '2025-10-07'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Affiliates of Russian-speaking ransomware operation Medusa began targeting
+  a zero-day vulnerability in widely used Fortra GoAnywhere Managed File Transfer
+  software
+
+
+  Source: DataBreachToday article coverage.'

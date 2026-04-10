@@ -1,0 +1,17 @@
+source_name: Sextortion Risk Alert as Infostealer Can Grab Webcam Images (DataBreachToday)
+source_url: https://www.databreachtoday.com/sextortion-risk-alert-as-infostealer-grab-webcam-images-a-29363
+date_of_breach: '2025-09-04'
+date_of_disclosure: '2025-09-04'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Blackmailers have long spammed internet users, claiming to have captured images
+  of them accessing adult content. Lately, these sextortion criminals have a new trick
+
+
+  Source: DataBreachToday article coverage.'

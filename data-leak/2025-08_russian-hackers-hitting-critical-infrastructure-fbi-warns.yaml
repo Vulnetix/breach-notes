@@ -1,0 +1,17 @@
+source_name: Russian Hackers Hitting Critical Infrastructure, FBI Warns (DataBreachToday)
+source_url: https://www.databreachtoday.com/russian-hackers-hitting-critical-infrastructure-fbi-warns-a-29268
+date_of_breach: '2025-08-21'
+date_of_disclosure: '2025-08-21'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Russian intelligence hackers are using obsolete and unpatched equipment made
+  by networking mainstay Cisco Systems further stealthy and ongoing cyberespionage
+
+
+  Source: DataBreachToday article coverage.'

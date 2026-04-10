@@ -1,0 +1,17 @@
+source_name: College Student to Plead Guilty to Hacking PowerSchool (DataBreachToday)
+source_url: https://www.databreachtoday.com/college-student-to-plead-guilty-to-hacking-powerschool-a-28484
+date_of_breach: '2025-05-26'
+date_of_disclosure: '2025-05-26'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Massachusetts teenage college student Matthew Lane has been accused of hacking
+  into K-12 student information system platform provider PowerSchool and holding stolen
+
+
+  Source: DataBreachToday article coverage.'

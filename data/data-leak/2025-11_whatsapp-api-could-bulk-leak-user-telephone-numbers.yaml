@@ -1,0 +1,17 @@
+source_name: WhatsApp API Could Bulk Leak User Telephone Numbers (DataBreachToday)
+source_url: https://www.databreachtoday.com/whatsapp-api-could-bulk-leak-user-telephone-numbers-a-30099
+date_of_breach: '2025-11-21'
+date_of_disclosure: '2025-11-21'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Security researchers were able to scoop up the telephone numbers of billions
+  of WhatsApp users through an enumeration tool provided by app owner Meta. The sheer
+
+
+  Source: DataBreachToday article coverage.'

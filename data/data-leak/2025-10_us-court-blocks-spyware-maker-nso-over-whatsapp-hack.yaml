@@ -1,0 +1,17 @@
+source_name: US Court Blocks Spyware Maker NSO Over WhatsApp Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/us-court-blocks-spyware-maker-nso-over-whatsapp-hack-a-29768
+date_of_breach: '2025-10-20'
+date_of_disclosure: '2025-10-20'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A federal judge issued a permanent injunction barring NSO Group from using
+  or retaining its WhatsApp spyware exploit, citing national security risks and business
+
+
+  Source: DataBreachToday article coverage.'

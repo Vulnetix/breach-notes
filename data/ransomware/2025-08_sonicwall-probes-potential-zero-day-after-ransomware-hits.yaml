@@ -1,0 +1,17 @@
+source_name: SonicWall Probes Potential Zero-Day After Ransomware Hits (DataBreachToday)
+source_url: https://www.databreachtoday.com/sonicwall-probes-potential-zero-day-after-ransomware-hits-a-29127
+date_of_breach: '2025-08-05'
+date_of_disclosure: '2025-08-05'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'SonicWall said it is probing a surge in attacks against its Gen 7 firewalls,
+  running various firmware versions, which have SSL VPN enabled. Researchers said
+
+
+  Source: DataBreachToday article coverage.'

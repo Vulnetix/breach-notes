@@ -1,0 +1,17 @@
+source_name: Allianz Life Breach Tied to CRM Compromise (DataBreachToday)
+source_url: https://www.databreachtoday.com/allianz-life-breach-tied-to-crm-compromise-a-29068
+date_of_breach: '2025-07-28'
+date_of_disclosure: '2025-07-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A malicious actor breached a customer relationship management platform used
+  by Allianz Life Insurance of North America on July 16 and stole personally identifiable
+
+
+  Source: DataBreachToday article coverage.'

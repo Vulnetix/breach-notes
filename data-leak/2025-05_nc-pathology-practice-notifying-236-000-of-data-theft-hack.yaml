@@ -1,0 +1,17 @@
+source_name: NC Pathology Practice Notifying 236,000 of Data Theft Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/nc-pathology-practice-notifying-236000-data-theft-hack-a-28471
+date_of_breach: '2025-05-23'
+date_of_disclosure: '2025-05-23'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A North Carolina pathology practice is notifying nearly 236,000 patients of
+  a hacking incident discovered in January. Marlboro-Chesterfield Pathology says it
+
+
+  Source: DataBreachToday article coverage.'

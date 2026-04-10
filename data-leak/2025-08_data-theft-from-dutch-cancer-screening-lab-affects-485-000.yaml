@@ -1,0 +1,17 @@
+source_name: Data Theft From Dutch Cancer Screening Lab Affects 485,000 (DataBreachToday)
+source_url: https://www.databreachtoday.com/data-theft-from-dutch-cancer-screening-lab-affects-485000-a-29199
+date_of_breach: '2025-08-12'
+date_of_disclosure: '2025-08-12'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Dutch population health research agency is notifying 485,000 participants
+  of a cervical cancer screening program of a hacking incident at a clinical diagnostics
+
+
+  Source: DataBreachToday article coverage.'

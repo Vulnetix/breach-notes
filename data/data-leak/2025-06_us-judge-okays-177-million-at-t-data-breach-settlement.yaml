@@ -1,0 +1,18 @@
+source_name: US Judge Okays $177 Million AT&T Data Breach Settlement (DataBreachToday)
+source_url: https://www.databreachtoday.com/us-judge-okays-177-million-att-data-breach-settlement-a-28781
+date_of_breach: '2025-06-23'
+date_of_disclosure: '2025-06-23'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A federal judge has granted preliminary approval for AT&T to settle multiple
+  data breach lawsuits for $177 million. The lawsuits pertain to a customer dataset
+  from
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,17 @@
+source_name: Hackers Connected Raspberry Pi to ATM in Bank Heist Attempt (DataBreachToday)
+source_url: https://www.databreachtoday.com/hackers-connected-raspberry-pi-to-atm-in-bank-heist-attempt-a-29095
+date_of_breach: '2025-07-31'
+date_of_disclosure: '2025-07-31'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Researchers tied a cybercrime group tracked as UNC2891 to an attempted Asia-Pacific
+  bank heist, in which remote attackers physically installed a 4G-enabled
+
+
+  Source: DataBreachToday article coverage.'

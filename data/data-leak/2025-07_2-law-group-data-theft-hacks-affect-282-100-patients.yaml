@@ -1,0 +1,17 @@
+source_name: 2 Law Group Data Theft Hacks Affect 282,100 Patients (DataBreachToday)
+source_url: https://www.databreachtoday.com/2-law-group-data-theft-hacks-affect-282100-patients-a-29089
+date_of_breach: '2025-07-30'
+date_of_disclosure: '2025-07-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Two Florida-based law firms with offices in other states are notifying 282,100
+  people whose healthcare and other information was potentially compromised in separate
+
+
+  Source: DataBreachToday article coverage.'

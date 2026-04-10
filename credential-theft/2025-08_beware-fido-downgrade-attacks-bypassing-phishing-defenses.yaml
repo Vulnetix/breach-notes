@@ -1,0 +1,18 @@
+source_name: Beware FIDO-Downgrade Attacks Bypassing Phishing Defenses (DataBreachToday)
+source_url: https://www.databreachtoday.com/beware-fido-downgrade-attacks-bypassing-phishing-defenses-a-29223
+date_of_breach: '2025-08-14'
+date_of_disclosure: '2025-08-14'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The FIDO standard, a bulwark against credential-stealing phishing attacks,
+  has an implementation chink that''s poised for commoditization by cybercriminals,
+  say
+
+
+  Source: DataBreachToday article coverage.'

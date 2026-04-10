@@ -1,0 +1,17 @@
+source_name: File Transfer Flaw Blamed in Health Breach Affecting 233,000 (DataBreachToday)
+source_url: https://www.databreachtoday.com/file-transfer-flaw-blamed-in-health-breach-affecting-233000-a-29024
+date_of_breach: '2025-07-21'
+date_of_disclosure: '2025-07-21'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Connecticut-based firm that provides print and electronic document management
+  services to health plans has reported to regulators that an exploit of a
+
+
+  Source: DataBreachToday article coverage.'

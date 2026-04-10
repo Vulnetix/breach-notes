@@ -1,0 +1,17 @@
+source_name: OpenAI Suspends Mixpanel Use After Analytics Data Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/openai-suspends-mixpanel-use-after-analytics-data-breach-a-30165
+date_of_breach: '2025-11-28'
+date_of_disclosure: '2025-11-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'OpenAI has temporarily ceased use of Mixpanel after the analytics firm disclosed
+  a breach affecting profile data of the artificial intelligence giant''s API platform
+
+
+  Source: DataBreachToday article coverage.'

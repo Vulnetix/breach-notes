@@ -1,0 +1,17 @@
+source_name: Cyberattack Disrupts Jaguar Land Rover Assembly Line (DataBreachToday)
+source_url: https://www.databreachtoday.com/cyberattack-disrupts-jaguar-land-rover-assembly-line-a-29345
+date_of_breach: '2025-09-02'
+date_of_disclosure: '2025-09-02'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'British carmaker Jaguar Land Rover shut down its Liverpool assembly line Tuesday
+  following a cyberattack. &quot;At this stage, there is no evidence any customer
+
+
+  Source: DataBreachToday article coverage.'

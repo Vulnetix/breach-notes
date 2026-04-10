@@ -1,0 +1,17 @@
+source_name: How Flaws in Dell Firmware Could Help Compromises Persist (DataBreachToday)
+source_url: https://www.databreachtoday.com/how-flaws-in-dell-firmware-could-help-compromises-persist-a-29214
+date_of_breach: '2025-08-13'
+date_of_disclosure: '2025-08-13'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Security flaws in Dell''s ControlVault firmware allowed attackers to run code
+  on the chip, extract stored secrets and alter its behavior. By chaining these exploits,
+
+
+  Source: DataBreachToday article coverage.'

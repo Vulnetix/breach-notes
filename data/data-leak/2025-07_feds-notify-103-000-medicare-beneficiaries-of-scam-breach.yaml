@@ -1,0 +1,18 @@
+source_name: Feds Notify 103,000 Medicare Beneficiaries of Scam, Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/feds-notify-103000-medicare-beneficiaries-scam-breach-a-28882
+date_of_breach: '2025-07-02'
+date_of_disclosure: '2025-07-02'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The Centers for Medicare and Medicaid Services is notifying 103,000 people
+  that their personal information was potentially compromised by fraudsters who set
+  up scam
+
+
+  Source: DataBreachToday article coverage.'

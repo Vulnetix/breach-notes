@@ -1,0 +1,18 @@
+source_name: Orthopedic Practice Pays $500K Settlement to NYS in Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/orthopedic-practice-pays-500k-settlement-to-nys-in-hack-a-30464
+date_of_breach: '2026-01-07'
+date_of_disclosure: '2026-01-07'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'An upstate New York orthopedic practice has agreed to pay state regulators
+  a $500,000 settlement and implement stronger security practices following a 2023
+  hack
+
+
+  Source: DataBreachToday article coverage.'

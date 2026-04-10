@@ -1,0 +1,18 @@
+source_name: US Telecoms Reject Regulation as Answer to Chinese Hacking (DataBreachToday)
+source_url: https://www.databreachtoday.com/us-telecoms-reject-regulation-as-answer-to-chinese-hacking-a-30179
+date_of_breach: '2025-12-02'
+date_of_disclosure: '2025-12-02'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'U.S. telecommunications networks are still vulnerable to foreign intrusion,
+  national security and industry panelists told senators during a Tuesday hearing,
+  warning
+
+
+  Source: DataBreachToday article coverage.'

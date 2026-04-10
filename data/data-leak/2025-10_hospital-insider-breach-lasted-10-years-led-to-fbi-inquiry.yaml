@@ -1,0 +1,18 @@
+source_name: Hospital Insider Breach Lasted 10 Years, Led to FBI Inquiry (DataBreachToday)
+source_url: https://www.databreachtoday.com/hospital-insider-breach-lasted-10-years-led-to-fbi-inquiry-a-29668
+date_of_breach: '2025-10-07'
+date_of_disclosure: '2025-10-07'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Harris Health is contacting 5,000 patients about a breach involving a former
+  employee who improperly accessed electronic health records for over a decade. The
+  Texas
+
+
+  Source: DataBreachToday article coverage.'

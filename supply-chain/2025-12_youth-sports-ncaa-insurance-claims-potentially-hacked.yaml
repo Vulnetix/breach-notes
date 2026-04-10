@@ -1,0 +1,17 @@
+source_name: Youth Sports, NCAA Insurance Claims Potentially Hacked (DataBreachToday)
+source_url: https://www.databreachtoday.com/youth-sports-ncaa-insurance-claims-potentially-hacked-a-30292
+date_of_breach: '2025-12-15'
+date_of_disclosure: '2025-12-15'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'A Maine-based third-party administrator that handles healthcare claims involving
+  day care centers, youth sports and NCAA athlete accidents is notifying more than
+
+
+  Source: DataBreachToday article coverage.'

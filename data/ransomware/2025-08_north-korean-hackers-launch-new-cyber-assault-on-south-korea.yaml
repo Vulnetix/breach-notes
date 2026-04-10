@@ -1,0 +1,17 @@
+source_name: North Korean Hackers Launch New Cyber Assault on South Korea (DataBreachToday)
+source_url: https://www.databreachtoday.com/north-korean-hackers-launch-new-cyber-assault-on-south-korea-a-29231
+date_of_breach: '2025-08-14'
+date_of_disclosure: '2025-08-14'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A ScarCruft subgroup dubbed &quot;ChinopuNK&quot; has launched a disruptive
+  ransomware campaign across South Korea, using phishing lures, AutoIt loaders and
+
+
+  Source: DataBreachToday article coverage.'

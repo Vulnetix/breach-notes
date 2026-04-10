@@ -1,0 +1,18 @@
+source_name: Dutch Investigators Blame Hacks on Multiple Threat Actors (DataBreachToday)
+source_url: https://www.databreachtoday.com/dutch-investigators-blame-hacks-on-multiple-threat-actors-a-29182
+date_of_breach: '2025-08-11'
+date_of_disclosure: '2025-08-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A preliminary assessment by the Dutch NCSC into a suspected Russian hacking
+  campaign has concluded that more than one group likely carried out the May breach
+  of the
+
+
+  Source: DataBreachToday article coverage.'

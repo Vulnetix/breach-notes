@@ -1,0 +1,17 @@
+source_name: Feds Fine Surgery Practice $250K in Ransomware Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/feds-fine-surgery-practice-250k-in-ransomware-breach-a-29049
+date_of_breach: '2025-07-24'
+date_of_disclosure: '2025-07-24'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A HIPAA breach investigation into a 2021 attack involving a variant of Pysa
+  ransomware resulted in a $250,000 fine for an upstate New York specialty surgery
+
+
+  Source: DataBreachToday article coverage.'

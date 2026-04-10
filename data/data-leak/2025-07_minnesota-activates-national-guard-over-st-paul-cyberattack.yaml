@@ -1,0 +1,17 @@
+source_name: Minnesota Activates National Guard Over St. Paul Cyberattack (DataBreachToday)
+source_url: https://www.databreachtoday.com/minnesota-activates-national-guard-over-st-paul-cyberattack-a-29079
+date_of_breach: '2025-07-30'
+date_of_disclosure: '2025-07-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Cybersecurity experts from the Minnesota National Guard have deployed to St.
+  Paul to help the city respond to a cyberattack, owing to the &quot;scale and
+
+
+  Source: DataBreachToday article coverage.'

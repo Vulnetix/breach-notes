@@ -84,6 +84,7 @@ Continuously discover and document cybersecurity breach incidents from public so
 This process is being automated to reduce manual effort. We have developed Python scripts that fetch feeds from specific data sources and generate properly formatted YAML files.
 
 - `scripts/import-breaches-cloud.py`: Scrapes the `breaches.cloud` RSS feed and automatically generates YAML files into the `data/` directory.
+- `scripts/import-web3isgoinggreat.py`: Scrapes the `web3isgoinggreat.com` Next.js API/DOM and follows pagination to generate YAML files for all incidents.
 
 To run the import scripts, use `uv` to automatically handle dependencies:
 ```bash
@@ -107,76 +108,54 @@ Example commit message format:
 ```
 Add breach batch N: X new incidents (summary of categories/themes)
 ```
-## Sources Confirmed Working Well
+## Source Status Matrix (what works now)
 
-These sources have been validated to yield high-quality, verifiable breach data:
+### Confirmed Working (automated)
 
-- **KrebsOnSecurity** (krebsonsecurity.com) — excellent detail on financial, retail POS, credential breaches
-- **UpGuard Blog** (upguard.com/breaches) — cloud misconfiguration and S3 bucket exposures
-- **Wiz.io Blog** (wiz.io/blog) — cloud-native vulnerability research (ChaosDB, Power Apps, etc.)
-- **HHS OCR HIPAA Breach Portal** (ocrportal.hhs.gov) — authoritative US healthcare breaches ≥500 individuals ("Wall of Shame")
-- **OAIC NDB Register** (oaic.gov.au/privacy/notifiable-data-breaches) — Australia mandatory; quarterly reports name major incidents
-- **SafetyDetectives Blog** (safetydetectives.com/blog) — unprotected database discoveries
-- **vpnMentor Research** (vpnmentor.com/blog) — Elasticsearch and S3 exposure research
-- **Troy Hunt / Have I Been Pwned** (haveibeenpwned.com) — authoritative credential dump catalogue
-- **UK ICO enforcement** (ico.org.uk/action-weve-taken/enforcement/) — GDPR fines with attached breach details
-- **SEC EDGAR 8-K filings** — post-December 2023 material cybersecurity disclosures; pre-2023 voluntary disclosures
-- **Australian ACSC advisories** (cyber.gov.au) — Australian government cyber incident alerts
-- **Bob Diachenko / Cyble** — prolific discoverers of exposed databases
+- `scripts/import-breaches-cloud.py`
+  - Source: `https://www.breaches.cloud/incidents/index.xml`
+  - Method: RSS/XML parse
+  - Result: creates incident YAML directly in `data/`
 
-## Gaps Still to Fill — Next Priority
+- `scripts/import-blackkite.py`
+  - Source: `https://blackkite.com/data-breaches-caused-by-third-parties/`
+  - Method: parse embedded Next.js Flight payload (`yearSections`) and normalize timeline rows
+  - Result: creates/updates supply-chain incidents from BlackKite's third-party timeline
 
-- **HHS OCR 2013-2016 period**: Many hospital/insurer HIPAA breaches ≥500K records not yet documented
-- **PDPC Singapore decisions** (pdpc.gov.sg/all-commissions-decisions) — decisions dating back to 2012
-- **OPC Canada PIPEDA reports** (priv.gc.ca) — Canadian mandatory breach summaries
-- **ICO UK enforcement actions pre-2018** — breach decisions with fine amounts
-- **DataBreachToday.com archives 2013-2018** — retail, healthcare, financial breaches
-- **Retail POS malware wave 2013-2015** — many smaller retailers not yet documented
-- **Australia NDB quarterly statistics 2018-present** — individual large incidents named in OAIC reports
-- **State AG breach notification databases** — Maine AGO most comprehensive; NY, CA, TX also useful
-- **ENISA Threat Landscape reports** — European incident data including GDPR notification summaries
+- `scripts/import-databreachtoday.py`
+  - Source: `https://www.databreachtoday.com/sitemap.html` + `articles-sitemap*.html`
+  - Method: parse sitemap article links, filter incident-like titles, fetch article metadata (title/description/byline date)
+  - Result: creates incident YAML from DataBreachToday archive coverage
 
-## Do Not Include
+### Mandatory Notification Sources (checked)
 
-- Incidents with no verifiable public source
-- Purely speculative or unconfirmed breach claims
-- Breaches where the only source is a threat actor claim with no corroboration
-- Duplicate entries for the same incident (consolidate into the richer record)
+- **OAIC NDB (Australia)**
+  - URL: `https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-publications`
+  - Status: accessible; primarily quarterly/aggregate publications
+  - Action: use OAIC as corroboration + major case enrichment; not yet a clean bulk per-incident feed
 
-## Current Repository Status (Updated 2026-04-10)
+- **HHS OCR HIPAA (US)**
+  - URL: `https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf`
+  - Status: accessible but JSF portal flow is stateful; bulk export path still needs scripted form navigation
+  - Action: keep as priority for dedicated parser/export workflow
 
-- **Total records**: 1,221 breach incidents documented
-- **Coverage**: 1996–2026, all major categories
-- **By category**: data-leak (263+), supply-chain (750+), ransomware (95+), credential-theft (64+), other (46+)
-- **Sources used**: BlackKite third-party breach timeline (687 supply-chain stubs via automated import), manually curated comprehensive records for major incidents, OAIC NDB, PDPC Singapore, ICO UK, HHS OCR, OPC Canada, SEC 8-K filings, KrebsOnSecurity, UpGuard, Wiz.io, vpnMentor, SafetyDetectives
+## Current Rules
+
+- Do not add incidents without at least one verifiable public source URL
+- Prefer primary source links (regulator, victim org, vendor advisory)
+- Avoid duplicate records for the same incident; enrich existing records instead
+- Use `YYYY-MM-DD` dates; if day unknown use first day of month and document uncertainty in notes
 
 ## Analyzer Usage
 
-Run from repo root to update README.md with correct stats:
+Run from repo root to update README.md with correct stats after import batches:
 ```bash
-./analyze/analyze data
-cp data/README.md README.md
+./analyze/analyze
 ```
 
-## Quality Tiers
+## Immediate Next Automation Priorities
 
-Records fall into two quality tiers:
-
-**Tier 1 — Comprehensive** (manually curated, ~530 records):
-- Full narrative notes (300–600 words)
-- Verified attack vector, impact, and regulatory response
-- Cross-referenced with primary sources
-
-**Tier 2 — Stub** (automated BlackKite import, ~687 records):
-- Brief notes from BlackKite's third-party breach timeline
-- Basic metadata (date, category, vendor, data type)
-- Suitable for coverage; may lack regulatory/legal details
-
-**Promotion path**: Tier 2 stubs for high-impact incidents should be promoted to Tier 1 by adding comprehensive notes from primary sources.
-
-## Next Priorities for Tier 1 Promotion
-
-1. All BlackKite healthcare provider stubs (multiple hospitals and health plans)
-2. All BlackKite financial sector stubs (banks, insurance, payment processors)
-3. Government/critical infrastructure stubs
-4. Any stubs where the source_url returns a 404 or paywalled article — find a better primary source
+1. Build a robust HHS OCR HIPAA parser/export path (JSF form flow)
+2. Add parser for regulator decision feeds where structured pagination exists (ICO, PDPC, OPC)
+3. Continue DataBreachToday ingestion in batches until new sitemap coverage yields no new incidents
+4. Promote high-impact stub entries to richer notes with additional primary references

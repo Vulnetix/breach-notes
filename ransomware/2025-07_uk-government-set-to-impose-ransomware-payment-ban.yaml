@@ -1,0 +1,18 @@
+source_name: UK Government Set to Impose Ransomware Payment Ban (DataBreachToday)
+source_url: https://www.databreachtoday.com/uk-government-set-to-impose-ransomware-payment-ban-a-29030
+date_of_breach: '2025-07-22'
+date_of_disclosure: '2025-07-22'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The British government vowed Tuesday to proceed with a proposed ransomware
+  payment ban for critical infrastructure organizations such as the National Health
+  Service
+
+
+  Source: DataBreachToday article coverage.'

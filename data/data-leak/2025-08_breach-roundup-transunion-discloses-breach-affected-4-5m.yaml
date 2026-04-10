@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: TransUnion Discloses Breach Affected 4.5M (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-transunion-discloses-breach-affected-45m-a-29320
+date_of_breach: '2025-08-28'
+date_of_disclosure: '2025-08-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Every week, Information Security Media Group rounds up cybersecurity incidents
+  and breaches around the world. This week: TransUnion reported an incident affecting
+
+
+  Source: DataBreachToday article coverage.'

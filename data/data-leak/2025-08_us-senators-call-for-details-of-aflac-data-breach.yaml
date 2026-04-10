@@ -1,0 +1,17 @@
+source_name: US Senators Call for Details of Aflac Data Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/us-senators-call-for-details-aflac-data-breach-a-29319
+date_of_breach: '2025-08-28'
+date_of_disclosure: '2025-08-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A U.S. Senate committee is demanding details from insurance giant Aflac about
+  the company''s recent cyberattack that compromised the personal and health information
+
+
+  Source: DataBreachToday article coverage.'

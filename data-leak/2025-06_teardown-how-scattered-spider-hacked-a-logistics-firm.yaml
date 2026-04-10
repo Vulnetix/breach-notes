@@ -1,0 +1,18 @@
+source_name: 'Teardown: How Scattered Spider Hacked a Logistics Firm (DataBreachToday)'
+source_url: https://www.databreachtoday.com/teardown-how-scattered-spider-hacked-logistics-firm-a-28846
+date_of_breach: '2025-06-27'
+date_of_disclosure: '2025-06-27'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Hackers tied to the cybercrime group Scattered Spider have been taking down
+  fresh victims, including a logistics firm first breached when attackers tricked
+  its help
+
+
+  Source: DataBreachToday article coverage.'

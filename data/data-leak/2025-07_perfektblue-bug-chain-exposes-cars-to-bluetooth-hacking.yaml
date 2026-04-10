@@ -1,0 +1,17 @@
+source_name: PerfektBlue Bug Chain Exposes Cars to Bluetooth Hacking (DataBreachToday)
+source_url: https://www.databreachtoday.com/perfektblue-bug-chain-exposes-cars-to-bluetooth-hacking-a-28958
+date_of_breach: '2025-07-14'
+date_of_disclosure: '2025-07-14'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A set of critical Bluetooth flaws in software that helps cars connect to phones
+  and other devices could enable attackers to remotely take control of car
+
+
+  Source: DataBreachToday article coverage.'

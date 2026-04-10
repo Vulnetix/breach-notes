@@ -1,0 +1,17 @@
+source_name: Hackers Target Job Recruiters Through Malicious Resumes (DataBreachToday)
+source_url: https://www.databreachtoday.com/hackers-target-job-recruiters-through-malicious-resumes-a-28665
+date_of_breach: '2025-06-11'
+date_of_disclosure: '2025-06-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Financially-motivated hackers tracked as FIN6 have flipped the script on job
+  fraud, impersonating job seekers to phish recruiters and deploy stealthy malware
+
+
+  Source: DataBreachToday article coverage.'

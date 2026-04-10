@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: Inside the $100M Nobitex Breach (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-inside-100m-nobitex-breach-a-28893
+date_of_breach: '2025-07-03'
+date_of_disclosure: '2025-07-03'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, a peek into Iran''s largest crypto exchange blending privacy, scale
+  and sanctions evasion, Europol and Spanish police dismantled a crypto fraud network,
+
+
+  Source: DataBreachToday article coverage.'

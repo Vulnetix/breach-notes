@@ -1,0 +1,18 @@
+source_name: 'ISMG Editors: Anubis Ransomware''s Puzzling New Tactic (DataBreachToday)'
+source_url: https://www.databreachtoday.com/ismg-editors-anubis-ransomwares-puzzling-new-tactic-a-28773
+date_of_breach: '2025-06-20'
+date_of_disclosure: '2025-06-20'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'In this week''s update, four editors with ISMG discussed Anubis ransomware''s
+  puzzling shift to data wiping malware, the leadership vacuum and budget uncertainty
+  at
+
+
+  Source: DataBreachToday article coverage.'

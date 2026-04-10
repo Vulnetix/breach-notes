@@ -1,0 +1,18 @@
+source_name: Hacker Who Stole Lawmaker Data From Insurance Market Charged (DataBreachToday)
+source_url: https://www.databreachtoday.com/hacker-who-stole-lawmaker-data-from-insurance-market-charged-a-28824
+date_of_breach: '2025-06-25'
+date_of_disclosure: '2025-06-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A hacker known online as &quot;IntelBroker&quot; and who has a history of
+  spilling sensitive information faces a four-count criminal indictment in the United
+  States
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,18 @@
+source_name: Chinese Hackers' Evolution From Vandals to Strategists (DataBreachToday)
+source_url: https://www.databreachtoday.com/chinese-hackers-evolution-from-vandals-to-strategists-a-29033
+date_of_breach: '2025-07-22'
+date_of_disclosure: '2025-07-22'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'There''s a reason why many of the same tools appear time and time again in
+  Chinese nation-state hacking: A first-generation of hackers who grew up together
+  online
+
+
+  Source: DataBreachToday article coverage.'

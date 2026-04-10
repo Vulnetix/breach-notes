@@ -1,0 +1,18 @@
+source_name: 2 Eye Care Practice Hacks Affect 260,000 Patients, Staff (DataBreachToday)
+source_url: https://www.databreachtoday.com/2-eye-care-practice-hacks-affect-260000-patients-staff-a-29458
+date_of_breach: '2025-09-16'
+date_of_disclosure: '2025-09-16'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Two separate hacks on ophthalmology practices in South Dakota and Florida
+  have affected more than a quarter-million patients. The cyberattacks were among
+  the latest
+
+
+  Source: DataBreachToday article coverage.'

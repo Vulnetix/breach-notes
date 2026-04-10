@@ -1,0 +1,18 @@
+source_name: 'ISMG Editors: Dutch Lab Hack Shows Healthcare Security Gaps (DataBreachToday)'
+source_url: https://www.databreachtoday.com/ismg-editors-dutch-lab-hack-shows-healthcare-security-gaps-a-29233
+date_of_breach: '2025-08-15'
+date_of_disclosure: '2025-08-15'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'In this week’s update, four ISMG editors discussed a cyberattack on a Dutch
+  cancer screening lab exposing the data of nearly half a million women, one-dollar
+  AI
+
+
+  Source: DataBreachToday article coverage.'

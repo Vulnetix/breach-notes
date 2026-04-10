@@ -1,0 +1,18 @@
+source_name: Copilot AI Bug Could Leak Sensitive Data via Email Prompts (DataBreachToday)
+source_url: https://www.databreachtoday.com/copilot-ai-bug-could-leak-sensitive-data-via-email-prompts-a-28713
+date_of_breach: '2025-06-16'
+date_of_disclosure: '2025-06-16'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A well-phrased email was all an attacker would have needed to trick Microsoft
+  Copilot into handing over sensitive data, until the operating system giant patched
+  the
+
+
+  Source: DataBreachToday article coverage.'

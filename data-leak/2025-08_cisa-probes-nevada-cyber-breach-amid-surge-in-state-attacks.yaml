@@ -1,0 +1,17 @@
+source_name: CISA Probes Nevada Cyber Breach Amid Surge in State Attacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/cisa-probes-nevada-cyber-breach-amid-surge-in-state-attacks-a-29321
+date_of_breach: '2025-08-28'
+date_of_disclosure: '2025-08-28'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The Cybersecurity and Infrastructure Security Agency and FBI are aiding Nevada
+  after a cyberattack disabled state services, exposing how local governments - amid
+
+
+  Source: DataBreachToday article coverage.'

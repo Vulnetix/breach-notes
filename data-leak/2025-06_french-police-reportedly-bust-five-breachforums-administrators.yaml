@@ -1,0 +1,17 @@
+source_name: French Police Reportedly Bust Five BreachForums Administrators (DataBreachToday)
+source_url: https://www.databreachtoday.com/french-police-reportedly-bust-five-breachforums-administrators-a-28814
+date_of_breach: '2025-06-25'
+date_of_disclosure: '2025-06-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'French police have reportedly busted five suspected hackers - &quot;IntelBroker,&quot;
+  &quot;ShinyHunters,&quot; &quot;Hollow,&quot; &quot;Noct&quot; and
+
+
+  Source: DataBreachToday article coverage.'

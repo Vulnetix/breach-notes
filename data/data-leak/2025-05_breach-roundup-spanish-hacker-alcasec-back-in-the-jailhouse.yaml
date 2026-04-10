@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Spanish Hacker Alcasec Back in the Jailhouse (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-spanish-hacker-alcasec-back-in-jailhouse-a-28543
+date_of_breach: '2025-05-29'
+date_of_disclosure: '2025-05-29'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Alcasec back in a Spanish jail, billions of stolen cookies and
+  Chinese hackers used Google Calendar. LexisNexis and Adidas had breaches, a vishing
+
+
+  Source: DataBreachToday article coverage.'

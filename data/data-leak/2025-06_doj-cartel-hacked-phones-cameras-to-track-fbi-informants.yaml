@@ -1,0 +1,18 @@
+source_name: 'DOJ: Cartel Hacked Phones, Cameras to Track FBI Informants (DataBreachToday)'
+source_url: https://www.databreachtoday.com/doj-cartel-hacked-phones-cameras-to-track-fbi-informants-a-28863
+date_of_breach: '2025-06-30'
+date_of_disclosure: '2025-06-30'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Justice Department watchdog found a Mexican cartel hired a hacker to tap
+  mobile data and Mexico City cameras, helping track, intimidate and kill potential
+  U.S.
+
+
+  Source: DataBreachToday article coverage.'

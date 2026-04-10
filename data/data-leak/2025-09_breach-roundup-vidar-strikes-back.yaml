@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Vidar Strikes Back (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-vidar-strikes-back-a-29420
+date_of_breach: '2025-09-11'
+date_of_disclosure: '2025-09-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Every week, ISMG rounds up cybersecurity incidents and breaches around the
+  world. This week, the Vidar infostealer is badder than ever, BlackDB admin pleaded
+
+
+  Source: DataBreachToday article coverage.'

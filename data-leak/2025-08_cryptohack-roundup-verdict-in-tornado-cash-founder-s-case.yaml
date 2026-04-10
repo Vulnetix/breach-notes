@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: Verdict in Tornado Cash Founder''s Case (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-verdict-in-tornado-cash-founders-case-a-29144
+date_of_breach: '2025-08-07'
+date_of_disclosure: '2025-08-07'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, Tornado Cash co-founder convicted, Samourai Wallet guilty plea,
+  Coinbase insider data theft, a U.S. court overturned an OpenSea executive''s fraud
+
+
+  Source: DataBreachToday article coverage.'

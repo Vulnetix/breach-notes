@@ -1,0 +1,13 @@
+source_name: "Wikipedia / SecurityWeek / Congress.gov CRS"
+source_url: "https://en.wikipedia.org/wiki/2024_global_telecommunications_hack"
+date_of_breach: "2023-01-01"
+date_of_disclosure: "2024-10-25"
+date_of_customer_notification: "unknown"
+category: "other"
+initial_attack_vector: "CWE-287: Improper Authentication (exploitation of network edge devices and telecom infrastructure to access CALEA lawful intercept systems)"
+cve: []
+vendor_product: "AT&T / Verizon / T-Mobile / Lumen / Spectrum / Consolidated Communications / Windstream telecom infrastructure"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Chinese MSS-affiliated APT Salt Typhoon (FamousSparrow) breached at least 9 US telecoms including AT&T, Verizon, T-Mobile starting ~late 2022/early 2023. Accessed CALEA lawful intercept systems, obtaining near-complete list of wiretap targets. Harvested metadata (call/text timestamps, IPs, phone numbers) for 1M+ users primarily in DC area. Obtained audio recordings of Trump, JD Vance, Harris campaign staff. 200+ businesses in 80+ countries hit globally. Senator Warner called it 'worst telecom hack in US history.' Prompted CISA/FBI joint advisories Dec 2024."

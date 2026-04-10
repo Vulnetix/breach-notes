@@ -1,0 +1,13 @@
+source_name: "Microsoft Security Blog / CISA AA21-062A / CSO Online"
+source_url: "https://www.microsoft.com/en-us/security/blog/2021/03/02/hafnium-targeting-exchange-servers/"
+date_of_breach: "2021-01-03"
+date_of_disclosure: "2021-03-02"
+date_of_customer_notification: "2021-03-02"
+category: "other"
+initial_attack_vector: "CWE-918: Server-Side Request Forgery (SSRF auth bypass chained with post-auth arbitrary file write for webshell installation)"
+cve: ["CVE-2021-26855", "CVE-2021-26857", "CVE-2021-26858", "CVE-2021-27065"]
+vendor_product: "Microsoft Exchange Server (on-premises)"
+software_package: ""
+malware: "China Chopper webshell / HAFNIUM custom tooling"
+supply_chain_claimed: false
+notes: "Chinese state-sponsored group HAFNIUM exploited four zero-days in on-premises Microsoft Exchange starting Jan 3 2021. CVE-2021-26855 (SSRF auth bypass) chained with CVE-2021-27065 (file write) to install webshells. Allowed email access, lateral movement, persistent backdoor. ~60,000 organizations compromised worldwide before March 2 patches. After public disclosure, multiple threat actors piled on including LockBit affiliates. CISA emergency directive issued. Subsequent ProxyShell (CVE-2021-34473) and ProxyNotShell further extended Exchange exploitation."

@@ -1,0 +1,13 @@
+source_name: "Dark Reading / UpGuard / InfoQ"
+source_url: "https://www.darkreading.com/cyberattacks-data-breaches/uber-breach-external-contractor-mfa-bombing-attack"
+date_of_breach: "2022-09-15"
+date_of_disclosure: "2022-09-19"
+date_of_customer_notification: "2022-09-19"
+category: "credential-theft"
+initial_attack_vector: "CWE-1390: Weak Authentication (MFA push notification fatigue / bombing combined with social engineering via WhatsApp)"
+cve: []
+vendor_product: "Uber corporate network / Thycotic PAM"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "18-year-old Lapsus$-affiliated attacker purchased stolen contractor VPN credentials from dark web. Bypassed Duo MFA by bombing target with push notifications for >1 hour then impersonating Uber IT support via WhatsApp to get approval. Discovered plaintext Thycotic PAM admin credentials in a PowerShell script post-VPN. Accessed G-Suite, Slack, HackerOne reports, financial invoicing tool. No customer data confirmed stolen. Attacker publicly posted in Uber's Slack."

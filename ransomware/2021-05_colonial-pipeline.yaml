@@ -1,0 +1,13 @@
+source_name: "CISA / Wikipedia / TechTarget"
+source_url: "https://www.cisa.gov/news-events/news/attack-colonial-pipeline-what-weve-learned-what-weve-done-over-past-two-years"
+date_of_breach: "2021-05-07"
+date_of_disclosure: "2021-05-08"
+date_of_customer_notification: "2021-05-08"
+category: "ransomware"
+initial_attack_vector: "CWE-308: Use of Single-Factor Authentication (compromised VPN account lacking MFA)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "DarkSide"
+supply_chain_claimed: false
+notes: "DarkSide ransomware affiliate (Russian-based) compromised Colonial Pipeline via leaked VPN credentials on a legacy account lacking MFA. 100 GB of data exfiltrated day before encryption. Pipeline operations halted May 7-13 2021 causing fuel shortages across US East Coast. CEO paid $4.4M (75 BTC) ransom. DOJ recovered 63.7 BTC ($2.3M value at time of recovery) in June 2021. Largest cyberattack on US oil infrastructure. DarkSide subsequently shut down operations."

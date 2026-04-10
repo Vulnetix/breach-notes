@@ -1,0 +1,13 @@
+source_name: "Volexity / Palo Alto Networks PSIRT / CISA / Tenable"
+source_url: "https://www.cisa.gov/news-events/alerts/2024/04/12/palo-alto-networks-releases-guidance-vulnerability-pan-os-cve-2024-3400"
+date_of_breach: "2024-03-26"
+date_of_disclosure: "2024-04-12"
+date_of_customer_notification: "2024-04-12"
+category: "other"
+initial_attack_vector: "CWE-77: Command Injection via arbitrary file creation in GlobalProtect feature"
+cve: ["CVE-2024-3400"]
+vendor_product: "Palo Alto Networks PAN-OS GlobalProtect"
+software_package: ""
+malware: "UPSTYLE Python backdoor"
+supply_chain_claimed: false
+notes: "CVSS 10.0. Threat actor UTA0218 exploited zero-day in PAN-OS GlobalProtect feature allowing unauthenticated OS command execution as root. Affected PAN-OS 10.2, 11.0, 11.1 with GlobalProtect enabled. Exploitation observed from at least March 26 2024. Volexity discovered via anomalous exfiltration at customer site and alerted Palo Alto April 10. Attacker deployed UPSTYLE Python backdoor. Patches released April 14. CISA KEV added same day. Thousands of devices exposed."

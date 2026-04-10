@@ -1,0 +1,13 @@
+source_name: "Wikipedia / UpGuard / ACMA / SecurityScorecard"
+source_url: "https://en.wikipedia.org/wiki/2022_Optus_data_breach"
+date_of_breach: "2022-09-19"
+date_of_disclosure: "2022-09-22"
+date_of_customer_notification: "2022-09-22"
+category: "data-leak"
+initial_attack_vector: "CWE-306: Missing Authentication for Critical Function (internet-exposed API with no authentication due to 2018 coding error not remediated on sub-domain)"
+cve: []
+vendor_product: "Optus telecommunications customer portal"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Australian telco Optus exposed an unauthenticated internet-facing API due to coding error from 2018 not fully remediated. Attacker used simple trial-and-error over 3 days in Sept 2022 to enumerate customer records. 9.8M customers affected; 2.1M had identity documents stolen (1.2M valid ID numbers). Data included names, DOBs, addresses, phone numbers, email, passport and driver's license numbers. Brief ransom demand of AUD$1.5M posted then retracted. ACMA sued Optus. Australian Privacy Act reforms accelerated."

@@ -1,0 +1,13 @@
+source_name: "CISA / Apache Software Foundation / CrowdStrike"
+source_url: "https://www.crowdstrike.com/en-us/blog/log4j2-vulnerability-analysis-and-mitigation-recommendations/"
+date_of_breach: "2021-12-01"
+date_of_disclosure: "2021-12-09"
+date_of_customer_notification: "unknown"
+category: "other"
+initial_attack_vector: "CWE-917: Improper Neutralization of Special Elements in Expression Language (JNDI injection in log4j)"
+cve: ["CVE-2021-44228", "CVE-2021-45046", "CVE-2021-45105"]
+vendor_product: "Apache Log4j 2"
+software_package: "log4j"
+malware: "Conti (ransomware), various cryptominers, Orcus RAT"
+supply_chain_claimed: false
+notes: "Critical CVSS 10.0 RCE vulnerability in Apache Log4j 2 logging library. Publicly disclosed Dec 9 2021; patch released same day (2.15.0). Nation-state actors from China, Iran, North Korea, Russia exploited within days. Iranian APT used against US critical infrastructure (CISA/FBI). ~2M attacks/hour observed at peak by Akamai. Affected: VMware vCenter, Cisco, IBM WebSphere, Fortinet, AWS, Azure, GCP, Steam, Apple iCloud, Minecraft. UKG (Kronos) hit with ransomware. Mass exploitation began before most patches applied."

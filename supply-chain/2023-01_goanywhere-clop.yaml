@@ -1,0 +1,13 @@
+source_name: "BleepingComputer / Fortra / CISA"
+source_url: "https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-it-breached-130-orgs-using-goanywhere-zero-day/"
+date_of_breach: "2023-01-18"
+date_of_disclosure: "2023-02-01"
+date_of_customer_notification: "2023-03-10"
+category: "supply-chain"
+initial_attack_vector: "CWE-78: OS Command Injection (pre-auth RCE in GoAnywhere MFT admin interface)"
+cve: ["CVE-2023-0669"]
+vendor_product: "Fortra GoAnywhere MFT"
+software_package: "GoAnywhere MFT"
+malware: ""
+supply_chain_claimed: true
+notes: "Cl0p exploited zero-day RCE in Fortra GoAnywhere MFT admin portal. ~130 organizations breached over 10 days in January 2023. Cl0p named 100+ victims on leak site through March 2023. Major victims: Hitachi Energy, Procter & Gamble, Rubrik, Community Health Systems, Hatch Bank, City of Toronto, Saks Fifth Avenue, Crown Resorts. Unusually, Cl0p did not deploy ransomware locker; pure data theft and extortion. Fortra initially shared advisory only with customers privately; Bleepingcomputer first reported publicly Feb 2."

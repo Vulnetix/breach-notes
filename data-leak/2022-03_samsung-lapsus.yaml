@@ -1,0 +1,13 @@
+source_name: "TechCrunch / BleepingComputer / SecurityAffairs"
+source_url: "https://techcrunch.com/2022/03/07/samsung-breach-source-code/"
+date_of_breach: "2022-03-04"
+date_of_disclosure: "2022-03-07"
+date_of_customer_notification: "2022-03-07"
+category: "data-leak"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (exact vector not disclosed; Lapsus$ used credential theft and social engineering techniques)"
+cve: []
+vendor_product: "Samsung Electronics"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Lapsus$ hacking group leaked 190GB of alleged Samsung source code and proprietary data in March 2022. Stolen data included: TrustZone trusted applet source code, biometric unlock algorithms, Galaxy device bootloader source code, Qualcomm confidential source code, activation servers source code. Samsung confirmed breach but stated no consumer personal data was stolen. Occurred 2 weeks after Lapsus$ breached Nvidia. Source code exposure risks enable targeted vulnerability discovery."

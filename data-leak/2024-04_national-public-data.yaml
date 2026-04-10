@@ -1,0 +1,13 @@
+source_name: "IBM Think / Wikipedia / KrebsOnSecurity"
+source_url: "https://www.ibm.com/think/news/national-public-data-breach-publishes-private-data-billions-us-citizens"
+date_of_breach: "2024-04-01"
+date_of_disclosure: "2024-08-16"
+date_of_customer_notification: "2024-08-16"
+category: "data-leak"
+initial_attack_vector: "CWE-312: Cleartext Storage of Sensitive Information (plaintext admin credentials in publicly accessible Members.zip on sister site RecordsCheck.net)"
+cve: []
+vendor_product: "National Public Data / Jerico Pictures"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Background check company National Public Data (Jerico Pictures) breached via plaintext admin credentials found in Members.zip archive on sister site RecordsCheck.net. 2.9 billion records allegedly stolen including SSNs, current and past addresses, DOBs, phone numbers for US, UK, Canada citizens. Data circulated from April 2024; confirmed breach disclosed Aug 16 2024. NPD filed Chapter 11 bankruptcy Oct 2024. Class action lawsuits filed in multiple states. One of largest data exposures in history by record count."

@@ -1,0 +1,13 @@
+source_name: "CNN Business / BlackFog / TechTarget / CyberScoop"
+source_url: "https://edition.cnn.com/2024/07/11/business/cdk-hack-ransom-tweny-five-million-dollars"
+date_of_breach: "2024-06-18"
+date_of_disclosure: "2024-06-19"
+date_of_customer_notification: "2024-06-19"
+category: "ransomware"
+initial_attack_vector: "CWE-1391: Use of Weak Credentials (social engineering; exact initial vector not fully disclosed)"
+cve: []
+vendor_product: "CDK Global Dealer Management System"
+software_package: ""
+malware: "BlackSuit"
+supply_chain_claimed: false
+notes: "BlackSuit ransomware (linked to Royal/Conti lineage) attacked CDK Global June 18 2024, disrupting dealer management systems for ~15,000 US auto dealerships. CDK suffered second attack during recovery attempt. Systems offline for ~2 weeks. CDK paid ~$25M ransom (387 BTC confirmed on chain June 21). Initial demand was $10M, reportedly raised to $50M+. Collective estimated impact to dealerships >$1B (Anderson Economic Group). Systems progressively restored June 28-July 4. Customer PII and financial data potentially exposed."

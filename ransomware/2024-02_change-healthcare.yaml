@@ -1,0 +1,13 @@
+source_name: "ThreatIntelReport / UnitedHealth Group congressional testimony"
+source_url: "https://www.threatintelreport.com/2024/12/20/incident_reports/change-healthcare-ransomware-attack-unitedhealth-optum-alphv-blackcat-disruption-and-mass-phi-exposure/"
+date_of_breach: "2024-02-11"
+date_of_disclosure: "2024-02-21"
+date_of_customer_notification: "2024-06-20"
+category: "ransomware"
+initial_attack_vector: "CWE-308: Use of Single-Factor Authentication (compromised Citrix remote access lacking MFA)"
+cve: []
+vendor_product: "Citrix remote access / Change Healthcare claims processing platform"
+software_package: ""
+malware: "ALPHV/BlackCat"
+supply_chain_claimed: false
+notes: "Affiliate of ALPHV/BlackCat breached Change Healthcare (UnitedHealth subsidiary) on Feb 11 2024 via stolen credentials on a Citrix portal lacking MFA. Spent 9 days in network before encrypting. UHG paid $22M ransom; affiliate withheld decryptor and sold data to RansomHub who extorted again. ~100 million individuals' PHI exposed. Estimated cost >$1.5B. HHS opened HIPAA investigation March 2024. Largest healthcare cyber incident in US history."

@@ -1,0 +1,13 @@
+source_name: "Los Angeles Unified School District Ransomware (Vice Society, 500GB Data)"
+source_url: "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-249a"
+date_of_breach: "2022-09-03"
+date_of_disclosure: "2022-09-06"
+date_of_customer_notification: "2023-01-01"
+category: "ransomware"
+initial_attack_vector: "Vice Society ransomware group gained access to LAUSD's network; initial access vector not officially confirmed but consistent with credential theft or exploitation of internet-facing systems; attackers exfiltrated approximately 500GB of data before deploying ransomware over the Labor Day weekend"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Vice Society ransomware"
+supply_chain_claimed: false
+notes: "The Los Angeles Unified School District (LAUSD), the second-largest school district in the United States (serving approximately 600,000 students and 74,000 employees), suffered a ransomware attack over the Labor Day weekend (September 3–5, 2022). The Vice Society ransomware gang claimed responsibility and stole approximately 500GB of data before deploying ransomware. LAUSD refused to pay the ransom; Vice Society subsequently published the stolen data on their leak site in October 2022. The leaked data included contractor Social Security numbers, student psychological assessments, medical information, financial records, contracts, and legal documents — some dating back to 1970. CISA and the FBI released a joint advisory about Vice Society's targeting of the education sector. The attack caused significant disruption to LAUSD IT systems at the start of the school year. LAUSD Superintendent Alberto Carvalho publicly refused to pay the ransom. The breach highlighted the education sector's vulnerability to ransomware, as schools often operate with underfunded IT and cybersecurity budgets while managing large volumes of sensitive student and employee data."

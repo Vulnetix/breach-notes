@@ -1,0 +1,13 @@
+source_name: "Blackbaud CRM Ransomware/Data Theft (Nonprofits, Universities, Healthcare)"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-finalizes-order-blackbaud-lax-security-allowed-ransomware-attack"
+date_of_breach: "2020-02-07"
+date_of_disclosure: "2020-07-16"
+date_of_customer_notification: "2020-07-16"
+category: "supply-chain"
+initial_attack_vector: "Ransomware attackers infiltrated Blackbaud's self-hosted cloud environment; before deploying ransomware, exfiltrated a copy of a subset of data from its cloud backup environment; Blackbaud paid the ransom in exchange for assurance the data was deleted"
+cve: []
+vendor_product: "Blackbaud cloud CRM platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Blackbaud, the world's largest provider of cloud software for nonprofits, universities, healthcare organizations, and foundations, disclosed in July 2020 that it had suffered a ransomware attack between February and May 2020. Before encrypting systems, the attackers exfiltrated donor and constituent data. Blackbaud paid the ransom and claimed to have received confirmation the data was destroyed — but initial disclosures downplayed the breach's scope. In subsequent SEC filings, Blackbaud admitted the stolen data included Social Security numbers, bank account information, and credentials — contradicting their initial disclosures. The breach affected thousands of Blackbaud clients including hundreds of universities, healthcare organizations, charities, and nonprofits across the US, UK, Canada, and Australia. Notable affected organizations include University of California, Northwestern University, Rhode Island School of Design, 49ers Foundation, and numerous NHS trusts. In 2023, the FTC finalized a settlement with Blackbaud requiring comprehensive security improvements and prohibiting misleading security claims. Blackbaud also paid $3 million to the SEC for misleading disclosures about the breach scope, and $49.5 million to settle multistate attorney general investigations (49 states) — one of the largest AG multistate breach settlements."

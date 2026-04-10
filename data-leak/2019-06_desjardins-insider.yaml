@@ -1,0 +1,13 @@
+source_name: "Desjardins Group Insider Data Theft (4.2M Members)"
+source_url: "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-n_200115/"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2019-06-20"
+date_of_customer_notification: "2019-06-20"
+category: "data-leak"
+initial_attack_vector: "A malicious insider (a Desjardins employee) collected and exfiltrated personal data of members over a period of approximately 26 months, sharing the data with unauthorized third parties outside the organization"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Desjardins Group, Canada's largest federation of credit unions with over 7 million members, disclosed in June 2019 that a malicious insider (a now-former employee) had been exfiltrating member data for approximately 26 months (from approximately January 2017 to March 2019) and sharing it with unauthorized third parties. The initial disclosure indicated 2.9 million members were affected; this was later expanded to 4.2 million — essentially all of Desjardins' individual members. Stolen data included names, dates of birth, Social Security numbers (Social Insurance Numbers), addresses, phone numbers, email addresses, and banking habits information. Desjardins offered free credit monitoring for 5 years to all affected members. The Office of the Privacy Commissioner of Canada (OPC) investigated and in January 2020 found Desjardins had violated Canada's Personal Information Protection and Electronic Documents Act (PIPEDA) by failing to implement adequate insider threat controls. Desjardins paid approximately $201 million CAD to settle class action lawsuits, one of the largest data breach settlements in Canadian history. The former employee, Sébastien Boulanger-Dorval, was arrested in 2019 and later pleaded guilty."

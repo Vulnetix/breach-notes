@@ -1,0 +1,13 @@
+source_name: "AMCA/Quest Diagnostics/LabCorp Billing Breach (11.9M Patients)"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/quest/index.html"
+date_of_breach: "2018-08-01"
+date_of_disclosure: "2019-06-03"
+date_of_customer_notification: "2019-06-01"
+category: "data-leak"
+initial_attack_vector: "Web payment portal of American Medical Collection Agency (AMCA), a third-party billing collections vendor, was compromised — attackers skimmed payment card data and personal information from AMCA's web payment system for approximately 8 months"
+cve: []
+vendor_product: "AMCA (American Medical Collection Agency) billing portal"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Between August 1, 2018 and March 30, 2019, the web payment portal of American Medical Collection Agency (AMCA) — a third-party medical debt collections company — was compromised by attackers who installed payment card skimming malware. AMCA served as a billing vendor for Quest Diagnostics (~11.9M patients affected), LabCorp (~7.7M patients), Carecentrix, Sunrise Laboratories, and other healthcare companies. The exposed data included patient names, dates of birth, addresses, phone numbers, dates of service, balance information, and credit card and bank account numbers. AMCA did not discover the breach itself — it was notified by a security researcher and then by its payment processor in March 2019. AMCA filed for Chapter 11 bankruptcy in June 2019, partly due to costs of breach notification and lawsuits. Quest Diagnostics and LabCorp each filed 8-K disclosures with the SEC in June 2019. This breach became a landmark case for third-party vendor risk in healthcare. HHS OCR investigated Quest Diagnostics and issued a resolution agreement in 2023 for $5M for HIPAA violations related to inadequate vendor oversight. Total patients affected across all AMCA clients exceeded 25 million."

@@ -1,0 +1,13 @@
+source_name: "DP World Australia Ransomware Attack (Port Operations Disrupted)"
+source_url: "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/dp-world-australia-cyber-incident"
+date_of_breach: "2023-11-10"
+date_of_disclosure: "2023-11-10"
+date_of_customer_notification: "2023-11-13"
+category: "ransomware"
+initial_attack_vector: "Attackers exploited a Citrix Bleed vulnerability (CVE-2023-4966) in DP World's Citrix NetScaler infrastructure to gain unauthorized access to the company's network; the vulnerability allowed session token hijacking without authentication"
+cve: ["CVE-2023-4966"]
+vendor_product: "Citrix NetScaler ADC/Gateway"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "DP World Australia, which operates approximately 40% of Australia's container port throughput across terminals in Sydney, Melbourne, Brisbane, and Fremantle, suffered a cyberattack on November 10, 2023, forcing the company to take its systems offline and halt port operations for approximately three days. The attack was attributed to exploitation of the Citrix Bleed vulnerability (CVE-2023-4966), a critical session token hijacking vulnerability in Citrix NetScaler ADC/Gateway that was being widely exploited by ransomware groups (including LockBit) in late 2023. The operational disruption caused a backlog of approximately 30,000 shipping containers at Australian ports, creating significant supply chain disruptions. The Australian Cyber Security Centre (ACSC) and federal government coordinated the incident response. Australia's Home Affairs Minister Clare O'Neil described it as a significant national cyber incident. The attack highlighted the vulnerability of critical transport infrastructure and demonstrated how port disruption can cascade quickly into broader economic and supply chain impacts. The incident contributed to Australia's development of a mandatory cyber incident reporting framework for critical infrastructure operators."

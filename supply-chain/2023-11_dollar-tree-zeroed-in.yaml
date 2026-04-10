@@ -1,0 +1,13 @@
+source_name: "Dollar Tree/Family Dollar — Zeroed-In Technologies Breach (1.98M)"
+source_url: "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e9e47e40-abf0-4a0f-a6e0-d6f9ffefcffc.html"
+date_of_breach: "2023-08-07"
+date_of_disclosure: "2023-11-20"
+date_of_customer_notification: "2023-11-28"
+category: "supply-chain"
+initial_attack_vector: "Zeroed-In Technologies, an HR analytics vendor used by Dollar Tree and Family Dollar, suffered a data breach affecting its systems — attackers accessed systems and stole employee data; Dollar Tree and its subsidiary Family Dollar were downstream victims"
+cve: []
+vendor_product: "Zeroed-In Technologies HR analytics platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Dollar Tree and its subsidiary Family Dollar disclosed in November 2023 that Zeroed-In Technologies, a third-party HR analytics vendor they used, suffered a data breach between August 7–8, 2023. Approximately 1.98 million individuals were notified — primarily current and former Dollar Tree and Family Dollar employees. The stolen data included names and Social Security numbers. Zeroed-In Technologies provides workforce analytics software used by retail companies to analyze employee data. The breach occurred at the vendor level; Dollar Tree/Family Dollar systems were not directly breached. This was one of several notable third-party vendor breaches in the retail sector in 2023, illustrating the ongoing supply chain exposure created by sharing sensitive employee data with HR technology vendors."

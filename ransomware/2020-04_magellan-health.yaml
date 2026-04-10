@@ -1,0 +1,13 @@
+source_name: "Magellan Health Ransomware Attack (365K Patients)"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/magellan/index.html"
+date_of_breach: "2020-04-11"
+date_of_disclosure: "2020-05-12"
+date_of_customer_notification: "2020-06-12"
+category: "ransomware"
+initial_attack_vector: "Attackers sent a spear-phishing email impersonating a Magellan Health client, gaining access to a corporate server; exfiltrated data then deployed ransomware"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Magellan Health, one of the largest managed care companies in the United States (specializing in behavioral health and pharmacy benefits), disclosed in May 2020 that it suffered a ransomware attack on April 11, 2020. Attackers gained initial access via a spear-phishing email impersonating a Magellan Health client, planted malware to exfiltrate data, then deployed ransomware. Approximately 365,000 individuals were affected. The exfiltrated data included names, addresses, employee ID numbers, W-2 information (Social Security numbers, employee ID numbers and income information), and some treatment/health information. Magellan serves approximately 42 million people across the US through behavioral health, specialty health, and pharmacy benefit management services. The attack occurred during the height of the COVID-19 pandemic, when healthcare organizations faced heightened cyber threats. Magellan was acquired by Centene Corporation in 2022."

@@ -1,0 +1,13 @@
+source_name: "Experian South Africa Data Breach (24M Individuals, 793K Businesses)"
+source_url: "https://www.experian.co.za/consumer/data-incident.html"
+date_of_breach: "2020-05-01"
+date_of_disclosure: "2020-08-19"
+date_of_customer_notification: "2020-08-19"
+category: "data-leak"
+initial_attack_vector: "A fraudster posing as a legitimate client of Experian South Africa used social engineering to convince Experian to provide a dataset containing personal information; the attacker presented fraudulent credentials and business information to obtain the data transfer"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In August 2020, Experian South Africa disclosed that a suspected fraudster had obtained personal data of approximately 24 million South African individuals and 793,749 businesses by fraudulently impersonating a legitimate Experian client and requesting a data dataset. The Southern African Fraud Prevention Service (SAFPS) assisted with the investigation. The exposed data included consumer contact and employment information used for credit and insurance risk assessments — but Experian stated it did not include financial information or credit records. The data appeared on a hacker forum in late 2020. South Africa's Information Regulator investigated under the Protection of Personal Information Act (POPIA). A suspect was identified and Experian obtained a court order to delete the data from the suspect's devices; the suspect's devices were surrendered and a high court order was granted. The incident highlighted the risks of social engineering at credit bureaus and the vulnerabilities inherent in business-to-business data sharing arrangements."

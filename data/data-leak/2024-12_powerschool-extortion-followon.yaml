@@ -1,0 +1,13 @@
+source_name: "K-12 Dive"
+source_url: "https://www.k12dive.com/news/powerschool-data-breach-investigations/740515/"
+date_of_breach: "2024-12-19"
+date_of_disclosure: "2025-01-07"
+date_of_customer_notification: "2025-01-07"
+category: "data-leak"
+initial_attack_vector: "CWE-308: Use of Single-factor Authentication (compromised employee password, no MFA on PowerSource portal)"
+cve: []
+vendor_product: "PowerSchool Student Information System (SIS)"
+software_package: "PowerSchool SIS / PowerSource portal"
+malware: ""
+supply_chain_claimed: true
+notes: "PowerSchool, the dominant K-12 student information system provider serving approximately 16,000 schools and 50 million students in North America, suffered a data breach beginning December 19, 2024 that went undetected for nine days. Attackers accessed the PowerSource customer support portal using a stolen employee credential (no MFA). Over 62 million student records and nearly 10 million teacher records were exfiltrated — the largest breach of children's data in US history. Stolen data included names, addresses, birthdates, SSNs, medical conditions, disability accommodations, IEPs, disciplinary records, and income data. PowerSchool paid a ransom after receiving a demand on December 28. By May 2025, individual school districts received separate ransom demands using samples of the same data. Matthew Lane, 20, was arrested and sentenced to four years in federal prison in October 2025. Note: A separate PowerSchool file already exists in this repo for the supply-chain classification; this entry covers the follow-on extortion campaign and broader impact detail."

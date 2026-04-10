@@ -1,0 +1,13 @@
+source_name: "NTT Communications Japan Data Breach (17,891 Corporate Customers)"
+source_url: "https://www.bleepingcomputer.com/news/security/ntt-communications-data-breach-exposes-info-of-18-000-corporate-customers/"
+date_of_breach: "2024-02-01"
+date_of_disclosure: "2025-03-05"
+date_of_customer_notification: "2025-03-05"
+category: "data-leak"
+initial_attack_vector: "Attackers gained unauthorized access to NTT Communications' order information system (Order Information Change System) through an undisclosed vulnerability, enabling data exfiltration of corporate customer contract records"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "NTT Communications Corporation, the international subsidiary of Japan's NTT Group, disclosed in March 2025 that a breach had exposed data for 17,891 corporate customers. The attackers gained access to NTT's Order Information Change System — the database containing corporate client contract and account information — in approximately February 2024, with the breach going undetected for over a year. Exposed customer data included company names, contract identification numbers, phone numbers, email addresses, physical addresses, and the names of contact persons. NTT serves major multinational corporations and government entities. The delayed disclosure (13+ months from initial compromise to notification) drew significant scrutiny from Japanese regulators and cybersecurity authorities."

@@ -1,0 +1,13 @@
+source_name: "SQL Slammer Worm (75K Hosts in 10 Minutes, Global Internet Disruption)"
+source_url: "https://en.wikipedia.org/wiki/SQL_Slammer"
+date_of_breach: "2003-01-25"
+date_of_disclosure: "2003-01-25"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Single-packet UDP buffer overflow (376 bytes total) against Microsoft SQL Server 2000 and MSDE 2000 (MS02-039); patch available 6 months prior; worm fit entirely in one UDP packet and required no TCP handshake, enabling maximum propagation speed"
+cve: ["CVE-2002-0649"]
+vendor_product: "Microsoft SQL Server 2000; Microsoft MSDE 2000"
+software_package: ""
+malware: "SQL Slammer (W32/SQLSlam, Sapphire)"
+supply_chain_claimed: false
+notes: "SQL Slammer, also known as Sapphire, is the fastest-spreading computer worm in recorded history. Launched at 05:30 UTC on January 25, 2003, the 376-byte worm doubled the number of infected hosts every 8.5 seconds and infected approximately 75,000 vulnerable SQL Server hosts within 10 minutes. At its peak it was sending 55 million UDP packets per second. The worm's speed caused severe collateral damage: 27 million South Korean internet users and all South Korean mobile phone service was knocked offline; Bank of America's 13,000 ATM machines stopped working; five of the thirteen DNS root servers experienced degraded performance; Continental Airlines cancelled or delayed flights due to disrupted check-in systems; 911 emergency dispatch in Bellevue, Washington lost computer-aided dispatch. The worm was purely a denial-of-service and propagation payload with no data theft component — but the bandwidth consumption alone caused widespread internet disruption. The security patch (MS02-039) had been available for 6 months. SQL Slammer demonstrated the catastrophic potential of compact, high-speed network worms targeting widely deployed database infrastructure."

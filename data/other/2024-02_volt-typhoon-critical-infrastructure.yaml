@@ -1,0 +1,13 @@
+source_name: "CISA Advisory AA24-038A / Microsoft Security Blog"
+source_url: "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a"
+date_of_breach: "2021-06-01"
+date_of_disclosure: "2024-02-07"
+date_of_customer_notification: "unknown"
+category: "other"
+initial_attack_vector: "CWE-77: Command Injection / exploitation of internet-facing SOHO routers and VPN devices to establish footholds"
+cve: ["CVE-2021-40539", "CVE-2021-27860"]
+vendor_product: "Cisco routers / Fortinet VPN / various SOHO network devices"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Chinese state-sponsored group Volt Typhoon (Bronze Silhouette) active since mid-2021, targeting US critical infrastructure sectors: communications, energy, transportation, water/wastewater. Uses 'living off the land' (LOTL) techniques with built-in Windows tools (wmic, ntdsutil, netsh, PowerShell) to evade detection. Pre-positioned in IT networks for potential disruptive/destructive attacks in event of US-China conflict. CISA/NSA/FBI joint advisory Feb 7 2024. Active in Guam and continental US. Targets include telecoms, utilities, ports."

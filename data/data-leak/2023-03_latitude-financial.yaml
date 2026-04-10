@@ -1,0 +1,13 @@
+source_name: "BleepingComputer / SecurityWeek / Security Boulevard"
+source_url: "https://www.bleepingcomputer.com/news/security/latitude-financial-data-breach-now-impacts-14-million-customers/"
+date_of_breach: "2023-03-16"
+date_of_disclosure: "2023-03-16"
+date_of_customer_notification: "2023-03-30"
+category: "data-leak"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (stolen employee login credentials used to access third-party service providers)"
+cve: []
+vendor_product: "Latitude Financial Services / DXC Technology (service provider)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Attacker stole employee credentials and used them to access Latitude Financial's data held by two service providers including DXC Technology. 14 million records affected across Australia and New Zealand: 7.9M driver license numbers, 53K passport numbers, 6.1M customer records (names, addresses, DOBs, phone numbers). AUD $76M remediation cost. Australian Privacy Act investigation launched. Latitude refused to pay ransom. Biggest data breach in Australian financial sector history."

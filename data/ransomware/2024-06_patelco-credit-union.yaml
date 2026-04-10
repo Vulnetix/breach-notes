@@ -1,0 +1,13 @@
+source_name: "Patelco Credit Union ransomware attack (RansomHub) — 1 million members"
+source_url: "https://www.securityweek.com/patelco-credit-union-data-breach-impacts-over-1-million-people/"
+date_of_breach: "2024-05-23"
+date_of_disclosure: "2024-06-29"
+date_of_customer_notification: "2024-10-01"
+category: "ransomware"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "Patelco Credit Union (California)"
+software_package: ""
+malware: "RansomHub ransomware"
+supply_chain_claimed: false
+notes: "RansomHub had access to Patelco Credit Union's systems from approximately 23 May 2024 until detected 29 June 2024. Online banking, mobile app, and call centre were shut down for nearly two weeks. Initial breach notification estimated 726,000 individuals; revised to 1,009,472. Compromised data: names, SSNs, driver's licence numbers, dates of birth, email addresses. RansomHub added Patelco to its leak site 16 August 2024 after negotiations broke down, auctioning the stolen data. $7.25 million class action settlement. This attack is connected to the same RansomHub campaign that hit Halliburton in August 2024."

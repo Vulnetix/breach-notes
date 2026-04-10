@@ -1,0 +1,13 @@
+source_name: "Finastra SFTP Banking Software Data Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/fintech-giant-finastra-notifies-victims-of-october-data-breach/"
+date_of_breach: "2024-10-31"
+date_of_disclosure: "2024-11-08"
+date_of_customer_notification: "2025-02-12"
+category: "data-leak"
+initial_attack_vector: "Threat actor used compromised credentials to access Finastra's Secure File Transfer Platform (IBM Aspera SFTP); no malware deployed — data-only theft via stolen credentials"
+cve: []
+vendor_product: "IBM Aspera (SFTP/managed file transfer)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Finastra (London-based fintech serving 45 of the world's top 50 banks and 8,100+ financial institutions in 130 countries) had its SFTP platform accessed between 31 October and 8 November 2024. Threat actor 'abyss0' claimed 400 GB of compressed data on BreachForums. The SFTP was used to share files with bank customers, raising concerns about sensitive financial institution data. No malware was deployed; customer files were not altered. Finastra only began customer notifications on 12 February 2025."

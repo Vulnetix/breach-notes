@@ -1,0 +1,13 @@
+source_name: "ICBC London Subsidiary Cyberattack (Hunters International)"
+source_url: "https://www.group-ib.com/blog/hunters-international-ransomware-group/"
+date_of_breach: "2024-09-01"
+date_of_disclosure: "2024-09-01"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Unknown"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Hunters International ransomware"
+supply_chain_claimed: false
+notes: "The London subsidiary of the Industrial and Commercial Bank of China (ICBC), the world's largest bank by assets and a Chinese state-owned financial institution, was attacked by Hunters International ransomware in September 2024. ICBC's London operations provide investment banking, securities, and other financial services to European clients. Hunters International claimed responsibility and threatened to publish stolen data. The attack follows a separate major ICBC incident in November 2023 when ICBC's US broker-dealer was hit by LockBit ransomware, disrupting US Treasury market operations. Financial sector; state-owned bank targeting by ransomware group. Note: the November 2023 ICBC US incident is a separate event."

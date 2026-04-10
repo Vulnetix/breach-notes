@@ -1,0 +1,13 @@
+source_name: "Synnovis NHS pathology ransomware attack (Qilin)"
+source_url: "https://www.hipaajournal.com/care-disrupted-at-london-hospitals-due-to-ransomware-attack-on-pathology-vendor/"
+date_of_breach: "2024-06-03"
+date_of_disclosure: "2024-06-04"
+date_of_customer_notification: "2025-11-01"
+category: "ransomware"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "Synnovis (NHS pathology services provider)"
+software_package: ""
+malware: "Qilin ransomware"
+supply_chain_claimed: false
+notes: "Qilin ransomware group attacked Synnovis, a joint venture providing blood testing and pathology services to King's College Hospital NHS Foundation Trust and Guy's and St Thomas' NHS Foundation Trust in London. Attack date: 3 June 2024. 10,152 acute outpatient appointments and 1,710 elective procedures cancelled or postponed. Blood supply severely disrupted; O-negative and O-positive reserves depleted requiring a national NHS appeal for donations. Qilin demanded $50 million ransom; Synnovis refused to pay. 900,000+ patients affected; data published on dark web. Attack later identified as a contributing factor in a patient death. Breach notifications issued 17 months after the attack. ICO investigation ongoing."

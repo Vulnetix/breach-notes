@@ -1,0 +1,13 @@
+source_name: "Coinbase Insider Bribery Data Breach"
+source_url: "https://www.coinbase.com/blog/protecting-our-customers-standing-up-to-extortionists"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-05-15"
+date_of_customer_notification: "2025-05-15"
+category: "credential-theft"
+initial_attack_vector: "Insider threat: cybercriminals bribed overseas customer support contractors (via TaskUs vendor) to exfiltrate customer data from internal support tools"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Attackers bribed at least one overseas customer support agent contracted through third-party vendor TaskUs to access and steal Coinbase customer data from internal support systems. Data stolen on approximately 69,461 customers included names, addresses, phone numbers, email addresses, masked SSNs, masked bank account numbers, government-issued ID images (KYC), and account balance snapshots. Attackers demanded a $20 million ransom; Coinbase refused and instead offered a $20 million reward for information leading to the attackers' arrest. Estimated total costs including remediation and customer reimbursements: up to $400 million. No passwords, private keys, or seed phrases were compromised. Multiple criminal investigations opened. Highlights risk of third-party vendor insider threats in high-value fintech operations."

@@ -1,0 +1,13 @@
+source_name: "HIPAA Journal / BleepingComputer / SEC 8-K filing"
+source_url: "https://www.hipaajournal.com/up-to-11-million-health-records-maximus-data-breach/"
+date_of_breach: "2023-05-27"
+date_of_disclosure: "2023-07-26"
+date_of_customer_notification: "2023-08-01"
+category: "supply-chain"
+initial_attack_vector: "CWE-89: SQL Injection in MOVEit Transfer web application (zero-day)"
+cve: ["CVE-2023-34362"]
+vendor_product: "Progress Software MOVEit Transfer / Maximus government services"
+software_package: "MOVEit Transfer"
+malware: "LEMURLOOT web shell"
+supply_chain_claimed: true
+notes: "Maximus Inc. (US government contractor managing Medicare, Medicaid, student loan programs) was the largest single victim of Cl0p's MOVEit campaign. SEC 8-K filed July 26 2023 disclosing 8-11M individuals' PHI exposed. $15M remediation expenses recorded Q2 2023. Data included SSNs, PHI used for government program eligibility. CMS reported 2.34M Medicare beneficiaries affected. Maximus holds contracts with HHS, DOE, DOL. Class action litigation filed."

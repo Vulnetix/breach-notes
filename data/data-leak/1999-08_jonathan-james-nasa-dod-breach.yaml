@@ -1,0 +1,13 @@
+source_name: "Jonathan James (c0mrade): NASA and DoD Intrusions — First Juvenile Jailed for Cybercrime"
+source_url: "https://en.wikipedia.org/wiki/Jonathan_James"
+date_of_breach: "1999-08-01"
+date_of_disclosure: "2000-01-26"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Installed backdoor and network sniffer on a DTRA (Defense Threat Reduction Agency) server; intercepted usernames and passwords of DoD employees; also exploited vulnerabilities to access NASA's Marshall Space Flight Center network"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between August and October 1999, Jonathan James — a 15-year-old from Pinecrest, Florida using the handle 'c0mrade' — conducted a series of intrusions against US government systems that made him the first juvenile imprisoned for cybercrime in the United States. James installed a backdoor on a server belonging to the Defense Threat Reduction Agency (DTRA) in Dulles, Virginia, which handles threat reduction activities for US nuclear, chemical, and biological weapons. Through the sniffer, he intercepted over 3,300 messages and stole 10 usernames and passwords of DoD employees, some with classified content. James also broke into NASA's Marshall Space Flight Center network and stole proprietary software supporting the International Space Station's life support systems (temperature/humidity controls in the habitable module). NASA was forced to shut down its systems for 21 days at a remediation cost of $41,000. James also breached BellSouth and the Miami-Dade school system. His residence was raided on January 26, 2000; he pled guilty and was sentenced to 7 months house arrest with mandatory community service (too young for adult prison). He later served prison time for violation of probation. James died of a self-inflicted gunshot wound in 2008 at age 24. His case established important legal precedents for juvenile cybercrime prosecution."

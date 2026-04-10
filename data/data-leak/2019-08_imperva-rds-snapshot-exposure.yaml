@@ -1,0 +1,13 @@
+source_name: "Imperva RDS Database Snapshot Publicly Exposed (Cloud WAF Customer Data)"
+source_url: "https://www.imperva.com/blog/cybersecurity-lessons-learned-from-the-2019-imperva-data-breach/"
+date_of_breach: "2017-10-01"
+date_of_disclosure: "2019-08-27"
+date_of_customer_notification: "2019-10-10"
+category: "credential-theft"
+initial_attack_vector: "Imperva's internal database migration process created an Amazon RDS snapshot and made it publicly accessible; the snapshot contained customer authentication tokens, password hashes, and API keys. An attacker later found and accessed this snapshot"
+cve: []
+vendor_product: "Amazon RDS (Relational Database Service)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Imperva, a cybersecurity company providing cloud-based web application firewall (WAF) and DDoS protection services, disclosed in August 2019 that a data breach had exposed customer data for its Cloud WAF (formerly Incapsula) product. The breach originated from an October 2017 database migration in which an Amazon RDS database snapshot was inadvertently made publicly accessible. An unknown third party subsequently discovered and accessed the snapshot. The exposed data included email addresses, hashed and salted passwords, API keys, and TLS/SSL certificates belonging to Imperva's Cloud WAF customers. The irony of a cybersecurity company suffering a breach through basic cloud misconfiguration attracted significant industry attention. Imperva's own post-mortem identified the root cause as an unintended public RDS snapshot created during infrastructure migration — a misconfiguration that went undetected for nearly two years. The incident is cited as a case study in cloud security and the importance of regular cloud configuration auditing."

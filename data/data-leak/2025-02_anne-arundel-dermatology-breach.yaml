@@ -1,0 +1,13 @@
+source_name: "Anne Arundel Dermatology Data Breach - 1.9 Million Patients"
+source_url: "https://www.hipaajournal.com/anne-arundel-dermatology-data-breach/"
+date_of_breach: "2025-02-14"
+date_of_disclosure: "2025-07-01"
+date_of_customer_notification: "2025-07-01"
+category: "data-leak"
+initial_attack_vector: "Unauthorized network access; attackers had persistent access to Anne Arundel Dermatology systems from February 14 to May 13, 2025"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Anne Arundel Dermatology (a Maryland-based multi-site dermatology practice) disclosed a data breach affecting approximately 1.9 million individuals. Attackers maintained unauthorized access to the network for approximately three months, from February 14 to May 13, 2025. Exposed data included names, addresses, dates of birth, medical information, and health insurance information. Notifications were issued beginning July 2025 with 24 months of identity protection services offered. No threat actor claimed responsibility. Anne Arundel Dermatology agreed to a $2.4 million class action settlement alleging negligent failure to protect patient data."

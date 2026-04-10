@@ -1,0 +1,13 @@
+source_name: "CSO Online / Wikipedia / Apache Software Foundation"
+source_url: "https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html"
+date_of_breach: "2017-03-10"
+date_of_disclosure: "2017-09-07"
+date_of_customer_notification: "2017-09-08"
+category: "data-leak"
+initial_attack_vector: "CWE-20: Improper Input Validation / Apache Struts OGNL injection"
+cve: ["CVE-2017-5638"]
+vendor_product: "Equifax online dispute portal"
+software_package: "Apache Struts"
+malware: ""
+supply_chain_claimed: false
+notes: "Apache disclosed CVE-2017-5638 March 7 2017 and patched same day. Equifax security scans failed to identify the vulnerable system. Attackers exploited Apache Struts flaw in Equifax's online dispute portal starting March 10. Exfiltrated ~147.9 million Americans' SSNs, DOBs, addresses, driver's license numbers, and ~200K credit card numbers from May-July 2017. Detected July 29 2017. No encryption for data at rest. $700M FTC/state settlement. Total cost ~$1.38B. Chinese military (PLA Unit 54891) indicted in 2020."

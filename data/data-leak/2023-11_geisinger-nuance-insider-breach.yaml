@@ -1,0 +1,13 @@
+source_name: "Geisinger Health - Nuance Communications Insider Breach"
+source_url: "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2024/06/24/18/17/geisinger-provides-notice-of-nuances-data-security-incident"
+date_of_breach: "2023-11-27"
+date_of_disclosure: "2024-06-24"
+date_of_customer_notification: "2024-06-24"
+category: "data-leak"
+initial_attack_vector: "Insider threat: a former Nuance Communications IT employee (Andre J. Burk / 'Max Vance') accessed Geisinger patient records two days after being terminated from Nuance, using credentials that had not yet been deprovisioned"
+cve: []
+vendor_product: "Nuance Communications (Microsoft subsidiary)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Geisinger Health (major Pennsylvania health system) discovered on 29 November 2023 that former Nuance employee Andre Burk (age 46, California) had accessed patient records from 27 November 2023, two days after termination. Law enforcement requested a 7-month notification delay until June 2024 to avoid impeding investigation. 1,276,026 patients' data was exposed including names, DOBs, addresses, medical record numbers, race, gender, and phone numbers. No SSNs or financial data accessed. Burk pleaded guilty February 2025. Settled for $5 million."

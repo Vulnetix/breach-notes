@@ -1,0 +1,13 @@
+source_name: "Garmin WastedLocker Ransomware Attack — Evil Corp ($10M Ransom, 5-Day Outage)"
+source_url: "https://www.bleepingcomputer.com/news/security/garmin-outage-caused-by-wastedlocker-ransomware-attack/"
+date_of_breach: "2020-07-23"
+date_of_disclosure: "2020-07-23"
+date_of_customer_notification: "2020-07-28"
+category: "ransomware"
+initial_attack_vector: "Evil Corp used FakeUpdates (SocGholish) — fake browser update JavaScript injected into compromised websites — to deliver a NetSupport RAT dropper that installed WastedLocker ransomware on Garmin's corporate network"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "WastedLocker ransomware; FakeUpdates (SocGholish)"
+supply_chain_claimed: false
+notes: "On July 23, 2020, Evil Corp (a Russian cybercrime organization led by Maksim Yakubets, sanctioned by OFAC) deployed WastedLocker ransomware against Garmin, encrypting the company's IT systems and production systems. Garmin Connect (the fitness activity tracking platform serving millions of GPS devices), flyGarmin (aviation database service), Garmin Aviation databases, and Garmin's call centers were all taken offline for approximately 5 days. Garmin initially paid approximately $10 million in ransom (reported by Sky News; paid via Arete Incident Response as an intermediary to avoid directly violating OFAC sanctions on Evil Corp). This created a significant controversy: Evil Corp was a designated Specially Designated Nationals (SDN) entity under OFAC sanctions, potentially making ransom payment a violation of US sanctions law. No regulatory action was taken against Garmin. The WastedLocker ransomware was specifically designed to encrypt network shares and disable Windows recovery mechanisms. The attack highlighted the legal complexities of ransomware payments when threat actors are OFAC-sanctioned entities."

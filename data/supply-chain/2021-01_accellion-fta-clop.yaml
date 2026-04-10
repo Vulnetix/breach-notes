@@ -1,0 +1,13 @@
+source_name: "Mandiant / CISA AA21-055A / BleepingComputer / Tenable"
+source_url: "https://cloud.google.com/blog/topics/threat-intelligence/accellion-fta-exploited-for-data-theft-and-extortion/"
+date_of_breach: "2020-12-25"
+date_of_disclosure: "2021-01-11"
+date_of_customer_notification: "2021-02-01"
+category: "supply-chain"
+initial_attack_vector: "CWE-89: SQL Injection (CVE-2021-27101 HOST header injection) leading to DEWMODE webshell installation"
+cve: ["CVE-2021-27101", "CVE-2021-27102", "CVE-2021-27103", "CVE-2021-27104"]
+vendor_product: "Accellion File Transfer Appliance (FTA)"
+software_package: "Accellion FTA"
+malware: "DEWMODE webshell / FINTEAM"
+supply_chain_claimed: true
+notes: "FIN11 / UNC2546 (linked to Cl0p/TA505) exploited four zero-days in legacy 20-year-old Accellion FTA product starting Dec 25 2020. Used DEWMODE webshell to exfiltrate data. ~100 of 300 FTA customers victimized; 25 suffered significant data theft. Victims: Reserve Bank of New Zealand, Washington State Auditor, Kroger, Qualys, Transport for NSW, University of California, Shell, Jones Day law firm, Bombardier. Data-theft-only extortion, no ransomware deployed. Accellion had EOL'd FTA; pushed customers to migrate to Kiteworks."

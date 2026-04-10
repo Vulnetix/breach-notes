@@ -1,0 +1,13 @@
+source_name: "Melissa Virus Email Macro Worm ($80M Damages)"
+source_url: "https://www.fbi.gov/news/stories/melissa-virus-20th-anniversary-032519"
+date_of_breach: "1999-03-26"
+date_of_disclosure: "1999-03-26"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Word document macro virus emailed as attachment with 'Important Message From [sender]' subject; the VBA macro auto-forwarded itself to the first 50 addresses in the victim's Outlook address book and defaced documents with Simpsons references"
+cve: []
+vendor_product: "Microsoft Word (macro); Microsoft Outlook"
+software_package: ""
+malware: "Melissa (W97M/Melissa)"
+supply_chain_claimed: false
+notes: "On March 26, 1999, David Lee Smith of Aberdeen, New Jersey posted the Melissa macro virus to the alt.sex Usenet newsgroup using a stolen AOL account. The virus was embedded in a Word document claiming to contain a list of pornographic website passwords. When opened, the document's VBA macro forwarded itself via Microsoft Outlook to the first 50 contacts in the recipient's address book. The exponential propagation overwhelmed email servers worldwide: Intel, Microsoft, Lockheed Martin, and the US Marine Corps were forced to shut down their email systems. Melissa spread 15x faster than any previous email virus. An estimated $80 million in damages resulted from server overloads and remediation. Smith was arrested on April 1, 1999 after being traced through document metadata (a GUID in the Word template matched an AOL account). He pled guilty and was sentenced in 2002 to 20 months in federal prison. Melissa was the first widely-distributed macro virus and demonstrated the catastrophic potential of email-propagated malware — directly leading Microsoft to disable auto-execution of macros in Office by default and prompting the FBI to establish its cybercrime division."

@@ -1,0 +1,13 @@
+source_name: "U.S. Department of Veterans Affairs Stolen Laptop (26.5M Veterans)"
+source_url: "https://www.databreachtoday.com/veterans-affairs-data-breach-a-298"
+date_of_breach: "2006-05-03"
+date_of_disclosure: "2006-05-22"
+date_of_customer_notification: "2006-06-13"
+category: "data-leak"
+initial_attack_vector: "A VA data analyst took home a VA-issued laptop and external hard drive containing 26.5 million veterans' PII without authorization; the equipment was stolen from his home in a burglary"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On May 3, 2006, a laptop computer and external hard drive belonging to a U.S. Department of Veterans Affairs (VA) data analyst were stolen from his home in Aspen Hill, Maryland in a residential burglary. The devices contained unencrypted personal data for approximately 26.5 million veterans and active-duty military personnel, including names, Social Security numbers, and dates of birth. The analyst had taken the devices home without authorization in violation of VA policy. The VA did not disclose the breach until May 22 — nearly three weeks after the theft. The laptop was subsequently recovered in July 2006 and FBI analysis found no evidence the data had been accessed. However, the incident was a watershed moment for government data-at-rest policies: it drove the OMB to mandate full-disk encryption for all federal laptops containing sensitive data, and prompted multiple Congressional hearings and a $20 million VA settlement. The breach is a landmark case demonstrating the catastrophic risk of unencrypted data on portable devices."

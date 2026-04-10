@@ -1,0 +1,13 @@
+source_name: "CardSystems Solutions SQL Injection Breach (40M Cards, Company Destruction)"
+source_url: "https://www.databreachtoday.com/cardsystems-breach-still-resonates-a-2024"
+date_of_breach: "2004-01-01"
+date_of_disclosure: "2005-06-17"
+date_of_customer_notification: "2005-06-17"
+category: "data-leak"
+initial_attack_vector: "SQL injection vulnerability in CardSystems' web application allowed attackers to access the payment processing database; CardSystems violated card network rules by retaining full magnetic stripe track data after transaction authorization"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "CardSystems Solutions, a payment card processor based in Tucson, Arizona, was breached via SQL injection between approximately January 2004 and May 2005. The attackers accessed approximately 40 million credit and debit card records. Critically, CardSystems was found to have retained full magnetic stripe track data after transaction authorization — a practice explicitly prohibited by Visa and Mastercard's rules at the time. CardSystems also failed to implement basic security controls. The breach was disclosed in June 2005 after Mastercard and Visa notified their bank members of a potential compromise source. The consequences were severe: Mastercard terminated CardSystems' ability to process transactions; Visa placed them on probation and ultimately terminated them. CardSystems was effectively put out of business by the breach — one of the earliest examples of a company being destroyed by a cybersecurity incident. The breach was a significant catalyst for the formalization of PCI-DSS (Payment Card Industry Data Security Standard), which was consolidated and strengthened in 2006 partly in response to this and other payment processor breaches."

@@ -1,0 +1,13 @@
+source_name: "Australian Clinical Labs / Medlab Pathology Breach (223K Patients, First Privacy Act Civil Penalty)"
+source_url: "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/notifiable-data-breaches"
+date_of_breach: "2022-02-01"
+date_of_disclosure: "2022-05-26"
+date_of_customer_notification: "2023-03-01"
+category: "ransomware"
+initial_attack_vector: "Ransomware attackers compromised Medlab Pathology (subsidiary of Australian Clinical Labs) via an unpatched internet-facing system, exfiltrating patient pathology records before deploying ransomware"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In approximately February 2022, Australian Clinical Labs' Medlab Pathology subsidiary suffered a ransomware attack that exfiltrated approximately 223,000 patients' sensitive medical and personal data. The stolen data included pathology test results, Medicare numbers, credit card numbers, health insurance information, and medical conditions. The attackers (attributed to the Quantum ransomware group) exfiltrated the data before deploying ransomware. ACL didn't fully notify affected patients until March 2023 — over a year after the breach — which became the central compliance issue. The Office of the Australian Information Commissioner (OAIC) investigated and in July 2025, the Federal Court imposed a civil penalty of AUD 1.425 million on ACL for failing to take reasonable steps to protect patient data and for the delayed notification — the first civil penalty ever imposed under Australia's Privacy Act 1988. The case set a landmark precedent for Privacy Act enforcement in Australia."

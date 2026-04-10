@@ -1,0 +1,13 @@
+source_name: "Salt Typhoon AT&T / Verizon / Lumen Telecom Espionage (Confirmed)"
+source_url: "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/"
+date_of_breach: "2023-01-01"
+date_of_disclosure: "2024-10-06"
+date_of_customer_notification: "2025-01-01"
+category: "other"
+initial_attack_vector: "Chinese MSS-linked Salt Typhoon APT exploited vulnerabilities in telecom network infrastructure including Cisco routers; leveraged CALEA wiretap backdoor access and a Windows kernel-mode rootkit (Demodex) for persistence"
+cve: []
+vendor_product: "Cisco IOS routers; CALEA lawful intercept systems"
+software_package: ""
+malware: "Demodex (kernel-mode rootkit)"
+supply_chain_claimed: false
+notes: "Salt Typhoon (China MSS) breached at least 9 US telecom carriers including AT&T, Verizon, T-Mobile, Lumen, Spectrum, Consolidated Communications, and Windstream. Active for 1-2 years before September 2024 discovery. Attackers accessed CALEA wiretap systems, obtaining a near-complete list of US law enforcement wiretap targets — a major counterintelligence failure. Call metadata for 1M+ users (mostly DC metro area) was accessed. Audio calls of high-profile targets (Trump, Vance, Harris campaign staff) were recorded. AT&T and Verizon confirmed the breach in December 2024. Described as 'worst telecom hack in US history.' Note: this entry covers the three confirmed US telcos; see separate entry for the broader Salt Typhoon critical infrastructure campaign."

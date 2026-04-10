@@ -1,0 +1,13 @@
+source_name: "Neiman Marcus Snowflake Breach - 31M Email Addresses"
+source_url: "https://www.bleepingcomputer.com/news/security/neiman-marcus-data-breach-31-million-email-addresses-found-exposed/"
+date_of_breach: "2024-04-14"
+date_of_disclosure: "2024-06-24"
+date_of_customer_notification: "2024-06-24"
+category: "credential-theft"
+initial_attack_vector: "UNC5537 used infostealer-harvested credentials to access Neiman Marcus's Snowflake cloud environment without MFA"
+cve: []
+vendor_product: "Snowflake (cloud data warehouse)"
+software_package: ""
+malware: "VIDAR/RISEPRO/REDLINE infostealers (used to harvest Snowflake credentials)"
+supply_chain_claimed: false
+notes: "Neiman Marcus (US luxury retailer) was breached as part of the UNC5537 mass-Snowflake campaign in May 2024. While the company notified Maine AG of 64,472 individuals, Troy Hunt (HaveIBeenPwned) identified 31 million email addresses in the dataset. Exposed data included names, contact info, dates of birth, gift card data, transaction history, partial credit card numbers, and some SSNs and employee IDs. Neiman Marcus settled a class action lawsuit for $3.5 million."

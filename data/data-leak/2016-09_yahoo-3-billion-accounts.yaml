@@ -1,0 +1,13 @@
+source_name: "Yahoo 3-Billion-Account Breach (2013 + 2014, Disclosed 2016–2017)"
+source_url: "https://en.wikipedia.org/wiki/Yahoo_data_breaches"
+date_of_breach: "2013-07-01"
+date_of_disclosure: "2016-09-22"
+date_of_customer_notification: "2016-09-22"
+category: "credential-theft"
+initial_attack_vector: "Two separate breaches: (1) 2013 — attackers forged authentication cookies using stolen Yahoo proprietary cookie-minting code, bypassing password requirements entirely; (2) 2014 — Russian state-sponsored actors (FSB/Karim Baratov/Alexsey Belan) used spear-phishing to steal Yahoo admin credentials and copied the User Account Database backup"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Yahoo suffered two separate mega-breaches that collectively represent the largest credential theft in internet history. (1) August 2013 breach (disclosed December 2016, revised to 3 billion accounts October 2017): Attackers stole Yahoo's proprietary cookie-minting tools, allowing them to forge authentication cookies and access any Yahoo account without a password. All 3 billion Yahoo accounts that existed in mid-2013 were ultimately determined to be affected — every Yahoo account on the planet at the time. (2) 2014 breach (disclosed September 2016): Russian FSB intelligence officers Dmitry Dokuchaev and Igor Sushchin tasked criminal hackers Alexsey Belan and Karim Baratov to compromise Yahoo to spy on journalists, dissidents, and US government officials. Belan used spear-phishing to steal Yahoo's account management tool (UDB) credentials and exfiltrated backup files covering ~500 million accounts. Exposed data included names, email addresses, phone numbers, dates of birth, hashed passwords, and security questions/answers. Yahoo disclosed the 2014 breach in September 2016 and the 2013 breach in December 2016 — initially saying 1 billion accounts, then revising to 3 billion in October 2017. The DOJ indicted four individuals including two Russian FSB officers in 2017. Yahoo paid $117.5 million to settle class actions. Verizon, which was in the process of acquiring Yahoo, reduced its purchase price by $350 million following the disclosures. The breaches effectively destroyed Yahoo's market value and reputation."

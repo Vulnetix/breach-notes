@@ -1,0 +1,13 @@
+source_name: "Radiant Capital DeFi Hack"
+source_url: "https://cointelegraph.com/news/radiant-capital-north-korean-impersonated-ex-contractor-50-million-hack"
+date_of_breach: "2024-10-16"
+date_of_disclosure: "2024-10-16"
+date_of_customer_notification: "2024-10-17"
+category: "credential-theft"
+initial_attack_vector: "North Korean UNC4736 (Citrine Sleet/Lazarus sub-group) delivered InletDrift malware via malicious PDF on Telegram, posing as a trusted ex-contractor; malware compromised at least 3 developer hardware wallets by replacing Safe Wallet front-end display while submitting malicious transactions for signing"
+cve: []
+vendor_product: "Safe Wallet (multi-sig infrastructure)"
+software_package: ""
+malware: "InletDrift"
+supply_chain_claimed: false
+notes: "On 16 October 2024, attackers executed transferOwnership on Radiant Capital's Pool Provider contract using 3 collected malicious signatures, gaining control of all lending pool contracts on BSC and Arbitrum. $50 million drained. Initial compromise began 11 September 2024 via Telegram message to a developer. Mandiant attributed to UNC4736, a Lazarus Group sub-cluster aligned with North Korea's Reconnaissance General Bureau."

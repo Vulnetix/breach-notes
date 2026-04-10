@@ -1,0 +1,13 @@
+source_name: "Minnesota DHS MnCHOICES Data Breach via FEI Systems - 304K Individuals"
+source_url: "https://www.hipaajournal.com/minnesota-dhs-data-breach-2025/"
+date_of_breach: "2025-08-28"
+date_of_disclosure: "2026-01-16"
+date_of_customer_notification: "2026-01-16"
+category: "data-leak"
+initial_attack_vector: "A user affiliated with a licensed healthcare provider accessed the MnCHOICES disability services system without authorization; unauthorized access occurred through a third-party vendor (FEI Systems) managing the platform"
+cve: []
+vendor_product: "FEI Systems MnCHOICES (disability waiver case management)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "From August 28 to September 21, 2025, an individual affiliated with a licensed healthcare provider accessed the Minnesota Department of Human Services' MnCHOICES disability services system without authorization. The unauthorized access was reported to Minnesota DHS by FEI Systems, the third-party vendor managing MnCHOICES, in November 2025. The user's access was fully removed on October 30, 2025. Notification letters were issued on January 16, 2026, approximately 140 days after the breach began. Approximately 304,000 individuals were affected. For the majority, only demographic information was accessed; for 1,206 individuals, additional medical information and/or the last four digits of their Social Security numbers were also accessed. No data misuse had been identified at time of notification. Minnesota DHS declined to offer free credit monitoring due to the limited nature of the data accessed. The delayed disclosure triggered class action investigations by Lynch Carpenter and Srourian Law Firm. The breach also prompted Minnesota to delay rollout of a new disability waiver program."

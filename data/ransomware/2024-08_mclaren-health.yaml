@@ -1,0 +1,13 @@
+source_name: "McLaren Health Care ransomware attack (INC Ransom)"
+source_url: "https://www.hipaajournal.com/mclaren-health-care-investigating-potential-cyberattack/"
+date_of_breach: "2024-07-17"
+date_of_disclosure: "2024-08-06"
+date_of_customer_notification: "2025-06-01"
+category: "ransomware"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "McLaren Health Care (12-hospital Michigan system)"
+software_package: ""
+malware: "INC Ransom ransomware"
+supply_chain_claimed: false
+notes: "INC Ransom group (double extortion) gained access 17 July 2024; suspicious activity detected 5 August. All IT systems including EHR taken offline; hospitals reverted to paper charting for ~3 weeks. 743,131 patients notified of PHI exposure including names, SSNs, driver's licence numbers, medical and insurance information. INC Ransom did not list McLaren on its leak site, suggesting possible ransom payment (unconfirmed). This was McLaren's second ransomware attack after an INC Ransom incident in October 2023."

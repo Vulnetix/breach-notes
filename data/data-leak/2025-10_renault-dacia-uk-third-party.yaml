@@ -1,0 +1,13 @@
+source_name: "Renault / Dacia UK Third-Party Vendor Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/renault-dacia-uk-data-breach-exposes-customer-personal-information/"
+date_of_breach: "2025-09-01"
+date_of_disclosure: "2025-10-15"
+date_of_customer_notification: "2025-10-15"
+category: "data-leak"
+initial_attack_vector: "A third-party vendor used by Renault and Dacia UK was compromised, exposing customer personal data including vehicle identification information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Renault and Dacia UK disclosed in October 2025 that a third-party vendor had been compromised, exposing data for UK customers. Exposed information included customer names, gender, phone numbers, email addresses, postal addresses, and vehicle identification numbers (VINs). The breach was reported to the ICO. Renault/Dacia UK notified affected customers directly."

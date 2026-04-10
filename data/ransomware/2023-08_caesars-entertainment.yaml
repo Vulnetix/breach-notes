@@ -1,0 +1,13 @@
+source_name: "Cybersecurity Dive / Chainalysis / McGriff"
+source_url: "https://www.cybersecuritydive.com/news/caesars-social-engineering-breach/695995/"
+date_of_breach: "2023-08-18"
+date_of_disclosure: "2023-09-07"
+date_of_customer_notification: "2023-09-14"
+category: "ransomware"
+initial_attack_vector: "CWE-1390: Weak Authentication (vishing / voice phishing social engineering of outsourced IT vendor to bypass Okta MFA)"
+cve: []
+vendor_product: "Caesars Entertainment loyalty program database / Okta"
+software_package: ""
+malware: "Scattered Spider ransomware"
+supply_chain_claimed: false
+notes: "Scattered Spider targeted Caesars' outsourced IT support vendor Aug 18 2023 via voice phishing, convincing vendor to hand over Okta credentials. Within days accessed 6TB loyalty program database with SSNs and driver's licenses of 65M+ rewards members. $30M ransom demanded; Caesars paid $15M in cryptocurrency. Breach discovered Sept 7, SEC 8-K filed. Unlike MGM (same group same week), quick ransom payment avoided operational disruption. FBI involved; Chainalysis tracked ransom funds."

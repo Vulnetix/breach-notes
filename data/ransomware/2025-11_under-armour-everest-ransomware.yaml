@@ -1,0 +1,13 @@
+source_name: "Under Armour Everest Ransomware Breach - 72M Records"
+source_url: "https://www.malwarebytes.com/blog/news/2026/01/under-armour-ransomware-breach-data-of-72-million-customers-appears-on-the-dark-web"
+date_of_breach: "2025-11-01"
+date_of_disclosure: "2026-01-21"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Everest ransomware group claimed unauthorized access to Under Armour systems, alleging exfiltration of 343 GB of data; initial access vector not publicly disclosed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Everest"
+supply_chain_claimed: false
+notes: "In November 2025, the Everest ransomware group claimed Under Armour as a victim and attempted extortion, alleging theft of 343 GB of data. In January 2026, data for approximately 72 million accounts was published on a hacking forum. Have I Been Pwned indexed the breach on January 21, 2026. Exposed data included email addresses, names, dates of birth, genders, geographic locations, and purchase history; some records contained employee emails. Under Armour stated there was no evidence that payment processing systems or customer passwords were compromised. Class action lawsuits were filed in the US alleging negligence."

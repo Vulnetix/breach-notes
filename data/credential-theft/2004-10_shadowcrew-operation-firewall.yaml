@@ -1,0 +1,13 @@
+source_name: "ShadowCrew / Operation Firewall: Underground Carding Forum Takedown (1.7M Cards)"
+source_url: "https://en.wikipedia.org/wiki/ShadowCrew"
+date_of_breach: "2002-08-01"
+date_of_disclosure: "2004-10-26"
+date_of_customer_notification: ""
+category: "credential-theft"
+initial_attack_vector: "Centralized underground internet forum enabling buying, selling, and trading of stolen credit card data, identity documents, and malware tools; supplied by members conducting phishing, skimming, malware deployment, and SQL injection attacks against financial institutions and retailers"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "ShadowCrew was an underground carding forum operating from August 2002 until its takedown on October 26, 2004 in Operation Firewall — a joint US Secret Service operation involving law enforcement agencies in 8 US states and 6 countries. At its peak, ShadowCrew had approximately 4,000 members and was the largest English-language carding forum in existence. The forum facilitated the trafficking of at least 1.7 million stolen credit and debit card numbers, 18 million email accounts containing PII, and over $4 million in direct financial fraud. Members obtained stolen card data through phishing campaigns, physical skimmers on ATMs, SQL injection attacks, and network intrusions. A key member of ShadowCrew's inner circle was Albert Gonzalez, who was arrested in a separate operation in 2003 and subsequently became a paid Secret Service informant, providing critical intelligence that led to Operation Firewall. Gonzalez later orchestrated the TJX and Heartland breaches while supposedly working as an informant. Operation Firewall resulted in 28 arrests across 6 countries and the first-ever use of a network wiretap by US law enforcement (capturing 2TB of evidence). The takedown of ShadowCrew and the simultaneous rise of successor forums (Carders Market, CardersMarket) demonstrated that carding forums were resilient distributed criminal enterprises — decapitating one simply led to fragmentation into many."

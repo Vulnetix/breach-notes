@@ -1,0 +1,13 @@
+source_name: "Casio Ransomware Attack (Underground Group)"
+source_url: "https://world.casio.com/news/2025/0107-incident/"
+date_of_breach: "2024-10-05"
+date_of_disclosure: "2024-10-11"
+date_of_customer_notification: "2025-01-07"
+category: "ransomware"
+initial_attack_vector: "Unauthorized remote access; specific initial access vector not publicly disclosed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Underground ransomware"
+supply_chain_claimed: false
+notes: "Casio, the Japanese electronics and watchmaking company, suffered a ransomware attack on October 5, 2024. The Underground ransomware group claimed responsibility on October 10, threatening to release over 200 GB of stolen data. Casio declined to negotiate with attackers, in consultation with law enforcement. Approximately 8,500 individuals affected: ~6,500 employees (names, email, gender, DOB, taxpayer ID), ~1,900 business partners, and 91 customers in Japan (names, phone, address, purchase info). Customer credit card databases were not impacted. Casio confirmed in a January 2025 report that it had not paid ransom. Manufacturing/consumer electronics sector; notable for firm refusal to engage with ransomware group."

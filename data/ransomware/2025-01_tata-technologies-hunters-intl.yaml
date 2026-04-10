@@ -1,0 +1,13 @@
+source_name: "Tata Technologies Hunters International Ransomware Attack"
+source_url: "https://techcrunch.com/2025/03/11/tata-technologies-data-leaked-by-ransomware-gang/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-01-31"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Unknown; Hunters International typically uses phishing and exploits internet-facing systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Hunters International ransomware"
+supply_chain_claimed: false
+notes: "Tata Technologies, a Tata Group subsidiary providing engineering and technology services in automotive, aerospace, and industrial sectors (12,500+ employees, operating in 27 countries), suffered a ransomware attack in January 2025. Hunters International claimed responsibility, alleging theft of 1.4 TB of data across 730,000 files. Data included employee personal information (active and former staff), purchase orders, and contracts with Indian and US clients. Tata stated operational impact was minimal and client delivery services were unaffected. When ransom was not paid, Hunters International published leaked data in March 2025. Notable as a major Indian engineering/OT sector company targeted; Hunters International later rebranded as 'World Leaks' in 2025."

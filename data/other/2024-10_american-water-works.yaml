@@ -1,0 +1,13 @@
+source_name: "BleepingComputer"
+source_url: "https://www.bleepingcomputer.com/news/security/american-water-shuts-down-online-services-after-cyberattack/"
+date_of_breach: "2024-10-03"
+date_of_disclosure: "2024-10-07"
+date_of_customer_notification: "2024-10-07"
+category: "other"
+initial_attack_vector: "CWE-284: Improper Access Control"
+cve: []
+vendor_product: "American Water Works customer IT systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "American Water Works, the largest regulated water and wastewater utility in the United States (serving 14+ million people across 14 states), detected unauthorized activity in its IT networks on October 3, 2024, and disclosed it via SEC 8-K filing on October 7. The company immediately disconnected affected systems and shut down its customer-facing MyWater portal and billing services, waiving late fees during the outage. Water and wastewater treatment operations were not impacted. The attack type and responsible threat actor were not publicly confirmed. American Water stated the incident was not expected to have a material financial effect. The incident highlighted critical infrastructure cybersecurity risk for water utilities, prompting CISA and EPA advisories."

@@ -1,0 +1,13 @@
+source_name: "CD Universe Maxus Credit Card Extortion (300K Cards, First Major Breach Extortion)"
+source_url: "https://en.wikipedia.org/wiki/Cduniverse.com"
+date_of_breach: "1999-12-01"
+date_of_disclosure: "2000-01-10"
+date_of_customer_notification: "2000-01-10"
+category: "credential-theft"
+initial_attack_vector: "Attacker (known only as 'Maxus,' believed to be an Eastern European teenager) exploited a vulnerability in CD Universe's payment processing software to access the customer credit card database"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In December 1999, an attacker known only as 'Maxus' (believed to be a ~19-year-old Eastern European) exploited a vulnerability in the payment processing systems of CD Universe, an early online music retailer, and stole approximately 300,000 customer credit card numbers. Maxus sent an anonymous email to CD Universe demanding $100,000 in ransom to not publish the stolen cards. CD Universe refused to pay and instead reported the matter to the FBI. In January 2000, Maxus posted approximately 25,000 of the stolen card numbers to a website called 'Maxus Credit Card Pipeline' and offered the remainder online. Maxus was never identified or arrested. This incident was one of the first widely-reported cases of a cybercriminal extorting an online retailer with stolen customer data and refusing to accept 'no' — pioneering the data extortion business model that ransomware groups would systematize two decades later. The breach also highlighted the growing risk of storing unencrypted payment card data in early e-commerce systems."

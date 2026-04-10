@@ -1,0 +1,13 @@
+source_name: "Byte Federal Bitcoin ATM - GitLab Vulnerability Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/bitcoin-atm-firm-byte-federal-hacked-via-gitlab-flaw-58k-users-exposed/"
+date_of_breach: "2024-09-30"
+date_of_disclosure: "2024-12-12"
+date_of_customer_notification: "2024-12-12"
+category: "data-leak"
+initial_attack_vector: "Attacker exploited an unpatched GitLab vulnerability to gain access to a Byte Federal server hosting customer data"
+cve: []
+vendor_product: "GitLab"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "US Bitcoin ATM operator Byte Federal (which operates 1,200+ ATMs nationwide) was breached on 30 September 2024 via a GitLab vulnerability but did not detect the incident until 18 November 2024. Disclosed publicly 12 December 2024. 58,000 customers' names, addresses, phone numbers, government-issued ID details, Social Security numbers, transaction data, and photographs were exposed. No customer funds or digital assets were compromised. Byte Federal reset all customer accounts and passwords upon discovery."

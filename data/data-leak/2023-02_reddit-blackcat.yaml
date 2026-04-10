@@ -1,0 +1,13 @@
+source_name: "CPO Magazine / CSHub / SecurityWeek"
+source_url: "https://www.cpomagazine.com/cyber-security/blackcat-claims-reddit-hack-threatens-to-leak-damaging-info-stolen-during-the-february-data-breach/"
+date_of_breach: "2023-02-05"
+date_of_disclosure: "2023-02-09"
+date_of_customer_notification: "2023-02-09"
+category: "data-leak"
+initial_attack_vector: "CWE-1021: Improper Restriction of Rendered UI (targeted spear-phishing with real-time TOTP relay against single employee)"
+cve: []
+vendor_product: "Reddit internal systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Attacker sent convincing phishing email mimicking Reddit IT, tricked employee into entering credentials and TOTP codes in real time on fake login page. Accessed internal documents, dashboards, business systems, Jira, source code, employee/contractor contact info, advertiser data. ALPHV/BlackCat claimed responsibility June 2023, claimed 80GB stolen, demanded $4.5M ransom plus withdrawal of API pricing changes. Reddit refused to pay. No evidence production systems or user passwords compromised."

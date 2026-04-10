@@ -1,0 +1,13 @@
+source_name: "Marriott press release / CSO Online / FTC / NY AG"
+source_url: "https://news.marriott.com/news/2018/11/30/marriott-announces-starwood-guest-reservation-database-security-incident"
+date_of_breach: "2014-01-01"
+date_of_disclosure: "2018-11-30"
+date_of_customer_notification: "2018-11-30"
+category: "data-leak"
+initial_attack_vector: "CWE-506: Embedded Malicious Code / Remote Access Trojan deployed in Starwood network prior to Marriott acquisition"
+cve: []
+vendor_product: "Starwood Hotels guest reservation system"
+software_package: ""
+malware: "Remote Access Trojan (name undisclosed)"
+supply_chain_claimed: false
+notes: "Chinese state-sponsored hackers (linked to PLA) compromised Starwood Hotels reservation system as early as 2014, 2 years before Marriott acquired Starwood (2016). Breach persisted undetected until internal security tool flagged suspicious access Sept 8 2018. Up to 500M records exposed (revised to 383M); included names, addresses, phone, email, DOBs, passport numbers (5.25M unencrypted), encrypted payment cards. FTC action 2024. $52M multi-state settlement 2024. Highlights M&A cybersecurity due diligence failures."

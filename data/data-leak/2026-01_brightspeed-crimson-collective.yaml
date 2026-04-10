@@ -1,0 +1,13 @@
+source_name: "Brightspeed Broadband Crimson Collective Data Breach Claim - 1M Customers"
+source_url: "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/"
+date_of_breach: "2025-12-01"
+date_of_disclosure: "2026-01-04"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Unknown; Crimson Collective threat actor claimed access to Brightspeed's systems and exfiltration of over 1 million customer records; Brightspeed confirmed an investigation into a potential cybersecurity event"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On January 4, 2026, the Crimson Collective threat group publicly claimed via Telegram to have breached Brightspeed (a major US fiber broadband provider) and stolen records for over 1 million residential customers. The group shared screenshots and small data samples as purported proof. Claimed stolen data includes full PII — names, emails, phone numbers, billing/service addresses, account status, network type, and billing system data. Brightspeed opened a cybersecurity investigation but as of mid-January 2026 had not confirmed data exfiltration or a production system compromise. A class action lawsuit was filed January 7, 2026. Crimson Collective also allegedly threatened to disconnect Brightspeed customers. The breach remains unconfirmed by the company."

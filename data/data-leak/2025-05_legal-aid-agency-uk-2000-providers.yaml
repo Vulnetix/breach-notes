@@ -1,0 +1,13 @@
+source_name: "UK Legal Aid Agency Breach (2,000 Legal Service Providers)"
+source_url: "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-discloses-breach-affecting-2000-providers/"
+date_of_breach: "2025-04-01"
+date_of_disclosure: "2025-05-19"
+date_of_customer_notification: "2025-05-19"
+category: "data-leak"
+initial_attack_vector: "Attackers exploited an unpatched vulnerability in the Legal Aid Agency's online portal to gain unauthorized access to its database"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In May 2025, the UK Legal Aid Agency (part of the Ministry of Justice) disclosed a significant data breach affecting information on 2,000 legal service providers and their clients. The exposed data included names, dates of birth, National Insurance numbers, criminal records, and detailed financial information about legal aid applicants. The Legal Aid Agency provides public funding for legal representation in England and Wales; the breach affected sensitive client records spanning many years of applications. The attacker gained access through the agency's online portal and exfiltrated a substantial volume of personal and financial data. The UK's National Cyber Security Centre (NCSC) assisted with incident response."

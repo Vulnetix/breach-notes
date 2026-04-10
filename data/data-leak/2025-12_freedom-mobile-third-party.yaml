@@ -1,0 +1,13 @@
+source_name: "Freedom Mobile Third-Party Vendor Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-affecting-customer-info/"
+date_of_breach: "2025-11-01"
+date_of_disclosure: "2025-12-10"
+date_of_customer_notification: "2025-12-10"
+category: "data-leak"
+initial_attack_vector: "An unnamed third-party vendor used by Freedom Mobile was compromised, exposing customer account data stored in the vendor's systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Freedom Mobile, one of Canada's largest wireless carriers (owned by Shaw/Rogers), disclosed in December 2025 that a third-party vendor had been compromised, resulting in the exposure of customer data. The exposed information included customer names, home addresses, dates of birth, phone numbers, and account numbers. Freedom Mobile notified affected customers and the Office of the Privacy Commissioner of Canada (OPC) as required under PIPEDA breach notification obligations."

@@ -1,0 +1,13 @@
+source_name: "Marquis Software Solutions Breach (74 Banks and Credit Unions)"
+source_url: "https://www.bleepingcomputer.com/news/security/marquis-software-breach-exposes-customer-data-from-74-banks-credit-unions/"
+date_of_breach: "2025-11-01"
+date_of_disclosure: "2025-12-15"
+date_of_customer_notification: "2025-12-15"
+category: "supply-chain"
+initial_attack_vector: "Marquis Software Solutions, a vendor providing core banking software to community banks and credit unions, was compromised, exposing customer financial data for clients of 74 affected financial institutions"
+cve: []
+vendor_product: "Marquis Software Solutions (core banking software)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Marquis Software Solutions, a provider of core banking and analytics software to community banks and credit unions across the United States, disclosed in December 2025 that a breach had exposed customer data from 74 financial institution clients. Exposed customer data included names, home addresses, phone numbers, Social Security numbers, Tax Identification Numbers, financial account information, and dates of birth. The breadth of this breach — affecting customers of 74 separate financial institutions through a single vendor compromise — exemplifies the systemic risk of software supply chain attacks on community banking infrastructure."

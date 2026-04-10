@@ -1,0 +1,13 @@
+source_name: "Nimda Multi-Vector Worm (Five Propagation Methods, Most Widespread in 22 Minutes)"
+source_url: "https://en.wikipedia.org/wiki/Nimda"
+date_of_breach: "2001-09-18"
+date_of_disclosure: "2001-09-18"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Five simultaneous propagation vectors: (1) email attachment exploit; (2) infected IIS web servers serving malicious JavaScript to visitors; (3) open network shares; (4) IIS 4.0/5.0 directory traversal (Unicode/double decode vulnerabilities); (5) backdoors installed by Code Red II"
+cve: ["CVE-2001-0333", "CVE-2001-0507"]
+vendor_product: "Microsoft IIS; Microsoft Outlook; Microsoft Internet Explorer"
+software_package: ""
+malware: "Nimda (W32/Nimda, 'admin' reversed)"
+supply_chain_claimed: false
+notes: "Nimda (released exactly one week after the September 11 attacks) became the most widespread internet virus in history within 22 minutes of release, surpassing Code Red. Its five simultaneous propagation vectors made it uniquely virulent: it spread as an email attachment, through drive-by browser exploitation from infected IIS web servers, via open Windows network shares, through IIS directory traversal vulnerabilities, and through backdoors left by Code Red II. Nimda was the first malware to modify existing websites to serve infected files to visitors, turning legitimate web servers into attack infrastructure. Within one week, approximately 500,000 servers and PCs were infected across 86 countries. The worm significantly slowed global internet performance and disrupted enterprise networks. Estimated damages by late September 2001: $590 million. Nimda marked the evolution from single-vector worms to sophisticated multi-vector attacks and the beginning of worms that actively weaponized web infrastructure."

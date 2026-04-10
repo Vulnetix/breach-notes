@@ -1,0 +1,13 @@
+source_name: "Coinbase TaskUs Outsourced Customer Support Bribery Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/coinbase-discloses-breach-of-customer-data-by-outsourced-support-staff/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-06-01"
+date_of_customer_notification: "2025-06-01"
+category: "data-leak"
+initial_attack_vector: "Threat actors bribed and recruited rogue agents working at TaskUs, Coinbase's outsourced customer support contractor in India, to steal customer data from Coinbase's internal support tools"
+cve: []
+vendor_product: "TaskUs (outsourced customer support)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Starting in approximately early 2025, cybercriminals recruited and bribed several customer support agents employed by TaskUs, Coinbase's outsourced support provider operating from India. These rogue insiders used their legitimate access to Coinbase's customer support systems to exfiltrate customer records over an extended period. When attackers subsequently demanded a $20 million ransom from Coinbase threatening to publish the stolen data, Coinbase refused to pay. The company disclosed the breach publicly in June 2025 and offered a $20 million reward for information leading to the perpetrators' arrest. Exposed data included customer names, email addresses, phone numbers, partial financial information, masked Social Security numbers, transaction history, identity document images, and account metadata. Coinbase estimated remediation costs of $180–400 million. Coinbase was subsequently added to the S&P 500 shortly after disclosing the breach, making the timing and market impact especially notable."

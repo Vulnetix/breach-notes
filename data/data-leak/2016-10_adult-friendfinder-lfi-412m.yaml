@@ -1,0 +1,13 @@
+source_name: "FriendFinder Network LFI Breach (412M Accounts Across 6 Adult Sites)"
+source_url: "https://www.bleepingcomputer.com/news/security/412-million-friendfinder-network-accounts-exposed/"
+date_of_breach: "2016-10-01"
+date_of_disclosure: "2016-11-14"
+date_of_customer_notification: "2016-11-14"
+category: "data-leak"
+initial_attack_vector: "Local File Inclusion (LFI) vulnerability on FriendFinder Network servers allowed attackers to read arbitrary files, including the password database; passwords stored in plaintext or reversible SHA-1 hashes"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "FriendFinder Networks, the operator of adult dating websites, suffered a breach that exposed approximately 412 million accounts across six properties including AdultFriendFinder.com, Cams.com, iCams.com, Stripshow.com, Penthouse.com, and Playvid.com. The breach was the result of a Local File Inclusion (LFI) vulnerability that a researcher had previously warned FriendFinder about; the company failed to patch it. The massive scale was partly due to the inclusion of 15+ years of deleted accounts that FriendFinder had retained despite user deletion requests. Approximately 300 million AdultFriendFinder accounts were exposed. Many passwords were stored in plaintext or as easily reversible SHA-1 hashes. The sensitivity of the data — adult site memberships with email addresses, sexual preferences, and usage patterns — created significant risks of blackmail and reputational harm for affected users. In 2015, a separate FriendFinder breach had exposed 3.9 million users with similar consequences. The 2016 breach was one of the largest credential breaches in history by account count."

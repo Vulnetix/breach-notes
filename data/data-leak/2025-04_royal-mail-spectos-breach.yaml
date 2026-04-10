@@ -1,0 +1,13 @@
+source_name: "Royal Mail Spectos GmbH Third-Party Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-breach-after-attacker-claims-to-steal-data/"
+date_of_breach: "2025-03-29"
+date_of_disclosure: "2025-04-03"
+date_of_customer_notification: "2025-04-03"
+category: "data-leak"
+initial_attack_vector: "Threat actor compromised Spectos GmbH, a German data analytics and service monitoring firm used by Royal Mail to track delivery performance metrics, gaining access to Royal Mail customer and operational data stored on Spectos systems"
+cve: []
+vendor_product: "Spectos GmbH (data analytics/service monitoring)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late March 2025, a threat actor claimed to have stolen approximately 144GB of data from Royal Mail by compromising Spectos GmbH, a data analytics vendor used by Royal Mail for postal service performance monitoring. Royal Mail confirmed it was investigating the incident. The stolen data was offered for sale on a cybercrime forum and included Royal Mail customer names and delivery addresses, delivery dates, Mailchimp marketing lists, Zoom recordings of internal meetings, and various operational documents and reports. Royal Mail stated its own systems were not directly compromised — only data that had been shared with and stored by Spectos. This is Royal Mail's second significant security incident following the January 2023 LockBit ransomware attack."

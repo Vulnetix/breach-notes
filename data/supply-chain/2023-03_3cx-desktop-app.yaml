@@ -1,0 +1,13 @@
+source_name: "Mandiant / Google Cloud Blog / Krebs on Security"
+source_url: "https://cloud.google.com/blog/topics/threat-intelligence/3cx-software-supply-chain-compromise"
+date_of_breach: "2023-03-16"
+date_of_disclosure: "2023-03-29"
+date_of_customer_notification: "2023-03-30"
+category: "supply-chain"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (malicious DLL sideloaded into 3CX DesktopApp installer; itself seeded via poisoned Trading Technologies X_TRADER installer)"
+cve: ["CVE-2023-29059"]
+vendor_product: "3CX DesktopApp"
+software_package: "3CX DesktopApp"
+malware: "SUDDENICON downloader / ICONICSTEALER infostealer"
+supply_chain_claimed: true
+notes: "Lazarus Group (North Korea, subunit Labyrinth Chollima) trojanized 3CX DesktopApp versions 18.12.407 and 18.12.416 for Windows and Mac. Delivered SUDDENICON downloader which fetched encrypted C2 from icon files hosted on GitHub, then dropped ICONICSTEALER browser info-stealer. 3CX serves 600,000+ companies with up to 12M daily users (Toyota, Mercedes, Coca-Cola, NHS). Double supply chain: initial infection traced back to compromised Trading Technologies X_TRADER software. Targeted cryptocurrency firms."

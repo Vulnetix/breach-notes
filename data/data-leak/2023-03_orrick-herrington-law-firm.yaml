@@ -1,0 +1,13 @@
+source_name: "HIPAA Journal"
+source_url: "https://www.hipaajournal.com/orrick-herrington-sutcliffe-data-breach/"
+date_of_breach: "2023-02-28"
+date_of_disclosure: "2023-06-01"
+date_of_customer_notification: "2023-06-01"
+category: "data-leak"
+initial_attack_vector: "CWE-284: Improper Access Control"
+cve: []
+vendor_product: "Orrick, Herrington & Sutcliffe file share"
+software_package: ""
+malware: "SilentRansom/Luna Moth"
+supply_chain_claimed: false
+notes: "San Francisco-based law firm Orrick, Herrington & Sutcliffe LLP — which ironically specializes in advising companies on cybersecurity incidents and data breaches — suffered a double extortion attack discovered March 13, 2023. Attackers had access to a file share between February 28 and March 13, 2023, exfiltrating data before encrypting systems. The breach disclosure count grew from 40,823 to 152,818 to 461,100 and ultimately 637,620 individuals. Stolen data included SSNs, passport and driver license numbers, medical treatment and diagnosis information, insurance claims data, and credit/debit card numbers belonging to clients and their insureds. Orrick agreed to an $8 million class action settlement in 2024."

@@ -1,0 +1,13 @@
+source_name: "Iberia (IAG) Third-Party Vendor Loyalty Programme Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/iberia-discloses-data-breach-affecting-loyalty-programme-members/"
+date_of_breach: "2025-10-15"
+date_of_disclosure: "2025-11-20"
+date_of_customer_notification: "2025-11-20"
+category: "data-leak"
+initial_attack_vector: "A third-party vendor used by Iberia was compromised, exposing customer loyalty programme data"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Iberia, the Spanish national airline and subsidiary of IAG (International Airlines Group), disclosed in November 2025 that a third-party vendor breach had exposed loyalty programme member data. The compromised data included Iberia Plus loyalty card member names, email addresses, and loyalty card identification numbers. Iberia notified affected members and filed notifications with Spain's AEPD (Agencia Española de Protección de Datos)."

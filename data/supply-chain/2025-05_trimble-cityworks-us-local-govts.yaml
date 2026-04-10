@@ -1,0 +1,13 @@
+source_name: "Trimble Cityworks Vulnerability Exploited Against US Local Governments"
+source_url: "https://www.bleepingcomputer.com/news/security/cisa-trimble-cityworks-vulnerability-exploited-in-attacks-on-us-local-govts/"
+date_of_breach: "2025-01-01"
+date_of_disclosure: "2025-05-01"
+date_of_customer_notification: "2025-05-01"
+category: "supply-chain"
+initial_attack_vector: "Attackers exploited a deserialization vulnerability in Trimble Cityworks, a GIS-based work order and asset management system used by local governments, to gain unauthorized access to municipal infrastructure systems"
+cve: ["CVE-2025-0994"]
+vendor_product: "Trimble Cityworks (GIS asset/work-order management)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Beginning in early 2025, threat actors exploited CVE-2025-0994, a critical deserialization vulnerability in Trimble Cityworks, to compromise GIS asset and work-order management systems used by multiple US local governments. CISA added this CVE to its Known Exploited Vulnerabilities (KEV) catalog. Approximately 200-plus local government entities across the US that use Cityworks for managing public infrastructure assets, permits, and work orders were potentially affected. Exposed data included GIS asset management data, work-order information, and potentially resident/property data stored in the connected systems. Trimble released patches and CISA issued an advisory urging immediate remediation."

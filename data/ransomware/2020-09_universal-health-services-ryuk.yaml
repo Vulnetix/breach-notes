@@ -1,0 +1,13 @@
+source_name: "Universal Health Services Ryuk Ransomware Attack (400 Hospitals, $67M Damages)"
+source_url: "https://www.healthcareitnews.com/news/uhs-ryuk-ransomware-attack-costed-company-67-million"
+date_of_breach: "2020-09-27"
+date_of_disclosure: "2020-09-27"
+date_of_customer_notification: "2020-09-27"
+category: "ransomware"
+initial_attack_vector: "Phishing email leading to TrickBot banking trojan infection, which then delivered Emotet and ultimately Ryuk ransomware across UHS's network via lateral movement"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Ryuk ransomware; TrickBot; Emotet"
+supply_chain_claimed: false
+notes: "On September 27, 2020, Universal Health Services (UHS) — one of the largest US hospital chains with 400 facilities across the US and UK — was struck by Ryuk ransomware, causing one of the largest healthcare ransomware events in US history. The attack began with a phishing email that installed TrickBot, which delivered Emotet and ultimately Ryuk ransomware. Within hours, the ransomware encrypted systems at UHS facilities nationwide, forcing hospitals and health systems to paper-based operations. Nurses reported manually tracking patient vitals, medication orders were delayed, and ambulances were rerouted to other hospitals. No patient deaths were directly attributed to the outage, though staff reported life-threatening situations. UHS spent approximately $67 million in remediation costs including recovery, IT improvements, and lost revenue during the 3+ week outage. The TrickBot → Ryuk attack chain was subsequently attributed to the Wizard Spider cybercrime group (Russia). The incident prompted CISA, HHS, and FBI to issue a joint advisory about increased Ryuk ransomware targeting of the healthcare sector during the COVID-19 pandemic."

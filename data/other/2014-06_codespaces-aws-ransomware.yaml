@@ -1,0 +1,13 @@
+source_name: "Code Spaces AWS Multi-Account Ransomware Destruction (Company Shutdown)"
+source_url: "https://www.infoq.com/news/2014/06/code-spaces-shuts-down/"
+date_of_breach: "2014-06-17"
+date_of_disclosure: "2014-06-18"
+date_of_customer_notification: "2014-06-18"
+category: "other"
+initial_attack_vector: "Attacker gained access to Code Spaces' AWS management console (EC2 control panel) using stolen credentials, then launched a DDoS attack and demanded payment; when Code Spaces attempted to regain control, the attacker systematically deleted all EC2 instances, S3 buckets, EBS snapshots, and machine images"
+cve: []
+vendor_product: "Amazon Web Services (EC2, S3, EBS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Code Spaces was a code hosting and project management platform (similar to GitHub) that operated entirely on AWS. On June 17, 2014, an attacker gained access to Code Spaces' AWS control panel (the EC2 administrative console) via stolen credentials and simultaneously launched a DDoS attack against the platform. The attacker sent a demand for payment. When Code Spaces attempted to wrest back control of the AWS console by changing passwords, the attacker retaliated by systematically deleting almost all of Code Spaces' EC2 instances, EBS snapshots, S3 objects, and AMIs — both production data and backups. Code Spaces announced on June 18 that the company would be shutting down, as it would be 'impossible to continue trading.' This catastrophic incident is a landmark case in cloud security, illustrating: (1) the existential danger of inadequate AWS account access controls (single-factor authentication on the root/admin account), (2) the importance of keeping backup credentials in isolated accounts, and (3) the need to separate backup storage from the main account so ransomware/attackers cannot destroy backups."

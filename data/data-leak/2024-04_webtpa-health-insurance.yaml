@@ -1,0 +1,13 @@
+source_name: "WebTPA Health Plan Administrator Data Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/webtpa-data-breach-impacts-24-million-insurance-policyholders/"
+date_of_breach: "2023-04-18"
+date_of_disclosure: "2024-05-08"
+date_of_customer_notification: "2024-05-08"
+category: "data-leak"
+initial_attack_vector: "Unknown network intrusion; suspicious activity identified April 23, 2023; investigators confirmed unauthorized access April 18–23, 2023"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "WebTPA, a Texas-based third-party health insurance plan administrator, suffered a data breach discovered in April 2023 but not publicly disclosed until May 2024 — a 13-month delay. The breach affected 2,518,533 individuals who held health insurance plans administered by WebTPA, including customers of Transamerica Life Insurance, USAA Life Insurance, Gerber Life Insurance, and other carriers. Exposed data included names, contact information, dates of birth, SSNs, and health insurance information. No financial account numbers or treatment information were compromised. A $13.75 million settlement was reached to resolve class action litigation. Notable for the extremely long disclosure delay (13 months) and for impacting policyholders of multiple major insurance brands via a shared third-party administrator."

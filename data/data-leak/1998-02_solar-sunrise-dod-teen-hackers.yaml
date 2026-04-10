@@ -1,0 +1,13 @@
+source_name: "Solar Sunrise: DoD Network Intrusions Initially Mistaken for Iraqi State Attack (1998)"
+source_url: "https://nsarchive.gwu.edu/briefing-book/cyber-vault/2023-02-28/solar-sunrise-after-25-years-are-we-25-years-wiser"
+date_of_breach: "1998-02-01"
+date_of_disclosure: "1998-03-05"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Probe-then-exploit methodology: attackers scanned DoD systems for a known Solaris OS vulnerability, installed sniffers to harvest usernames/passwords, then returned to exfiltrate data — conducted through Israeli academic network as proxy"
+cve: []
+vendor_product: "Sun Solaris"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In February 1998, during the height of the Iraq crisis (US was preparing military action against Iraq over UN weapons inspections), unknown actors began systematically attacking US DoD computer systems. Over several weeks, approximately 500 US military, NASA, and government computers were compromised including Air Force, Navy, MIT, and other institutions. The attackers used a known Sun Solaris vulnerability and routed their attacks through academic computers in the UAE — initially leading the DoD and FBI to strongly suspect Iraqi state involvement, creating a potential national security crisis. President Clinton was briefed. However, the attack was ultimately traced to two California high school teenagers, Makaveli (17) and TooShort (16), operating under the mentorship of Israeli hacker Ehud Tenenbaum ('The Analyzer', 18). When Israeli authorities arrested Tenenbaum at the request of the US, he was found to have been the mastermind. The teenagers pled guilty and received probation. The incident was significant because it demonstrated how teen hackers conducting what they considered 'just hacking' could create a geopolitical crisis by timing their attacks to coincide with a real-world military confrontation — and forced DoD to examine how it would respond to cyber attacks of unclear attribution."

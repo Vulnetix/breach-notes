@@ -1,0 +1,13 @@
+source_name: "ChoicePoint Social Engineering Fraud (163K Records, Triggered US Breach Notification Laws)"
+source_url: "https://www.csoonline.com/article/522940/privacy-lessons-of-choicepoint-4-years-later.html"
+date_of_breach: "2004-01-01"
+date_of_disclosure: "2005-02-15"
+date_of_customer_notification: "2005-02-15"
+category: "data-leak"
+initial_attack_vector: "Fraudsters posed as legitimate small businesses and used stolen identities to create approximately 50 fake business accounts with ChoicePoint's data brokerage portal; then used those authorized accounts to legally purchase 163,000 consumer credit and identity records"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "ChoicePoint, one of the largest US data brokers, disclosed in February 2005 that fraudsters had created approximately 50 fake business subscriber accounts using stolen identities to gain legitimate access to ChoicePoint's data brokerage services. Through these authorized accounts, they purchased and exfiltrated approximately 163,000 consumer records containing names, Social Security numbers, addresses, phone numbers, and other personal identifiers — the exact data needed for identity theft and fraud. Approximately 800 identity theft cases were linked to the stolen data. ChoicePoint paid a $10 million FTC civil penalty (the largest ever at the time) and $5 million in a consumer redress fund. The incident is historically significant beyond its scale: it was the first major US breach to trigger California's breach notification law (SB 1386, the first such law in the US, requiring notification of California residents), and accelerated the passage of data breach notification laws across nearly all US states. It demonstrated that data breaches need not involve 'hacking' — social engineering and fraudulent access to authorized systems can be just as devastating."

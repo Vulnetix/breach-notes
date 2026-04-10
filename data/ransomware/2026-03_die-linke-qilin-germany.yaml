@@ -1,0 +1,13 @@
+source_name: "Die Linke German Political Party Qilin Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/"
+date_of_breach: "2026-03-26"
+date_of_disclosure: "2026-03-26"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Qilin ransomware compromised Die Linke's network IT infrastructure; specific initial access vector not publicly disclosed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Qilin"
+supply_chain_claimed: false
+notes: "On March 26, 2026, the Qilin ransomware group (described as Russian-speaking and both financially and politically motivated) attacked Die Linke, a left-wing democratic socialist party in the German Bundestag. The party confirmed a 'serious cyberattack' and temporarily shut down parts of its IT infrastructure. Attackers aim to publish sensitive data from internal party operations and personal information of headquarters employees; the party's member database was not accessed. Die Linke filed a criminal complaint with German authorities. The party stated the attack 'does not appear to be coincidental' given the political context and characterized it as part of hybrid warfare tactics. Qilin has been active since 2022 targeting hospitals, government agencies, and organizations across Europe."

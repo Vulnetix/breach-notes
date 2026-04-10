@@ -1,0 +1,13 @@
+source_name: "TeamPCP Checkmarx KICS GitHub Actions Supply Chain Compromise"
+source_url: "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html"
+date_of_breach: "2026-03-21"
+date_of_disclosure: "2026-03-21"
+date_of_customer_notification: ""
+category: "supply-chain"
+initial_attack_vector: "TeamPCP used GitHub Personal Access Tokens (PATs) stolen during the Trivy compromise to force-push malicious commits to all 35 version tags of the checkmarx/kics-github-action repository and poison version 2.3.28 of checkmarx/ast-github-action"
+cve: []
+vendor_product: "Checkmarx KICS (Keep Infrastructure as Code Secure); GitHub Actions"
+software_package: "kics-github-action, ast-github-action"
+malware: "TeamPCP Cloud Stealer"
+supply_chain_claimed: true
+notes: "On March 21, 2026, as the second step in its cascading supply chain campaign, TeamPCP used PATs stolen during the March 19 Trivy/Aqua Security GitHub Actions compromise to target Checkmarx KICS (Keep Infrastructure as Code Secure), a widely-used open-source infrastructure-as-code security scanner. The attackers force-pushed malicious commits to all 35 version tags of checkmarx/kics-github-action and poisoned version 2.3.28 of checkmarx/ast-github-action. The injected payload was TeamPCP's three-stage Cloud Stealer, which subverted the official container entrypoint (setup.sh). The stealer exfiltrated credentials to the typosquat domain checkmarx[.]zone. As a failsafe, if primary C2 communications failed, the malware used the victim's own GITHUB_TOKEN to create a hidden repository named 'docs-tpcp' within the victim's GitHub organization to store stolen credentials. Any CI/CD pipeline using kics-github-action or ast-github-action during this window would have had its cloud credentials silently exfiltrated. Checkmarx published a security update and restored clean versions. Part of the TeamPCP multi-target campaign alongside Trivy (March 19), LiteLLM/PyPI (March 27), and Telnyx/PyPI (March 27)."

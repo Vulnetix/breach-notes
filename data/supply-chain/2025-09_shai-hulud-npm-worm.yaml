@@ -1,0 +1,13 @@
+source_name: "Shai-Hulud Self-Replicating npm Supply Chain Worm (v1 + v2)"
+source_url: "https://unit42.paloaltonetworks.com/npm-supply-chain-attack/"
+date_of_breach: "2025-09-14"
+date_of_disclosure: "2025-09-16"
+date_of_customer_notification: ""
+category: "supply-chain"
+initial_attack_vector: "Novel self-replicating worm injected malicious post-install scripts into npm packages by compromising developer maintainer accounts; spread autonomously by stealing npm tokens and publishing backdoored versions of other packages maintained by the same developers"
+cve: []
+vendor_product: "npm (Node Package Manager registry)"
+software_package: "ngx-bootstrap, ng2-file-upload, @ctrl/tinycolor, 500+ others"
+malware: "Shai-Hulud"
+supply_chain_claimed: true
+notes: "On September 14, 2025, the first malicious packages of the Shai-Hulud self-replicating worm appeared in the npm ecosystem. By September 16, over 180 packages were confirmed compromised, spreading across popular namespaces including @ctrl, @nativescript-community, and CrowdStrike's namespace. The worm used stolen npm tokens to authenticate as compromised developers, identify all packages they maintained, inject malicious code, and publish new backdoored versions — creating a self-replicating cascade. The payload used TruffleHog to scan for secrets, harvested environment variables, exfiltrated cloud service tokens, and stole IMDS-exposed cloud keys. The worm created public GitHub repositories named 'Shai-Hulud' to commit stolen secrets. The first wave resulted in the theft of approximately $50 million in cryptocurrency. CISA issued an alert on September 23, 2025 for the widespread supply chain compromise. A second campaign — Shai-Hulud 2.0 — launched November 21-24, 2025, compromising more than 25,000 GitHub repositories and incorporating a destructive 'dead man's switch' capable of wiping developer environments. Microsoft published detection guidance for Shai-Hulud 2.0 in December 2025."

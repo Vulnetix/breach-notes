@@ -1,0 +1,13 @@
+source_name: "WazirX Cryptocurrency Exchange Hack"
+source_url: "https://therecord.media/wazirx-crypto-platform-confirms-230-million-heist"
+date_of_breach: "2024-07-18"
+date_of_disclosure: "2024-07-18"
+date_of_customer_notification: "2024-07-19"
+category: "credential-theft"
+initial_attack_vector: "Lazarus Group (North Korea) compromised WazirX multi-signature wallet by social engineering developers and manipulating Safe Wallet front-end; malware replaced legitimate transaction displays to collect hardware wallet signatures"
+cve: []
+vendor_product: "Liminal Custody (multi-sig wallet infrastructure)"
+software_package: ""
+malware: "Safe Wallet front-end manipulation / transaction substitution"
+supply_chain_claimed: false
+notes: "$234.9 million in crypto assets stolen from Indian exchange WazirX on 18 July 2024. Attributed to North Korea's Lazarus Group by joint US/Japan/South Korea statement in January 2025. Attackers created a fake account, deposited tokens, then manipulated the multisig wallet's smart contract once three developer signatures were collected from compromised devices. WazirX suspended withdrawals. Singapore High Court sanctioned a restructuring scheme in October 2025 returning approximately 85% of funds to users."

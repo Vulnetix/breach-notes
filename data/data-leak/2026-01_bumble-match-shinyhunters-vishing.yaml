@@ -1,0 +1,13 @@
+source_name: "Bumble and Match Group ShinyHunters Vishing Breach"
+source_url: "https://therecord.media/bumble-match-dating-apps-data-breaches"
+date_of_breach: "2026-01-01"
+date_of_disclosure: "2026-01-29"
+date_of_customer_notification: "2026-01-29"
+category: "data-leak"
+initial_attack_vector: "Vishing (voice phishing) attack compromised a contractor's account at Bumble, granting limited access to internal Slack and Google Drive systems; a related attack targeted Match Group"
+cve: []
+vendor_product: "Slack; Google Drive; Bumble internal contractor access"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On January 29, 2026, ShinyHunters posted data allegedly stolen from Bumble (dating app) and Match Group (parent of Tinder, Hinge, OkCupid) on a dark web leak site. ShinyHunters claimed to have stolen 10 million records across the dating apps. At Bumble, attackers used vishing to compromise a contractor account and gained brief access to internal Slack and Google Drive systems, exfiltrating approximately 30 GB of corporate files (internal documents, restricted/confidential files). Bumble confirmed member data, the app itself, and user direct messages were not exposed. Match Group investigated a related incident. Bumble's InfoSec team detected and terminated unauthorized access quickly; external forensic investigators were engaged and law enforcement notified. A class action lawsuit was filed in Texas."

@@ -1,0 +1,13 @@
+source_name: "Chess.com Third-Party File Transfer Provider Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/chess-com-discloses-data-breach-via-third-party-file-transfer-provider/"
+date_of_breach: "2025-08-01"
+date_of_disclosure: "2025-09-15"
+date_of_customer_notification: "2025-09-15"
+category: "data-leak"
+initial_attack_vector: "Chess.com's unnamed third-party file transfer provider was compromised, resulting in the exfiltration of customer data stored in that system"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Chess.com, the world's largest online chess platform with over 100 million registered users, disclosed in September 2025 that a third-party file transfer provider had been compromised. The breach exposed an unspecified subset of Chess.com user data. Chess.com notified affected users and relevant data protection authorities. The specific vendor and data types exposed were not publicly detailed at the time of disclosure."

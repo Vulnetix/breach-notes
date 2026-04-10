@@ -1,0 +1,13 @@
+source_name: "Frontier Communications RansomHub Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/frontier-warns-750-000-of-a-data-breach-after-extortion-threats/"
+date_of_breach: "2024-04-14"
+date_of_disclosure: "2024-04-15"
+date_of_customer_notification: "2024-06-06"
+category: "ransomware"
+initial_attack_vector: "RansomHub ransomware operation gained initial access to Frontier Communications systems; RansomHub typically focuses on data-theft extortion without file encryption"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "RansomHub"
+supply_chain_claimed: false
+notes: "Frontier Communications (a major US telecom serving 25 states) detected unauthorized access on 14 April 2024. RansomHub claimed responsibility and threatened to leak 5 GB of stolen data. Final notification count was 751,895 individuals with names and Social Security numbers confirmed compromised; RansomHub claimed over 2 million records including addresses, DOBs, and credit scores. Frontier filed SEC 8-K on 15 April 2024 and notified affected customers in June after conducting investigation. Three class action lawsuits filed."

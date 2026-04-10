@@ -1,0 +1,13 @@
+source_name: "Kadokawa / Niconico BlackSuit Ransomware Attack"
+source_url: "https://therecord.media/japan-anime-giant-data-leak-ransomware"
+date_of_breach: "2024-06-08"
+date_of_disclosure: "2024-06-14"
+date_of_customer_notification: "2024-07-01"
+category: "ransomware"
+initial_attack_vector: "Phishing email compromised an employee account, leading to BlackSuit ransomware deployment across Kadokawa corporate infrastructure and Niconico video-sharing platform"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "BlackSuit"
+supply_chain_claimed: false
+notes: "On 8 June 2024, BlackSuit (rebrand of Royal ransomware / Conti successor) attacked Japanese media/gaming giant Kadokawa and its Niconico video platform. 254,241 individuals' data was confirmed leaked. Attackers threatened to release 1.5 TB of data; Kadokawa reportedly paid approximately $3 million ransom. Niconico was offline for nearly two months; Kadokawa's stock dropped 20%+ following the attack. Publishing operations, e-book distribution, and the Kadokawa Umbrella shop were disrupted."

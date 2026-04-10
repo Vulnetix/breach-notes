@@ -1,0 +1,13 @@
+source_name: "Pandora and Chanel Salesforce ShinyHunters Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/pandora-chanel-among-luxury-brands-hit-by-salesforce-shinyhunters-breach/"
+date_of_breach: "2025-07-01"
+date_of_disclosure: "2025-08-20"
+date_of_customer_notification: "2025-08-20"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters compromised Pandora and Chanel's Salesforce CRM environments through social engineering / vishing, part of the broader 2025 ShinyHunters Salesforce campaign targeting major brand CRM instances"
+cve: []
+vendor_product: "Salesforce"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Pandora (Danish jewelry brand) and Chanel (French luxury fashion house) both disclosed in August 2025 that their Salesforce CRM environments had been compromised as part of the ShinyHunters/Scattered Spider Salesforce campaign. Pandora exposure included names, birthdates, and email addresses. Chanel exposure included customer names, email addresses, mailing addresses, and phone numbers. Both companies notified affected customers and relevant European data protection authorities (DPA). Part of the broader 2025 Salesforce campaign affecting TransUnion (44M+), Air France-KLM, Cisco, Stellantis, and Farmers Insurance."

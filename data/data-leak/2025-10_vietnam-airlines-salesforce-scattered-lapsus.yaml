@@ -1,0 +1,13 @@
+source_name: "Vietnam Airlines Salesforce Breach via Scattered Lapsus$ Hunters - 23M Records"
+source_url: "https://hackread.com/shinyhunters-leak-data-qantas-vietnam-airlines-others/"
+date_of_breach: "2025-06-01"
+date_of_disclosure: "2025-10-10"
+date_of_customer_notification: "2025-10-14"
+category: "data-leak"
+initial_attack_vector: "Scattered Lapsus$ Hunters (ShinyHunters) breached Vietnam Airlines' Salesforce CRM instance as part of a campaign targeting 39+ companies via malicious OAuth app linked through vishing of employees"
+cve: []
+vendor_product: "Salesforce CRM"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2025, Scattered Lapsus$ Hunters published 63.62 GB of data (23+ million records) from Vietnam Airlines' Salesforce CRM system. The initial intrusion occurred around June 2025 as part of the group's broader campaign targeting 39+ organizations' Salesforce environments via vishing. Data published October 10, 2025. Vietnam Airlines disclosed the breach on October 14, 2025. Exposed data included customer names, dates of birth, phone numbers, email addresses, and residential addresses. Payment information, passwords, travel itineraries, Lotusmiles loyalty balances, and passport details were not compromised. Have I Been Pwned indexed 7.3 million unique email addresses from the dataset."

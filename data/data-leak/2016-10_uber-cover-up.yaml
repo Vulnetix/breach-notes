@@ -1,0 +1,13 @@
+source_name: "NPR / DOJ / TechCrunch / Washington Post"
+source_url: "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-convicted-federal-charges-covering-data-breach"
+date_of_breach: "2016-10-01"
+date_of_disclosure: "2017-11-21"
+date_of_customer_notification: "2017-11-21"
+category: "data-leak"
+initial_attack_vector: "CWE-312: Cleartext Storage of Sensitive Information (AWS credentials exposed in GitHub repository, used to access S3 bucket with customer data)"
+cve: []
+vendor_product: "Uber / AWS S3"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Attackers found Uber AWS credentials in GitHub and downloaded data affecting 57M users and drivers (names, emails, phone numbers; 600K US driver license numbers). Uber CSO Joe Sullivan paid hackers $100K in Bitcoin as bug bounty under NDA to conceal breach. Breach not disclosed to FTC (which had ongoing data security settlement with Uber at time). Cover-up discovered by new CEO. Sullivan convicted Oct 2022 of obstruction of justice. Uber paid $148M to 50 states in 2018 settlement."

@@ -1,0 +1,13 @@
+source_name: "Condé Nast / WIRED Subscriber Database Breach - IDOR Vulnerability"
+source_url: "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/"
+date_of_breach: "2025-12-20"
+date_of_disclosure: "2025-12-20"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Insecure Direct Object Reference (IDOR) vulnerabilities and broken access controls in Condé Nast's centralized identity/account platform allowed unauthenticated enumeration of user profiles by iterating user ID values"
+cve: []
+vendor_product: "Condé Nast (centralized identity platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On December 20, 2025, a threat actor called 'Lovely' posted a 2.366 million-record database from WIRED.com on the Breach Stars forum, selling access for approximately $2.30. Exposed data included full names, email addresses, user IDs, display names, and account timestamps; no passwords or payment data were in the dataset. The actor claimed the breach exploited IDOR vulnerabilities in Condé Nast's shared identity platform and threatened to release records for 40 million users across other Condé Nast titles, claiming prior vulnerability reports were ignored by the company. Condé Nast and WIRED had not publicly confirmed the incident as of publication. Have I Been Pwned indexed the breach."

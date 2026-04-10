@@ -1,0 +1,13 @@
+source_name: "Adobe Systems Breach: Source Code Theft and 153M User Records"
+source_url: "https://www.databreachtoday.com/adobe-hack-exposes-millions-a-6186"
+date_of_breach: "2013-08-01"
+date_of_disclosure: "2013-10-03"
+date_of_customer_notification: "2013-10-07"
+category: "data-leak"
+initial_attack_vector: "Attackers gained access to Adobe's network and exfiltrated source code for Acrobat, ColdFusion, and Reader; also accessed the customer database containing passwords encrypted with 3DES using the same key for all accounts"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2013, Adobe disclosed two simultaneous major security incidents: (1) Source code theft: attackers exfiltrated source code for Adobe Acrobat, Adobe Reader, Adobe ColdFusion, and ColdFusion Builder — a serious security risk as it could enable attackers to find zero-day vulnerabilities before Adobe. (2) Customer data breach: approximately 153 million customer records were accessed, containing email addresses, encrypted (not hashed) passwords, password hints, and partial credit card numbers. The password encryption was critically flawed — Adobe used 3DES symmetric encryption with the same key for all passwords, rather than a modern one-way hashing algorithm. This meant all accounts with the same password received identical encrypted values, allowing attackers to deduce passwords by frequency analysis. Password hints stored in plaintext often directly revealed the passwords. Adobe initially disclosed ~3 million accounts affected; the true scope of 153 million was revealed when the data appeared on dark web forums. Adobe settled a class action for $1.1 million. The incident is cited in security curricula as a canonical example of the difference between encryption and hashing for password storage."

@@ -1,0 +1,13 @@
+source_name: "Bybit Cryptocurrency Exchange Hack via Safe{Wallet} Supply Chain"
+source_url: "https://thehackernews.com/2025/02/bybit-hack-traced-to-safewallet-supply.html"
+date_of_breach: "2025-02-21"
+date_of_disclosure: "2025-02-21"
+date_of_customer_notification: "2025-02-21"
+category: "supply-chain"
+initial_attack_vector: "Social engineering against a Safe{Wallet} developer; AWS session token theft to compromise Safe{Wallet} infrastructure; malicious JavaScript injected into transaction signing UI"
+cve: []
+vendor_product: "Safe{Wallet} (multi-sig wallet UI)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On February 21, 2025, Bybit (Dubai-based cryptocurrency exchange) suffered the largest cryptocurrency theft ever recorded: $1.46 billion in Ethereum stolen from a cold wallet. North Korea's Lazarus Group (TraderTraitor / Jade Sleet / Slow Pisces / UNC4899) compromised a Safe{Wallet} developer's workstation via social engineering, stealing AWS session tokens to bypass MFA and gain access to Safe{Wallet}'s AWS infrastructure. Attackers injected malicious JavaScript into the Safe{Wallet} UI, which manipulated transaction destination addresses when Bybit employees initiated transfers. After the theft, 86.29% of stolen ETH was laundered via crypto mixers. FBI attributed attack to TraderTraitor. Classic software supply chain attack via a trusted third-party signing interface. Customer PII (names, emails, phone numbers) also exposed. Bybit CEO confirmed the attack publicly within hours."

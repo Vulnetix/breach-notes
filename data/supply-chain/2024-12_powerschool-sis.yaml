@@ -1,0 +1,13 @@
+source_name: "PowerSchool SIS data breach — 62 million students and 9.5 million educators"
+source_url: "https://www.powerschool.com/security/sis-incident/"
+date_of_breach: "2024-12-19"
+date_of_disclosure: "2024-12-28"
+date_of_customer_notification: "2025-01-07"
+category: "supply-chain"
+initial_attack_vector: "CWE-287: Improper Authentication (stolen/compromised credentials for PowerSource customer support portal; no mandatory MFA)"
+cve: []
+vendor_product: "PowerSchool Student Information System (SIS) / PowerSource customer portal"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Attacker (later identified as Massachusetts college student Matthew D. Lane, 19) used compromised credentials to access PowerSchool's PowerSource support portal on 19 December 2024; detected 28 December. Data exfiltrated for 62 million students and 9.5 million educators globally — largest breach of children's data in US history. Data: names, contact info, dates of birth, limited medical alerts, SSNs (for <25% of students), and other student records. PowerSchool paid a ransom of $2.85 million demanded by Lane. Payment did not prevent re-extortion: by May 2025 individual school districts received separate ransom demands from the same dataset. Lane charged and sentenced to 4 years in federal prison. Supply chain impact as thousands of school districts had no direct relationship with PowerSchool."

@@ -1,0 +1,13 @@
+source_name: "Canada Government 2Keys Corporation Identity Services Breach (ESDC, CBSA, CRA)"
+source_url: "https://www.bleepingcomputer.com/news/security/canadian-government-discloses-breach-via-identity-provider-2keys/"
+date_of_breach: "2025-08-01"
+date_of_disclosure: "2025-09-10"
+date_of_customer_notification: "2025-09-10"
+category: "supply-chain"
+initial_attack_vector: "Threat actors compromised 2Keys Corporation, a third-party digital identity service provider contracted by the Canadian federal government, gaining access to authentication data for government service accounts"
+cve: []
+vendor_product: "2Keys Corporation (digital identity/authentication services)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In September 2025, the Canadian government disclosed that 2Keys Corporation, a digital identity and authentication service provider contracted by multiple federal agencies, had been compromised. The breach affected Employment and Social Development Canada (ESDC), Canada Border Services Agency (CBSA), and the Canada Revenue Agency (CRA). Exposed data included phone numbers and email addresses for account holders using 2Keys-managed authentication. The Government of Canada proactively notified individuals whose information was exposed and suspended 2Keys' contracts pending a security review. 2Keys, a subsidiary of IBM, provides GCKey and other identity verification services used to access Government of Canada online services."

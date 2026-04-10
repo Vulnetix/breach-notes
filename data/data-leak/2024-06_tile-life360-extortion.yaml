@@ -1,0 +1,13 @@
+source_name: "Tile / Life360 Data Breach and Extortion"
+source_url: "https://www.bleepingcomputer.com/news/security/life360-says-hacker-tried-to-extort-them-after-tile-data-breach/"
+date_of_breach: "2024-06-01"
+date_of_disclosure: "2024-06-11"
+date_of_customer_notification: "2024-06-12"
+category: "data-leak"
+initial_attack_vector: "Threat actor used stolen credentials of a former Tile/Life360 employee to access the customer support platform; inactive credentials not revoked after employee departure"
+cve: []
+vendor_product: "Tile customer support platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "An attacker gained access to Tile's customer support system using credentials belonging to a former employee, then scraped millions of customer records and attempted to extort Life360 (Tile's parent company). Exposed data included names, physical addresses, email addresses, phone numbers, and Tile device IDs — no financial data, passwords, or location history was compromised. The attacker had access to tools for processing law enforcement data requests. Life360 reported the extortion attempt to law enforcement."

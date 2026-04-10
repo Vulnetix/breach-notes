@@ -1,0 +1,13 @@
+source_name: "Berkeley Research Group (BRG) Ransomware Attack"
+source_url: "https://www.thinkbrg.com/notice-of-data-incident/"
+date_of_breach: "2025-02-28"
+date_of_disclosure: "2025-04-01"
+date_of_customer_notification: "2025-04-01"
+category: "ransomware"
+initial_attack_vector: "Social engineering via Microsoft Teams: attacker impersonated an internal IT worker to gain access to an employee's laptop"
+cve: []
+vendor_product: "Microsoft Teams"
+software_package: ""
+malware: "Chaos ransomware"
+supply_chain_claimed: false
+notes: "Berkeley Research Group (BRG), a major consulting and financial advisory firm, suffered a ransomware attack discovered March 2, 2025. Unauthorized activity occurred February 28 – March 2, 2025. The attacker impersonated an IT worker via Microsoft Teams to gain laptop access, then deployed a Chaos ransomware variant. BRG paid an undisclosed ransom. At least 6,083 individuals notified; exposed data included SSNs, passport numbers, bank account information, medical information, and credentials. The US DOJ raised concerns because data from Catholic clergy sexual abuse survivors in bankruptcy cases was among the stolen files. BRG was in the middle of a $700M TowerBrook Capital buyout at time of attack. Legal/consulting sector breach exposing sensitive M&A and litigation data."

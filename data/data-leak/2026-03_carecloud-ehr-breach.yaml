@@ -1,0 +1,13 @@
+source_name: "CareCloud EHR Environment Data Breach"
+source_url: "https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/"
+date_of_breach: "2026-03-16"
+date_of_disclosure: "2026-03-31"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Unauthorized actor gained access to one of CareCloud's six electronic health record (EHR) environments; initial access vector not publicly disclosed"
+cve: []
+vendor_product: "CareCloud talkEHR (electronic health record platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On March 16, 2026, CareCloud (a Somerset, NJ-based healthcare IT company) detected unauthorized access to one of its six EHR environments. The threat actor had access for approximately 8 hours before CareCloud contained and restored the environment the same evening. CareCloud filed an SEC notification and is investigating the full scope. CareCloud provides services to more than 45,000 medical providers across the US, meaning millions of patients may have had names, Social Security numbers, insurance details, and medical records exposed. The company has not confirmed how many clients or individuals were affected; notifications will follow once the investigation is complete. No threat actor has claimed responsibility."

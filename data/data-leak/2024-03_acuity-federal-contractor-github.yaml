@@ -1,0 +1,13 @@
+source_name: "Acuity Federal Contractor GitHub Repository Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/acuity-confirms-hackers-stole-non-sensitive-govt-data-from-github-repos/"
+date_of_breach: "2024-03-07"
+date_of_disclosure: "2024-04-04"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Threat actor IntelBroker exploited a vulnerability in Acuity's Tekton CI/CD server to steal GitHub credentials, then accessed government-related repositories"
+cve: []
+vendor_product: "Tekton CI/CD; GitHub"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "IntelBroker breached federal IT contractor Acuity Inc. on 7 March 2024 and claimed to have stolen data from US State Department, DoD, NSA, ICE, USCIS, and other agencies. The stolen data appeared on hacking forums and Telegram in April 2024. Acuity confirmed the breach but characterized the stolen data as 'old and non-sensitive' from GitHub repositories. The State Department investigated. Leaked data included thousands of records with government employee PII and internal communications. Acuity provides IT services to multiple US federal agencies."

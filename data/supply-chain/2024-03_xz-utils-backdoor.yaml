@@ -1,0 +1,13 @@
+source_name: "Akamai / CrowdStrike / Wikipedia / Datadog Security Labs"
+source_url: "https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know"
+date_of_breach: "2024-02-24"
+date_of_disclosure: "2024-03-29"
+date_of_customer_notification: "2024-03-30"
+category: "supply-chain"
+initial_attack_vector: "CWE-506: Embedded Malicious Code (multi-year social engineering to gain maintainer status, then injected SSH backdoor into xz-utils)"
+cve: ["CVE-2024-3094"]
+vendor_product: ""
+software_package: "xz-utils"
+malware: ""
+supply_chain_claimed: true
+notes: "CVSS 10.0. Suspected nation-state actor 'Jia Tan' (JiaT75) spent 2+ years cultivating trust in xz-utils project before becoming co-maintainer. Injected SSH authentication bypass/RCE backdoor in versions 5.6.0 and 5.6.1. Backdoor hooks into systemd-linked OpenSSH via malicious shared library. Affected Fedora 40/Rawhide, Debian testing/unstable, openSUSE, Kali Linux, Arch. Discovered March 29 2024 by Microsoft engineer Andres Freund who noticed anomalous CPU usage. Caught before widespread stable distro adoption. State-sponsored attribution suspected but unconfirmed."

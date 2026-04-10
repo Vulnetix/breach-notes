@@ -1,0 +1,13 @@
+source_name: "Discord Third-Party Customer Service Provider Breach (55M Users)"
+source_url: "https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-third-party-customer-service-provider-hacked/"
+date_of_breach: "2025-10-01"
+date_of_disclosure: "2025-10-15"
+date_of_customer_notification: "2025-10-15"
+category: "data-leak"
+initial_attack_vector: "Threat actor compromised an unnamed third-party customer service provider used by Discord, gaining access to customer support data including user account information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2025, Discord disclosed that an unnamed third-party customer service provider had been breached, exposing data for approximately 55 million Discord users. The exposed information included email addresses, usernames, user IDs, phone numbers, partial payment information, dates of birth, MFA configuration details, and government ID photos submitted for age verification purposes. Discord notified affected users and terminated the vendor relationship following the incident. This is one of the largest consumer platform breaches of 2025 by impacted user count."

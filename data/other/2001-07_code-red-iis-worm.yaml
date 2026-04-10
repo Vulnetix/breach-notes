@@ -1,0 +1,13 @@
+source_name: "Code Red IIS Buffer Overflow Worm (359K Hosts, $2.6B Damages)"
+source_url: "https://en.wikipedia.org/wiki/Code_Red_(computer_worm)"
+date_of_breach: "2001-07-13"
+date_of_disclosure: "2001-07-19"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Buffer overflow vulnerability in Microsoft IIS 4.0/5.0 Index Server (MS01-033 / CVE-2001-0500); patch available one month prior; worm propagated by scanning random IP addresses and exploiting unpatched IIS servers with no user interaction"
+cve: ["CVE-2001-0500"]
+vendor_product: "Microsoft IIS (Internet Information Services)"
+software_package: ""
+malware: "Code Red (W32/CodeRed)"
+supply_chain_claimed: false
+notes: "Code Red exploited a buffer overflow in the IDQ.DLL component of Microsoft IIS web server software (documented in MS01-033). The worm required no user interaction — it scanned random IP addresses and automatically exploited unpatched IIS servers. At peak on July 19, 2001, Code Red infected 359,000 hosts and was spreading at over 2,000 new infections per minute. The worm defaced infected websites with 'Hacked By Chinese' and launched a coordinated DDoS attack against the White House website (www.whitehouse.gov) on the 20th of each month — a hardcoded target that the White House preemptively changed its IP address to avoid. A second variant (Code Red II) installed a backdoor for remote access. Estimated damages: $2.6 billion. The worm demonstrated the catastrophic speed at which internet-facing vulnerabilities could be weaponized at scale and drove adoption of automatic patch deployment by organizations worldwide."

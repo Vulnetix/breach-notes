@@ -1,0 +1,13 @@
+source_name: "HIPAA Journal"
+source_url: "https://www.hipaajournal.com/episource-data-breach/"
+date_of_breach: "2025-01-27"
+date_of_disclosure: "2025-04-23"
+date_of_customer_notification: "2025-04-23"
+category: "ransomware"
+initial_attack_vector: "CWE-284: Improper Access Control"
+cve: []
+vendor_product: "Episource medical coding and risk adjustment platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Episource LLC, a medical coding and risk adjustment company and Optum/UnitedHealth Group subsidiary, detected a ransomware intrusion on February 6, 2025, after unauthorized access between January 27 and February 6, 2025. The company powered down all systems to contain the breach, notified law enforcement, and engaged third-party cybersecurity experts. At least 5,418,866 individuals were affected — the second-largest healthcare breach reported to HHS OCR in 2025. Compromised data included diagnosis and treatment information, prescriptions, test results, medical images, medical record numbers, health plan policies, and member/group ID numbers. The responsible ransomware group was not publicly identified. US Senators demanded answers from UnitedHealth Group after this became its second massive data breach in a year following the 2024 Change Healthcare attack."

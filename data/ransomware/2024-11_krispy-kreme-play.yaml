@@ -1,0 +1,13 @@
+source_name: "Krispy Kreme cyberattack (Play ransomware)"
+source_url: "https://www.bleepingcomputer.com/news/security/krispy-kreme-breach-data-theft-claimed-by-play-ransomware-gang/"
+date_of_breach: "2024-11-29"
+date_of_disclosure: "2024-12-11"
+date_of_customer_notification: "2025-01-01"
+category: "ransomware"
+initial_attack_vector: "unknown"
+cve: []
+vendor_product: "Krispy Kreme (food/restaurant chain)"
+software_package: ""
+malware: "Play ransomware"
+supply_chain_claimed: false
+notes: "Krispy Kreme detected unauthorized IT activity 29 November 2024; disclosed via SEC 8-K 11 December 2024. Online ordering disrupted. Play ransomware gang claimed attack in December; after failed ransom negotiations, released 184 GB of data on dark web leak site 21 December 2024. 161,676 individuals notified of data theft including SSNs, driver's licences, financial account numbers, credit/debit card numbers with CVVs, passport numbers, biometric data, health insurance information. FBI and CISA have rated Play as one of the most damaging ransomware gangs (900+ attacks)."

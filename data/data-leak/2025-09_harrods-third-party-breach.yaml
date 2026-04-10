@@ -1,0 +1,13 @@
+source_name: "Harrods Third-Party Vendor Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/harrods-confirms-customer-data-breach-via-third-party-vendor/"
+date_of_breach: "2025-08-01"
+date_of_disclosure: "2025-09-10"
+date_of_customer_notification: "2025-09-10"
+category: "data-leak"
+initial_attack_vector: "A third-party vendor used by Harrods for customer relationship management was compromised, exposing online customer contact details"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2025, Harrods, the iconic London luxury department store, disclosed that a third-party vendor had been compromised, exposing contact details for online customers. Exposed information included customer names and contact details. Harrods notified affected customers and the ICO. This occurred shortly after the spring 2025 wave of UK retail cyberattacks affecting Marks & Spencer (April 2025), Co-op (April 2025), and others — though Harrods' incident was attributed to a different vector (third-party vendor compromise rather than direct ransomware attack)."

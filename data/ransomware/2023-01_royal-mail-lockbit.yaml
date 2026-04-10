@@ -1,0 +1,13 @@
+source_name: "BleepingComputer / TechCrunch / Computer Weekly"
+source_url: "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-claims-royal-mail-cyberattack/"
+date_of_breach: "2023-01-10"
+date_of_disclosure: "2023-01-11"
+date_of_customer_notification: "2023-01-13"
+category: "ransomware"
+initial_attack_vector: "CWE-1391: Use of Weak Credentials (compromised credentials; exact initial vector not publicly disclosed)"
+cve: []
+vendor_product: "Royal Mail international shipping systems"
+software_package: ""
+malware: "LockBit 3.0"
+supply_chain_claimed: false
+notes: "LockBit ransomware hit Royal Mail's Heathrow Worldwide Distribution Centre Jan 10 2023, disrupting international mail for 6 weeks. LockBit initially demanded $80M ransom, lowered to $40M. Royal Mail refused to pay per law enforcement advice. LockBit leaked negotiation transcripts, technical documents, HR records, salary data, COVID vaccination records. International shipping only restored Feb 23 2023. Remediation cost Royal Mail £10M. LockBit infrastructure taken down by international law enforcement in Feb 2024."

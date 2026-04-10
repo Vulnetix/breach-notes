@@ -1,0 +1,13 @@
+source_name: "AutoCanada Hunters International Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/autocanada-says-ransomware-attack-may-impact-employee-data/"
+date_of_breach: "2024-08-11"
+date_of_disclosure: "2024-09-17"
+date_of_customer_notification: "2024-10-01"
+category: "ransomware"
+initial_attack_vector: "Unknown; Hunters International typically uses phishing and exploits vulnerable internet-facing systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Hunters International ransomware"
+supply_chain_claimed: false
+notes: "AutoCanada, a publicly traded North American automotive dealership group operating 84 franchised dealerships, detected a ransomware attack on August 11, 2024. Hunters International claimed responsibility on September 17, 2024, threatening to publish 1.4 TB of stolen data including financial documents, HR records, accounting data, and IT infrastructure information. Employee data exposed included names, addresses, dates of birth, payroll details (salaries/bonuses), social insurance numbers, bank account numbers, and government ID scans. Customer and supplier data was also potentially exposed. AutoCanada's dealerships continued operating during the attack. Company offered 3 years of free Equifax credit monitoring to affected individuals. Automotive retail sector breach with significant employee PII exposure."

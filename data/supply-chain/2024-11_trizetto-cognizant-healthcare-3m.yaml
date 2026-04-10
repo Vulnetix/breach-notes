@@ -1,0 +1,13 @@
+source_name: "TriZetto (Cognizant) Healthcare Technology Breach (3M+ Individuals)"
+source_url: "https://therecord.media/trizetto-healthcare-tech-company-data-breach-update"
+date_of_breach: "2024-07-01"
+date_of_disclosure: "2024-11-15"
+date_of_customer_notification: "2024-12-01"
+category: "supply-chain"
+initial_attack_vector: "Attackers breached TriZetto's healthcare data platform systems, exfiltrating data for health insurance customers that had been processed through TriZetto's revenue cycle management and benefits administration software"
+cve: []
+vendor_product: "TriZetto (Cognizant subsidiary) — healthcare benefits/RCM software"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "TriZetto, a healthcare technology subsidiary of Cognizant Technology Solutions, disclosed in late 2024 that a data breach had affected over 3 million individuals. TriZetto provides healthcare benefits administration, claims processing, and revenue cycle management software used by health insurance payers and providers across the US. The breach exposed sensitive patient and member data including names, Social Security numbers, dates of birth, medical records, health insurance information, and financial account details. Multiple health insurance payers and providers notified their members about exposure via TriZetto systems. The breach reinforced systemic concerns about the concentration of healthcare data in large health IT vendors and the cascade effect when such vendors are compromised."

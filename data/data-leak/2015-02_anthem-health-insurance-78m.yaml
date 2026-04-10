@@ -1,0 +1,13 @@
+source_name: "Anthem Health Insurance Nation-State Breach (78.8M Records)"
+source_url: "https://www.databreachtoday.com/anthem-breach-a-7739"
+date_of_breach: "2014-12-10"
+date_of_disclosure: "2015-02-04"
+date_of_customer_notification: "2015-02-18"
+category: "data-leak"
+initial_attack_vector: "China-linked threat actor (Indrik Spider / Deep Panda) used a spear-phishing email targeting an Anthem subsidiary to establish initial access, then moved laterally to Anthem's enterprise data warehouse containing unencrypted member records"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Anthem (now Elevance Health), the second-largest US health insurer, disclosed in February 2015 that attackers had gained access to its enterprise data warehouse and exfiltrated approximately 78.8 million current and former members' records — the largest healthcare data breach in history at the time. The breach originated from a spear-phishing email that compromised an Anthem subsidiary employee's credentials. Attackers used legitimate Anthem sysadmin tools (including a custom query tool) to extract data from the data warehouse over several weeks before detection. Data stored in plaintext included names, Social Security numbers, dates of birth, home addresses, email addresses, employment information, and income data. Notably, clinical/claims data was not exfiltrated. The breach was attributed to a China-linked threat actor and was believed to be an intelligence-gathering operation targeting data on US government employees and contractors who had Anthem coverage. Anthem settled a class action for $115 million and paid an $8.7 million state regulatory settlement. The breach sparked major debate about whether HIPAA should require encryption of health data at rest (it doesn't)."

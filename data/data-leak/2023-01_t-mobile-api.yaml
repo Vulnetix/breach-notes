@@ -1,0 +1,13 @@
+source_name: "BleepingComputer / Traceable / Wikipedia"
+source_url: "https://www.bleepingcomputer.com/news/security/t-mobile-discloses-second-data-breach-since-the-start-of-2023/"
+date_of_breach: "2022-11-25"
+date_of_disclosure: "2023-01-19"
+date_of_customer_notification: "2023-01-19"
+category: "data-leak"
+initial_attack_vector: "CWE-306: Missing Authentication for Critical Function (unauthenticated API endpoint exposing customer data)"
+cve: []
+vendor_product: "T-Mobile US customer portal / API"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Attackers exploited an unprotected API endpoint starting Nov 25 2022, exfiltrating data over weeks undetected. 37 million customer records exposed including names, phone numbers, billing addresses, birthdates, email addresses, T-Mobile account numbers and plan features. Breach detected Jan 5 2023; public disclosure Jan 19 2023. T-Mobile's 8th breach since 2018. FCC and multi-state regulators investigated. T-Mobile paid $15.75M penalty in 2024 settlement covering multiple breaches. Previous 2021 breach via SSH brute force exposed 76M records."

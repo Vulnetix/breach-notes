@@ -1,0 +1,13 @@
+source_name: "Outabox Biometric Data Breach (Australia)"
+source_url: "https://www.aiaaic.org/aiaaic-repository/ai-algorithmic-and-automation-incidents/outabox-data-breach-exposes-1m-biometric-records"
+date_of_breach: "2024-01-01"
+date_of_disclosure: "2024-05-01"
+date_of_customer_notification: "2024-05-01"
+category: "data-leak"
+initial_attack_vector: "Insider threat: former developers based in the Philippines claimed to have exfiltrated data in response to unpaid wages (18 months of non-payment)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Outabox, an Australian hospitality IT provider offering facial recognition sign-in services for clubs, suffered a data breach exposing biometric and personal data of approximately 1 million Australians. The data came from 19 venues operated by ClubsNSW in New South Wales and the ACT. Individuals claiming to be former Outabox developers in the Philippines created a website exposing the data, alleging non-payment of 18 months' wages. Exposed data included facial recognition biometrics, driver's licence scans, signatures, club membership data, addresses, birth dates, phone numbers, club visit timestamps, and slot machine usage records. A 46-year-old man was arrested in Sydney and charged with blackmail. OAIC notified. Significant because it exposed biometric data of casino/club patrons — highlighting risks of biometric data aggregation in entertainment venues."

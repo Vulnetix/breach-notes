@@ -1,0 +1,104 @@
+{{ define "main" }}
+<section class="home-hero">
+    <div class="container">
+        <h1 class="home-title">{{ .Site.Title }}</h1>
+        <p class="home-subtitle">{{ .Site.Params.description }}</p>
+        {{ if .Site.Params.hacker_imagery }}
+        <div class="hero-hacker-background">
+            <div class="binary-rain"></div>
+            <div class="circuit-pattern"></div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="home-recent">
+    <div class="container">
+        <header class="section-header">
+            <h2 class="section-title">Latest Breaches</h2>
+            <p class="section-description">
+                The 10 most recently documented cybersecurity incidents
+            </p>
+        </header>
+
+        <div class="breach-grid recent-breaches">
+            {{ $recent := slice }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ range $cats }}
+                {{ $cat := . }}
+                {{ with index hugo.Data $cat }}
+                    {{ range $key, $breach := . }}
+                        {{ with $breach.date_of_breach }}
+                            {{ $recent = $recent | append (dict
+                                "breach" $breach
+                                "category" $cat
+                                "date" $breach.date_of_breach
+                            ) }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            {{ range first 10 (sort $recent "date" "desc") }}
+                {{ $breach := .breach }}
+                {{ $category := .category }}
+                <article class="breach-card recent">
+                    <h2 class="breach-card-title">
+                        {{ $breach.source_name }}
+                    </h2>
+                    <div class="breach-card-meta">
+                        <span class="breach-date">{{ $breach.date_of_breach }}</span>
+                        {{ with $breach.malware }}<span class="breach-malware-tag">{{ . }}</span>{{ end }}
+                        {{ with $breach.cve }}<span class="breach-cve-tag">{{ delimit . ", " }}</span>{{ end }}
+                    </div>
+                    <p class="breach-card-excerpt">
+                        {{ $breach.notes | plainify | truncate 150 }}
+                    </p>
+                </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<section class="home-stats">
+    <div class="container">
+        <h2 class="section-title">Statistics</h2>
+        <div class="stats-grid">
+            {{ $total := 0 }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ range $cats }}
+                {{ with index hugo.Data . }}
+                    {{ $total = add $total (len .) }}
+                {{ end }}
+            {{ end }}
+            <div class="stat-card">
+                <h3>{{ $total }}</h3>
+                <p>Total Incidents</p>
+            </div>
+            {{ $cveCount := 0 }}
+            {{ $malwareCount := 0 }}
+            {{ $supplyChainCount := 0 }}
+            {{ range $cats }}
+                {{ with index hugo.Data . }}
+                    {{ range $k, $b := . }}
+                        {{ with $b.cve }}{{ $cveCount = add $cveCount 1 }}{{ end }}
+                        {{ with $b.malware }}{{ $malwareCount = add $malwareCount 1 }}{{ end }}
+                        {{ if $b.supply_chain_claimed }}{{ $supplyChainCount = add $supplyChainCount 1 }}{{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            <div class="stat-card">
+                <h3>{{ $cveCount }}</h3>
+                <p>With CVE References</p>
+            </div>
+            <div class="stat-card">
+                <h3>{{ $malwareCount }}</h3>
+                <p>With Malware Identified</p>
+            </div>
+            <div class="stat-card">
+                <h3>{{ $supplyChainCount }}</h3>
+                <p>Supply Chain Claims</p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

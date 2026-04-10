@@ -1,0 +1,13 @@
+source_name: "Advance Auto Parts data breach via Snowflake (UNC5537)"
+source_url: "https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/"
+date_of_breach: "2024-04-14"
+date_of_disclosure: "2024-07-10"
+date_of_customer_notification: "2024-07-10"
+category: "credential-theft"
+initial_attack_vector: "CWE-307: Improper Restriction of Excessive Authentication Attempts (stolen credentials reused against Snowflake tenant with no MFA)"
+cve: []
+vendor_product: "Snowflake cloud data platform / Advance Auto Parts"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "UNC5537 accessed Advance Auto Parts' Snowflake environment between April 14 and May 24, 2024. Breach disclosed July 10 via Maine AGO notification affecting 2.3 million current and former employees and job applicants. Exposed data: names, SSNs, driver's licence numbers, dates of birth. $10 million class action settlement reached. Part of the broader Snowflake campaign affecting 165+ organisations."

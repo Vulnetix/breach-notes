@@ -1,0 +1,13 @@
+source_name: "US Senate Commerce Committee / BreachSense / Huntress"
+source_url: "https://www.breachsense.com/blog/target-data-breach/"
+date_of_breach: "2013-11-15"
+date_of_disclosure: "2013-12-18"
+date_of_customer_notification: "2013-12-19"
+category: "other"
+initial_attack_vector: "CWE-1104: Use of Unmaintained Third-Party Components (phishing of HVAC vendor Fazio Mechanical for network credentials, then lateral movement to POS environment)"
+cve: []
+vendor_product: "Target Corporation POS systems"
+software_package: ""
+malware: "BlackPOS / Kaptoxa"
+supply_chain_claimed: true
+notes: "Attackers phished Fazio Mechanical (HVAC vendor) to steal Target network credentials in Nov 2013. Moved laterally from vendor-accessible HVAC network segment to POS environment due to lack of network segmentation. Installed BlackPOS RAM-scraper on 1,797 store checkout terminals. Scraped payment card data from memory during transaction window. Exfiltrated ~40M credit/debit card numbers + 70M PII records to Russian FTP servers. FireEye alerts ignored. Breach detected by external payment processor. $18.5M settlement."

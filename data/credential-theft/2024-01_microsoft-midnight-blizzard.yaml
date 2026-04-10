@@ -1,0 +1,13 @@
+source_name: "Microsoft corporate email breach by Midnight Blizzard (Nobelium / APT29)"
+source_url: "https://www.microsoft.com/en-us/msrc/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard"
+date_of_breach: "2023-11-01"
+date_of_disclosure: "2024-01-19"
+date_of_customer_notification: "2024-03-08"
+category: "credential-theft"
+initial_attack_vector: "CWE-307: Improper Restriction of Excessive Authentication Attempts (password spray attack against a legacy non-production test tenant account lacking MFA)"
+cve: []
+vendor_product: "Microsoft corporate Office 365 email / source code repositories"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Midnight Blizzard (Russian SVR, also known as Nobelium/Cozy Bear/APT29) conducted a password spray attack against a legacy Microsoft test tenant account with no MFA enabled in November 2023. Using that account's permissions, attackers accessed a small percentage of corporate email accounts including senior executives and staff in cybersecurity and legal departments. Detected 12 January 2024, disclosed 19 January 2024. Subsequent investigation (March 2024) revealed attackers also accessed some Microsoft source code repositories and internal systems using information exfiltrated from the corporate emails. CISA emergency directive issued. This was part of a broader Midnight Blizzard campaign targeting governments and tech companies."

@@ -1,0 +1,13 @@
+source_name: "Bouygues Telecom Data Breach - 6.4M French Customers (IBAN Exposed)"
+source_url: "https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/"
+date_of_breach: "2025-08-04"
+date_of_disclosure: "2025-08-07"
+date_of_customer_notification: "2025-08-07"
+category: "data-leak"
+initial_attack_vector: "Cyberattack on Bouygues Telecom systems; specific initial access vector not publicly disclosed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On August 4, 2025, Bouygues Telecom — France's third-largest mobile phone carrier — detected a cyberattack. The company publicly disclosed the breach on August 6-7, 2025. Approximately 6.4 million customer accounts were compromised. Stolen data includes contact information, contractual data, civil status (or company data for professional subscribers), and IBANs (international bank account numbers). Credit card numbers and account passwords were not included. The breach was reported to France's data protection authority (CNIL). Have I Been Pwned indexed the breach. The attack occurred in context of multiple French telecom breaches in 2025, following a similar cyberattack on Orange (France's largest carrier). The combination of contact details and IBANs creates significant fraud risk for affected customers."

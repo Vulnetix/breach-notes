@@ -1,0 +1,13 @@
+source_name: "Keytronic (Key Tronic) Black Basta Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/keytronic-confirms-data-breach-after-ransomware-gang-leaks-stolen-files/"
+date_of_breach: "2024-05-06"
+date_of_disclosure: "2024-06-01"
+date_of_customer_notification: "2024-07-01"
+category: "ransomware"
+initial_attack_vector: "Unknown; Black Basta typically uses phishing emails and exploited vulnerabilities for initial access"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Black Basta ransomware"
+supply_chain_claimed: false
+notes: "Keytronic, a printed circuit board assembly (PCBA) manufacturer based in Spokane, WA, was hit by Black Basta ransomware on May 6, 2024. Operations in the US and Mexico were halted for approximately two weeks. Black Basta exfiltrated ~530 GB of HR, finance, engineering and corporate data and published it on their leak site. Total losses exceeded $17 million: ~$2.3M in direct costs and ~$15M in lost revenue. A SEC 8-K filing disclosed the incident. This is a notable manufacturing/OT sector incident with significant documented financial impact."

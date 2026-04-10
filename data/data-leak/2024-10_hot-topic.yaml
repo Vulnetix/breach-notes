@@ -1,0 +1,13 @@
+source_name: "Hot Topic data breach via infostealer (Robling third party)"
+source_url: "https://www.infostealers.com/article/largest-retail-breach-in-history-350-million-hot-topic-customers-personal-and-payment-data-exposed-as-a-result-of-infostealer-infection/"
+date_of_breach: "2024-10-01"
+date_of_disclosure: "2024-10-21"
+date_of_customer_notification: "2024-11-01"
+category: "data-leak"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (infostealer malware infected a third-party retail analytics provider, Robling, leaking credentials used to access Hot Topic's systems)"
+cve: []
+vendor_product: "Hot Topic / Box Lunch / Torrid retail brands"
+software_package: ""
+malware: "Infostealer malware (targeting Robling, third-party analytics vendor)"
+supply_chain_claimed: true
+notes: "Threat actor 'Satanic' posted on BreachForums on 21 October 2024 claiming 350 million Hot Topic user records (figure likely inflated); confirmed data set is ~730 GB covering Hot Topic and its brands Box Lunch and Torrid. Data includes email addresses, phone numbers, physical addresses, birth dates, purchase histories, and partially encrypted credit card information. Root cause: infostealer infected a computer at Robling, a third-party retail analytics provider, which had access to Hot Topic's systems. Ransom demand: $20,000. Hot Topic did not publicly confirm the breach in a timely manner."

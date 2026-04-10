@@ -1,0 +1,14 @@
+source_name: "Marquis Software Solutions Akira Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/"
+date_of_breach: "2025-08-14"
+date_of_disclosure: "2025-10-01"
+date_of_customer_notification: "2026-01-01"
+category: "ransomware"
+initial_attack_vector: "Akira ransomware exploited CVE-2024-40766 (SonicWall VPN improper access control) to breach Marquis Software's network; attackers also bypassed MFA"
+cve:
+  - "CVE-2024-40766"
+vendor_product: "SonicWall (VPN/firewall)"
+software_package: ""
+malware: "Akira"
+supply_chain_claimed: true
+notes: "Marquis Software Solutions, a marketing and compliance services vendor to 700+ US financial institutions, was hit by Akira ransomware on August 14, 2025. Threat actors exploited a critical SonicWall firewall vulnerability (CVE-2024-40766) and bypassed MFA. The breach ultimately impacted at least 80 banks and credit unions and approximately 823,548 customers. Exposed data included names, addresses, phone numbers, dates of birth, Social Security numbers, TINs, and financial account information. Reports indicated Marquis paid the ransom. In February 2026, Marquis filed a lawsuit against SonicWall alleging gross negligence. The breach toll later expanded beyond initial estimates."

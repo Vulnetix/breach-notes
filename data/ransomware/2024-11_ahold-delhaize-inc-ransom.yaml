@@ -1,0 +1,13 @@
+source_name: "Ahold Delhaize USA INC Ransom Attack"
+source_url: "https://www.cybersecuritydive.com/news/ahold-delhaize-usa-cyberattack-grocery-personal-data-exposed/752053/"
+date_of_breach: "2024-11-05"
+date_of_disclosure: "2024-11-08"
+date_of_customer_notification: "2025-02-01"
+category: "ransomware"
+initial_attack_vector: "INC Ransom ransomware-as-a-service operation; initial access vector not publicly confirmed; INC Ransom commonly exploits Citrix NetScaler vulnerabilities and phishing"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "INC Ransom"
+supply_chain_claimed: false
+notes: "INC Ransom breached Ahold Delhaize USA (parent of Stop & Shop, Food Lion, Giant Food, Hannaford, and The Giant Company) between 5-6 November 2024, stealing up to 6 TB of data. Final breach count: 2,242,521 individuals' names, contact details, dates of birth, SSNs, passport and driver's license numbers, financial account details, and employee compensation/health data. E-commerce and pharmacy operations at several banners were disrupted. INC Ransom published ~800 GB on their leak site after ransom negotiations failed. Class action lawsuits filed by Stop & Shop and Food Lion employees."

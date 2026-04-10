@@ -1,0 +1,13 @@
+source_name: "Midnight Blizzard Large-Scale RDP Spear-Phishing Campaign"
+source_url: "https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/"
+date_of_breach: "2024-10-22"
+date_of_disclosure: "2024-10-29"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Russian SVR-linked Midnight Blizzard (APT29/NOBELIUM) sent signed malicious RDP configuration files via spear-phishing email; RDP files connected targets' machines to attacker-controlled servers, mapping local resources for data theft and malware staging"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "From 22 October 2024, Midnight Blizzard targeted thousands of users across 100+ organizations in government, academia, defense, and NGOs in UK, Europe, Australia, and Japan. Emails used AWS and Zero Trust-themed lures. Malicious signed .rdp files, once opened, connected victims' workstations to actor-controlled servers, enabling credential harvesting, file access, and malware installation. CISA issued an alert 31 October 2024. Intelligence collection was assessed as the primary objective. This followed Midnight Blizzard's earlier January 2024 Microsoft corporate email breach."

@@ -1,0 +1,13 @@
+source_name: "Home Depot BlackPOS Malware POS Breach (56M Cards)"
+source_url: "https://www.databreachtoday.com/home-depot-confirms-breach-a-7117"
+date_of_breach: "2014-04-01"
+date_of_disclosure: "2014-09-02"
+date_of_customer_notification: "2014-09-18"
+category: "data-leak"
+initial_attack_vector: "Attackers used stolen vendor credentials (from a third-party vendor) to access Home Depot's network, then exploited an unpatched Windows vulnerability to move laterally and deploy a custom variant of BlackPOS RAM-scraping malware on self-checkout POS systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "BlackPOS (Kaptoxa) RAM-scraper"
+supply_chain_claimed: false
+notes: "Between April and September 2014, attackers used stolen credentials belonging to a third-party Home Depot vendor to gain initial access to the retailer's network. They exploited an unpatched Windows vulnerability to traverse into the POS network segment and deployed a custom variant of BlackPOS RAM-scraping malware (the same family used in the 2013 Target breach, but customized to evade Home Depot's security tools). The malware captured payment card track data at the point of swipe across approximately 7,500 Home Depot self-checkout terminals in the US and Canada. Approximately 56 million payment card numbers were stolen. Additionally, a separate exfiltration of approximately 53 million email addresses occurred. Home Depot paid $19.5 million to settle consumer class actions and $134.5 million to banks and card issuers for card reissuance costs. The breach is notable as the first major retail breach to use a custom-built, evolved version of known POS malware that evaded existing detection tools — a sign of attackers adapting after the Target breach publicity."

@@ -1,0 +1,13 @@
+source_name: "AT&T call records breach via Snowflake (UNC5537)"
+source_url: "https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/"
+date_of_breach: "2024-04-14"
+date_of_disclosure: "2024-07-12"
+date_of_customer_notification: "2024-07-12"
+category: "credential-theft"
+initial_attack_vector: "CWE-307: Improper Restriction of Excessive Authentication Attempts (stolen credentials reused against Snowflake tenant with no MFA)"
+cve: []
+vendor_product: "Snowflake cloud data platform / AT&T"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "UNC5537 downloaded AT&T call and text metadata for nearly all ~110 million AT&T wireless customers, covering May–Oct 2022 and a small subset from Jan 2023. Data included call/text metadata and cell-site location approximations but not content or SSNs. AT&T discovered the breach 19 April 2024; DOJ twice authorised disclosure delays (May 9 and June 5) citing national security concerns — unprecedented use of the SEC 8-K disclosure delay mechanism. AT&T paid ~$370,000 in Bitcoin ransom to have the data deleted. Disclosure filed with SEC 12 July 2024. Part of the broader Snowflake campaign affecting 165+ organisations."

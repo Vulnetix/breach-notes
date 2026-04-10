@@ -1,0 +1,13 @@
+source_name: "ILOVEYOU / Love Bug VBScript Worm (45M Computers, $10–15B Damages)"
+source_url: "https://en.wikipedia.org/wiki/ILOVEYOU"
+date_of_breach: "2000-05-04"
+date_of_disclosure: "2000-05-04"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Email with subject 'ILOVEYOU' and attachment 'LOVE-LETTER-FOR-YOU.TXT.vbs'; VBScript executed automatically via Windows Script Host, overwrote files, propagated via Outlook to entire address book, and downloaded a password-stealing Trojan"
+cve: []
+vendor_product: "Microsoft Windows Script Host; Microsoft Outlook"
+software_package: ""
+malware: "ILOVEYOU (VBS/LoveLetter)"
+supply_chain_claimed: false
+notes: "On May 4-5, 2000, the ILOVEYOU worm began spreading from the Philippines, where computer science student Onel de Guzman had released it via a stolen internet access account. The email exploited human curiosity with a deceptive love letter theme. Upon opening the VBScript attachment, the worm overwrote image, audio, and document files with copies of itself, forwarded itself to all contacts in the victim's Outlook address book, and downloaded the Barok password-stealing Trojan. ILOVEYOU infected an estimated 45–50 million computers within 24 hours — approximately 10% of all internet-connected computers globally. The Pentagon, CIA, US Army, and UK and Danish parliaments were forced to shut down email systems. Spread at 15x the rate of Melissa. Estimated damages: $10–15 billion. De Guzman was identified in 2020 and admitted to writing the worm as a thesis project (to steal internet access passwords), but was never prosecuted — the Philippines had no computer crime law at the time. The incident directly led to the Philippines passing the E-Commerce Act 2000 and to international pressure to harmonize cybercrime legislation, culminating in the Council of Europe's Budapest Convention on Cybercrime (2001)."

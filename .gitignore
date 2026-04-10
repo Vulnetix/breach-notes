@@ -1,0 +1,32 @@
+# Build output
+public/
+resources/_gen/
+
+# Hugo
+.hugo_build.lock
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.tfplan
+terraform/secrets.auto.tfvars
+terraform/.terraform.lock.hcl
+
+# Secrets
+.env
+*.secret
+secrets.auto.tfvars
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Compiled binaries
+analyze/analyze
+update-breaches

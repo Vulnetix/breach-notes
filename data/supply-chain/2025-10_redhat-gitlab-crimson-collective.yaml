@@ -1,0 +1,13 @@
+source_name: "Red Hat Consulting GitLab Breach - Crimson Collective (570GB, 800+ Enterprises)"
+source_url: "https://www.redhat.com/en/blog/security-update-incident-related-red-hat-consulting-gitlab-instance"
+date_of_breach: "2025-10-01"
+date_of_disclosure: "2025-10-02"
+date_of_customer_notification: "2025-10-10"
+category: "supply-chain"
+initial_attack_vector: "Crimson Collective gained unauthorized access to Red Hat's internal consulting GitLab instance used for customer engagement collaboration, exfiltrating approximately 570GB of compressed data from over 28,000 repositories"
+cve: []
+vendor_product: "GitLab (self-hosted instance)"
+software_package: "GitLab"
+malware: ""
+supply_chain_claimed: true
+notes: "On October 1, 2025, the cybercrime group Crimson Collective disclosed a breach of Red Hat's consulting GitLab instance, claiming to have exfiltrated 570 GB of data from over 28,000 repositories. Red Hat confirmed unauthorized access to a GitLab instance used for internal Red Hat Consulting collaboration, immediately isolated the instance, and notified authorities. Stolen data reportedly includes Customer Engagement Reports (CERs) containing infrastructure configurations, network topologies, security assessments, vulnerability details, authentication tokens, API keys, database connection strings, CI/CD pipeline configurations, and VPN settings — for approximately 800 enterprise customer organizations. Affected organizations reportedly include Bank of America, Citi, JPMorgan Chase, HSBC, IBM, Cisco, Verizon, T-Mobile, AT&T, Boeing, NSA, U.S. Navy, Department of Energy, NIST, Mayo Clinic, and Kaiser Permanente. Nissan confirmed impact from the breach. FINRA issued a cybersecurity alert regarding the incident. The same Crimson Collective group was also responsible for the Brightspeed telecom breach (January 2026)."

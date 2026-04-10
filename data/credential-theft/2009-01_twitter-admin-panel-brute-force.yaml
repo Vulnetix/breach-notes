@@ -1,0 +1,13 @@
+source_name: "Twitter Admin Panel Brute-Force: Obama, Britney Spears, Fox News Accounts Hijacked"
+source_url: "https://www.cnn.com/2009/TECH/01/05/twitter.hacked/index.html"
+date_of_breach: "2009-01-05"
+date_of_disclosure: "2009-01-05"
+date_of_customer_notification: "2009-01-05"
+category: "credential-theft"
+initial_attack_vector: "Automated brute-force attack against Twitter's administrative control panel using common passwords; Twitter had no account lockout policy or rate limiting on administrative login attempts, allowing unlimited password guesses"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2009, a hacker gained access to Twitter's administrative control panel by guessing the password of a Twitter admin account using automated brute force — Twitter had implemented no rate limiting or lockout on admin panel login attempts. Using administrative access, the hacker hijacked approximately 30 high-profile accounts including then-President-Elect Barack Obama's (@barackobama), Britney Spears, Fox News, and others, posting fake messages. The hacker subsequently explained the attack method to TechCrunch — they had used a simple tool that tried common passwords against the admin panel until one worked. Twitter resolved the compromise and hardened admin access controls. This was the first major social media account takeover incident and foreshadowed the 2020 Twitter Bitcoin scam hack (which also originated from admin tool access, though via social engineering). It highlighted the extreme risk of admin tool accounts with weak password policies and no rate limiting."

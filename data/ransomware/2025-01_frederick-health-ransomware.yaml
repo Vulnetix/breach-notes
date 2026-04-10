@@ -1,0 +1,13 @@
+source_name: "Frederick Health Medical Group Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/frederick-health-data-breach-impacts-nearly-1-million-patients/"
+date_of_breach: "2025-01-27"
+date_of_disclosure: "2025-01-27"
+date_of_customer_notification: "2025-04-01"
+category: "ransomware"
+initial_attack_vector: "Ransomware attack targeting a shared network drive; attackers gained unauthorized access to a shared drive containing sensitive patient information (separate from the EMR system)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On January 27, 2025, Frederick Health Medical Group (a Maryland-based healthcare network with 25+ locations) announced a ransomware attack that compromised the protected health information of 934,326 patients. Attackers targeted a shared drive rather than the electronic medical records system. Stolen data included names, addresses, dates of birth, Social Security numbers, driver's license numbers, medical record numbers, health insurance information, and clinical care information. No ransomware group claimed responsibility and no data has appeared on dark web forums. At least five class action lawsuits were filed alleging negligence. Frederick Health engaged third-party cybersecurity experts for investigation and remediation."

@@ -1,0 +1,13 @@
+source_name: "U.S. Office of Personnel Management (OPM) Security Clearance Breach (21.5M Records)"
+source_url: "https://www.databreachtoday.com/opm-breach-a-8028"
+date_of_breach: "2014-07-01"
+date_of_disclosure: "2015-06-04"
+date_of_customer_notification: "2015-06-04"
+category: "data-leak"
+initial_attack_vector: "APT10 (Chinese state-sponsored) used stolen credentials from a KeyPoint Government Solutions contractor to access OPM's network, then pivoted to the SF-86 security clearance database via a legacy Oracle database with no multi-factor authentication"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "The 2015 OPM breach is widely regarded as the most damaging government data breach in U.S. history. Chinese state-sponsored hackers (APT10/Deep Panda) used credentials stolen from KeyPoint Government Solutions — a federal contractor — to gain access to OPM's network. The attackers remained undetected for approximately one year. Two separate but related breaches were disclosed: (1) personnel files for 4.2 million current and former federal employees (disclosed June 4, 2015); and (2) the SF-86 background investigation files for 21.5 million individuals who had applied for or held security clearances (disclosed July 9, 2015). The SF-86 files are extraordinarily detailed — containing financial history, mental health records, foreign contacts, drug use history, family members' information, and for some individuals, polygraph results. Additionally, fingerprint records for 5.6 million individuals were stolen. The data has never been recovered and is believed to have been used by Chinese intelligence to identify and potentially compromise U.S. intelligence assets abroad. OPM Director Katherine Archuleta resigned. Congress criticized OPM for failing to implement basic cybersecurity measures including multi-factor authentication, encryption of data at rest, and timely patching."

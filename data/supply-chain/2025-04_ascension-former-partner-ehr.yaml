@@ -1,0 +1,13 @@
+source_name: "Ascension Health Former Business Partner EHR Data Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-via-former-business-partner/"
+date_of_breach: "2024-12-01"
+date_of_disclosure: "2025-04-28"
+date_of_customer_notification: "2025-04-28"
+category: "supply-chain"
+initial_attack_vector: "A former business partner of Ascension Health mistakenly included Ascension patient data in a data file sent to a software vendor for testing purposes; that vendor's systems were then compromised by an attacker who accessed the data"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Ascension Health disclosed in April 2025 a second security incident, separate from the May 2024 Black Basta ransomware attack. This breach involved a former business partner that had mistakenly included Ascension patient data in a file shared with a software testing vendor for development purposes. That vendor's systems were subsequently compromised by an attacker who accessed the file. Full clinical and personal information was potentially exposed including SSNs, medical diagnoses, health insurance details, and clinical records. Ascension notified affected patients and filed notifications with HHS OCR. This was Ascension's second significant breach within approximately one year, following the 2024 ransomware attack that disrupted care at 140 hospitals across 19 states."

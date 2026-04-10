@@ -1,0 +1,13 @@
+source_name: "Ultralytics YOLO PyPI Package Supply Chain Attack"
+source_url: "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
+date_of_breach: "2024-12-04"
+date_of_disclosure: "2024-12-05"
+date_of_customer_notification: "2024-12-05"
+category: "supply-chain"
+initial_attack_vector: "Attacker abused GitHub Actions by crafting malicious git branch names in pull requests to exfiltrate PyPI publish tokens from the CI/CD runner environment; then published backdoored package versions to PyPI"
+cve: []
+vendor_product: "GitHub Actions; PyPI"
+software_package: "ultralytics"
+malware: "XMRig (Monero cryptominer)"
+supply_chain_claimed: true
+notes: "The popular Ultralytics YOLO AI/ML library (60M+ downloads, 30K+ GitHub stars) was backdoored on 4 December 2024. Versions 8.3.41, 8.3.42, 8.3.45, and 8.3.46 deployed XMRig to mine Monero on end-user machines. The attack exploited a GitHub Actions pwn-request vulnerability to steal the PyPI publish token. Even the 'remediation' version 8.3.42 initially contained the malicious code; clean version 8.3.43 was released the same day. A second phase on 7 December saw the attacker publish directly to PyPI bypassing CI/CD entirely."

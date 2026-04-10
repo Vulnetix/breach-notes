@@ -1,0 +1,13 @@
+source_name: "Ireland HSE Conti Ransomware Attack (National Health System Shutdown, €100M+)"
+source_url: "https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf"
+date_of_breach: "2021-05-14"
+date_of_disclosure: "2021-05-14"
+date_of_customer_notification: "2021-05-14"
+category: "ransomware"
+initial_attack_vector: "Phishing email delivered to a workstation on March 16, 2021; the workstation had a Cobalt Strike beacon installed, enabling remote access; attackers spent 8 weeks conducting reconnaissance before deploying Conti ransomware on May 14, 2021"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Conti ransomware; Cobalt Strike"
+supply_chain_claimed: false
+notes: "On May 14, 2021, Conti ransomware operators attacked Ireland's Health Service Executive (HSE) — the country's entire national public health system — encrypting approximately 80,000 devices and all HSE IT systems. This was among the most disruptive ransomware attacks on a national health system in history. Ireland's entire national health IT infrastructure was shut down: hospitals reverted to paper systems, COVID-19 vaccination booking systems were taken offline, radiology and diagnostic imaging systems were inaccessible, and cancer screening programs were cancelled. The attackers demanded $20 million in ransom. The Irish government refused to pay. In a rare development, the Conti group voluntarily provided a free decryptor following a public backlash and claims the attack was unauthorized by senior leadership. Remediation took many months. The official post-incident review estimated total costs of over €100 million (recovery, lost productivity, IT upgrades). The initial intrusion occurred through a phishing email on March 16, giving attackers an 8-week dwell time to map the network before striking. The incident demonstrated how ransomware could effectively disable an entire nation's healthcare infrastructure."

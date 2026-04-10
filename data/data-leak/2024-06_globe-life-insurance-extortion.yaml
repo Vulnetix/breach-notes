@@ -1,0 +1,13 @@
+source_name: "Globe Life Insurance Data Breach (Extortion via Independent Agencies)"
+source_url: "https://therecord.media/globe-life-updated-sec-filing-hackers-extortion-data-breach"
+date_of_breach: "2024-06-13"
+date_of_disclosure: "2024-10-17"
+date_of_customer_notification: "2025-02-01"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to databases maintained by a small number of independent insurance agency owners affiliated with Globe Life"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Globe Life Inc. (insurance holding company, parent of American Income Life Insurance) detected suspicious activity on June 13, 2024. A threat actor obtained customer PII and attempted to extort Globe Life, demanding ransom payment in exchange for not publishing data. Globe Life filed an SEC 8-K on October 17, 2024 disclosing initial scope of ~5,000 affected individuals. A January 2025 updated SEC filing expanded the scope to approximately 850,000 additional individuals after investigators found the hackers had accessed databases maintained by several independent agency owners. Globe Life was not able to confirm whether all 850,000 additional records were actually exfiltrated. Exposed data included names, email addresses, phone numbers, postal addresses, DOB, SSNs, health-related data, and insurance policy information. Globe Life settled class action for $4.66 million. Insurance sector; illustrates risks of independent agent data handling."

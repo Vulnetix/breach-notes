@@ -1,0 +1,13 @@
+source_name: "Ericsson US Third-Party Service Provider Data Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/"
+date_of_breach: "2025-04-17"
+date_of_disclosure: "2026-03-09"
+date_of_customer_notification: "2026-03-09"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to an unnamed third-party service provider's systems that stored Ericsson employee and customer data"
+cve: []
+vendor_product: "Unnamed third-party service provider"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Between April 17–22, 2025, an unknown threat actor accessed files at an unnamed third-party service provider used by Ericsson Inc. (US operations). The investigation concluded in February 2026, and Ericsson notified approximately 15,000 affected individuals in March 2026. A filing with the Texas AG on March 9, 2026 indicated 4,377 Texas residents were impacted. Exposed data included names, addresses, Social Security numbers, driver's license numbers, passport numbers, state ID numbers, and financial account/card numbers. No cybercrime group has claimed responsibility. Ericsson offered 12 months of identity protection via IDX to affected individuals."

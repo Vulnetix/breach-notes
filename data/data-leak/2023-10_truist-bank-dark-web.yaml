@@ -1,0 +1,13 @@
+source_name: "Truist Bank Data Breach (2023 Intrusion, 2024 Dark Web Disclosure)"
+source_url: "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-expose-truist-banks-data-on-dark-web-confirming-october-breach"
+date_of_breach: "2023-10-01"
+date_of_disclosure: "2024-06-01"
+date_of_customer_notification: "2024-06-01"
+category: "data-leak"
+initial_attack_vector: "Unknown intrusion in October 2023; data later posted for sale on dark web forums in June 2024"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Truist Bank, a major US financial institution formed by the merger of SunTrust Banks and BB&T, confirmed in June 2024 that its systems had been breached in October 2023. The breach came to light when a threat actor posted stolen data on dark web forums, offering approximately 65,000 employee records for $1 million. Stolen data included names, SSNs, account numbers, dates of birth, and addresses. Truist customers were separately affected by the FBCS (Financial Business and Consumer Solutions) third-party breach in February 2024 (a distinct incident). Truist confirmed the October 2023 breach was a separate event from the FBCS supply-chain exposure. Financial sector; highlights the long dwell time before dark web disclosure of intrusions."

@@ -1,0 +1,13 @@
+source_name: "Facebook Cambridge Analytica API Abuse (87M User Profiles)"
+source_url: "https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal"
+date_of_breach: "2013-06-01"
+date_of_disclosure: "2018-03-17"
+date_of_customer_notification: "2018-04-09"
+category: "data-leak"
+initial_attack_vector: "Aleksandr Kogan's app 'This Is Your Digital Life' exploited Facebook's Open Graph API permission model, which allowed apps to harvest not only the personal data of users who installed the app but also all of their friends' data — without those friends' consent or knowledge"
+cve: []
+vendor_product: "Facebook Open Graph API"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between 2013-2015, Aleksandr Kogan (Cambridge University researcher) built a personality quiz app ('This Is Your Digital Life') and used Facebook's Open Graph API to harvest personal data from approximately 270,000 app users — and through the friends-of-friends API permission, the profiles of approximately 87 million Facebook users who had never interacted with the app. This data was then shared with Cambridge Analytica, a political data analytics firm, which used it to build psychographic voter targeting models. Cambridge Analytica claimed to have used the data in the 2016 US presidential election campaign and the Brexit referendum, though the actual effectiveness remains disputed. Facebook was aware of the data collection but did not act until 2018. The Guardian and New York Times reported the story in March 2018, triggering congressional hearings and global regulatory investigations. The FTC fined Facebook $5 billion for privacy violations — the largest tech privacy fine in US history at the time. The GDPR investigations contributed to the EU's scrutiny of Facebook's data practices. Zuckerberg testified before Congress. The incident was a defining moment in public awareness of social media data practices and a catalyst for the modern privacy regulatory wave."

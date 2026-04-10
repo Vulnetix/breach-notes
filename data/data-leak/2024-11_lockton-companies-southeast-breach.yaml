@@ -1,0 +1,13 @@
+source_name: "Southeast Series of Lockton Companies Data Breach - 1.1M Individuals"
+source_url: "https://www.hipaajournal.com/southeast-series-of-lockton-companies-data-breach-litigation/"
+date_of_breach: "2024-11-20"
+date_of_disclosure: "2025-03-01"
+date_of_customer_notification: "2025-03-01"
+category: "data-leak"
+initial_attack_vector: "Unauthorized party accessed a single individual employee account and associated computer within Lockton's network, then accessed files containing protected health and personal information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On November 20, 2024, an unauthorized party gained access to a single employee account and computer within the Southeast Series of Lockton Companies' network — one of the largest insurance brokerage firms in the US. Despite the limited initial access point, the attacker accessed files containing the protected health and personal information of 1,124,727 individuals. Affected individuals were notified in March 2025. Compromised data includes names, addresses, phone numbers, email addresses, dates of birth, Social Security numbers, and financial information. Southeast Series of Lockton Companies agreed to a $9.9 million class action settlement. Class members with documented losses are eligible for up to $5,000; others receive a pro-rata share. The settlement claims deadline was April 7, 2026, with a final approval hearing scheduled for May 7, 2026."

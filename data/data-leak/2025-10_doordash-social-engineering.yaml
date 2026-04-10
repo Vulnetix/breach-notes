@@ -1,0 +1,13 @@
+source_name: "DoorDash Data Breach via Employee Social Engineering"
+source_url: "https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/"
+date_of_breach: "2025-10-25"
+date_of_disclosure: "2025-11-01"
+date_of_customer_notification: "2025-11-01"
+category: "data-leak"
+initial_attack_vector: "Social engineering attack targeting a DoorDash employee; threat actors manipulated the employee to gain access to internal systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 25, 2025, an unauthorized third party gained access to DoorDash's internal systems after successfully social engineering a company employee. The number of affected individuals was not disclosed. Exposed data varied by individual and may include first and last name, phone number, email address, and physical address for consumers, Dashers (gig workers), and merchants. No Social Security numbers, government-issued IDs, driver's licenses, or payment card details were accessed. DoorDash shut down unauthorized access, engaged an external forensic firm, implemented additional security controls and employee training, and referred the matter to law enforcement."

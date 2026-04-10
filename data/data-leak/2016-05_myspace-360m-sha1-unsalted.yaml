@@ -1,0 +1,13 @@
+source_name: "MySpace Server Compromise (360M Accounts, Unsalted SHA-1)"
+source_url: "https://haveibeenpwned.com/Breach/MySpace"
+date_of_breach: "2008-01-01"
+date_of_disclosure: "2016-05-27"
+date_of_customer_notification: "2016-05-31"
+category: "data-leak"
+initial_attack_vector: "Unknown server compromise; passwords stored as unsalted SHA-1 hashes of only the first 10 lowercase characters of each password — trivially crackable with rainbow tables"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "MySpace, once the world's largest social network, suffered a breach (believed to have occurred around 2008) that was not publicly revealed until May 2016 when approximately 360 million email address and password combinations appeared for sale on dark web markets. The specific breach vector was never publicly disclosed by MySpace. The passwords had been stored as unsalted SHA-1 hashes of only the first 10 characters of each password in lowercase — an extraordinarily weak hashing scheme that made virtually all passwords trivially crackable. The 8-year delay between breach and disclosure meant hundreds of millions of users' credentials had been available to attackers for years without their knowledge. By 2016, MySpace had declined from its peak of 100 million monthly users to a much smaller platform, limiting the immediate impact. However, the old credentials remained valuable for credential stuffing attacks on other sites where users had reused their MySpace passwords."

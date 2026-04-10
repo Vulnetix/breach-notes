@@ -1,0 +1,13 @@
+source_name: "FBI DCS-3000 Surveillance Network Breach - China-Linked 'Major Incident'"
+source_url: "https://www.nbcnews.com/news/us-news/fbi-labels-suspected-china-hack-law-enforcement-data-major-cyber-incid-rcna266495"
+date_of_breach: "2026-02-17"
+date_of_disclosure: "2026-03-04"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Threat actors leveraged a commercial Internet Service Provider's vendor infrastructure to access FBI systems; FBI systems in the Virgin Islands were compromised"
+cve: []
+vendor_product: "FBI Digital Collection System Network DCS-3000 (Red Hook) - pen register and tap-and-trace surveillance infrastructure"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On February 17, 2026, the FBI began investigating abnormal activity in an unclassified system — DCS-3000 (known as Red Hook), part of its Digital Collection System Network (DCSNet) — used to manage court-authorized wiretaps, pen registers, and trap-and-trace surveillance operations. By March 4, the FBI formally notified lawmakers and labeled it a 'major cyber incident' under federal data security law. The breach was localized to FBI systems in the US Virgin Islands. The suspected intruders are China-linked (attributed with medium confidence to Salt Typhoon or related PRC actors by multiple reports). Attackers accessed PII of individuals under active FBI investigation and potentially the identities of surveillance targets, including wiretap subjects — a significant counterintelligence risk. Access was gained by exploiting a commercial ISP vendor's infrastructure, consistent with prior Salt Typhoon telecom supply chain TTPs."

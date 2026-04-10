@@ -11,7 +11,7 @@
     {{/* ── title + category badge ── */}}
     <div class="breach-card-header">
         <span class="breach-category-badge breach-category-badge--{{ $b.category | urlize }}">{{ $b.category | humanize }}</span>
-        {{ if $b.supply_chain_claimed }}<span class="breach-badge breach-badge--supply">⛓</span>{{ end }}
+        {{ if $b.supply_chain_claimed }}<span class="breach-badge breach-badge--supply">[SC]</span>{{ end }}
     </div>
 
     <h2 class="breach-card-title">
@@ -23,23 +23,23 @@
         <span class="breach-date">{{ $b.date_of_breach }}</span>
 
         {{ with $b.vendor_product }}
-        <span class="breach-vendor-tag">🏢 {{ . }}</span>
+        <span class="breach-vendor-tag">[vendor] {{ . }}</span>
         {{ end }}
 
         {{ if $b.financial_loss_usd }}
         {{ $loss := $b.financial_loss_usd | int }}
         {{ if ge $loss 1000000000 }}
-        <span class="breach-loss-tag">💸 ${{ mul (float $loss) 0.000000001 | printf "%.1f" }}B</span>
+        <span class="breach-loss-tag">[loss] ${{ mul (float $loss) 0.000000001 | printf "%.1f" }}B</span>
         {{ else if ge $loss 1000000 }}
-        <span class="breach-loss-tag">💸 ${{ mul (float $loss) 0.000001 | printf "%.0f" }}M</span>
+        <span class="breach-loss-tag">[loss] ${{ mul (float $loss) 0.000001 | printf "%.0f" }}M</span>
         {{ else if gt $loss 0 }}
-        <span class="breach-loss-tag">💸 ${{ $loss | lang.FormatNumber 0 }}</span>
+        <span class="breach-loss-tag">[loss] ${{ $loss | lang.FormatNumber 0 }}</span>
         {{ end }}
         {{ end }}
 
-        {{ with $b.malware }}<span class="breach-malware-tag">🦠 {{ . }}</span>{{ end }}
-        {{ with $b.cve }}<span class="breach-cve-tag">🔎 {{ index . 0 }}{{ if gt (len .) 1 }} +{{ sub (len .) 1 }}{{ end }}</span>{{ end }}
-        {{ with $b.blockchain }}<span class="breach-blockchain-tag">⛓ {{ . }}</span>{{ end }}
+        {{ with $b.malware }}<span class="breach-malware-tag">[malware] {{ . }}</span>{{ end }}
+        {{ with $b.cve }}<span class="breach-cve-tag">[cve] {{ index . 0 }}{{ if gt (len .) 1 }} +{{ sub (len .) 1 }}{{ end }}</span>{{ end }}
+        {{ with $b.blockchain }}<span class="breach-blockchain-tag">[chain] {{ . }}</span>{{ end }}
     </div>
 
     {{/* ── attack vector ── */}}

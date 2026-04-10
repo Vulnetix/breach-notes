@@ -136,7 +136,7 @@ main {
     padding: 0.5rem 1rem;
     background: rgba(0, 255, 0, 0.1);
     border: 1px solid #00ff00;
-    border-radius: 3px;
+    border-radius: 0;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
 }
 
@@ -154,7 +154,7 @@ main {
 .breach-notes {
     background: rgba(0, 0, 0, 0.5);
     padding: 1.5rem;
-    border-radius: 5px;
+    border-radius: 0;
     margin-bottom: 2rem;
 }
 
@@ -171,7 +171,7 @@ main {
     gap: 1rem;
     background: rgba(0, 0, 0, 0.5);
     padding: 1.5rem;
-    border-radius: 5px;
+    border-radius: 0;
 }
 
 .breach-details dt {
@@ -198,7 +198,7 @@ main {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     padding: 0.15rem 0.5rem;
-    border-radius: 3px;
+    border-radius: 0;
     background: rgba(0, 255, 0, 0.1);
     border: 1px solid rgba(0, 255, 0, 0.3);
     color: #00ff00;
@@ -213,7 +213,7 @@ main {
 .breach-badge {
     font-size: 0.7rem;
     padding: 0.15rem 0.4rem;
-    border-radius: 3px;
+    border-radius: 0;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
 }
 .breach-badge--supply { background: rgba(255,165,0,0.12); color: #ffa500; }
@@ -241,8 +241,9 @@ main {
 .section-count {
     background: rgba(0, 255, 0, 0.1);
     padding: 0.25rem 0.5rem;
-    border-radius: 3px;
+    border-radius: 0;
     font-size: 0.9rem;
+    border: 1px solid rgba(0, 255, 0, 0.3);
 }
 
 .section-description {
@@ -259,14 +260,14 @@ main {
 .breach-card {
     background: rgba(0, 0, 0, 0.5);
     border: 1px solid rgba(0, 255, 0, 0.2);
-    border-radius: 5px;
+    border-radius: 0;
     overflow: hidden;
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: border-color 0.05s, box-shadow 0.05s;
 }
 
 .breach-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.3);
+    border-color: #00ff00;
+    box-shadow: 0 0 8px rgba(0, 255, 0, 0.4), inset 0 0 8px rgba(0, 255, 0, 0.05);
 }
 
 .breach-card-title {
@@ -302,7 +303,7 @@ main {
     background: rgba(0, 255, 0, 0.08);
     border: 1px solid rgba(0,255,0,0.2);
     padding: 0.12rem 0.35rem;
-    border-radius: 3px;
+    border-radius: 0;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
     white-space: nowrap;
     overflow: hidden;
@@ -391,7 +392,7 @@ main {
     background: rgba(0, 255, 0, 0.08);
     border: 1px solid rgba(0,255,0,0.2);
     padding: 0.2rem 0.5rem;
-    border-radius: 3px;
+    border-radius: 0;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
 }
 .breach-meta .breach-vendor  { color: #aad4ff; border-color: rgba(100,160,255,0.3); }
@@ -406,7 +407,7 @@ main {
     gap: 1rem;
     background: rgba(0,0,0,0.6);
     border: 1px solid rgba(0,255,0,0.2);
-    border-radius: 6px;
+    border-radius: 0;
     padding: 1.5rem;
     margin-bottom: 2rem;
 }
@@ -447,7 +448,7 @@ main {
     border: 1px solid rgba(255,200,0,0.3);
     color: #ffd080;
     padding: 0.15rem 0.4rem;
-    border-radius: 3px;
+    border-radius: 0;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
     font-size: 0.85rem;
     text-decoration: none;
@@ -580,7 +581,7 @@ main {
 .stat-card {
     background: rgba(0, 0, 0, 0.5);
     border: 1px solid rgba(0, 255, 0, 0.2);
-    border-radius: 5px;
+    border-radius: 0;
     text-align: center;
     padding: 0.75rem 1rem;
 }
@@ -636,29 +637,34 @@ main {
     padding: 1.5rem;
     background: rgba(0, 0, 0, 0.5);
     border: 1px solid rgba(0, 255, 0, 0.2);
-    border-radius: 5px;
-    transition: box-shadow 0.2s;
+    border-radius: 0;
+    transition: border-color 0.05s;
 }
 
 .contribute-step:hover {
-    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.15);
+    border-color: #00ff00;
+    box-shadow: 0 0 8px rgba(0, 255, 0, 0.3);
 }
 
 .contribute-step-num {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 2rem;
-    height: 2rem;
-    background: rgba(0, 255, 0, 0.15);
-    border: 1px solid #00ff00;
+    width: auto;
+    height: auto;
+    background: none;
+    border: none;
     color: #00ff00;
     font-weight: 700;
-    border-radius: 50%;
+    border-radius: 0;
     font-size: 0.9rem;
     margin-bottom: 0.75rem;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
+    text-shadow: 0 0 6px rgba(0, 255, 0, 0.5);
 }
+
+.contribute-step-num::before { content: '['; color: rgba(0,255,0,0.5); }
+.contribute-step-num::after  { content: ']'; color: rgba(0,255,0,0.5); }
 
 .contribute-step h3 {
     margin: 0 0 0.5rem;
@@ -678,7 +684,7 @@ main {
     background: rgba(0, 255, 0, 0.1);
     color: #00ff00;
     padding: 0.1em 0.35em;
-    border-radius: 3px;
+    border-radius: 0;
     font-family: 'Share Tech Mono', 'Courier New', monospace;
 }
 
@@ -697,7 +703,7 @@ main {
     border: 1px solid rgba(0, 255, 0, 0.2);
     color: #00ff00;
     padding: 1.25rem 1.5rem;
-    border-radius: 5px;
+    border-radius: 0;
     overflow-x: auto;
     font-size: 0.85rem;
     line-height: 1.6;
@@ -841,11 +847,11 @@ main {
     color: #444;
     border: 1px solid #333;
     padding: 0.05rem 0.3rem;
-    border-radius: 3px;
+    border-radius: 0;
     margin-left: 0.75rem;
     flex-shrink: 0;
     user-select: none;
-    transition: color 0.15s, border-color 0.15s;
+    transition: color 0.05s, border-color 0.05s;
 }
 
 .terminal-search-input:focus ~ .terminal-search-cursor ~ .terminal-search-esc,
@@ -878,9 +884,9 @@ main {
     color: #00aa44;
     border: 1px solid #1a4a1a;
     padding: 0.05rem 0.4rem;
-    border-radius: 2px;
+    border-radius: 0;
     cursor: pointer;
-    transition: color 0.1s, border-color 0.1s, background 0.1s, text-shadow 0.1s;
+    transition: color 0.05s, border-color 0.05s, background 0.05s;
     letter-spacing: 0.02em;
 }
 
@@ -937,7 +943,7 @@ main {
 
 .search-results-overlay::-webkit-scrollbar       { width: 6px; }
 .search-results-overlay::-webkit-scrollbar-track  { background: #000; }
-.search-results-overlay::-webkit-scrollbar-thumb  { background: #00aa44; border-radius: 3px; }
+.search-results-overlay::-webkit-scrollbar-thumb  { background: #00aa44; }
 
 @keyframes overlayDrop {
     from { opacity: 0; transform: translateY(-6px); }
@@ -970,9 +976,9 @@ main {
     font-size: 0.72rem;
     padding: 0.15rem 0.6rem;
     cursor: pointer;
-    border-radius: 2px;
+    border-radius: 0;
     letter-spacing: 0.08em;
-    transition: all 0.12s;
+    transition: all 0.05s;
 }
 
 .search-results-close:hover {
@@ -991,8 +997,8 @@ main {
 
 .search-result-item {
     border: 1px solid rgba(0, 255, 0, 0.07);
-    border-radius: 3px;
-    transition: background 0.1s, border-color 0.1s;
+    border-radius: 0;
+    transition: background 0.05s, border-color 0.05s;
 }
 
 .search-result-item:hover {
@@ -1054,7 +1060,7 @@ main {
     font-family: 'Share Tech Mono', 'Courier New', monospace;
     font-size: 0.68rem;
     padding: 0.05rem 0.35rem;
-    border-radius: 2px;
+    border-radius: 0;
     text-transform: uppercase;
     letter-spacing: 0.06em;
 }
@@ -1089,7 +1095,7 @@ main {
 .sr-excerpt mark {
     background: rgba(0, 255, 0, 0.2);
     color: #00ff00;
-    border-radius: 2px;
+    border-radius: 0;
     padding: 0 1px;
     text-shadow: 0 0 4px rgba(0, 255, 0, 0.5);
 }
@@ -1133,4 +1139,94 @@ main {
     .terminal-search-hint {
         font-size: 0.62rem;
     }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   1970s CRT / RETRO TERMINAL OVERRIDES
+   ══════════════════════════════════════════════════════════════ */
+
+/* CRT scanline overlay on entire page */
+body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+    background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0, 0, 0, 0.08) 2px,
+        rgba(0, 0, 0, 0.08) 4px
+    );
+}
+
+/* Phosphor vignette effect */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9998;
+    background: radial-gradient(
+        ellipse at center,
+        transparent 60%,
+        rgba(0, 0, 0, 0.4) 100%
+    );
+}
+
+/* Card title — terminal header bar style */
+.breach-card-title {
+    background: rgba(0, 255, 0, 0.05);
+    border-bottom: 1px solid rgba(0, 255, 0, 0.15);
+}
+
+/* Retro text glow on headings */
+.site-title a,
+.section-title,
+.breach-title,
+.home-tagline {
+    text-shadow: 0 0 8px rgba(0, 255, 0, 0.6), 0 0 2px rgba(0, 255, 0, 0.3);
+}
+
+/* Card link arrows — retro style */
+.breach-card-link {
+    text-shadow: 0 0 4px rgba(0, 255, 0, 0.4);
+}
+
+.breach-card-source {
+    text-shadow: 0 0 4px rgba(0, 255, 0, 0.3);
+}
+
+/* Scrollbar — retro hard-edged */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #000; border-left: 1px solid rgba(0,255,0,0.1); }
+::-webkit-scrollbar-thumb { background: rgba(0,255,0,0.25); border: 1px solid rgba(0,255,0,0.3); }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,255,0,0.4); }
+
+/* Stat card hover — hard glow, no lift */
+.stat-card {
+    transition: border-color 0.05s;
+}
+.stat-card:hover {
+    border-color: #00ff00;
+    box-shadow: 0 0 8px rgba(0, 255, 0, 0.3);
+}
+
+/* Badge brackets for retro look */
+.breach-category-badge::before { content: '[ '; opacity: 0.5; }
+.breach-category-badge::after  { content: ' ]'; opacity: 0.5; }
+
+/* Card border-left accent strip */
+.breach-card {
+    border-left: 2px solid rgba(0, 255, 0, 0.3);
+}
+.breach-card:hover {
+    border-left-color: #00ff00;
 }

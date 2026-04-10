@@ -13,15 +13,15 @@
         <header class="breach-header">
             <div class="breach-header-top">
                 <span class="breach-category-badge breach-category-badge--{{ $p.category | urlize }}">{{ $p.category | humanize }}</span>
-                {{ if $p.supply_chain_claimed }}<span class="breach-badge breach-badge--supply">⛓ Supply Chain</span>{{ end }}
+                {{ if $p.supply_chain_claimed }}<span class="breach-badge breach-badge--supply">[SC] Supply Chain</span>{{ end }}
                 {{ if $p.financial_loss_usd }}
                 {{ $loss := $p.financial_loss_usd | int }}
                 {{ if ge $loss 1000000000 }}
-                <span class="breach-badge breach-badge--loss">💸 {{ mul (float $loss) 0.000000001 | printf "%.1f" }}B+ loss</span>
+                <span class="breach-badge breach-badge--loss">[loss] {{ mul (float $loss) 0.000000001 | printf "%.1f" }}B+</span>
                 {{ else if ge $loss 1000000 }}
-                <span class="breach-badge breach-badge--loss">💸 ${{ mul (float $loss) 0.000001 | printf "%.0f" }}M+ loss</span>
+                <span class="breach-badge breach-badge--loss">[loss] ${{ mul (float $loss) 0.000001 | printf "%.0f" }}M+</span>
                 {{ else if gt $loss 0 }}
-                <span class="breach-badge breach-badge--loss">💸 ${{ $loss | lang.FormatNumber 0 }} loss</span>
+                <span class="breach-badge breach-badge--loss">[loss] ${{ $loss | lang.FormatNumber 0 }}</span>
                 {{ end }}
                 {{ end }}
             </div>
@@ -29,11 +29,11 @@
             <h1 class="breach-title">{{ $p.source_name }}</h1>
 
             <div class="breach-meta">
-                <span class="breach-date">📅 {{ $p.date_of_breach }}</span>
-                {{ with $p.vendor_product }}<span class="breach-vendor">🏢 {{ . }}</span>{{ end }}
-                {{ with $p.blockchain }}<span class="breach-blockchain">⛓ {{ . }}</span>{{ end }}
-                {{ with $p.malware }}<span class="breach-malware">🦠 {{ . }}</span>{{ end }}
-                {{ with $p.cve }}<span class="breach-cve">🔎 {{ delimit . " · " }}</span>{{ end }}
+                <span class="breach-date">{{ $p.date_of_breach }}</span>
+                {{ with $p.vendor_product }}<span class="breach-vendor">[vendor] {{ . }}</span>{{ end }}
+                {{ with $p.blockchain }}<span class="breach-blockchain">[chain] {{ . }}</span>{{ end }}
+                {{ with $p.malware }}<span class="breach-malware">[malware] {{ . }}</span>{{ end }}
+                {{ with $p.cve }}<span class="breach-cve">[cve] {{ delimit . " · " }}</span>{{ end }}
             </div>
 
             {{ with $p.source_url }}

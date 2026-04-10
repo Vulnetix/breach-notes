@@ -228,45 +228,19 @@
     font-family: 'Share Tech Mono', 'Courier New', monospace;
     font-weight: bold;
     text-decoration: none;
-    border-radius: 3px;
-    transition: all 0.2s;
+    border-radius: 0;
+    transition: background 0.05s, box-shadow 0.05s;
     position: relative;
     overflow: hidden;
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
 }
 
 .btn-hacker:hover {
     background: rgba(0, 255, 0, 0.2);
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.4);
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5), inset 0 0 10px rgba(0, 255, 0, 0.1);
+    text-shadow: 0 0 8px rgba(0, 255, 0, 0.8);
 }
 
 .btn-hacker:active {
-    transform: translateY(0);
-}
-
-.btn-hacker::before {
-    content: "";
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background:
-        linear-gradient(
-            45deg,
-            transparent,
-            rgba(0, 255, 0, 0.1),
-            transparent
-        );
-    transform: rotate(45deg);
-    transition: all 0.5s;
-}
-
-.btn-hacker:hover::before {
-    animation: shine 0.5s;
-}
-
-@keyframes shine {
-    0% { transform: translateX(-100%) rotate(45deg); }
-    100% { transform: translateX(100%) rotate(45deg); }
+    background: rgba(0, 255, 0, 0.3);
 }

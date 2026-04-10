@@ -1,0 +1,13 @@
+source_name: "NCB Management Services Data Breach (Bank of America / Credit Cards)"
+source_url: "https://www.bleepingcomputer.com/news/security/bank-of-america-warns-customers-of-data-breach-after-vendor-hack/"
+date_of_breach: "2023-04-04"
+date_of_disclosure: "2023-05-01"
+date_of_customer_notification: "2023-05-22"
+category: "data-leak"
+initial_attack_vector: "Unknown network intrusion at NCB Management Services, a debt buyer and collection agency"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "NCB Management Services, a debt purchasing and collections company that works with major banks, suffered a data breach on April 4, 2023. The breach exposed data of approximately 1.08 million individuals who had Bank of America credit card accounts handled by NCB. Exposed data included names, addresses, email addresses, phone numbers, dates of birth, account numbers, and the status of charged-off accounts. Bank of America notified affected customers in May 2023. Notable as a third-party financial services vendor breach affecting major bank customers; illustrates risks of debt collection outsourcing. NCB also worked with other financial institutions so total impact may be higher."

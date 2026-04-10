@@ -1,0 +1,13 @@
+source_name: "ICBC US Broker-Dealer LockBit Ransomware Attack (US Treasury Market Disruption)"
+source_url: "https://www.bleepingcomputer.com/news/security/industrial-and-commercial-bank-of-china-us-arm-hit-by-ransomware/"
+date_of_breach: "2023-11-08"
+date_of_disclosure: "2023-11-09"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "CitrixBleed vulnerability (CVE-2023-4966) exploitation on Citrix NetScaler appliance"
+cve: ["CVE-2023-4966"]
+vendor_product: "Citrix NetScaler (CitrixBleed)"
+software_package: ""
+malware: "LockBit ransomware"
+supply_chain_claimed: false
+notes: "The US broker-dealer subsidiary of the Industrial and Commercial Bank of China (ICBC Financial Services) suffered a LockBit ransomware attack on November 8, 2023. The attack disrupted ICBC's ability to process and settle US Treasury trades, causing ripple effects across US Treasury and equity markets. The attack exploited the CitrixBleed vulnerability (CVE-2023-4966) in Citrix NetScaler. ICBC FS used USB drives to manually carry settlement data to the Depository Trust & Clearing Corporation (DTCC). Market participants were forced to re-route ICBC trades through alternative brokers. The attack was one of the most significant cyber incidents ever to impact US financial market infrastructure. ICBC FS paid a ransom to LockBit. Note: a separate Hunters International attack hit ICBC's London subsidiary in September 2024."

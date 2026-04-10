@@ -1,0 +1,13 @@
+source_name: "Australian Red Cross Blood Service SQL Dump Exposure (550K Donors)"
+source_url: "https://www.oaic.gov.au/privacy/privacy-assessments/australian-red-cross-blood-service/"
+date_of_breach: "2016-10-26"
+date_of_disclosure: "2016-10-28"
+date_of_customer_notification: "2016-10-28"
+category: "data-leak"
+initial_attack_vector: "A web developer working for the Red Cross Blood Service's website contractor accidentally uploaded a production database backup file (.sql dump) to a publicly accessible directory on the redcrossblood.org.au website; discovered by an independent security researcher who responsibly disclosed it"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In October 2016, a contractor responsible for building Australian Red Cross Blood Service's donor portal accidentally included a 1.74 GB SQL database backup file in a publicly accessible web directory on the official redcrossblood.org.au website. The file contained personal information for approximately 550,000 blood and plasma donors. An independent security researcher discovered the exposed backup file and responsibly disclosed it; the file was removed within hours. Exposed data included donor names, addresses, dates of birth, email addresses, telephone numbers, and responses to sensitive medical eligibility screening questions including whether donors had engaged in 'at-risk sexual behavior' in the past 12 months. The medical screening data made this particularly sensitive, as it could be used to infer donors' sexual history or practices. This was the largest healthcare-adjacent data breach of an Australian charity at the time. The Office of the Australian Information Commissioner (OAIC) launched its first major health data breach investigation as a result. The breach significantly contributed to Australian parliamentary momentum for mandatory data breach notification legislation — the Notifiable Data Breaches (NDB) scheme, which was passed in February 2017 and took effect February 2018. The incident also prompted the Red Cross Blood Service to implement new data handling policies and terminate the contractor relationship."

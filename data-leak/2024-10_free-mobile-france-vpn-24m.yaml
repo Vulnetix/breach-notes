@@ -1,0 +1,13 @@
+source_name: "Free Mobile / Free France Data Breach - VPN Credential Attack (24M Subscribers, €42M CNIL Fine)"
+source_url: "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/"
+date_of_breach: "2024-09-28"
+date_of_disclosure: "2024-10-21"
+date_of_customer_notification: "2024-10-22"
+category: "data-leak"
+initial_attack_vector: "Attackers gained access to Free's network via insufficiently protected VPN authentication, then connected to Free Mobile's subscriber management tool (MOBO) to exfiltrate customer records starting October 6, 2024"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Beginning September 28, 2024, an attacker accessed Free's network through VPN credentials using insufficiently robust multi-factor authentication. The attacker connected to MOBO, Free Mobile's subscriber management tool, and began exfiltrating customer records on October 6. Free and Free Mobile became aware of the intrusion on October 21 after receiving a message from the attacker, and expelled them the following day. The breach affected 24,633,468 subscriber contracts total: 19,460,891 Free Mobile contacts and 5,172,577 Free (broadband) contracts. Exposed data includes personal identifiers and highly sensitive IBAN financial information for customers subscribed to both services. France's CNIL fined Free Mobile €27 million and Free €15 million (combined €42 million) in January 2026 for: (1) failing to adequately secure personal data through insufficiently robust VPN authentication, (2) failing to adequately communicate the breach to affected individuals, and (3) non-compliance with data retention requirements. This was one of France's largest GDPR enforcement actions and Europe's largest telecom breach fine of 2026."

@@ -13,13 +13,62 @@ Continuously discover and document new cybersecurity breach incidents from publi
 5. Update README.md statistics if needed
 
 ## Sources to Monitor
-- BleepingComputer
-- The Hacker News
-- Krebs on Security
-- Dark Reading
-- HaveIBeenPwned
-- Various vendor advisories
-- Regulatory filings (SEC, GDPR, etc.)
+
+### Security News
+- BleepingComputer (bleepingcomputer.com)
+- The Hacker News (thehackernews.com)
+- The Record (therecord.media)
+- Krebs on Security (krebsonsecurity.com)
+- Dark Reading (darkreading.com)
+- SecurityWeek (securityweek.com)
+- Ars Technica Security (arstechnica.com/security)
+
+### Breach Tracking
+- HaveIBeenPwned (haveibeenpwned.com)
+- DataBreaches.net
+- Privacy Guides breach roundups (privacyguides.org)
+
+### Regulatory & Mandatory Notification Registries
+
+#### United States
+- SEC Edgar cybersecurity incident filings (8-K, Item 1.05)
+- HHS OCR HIPAA Breach Portal (ocrportal.hhs.gov) — healthcare breaches ≥500 individuals
+- State AG notification databases (Maine AGO is most comprehensive; also CA, TX, NY)
+- CISA Known Exploited Vulnerabilities (KEV) catalog
+
+#### Australia
+- OAIC Notifiable Data Breaches (NDB) scheme — oaic.gov.au/privacy/notifiable-data-breaches
+  - Quarterly statistics reports; individual summaries for larger incidents
+  - Covers entities under the Privacy Act (health, finance, govt agencies)
+
+#### European Union / EEA
+- ENISA Threat Landscape reports (enisa.europa.eu)
+- National DPA enforcement decisions (typically published on DPA websites):
+  - France: CNIL (cnil.fr/en) — decisions, sanctions, and notable breach cases
+  - Germany: BSI (bsi.bund.de) and state-level DPAs (e.g., BayLDA, LfDI)
+  - Netherlands: AP (autoriteitpersoonsgegevens.nl)
+  - Ireland: DPC (dataprotection.ie) — major EU hub decisions under GDPR
+  - Spain: AEPD (aepd.es)
+  - Italy: Garante (garanteprivacy.it)
+  - Denmark: Datatilsynet (datatilsynet.dk)
+- EU CERT/CSIRT advisories: CERT-EU (cert.europa.eu)
+
+#### United Kingdom
+- ICO (ico.org.uk) — enforcement actions, fines, and notable breach decisions
+- NCSC cyber incident reports (ncsc.gov.uk)
+
+#### Canada
+- OPC (priv.gc.ca) — Office of the Privacy Commissioner, PIPEDA breach reports
+
+#### Other Asia-Pacific
+- Singapore: PDPC (pdpc.gov.sg) — Personal Data Protection Commission decisions
+- Japan: PPC (ppc.go.jp) — Personal Information Protection Commission
+- South Korea: PIPC (pipc.go.kr) — Personal Information Protection Commission
+- New Zealand: OPC (privacy.org.nz) — Office of the Privacy Commissioner
+
+### Vendor Advisories
+- Vendor security advisories (CVE disclosures linked to breach events)
+- GitHub Advisory Database
 
 ## Quality Standards
 - Verify information from multiple sources when possible

@@ -1,0 +1,13 @@
+source_name: "BleepingComputer"
+source_url: "https://www.bleepingcomputer.com/news/security/pure-storage-confirms-data-breach-after-snowflake-account-hack/"
+date_of_breach: "2024-05-01"
+date_of_disclosure: "2024-06-11"
+date_of_customer_notification: "2024-06-11"
+category: "credential-theft"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (infostealer-harvested credentials, no MFA on Snowflake)"
+cve: []
+vendor_product: "Pure Storage Snowflake workspace (telemetry/support)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Pure Storage, a leading enterprise cloud storage provider, confirmed on June 11, 2024 that attackers breached its Snowflake workspace as part of the broader UNC5537/Sp1d3r campaign targeting Snowflake customers lacking MFA. The compromised workspace contained telemetry data used for proactive customer support, including customer company names, LDAP usernames, email addresses, and Purity software release versions. No passwords, array credentials, or customer-stored data were compromised. Pure Storage stated there was no evidence of unauthorized access to customer storage systems. The breach was part of the same UNC5537 (ShinyHunters-affiliated) campaign that affected AT&T, Ticketmaster, Santander, and ~160 other organizations."

@@ -1,0 +1,13 @@
+source_name: "CISA"
+source_url: "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a"
+date_of_breach: "2023-06-01"
+date_of_disclosure: "2024-09-18"
+date_of_customer_notification: "unknown"
+category: "other"
+initial_attack_vector: "CWE-1188: Insecure Default Initialization of Resource (compromised SOHO routers and IoT devices with default/weak credentials)"
+cve: []
+vendor_product: "Consumer and SOHO routers, IP cameras, DVRs (multiple vendors)"
+software_package: ""
+malware: "Flax Typhoon botnet (Raptor Train)"
+supply_chain_claimed: false
+notes: "In September 2024, the FBI and CISA announced the disruption of a botnet operated by Flax Typhoon, a Chinese state-sponsored threat actor (also tracked as RedJuliett/Ethereal Panda). The botnet, dubbed 'Raptor Train' by security researchers at Black Lotus Labs, compromised over 260,000 internet-connected devices including home routers, IP cameras, DVRs, and NAS drives — primarily exploiting default credentials and known CVEs in SOHO/IoT devices. The botnet infected devices in North America (48%), Europe, Asia, and elsewhere, and was used to conduct espionage and facilitate attacks on US critical infrastructure, defense, education, and telecom sectors. Court-authorized actions were taken to disrupt the botnet in September 2024. Flax Typhoon is distinct from Volt Typhoon but pursues similar pre-positioning goals against critical infrastructure."

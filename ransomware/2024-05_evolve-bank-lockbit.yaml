@@ -1,0 +1,13 @@
+source_name: "BleepingComputer"
+source_url: "https://www.bleepingcomputer.com/news/security/evolve-bank-says-data-breach-impacts-76-million-americans/"
+date_of_breach: "2024-05-29"
+date_of_disclosure: "2024-06-26"
+date_of_customer_notification: "2024-07-08"
+category: "ransomware"
+initial_attack_vector: "CWE-601: URL Redirection to Untrusted Site (phishing link clicked by employee)"
+cve: []
+vendor_product: "Evolve Bank & Trust banking platform"
+software_package: ""
+malware: "LockBit ransomware"
+supply_chain_claimed: false
+notes: "Evolve Bank & Trust, an Arkansas-based fintech banking partner, was attacked by the LockBit ransomware gang in late May 2024. An employee clicked a malicious link, granting attackers access. LockBit exfiltrated 33 TB of data including personal data on 7.6 million Americans — names, Social Security numbers, dates of birth, account numbers, and ACH transaction records. The bank declined to pay the ransom; LockBit partially leaked the stolen data. Open banking partners such as Affirm, Wise, and Mercury were also impacted. A proposed $11.85 million class action settlement was reached. The Federal Reserve issued an enforcement action against the bank in June 2024."

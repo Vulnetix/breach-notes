@@ -1,0 +1,13 @@
+source_name: "HIPAA Journal"
+source_url: "https://www.hipaajournal.com/healthequity-breach-4-2-million-records/"
+date_of_breach: "2024-03-09"
+date_of_disclosure: "2024-07-26"
+date_of_customer_notification: "2024-07-26"
+category: "data-leak"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (compromised third-party vendor user accounts)"
+cve: []
+vendor_product: "HealthEquity HSA/benefits platform (SharePoint storage via vendor)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "HealthEquity, a Utah-based administrator of health savings accounts (HSAs), health reimbursement arrangements (HRAs), and COBRA benefits serving millions of Americans, disclosed a data breach impacting 4.3 million individuals. The breach originated via compromised user accounts belonging to an unnamed third-party vendor that had access to HealthEquity's SharePoint-based online data storage. Unauthorized access occurred on March 9, 2024, and was detected March 25, 2024 via an MSSP alert. Investigation completed June 10. Exposed data included names, contact information, SSNs, employer information, health plan details, diagnoses, prescription information, and benefit account details. The vendor's access was immediately terminated upon discovery. HealthEquity did not publicly name the vendor or identify the responsible threat actor."

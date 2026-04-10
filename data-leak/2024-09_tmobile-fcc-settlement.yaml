@@ -1,0 +1,13 @@
+source_name: "BleepingComputer"
+source_url: "https://www.bleepingcomputer.com/news/security/t-mobile-pays-315-million-fcc-settlement-over-4-data-breaches/"
+date_of_breach: "2021-08-01"
+date_of_disclosure: "2024-09-01"
+date_of_customer_notification: "2024-09-01"
+category: "data-leak"
+initial_attack_vector: "CWE-284: Improper Access Control"
+cve: []
+vendor_product: "T-Mobile US customer systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "T-Mobile agreed to pay a $31.5 million FCC settlement in September 2024 covering four separate data breaches between 2021 and 2023. The 2021 breach (discovered August 2021) affected approximately 76.6 million US customers and former customers, exposing SSNs, driver's license information, and IMEI numbers via a brute-force attack on an API. Subsequent incidents in January 2023 (37 million customers via billing API), April 2023 (836 customers via SIM-swapping), and May 2023 (affected postpaid accounts) contributed to the settlement. As part of the settlement T-Mobile committed to $15.75 million in cybersecurity improvements plus the $15.75 million civil penalty. The FCC flagged T-Mobile's weak security controls as a systemic failure across multiple incidents."

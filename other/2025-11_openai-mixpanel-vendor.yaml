@@ -1,0 +1,13 @@
+source_name: "TechCrunch"
+source_url: "https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/"
+date_of_breach: "2025-11-26"
+date_of_disclosure: "2025-11-27"
+date_of_customer_notification: "2025-11-27"
+category: "other"
+initial_attack_vector: "CWE-284: Improper Access Control (third-party analytics vendor breach)"
+cve: []
+vendor_product: "Mixpanel analytics platform (used by OpenAI)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Hackers breached Mixpanel, a third-party analytics vendor used by OpenAI to track user behavior on its API platform, on November 26, 2025. The breach exposed data belonging to OpenAI API platform business customers including names, email addresses, geographic locations, and technical details about customer systems. Standard ChatGPT consumer app users were not affected. No chat content, API keys, passwords, credentials, payment details, or government IDs were compromised. OpenAI confirmed the incident was at the vendor level, not within OpenAI's own systems. The incident highlighted that AI platform providers — holding sensitive data on enterprises integrating AI into products — are attractive targets for attackers seeking business intelligence."

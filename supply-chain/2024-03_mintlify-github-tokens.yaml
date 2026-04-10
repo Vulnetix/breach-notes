@@ -1,0 +1,13 @@
+source_name: "TechCrunch"
+source_url: "https://techcrunch.com/2024/03/18/mintlify-customer-github-tokens-data-breach/"
+date_of_breach: "2024-03-01"
+date_of_disclosure: "2024-03-18"
+date_of_customer_notification: "2024-03-18"
+category: "supply-chain"
+initial_attack_vector: "CWE-312: Cleartext Storage of Sensitive Information (OAuth tokens stored in database)"
+cve: []
+vendor_product: "Mintlify documentation platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Mintlify, an AI-powered code documentation platform used by software developers, suffered a breach on March 1, 2024. A vulnerability in Mintlify's systems allowed unauthorized access to admin tokens, leading to the exposure of 91 GitHub OAuth tokens belonging to customer organizations. Attackers confirmed access to at least one customer repository. Because Mintlify requires read/write access to GitHub repositories to generate documentation, the supply chain risk was significant — downstream customer source code repositories could have been read or modified. Mintlify revoked all tokens immediately, patched the vulnerability, and moved away from storing GitHub OAuth tokens in databases. The incident underscored the risk of third-party developer tools that require broad repository access."

@@ -1,0 +1,13 @@
+source_name: "IBM Security Intelligence"
+source_url: "https://www.ibm.com/think/news/cyberattack-on-american-water-warning-critical-infrastructure"
+date_of_breach: "2024-01-18"
+date_of_disclosure: "2024-04-18"
+date_of_customer_notification: "unknown"
+category: "other"
+initial_attack_vector: "CWE-1188: Insecure Default Initialization of Resource (default credentials on internet-exposed industrial control systems)"
+cve: []
+vendor_product: "Unitronics PLC / Muleshoe, TX water tower SCADA"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2024, Russian hackers affiliated with Sandworm (a GRU/Russian military intelligence cyber unit) infiltrated water treatment systems in Muleshoe, Texas, causing a water storage tank to overflow. The attack exploited internet-exposed Unitronics programmable logic controllers (PLCs) with default credentials — the same vulnerability exploited in November 2023 by Iran-affiliated group CyberAv3ngers against US water utilities. The Muleshoe incident involved several small Texas municipalities and was disclosed publicly in April 2024 after CISA and FBI investigated. No drinking water safety impact was reported, but the incident demonstrated that OT/ICS systems at small utilities are directly accessible from the internet with default credentials and represent a significant physical-world risk."

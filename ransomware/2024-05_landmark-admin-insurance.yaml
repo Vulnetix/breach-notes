@@ -1,0 +1,13 @@
+source_name: "BleepingComputer"
+source_url: "https://www.bleepingcomputer.com/news/security/landmark-admin-data-breach-impact-now-reaches-16-million-people/"
+date_of_breach: "2024-05-13"
+date_of_disclosure: "2024-10-01"
+date_of_customer_notification: "2024-10-01"
+category: "ransomware"
+initial_attack_vector: "CWE-522: Insufficiently Protected Credentials (stolen VPN credentials)"
+cve: []
+vendor_product: "Landmark Admin insurance administration platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Landmark Admin LLC, a Texas-based third-party administrator for multiple insurance companies, detected unauthorized access to its systems on May 13, 2024, and was breached again on June 17 while the investigation was still underway. The breach involved ransomware and data exfiltration via stolen VPN credentials. The final count reached 1.6 million affected individuals, with personal data including names, addresses, dates of birth, driver's license numbers, government/passport IDs, Social Security numbers, medical and health insurance information, and financial information. Downstream insurance carrier clients include American Benefit Life Insurance, Liberty Bankers Life Insurance, and others. A $6 million class action settlement was reached."

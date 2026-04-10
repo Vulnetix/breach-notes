@@ -1,0 +1,13 @@
+source_name: "Infosecurity Magazine"
+source_url: "https://www.infosecurity-magazine.com/news/volt-typhoon-threatens-us-ot/"
+date_of_breach: "2023-02-01"
+date_of_disclosure: "2023-11-01"
+date_of_customer_notification: "unknown"
+category: "other"
+initial_attack_vector: "CWE-1188: Insecure Default Initialization of Resource (unpatched FortiGate 300D firewall — CVE patched December 2022, not applied until after breach)"
+cve: []
+vendor_product: "FortiGate 300D firewall / Littleton Electric Light and Water Departments OT network"
+software_package: "Fortinet FortiOS"
+malware: ""
+supply_chain_claimed: false
+notes: "Volt Typhoon (VOLTZITE per Dragos), a Chinese state-sponsored APT group, maintained persistent unauthorized access to the operational technology (OT) network of Littleton Electric Light and Water Departments (LELWD), a small Massachusetts public utility, for approximately 300 days from February to November 2023. Initial access was gained via an unpatched Fortinet FortiGate 300D firewall — a patch had been available since December 2022 but the managed service provider had not applied it. The FBI alerted LELWD in November 2023. Attackers used living-off-the-land techniques, SMB traversal, and RDP lateral movement to collect data on OT systems, operating procedures, and spatial layout data related to energy grid operations. No customer data was stolen and water/power services were unaffected. The case, profiled on CBS 60 Minutes, highlighted that small critical infrastructure operators are Volt Typhoon targets for pre-positioning in anticipation of potential future geopolitical conflict with China."

@@ -1,50 +1,185 @@
 {{ define "main" }}
+{{ $p := .Params }}
+
+{{/* ── helpers ─────────────────────────────────────────────── */}}
+{{ $hasImpact := or $p.financial_loss_usd $p.financial_recovered_usd $p.affected_count $p.blockchain }}
+{{ $hasTech   := or $p.initial_attack_vector $p.vendor_product $p.software_package $p.malware $p.cve $p.supply_chain_claimed }}
+{{ $hasTimeline := or $p.date_of_disclosure $p.date_of_customer_notification }}
+
 <article class="breach-page">
     <div class="container">
+
+        {{/* ── HEADER ──────────────────────────────────────────── */}}
         <header class="breach-header">
-            <h1 class="breach-title">{{ .Params.source_name }}</h1>
-            <div class="breach-meta">
-                <span class="breach-date"><strong>Breach Date:</strong> {{ .Params.date_of_breach }}</span>
-                <span class="breach-category"><strong>Category:</strong> {{ .Params.category }}</span>
-                {{ if .Params.malware }}<span class="breach-malware"><strong>Malware:</strong> {{ .Params.malware }}</span>{{ end }}
-                {{ if .Params.cve }}<span class="breach-cve"><strong>CVEs:</strong> {{ delimit .Params.cve ", " }}</span>{{ end }}
+            <div class="breach-header-top">
+                <span class="breach-category-badge breach-category-badge--{{ $p.category | urlize }}">{{ $p.category | humanize }}</span>
+                {{ if $p.supply_chain_claimed }}<span class="breach-badge breach-badge--supply">⛓ Supply Chain</span>{{ end }}
+                {{ if $p.financial_loss_usd }}
+                {{ $loss := $p.financial_loss_usd | int }}
+                {{ if ge $loss 1000000000 }}
+                <span class="breach-badge breach-badge--loss">💸 {{ mul (float $loss) 0.000000001 | printf "%.1f" }}B+ loss</span>
+                {{ else if ge $loss 1000000 }}
+                <span class="breach-badge breach-badge--loss">💸 ${{ mul (float $loss) 0.000001 | printf "%.0f" }}M+ loss</span>
+                {{ else if gt $loss 0 }}
+                <span class="breach-badge breach-badge--loss">💸 ${{ $loss | lang.FormatNumber 0 }} loss</span>
+                {{ end }}
+                {{ end }}
             </div>
-            {{ if .Params.source_url }}
-            <a href="{{ .Params.source_url }}" target="_blank" rel="noopener" class="breach-source">View Source →</a>
+
+            <h1 class="breach-title">{{ $p.source_name }}</h1>
+
+            <div class="breach-meta">
+                <span class="breach-date">📅 {{ $p.date_of_breach }}</span>
+                {{ with $p.vendor_product }}<span class="breach-vendor">🏢 {{ . }}</span>{{ end }}
+                {{ with $p.blockchain }}<span class="breach-blockchain">⛓ {{ . }}</span>{{ end }}
+                {{ with $p.malware }}<span class="breach-malware">🦠 {{ . }}</span>{{ end }}
+                {{ with $p.cve }}<span class="breach-cve">🔎 {{ delimit . " · " }}</span>{{ end }}
+            </div>
+
+            {{ with $p.source_url }}
+            <a href="{{ . }}" target="_blank" rel="noopener" class="breach-source">Primary Source ↗</a>
             {{ end }}
         </header>
 
+        {{/* ── IMPACT PANEL ─────────────────────────────────────── */}}
+        {{ if $hasImpact }}
+        <section class="breach-impact">
+            {{ with $p.financial_loss_usd }}
+            {{ $v := . | int }}
+            <div class="impact-stat impact-stat--loss">
+                <span class="impact-label">Financial Loss</span>
+                {{ if ge $v 1000000000 }}
+                <span class="impact-value">${{ mul (float $v) 0.000000001 | printf "%.2f" }}B</span>
+                {{ else if ge $v 1000000 }}
+                <span class="impact-value">${{ mul (float $v) 0.000001 | printf "%.1f" }}M</span>
+                {{ else }}
+                <span class="impact-value">${{ $v | lang.FormatNumber 0 }}</span>
+                {{ end }}
+                <span class="impact-raw">({{ $v | lang.FormatNumber 0 }} USD)</span>
+            </div>
+            {{ end }}
+
+            {{ with $p.financial_recovered_usd }}
+            {{ $r := . | int }}
+            <div class="impact-stat impact-stat--recovered">
+                <span class="impact-label">Recovered</span>
+                {{ if ge $r 1000000 }}
+                <span class="impact-value">${{ mul (float $r) 0.000001 | printf "%.1f" }}M</span>
+                {{ else }}
+                <span class="impact-value">${{ $r | lang.FormatNumber 0 }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+
+            {{ with $p.affected_count }}
+            <div class="impact-stat impact-stat--affected">
+                <span class="impact-label">Affected</span>
+                {{ $n := . | int }}
+                {{ if ge $n 1000000 }}
+                <span class="impact-value">{{ mul (float $n) 0.000001 | printf "%.1f" }}M</span>
+                {{ else if ge $n 1000 }}
+                <span class="impact-value">{{ mul (float $n) 0.001 | printf "%.0f" }}K</span>
+                {{ else }}
+                <span class="impact-value">{{ $n }}</span>
+                {{ end }}
+                <span class="impact-raw">individuals/accounts</span>
+            </div>
+            {{ end }}
+
+            {{ with $p.blockchain }}
+            <div class="impact-stat impact-stat--blockchain">
+                <span class="impact-label">Blockchain(s)</span>
+                <span class="impact-value">{{ . | title }}</span>
+            </div>
+            {{ end }}
+        </section>
+        {{ end }}
+
+        {{/* ── NARRATIVE ────────────────────────────────────────── */}}
         <section class="breach-content">
-            <h2>Details</h2>
+            <h2>Incident Details</h2>
             <div class="breach-notes">
-                {{ .Params.notes | markdownify }}
+                {{ $p.notes | markdownify }}
             </div>
         </section>
 
-        {{ if or (.Params.initial_attack_vector) (.Params.vendor_product) (.Params.software_package) (.Params.supply_chain_claimed) }}
+        {{/* ── TECHNICAL DETAILS ────────────────────────────────── */}}
+        {{ if $hasTech }}
         <section class="breach-technical">
             <h2>Technical Details</h2>
             <dl class="breach-details">
-                {{ if .Params.initial_attack_vector }}
+                {{ if $p.initial_attack_vector }}
                 <dt>Initial Attack Vector</dt>
-                <dd>{{ .Params.initial_attack_vector }}</dd>
+                <dd class="breach-vector">{{ $p.initial_attack_vector }}</dd>
                 {{ end }}
-                {{ if .Params.vendor_product }}
-                <dt>Vendor/Product</dt>
-                <dd>{{ .Params.vendor_product }}</dd>
+
+                {{ if $p.vendor_product }}
+                <dt>Vendor / Product</dt>
+                <dd>{{ $p.vendor_product }}</dd>
                 {{ end }}
-                {{ if .Params.software_package }}
+
+                {{ if $p.software_package }}
                 <dt>Software Package</dt>
-                <dd>{{ .Params.software_package }}</dd>
+                <dd><code>{{ $p.software_package }}</code></dd>
                 {{ end }}
-                {{ if .Params.supply_chain_claimed }}
-                <dt>Supply Chain Claimed</dt>
-                <dd>{{ if .Params.supply_chain_claimed }}Yes{{ else }}No{{ end }}</dd>
+
+                {{ if $p.malware }}
+                <dt>Malware Family</dt>
+                <dd class="breach-malware-detail">{{ $p.malware }}</dd>
+                {{ end }}
+
+                {{ if $p.cve }}
+                <dt>CVE / GHSA References</dt>
+                <dd>
+                    {{ range $p.cve }}
+                    {{ $id := . }}
+                    {{ if hasPrefix $id "CVE-" }}
+                    <a class="cve-link" href="https://nvd.nist.gov/vuln/detail/{{ $id }}" target="_blank" rel="noopener">{{ $id }}</a>
+                    {{ else if hasPrefix $id "GHSA-" }}
+                    <a class="cve-link" href="https://github.com/advisories/{{ $id }}" target="_blank" rel="noopener">{{ $id }}</a>
+                    {{ else }}
+                    <span class="cve-link">{{ $id }}</span>
+                    {{ end }}
+                    {{ end }}
+                </dd>
+                {{ end }}
+
+                {{ if $p.supply_chain_claimed }}
+                <dt>Supply Chain Attack</dt>
+                <dd>✅ Confirmed third-party / vendor compromise</dd>
                 {{ end }}
             </dl>
         </section>
         {{ end }}
-    </div>
+
+        {{/* ── TIMELINE ─────────────────────────────────────────── */}}
+        {{ if or $p.date_of_breach $hasTimeline }}
+        <section class="breach-timeline-section">
+            <h2>Timeline</h2>
+            <ol class="breach-timeline">
+                {{ with $p.date_of_breach }}
+                <li class="timeline-event timeline-event--breach">
+                    <span class="timeline-date">{{ . }}</span>
+                    <span class="timeline-label">Breach occurred</span>
+                </li>
+                {{ end }}
+                {{ with $p.date_of_disclosure }}
+                <li class="timeline-event timeline-event--disclosure">
+                    <span class="timeline-date">{{ . }}</span>
+                    <span class="timeline-label">Publicly disclosed</span>
+                </li>
+                {{ end }}
+                {{ with $p.date_of_customer_notification }}
+                <li class="timeline-event timeline-event--notification">
+                    <span class="timeline-date">{{ . }}</span>
+                    <span class="timeline-label">Customers notified</span>
+                </li>
+                {{ end }}
+            </ol>
+        </section>
+        {{ end }}
+
+    </div>{{/* /container */}}
 </article>
 
 {{ if .Site.Params.hacker_imagery }}

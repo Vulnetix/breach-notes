@@ -130,20 +130,6 @@ main {
     color: #00ff00;
 }
 
-.breach-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    margin-bottom: 1rem;
-    font-size: 0.9rem;
-}
-
-.breach-meta span {
-    background: rgba(0, 255, 0, 0.1);
-    padding: 0.25rem 0.5rem;
-    border-radius: 3px;
-}
-
 .breach-source {
     display: inline-block;
     margin-top: 1rem;
@@ -197,8 +183,43 @@ main {
     margin-bottom: 0.5rem;
 }
 
-/* Breach List Styles */
-.breach-section {
+/* ── Breach card header (badges row) ────────────────────────────── */
+.breach-card-header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.6rem 1rem 0;
+}
+
+/* ── Category badges (on cards and detail page) ─────────────────── */
+.breach-category-badge {
+    font-size: 0.7rem;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    background: rgba(0, 255, 0, 0.1);
+    border: 1px solid rgba(0, 255, 0, 0.3);
+    color: #00ff00;
+}
+.breach-category-badge--ransomware  { border-color: rgba(255, 60, 60, 0.5);  color: #ff6060; background: rgba(255,60,60,0.08); }
+.breach-category-badge--data-leak   { border-color: rgba(60, 180, 255, 0.5); color: #3cb4ff; background: rgba(60,180,255,0.08); }
+.breach-category-badge--supply-chain{ border-color: rgba(255, 165, 0, 0.5);  color: #ffa500; background: rgba(255,165,0,0.08); }
+.breach-category-badge--credential-theft { border-color: rgba(255,200,0,0.5); color: #ffc800; background: rgba(255,200,0,0.08); }
+.breach-category-badge--other       { border-color: rgba(160,160,160,0.4);   color: #aaa;    background: rgba(160,160,160,0.08); }
+
+/* ── Generic micro badges ────────────────────────────────────────── */
+.breach-badge {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+}
+.breach-badge--supply { background: rgba(255,165,0,0.12); color: #ffa500; }
+.breach-badge--loss   { background: rgba(255,60,60,0.12);  color: #ff8080; }
+
+
     background: rgba(0, 0, 0, 0.9);
 }
 
@@ -273,13 +294,46 @@ main {
 }
 
 .breach-malware-tag,
-.breach-cve-tag {
-    font-size: 0.75rem;
-    background: rgba(0, 255, 0, 0.1);
-    padding: 0.15rem 0.3rem;
+.breach-cve-tag,
+.breach-vendor-tag,
+.breach-loss-tag,
+.breach-blockchain-tag {
+    font-size: 0.72rem;
+    background: rgba(0, 255, 0, 0.08);
+    border: 1px solid rgba(0,255,0,0.2);
+    padding: 0.12rem 0.35rem;
     border-radius: 3px;
-    text-transform: uppercase;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
 }
+.breach-loss-tag      { color: #ff8080; border-color: rgba(255,60,60,0.3);  background: rgba(255,60,60,0.08); }
+.breach-vendor-tag    { color: #aad4ff; border-color: rgba(100,160,255,0.3); background: rgba(100,160,255,0.06); }
+.breach-blockchain-tag{ color: #ffa500; border-color: rgba(255,165,0,0.3);  background: rgba(255,165,0,0.06); }
+
+/* ── Attack vector line on cards ───────────────────────────────────── */
+.breach-card-vector {
+    padding: 0 1rem 0.4rem;
+    font-size: 0.8rem;
+    color: rgba(0,255,0,0.65);
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    border-left: 2px solid rgba(0,255,0,0.2);
+    margin: 0 1rem 0.5rem;
+    padding: 0.25rem 0.5rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.vector-label {
+    color: rgba(0,255,0,0.4);
+    text-transform: uppercase;
+    font-size: 0.65rem;
+    letter-spacing: 0.05em;
+    margin-right: 0.3rem;
+}
+
 
 .breach-card-excerpt {
     padding: 0 1rem 1rem;
@@ -315,6 +369,158 @@ main {
     font-family: 'Share Tech Mono', 'Courier New', monospace;
     white-space: nowrap;
 }
+
+/* ── Breach detail page: header badges ───────────────────────────────────── */
+.breach-header-top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+/* ── Breach detail page: meta row ────────────────────────────────────────── */
+.breach-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 0.88rem;
+}
+.breach-meta span {
+    background: rgba(0, 255, 0, 0.08);
+    border: 1px solid rgba(0,255,0,0.2);
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+}
+.breach-meta .breach-vendor  { color: #aad4ff; border-color: rgba(100,160,255,0.3); }
+.breach-meta .breach-blockchain { color: #ffa500; border-color: rgba(255,165,0,0.3); }
+.breach-meta .breach-malware { color: #ff8080; border-color: rgba(255,60,60,0.3); }
+.breach-meta .breach-cve     { color: #ffd080; border-color: rgba(255,200,0,0.3); }
+
+/* ── Impact panel ─────────────────────────────────────────────────────────── */
+.breach-impact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+    background: rgba(0,0,0,0.6);
+    border: 1px solid rgba(0,255,0,0.2);
+    border-radius: 6px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+.impact-stat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+.impact-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: rgba(0,255,0,0.5);
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+}
+.impact-value {
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    line-height: 1.1;
+}
+.impact-raw {
+    font-size: 0.72rem;
+    color: #888;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+}
+.impact-stat--loss      .impact-value { color: #ff6060; }
+.impact-stat--recovered .impact-value { color: #60d060; }
+.impact-stat--affected  .impact-value { color: #60b4ff; }
+.impact-stat--blockchain .impact-value { font-size: 1rem; color: #ffa500; margin-top: 0.3rem; }
+
+/* ── CVE links in technical details ─────────────────────────────────────── */
+.cve-link {
+    display: inline-block;
+    margin-right: 0.4rem;
+    margin-bottom: 0.2rem;
+    background: rgba(255,200,0,0.1);
+    border: 1px solid rgba(255,200,0,0.3);
+    color: #ffd080;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.85rem;
+    text-decoration: none;
+}
+.cve-link:hover { background: rgba(255,200,0,0.2); }
+
+/* ── Technical details grid ─────────────────────────────────────────────── */
+.breach-vector { color: rgba(0,255,0,0.8); }
+.breach-malware-detail { color: #ff8080; }
+
+/* ── Timeline section ────────────────────────────────────────────────────── */
+.breach-timeline-section {
+    margin-top: 2rem;
+}
+.breach-timeline-section h2 {
+    color: #00ff00;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #00ff00;
+    padding-bottom: 0.5rem;
+}
+.breach-timeline {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+.breach-timeline::before {
+    content: '';
+    position: absolute;
+    left: 4.5rem;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: rgba(0,255,0,0.25);
+}
+.timeline-event {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 0.6rem 0 0.6rem 0.5rem;
+    position: relative;
+}
+.timeline-event::before {
+    content: '';
+    position: absolute;
+    left: 4.3rem;
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 50%;
+    background: #00ff00;
+    box-shadow: 0 0 6px #00ff00;
+}
+.timeline-date {
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    font-size: 0.85rem;
+    color: #00ff00;
+    min-width: 4rem;
+    text-align: right;
+}
+.timeline-label {
+    font-size: 0.9rem;
+    color: #ccc;
+    padding-left: 1.5rem;
+}
+.timeline-event--breach      .timeline-date { color: #ff6060; }
+.timeline-event--breach::before              { background: #ff6060; box-shadow: 0 0 6px #ff6060; }
+.timeline-event--disclosure  .timeline-date { color: #ffa500; }
+.timeline-event--disclosure::before          { background: #ffa500; box-shadow: 0 0 6px #ffa500; }
+.timeline-event--notification .timeline-date { color: #60d060; }
+.timeline-event--notification::before        { background: #60d060; box-shadow: 0 0 6px #60d060; }
+
+/* ── Homepage stat card variant for loss total ───────────────────────────── */
+.stat-card--loss h3 { color: #ff8080; }
 
 /* Homepage Styles */
 .home-hero {

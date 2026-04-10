@@ -6,30 +6,18 @@
                 {{ .Title }}
                 <span class="section-count">{{ .Paginator.TotalResults }} incidents</span>
             </h1>
-            <p class="section-description">
-                {{ .Description }}
-            </p>
+            <p class="section-description">{{ .Description }}</p>
         </header>
+
+        {{ partial "search-bar.html" . }}
 
         <div class="breach-grid">
             {{ range .Paginator.Pages }}
-            <article class="breach-card">
-                <h2 class="breach-card-title">
-                    <a href="{{ .RelPermalink }}">{{ .Params.source_name }}</a>
-                </h2>
-                <div class="breach-card-meta">
-                    <span class="breach-date">{{ .Params.date_of_breach }}</span>
-                    {{ if .Params.malware }}<span class="breach-malware-tag">{{ .Params.malware }}</span>{{ end }}
-                    {{ if .Params.cve }}<span class="breach-cve-tag">{{ delimit .Params.cve ", " }}</span>{{ end }}
-                </div>
-                <p class="breach-card-excerpt">
-                    {{ .Params.notes | plainify | truncate 200 }}
-                </p>
-                <div class="breach-card-actions">
-                    <a href="{{ .RelPermalink }}" class="breach-card-link">Full details →</a>
-                    {{ with .Params.source_url }}<a href="{{ . }}" class="breach-card-source" target="_blank" rel="noopener">Source ↗</a>{{ end }}
-                </div>
-            </article>
+            {{ $b := .Params }}
+            {{ partial "breach-card.html" (dict
+                "breach"   $b
+                "url"      .RelPermalink
+            ) }}
             {{ end }}
         </div>
 

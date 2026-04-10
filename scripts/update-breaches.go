@@ -359,37 +359,6 @@ func buildREADMEBody(records []record) string {
 		sb.WriteString("\n")
 	}
 
-	// ── Incident Index ────────────────────────────────────────────────────────
-	sb.WriteString("## Incident Index\n\n")
-	sb.WriteString("| File | Category | Breach Date | Malware | CVEs | Financial Loss |\n")
-	sb.WriteString("|------|----------|-------------|---------|------|----------------|\n")
-	for _, r := range records {
-		b := r.breach
-		filename := filepath.Base(r.file)
-		link := fmt.Sprintf("[%s](%s)", filename, r.file)
-
-		// Malware: truncate long strings
-		malware := b.Malware
-		if len(malware) > 30 {
-			malware = malware[:27] + "…"
-		}
-
-		// CVEs: join, truncate
-		cves := strings.Join(b.CVE, ", ")
-		if len(cves) > 40 {
-			cves = cves[:37] + "…"
-		}
-
-		loss := ""
-		if b.FinancialLossUSD > 0 {
-			loss = formatUSD(b.FinancialLossUSD)
-		}
-
-		sb.WriteString(fmt.Sprintf("| %s | %s | %s | %s | %s | %s |\n",
-			link, b.Category, b.DateOfBreach, malware, cves, loss))
-	}
-	sb.WriteString("\n")
-
 	return sb.String()
 }
 

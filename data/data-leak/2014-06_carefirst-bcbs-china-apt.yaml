@@ -1,0 +1,13 @@
+source_name: "CareFirst BlueCross BlueShield Cyberattack — 1.1 Million Members, China APT"
+source_url: "https://individual.carefirst.com/individuals-families/news/carefirst-cyber-attack.page"
+date_of_breach: "2014-06-01"
+date_of_disclosure: "2015-05-20"
+date_of_customer_notification: "2015-05-20"
+category: "data-leak"
+initial_attack_vector: "China-linked nation-state APT (same group attributed to Anthem and Premera breaches) gained access to CareFirst's network approximately eleven months before detection; initial access vector was consistent with spear-phishing used in contemporaneous health insurer breaches"
+cve: []
+vendor_product: "CareFirst BlueCross BlueShield member database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In June 2014, a sophisticated cyberattacker — assessed by Mandiant as the same China-linked group responsible for the Anthem (February 2015) and Premera Blue Cross (March 2015) breaches — compromised CareFirst BlueCross BlueShield's network and accessed a database containing member registration information. CareFirst, which covers approximately 3.4 million members in Maryland, Washington D.C., and Virginia, detected the breach in May 2015 during a proactive IT review prompted by the Anthem and Premera disclosures. Approximately 1.1 million CareFirst members' data was accessed. The exposed data was limited compared to other health insurer breaches: only member usernames, member IDs, first names, last names, email addresses, and dates of birth were accessible — not Social Security numbers, financial data, or medical claims data. CareFirst notified affected members on 20 May 2015 and offered two years of free credit monitoring. The breach was the third in a series of nation-state cyber attacks targeting US health insurance companies in 2014-2015, collectively exposing health-related data for approximately 100 million Americans. The combination of Anthem (78.8M), Premera (11M), Excellus (10.5M), and CareFirst (1.1M) was widely interpreted as a Chinese intelligence-gathering operation collecting health insurance records, potentially to identify government employees with security clearances or to build dossiers on American citizens."

@@ -1,0 +1,13 @@
+source_name: "Community Health Systems Chinese APT Breach — 4.5 Million Patient Records"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2014-04-01"
+date_of_disclosure: "2014-08-18"
+date_of_customer_notification: "2014-08-18"
+category: "data-leak"
+initial_attack_vector: "Advanced persistent threat group (Mandiant/FireEye attributed to China, assessed as APT18/Wekby) used spear-phishing to gain initial access and deployed a customized version of the Mimikatz credential-harvesting tool; attacker moved laterally across CHS's 200+ hospital network"
+cve: []
+vendor_product: "Community Health Systems patient database (206 hospitals in 29 states)"
+software_package: ""
+malware: "Custom Mimikatz variant"
+supply_chain_claimed: false
+notes: "Between April and June 2014, a China-linked APT group (assessed as APT18/Wekby by Mandiant, who CHS hired to investigate) compromised Community Health Systems (CHS) — at the time the second-largest for-profit hospital chain in the United States, operating 206 hospitals across 29 states. The attackers used a customized version of Mimikatz to harvest credentials and move laterally across the hospital network. CHS disclosed the breach on 18 August 2014 in an SEC 8-K filing — one of the earliest major SEC cybersecurity breach disclosures. Approximately 4.5 million patients' data was stolen, including names, Social Security numbers, physical addresses, birthdays, and telephone numbers. Importantly, the stolen data was primarily non-medical contact information rather than clinical records. The attackers' apparent original target was intellectual property related to medical devices and research, consistent with Chinese state-sponsored economic espionage patterns. HHS OCR opened a HIPAA investigation. A $3.8 million class action settlement was approved in 2019. The breach prompted significant discussion about HIPAA breach notification obligations for hospital chains and the adequacy of healthcare network security across large multi-hospital operators."

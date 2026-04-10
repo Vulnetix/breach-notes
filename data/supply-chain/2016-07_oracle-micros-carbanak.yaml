@@ -1,0 +1,13 @@
+source_name: "Oracle MICROS POS System Breach — 330,000 Payment Terminals at Risk"
+source_url: "https://krebsonsecurity.com/2016/08/krebs-oracle-investigating-breach-of-its-micros-point-of-sale-division/"
+date_of_breach: "2016-07-01"
+date_of_disclosure: "2016-08-08"
+date_of_customer_notification: "2016-08-08"
+category: "supply-chain"
+initial_attack_vector: "Carbanak/Anunak criminal group (Russian cybercriminal gang responsible for banking malware attacks) breached Oracle's MICROS customer support portal by installing malware on Oracle systems; the attacker gained access to the MICROS support portal used to service restaurant, hotel, and retail POS systems globally"
+cve: []
+vendor_product: "Oracle MICROS customer support portal"
+software_package: ""
+malware: "Carbanak malware"
+supply_chain_claimed: true
+notes: "In mid-2016, the Carbanak/Anunak cybercriminal gang — responsible for stealing over $1 billion from banks globally through sophisticated malware campaigns — breached Oracle's MICROS point-of-sale division. MICROS is the world's largest provider of POS systems to the hospitality industry, with approximately 330,000 customer sites in 180 countries including major hotels, restaurants, and retailers. The attackers installed malware on Oracle corporate systems and gained access to the MICROS customer support portal. The breach was disclosed by KrebsOnSecurity on 8 August 2016 after Oracle sent breach notifications to customers. Oracle confirmed the breach but downplayed its scope, stating that the Oracle corporate network and other Oracle cloud and service offerings were not impacted. Security experts were concerned because the customer support portal could have given attackers access to remote access credentials and tools used to support client POS systems — potentially enabling downstream compromise of hundreds of thousands of payment terminals at restaurants, hotels, and retailers worldwide. Oracle reset customer passwords for the MICROS portal as a precaution. The full downstream impact was never definitively established, but the breach represented a significant supply chain risk given MICROS's dominant position in hospitality POS systems."

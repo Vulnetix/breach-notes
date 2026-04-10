@@ -1,0 +1,13 @@
+source_name: "GoDaddy Managed WordPress Hosting Breach — 1.2 Million Customers"
+source_url: "https://www.sec.gov/Archives/edgar/data/1609711/000160971121000059/exhibit991november2021notif.htm"
+date_of_breach: "2021-09-06"
+date_of_disclosure: "2021-11-22"
+date_of_customer_notification: "2021-11-22"
+category: "data-leak"
+initial_attack_vector: "An unauthorized third party used a compromised password to gain access to GoDaddy's Managed WordPress hosting environment's provisioning system in their legacy codebase"
+cve: []
+vendor_product: "GoDaddy Managed WordPress hosting infrastructure"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 6 September 2021, an unauthorized actor used a compromised password to access GoDaddy's Managed WordPress hosting provisioning system. GoDaddy is the world's largest domain registrar and web hosting company, serving over 20 million customers globally. The breach affected approximately 1.2 million active and inactive Managed WordPress customers. Exposed data included: email addresses and customer numbers for 1.2 million customers; original WordPress admin passwords (which were reset); sFTP and database usernames and passwords (also reset); SSL private keys for a subset of active customers (reissued). GoDaddy discovered the breach on 17 November 2021 — over two months after initial access on 6 September — and disclosed it on 22 November 2021 in an SEC filing. The breach was GoDaddy's fourth known security incident in two years (following breaches in 2019, 2020, and March 2020 when 28,000 customers' hosting accounts were accessed). In a 2023 SEC filing, GoDaddy revealed that the November 2021 breach was connected to a multi-year campaign by a sophisticated threat actor group: the same attackers had previously breached GoDaddy in March 2020 and again in 2022, and had installed malware on GoDaddy's servers to redirect customer websites. GoDaddy stated in 2023 that it believed the attacker's ultimate goal was to infect customer websites with malware for phishing campaigns."

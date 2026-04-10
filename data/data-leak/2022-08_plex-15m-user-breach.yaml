@@ -1,0 +1,13 @@
+source_name: "Plex Media Server Data Breach — 15 Million User Accounts"
+source_url: "https://www.plex.tv/media-server-downloads/plex-data-breach-faq/"
+date_of_breach: "2022-08-23"
+date_of_disclosure: "2022-08-24"
+date_of_customer_notification: "2022-08-24"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to a Plex database; attacker used unknown means to access the Plex database containing user account information; the breach was disclosed the day after discovery"
+cve: []
+vendor_product: "Plex Media Server user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 23 August 2022, Plex — a media management and streaming platform with approximately 30 million registered users — discovered that an attacker had accessed a subset of their database including usernames, email addresses, and hashed passwords for approximately 15 million user accounts. Plex disclosed the breach on 24 August 2022 and required all users to reset their passwords. The passwords were hashed but Plex required precautionary resets for all accounts. The timing of the Plex breach had particular resonance in the security community: the LastPass second-stage breach (December 2022) was enabled by malware that exploited a vulnerability in Plex Media Server (CVE-2023-15955) on a LastPass DevOps engineer's home computer — the same Plex that had been breached months earlier. This created an indirect link between the Plex breach (which may have prompted the engineer not to update Plex) and the subsequent LastPass vault theft. Plex required users to reset their passwords and sign out all devices. The breach highlighted the risk of personal media server applications being both breach targets and potential vectors for further downstream compromise."

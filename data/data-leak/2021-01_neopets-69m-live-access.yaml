@@ -1,0 +1,13 @@
+source_name: "Neopets Breach — 69 Million User Accounts, Live Database Access Sold"
+source_url: "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-69-million-records-from-neopets-database/"
+date_of_breach: "2021-01-01"
+date_of_disclosure: "2022-07-20"
+date_of_customer_notification: "2022-07-20"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained persistent access to Neopets' databases; the attacker allegedly had access for approximately 18 months before the breach was publicly discovered; the attacker offered both the stolen data and continued live read/write access to Neopets' databases for sale"
+cve: []
+vendor_product: "Neopets user database and game systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 20 July 2022, a threat actor posted on BreachForums offering to sell 69 million Neopets user records and — uniquely — live access to Neopets' database (with read and write capabilities) for 4 Bitcoin ($90,000). Neopets is a virtual pet website popular since the late 1990s, owned since 2014 by JumpStart Games (which was acquired by Chinese company NetDragon in 2017). The stolen data included usernames, names, email addresses, dates of birth, gender, country, IP addresses, and hashed passwords (SHA-1 MD5 without salting for many accounts). The attacker allegedly had persistent database access since approximately January 2021. Neopets confirmed the breach on 21 July 2022 and took several steps to investigate and secure the platform. The breach was particularly notable for: the offer of live database read/write access (rare in breach sales), the potential for the attacker to manipulate game data for any user, the 18-month undetected dwell time, and the fact that Neopets' user base includes many children (raising child privacy concerns). The data was later shared freely online. The SHA-1 password hashing made the credentials highly susceptible to cracking. Many Neopets users had accounts from childhood (the site launched in 1999) with old email addresses and reused passwords, creating widespread credential stuffing risk."

@@ -1,0 +1,13 @@
+source_name: "Ferrari Data Breach Ransom Demand — Customer PII, No Operational Impact"
+source_url: "https://www.ferrari.com/en-EN/corporate/articles/information-security-incident-march-2023"
+date_of_breach: "2023-03-01"
+date_of_disclosure: "2023-03-20"
+date_of_customer_notification: "2023-03-20"
+category: "data-leak"
+initial_attack_vector: "Unknown ransomware/extortion group gained access to Ferrari's IT systems and exfiltrated customer data; Ferrari stated it received a ransom demand from the attackers but chose not to pay; Ferrari did not disclose the specific technical attack vector"
+cve: []
+vendor_product: "Ferrari N.V. customer data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2023, Ferrari N.V. disclosed that it had received a ransom demand from a threat actor following unauthorized access to some of its IT systems. Ferrari detected the breach and immediately reported it to relevant authorities and began an investigation with a leading global third-party cybersecurity firm. Ferrari refused to pay the ransom, stating that paying ransom funds criminal activity and does not guarantee customer data security. Customer data exposed included names, addresses, email addresses, and telephone numbers. Ferrari stated that no payment details, bank account numbers, or other sensitive payment or financial information had been affected, and the breach did not appear to impact vehicle functionality or operations. Ferrari notified approximately 7,000 clients whose data was potentially impacted. Ferrari sent direct notifications to affected customers on 20 March 2023. The attack was notable for targeting one of the world's most prestigious luxury automotive brands, though the breach scope was relatively contained. In 2022, Ferrari was also listed by RansomEXX as a victim after 7GB of its data appeared on RansomEXX's dark web site — Ferrari denied being hacked at the time, but security researchers noted the data appeared authentic."

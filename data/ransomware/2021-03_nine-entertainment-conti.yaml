@@ -1,0 +1,13 @@
+source_name: "Nine Entertainment Conti Ransomware — Australian Media Company, Sunday Telegraph Offline"
+source_url: "https://www.smh.com.au/business/companies/nine-hit-by-cyber-attack-forcing-tv-shows-off-air-20210328-p57f0n.html"
+date_of_breach: "2021-03-28"
+date_of_disclosure: "2021-03-28"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Conti ransomware group attacked Nine Entertainment via unknown initial access vector; the attack encrypted systems across Nine's network including broadcast and production systems"
+cve: []
+vendor_product: "Nine Entertainment Company IT and broadcast systems"
+software_package: ""
+malware: "Conti ransomware"
+supply_chain_claimed: false
+notes: "On 28 March 2021, Nine Entertainment — Australia's largest media and entertainment company, operating the Nine Network (free-to-air TV), The Sydney Morning Herald, The Age, The Australian Financial Review, and radio stations — was hit by a Conti ransomware attack. The attack disrupted live television broadcasts and radio services, with The Today Show and Weekend Today unable to broadcast from Sydney. Newspaper printing was also affected, with some staff having to work remotely. Nine's corporate email systems were taken offline. Nine detected the attack in the early hours of Sunday 28 March 2021 and immediately notified authorities including the Australian Cyber Security Centre (ACSC) and Australian Federal Police. The attack was characterised as sophisticated and deliberate. Nine's response was coordinated with the ACSC and it continued broadcasting using contingency plans. The Australian Government's Deputy Secretary for Home Affairs confirmed Nine had been attacked and that the ACSC was working with them. Notably, the attack occurred on the same day that the Australian Parliament's networks were experiencing disruptions — though no connection was established between the two incidents. Nine Entertainment recovered operations over the following days. The incident demonstrated that media organisations — which operate under significant time pressure with live broadcasts — are attractive and impactful ransomware targets."

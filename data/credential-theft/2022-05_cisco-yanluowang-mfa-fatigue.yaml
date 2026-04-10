@@ -1,0 +1,13 @@
+source_name: "Cisco Yanluowang Ransomware Attack — Employee Google Account and VPN Breach"
+source_url: "https://blog.cisco.com/security/cisco-security-incident-response"
+date_of_breach: "2022-05-24"
+date_of_disclosure: "2022-08-10"
+date_of_customer_notification: ""
+category: "credential-theft"
+initial_attack_vector: "Yanluowang ransomware affiliate gained access to a Cisco employee's personal Google Chrome profile that had Cisco VPN credentials saved; the employee's personal Google account was compromised, exposing the saved credentials; the attacker then conducted extensive MFA push fatigue attacks and vishing calls impersonating Cisco IT support to convince the employee to approve MFA push notifications"
+cve: []
+vendor_product: "Cisco corporate network / VPN"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 24 May 2022, a Yanluowang ransomware affiliate (linked to UNC2447/Lapsus$ connections) compromised Cisco Systems through a combination of credential theft from a personal Google account and MFA push fatigue. The attacker gained access to a Cisco employee's personal Google Chrome browser which had VPN credentials saved and synced to the Google account. The personal Google account was compromised by the attacker. The attacker then conducted weeks of vishing calls pretending to be from Cisco, Verizon, and other trusted organizations, pressuring the employee to accept MFA push notifications. Once VPN access was obtained, the attacker escalated to Citrix, moved to Domain Controllers, and eventually gained Tier-0 access to the Cisco network. Cisco detected and responded to the attack on 24 May 2022. The attacker published a list of 2.8GB of data they claimed to have exfiltrated from Cisco. Cisco stated no customer data, sensitive government information, or employee financial/HR data was accessed. The attacker also briefly deployed ransomware which Cisco blocked. Yanluowang has since been partially disabled (its encryption capabilities were found to be flawed). Cisco published a detailed threat intelligence report on the incident. The breach demonstrated sophisticated social engineering capabilities and the risk of credential synchronisation between personal and corporate browser profiles."

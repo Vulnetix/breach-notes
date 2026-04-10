@@ -1,0 +1,13 @@
+source_name: "Luxottica EyeCare Data Breach — 70 Million Customer Records"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2021-03-16"
+date_of_disclosure: "2021-11-13"
+date_of_customer_notification: "2021-11-13"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained unauthorized access to a Luxottica partner application used for managing eye care appointments; the application stored scheduling and patient data for EyeMed Vision Care and Lenscrafters patients"
+cve: []
+vendor_product: "Luxottica partner appointment scheduling application"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2021, an unauthorized actor gained access to a Luxottica partner appointment scheduling application that contained patient data for customers of Luxottica's vision care brands — particularly EyeMed Vision Care and LensCrafters (both Luxottica subsidiaries). Approximately 70 million individuals' data was exposed. The breach was disclosed to HHS OCR in November 2021 by EyeMed Vision Care for its portion of the breach. Additionally, LensCrafters filed a separate notification. The exposed data included names, addresses, phone numbers, email addresses, dates of birth, appointment dates, eye care insurance information, health plan membership and ID numbers, diagnostic and treatment information, and Social Security numbers for some individuals. EyeMed is the US's second-largest managed vision care company. HHS OCR opened investigations into both EyeMed and LensCrafters. EyeMed agreed to pay $2.5 million to the New York Department of Financial Services in 2021 for a separate prior data security incident (a 2020 phishing breach). Luxottica is the world's largest eyewear company, manufacturing and retailing Ray-Ban, Oakley, LensCrafters, Pearle Vision, Sunglass Hut, and many other brands. The breach affected one of the largest optometry patient databases in the US."

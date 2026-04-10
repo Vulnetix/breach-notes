@@ -1,0 +1,13 @@
+source_name: "Sally Beauty POS Breach — 25,000 Payment Cards (Second Breach)"
+source_url: "https://krebsonsecurity.com/2015/05/banks-card-breach-at-sally-beauty/"
+date_of_breach: "2015-03-01"
+date_of_disclosure: "2015-05-18"
+date_of_customer_notification: "2015-05-18"
+category: "data-leak"
+initial_attack_vector: "POS malware — attackers installed RAM-scraping malware on Sally Beauty point-of-sale systems to capture payment card track data at checkout; similar attack methodology to the retailer's first breach in 2014"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "POS RAM-scraping malware"
+supply_chain_claimed: false
+notes: "In May 2015, Sally Beauty Holdings disclosed its second payment card breach in approximately one year. The beauty supply retailer discovered unauthorized access to payment card data from its point-of-sale systems at certain store locations. Approximately 25,000 customer payment card records were compromised. Fraud researchers at KrebsOnSecurity reported in May 2015 that a batch of stolen cards, dubbed 'Belladonna' by underground card shops, had been traced back to Sally Beauty customers. The company confirmed it was investigating POS malware at stores. Sally Beauty's first breach (disclosed March 2014) had also involved POS malware and approximately 282,000 cards. The recurrence of a similar attack suggested persistent vulnerabilities in the company's POS security posture. Sally Beauty hired a forensics firm to investigate, notified affected customers, and issued replacement cards in coordination with card issuers."

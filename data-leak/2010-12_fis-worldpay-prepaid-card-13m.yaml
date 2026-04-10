@@ -1,0 +1,13 @@
+source_name: "FIS / Worldpay Prepaid Card Processor Breach — 13 Million Cards"
+source_url: "https://krebsonsecurity.com/2010/03/13-million-cards-breached-at-processor/"
+date_of_breach: "2009-10-01"
+date_of_disclosure: "2010-03-09"
+date_of_customer_notification: "2010-03-09"
+category: "data-leak"
+initial_attack_vector: "Network intrusion targeting RBS WorldPay's payment processing platform; attackers gained access to the card processing environment and stole encrypted payment card data along with the encryption keys, enabling them to decode and clone magnetic stripe data for prepaid payroll cards"
+cve: []
+vendor_product: "RBS WorldPay (payment processor)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late 2008 through early 2009 (with disclosure occurring in late 2009 and broader reporting in 2010), RBS WorldPay (a payment processing subsidiary of the Royal Bank of Scotland operating in the US) suffered one of the most sophisticated payment card attacks to date. Attackers penetrated the network and not only stole encrypted payment card data but also compromised the encryption itself — obtaining the keys needed to decode the data. This enabled the creation of cloned prepaid payroll debit cards. In a coordinated 'cashout' operation on November 8, 2008, the attackers deployed a network of approximately 130 people (money mules) across 49 cities in multiple countries who simultaneously used the cloned cards at ATMs, withdrawing approximately $9.5 million in under 12 hours — one of the largest and most coordinated ATM fraud operations on record. Approximately 1.5 million prepaid card numbers were used in the fraud, out of a total estimated 13 million potentially compromised cards in the breach. Four individuals — three Estonian nationals and one Russian national — were indicted in the U.S. in 2009. Note: 'RBS WorldPay' is distinct from FIS's later acquisition of Worldpay (completed 2019); this incident predates the FIS acquisition and involved the Royal Bank of Scotland's WorldPay subsidiary."

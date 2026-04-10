@@ -1,0 +1,13 @@
+source_name: "Socialarks Elasticsearch Exposure — 214 Million Social Media Profiles Scraped"
+source_url: "https://www.vpnmentor.com/blog/report-socialarks-leak/"
+date_of_breach: "2021-01-01"
+date_of_disclosure: "2021-01-11"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Socialarks — a Chinese social media management company — left an Elasticsearch database exposed publicly without authentication; the database contained scraped and aggregated social media profile data collected by Socialarks from LinkedIn, Facebook, Instagram, and other platforms"
+cve: []
+vendor_product: "Socialarks Elasticsearch database"
+software_package: "Elasticsearch"
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2021, security researchers at vpnMentor discovered a publicly accessible Elasticsearch database belonging to Socialarks — a Chinese social media management company that offers social media marketing and customer relationship management services. The database contained approximately 408GB of data comprising approximately 214 million social media user profiles scraped from Facebook (11.5M profiles), Instagram (8.4M profiles), and LinkedIn (66.8M profiles). The scraped LinkedIn data included real names, email addresses, phone numbers, locations, job titles, work history, education history, and social media connections. Facebook data included private contact details not normally publicly available including personal phone numbers. The data appeared to have been scraped in violation of the platforms' terms of service. LinkedIn and Facebook had both been previous targets of large-scale scraping. vpnMentor researchers found that Socialarks CEO Nolist Chen's personal information was included in the dataset. Socialarks secured the database after notification. The exposure included profiles of high-profile executives including Facebook CEO Mark Zuckerberg, LinkedIn CEO Ryan Roslansky, and various politicians. The breach raised questions about data brokerage practices and the legality of large-scale social media scraping, particularly given GDPR and similar data protection obligations."

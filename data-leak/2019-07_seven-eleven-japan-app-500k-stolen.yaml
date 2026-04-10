@@ -1,0 +1,13 @@
+source_name: "7-Eleven Japan Mobile App Flaw — $500K Stolen from Customers"
+source_url: "https://www.zdnet.com/article/7-eleven-japan-pulls-payment-app-after-customers-lose-55-million-yen/"
+date_of_breach: "2019-07-01"
+date_of_disclosure: "2019-07-04"
+date_of_customer_notification: "2019-07-04"
+category: "data-leak"
+initial_attack_vector: "Application vulnerability — the 7pay app (7-Eleven Japan's new mobile payment application) had a flawed password reset mechanism that allowed attackers to reset any account's password by supplying only the account holder's email address, date of birth, and phone number; a design flaw also allowed password reset links to be sent to a third-party email address"
+cve: []
+vendor_product: "7pay mobile app (Seven & i Holdings)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On July 1, 2019, the day the 7pay mobile payment app launched in Japan, criminals immediately began exploiting a critical vulnerability in the app's password reset mechanism. The reset flow allowed attackers to redirect password reset emails to an attacker-controlled address rather than the registered account email, by simply knowing the victim's email address, date of birth, and phone number — information often available from other breaches or social media. Attackers then used unauthorized access to top up the 7pay balance using stolen credit or debit cards, then purchased goods in-store. Within three days approximately 900 accounts had been compromised and approximately 55 million yen (approximately $500,000 USD) was stolen. Seven & i Holdings suspended new user registrations and the ability to add money to the app on July 3, and shut down the entire 7pay service on July 4 — just four days after launch. The vulnerability reflected a fundamental design flaw rather than a runtime exploit: security was apparently not considered during the app's design. The incident prompted widespread criticism in Japan of Seven & i Holdings' security practices and became a cautionary tale about the risks of rushed fintech launches without adequate security review."

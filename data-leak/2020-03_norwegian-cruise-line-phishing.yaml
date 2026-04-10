@@ -1,0 +1,13 @@
+source_name: "Norwegian Cruise Line Holdings Data Breach — Employee Phishing Attack"
+source_url: "https://www.securityweek.com/norwegian-cruise-line-discloses-data-breach/"
+date_of_breach: "2020-03-01"
+date_of_disclosure: "2020-07-27"
+date_of_customer_notification: "2020-07-27"
+category: "data-leak"
+initial_attack_vector: "Phishing — employees of Norwegian Cruise Line Holdings were targeted with phishing emails that resulted in unauthorized access to employee email accounts; attackers then accessed personal data of employees, travel agents, and some customers stored in those accounts"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Norwegian Cruise Line Holdings (NCLH), parent company of Norwegian Cruise Line, Regent Seven Seas Cruises, and Oceania Cruises, disclosed in July 2020 that it had suffered a data breach resulting from a phishing attack targeting company employees in March 2020. The incident occurred at the same time the cruise industry was forced to suspend all operations due to the COVID-19 pandemic. Unauthorized access to employee email accounts resulted in potential exposure of personal data including names, Social Security numbers, dates of birth, passport information, health-related information, and financial account information for employees, travel agency partners, and some customers. The scope varied by individual — not all exposed individuals had all data types compromised. NCLH notified affected individuals directly and offered credit monitoring services. The company was simultaneously dealing with the catastrophic operational shutdown of all three cruise brands due to COVID-19, making this one of several crises management had to navigate simultaneously in 2020."

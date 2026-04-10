@@ -1,0 +1,13 @@
+source_name: "Advocate Health Care Data Breach — 4 Million Patients, Stolen Laptops"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2013-07-15"
+date_of_disclosure: "2013-08-23"
+date_of_customer_notification: "2013-08-23"
+category: "data-leak"
+initial_attack_vector: "Four unencrypted laptops were stolen from an Advocate Medical Group administrative office in Park Ridge, Illinois; the laptops contained patient data for approximately 4 million patients and were not encrypted despite Advocate's data security policies"
+cve: []
+vendor_product: "Advocate Medical Group unencrypted laptops"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 15 July 2013, four unencrypted laptops were stolen from an administrative office of Advocate Medical Group — the largest physician practice group in Illinois, associated with Advocate Health Care. The laptops contained personal data for approximately 4 million patients, making it the largest HIPAA breach caused by physical theft of devices at that time. Exposed data included patient names, addresses, dates of birth, Social Security numbers, medical record numbers, health plan information, and clinical information. Advocate reported the breach to HHS OCR on 23 August 2013 and began notifying affected patients. HHS OCR investigated and found multiple HIPAA violations, including failure to conduct a comprehensive risk analysis, failure to implement policies for physical workstation security, and failure to encrypt data on portable devices. In 2016, Advocate agreed to pay $5.55 million to settle the HHS OCR investigation — at the time the largest HIPAA settlement ever. A class-action lawsuit was also filed. The breach highlighted the persistent problem of unencrypted devices in healthcare despite years of HIPAA guidance mandating encryption or equivalent protection. The case became a landmark in healthcare cybersecurity enforcement."

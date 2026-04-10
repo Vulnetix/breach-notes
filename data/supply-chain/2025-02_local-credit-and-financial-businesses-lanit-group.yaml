@@ -1,16 +1,16 @@
 source_name: Local credit and financial businesses Third-Party Breach (February 2025)
-source_url: https://therecord.media/lanit-russia-government-contractor-potential-compromise
-date_of_breach: '2025-02-01'
-date_of_disclosure: '2025-02-01'
-date_of_customer_notification: ''
+source_url: "https://therecord.media/lanit-russia-government-contractor-potential-compromise"
+date_of_breach: 2025-02-01
+date_of_disclosure: 2025-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: LANIT Group
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Local credit and financial
-  businesses. Data breached: Specific personal or corporate data compromised has not
-  been disclosed.. Use of third party: Banking, payment and ATM software provider.
-  Third-party company: LANIT Group.'
+notes: |-
+  In 2025, Local credit and financial businesses experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was LANIT Group. Source reporting:
+  https://therecord.media/lanit-russia-government-contractor-potential-compromise

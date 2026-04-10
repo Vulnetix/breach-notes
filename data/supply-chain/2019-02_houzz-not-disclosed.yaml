@@ -1,16 +1,13 @@
-source_name: Houzz Third-Party Breach (February 2019)
-source_url: https://www.consumeraffairs.com/news/facebooks-latest-data-breach-exposed-more-than-540-million-user-records-040419.html
-date_of_breach: '2019-02-01'
+source_name: Houzz Data Breach — ~49 Million Users (2018–2019)
+source_url: https://techcrunch.com/2019/01/31/houzz-data-breach/
+date_of_breach: '2018-05-23'
 date_of_disclosure: '2019-02-01'
-date_of_customer_notification: ''
+date_of_customer_notification: '2019-02-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unauthorised access to Houzz user database; third-party attacker obtained user account data including hashed passwords
 cve: []
-vendor_product: not disclosed
+vendor_product: Houzz
 software_package: ''
 malware: ''
-supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Houzz. Data breached: user
-  names, salted and hashed passwords, IP addresses and, for users who logged into
-  Houzz using Facebook, their Facebook IDs. Use of third party: not disclosed. Third-party
-  company: not disclosed.'
+supply_chain_claimed: false
+notes: "Houzz is a leading home design and renovation platform with tens of millions of registered users worldwide. In early 2019, the company disclosed that it had suffered a significant data breach that exposed account information for a large portion of its user base. The breach occurred on or around May 23, 2018, though notification to affected users did not occur until February 2019 — a gap of approximately eight months.\n\nThe breach exposed user account data including usernames, hashed and salted passwords, IP addresses, city and geographic data, and publicly visible profile information such as name, profile descriptions, and city/state/country fields. For users who had authenticated via Facebook login (OAuth), Facebook user IDs were also exposed. The breach did not expose payment card data, as Houzz processes payments through a third-party provider.\n\nHave I Been Pwned indexed approximately 49 million unique email addresses from the breach, making it one of the larger consumer platform compromises of 2019. Some sources cited 57 million affected records, likely reflecting non-unique or account-level counts.\n\nHouzz notified users by email, prompted password resets, and engaged a leading forensics firm to assist with containment and investigation. The company stated it had taken immediate steps to stop the attack and secure its systems.\n\nThe source URL in the original stub referenced a Facebook/Cambridge Analytica article, which was incorrect — this is a distinct Houzz-specific incident. The correct sourcing is TechCrunch's January 31, 2019 report and Houzz's own disclosure.\n\nWhile the stub categorised this as a supply-chain incident, the breach was a direct intrusion into Houzz's own systems, not a compromise via a third-party vendor. The supply_chain_claimed field has been set to false accordingly. The incident is included in this dataset because of its scale and its relevance as a platform serving contractors, designers, and home renovation professionals — a population with significant overlap with business and professional users."

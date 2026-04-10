@@ -1,18 +1,16 @@
 source_name: OpenAI Third-Party Breach (November 2025)
-source_url: https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/
-date_of_breach: '2025-11-01'
-date_of_disclosure: '2025-11-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/"
+date_of_breach: 2025-11-01
+date_of_disclosure: 2025-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Mixpanel
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for OpenAI. Data breached: Includes
-  name that was provided to us on the API account, email address associated with the
-  API account, approximate coarse location based on API user browser (city, state,
-  country), operating system and browser used to access the API account, referring
-  websites, organization or User IDs associated with the API account.. Use of third
-  party: Product Analytics SaaS provider. Third-party company: Mixpanel.'
+notes: |-
+  In 2025, OpenAI experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Mixpanel. Source reporting:
+  https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/

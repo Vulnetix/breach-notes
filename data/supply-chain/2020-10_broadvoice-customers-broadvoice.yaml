@@ -1,15 +1,53 @@
-source_name: Broadvoice Customers Third-Party Breach (October 2020)
-source_url: https://threatpost.com/broadvoice-leaks-350m-records-voicemail-transcripts/160158/
-date_of_breach: '2020-10-01'
+source_name: Broadvoice VoIP Data Exposure (October 2020)
+source_url: https://www.comparitech.com/blog/vpn-privacy/350-million-customer-records-exposed-online/
+date_of_breach: '2020-09-28'
 date_of_disclosure: '2020-10-01'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Misconfigured Elasticsearch cluster left publicly accessible without authentication
 cve: []
 vendor_product: Broadvoice
 software_package: ''
 malware: ''
-supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Broadvoice Customers. Data
-  breached: Names,. Use of third party: VoIP service provider. Third-party company:
-  Broadvoice.'
+supply_chain_claimed: false
+notes: 'Broadvoice, a VoIP (Voice over IP) service provider serving small and medium-sized
+  businesses across the United States, inadvertently exposed a massive Elasticsearch
+  cluster containing over 350 million customer records. The cluster was indexed by
+  the Shodan.io search engine on October 1, 2020, the same day security researcher
+  Bob Diachenko (working on behalf of Comparitech) discovered it. Broadvoice confirmed
+  the data had been publicly accessible since September 28, 2020. After being notified
+  on October 1, the company secured the database the following day.
+
+
+  The unprotected cluster consisted of ten data collections totalling more than 350
+  million records. The largest single collection held 275 million records containing
+  caller names, phone numbers, and caller locations. A separate collection contained
+  over two million voicemail records, of which approximately 200,000 had been transcribed
+  into text — these transcripts included highly sensitive content such as discussions
+  of financial loans, medical prescriptions, and personal matters. Because Broadvoice
+  offers a unified communications platform with voicemail-to-text transcription services,
+  these audio-derived records carried particularly rich personal detail.
+
+
+  The exposed data included: caller and recipient names, phone numbers, geographic
+  locations, caller device identifiers, call metadata, and transcribed voicemail content
+  referencing health information and financial matters. The presence of health-related
+  voicemail transcripts raised HIPAA concerns, as some of Broadvoice''s business customers
+  operate in regulated healthcare-adjacent sectors.
+
+
+  This incident is classified as an inadvertent exposure rather than an active intrusion.
+  No CVEs are applicable — the root cause was a misconfiguration of the Elasticsearch
+  cluster, which lacked any access controls or authentication. This is a recurring
+  pattern across cloud-hosted NoSQL databases (Elasticsearch, MongoDB, CouchDB) where
+  default open configurations are deployed without hardening.
+
+
+  Because Broadvoice provides communications infrastructure to businesses rather than
+  directly to consumers, the downstream impact extends across the entire customer base
+  of those businesses — meaning the true number of individuals whose data was exposed
+  is difficult to quantify precisely. The incident drew significant attention due to
+  the voicemail transcript exposure, which went well beyond typical metadata breaches.
+  Broadvoice did not publicly disclose how many individual customers or end-users were
+  ultimately affected, nor whether it notified downstream business clients or their
+  end users.'

@@ -1,15 +1,16 @@
 source_name: Upstate Family Health Center, Inc. Third-Party Breach (January 2024)
-source_url: https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/#google_vignette
-date_of_breach: '2024-01-01'
-date_of_disclosure: '2024-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/#google_vignette"
+date_of_breach: 2024-01-01
+date_of_disclosure: 2024-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: HealthEC LLC
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Upstate Family Health Center,
-  Inc.. Data breached: Name. Use of third party: Healthcare Provider. Third-party
-  company: HealthEC LLC.'
+notes: |-
+  In 2024, Upstate Family Health Center, Inc. experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was HealthEC LLC. Source reporting:
+  https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/#google_vignette

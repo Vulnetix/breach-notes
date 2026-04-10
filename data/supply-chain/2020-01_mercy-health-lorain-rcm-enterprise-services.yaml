@@ -1,15 +1,19 @@
-source_name: Mercy Health Lorain Third-Party Breach (January 2020)
-source_url: https://www.beckershospitalreview.com/cybersecurity/mercy-health-warns-patients-of-data-breach-at-rcm-vendor.html
-date_of_breach: '2020-01-01'
-date_of_disclosure: '2020-01-01'
-date_of_customer_notification: ''
+source_name: Mercy Health Lorain / RCM Enterprise Services Invoice Mailing Error (2019–2020)
+source_url: https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/mercy-health-warns-patients-of-data-breach-at-rcm-vendor/
+date_of_breach: '2019-08-14'
+date_of_disclosure: '2020-01-07'
+date_of_customer_notification: '2020-01-07'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Third-party vendor process failure — billing vendor inadvertently printed patient Social Security numbers on mailed invoices
 cve: []
 vendor_product: RCM Enterprise Services
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Mercy Health Lorain. Data
-  breached: Names, street addresses and Social Security numbers. Use of third party:
-  Revenue cycle management vendor. Third-party company: RCM Enterprise Services.'
+notes: 'Between August 14 and October 16, 2019, RCM Enterprise Services — a revenue cycle management (billing) vendor for Mercy Health Lorain Hospital in Ohio — inadvertently included patient Social Security numbers on mailed invoices. Standard invoices are designed to carry only names, street addresses, cities, states, and zip codes, but a process error caused SSNs to be printed and physically mailed to patients. The error was internally discovered by RCM Enterprise Services and reported to Mercy Health in November 2019.
+
+  Mercy Health Lorain notified affected patients and made public disclosure around January 7, 2020. Affected data included names, street addresses, and Social Security numbers — information sufficient to enable identity theft and financial fraud. RCM Enterprise Services offered complimentary credit and identity monitoring services to impacted individuals, and patients were advised to review financial statements and credit reports for suspicious activity. No evidence emerged that any exposed SSNs were subsequently misused.
+
+  This is a vendor process control failure rather than a cyberattack. The risk arose from inadequate quality assurance in the billing vendor''s document generation and mailing pipeline. Under HIPAA, RCM Enterprise Services was a covered business associate of Mercy Health, placing the hospital under regulatory obligation to ensure the vendor maintained appropriate data safeguards. The incident highlights the importance of data minimization in billing workflows — specifically, ensuring that SSNs are not included in patient-facing documents unless strictly required — and the need for pre-production testing and review of vendor-generated correspondence.
+
+  Mercy Health Lorain is part of Bon Secours Mercy Health, one of the largest Catholic health systems in the United States. The incident received coverage as a HIPAA breach notification by databreaches.net and CalHIPAA, both categorizing it as a mailing error. The Cleveland19 news station also covered it locally as a patient data breach investigation.'

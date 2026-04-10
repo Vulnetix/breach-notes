@@ -1,15 +1,16 @@
 source_name: Meritas Health Corporation Third-Party Breach (January 2024)
-source_url: https://resources.blackkite.com/data-breaches-caused-by-third-parties/
-date_of_breach: '2024-01-01'
-date_of_disclosure: '2024-01-01'
-date_of_customer_notification: ''
+source_url: "https://resources.blackkite.com/data-breaches-caused-by-third-parties/"
+date_of_breach: 2024-01-01
+date_of_disclosure: 2024-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: Perry Johnson & Associates, Inc., (PJ&A)
-software_package: ''
-malware: ''
+vendor_product: "Perry Johnson & Associates, Inc., (PJ&A)"
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Meritas Health Corporation.
-  Data breached: Not disclosed. Use of third party: Health insurance and healthcare
-  provider. Third-party company: Perry Johnson & Associates, Inc., (PJ&A).'
+notes: |-
+  In 2024, Meritas Health Corporation experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Perry Johnson & Associates, Inc., (PJ&A). Source
+  reporting: https://resources.blackkite.com/data-breaches-caused-by-third-parties/

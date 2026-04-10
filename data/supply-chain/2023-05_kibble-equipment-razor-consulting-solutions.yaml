@@ -1,15 +1,16 @@
 source_name: Kibble Equipment Third-Party Breach (May 2023)
-source_url: https://www.turkestrauss.com/2023/04/12/kibble-equipment-data-breach-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=kibble-equipment-data-breach-investigation
-date_of_breach: '2023-05-01'
-date_of_disclosure: '2023-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.turkestrauss.com/2023/04/12/kibble-equipment-data-breach-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=kibble-equipment-data-breach-investigation"
+date_of_breach: 2023-05-01
+date_of_disclosure: 2023-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Razor Consulting Solutions
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Kibble Equipment. Data breached:
-  Sensitive personal identifiable information. Use of third party: Commercial products.
-  Third-party company: Razor Consulting Solutions.'
+notes: |-
+  In 2023, Kibble Equipment experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Razor Consulting Solutions. Source reporting:
+  https://www.turkestrauss.com/2023/04/12/kibble-equipment-data-breach-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=kibble-equipment-data-breach-investigation

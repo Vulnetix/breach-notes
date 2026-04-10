@@ -1,16 +1,16 @@
 source_name: Rennline Third-Party Breach (March 2022)
-source_url: https://www.jdsupra.com/legalnews/automotive-part-manufacturer-and-2477809/
-date_of_breach: '2022-03-01'
-date_of_disclosure: '2022-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.jdsupra.com/legalnews/automotive-part-manufacturer-and-2477809/"
+date_of_breach: 2022-03-01
+date_of_disclosure: 2022-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Freestyle Solutions
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Rennline. Data breached:
-  Names, credit or debit card numbers, expiration dates, card verification codes (CVV),
-  billing addresses, and transaction details. Use of third party: Software vendor.
-  Third-party company: Freestyle Solutions.'
+notes: |-
+  In 2022, Rennline experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Freestyle Solutions. Source reporting:
+  https://www.jdsupra.com/legalnews/automotive-part-manufacturer-and-2477809/

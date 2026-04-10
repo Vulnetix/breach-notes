@@ -1,15 +1,16 @@
 source_name: Great Heart Academies Third-Party Breach (November 2020)
-source_url: https://www.azmirror.com/blog/great-hearts-academies-students-and-parents-were-victims-of-data-breach/
-date_of_breach: '2020-11-01'
-date_of_disclosure: '2020-11-01'
-date_of_customer_notification: ''
+source_url: "https://www.azmirror.com/blog/great-hearts-academies-students-and-parents-were-victims-of-data-breach/"
+date_of_breach: 2020-11-01
+date_of_disclosure: 2020-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Blackbaud
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Great Heart Academies. Data
-  breached: Names and contact information. Use of third party: Cloud and CRM provider.
-  Third-party company: Blackbaud.'
+notes: |-
+  In 2020, Great Heart Academies experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Blackbaud. Source reporting:
+  https://www.azmirror.com/blog/great-hearts-academies-students-and-parents-were-victims-of-data-breach/

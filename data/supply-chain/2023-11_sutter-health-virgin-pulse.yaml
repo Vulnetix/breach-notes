@@ -1,16 +1,16 @@
 source_name: Sutter Health Third-Party Breach (November 2023)
-source_url: https://www.hipaajournal.com/sutter-health-84k-data-breach-ba/
-date_of_breach: '2023-11-01'
-date_of_disclosure: '2023-11-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/sutter-health-84k-data-breach-ba/"
+date_of_breach: 2023-11-01
+date_of_disclosure: 2023-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Virgin Pulse
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Sutter Health. Data breached:
-  names, dates of birth, health insurance information, provider names, treatment cost
-  information, and diagnoses/treatment information.. Use of third party: Healthcare
-  center. Third-party company: Virgin Pulse.'
+notes: |-
+  In 2023, Sutter Health experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Virgin Pulse. Source reporting:
+  https://www.hipaajournal.com/sutter-health-84k-data-breach-ba/

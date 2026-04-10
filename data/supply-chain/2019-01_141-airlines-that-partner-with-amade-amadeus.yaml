@@ -1,15 +1,13 @@
-source_name: 141 airlines that partner with Amadeus Third-Party Breach (January 2019)
-source_url: https://securityaffairs.co/wordpress/79972/hacking/amadeus-flight-booking-system-bug.html
-date_of_breach: '2019-01-01'
-date_of_disclosure: '2019-01-01'
+source_name: Amadeus Flight Booking System Vulnerability (January 2019)
+source_url: https://thehackernews.com/2019/01/airlines-flight-hacking.html
+date_of_breach: '2019-01-15'
+date_of_disclosure: '2019-01-15'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Insecure direct object reference (IDOR) in web-based booking portal allowing unauthenticated enumeration of passenger name records (PNRs)
 cve: []
 vendor_product: Amadeus
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for 141 airlines that partner
-  with Amadeus. Data breached: flight information of passengers. Use of third party:
-  online flight booking system. Third-party company: Amadeus.'
+notes: "In January 2019, security researcher Noam Rotem discovered a critical vulnerability in the Amadeus Global Distribution System (GDS) that exposed passenger reservation data for customers of at least 141 airlines worldwide. Amadeus is one of the dominant flight booking infrastructure providers, processing reservations for roughly half of all commercial airline passengers globally.\n\nThe vulnerability was an insecure direct object reference (IDOR) in the Amadeus web booking portal. The six-character alphanumeric Personal Name Record (PNR) locator code, used as the sole identifier for a reservation, could be brute-forced via scripted URL manipulation. Critically, the portal did not enforce rate-limiting or brute-force protections, meaning an attacker could systematically enumerate all active PNR codes and retrieve any passenger's full reservation details without authentication or knowledge of the passenger's name.\n\nExposed data included full passenger names, dates of birth, home addresses, email addresses, phone numbers, frequent flyer account information, and complete itinerary details. In some cases, the vulnerability also allowed modification of existing reservations — enabling attackers to change seat assignments, contact details, or even potentially cancel bookings.\n\nAmadeus was notified and stated the issue was fixed as of January 16, 2019. However, security researchers disputed that assessment, finding the remediation superficial and insufficient against a determined attacker. Amadeus maintained that it had not detected evidence of actual data exfiltration during the exposure window.\n\nThe incident highlights the systemic risk of centralised GDS infrastructure shared across hundreds of airline brands. Airlines including United, Lufthansa, Air Canada, and scores of others were downstream victims of a flaw in a shared third-party platform they had no direct control over. The lack of secondary authentication for PNR lookup — a longstanding industry practice criticised by security researchers — was central to the vulnerability.\n\nNo CVEs were formally assigned. The researcher published findings through Security Affairs and The Hacker News on January 15, 2019. Amadeus stated no traveller data was disclosed, but could not rule out unauthorised access prior to the fix."

@@ -1,17 +1,16 @@
 source_name: 17 Banks and 5 other organizations Third-Party Breach (February 2025)
-source_url: https://www.hipaajournal.com/accendo-insurance-company-data-breach/
-date_of_breach: '2025-02-01'
-date_of_disclosure: '2025-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/accendo-insurance-company-data-breach/"
+date_of_breach: 2025-02-01
+date_of_disclosure: 2025-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Bankers Cooperative Group
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for 17 Banks and 5 other organizations.
-  Data breached: Includes names, addresses, dates of birth, Social Security numbers,
-  medical information, and health insurance information.. Use of third party: Health
-  Medicare supplement insurance provider. Third-party company: Bankers Cooperative
-  Group.'
+notes: |-
+  In 2025, 17 Banks and 5 other organizations experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Bankers Cooperative Group. Source reporting:
+  https://www.hipaajournal.com/accendo-insurance-company-data-breach/

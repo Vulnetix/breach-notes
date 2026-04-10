@@ -1,15 +1,16 @@
 source_name: The Indio Water Authority Third-Party Breach (October 2018)
-source_url: https://statescoop.com/another-click2gov-data-breach-hits-indio-california
-date_of_breach: '2018-10-01'
-date_of_disclosure: '2018-10-01'
-date_of_customer_notification: ''
+source_url: "https://statescoop.com/another-click2gov-data-breach-hits-indio-california"
+date_of_breach: 2018-10-01
+date_of_disclosure: 2018-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for The Indio Water Authority.\
-  \ Data breached: unknown amount of customersâ\x80\x99 names and credit card numbers.\
-  \ Use of third party: Online Payment. Third-party company: Click2Gov."
+notes: |-
+  In 2018, The Indio Water Authority experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Click2Gov. Source reporting:
+  https://statescoop.com/another-click2gov-data-breach-hits-indio-california

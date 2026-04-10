@@ -1,17 +1,16 @@
 source_name: Lee County Emergency Medical Services Third-Party Breach (August 2022)
-source_url: https://www.capecoralbreeze.com/news/breaking-news/2022/08/11/lee-county-emergency-medical-services-notifies-past-customers-of-third-party-security-breach/
-date_of_breach: '2022-08-01'
-date_of_disclosure: '2022-08-01'
-date_of_customer_notification: ''
+source_url: "https://www.capecoralbreeze.com/news/breaking-news/2022/08/11/lee-county-emergency-medical-services-notifies-past-customers-of-third-party-security-breach/"
+date_of_breach: 2022-08-01
+date_of_disclosure: 2022-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Intermedix Corporation
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Lee County Emergency Medical\
-  \ Services. Data breached: Names, addresses, Social Security numbers, driverâ\x80\
-  \x99s license numbers, government IDs, and medical information, such as treatment,\
-  \ diagnosis, and medical history. Use of third party: Ambulance billing services\
-  \ vendor. Third-party company: Intermedix Corporation."
+notes: |-
+  In 2022, Lee County Emergency Medical Services experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Intermedix Corporation. Source reporting:
+  https://www.capecoralbreeze.com/news/breaking-news/2022/08/11/lee-county-emergency-medical-services-notifies-past-customers-of-third-party-security-breach/

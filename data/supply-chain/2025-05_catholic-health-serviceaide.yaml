@@ -1,17 +1,16 @@
 source_name: Catholic Health Third-Party Breach (May 2025)
-source_url: https://therecord.media/breaches-serviceaide-nationwide-medical-info
-date_of_breach: '2025-05-01'
-date_of_disclosure: '2025-05-01'
-date_of_customer_notification: ''
+source_url: "https://therecord.media/breaches-serviceaide-nationwide-medical-info"
+date_of_breach: 2025-05-01
+date_of_disclosure: 2025-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Serviceaide
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Catholic Health. Data breached:
-  Includes name, Social Security number, date of birth, medical record number, patient
-  account number, medical/health information, health insurance information, prescription/treatment
-  information, clinical information, provider name, provider location, and email/username
-  and password.. Use of third party: Technology provider. Third-party company: Serviceaide.'
+notes: |-
+  In 2025, Catholic Health experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Serviceaide. Source reporting:
+  https://therecord.media/breaches-serviceaide-nationwide-medical-info

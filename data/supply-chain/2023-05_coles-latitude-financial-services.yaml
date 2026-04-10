@@ -1,15 +1,16 @@
 source_name: Coles Third-Party Breach (May 2023)
-source_url: https://www.abc.net.au/news/2023-04-15/coles-confirms-latitude-data-breach/102227694
-date_of_breach: '2023-05-01'
-date_of_disclosure: '2023-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.abc.net.au/news/2023-04-15/coles-confirms-latitude-data-breach/102227694"
+date_of_breach: 2023-05-01
+date_of_disclosure: 2023-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Latitude Financial Services
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Coles. Data breached: Employee
-  details. Use of third party: Supermarket company. Third-party company: Latitude
-  Financial Services.'
+notes: |-
+  In 2023, Coles experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Latitude Financial Services. Source reporting:
+  https://www.abc.net.au/news/2023-04-15/coles-confirms-latitude-data-breach/102227694

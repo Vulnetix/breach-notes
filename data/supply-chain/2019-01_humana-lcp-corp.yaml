@@ -1,16 +1,16 @@
 source_name: Humana Third-Party Breach (January 2019)
-source_url: https://securityboulevard.com/2019/01/humana-informs-customers-of-third-party-security-incident/
-date_of_breach: '2019-01-01'
-date_of_disclosure: '2019-01-01'
-date_of_customer_notification: ''
+source_url: "https://securityboulevard.com/2019/01/humana-informs-customers-of-third-party-security-incident/"
+date_of_breach: 2019-01-01
+date_of_disclosure: 2019-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: LCP Corp.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Humana. Data breached: name,
-  address, date of birth, partial info of the SSN, and some info about policy type
-  of unknown number of customers. Use of third party: Bankers Life. Third-party company:
-  LCP Corp..'
+notes: |-
+  In 2019, Humana experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was LCP Corp.. Source reporting:
+  https://securityboulevard.com/2019/01/humana-informs-customers-of-third-party-security-incident/

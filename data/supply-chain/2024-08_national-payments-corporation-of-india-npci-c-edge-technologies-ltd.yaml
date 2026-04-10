@@ -1,16 +1,16 @@
-source_name: National Payments Corporation of India (NPCI) Third-Party Breach (August
-  2024)
-source_url: https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack
-date_of_breach: '2024-08-01'
-date_of_disclosure: '2024-08-01'
-date_of_customer_notification: ''
+source_name: National Payments Corporation of India (NPCI) Third-Party Breach (August 2024)
+source_url: "https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack"
+date_of_breach: 2024-08-01
+date_of_disclosure: 2024-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: C-Edge Technologies Ltd
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for National Payments Corporation
-  of India (NPCI). Data breached: Sensitive files or data.. Use of third party: A
-  third-party tech provider. Third-party company: C-Edge Technologies Ltd.'
+notes: |-
+  In 2024, National Payments Corporation of India (NPCI) experienced a data security incident via a third-party
+  vendor relationship. The compromised third-party vendor was C-Edge Technologies Ltd. Source reporting:
+  https://therecord.media/jenkins-vulnerability-india-npci-ransomware-attack

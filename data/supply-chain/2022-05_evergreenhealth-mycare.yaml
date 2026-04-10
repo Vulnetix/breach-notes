@@ -1,15 +1,16 @@
 source_name: EvergreenHealth Third-Party Breach (May 2022)
-source_url: https://healthitsecurity.com/news/illinois-gastroenterology-group-data-breach-impacts-228k
-date_of_breach: '2022-05-01'
-date_of_disclosure: '2022-05-01'
-date_of_customer_notification: ''
+source_url: "https://healthitsecurity.com/news/illinois-gastroenterology-group-data-breach-impacts-228k"
+date_of_breach: 2022-05-01
+date_of_disclosure: 2022-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: MyCare
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for EvergreenHealth. Data breached:
-  Patient names, dates of birth, medical record numbers, and treatment information.
-  Use of third party: EMR provider. Third-party company: MyCare.'
+notes: |-
+  In 2022, EvergreenHealth experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was MyCare. Source reporting:
+  https://healthitsecurity.com/news/illinois-gastroenterology-group-data-breach-impacts-228k

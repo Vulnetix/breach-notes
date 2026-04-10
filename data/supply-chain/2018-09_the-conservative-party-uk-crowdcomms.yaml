@@ -1,16 +1,13 @@
-source_name: The Conservative Party (UK) Third-Party Breach (September 2018)
-source_url: https://www.esquire.com/uk/latest-news/a23541977/that-colossally-embarrassing-tory-party-conference-app-data-breach-explained/
-date_of_breach: '2018-09-01'
-date_of_disclosure: '2018-09-01'
-date_of_customer_notification: ''
+source_name: UK Conservative Party conference app breach via CrowdComms (September 2018)
+source_url: https://www.buzzfeed.com/alexwickham/the-tories-have-accidentally-revealed-the-personal-mobile
+date_of_breach: '2018-09-30'
+date_of_disclosure: '2018-09-30'
+date_of_customer_notification: '2018-09-30'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Missing authentication vulnerability in a conference app built by third-party provider CrowdComms — the app allowed any user to log in as any other attendee using only an email address, with no password required, exposing profile data including personal mobile phone numbers for hundreds of MPs, ministers, journalists, and conference delegates
 cve: []
-vendor_product: CrowdComms
+vendor_product: CrowdComms conference app
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for The Conservative Party (UK).
-  Data breached: Sensitive information about MPs, journalist and conference attendees,
-  including personal mobile numbers. Use of third party: Conference App. Third-party
-  company: CrowdComms.'
+notes: "On September 30, 2018, during the UK Conservative Party's annual conference in Birmingham, a serious security vulnerability in the official conference mobile application was publicly exposed. The app had been developed by CrowdComms, an Australian company specialising in mobile event applications for conferences and trade shows.\n\nThe flaw was a fundamental authentication failure: the application allowed any user to log in as any other conference attendee using only that person's email address — no password was required. This meant that any attendee who possessed another delegate's email address could access the victim's full profile as stored in the conference system.\n\nGuardian journalist Dawn Foster discovered and publicly demonstrated the vulnerability during the conference, posting a screenshot on social media showing the private details of former Foreign Secretary Boris Johnson. The app exposed names, email addresses, personal mobile phone numbers, job titles, and profile photos. Because the app was used by a politically sensitive audience, the exposed data included the private mobile numbers of hundreds of Conservative MPs, government ministers, senior party officials, and accredited journalists.\n\nThe security issue was reported and resolved within approximately 30 minutes. The Conservative Party submitted a report to the Information Commissioner's Office and issued an apology for any concern caused. Party officials stated they had been \"let down\" by the CrowdComms platform.\n\nThe incident attracted significant media attention because of the political sensitivity of those affected. Boris Johnson's personal mobile number had already been publicly circulated for some years due to a separate prior incident, but the exposure of hundreds of other political figures' private contact details raised concerns about the potential for harassment, social engineering, and targeted influence operations against political targets.\n\nThe breach illustrated a recurring risk in the events technology sector: conference apps routinely aggregate the private contact details of high-profile attendees and are frequently built and deployed under tight timelines, with insufficient security review. The lack of even basic authentication — requiring a password alongside an email address — represented a elementary security failure by the vendor."

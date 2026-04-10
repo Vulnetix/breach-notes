@@ -1,15 +1,16 @@
 source_name: Mongolian Government Agencies Third-Party Breach (December 2020)
-source_url: https://www.zdnet.com/article/chinese-apt-suspected-of-supply-chain-attack-on-mongolian-government-agencies/
-date_of_breach: '2020-12-01'
-date_of_disclosure: '2020-12-01'
-date_of_customer_notification: ''
+source_url: "https://www.zdnet.com/article/chinese-apt-suspected-of-supply-chain-attack-on-mongolian-government-agencies/"
+date_of_breach: 2020-12-01
+date_of_disclosure: 2020-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Able Software
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Mongolian Government Agencies.
-  Data breached: HR chat messages. Use of third party: Software vendor for chatting
-  app. Third-party company: Able Software.'
+notes: |-
+  In 2020, Mongolian Government Agencies experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Able Software. Source reporting:
+  https://www.zdnet.com/article/chinese-apt-suspected-of-supply-chain-attack-on-mongolian-government-agencies/

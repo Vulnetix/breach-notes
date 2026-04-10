@@ -1,16 +1,16 @@
-source_name: "500 â\x80\x93 1,000 e-commerce stores Third-Party Breach (May 2025)"
-source_url: https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/
-date_of_breach: '2025-05-01'
-date_of_disclosure: '2025-05-01'
-date_of_customer_notification: ''
+source_name: 500 – 1,000 e-commerce stores Third-Party Breach (May 2025)
+source_url: "https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/"
+date_of_breach: 2025-05-01
+date_of_disclosure: 2025-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Tigren, Meetanshi and MGS
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for 500 â\x80\x93 1,000 e-commerce\
-  \ stores. Data breached: Certain customer information leaked via compromised Magento\
-  \ extensions.. Use of third party: E-commerce websites software development and\
-  \ customization services. Third-party company: Tigren, Meetanshi and MGS."
+notes: |-
+  In 2025, 500 – 1,000 e-commerce stores experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Tigren, Meetanshi and MGS. Source reporting:
+  https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/

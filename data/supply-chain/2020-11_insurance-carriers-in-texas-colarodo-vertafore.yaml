@@ -1,16 +1,16 @@
 source_name: Insurance Carriers in Texas, Colarodo Third-Party Breach (November 2020)
-source_url: https://www.statesman.com/news/20201113/data-breach-affected-277-million-texas-drivers-colorado-based-company-says
-date_of_breach: '2020-11-01'
-date_of_disclosure: '2020-11-01'
-date_of_customer_notification: ''
+source_url: "https://www.statesman.com/news/20201113/data-breach-affected-277-million-texas-drivers-colorado-based-company-says"
+date_of_breach: 2020-11-01
+date_of_disclosure: 2020-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Vertafore
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Insurance Carriers in Texas,\
-  \ Colarodo. Data breached: Driverâ\x80\x99s license numbers, names, dates of birth,\
-  \ addresses and vehicle registration histories. Use of third party: Insurance software\
-  \ company. Third-party company: Vertafore."
+notes: |-
+  In 2020, Insurance Carriers in Texas, Colarodo experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Vertafore. Source reporting:
+  https://www.statesman.com/news/20201113/data-breach-affected-277-million-texas-drivers-colorado-based-company-says

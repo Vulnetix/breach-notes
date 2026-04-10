@@ -1,16 +1,16 @@
 source_name: Monument Health Third-Party Breach (December 2024)
-source_url: https://www.hipaajournal.com/change-healthcare-responding-to-cyberattack/
-date_of_breach: '2024-12-01'
-date_of_disclosure: '2024-12-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/change-healthcare-responding-to-cyberattack/"
+date_of_breach: 2024-12-01
+date_of_disclosure: 2024-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Change Healthcare
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Monument Health. Data breached:\
-  \ Names, contact information, Social Security numbers, driverâ\x80\x99s license\
-  \ numbers, health information, insurance information, and billing information..\
-  \ Use of third party: Healthcare provider. Third-party company: Change Healthcare."
+notes: |-
+  In 2024, Monument Health experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Change Healthcare. Source reporting:
+  https://www.hipaajournal.com/change-healthcare-responding-to-cyberattack/

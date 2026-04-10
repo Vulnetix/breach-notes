@@ -1,15 +1,16 @@
 source_name: Austin ISD Third-Party Breach (March 2021)
-source_url: https://www.kvue.com/article/news/education/schools/austin-isd-warns-of-possible-data-breach/269-84d44049-e725-4ede-9d8d-4ae7959f6eb3
-date_of_breach: '2021-03-01'
-date_of_disclosure: '2021-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.kvue.com/article/news/education/schools/austin-isd-warns-of-possible-data-breach/269-84d44049-e725-4ede-9d8d-4ae7959f6eb3"
+date_of_breach: 2021-03-01
+date_of_disclosure: 2021-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Austin ISD. Data breached:\
-  \ Studentsâ\x80\x99 name, their identification number, and date of birth. Use of\
-  \ third party: Third-party vendor. Third-party company: not disclosed."
+notes: |-
+  In 2021, Austin ISD experienced a data security incident via a third-party vendor relationship. Source
+  reporting:
+  https://www.kvue.com/article/news/education/schools/austin-isd-warns-of-possible-data-breach/269-84d44049-e725-4ede-9d8d-4ae7959f6eb3

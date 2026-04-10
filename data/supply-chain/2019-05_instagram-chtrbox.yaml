@@ -1,15 +1,24 @@
-source_name: Instagram Third-Party Breach (May 2019)
-source_url: https://economictimes.indiatimes.com/tech/internet/instagram-data-breach-trail-leads-to-chtrbox/articleshow/69434958.cms
-date_of_breach: '2019-05-01'
-date_of_disclosure: '2019-05-01'
+source_name: Instagram Influencer Data Exposed via Chtrbox Unsecured Database
+source_url: https://techcrunch.com/2019/05/20/instagram-influencer-celebrity-accounts-scraped/
+date_of_breach: '2019-05-14'
+date_of_disclosure: '2019-05-20'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Misconfigured cloud database (unauthenticated instance, no password protection)
 cve: []
-vendor_product: Chtrbox
+vendor_product: Chtrbox (Mumbai-based Instagram influencer marketing platform)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Instagram. Data breached:
-  personal information including contact details. Use of third party: social media
-  marketing firm. Third-party company: Chtrbox.'
+notes: |
+  In May 2019, security researcher Anurag Sen discovered a large, unsecured database containing scraped Instagram profile data for approximately 49 million users, which he traced to Chtrbox — a Mumbai, India-based social media marketing company that connects brands with Instagram influencers for sponsored content campaigns.
+
+  The database was publicly accessible without any authentication or password protection. It was first indexed by Shodan (the search engine for internet-exposed devices and services) on approximately May 14, 2019. After Sen alerted TechCrunch, which published reporting on May 20, 2019, Chtrbox took the database offline within hours.
+
+  The exposed database contained records for Instagram accounts across a range of follower tiers — from micro-influencers to major celebrities and media brands. Each record contained a mix of data scraped from public Instagram profiles (bio text, profile photo, follower count, engagement metrics, verification status, geographic location) as well as privately held contact information such as email addresses and phone numbers that are not visible on public Instagram profiles. The contact information had presumably been shared by influencers when registering with or being approached by Chtrbox for partnership purposes.
+
+  Each record also contained a calculated commercial value for each account — an internal metric Chtrbox used to determine influencer pricing for advertising placements, derived from follower count, engagement rate, reach, and other factors.
+
+  Chtrbox disputed the scale of the exposure, claiming that no more than 350,000 influencer records were in the database and that the data of celebrities and major brands had not been included. TechCrunch and security researchers reported the database contained well over 49 million records and was continuing to grow at the time of discovery.
+
+  Instagram (owned by Facebook) investigated the incident and stated they were looking into whether the contact data had been improperly obtained, noting that accessing non-public contact information through their API would violate their platform policies. The incident raised questions about the data hygiene practices of the sprawling ecosystem of third-party social media marketing, analytics, and influencer management platforms that routinely collect, aggregate, and store Instagram user data outside of Meta's control. No evidence of malicious external access was confirmed — the exposure was due solely to the unsecured database configuration.

@@ -1,15 +1,16 @@
 source_name: StreamElements Third-Party Breach (March 2025)
-source_url: https://www.infostealers.com/article/streamelements-confirms-third-party-data-breach-from-an-infostealer-infection/
-date_of_breach: '2025-03-01'
-date_of_disclosure: '2025-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.infostealers.com/article/streamelements-confirms-third-party-data-breach-from-an-infostealer-infection/"
+date_of_breach: 2025-03-01
+date_of_disclosure: 2025-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Gooten
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for StreamElements. Data breached:
-  Includes names, addresses, phone numbers, and email addresses.. Use of third party:
-  Merchandise operations provider. Third-party company: Gooten.'
+notes: |-
+  In 2025, StreamElements experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Gooten. Source reporting:
+  https://www.infostealers.com/article/streamelements-confirms-third-party-data-breach-from-an-infostealer-infection/

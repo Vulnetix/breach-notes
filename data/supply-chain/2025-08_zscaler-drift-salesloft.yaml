@@ -1,21 +1,16 @@
 source_name: Zscaler Third-Party Breach (August 2025)
-source_url: https://www.zscaler.com/blogs/company-news/salesloft-drift-supply-chain-incident-key-details-and-zscaler-s-response
-date_of_breach: '2025-08-01'
-date_of_disclosure: '2025-08-01'
-date_of_customer_notification: ''
+source_url: "https://www.zscaler.com/blogs/company-news/salesloft-drift-supply-chain-incident-key-details-and-zscaler-s-response"
+date_of_breach: 2025-08-01
+date_of_disclosure: 2025-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Drift (Salesloft)
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Zscaler. Data breached: Includes
-  names, business email addresses, job titles, phone numbers, regional/location details,
-  zscaler product licensing and commercial information, plain text support case header
-  content from certain cases limited to the following fields: Case Number, Opened,
-  Preferred Contact Number, Description, Priority, Case Owner, Preferred Time Zone,
-  Case Status, Type, Customer Case Reference, Product, Last Activity, Subject, Resolution
-  Notes, Reason for Hand Off, Current Status / Next Plan of Action, Data Collected,
-  Issue Summary / Business Impact, and Requestor. Use of third party: Chatbot service
-  provider. Third-party company: Drift (Salesloft).'
+notes: |-
+  In 2025, Zscaler experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Drift (Salesloft). Source reporting:
+  https://www.zscaler.com/blogs/company-news/salesloft-drift-supply-chain-incident-key-details-and-zscaler-s-response

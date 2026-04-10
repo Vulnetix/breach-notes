@@ -1,21 +1,17 @@
-source_name: Good Samaritan Society, Mission Healthcare at Renton, Prestige Care,
-  Rockwood South Hill, Kin On Health Care Center, and 63 organizations Third-Party
-  Breach (January 2022)
-source_url: https://infinityrehab.com/our-business/infinity-rehab-provides-notice-of-data-security-incident/
-date_of_breach: '2022-01-01'
-date_of_disclosure: '2022-01-01'
-date_of_customer_notification: ''
+source_name: Good Samaritan Society, Mission Healthcare at Renton, Prestige Care, Rockwood South Hill, Kin On Health Care Center, and 63 organizations Third-Party Breach (January 2022)
+source_url: "https://infinityrehab.com/our-business/infinity-rehab-provides-notice-of-data-security-incident/"
+date_of_breach: 2022-01-01
+date_of_disclosure: 2022-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Infinity Rehab
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Good Samaritan Society, Mission\
-  \ Healthcare at Renton, Prestige Care, Rockwood South Hill, Kin On Health Care Center,\
-  \ and 63 organizations. Data breached: Names, addresses, dates of birth, driverâ\x80\
-  \x99s license or state identification numbers, Social Security numbers, claims information,\
-  \ financial account numbers, medications information, lab results, and medical diagnosis/conditions\
-  \ information. Use of third party: Provider in therapy services. Third-party company:\
-  \ Infinity Rehab."
+notes: |-
+  In 2022, Good Samaritan Society, Mission Healthcare at Renton, Prestige Care, Rockwood South Hill, Kin On
+  Health Care Center, and 63 organizations experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Infinity Rehab. Source reporting:
+  https://infinityrehab.com/our-business/infinity-rehab-provides-notice-of-data-security-incident/

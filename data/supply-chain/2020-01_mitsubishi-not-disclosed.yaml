@@ -1,17 +1,22 @@
-source_name: Mitsubishi Third-Party Breach (January 2020)
+source_name: Mitsubishi Electric Breach — Tick APT / Trend Micro OfficeScan Zero-Day (2019–2020)
 source_url: https://www.helpnetsecurity.com/2020/01/21/mitsubishi-electric-data-breach/
-date_of_breach: '2020-01-01'
-date_of_disclosure: '2020-01-01'
-date_of_customer_notification: ''
+date_of_breach: '2019-06-28'
+date_of_disclosure: '2020-01-20'
+date_of_customer_notification: '2020-01-20'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
-cve: []
-vendor_product: Not disclosed
-software_package: ''
+initial_attack_vector: Exploitation of zero-day vulnerability (CVE-2019-18187) in Trend Micro OfficeScan antivirus via compromised China-based affiliate, enabling lateral movement to Japan headquarters
+cve:
+  - CVE-2019-18187
+vendor_product: Trend Micro OfficeScan (via China-based affiliated company)
+software_package: Trend Micro OfficeScan
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Mitsubishi. Data breached:
-  Company data, data of government organizations and private companies, names and
-  addresses, previous employment history, birthdates, telephone numbers of 8,122 applicants,
-  employees and retirees. Use of third party: An affiliated company in China. Third-party
-  company: Not disclosed.'
+notes: 'On June 28, 2019, threat actors — widely attributed to the Chinese state-sponsored APT group known as Tick (also tracked as Bronze Butler and associated with APT40) — breached Mitsubishi Electric''s corporate network through a China-based affiliate of the company. The intrusion was not publicly disclosed until January 20, 2020, following reporting by Japanese newspapers Asahi Shimbun and Nikkei that forced the company''s hand. Mitsubishi Electric had been investigating the breach internally since September 2019.
+
+  The attackers exploited CVE-2019-18187, a directory traversal and arbitrary file upload vulnerability in Trend Micro OfficeScan antivirus software. Trend Micro had patched this flaw in October 2019, but the attackers had already used it as a foothold months earlier. The compromise began at a subsidiary or affiliated office in China, then pivoted laterally to Mitsubishi Electric''s systems in Japan, ultimately spreading across approximately 120 systems at 14 locations.
+
+  Data stolen in the breach included: employment applications for approximately 8,122 individuals, the results of an employee survey completed by 4,566 people, details on 1,569 employees who retired between 2007 and 2019, corporate information including confidential technical documents and sales materials, and — critically — data relating to Japanese government agencies and defense programs. The Japan Ministry of Defense confirmed that sensitive defense-related data may have been compromised, with data connected to at least 10 public and government bodies including the Ministry of Defense, Cabinet Office, Nuclear Regulatory Commission, Ministry of the Environment, and the Agency for Natural Resources and Energy.
+
+  The Tick APT group is known for long-running cyber espionage campaigns targeting defense contractors, aerospace firms, and critical infrastructure operators in Japan and Taiwan. The Mitsubishi Electric breach is consistent with their pattern of using subsidiary or affiliate access in China as a bridgehead into Japanese parent companies. The multi-month dwell time between initial compromise (June 2019) and public disclosure (January 2020) allowed extensive data exfiltration before detection.
+
+  The incident prompted Japan to review its cybersecurity requirements for defense contractors and raised broader concerns about the security posture of Japanese industrial firms with significant operations in China.'

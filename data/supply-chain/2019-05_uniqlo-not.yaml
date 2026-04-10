@@ -1,14 +1,16 @@
 source_name: UNIQLO Third-Party Breach (May 2019)
-source_url: https://www.cisomag.com/cyber-attack-affects-over-460000-online-store-accounts/
-date_of_breach: '2019-05-01'
-date_of_disclosure: '2019-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.cisomag.com/cyber-attack-affects-over-460000-online-store-accounts/"
+date_of_breach: 2019-05-01
+date_of_disclosure: 2019-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for UNIQLO. Data breached: 460,000
-  online store accounts. Use of third party: not disclosed. Third-party company: not.'
+notes: |-
+  In 2019, UNIQLO experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was not. Source reporting:
+  https://www.cisomag.com/cyber-attack-affects-over-460000-online-store-accounts/

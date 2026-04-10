@@ -1,15 +1,16 @@
 source_name: Northwell Health Third-Party Breach (November 2023)
-source_url: https://www.prnewswire.com/news-releases/console--associates-pc-pja-reports-data-breach-exposing-social-security-numbers-and-phi-of-an-unknown-number-of-northwell-health-patients-301986542.html
-date_of_breach: '2023-11-01'
-date_of_disclosure: '2023-11-01'
-date_of_customer_notification: ''
+source_url: "https://www.prnewswire.com/news-releases/console--associates-pc-pja-reports-data-breach-exposing-social-security-numbers-and-phi-of-an-unknown-number-of-northwell-health-patients-301986542.html"
+date_of_breach: 2023-11-01
+date_of_disclosure: 2023-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: Perry Johnson & Associates, Inc., (PJ&A)
-software_package: ''
-malware: ''
+vendor_product: "Perry Johnson & Associates, Inc., (PJ&A)"
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Northwell Health. Data breached:
-  Names,. Use of third party: Nonprofit integrated healthcare company. Third-party
-  company: Perry Johnson & Associates, Inc., (PJ&A).'
+notes: |-
+  In 2023, Northwell Health experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Perry Johnson & Associates, Inc., (PJ&A). Source reporting:
+  https://www.prnewswire.com/news-releases/console--associates-pc-pja-reports-data-breach-exposing-social-security-numbers-and-phi-of-an-unknown-number-of-northwell-health-patients-301986542.html

@@ -1,17 +1,20 @@
-source_name: Japanese Government, The Ministry of Land, Infrastructure, Transport,
-  and Tourism Third-Party Breach (May 2021)
-source_url: https://www.itpro.co.uk/security/hacking/359705/hackers-steal-japanese-government-data-in-fujitsu-hack
-date_of_breach: '2021-05-01'
-date_of_disclosure: '2021-05-01'
-date_of_customer_notification: ''
+source_name: "Fujitsu ProjectWEB Breach — Japanese Government Agencies, 76,000 Email Addresses, Narita Airport Data"
+source_url: "https://www.bleepingcomputer.com/news/security/japanese-government-agencies-suffer-data-breaches-after-fujitsu-hack/"
+date_of_breach: "2021-05-01"
+date_of_disclosure: "2021-05-26"
+date_of_customer_notification: "2021-05-26"
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: "Stolen/compromised user account credentials for Fujitsu's ProjectWEB collaboration platform, enabling unauthorized access to client project workspaces"
 cve: []
-vendor_product: Fujitsu
-software_package: ''
-malware: ''
+vendor_product: "Fujitsu ProjectWEB"
+software_package: "ProjectWEB"
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Japanese Government, The
-  Ministry of Land, Infrastructure, Transport, and Tourism. Data breached: At least
-  76,000 email addresses were exposed, including those belonging to individuals outside
-  of the ministry. Use of third party: Software vendor. Third-party company: Fujitsu.'
+notes: |-
+  In May 2021, multiple Japanese government agencies disclosed that sensitive data had been exfiltrated via Fujitsu's ProjectWEB platform, an enterprise project information-sharing and collaboration tool used by Fujitsu to deliver IT services to government clients. Fujitsu's subsequent investigation, completed by December 2021, confirmed that the attackers had obtained legitimate user credentials for ProjectWEB accounts and used those stolen credentials to gain unauthorized access to client project workspaces — avoiding typical intrusion detection by appearing as authenticated users.
+
+  Affected organizations included the Cabinet Secretariat (Japan's central executive coordination office), the Ministry of Land, Infrastructure, Transport and Tourism (MLIT), the Cabinet Cyber Security Center (NISC), and Narita International Airport. The data exfiltrated totalled at least 76,000 email addresses and email system configuration settings. From Narita Airport's workspace, attackers accessed and stole flight schedule data, air traffic control coordination data, and business operations records. Study materials and internal documents from Japan's Ministry of Foreign Affairs were also reported as exposed.
+
+  Fujitsu's official response was to suspend and then permanently discontinue the ProjectWEB platform, citing the need to rebuild the service from the ground up using a Zero Trust architecture. The company stated it was developing and migrating customers to a replacement collaboration tool built on Zero Trust principles.
+
+  The incident highlighted the systemic risk of shared multi-tenant SaaS collaboration tools used by IT service providers: a single credential compromise at the provider level yielded access to data across multiple government client tenancies simultaneously. The exact method of initial credential theft — whether phishing, credential stuffing, or an earlier unrelated compromise — was not publicly confirmed by Fujitsu. Attribution of the attack was not publicly made by Japanese authorities.

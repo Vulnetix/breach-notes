@@ -1,15 +1,22 @@
-source_name: Reddit Third-Party Breach (June 2018)
+source_name: Reddit / Krebs on Security / TechCrunch
 source_url: https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/
-date_of_breach: '2018-06-01'
-date_of_disclosure: '2018-06-01'
-date_of_customer_notification: ''
+date_of_breach: '2018-06-14'
+date_of_disclosure: '2018-08-01'
+date_of_customer_notification: '2018-08-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: SMS-based two-factor authentication interception (SIM swap or SS7 exploitation) to compromise employee cloud and source code hosting accounts
 cve: []
-vendor_product: Not disclosed
+vendor_product: SMS-based 2FA provider (not disclosed)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Reddit. Data breached: Access
-  data: email addresses of current Reddit users and a 2007 database. Use of third
-  party: SMS login system. Third-party company: Not disclosed.'
+notes: >-
+  On August 1, 2018, Reddit disclosed a security incident in which an attacker compromised several Reddit employee accounts at the company's cloud and source code hosting providers between June 14 and June 18, 2018. Reddit learned of the breach on June 19. The attacker bypassed SMS-based two-factor authentication protecting the employee accounts by intercepting the one-time codes sent via text message, though Reddit did not specify the exact interception method. Security experts noted that likely techniques include SIM-swapping (where an attacker convinces a mobile carrier to transfer the victim's phone number to a new SIM card) or exploitation of SS7 signaling protocol vulnerabilities.
+
+  The compromised accounts gave the attacker read-only access to two categories of data. First, a complete copy of an old database backup from 2007, containing Reddit account credentials (usernames, salted and hashed passwords), email addresses, and all public and private message content from Reddit's first two years of operation (2005-2007). Second, email digests that Reddit sent to users between June 3 and June 17, 2018, which linked Reddit usernames to their associated email addresses, revealing which users were subscribed to which subreddits.
+
+  Additionally, the attacker accessed Reddit's source code, internal logs, configuration files, and other employee workspace files. Reddit stated that the attacker did not gain write access to any systems and that no Reddit data was altered or published.
+
+  Reddit responded by reporting the incident to law enforcement, conducting a thorough investigation with the assistance of external security firms, revoking compromised credentials, rotating all production secrets and API keys, and enhancing its logging and monitoring systems. Critically, Reddit publicly urged all organizations to move away from SMS-based two-factor authentication in favor of token-based alternatives (such as hardware security keys or TOTP authenticator apps), as the breach demonstrated the fundamental insecurity of SMS as a second factor. Reddit directly messaged affected users whose credentials appeared in the 2007 database backup and reset passwords for accounts where the credentials might still have been valid.
+
+  Primary sources: https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/ and https://krebsonsecurity.com/2018/08/reddit-breach-highlights-limits-of-sms-based-authentication/

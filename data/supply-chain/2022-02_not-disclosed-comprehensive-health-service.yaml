@@ -1,15 +1,16 @@
 source_name: Not disclosed Third-Party Breach (February 2022)
-source_url: https://www.govinfosecurity.com/2-vendor-hacking-incidents-affect-over-600000-individuals-a-18538
-date_of_breach: '2022-02-01'
-date_of_disclosure: '2022-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.govinfosecurity.com/2-vendor-hacking-incidents-affect-over-600000-individuals-a-18538"
+date_of_breach: 2022-02-01
+date_of_disclosure: 2022-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Comprehensive Health Services
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Not disclosed. Data breached:
-  Names, dates of birth and Social Security numbers. Use of third party: Healthcare
-  provider. Third-party company: Comprehensive Health Services.'
+notes: |-
+  In 2022, Not disclosed experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Comprehensive Health Services. Source reporting:
+  https://www.govinfosecurity.com/2-vendor-hacking-incidents-affect-over-600000-individuals-a-18538

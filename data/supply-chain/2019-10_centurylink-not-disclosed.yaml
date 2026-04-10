@@ -1,16 +1,16 @@
 source_name: CenturyLink Third-Party Breach (October 2019)
-source_url: https://www.kare11.com/article/news/local/security-incident-may-have-exposed-data-of-some-centurylink-customers/89-c4ce7149-a488-48ba-ba8b-3dfb560fb1d3
-date_of_breach: '2019-10-01'
-date_of_disclosure: '2019-10-01'
-date_of_customer_notification: ''
+source_url: "https://www.kare11.com/article/news/local/security-incident-may-have-exposed-data-of-some-centurylink-customers/89-c4ce7149-a488-48ba-ba8b-3dfb560fb1d3"
+date_of_breach: 2019-10-01
+date_of_disclosure: 2019-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for CenturyLink. Data breached:
-  2.8 million CenturyLink customer information which including names, addresses, phone
-  numbers, email addresses and CenturyLink account numbers. Use of third party: notification
-  platform. Third-party company: not disclosed.'
+notes: |-
+  In 2019, CenturyLink experienced a data security incident via a third-party vendor relationship. Source
+  reporting:
+  https://www.kare11.com/article/news/local/security-incident-may-have-exposed-data-of-some-centurylink-customers/89-c4ce7149-a488-48ba-ba8b-3dfb560fb1d3

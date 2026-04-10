@@ -1,16 +1,16 @@
 source_name: Baylor College of Medicine Third-Party Breach (March 2024)
-source_url: https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/
-date_of_breach: '2024-03-01'
-date_of_disclosure: '2024-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/"
+date_of_breach: 2024-03-01
+date_of_disclosure: 2024-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Advarra
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Baylor College of Medicine.
-  Data breached: Names, dates of birth, Social Security numbers, addresses, telephone
-  numbers, and medical record numbers.. Use of third party: Healthcare Provider. Third-party
-  company: Advarra.'
+notes: |-
+  In 2024, Baylor College of Medicine experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Advarra. Source reporting:
+  https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/

@@ -1,16 +1,13 @@
-source_name: Fiserv-affiliated financial institutions Third-Party Breach (August 2018)
+source_name: Fiserv Event Manager vulnerability exposes customer data at hundreds of banks (August 2018)
 source_url: https://krebsonsecurity.com/2018/08/fiserv-flaw-exposed-customer-data-at-hundreds-of-banks/
 date_of_breach: '2018-08-01'
-date_of_disclosure: '2018-08-01'
+date_of_disclosure: '2018-08-28'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Insecure direct object reference (IDOR) vulnerability in Fiserv's Event Manager messaging platform — editing a single digit in a bank website URL parameter allowed any authenticated user to view other customers' account alert data, including email addresses, phone numbers, and partial account numbers
 cve: []
-vendor_product: Fiserv
+vendor_product: Fiserv Event Manager
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Fiserv-affiliated financial\
-  \ institutions. Data breached: Customerâ\x80\x99s email address, phone number and\
-  \ full bank account number and alert details. Use of third party: Website providers.\
-  \ Third-party company: Fiserv."
+notes: "In August 2018, KrebsOnSecurity reported a significant security flaw in Fiserv's web banking platform that exposed personal and financial details of customers at hundreds of community banks and credit unions across the United States. Fiserv is the dominant core banking technology provider for small financial institutions, holding more than 37 percent of the market and powering the web portals for thousands of banks.\n\nThe vulnerability existed in a component called Event Manager, a messaging feature integrated into Fiserv's core banking systems that sends one-way transactional alerts to customers — such as notifications about low balances or large withdrawals. Security researcher Kristian Erik Hermansen discovered that the feature contained a classic insecure direct object reference (IDOR) flaw: by simply modifying a numeric identifier in the URL of a bank's customer-facing web page, an authenticated user could view another customer's previously received alert messages. Those alerts contained email addresses, phone numbers, and partial bank account numbers.\n\nBrian Krebs independently verified Hermansen's findings, replicating the exposure across multiple Fiserv-powered bank websites. Because Fiserv provides a hosted, shared platform to hundreds of institutions, the single underlying code vulnerability simultaneously affected a large swath of the US community banking sector.\n\nFiserv was notified and developed a security patch within 24 hours. The patch was deployed to all clients using the hosted version of the solution. In a statement, Fiserv said it addressed the issue and was not aware of any actual fraud that resulted from the vulnerability.\n\nThe precise number of customer records exposed was never publicly quantified, but given Fiserv's market position serving hundreds of community banks with millions of retail customers, the potential exposure was substantial. The incident underscored the systemic concentration risk created when a single fintech provider becomes the shared infrastructure for a large fraction of an industry — a vulnerability in one vendor can cascade across hundreds of nominally independent institutions simultaneously."

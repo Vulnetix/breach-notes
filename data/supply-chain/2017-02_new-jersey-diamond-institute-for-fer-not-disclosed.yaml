@@ -1,17 +1,45 @@
-source_name: New Jersey Diamond Institute for Fertility and Menopause Third-Party
-  Breach (February 2017)
-source_url: https://www.databreaches.net/diamond-institute-for-infertility-and-menopause-notifies-patients-after-hack/
-date_of_breach: '2017-02-01'
-date_of_disclosure: '2017-02-01'
-date_of_customer_notification: ''
+source_name: HIPAA Journal
+source_url: https://www.hipaajournal.com/new-jersey-infertility-clinic-settles-data-breach-investigation-with-state-and-pays-495000-penalty/
+date_of_breach: '2016-08-28'
+date_of_disclosure: '2017-04-01'
+date_of_customer_notification: '2017-04-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Exposed RDP port opened by managed service provider to bypass VPN restrictions
 cve: []
-vendor_product: Not disclosed
+vendor_product: Managed service provider (unnamed)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for New Jersey Diamond Institute\
-  \ for Fertility and Menopause. Data breached: 14K patientsâ\x80\x99 sensitive info\
-  \ (name, address, SSNs, birth dates, medical info). Use of third party: Server containing\
-  \ its electronic health records database. Third-party company: Not disclosed."
+notes: >-
+  Between August 28, 2016, and January 14, 2017, the Diamond Institute for
+  Infertility and Menopause, a fertility clinic based in Millburn, New Jersey,
+  suffered repeated unauthorized access to its network by at least one intruder
+  operating from a foreign IP address. The breach exposed the electronic
+  protected health information (ePHI) of 14,663 patients, including 11,071
+  New Jersey residents.
+
+  The root cause traced back to the clinic's managed service provider (MSP).
+  Diamond's HIPAA Privacy and Security Officer used a Remote Desktop Protocol
+  (RDP) connection over VPN to access the network remotely. However, VPN
+  access was blocked from an office in Bermuda, so the MSP opened a port in
+  the firewall to allow direct RDP access as a workaround. This exposed the
+  RDP service to the public internet, enabling the attacker to gain access to
+  a workstation in the Millburn office on multiple occasions over roughly five
+  months.
+
+  Compromised data included patient names, dates of birth, Social Security
+  numbers, medical record numbers, and other sensitive health information
+  related to fertility treatments. The breach was reported to HHS and patients
+  were notified in approximately April 2017.
+
+  The New Jersey Attorney General's office investigated and found that Diamond
+  Institute had failed to implement adequate cybersecurity safeguards,
+  including risk assessments, access controls, and audit logging, in violation
+  of HIPAA and the New Jersey Consumer Fraud Act. In November 2021, Acting AG
+  Andrew Bruck announced a settlement requiring Diamond Institute to pay
+  $495,000 ($412,300 in civil penalties and $82,700 in investigative costs)
+  and implement a comprehensive corrective action plan including regular risk
+  assessments, encryption of ePHI, multi-factor authentication, and improved
+  vendor management. The case became a notable example of state-level HIPAA
+  enforcement and the risks posed by MSP workarounds that bypass security
+  controls.

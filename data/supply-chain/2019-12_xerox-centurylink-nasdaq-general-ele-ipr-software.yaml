@@ -1,18 +1,16 @@
-source_name: Xerox, CenturyLink, Nasdaq, General Electric, Forever21, and Dunkin Donuts
-  Third-Party Breach (December 2019)
-source_url: https://threatpost.com/ge-dunkin-forever21-internal-doc-leak/150920/
-date_of_breach: '2019-12-01'
-date_of_disclosure: '2019-12-01'
-date_of_customer_notification: ''
+source_name: Xerox, CenturyLink, Nasdaq, General Electric, Forever21, and Dunkin Donuts Third-Party Breach (December 2019)
+source_url: "https://threatpost.com/ge-dunkin-forever21-internal-doc-leak/150920/"
+date_of_breach: 2019-12-01
+date_of_disclosure: 2019-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: iPR Software
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Xerox, CenturyLink, Nasdaq,\
-  \ General Electric, Forever21, and Dunkin Donuts. Data breached: 477,000 clientsâ\x80\
-  \x99 media contacts, business account information, 35,000 hashed user passwords,\
-  \ various documents, and admin credentials. Use of third party: PR company. Third-party\
-  \ company: iPR Software."
+notes: |-
+  In 2019, Xerox, CenturyLink, Nasdaq, General Electric, Forever21, and Dunkin Donuts experienced a data
+  security incident via a third-party vendor relationship. The compromised third-party vendor was iPR Software.
+  Source reporting: https://threatpost.com/ge-dunkin-forever21-internal-doc-leak/150920/

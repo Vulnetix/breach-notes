@@ -1,20 +1,17 @@
-source_name: American Health Imaging, Banner Medical Group, Belle Point Dental, Duck
-  Creek Family Dental, Partners In Periodontics, and 652 organizations Third-Party
-  Breach (July 2022)
-source_url: https://techcrunch.com/2022/07/13/pfc-ransomware-healthcare/#:~:text=PFC%20said%20in%20its%20data,information%20relating%20to%20their%20account.
-date_of_breach: '2022-07-01'
-date_of_disclosure: '2022-07-01'
-date_of_customer_notification: ''
+source_name: American Health Imaging, Banner Medical Group, Belle Point Dental, Duck Creek Family Dental, Partners In Periodontics, and 652 organizations Third-Party Breach (July 2022)
+source_url: "https://techcrunch.com/2022/07/13/pfc-ransomware-healthcare/#:~:text=PFC%20said%20in%20its%20data,information%20relating%20to%20their%20account."
+date_of_breach: 2022-07-01
+date_of_disclosure: 2022-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Professional Finance Company
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for American Health Imaging,
-  Banner Medical Group, Belle Point Dental, Duck Creek Family Dental, Partners In
-  Periodontics, and 652 organizations. Data breached: Dates of birth, Social Security
-  numbers, health insurance and medical treatment information. Use of third party:
-  Accounts receivable management solutions provider. Third-party company: Professional
-  Finance Company.'
+notes: |-
+  In 2022, American Health Imaging, Banner Medical Group, Belle Point Dental, Duck Creek Family Dental, Partners
+  In Periodontics, and 652 organizations experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Professional Finance Company. Source reporting:
+  https://techcrunch.com/2022/07/13/pfc-ransomware-healthcare/#:~:text=PFC%20said%20in%20its%20data,information%20relating%20to%20their%20account.

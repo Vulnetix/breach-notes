@@ -1,15 +1,50 @@
-source_name: T-Mobile Third-Party Breach (September 2015)
-source_url: https://www.t-mobile.com/customers/experian-data-breach-faq
+source_name: T-Mobile/Experian Data Breach (CNBC, NPR, T-Mobile Newsroom)
+source_url: https://www.cnbc.com/2015/10/01/experian-reports-data-breach-involving-info-for-more-than-15m-t-mobile-customers.html
 date_of_breach: '2015-09-01'
-date_of_disclosure: '2015-09-01'
-date_of_customer_notification: ''
+date_of_disclosure: '2015-10-01'
+date_of_customer_notification: '2015-10-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unauthorized access to an Experian server containing T-Mobile credit application data; specific intrusion method not publicly disclosed
 cve: []
-vendor_product: Experian
+vendor_product: Experian (credit check and decisioning services)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for T-Mobile. Data breached:
-  15M customer records (SSNs, birth dates, driver licence #, etc). Use of third party:
-  Customer credit assessment. Third-party company: Experian.'
+notes: >-
+  On October 1, 2015, Experian disclosed that hackers had gained unauthorized
+  access to a server containing personal information of approximately 15 million
+  people who had applied for T-Mobile service or device financing between
+  September 1, 2013 and September 16, 2015. As part of T-Mobile's credit
+  assessment process, applicant data was transmitted to Experian for credit
+  checks, making this a third-party supply chain breach.
+
+  The compromised data included names, dates of birth, physical addresses, Social
+  Security numbers, and driver's license or passport identification numbers.
+  Experian stated that no payment card or banking information was acquired in the
+  breach. The data belonged to individuals who had submitted credit applications
+  regardless of whether they ultimately became T-Mobile customers.
+
+  T-Mobile CEO John Legere issued a public statement expressing anger at the
+  breach, stating he was "incredibly angry about this data breach" and that
+  T-Mobile would be reviewing its relationship with Experian. Legere emphasized
+  that T-Mobile's own systems were not compromised and that Experian bore
+  responsibility for the security failure.
+
+  Both companies offered affected individuals two years of free credit monitoring
+  and identity resolution services through Experian's ProtectMyID product. The
+  breach prompted significant regulatory scrutiny.
+
+  In 2022, attorneys general from 40 U.S. states reached combined settlements
+  totaling more than $16 million: $13.67 million from Experian and $2.5 million
+  from T-Mobile. The settlements required Experian to implement a comprehensive
+  information security program, conduct regular risk assessments, and provide
+  affected consumers with five years of free credit monitoring services (in
+  addition to the two years initially offered). Texas Attorney General Ken Paxton
+  separately collected over $1.5 million from the two companies.
+
+  The incident became a prominent example of supply chain risk in
+  telecommunications, demonstrating how sensitive customer data shared with
+  third-party vendors for routine business processes like credit checks can
+  become a major liability when the vendor's security fails. It also illustrated
+  the reputational damage to a brand (T-Mobile) caused by a breach at a partner
+  company (Experian) over which it had limited security oversight.

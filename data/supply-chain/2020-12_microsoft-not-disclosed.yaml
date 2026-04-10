@@ -1,15 +1,16 @@
 source_name: Microsoft Third-Party Breach (December 2020)
-source_url: https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html
-date_of_breach: '2020-12-01'
-date_of_disclosure: '2020-12-01'
-date_of_customer_notification: ''
+source_url: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
+date_of_breach: 2020-12-01
+date_of_disclosure: 2020-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Microsoft. Data breached:
-  Credentials for Azure. Use of third party: Third-party reseller. Third-party company:
-  Not disclosed.'
+notes: |-
+  In 2020, Microsoft experienced a data security incident via a third-party vendor relationship. Source
+  reporting:
+  https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html

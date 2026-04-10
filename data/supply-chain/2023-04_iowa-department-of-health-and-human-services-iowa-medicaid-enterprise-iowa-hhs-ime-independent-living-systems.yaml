@@ -1,17 +1,17 @@
-source_name: "Iowa Department of Health and Human Services â\x80\x93 Iowa Medicaid\
-  \ Enterprise (Iowa HHS-IME) Third-Party Breach (April 2023)"
-source_url: https://www.hipaajournal.com/april-2023-healthcare-data-breach-report/
-date_of_breach: '2023-04-01'
-date_of_disclosure: '2023-04-01'
-date_of_customer_notification: ''
+source_name: Iowa Department of Health and Human Services – Iowa Medicaid Enterprise (Iowa HHS-IME) Third-Party Breach (April 2023)
+source_url: "https://www.hipaajournal.com/april-2023-healthcare-data-breach-report/"
+date_of_breach: 2023-04-01
+date_of_disclosure: 2023-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Independent Living Systems
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Iowa Department of Health\
-  \ and Human Services â\x80\x93 Iowa Medicaid Enterprise (Iowa HHS-IME). Data breached:\
-  \ Not disclosed for now. Use of third party: Low-cost insurance coverage for children\
-  \ and teens. Third-party company: Independent Living Systems."
+notes: |-
+  In 2023, Iowa Department of Health and Human Services – Iowa Medicaid Enterprise (Iowa HHS-IME) experienced a
+  data security incident via a third-party vendor relationship. The compromised third-party vendor was
+  Independent Living Systems. Source reporting:
+  https://www.hipaajournal.com/april-2023-healthcare-data-breach-report/

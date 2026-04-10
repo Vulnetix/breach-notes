@@ -1,15 +1,16 @@
 source_name: City of Saint John, NB Third-Party Breach (January 2019)
-source_url: https://www.nsnews.com/saint-john-n-b-reports-data-breach-in-parking-payment-system-1.23556219
-date_of_breach: '2019-01-01'
-date_of_disclosure: '2019-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.nsnews.com/saint-john-n-b-reports-data-breach-in-parking-payment-system-1.23556219"
+date_of_breach: 2019-01-01
+date_of_disclosure: 2019-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for City of Saint John, NB. Data
-  breached: credit card information of 6,000 people. Use of third party: online parking
-  ticket payment system. Third-party company: Click2Gov.'
+notes: |-
+  In 2019, City of Saint John, NB experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Click2Gov. Source reporting:
+  https://www.nsnews.com/saint-john-n-b-reports-data-breach-in-parking-payment-system-1.23556219

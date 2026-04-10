@@ -1,16 +1,16 @@
-source_name: "RigUpâ\x80\x99s energy sector clients Third-Party Breach (April 2020)"
-source_url: https://www.swfinstitute.org/news/78807/rigup-faces-layoffs-and-massive-data-breach
-date_of_breach: '2020-04-01'
-date_of_disclosure: '2020-04-01'
-date_of_customer_notification: ''
+source_name: "RigUp's energy sector clients Third-Party Breach (April 2020)"
+source_url: "https://www.swfinstitute.org/news/78807/rigup-faces-layoffs-and-massive-data-breach"
+date_of_breach: 2020-04-01
+date_of_disclosure: 2020-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: RigUp
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for RigUpâ\x80\x99s energy sector\
-  \ clients. Data breached: Human resource files from RigUpâ\x80\x99s clients, contractors,\
-  \ job seekers. Use of third party: Labor and marketplace provider. Third-party company:\
-  \ RigUp."
+notes: |-
+  In 2020, RigUp's energy sector clients experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was RigUp. Source reporting:
+  https://www.swfinstitute.org/news/78807/rigup-faces-layoffs-and-massive-data-breach

@@ -1,0 +1,17 @@
+source_name: 'ISMG Editors: No Honor Among Ransomware Thieves (DataBreachToday)'
+source_url: https://www.databreachtoday.com/ismg-editors-no-honor-among-ransomware-thieves-a-30814
+date_of_breach: '2026-02-20'
+date_of_disclosure: '2026-02-20'
+date_of_customer_notification: ''
+category: ransomware
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'In this week''s panel, four ISMG editors examined how cybercriminals may be
+  turning on each other, what security leaders are really saying about machine identities
+
+
+  Source: DataBreachToday article coverage.'

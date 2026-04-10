@@ -1,16 +1,39 @@
-source_name: Reddit Third-Party Breach (January 2018)
-source_url: https://www.pymnts.com/news/security-and-risk/2018/reddit-hack-third-party-software-vendor-api-cyberattack/
-date_of_breach: '2018-01-01'
-date_of_disclosure: '2018-01-01'
-date_of_customer_notification: ''
+source_name: Krebs on Security
+source_url: https://krebsonsecurity.com/2018/08/reddit-breach-highlights-limits-of-sms-based-authentication/
+date_of_breach: '2018-06-14'
+date_of_disclosure: '2018-08-01'
+date_of_customer_notification: '2018-08-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: SMS interception bypassing two-factor authentication on employee cloud and source code hosting accounts
 cve: []
 vendor_product: Mailgun
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Reddit. Data breached: No\
-  \ access to Redditâ\x80\x99s systems or to any Redditorsâ\x80\x99 email accounts.\
-  \ Use of third party: Third-party software vendor to send account emails (e.g.,\
-  \ reset password e-mails). Third-party company: Mailgun."
+notes: >-
+  Between June 14 and June 18, 2018, an attacker compromised several Reddit employee accounts
+  at the company's cloud hosting and source code hosting providers by intercepting SMS-based
+  two-factor authentication codes. Reddit discovered the intrusion on June 19, 2018, and
+  disclosed it publicly on August 1, 2018. The attacker gained read-only access to systems
+  containing backup data, source code, internal logs, and configuration files.
+
+  The most significant data exposed included a complete database backup from 2007 containing
+  account credentials (usernames and salted hashed passwords) and email addresses for all
+  Reddit users who registered between the site's 2005 launch and May 2007. The attacker also
+  accessed email digest logs from June 3-17, 2018, which contained the email addresses of
+  users subscribed to digest notifications, linking usernames to email addresses.
+
+  The supply-chain dimension involved Mailgun, Reddit's third-party email service provider
+  used to send account-related emails such as password resets and email digests. While the
+  primary attack vector was SMS interception of employee 2FA codes rather than a direct
+  compromise of Mailgun itself, the breach exposed how Reddit's reliance on third-party
+  cloud and hosting providers created attack surface when employee accounts protecting those
+  services used weak SMS-based authentication rather than hardware token-based 2FA.
+
+  Reddit emphasized that the attacker did not gain write access to any systems and could not
+  alter Reddit data. In response, Reddit required all employees to switch from SMS-based 2FA
+  to token-based 2FA, enhanced internal logging, improved encryption of sensitive data, and
+  rotated all production secrets and API keys. Affected users with active email addresses
+  from the 2007 database were notified directly. The breach became a landmark case study in
+  the inadequacy of SMS-based two-factor authentication, reinforcing NIST guidance that had
+  already deprecated SMS as a second factor in 2016.

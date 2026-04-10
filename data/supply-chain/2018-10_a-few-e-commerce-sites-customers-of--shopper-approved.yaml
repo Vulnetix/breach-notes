@@ -1,17 +1,16 @@
-source_name: A few e-commerce sites customers of Shopper Approved Third-Party Breach
-  (October 2018)
-source_url: https://www.riskiq.com/blog/labs/magecart-shopper-approved/
-date_of_breach: '2018-10-01'
-date_of_disclosure: '2018-10-01'
-date_of_customer_notification: ''
+source_name: A few e-commerce sites customers of Shopper Approved Third-Party Breach (October 2018)
+source_url: "https://www.riskiq.com/blog/labs/magecart-shopper-approved/"
+date_of_breach: 2018-10-01
+date_of_disclosure: 2018-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Shopper Approved
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for A few e-commerce sites customers
-  of Shopper Approved. Data breached: unknown amount of payment card info (still in
-  investigation). Use of third party: 3rd-party Javascript for customer rating. Third-party
-  company: Shopper Approved.'
+notes: |-
+  In 2018, A few e-commerce sites customers of Shopper Approved experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Shopper Approved. Source reporting:
+  https://www.riskiq.com/blog/labs/magecart-shopper-approved/

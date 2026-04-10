@@ -1,17 +1,16 @@
 source_name: Qantas Airways Limited Third-Party Breach (July 2025)
-source_url: https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/
-date_of_breach: '2025-07-01'
-date_of_disclosure: '2025-07-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/"
+date_of_breach: 2025-07-01
+date_of_disclosure: 2025-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Qantas Airways Limited. Data
-  breached: Includes names, email addresses, phone numbers, dates of birth, frequent
-  flyer numbers, and in some cases, addresses, gender, meal preferences, as well as
-  loyalty program details such as tier levels and point balances.. Use of third party:
-  Customer service provider. Third-party company: Third-party vendor.'
+notes: |-
+  In 2025, Qantas Airways Limited experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Third-party vendor. Source reporting:
+  https://www.bleepingcomputer.com/news/security/qantas-confirms-data-breach-impacts-57-million-customers/

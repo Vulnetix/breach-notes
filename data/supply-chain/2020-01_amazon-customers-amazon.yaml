@@ -1,15 +1,19 @@
-source_name: Amazon Customers Third-Party Breach (January 2020)
+source_name: Amazon Insider Data Leak (January 2020)
 source_url: https://gizmodo.com/amazon-employees-leak-customer-data-to-third-party-agen-1840940135
-date_of_breach: '2020-01-01'
-date_of_disclosure: '2020-01-01'
-date_of_customer_notification: ''
+date_of_breach: '2020-01-10'
+date_of_disclosure: '2020-01-10'
+date_of_customer_notification: '2020-01-10'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Malicious insider / rogue employee data exfiltration to unauthorized third party
 cve: []
 vendor_product: Amazon
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Amazon Customers. Data breached:
-  E-mail addresses and phone numbers. Use of third party: Hosting. Third-party company:
-  Amazon.'
+notes: 'In January 2020, Amazon discovered that one or more employees had shared customer email addresses and phone numbers with an unauthorized third party in violation of company policy. Amazon began notifying affected customers by email on or around January 10, 2020, informing them that their contact information had been disclosed. The company terminated the employees responsible and referred the matter to law enforcement for criminal prosecution. An Amazon spokesperson confirmed: "The individuals responsible for this incident have been terminated and we are supporting law enforcement in their prosecution."
+
+  This was not the first such insider incident at Amazon; a similar employee-driven customer data leak had occurred approximately six months earlier in mid-2019. In the January 2020 case, Amazon was unclear about the precise number of customers or employees involved, though multiple staff members appear to have participated. The leaked data was limited to email addresses and phone numbers — no payment card data, passwords, or account credentials were compromised.
+
+  The incident highlights a persistent insider threat risk at large e-commerce platforms where customer contact data is accessible to a broad workforce, including contractors and third-party agents. Amazon''s internal monitoring systems detected the suspicious behavior, enabling relatively rapid identification and termination of the offending employees. No external hacking or system compromise was involved; the breach was entirely the result of deliberate, unauthorized disclosure by personnel with legitimate access to customer records.
+
+  From a regulatory standpoint, the incident raised questions about access controls and the principle of least privilege — specifically, why front-line employees had broad access to customer contact databases beyond what their roles strictly required. Amazon did not publicly quantify the number of affected customers, nor did it detail what the third-party recipient intended to do with the data.'

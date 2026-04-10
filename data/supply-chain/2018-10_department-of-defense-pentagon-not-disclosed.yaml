@@ -1,15 +1,16 @@
 source_name: Department of Defense (Pentagon) Third-Party Breach (October 2018)
-source_url: https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/
-date_of_breach: '2018-10-01'
-date_of_disclosure: '2018-10-01'
-date_of_customer_notification: ''
+source_url: "https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/"
+date_of_breach: 2018-10-01
+date_of_disclosure: 2018-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Department of Defense (Pentagon).
-  Data breached: personal and payment card info of 30K employees and service members.
-  Use of third party: Maintenance of travel records. Third-party company: not disclosed.'
+notes: |-
+  In 2018, Department of Defense (Pentagon) experienced a data security incident via a third-party vendor
+  relationship. Source reporting:
+  https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/

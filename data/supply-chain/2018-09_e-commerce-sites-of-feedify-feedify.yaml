@@ -1,16 +1,16 @@
 source_name: e-commerce sites of Feedify Third-Party Breach (September 2018)
-source_url: https://securityaffairs.co/wordpress/76239/cyber-crime/magecart-compromised-feedify.html
-date_of_breach: '2018-09-01'
-date_of_disclosure: '2018-09-01'
-date_of_customer_notification: ''
+source_url: "https://securityaffairs.co/wordpress/76239/cyber-crime/magecart-compromised-feedify.html"
+date_of_breach: 2018-09-01
+date_of_disclosure: 2018-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Feedify
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for e-commerce sites of Feedify.
-  Data breached: payment card data from customers of hundreds of e-commerce websites
-  may have been stolen due to the compromise of the cloud service firm Feedify. Use
-  of third party: Cloud service provider. Third-party company: Feedify.'
+notes: |-
+  In 2018, e-commerce sites of Feedify experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Feedify. Source reporting:
+  https://securityaffairs.co/wordpress/76239/cyber-crime/magecart-compromised-feedify.html

@@ -1,20 +1,17 @@
-source_name: United Healthcare, Aetna Life Insurance Company (CVS Health) and 46 more
-  Third-Party Breach (July 2025)
-source_url: https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/
-date_of_breach: '2025-07-01'
-date_of_disclosure: '2025-07-01'
-date_of_customer_notification: ''
+source_name: United Healthcare, Aetna Life Insurance Company (CVS Health) and 46 more Third-Party Breach (July 2025)
+source_url: "https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/"
+date_of_breach: 2025-07-01
+date_of_disclosure: 2025-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: Kelly & Associates Insurance Group
-software_package: ''
-malware: ''
+vendor_product: "Kelly & Associates Insurance Group"
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for United Healthcare, Aetna
-  Life Insurance Company (CVS Health) and 46 more. Data breached: Includes full names,
-  Social Security number, tax ID number, date of birth, medical information, health
-  insurance information, and financial account information.. Use of third party: Provider
-  of benefits consulting, enrollment technology, payroll administration, HRIS, compliance
-  support, and carrier management.. Third-party company: Kelly & Associates Insurance
-  Group.'
+notes: |-
+  In 2025, United Healthcare, Aetna Life Insurance Company (CVS Health) and 46 more experienced a data security
+  incident via a third-party vendor relationship. The compromised third-party vendor was Kelly & Associates
+  Insurance Group. Source reporting:
+  https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/

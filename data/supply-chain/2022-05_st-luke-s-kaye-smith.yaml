@@ -1,17 +1,16 @@
-source_name: "St. Lukeâ\x80\x99s Third-Party Breach (May 2022)"
-source_url: https://boisedev.com/news/2022/07/27/st-lukes-data-breach/
-date_of_breach: '2022-05-01'
-date_of_disclosure: '2022-05-01'
-date_of_customer_notification: ''
+source_name: "St. Luke's Third-Party Breach (May 2022)"
+source_url: "https://boisedev.com/news/2022/07/27/st-lukes-data-breach/"
+date_of_breach: 2022-05-01
+date_of_disclosure: 2022-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Kaye-Smith
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for St. Lukeâ\x80\x99s. Data\
-  \ breached: Patient names, insured names, addresses, phone numbers, ID numbers,\
-  \ dates of birth, last five digits of Social Security numbers, descriptions of services,\
-  \ billing amounts, outstanding balances, payment due dates, and status of the accounts.\
-  \ Use of third party: Billing services vendor. Third-party company: Kaye-Smith."
+notes: |-
+  In 2022, St. Luke's experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Kaye-Smith. Source reporting:
+  https://boisedev.com/news/2022/07/27/st-lukes-data-breach/

@@ -42,6 +42,20 @@ INCIDENT_TERMS = [
     "incident",
 ]
 
+URL_HINT_TERMS = [
+    "breach",
+    "ransomware",
+    "hack",
+    "leak",
+    "stolen",
+    "compromise",
+    "malware",
+    "extortion",
+    "phishing",
+    "cyberattack",
+    "cyber-attack",
+]
+
 
 def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-") or "incident"
@@ -66,17 +80,17 @@ def load_existing_source_urls() -> set[str]:
     return urls
 
 
-def get(session: requests.Session, url: str, retries: int = 3) -> Optional[str]:
+def get(session: requests.Session, url: str, retries: int = 2) -> Optional[str]:
     for attempt in range(retries):
         try:
-            resp = session.get(url, timeout=45)
+            resp = session.get(url, timeout=25)
             if resp.status_code == 200:
                 return resp.text
             if resp.status_code in (403, 429):
-                time.sleep(1.5 + attempt)
+                time.sleep(0.8 + attempt)
                 continue
         except Exception:
-            time.sleep(1 + attempt)
+            time.sleep(0.8 + attempt)
     return None
 
 
@@ -142,7 +156,14 @@ def collect_article_urls(session: requests.Session) -> list[str]:
         m = re.search(r"-a-(\d+)$", url)
         return int(m.group(1)) if m else 0
 
-    return sorted(article_urls, key=extract_id, reverse=True)
+    # Pre-filter by URL slug terms so we do not fetch all 20k articles.
+    filtered = []
+    for url in article_urls:
+        slug = url.split('.com/', 1)[1].rsplit('-a-', 1)[0].lower()
+        if any(term in slug for term in URL_HINT_TERMS):
+            filtered.append(url)
+
+    return sorted(filtered, key=extract_id, reverse=True)
 
 
 def should_keep(title: str, description: str) -> bool:
@@ -204,6 +225,8 @@ def main() -> None:
 
         page = get(session, url)
         fetched += 1
+        if fetched % 100 == 0:
+            print(f"Fetched {fetched} article pages, current added={added}, skipped={skipped}")
         if not page:
             skipped += 1
             continue
@@ -247,7 +270,7 @@ def main() -> None:
         if added % 25 == 0:
             print(f"Added {added} entries so far...")
 
-        time.sleep(0.15)
+        time.sleep(0.08)
 
     print(
         f"DataBreachToday import complete: added={added}, fetched={fetched}, skipped={skipped}, "

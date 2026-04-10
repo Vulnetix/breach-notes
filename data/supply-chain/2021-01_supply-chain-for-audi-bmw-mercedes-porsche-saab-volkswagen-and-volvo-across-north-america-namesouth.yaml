@@ -1,18 +1,17 @@
-source_name: Supply chain for Audi, BMW, Mercedes, Porsche, Saab, Volkswagen and Volvo
-  across North America Third-Party Breach (January 2021)
-source_url: https://cybernews.com/security/after-refusing-to-pay-ransom-us-based-auto-parts-distributor-has-sensitive-data-leaked-by-cybercriminals/?web_view=true
-date_of_breach: '2021-01-01'
-date_of_disclosure: '2021-01-01'
-date_of_customer_notification: ''
+source_name: Supply chain for Audi, BMW, Mercedes, Porsche, Saab, Volkswagen and Volvo across North America Third-Party Breach (January 2021)
+source_url: "https://cybernews.com/security/after-refusing-to-pay-ransom-us-based-auto-parts-distributor-has-sensitive-data-leaked-by-cybercriminals/?web_view=true"
+date_of_breach: 2021-01-01
+date_of_disclosure: 2021-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: NameSouth
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Supply chain for Audi, BMW,
-  Mercedes, Porsche, Saab, Volkswagen and Volvo across North America. Data breached:
-  Full names, addresses, phone numbers, and exact working hours of at least 12 NameSouth
-  employees, credit card statements. Use of third party: OEM company. Third-party
-  company: NameSouth.'
+notes: |-
+  In 2021, Supply chain for Audi, BMW, Mercedes, Porsche, Saab, Volkswagen and Volvo across North America
+  experienced a data security incident via a third-party vendor relationship. The compromised third-party vendor
+  was NameSouth. Source reporting:
+  https://cybernews.com/security/after-refusing-to-pay-ransom-us-based-auto-parts-distributor-has-sensitive-data-leaked-by-cybercriminals/?web_view=true

@@ -1,17 +1,16 @@
-source_name: Employment and Social Development Canada (ESDC) Third-Party Breach (September
-  2025)
-source_url: https://www.canada.ca/en/treasury-board-secretariat/news/2025/09/statement-from-the-office-of-the-chief-information-officer-of-the-government-of-canada-on-data-security-incident.html
-date_of_breach: '2025-09-01'
-date_of_disclosure: '2025-09-01'
-date_of_customer_notification: ''
+source_name: Employment and Social Development Canada (ESDC) Third-Party Breach (September 2025)
+source_url: "https://www.canada.ca/en/treasury-board-secretariat/news/2025/09/statement-from-the-office-of-the-chief-information-officer-of-the-government-of-canada-on-data-security-incident.html"
+date_of_breach: 2025-09-01
+date_of_disclosure: 2025-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: 2Keys Corporation
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Employment and Social Development
-  Canada (ESDC). Data breached: Includes phone numbers associated with CRA and ESDC
-  accounts and email addresses associated with CBSA accounts. Use of third party:
-  Third party service provider. Third-party company: 2Keys Corporation.'
+notes: |-
+  In 2025, Employment and Social Development Canada (ESDC) experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was 2Keys Corporation. Source reporting:
+  https://www.canada.ca/en/treasury-board-secretariat/news/2025/09/statement-from-the-office-of-the-chief-information-officer-of-the-government-of-canada-on-data-security-incident.html

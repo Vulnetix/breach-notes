@@ -1,15 +1,16 @@
 source_name: Apple, Google, Amazon, Citibank Third-Party Breach (October 2020)
-source_url: https://latesthackingnews.com/2020/10/28/nitro-pdf-suffered-a-data-breach-impacting-google-apple-amazon-and-more/#:~:text=They%20confirmed%20the%20stolen%20data,names%2C%20and%20other%20user%20data.
-date_of_breach: '2020-10-01'
-date_of_disclosure: '2020-10-01'
-date_of_customer_notification: ''
+source_url: "https://latesthackingnews.com/2020/10/28/nitro-pdf-suffered-a-data-breach-impacting-google-apple-amazon-and-more/#:~:text=They%20confirmed%20the%20stolen%20data,names%2C%20and%20other%20user%20data."
+date_of_breach: 2020-10-01
+date_of_disclosure: 2020-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: NITRO
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Apple, Google, Amazon, Citibank.
-  Data breached: E-mail addresses,. Use of third party: Software provider. Third-party
-  company: NITRO.'
+notes: |-
+  In 2020, Apple, Google, Amazon, Citibank experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was NITRO. Source reporting:
+  https://latesthackingnews.com/2020/10/28/nitro-pdf-suffered-a-data-breach-impacting-google-apple-amazon-and-more/#:~:text=They%20confirmed%20the%20stolen%20data,names%2C%20and%20other%20user%20data.

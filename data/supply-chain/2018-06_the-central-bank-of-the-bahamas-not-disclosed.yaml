@@ -1,15 +1,22 @@
-source_name: The Central Bank of the Bahamas Third-Party Breach (June 2018)
+source_name: Central Banking / Central Bank of the Bahamas
 source_url: https://www.centralbanking.com/central-banks/3610516/bahamas-central-bank-traces-website-breach-to-third-party
-date_of_breach: '2018-06-01'
-date_of_disclosure: '2018-06-01'
-date_of_customer_notification: ''
+date_of_breach: '2018-06-28'
+date_of_disclosure: '2018-06-28'
+date_of_customer_notification: '2018-06-28'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unauthorized access to external-facing public website via compromised third-party website hosting vendor
 cve: []
-vendor_product: Not disclosed
+vendor_product: Third-party website hosting provider (not disclosed)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for The Central Bank of the Bahamas.
-  Data breached: No indication that any personal information was been accessed or
-  viewed. Use of third party: Website hosting. Third-party company: Not disclosed.'
+notes: >-
+  On June 28, 2018, the Central Bank of the Bahamas was made aware of unauthorized access to its external-facing public website. The bank's investigation confirmed that the breach originated with a third-party vendor contracted to develop and host its website. The Central Bank issued a press release stating that it was investigating the incident and had engaged external cybersecurity experts to assess the scope of the compromise.
+
+  The Central Bank reported that there was no indication that any personal information had been accessed or viewed during the incident. The bank's internal network and core banking systems were not affected, as the breach was limited to the externally hosted public website. The investigation determined that the vulnerability resided within the third-party hosting provider's infrastructure rather than in the bank's own internal systems.
+
+  The bank stated that it had taken immediate steps to secure the website and was working with the third-party vendor to remediate the vulnerabilities that allowed the unauthorized access. The Central Bank also confirmed that it was reviewing its third-party vendor management practices in light of the incident.
+
+  While the breach was relatively limited in scope with no confirmed data exfiltration, it served as a notable example of supply chain risk in the financial sector, where even central banks can be exposed through their third-party service providers. The incident occurred during a period of heightened awareness around third-party cybersecurity risk following several high-profile supply chain breaches in 2017-2018.
+
+  Primary source: https://www.centralbanking.com/central-banks/3610516/bahamas-central-bank-traces-website-breach-to-third-party

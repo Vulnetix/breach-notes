@@ -1,18 +1,17 @@
-source_name: Centers for Medicare & Medicaid Services (CMS) Third-Party Breach (September
-  2024)
-source_url: https://www.cms.gov/newsroom/press-releases/cms-notifies-individuals-potentially-impacted-data-breach
-date_of_breach: '2024-09-01'
-date_of_disclosure: '2024-09-01'
-date_of_customer_notification: ''
+source_name: "Centers for Medicare & Medicaid Services (CMS) Third-Party Breach (September 2024)"
+source_url: "https://www.cms.gov/newsroom/press-releases/cms-notifies-individuals-potentially-impacted-data-breach"
+date_of_breach: 2024-09-01
+date_of_disclosure: 2024-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Wisconsin Physicians Service Insurance Corporation (WPS)
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Centers for Medicare & Medicaid
-  Services (CMS). Data breached: Name, Social, Security Number or Individual Taxpayer
-  Identification Number, Date of Birth, Mailing Address, Gender. Use of third party:
-  Medicare administrative services provider. Third-party company: Wisconsin Physicians
-  Service Insurance Corporation (WPS).'
+notes: |-
+  In 2024, Centers for Medicare & Medicaid Services (CMS) experienced a data security incident via a third-party
+  vendor relationship. The compromised third-party vendor was Wisconsin Physicians Service Insurance Corporation
+  (WPS). Source reporting:
+  https://www.cms.gov/newsroom/press-releases/cms-notifies-individuals-potentially-impacted-data-breach

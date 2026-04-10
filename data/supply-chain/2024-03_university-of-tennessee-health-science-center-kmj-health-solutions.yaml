@@ -1,20 +1,16 @@
-source_name: University of Tennessee Health Science Center Third-Party Breach (March
-  2024)
-source_url: https://www.hipaajournal.com/california-and-north-dakota-hospitals-report-cyberattacks/
-date_of_breach: '2024-03-01'
-date_of_disclosure: '2024-03-01'
-date_of_customer_notification: ''
+source_name: University of Tennessee Health Science Center Third-Party Breach (March 2024)
+source_url: "https://www.hipaajournal.com/california-and-north-dakota-hospitals-report-cyberattacks/"
+date_of_breach: 2024-03-01
+date_of_disclosure: 2024-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: KMJ Health Solutions
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for University of Tennessee Health\
-  \ Science Center. Data breached: First and last names, address, phone number, email\
-  \ address, date of birth, driverâ\x80\x99s license number, government identification\
-  \ number, vehicle identification number, passport number, Social Security number,\
-  \ patient ID account number, medical information, health information and/or health\
-  \ insurance information.. Use of third party: Healthcare Provider. Third-party company:\
-  \ KMJ Health Solutions."
+notes: |-
+  In 2024, University of Tennessee Health Science Center experienced a data security incident via a third-party
+  vendor relationship. The compromised third-party vendor was KMJ Health Solutions. Source reporting:
+  https://www.hipaajournal.com/california-and-north-dakota-hospitals-report-cyberattacks/

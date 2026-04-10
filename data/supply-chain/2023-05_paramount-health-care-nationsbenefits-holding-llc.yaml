@@ -1,15 +1,16 @@
 source_name: Paramount Health Care Third-Party Breach (May 2023)
-source_url: https://www.hipaajournal.com/il-ky-tn-healthcare-cyberattacks/
-date_of_breach: '2023-05-01'
-date_of_disclosure: '2023-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/il-ky-tn-healthcare-cyberattacks/"
+date_of_breach: 2023-05-01
+date_of_disclosure: 2023-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: NationsBenefits Holding, LLC
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Paramount Health Care. Data
-  breached: Names, addresses, and Social Security numbers.. Use of third party: Health
-  company. Third-party company: NationsBenefits Holding, LLC.'
+notes: |-
+  In 2023, Paramount Health Care experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was NationsBenefits Holding, LLC. Source reporting:
+  https://www.hipaajournal.com/il-ky-tn-healthcare-cyberattacks/

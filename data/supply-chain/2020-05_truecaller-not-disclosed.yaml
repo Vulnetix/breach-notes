@@ -1,16 +1,16 @@
 source_name: TrueCaller Third-Party Breach (May 2020)
-source_url: https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-being-of-475-crore-sold-on-dark-web-for-rs-75000
-date_of_breach: '2020-05-01'
-date_of_disclosure: '2020-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-being-of-475-crore-sold-on-dark-web-for-rs-75000"
+date_of_breach: 2020-05-01
+date_of_disclosure: 2020-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for TrueCaller. Data breached:
-  Full names, email addresses, mobile numbers, Facebook IDs, age, city, gender, telecom
-  service provider. Use of third party: Third-party merchant. Third-party company:
-  Not disclosed.'
+notes: |-
+  In 2020, TrueCaller experienced a data security incident via a third-party vendor relationship. Source
+  reporting:
+  https://www.thequint.com/tech-and-auto/tech-news/truecaller-user-data-being-of-475-crore-sold-on-dark-web-for-rs-75000

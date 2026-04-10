@@ -1,15 +1,16 @@
 source_name: Sitepoint, teespring Third-Party Breach (February 2021)
-source_url: https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/
-date_of_breach: '2021-02-01'
-date_of_disclosure: '2021-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/"
+date_of_breach: 2021-02-01
+date_of_disclosure: 2021-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: WayDev
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Sitepoint, teespring. Data
-  breached: Email addresses. Use of third party: Web analytics. Third-party company:
-  WayDev.'
+notes: |-
+  In 2021, Sitepoint, teespring experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was WayDev. Source reporting:
+  https://www.zdnet.com/article/hacker-leaks-data-of-millions-of-teespring-users/

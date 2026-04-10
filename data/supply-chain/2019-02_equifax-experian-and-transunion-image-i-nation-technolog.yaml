@@ -1,16 +1,13 @@
-source_name: Equifax, Experian and TransUnion Third-Party Breach (February 2019)
-source_url: https://www.infosecurity-magazine.com/news/equifax-partner-breaches-customer-1/
-date_of_breach: '2019-02-01'
-date_of_disclosure: '2019-02-01'
+source_name: Image-I-Nation Technologies Supply Chain Breach Affecting Credit Bureau Customers (2018–2019)
+source_url: https://www.scmagazine.com/home/security-news/image-i-nation-supply-chain-breach-exposes-data-of-major-credit-agencies-customers/
+date_of_breach: '2018-11-01'
+date_of_disclosure: '2019-02-13'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Network intrusion at third-party hosting and background screening software provider shared by Equifax, Experian, and TransUnion
 cve: []
 vendor_product: Image-I-Nation Technologies
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Equifax, Experian and TransUnion.
-  Data breached: personal information including Social Security numbers, names, dates
-  of birth and home addresses may have been stolen. Use of third party: employee and
-  background screening software. Third-party company: Image-I-Nation Technologies.'
+notes: "Image-I-Nation Technologies, Inc. is a technology and hosting company that provides background screening software and data services to consumer reporting agencies (CRAs). In late 2018, the company suffered a network intrusion that exposed personal data belonging to customers of its major CRA clients — Equifax, Experian, and TransUnion.\n\nImage-I-Nation discovered the breach on December 20, 2018. Forensic investigation determined that the intrusion occurred between November 1 and November 15, 2018 — a two-week window during which attackers had access to systems containing sensitive consumer data. The company engaged an external forensic IT firm to investigate and improve security posture.\n\nExposed data potentially included first and last names, dates of birth, home addresses, and Social Security numbers. The exact number of affected individuals was not publicly disclosed, though the breach was reported to state attorneys general as required under applicable notification laws.\n\nThe incident is notable as a supply chain attack against the infrastructure underpinning the US credit reporting system. Rather than attacking Equifax, Experian, or TransUnion directly — all of which have significant security investments following the high-profile 2017 Equifax breach — the attacker targeted a smaller shared services vendor that held equivalent data and presented a softer target.\n\nAll three affected credit bureaus were notified by Image-I-Nation after the discovery. The breach was publicly reported in February 2019. Image-I-Nation Technologies contacted affected individuals and offered identity protection assistance.\n\nThe incident underscores a persistent pattern: major regulated institutions invest heavily in direct security controls while their vendor ecosystems — including hosting partners, background screening providers, and data processors — operate with far less scrutiny and often hold comparable access to the same sensitive consumer information."

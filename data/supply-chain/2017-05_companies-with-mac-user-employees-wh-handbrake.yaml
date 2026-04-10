@@ -1,16 +1,13 @@
-source_name: Companies with Mac-user employees who use Handbrake tool Third-Party
-  Breach (May 2017)
+source_name: Handbrake macOS App Supply Chain Attack — Mac Users' Credentials Stolen
 source_url: https://www.macrumors.com/2017/05/07/handbrake-app-security-warning-servers-hacked/
 date_of_breach: '2017-05-01'
 date_of_disclosure: '2017-05-01'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Attackers compromised the HandBrake download mirror server and replaced the legitimate macOS HandBrake installer (HandBrake-1.0.7.dmg) with a trojanized version containing the Proton RAT; users who downloaded HandBrake from the compromised mirror between 2-6 May 2017 received malware instead of the legitimate application
 cve: []
-vendor_product: Handbrake
+vendor_product: HandBrake video transcoder (mirror download server)
 software_package: ''
-malware: ''
+malware: Proton RAT (Remote Access Trojan) for macOS
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Companies with Mac-user employees
-  who use Handbrake tool. Data breached: Unknown. Use of third party: Open source
-  video transcoder. Third-party company: Handbrake.'
+notes: Between 2-6 May 2017, attackers compromised one of HandBrake's macOS download mirror servers and replaced the legitimate HandBrake installer with a trojanized version containing the Proton RAT — a macOS remote access trojan sold on criminal forums. HandBrake is a free, open-source video transcoding application widely used by creative professionals and developers on macOS. The HandBrake team estimated approximately 50% of downloads during the compromised window came from the affected mirror. The Proton RAT collected macOS Keychain data (stored passwords), browser saved credentials, SSH keys, and GPG keys, and sent them to an attacker-controlled command-and-control server. The actor Maija Lehtinen was subsequently identified as the operator behind the Proton RAT. Infected users were instructed to immediately change all saved passwords, invalidate SSH keys and GPG keys, and check their Keychain for stored credentials. Corporate victims included Panic Software (maker of macOS development tools), which confirmed via Twitter that it had been infected, potentially exposing customer data. The attack was a notable early example of macOS supply chain compromise through a trusted open-source download mirror.

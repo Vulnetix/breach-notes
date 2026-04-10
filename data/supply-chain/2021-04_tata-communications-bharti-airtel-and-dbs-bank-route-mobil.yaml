@@ -1,16 +1,16 @@
-source_name: Tata Communications, Bharti Airtel and DBS Bank Third-Party Breach (April
-  2021)
-source_url: https://www.freepressjournal.in/business/data-leak-route-mobile-investigating-claims-data-of-tata-communications-bharti-airtel-and-dbs-bank-allegedly-leaked
-date_of_breach: '2021-04-01'
-date_of_disclosure: '2021-04-01'
-date_of_customer_notification: ''
+source_name: Tata Communications, Bharti Airtel and DBS Bank Third-Party Breach (April 2021)
+source_url: "https://www.freepressjournal.in/business/data-leak-route-mobile-investigating-claims-data-of-tata-communications-bharti-airtel-and-dbs-bank-allegedly-leaked"
+date_of_breach: 2021-04-01
+date_of_disclosure: 2021-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Route mobil
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Tata Communications, Bharti
-  Airtel and DBS Bank. Data breached: Not disclosed. Use of third party: Cloud company.
-  Third-party company: Route mobil.'
+notes: |-
+  In 2021, Tata Communications, Bharti Airtel and DBS Bank experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Route mobil. Source reporting:
+  https://www.freepressjournal.in/business/data-leak-route-mobile-investigating-claims-data-of-tata-communications-bharti-airtel-and-dbs-bank-allegedly-leaked

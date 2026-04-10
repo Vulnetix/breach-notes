@@ -1,21 +1,58 @@
-source_name: "Many Ukrainen companies and everal global corporations were also infected\
-  \ â\x80\x93 including shipping giant Maersk, advertising firm WPP, pharmaceutical\
-  \ outfit Merck, and FedExâ\x80\x99s TNT Express division. Third-Party Breach (June\
-  \ 2017)"
-source_url: https://www.theregister.co.uk/2018/06/27/notpetya_anniversary/
-date_of_breach: '2017-06-01'
-date_of_disclosure: '2017-06-01'
-date_of_customer_notification: ''
+source_name: Wikipedia
+source_url: https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks
+date_of_breach: '2017-06-27'
+date_of_disclosure: '2017-06-27'
+date_of_customer_notification: '2017-06-27'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
-cve: []
-vendor_product: MeDoc
-software_package: ''
-malware: ''
+initial_attack_vector: Compromised software update mechanism of MeDoc Ukrainian tax accounting software
+cve:
+  - CVE-2017-0144
+  - CVE-2017-0145
+vendor_product: MeDoc (Intellect Service)
+software_package: MeDoc
+malware: NotPetya (Petya variant / wiper disguised as ransomware)
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Many Ukrainen companies and\
-  \ everal global corporations were also infected â\x80\x93 including shipping giant\
-  \ Maersk, advertising firm WPP, pharmaceutical outfit Merck, and FedExâ\x80\x99\
-  s TNT Express division.. Data breached: Unknown (lost of hundreds of million dollars\
-  \ to ransonware). Use of third party: Accounting software. Third-party company:\
-  \ MeDoc."
+notes: >-
+  On June 27, 2017, the NotPetya cyberattack struck, becoming one of the
+  most destructive and costly cyberattacks in history with estimated global
+  damages exceeding $10 billion. The attack was attributed to Russian
+  military intelligence (GRU Sandworm team) and primarily targeted Ukraine,
+  which accounted for approximately 80% of infections, though it rapidly
+  spread worldwide.
+
+  The initial infection vector was a compromised software update for MeDoc,
+  a widely used Ukrainian tax and accounting application developed by
+  Intellect Service. The attackers had infiltrated MeDoc's update
+  infrastructure and injected the NotPetya payload into a legitimate
+  software update distributed through the application's auto-update process
+  (EzVit.exe). Because MeDoc was required by Ukrainian tax law, it was
+  installed on virtually every business computer in Ukraine, giving the
+  attack enormous reach.
+
+  Once inside a network, NotPetya propagated laterally using the EternalBlue
+  (CVE-2017-0144) and EternalRomance (CVE-2017-0145) exploits targeting
+  SMBv1 vulnerabilities in Microsoft Windows, both patched by Microsoft in
+  MS17-010 in March 2017. It also harvested credentials using a modified
+  version of Mimikatz and spread via Windows Management Instrumentation
+  (WMI) and PsExec. Although it presented a ransom demand, NotPetya was
+  actually a wiper: it irreversibly encrypted the master boot record,
+  making data recovery impossible regardless of payment.
+
+  Major corporate victims included Maersk (shipping, $250-300 million in
+  losses, 49,000 devices destroyed, all 1,200 business applications
+  rendered inaccessible), Merck (pharmaceutical, over $870 million in
+  damages), FedEx's TNT Express division ($400 million), advertising firm
+  WPP, law firm DLA Piper, food company Mondelez, construction materials
+  firm Saint-Gobain, and Heritage Valley Health System in Pennsylvania.
+  Ukrainian infrastructure was particularly devastated, including
+  government ministries, banks, the postal service, Kyiv metro, and the
+  Chernobyl nuclear power plant's radiation monitoring system.
+
+  In February 2018, the US, UK, and several other governments formally
+  attributed NotPetya to the Russian military, specifically the GRU's
+  Main Center for Special Technologies (Unit 74455, also known as
+  Sandworm). In October 2020, the US Department of Justice indicted six
+  GRU officers for the attack. NotPetya remains the canonical example of
+  a software supply chain attack causing catastrophic collateral damage
+  and fundamentally changed how organizations assess supply chain cyber
+  risk.

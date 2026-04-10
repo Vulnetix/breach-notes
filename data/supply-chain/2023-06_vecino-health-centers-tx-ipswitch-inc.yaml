@@ -1,16 +1,16 @@
 source_name: Vecino Health Centers, TX Third-Party Breach (June 2023)
-source_url: https://www.bleepingcomputer.com/news/security/missouri-warns-that-health-info-was-stolen-in-ibm-moveit-data-breach/
-date_of_breach: '2023-06-01'
-date_of_disclosure: '2023-06-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/missouri-warns-that-health-info-was-stolen-in-ibm-moveit-data-breach/"
+date_of_breach: 2023-06-01
+date_of_disclosure: 2023-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Ipswitch, Inc.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Vecino Health Centers, TX.
-  Data breached: Name, department client number (DCN), date of birth, possible benefit
-  eligibility status or coverage, and medical claims information. Use of third party:
-  Health Insurance. Third-party company: Ipswitch, Inc..'
+notes: |-
+  In 2023, Vecino Health Centers, TX experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Ipswitch, Inc.. Source reporting:
+  https://www.bleepingcomputer.com/news/security/missouri-warns-that-health-info-was-stolen-in-ibm-moveit-data-breach/

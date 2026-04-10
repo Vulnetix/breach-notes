@@ -1,16 +1,16 @@
 source_name: Allianz Life Third-Party Breach (July 2025)
-source_url: https://www.scworld.com/brief/massive-data-breach-confirmed-by-allianz-life
-date_of_breach: '2025-07-01'
-date_of_disclosure: '2025-07-01'
-date_of_customer_notification: ''
+source_url: "https://www.scworld.com/brief/massive-data-breach-confirmed-by-allianz-life"
+date_of_breach: 2025-07-01
+date_of_disclosure: 2025-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Allianz Life. Data breached:
-  Includes personal data belonging to clients, financial professionals, and certain
-  employees.. Use of third party: Cloud-based customer relationship management system
-  provider. Third-party company: Third-party vendor.'
+notes: |-
+  In 2025, Allianz Life experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Third-party vendor. Source reporting:
+  https://www.scworld.com/brief/massive-data-breach-confirmed-by-allianz-life

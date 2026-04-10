@@ -1,15 +1,16 @@
 source_name: Saskatchewan HAL system Third-Party Breach (January 2021)
-source_url: https://globalnews.ca/news/7573195/saskatchewan-privacy-commissioner-hunting-licence-breach/?&web_view=true
-date_of_breach: '2021-01-01'
-date_of_disclosure: '2021-01-01'
-date_of_customer_notification: ''
+source_url: "https://globalnews.ca/news/7573195/saskatchewan-privacy-commissioner-hunting-licence-breach/?&web_view=true"
+date_of_breach: 2021-01-01
+date_of_disclosure: 2021-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Aspira
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Saskatchewan HAL system.
-  Data breached: Customer name and HAL account identification number for about 33,000
-  email addresses.. Use of third party: Software company. Third-party company: Aspira.'
+notes: |-
+  In 2021, Saskatchewan HAL system experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Aspira. Source reporting:
+  https://globalnews.ca/news/7573195/saskatchewan-privacy-commissioner-hunting-licence-breach/?&web_view=true

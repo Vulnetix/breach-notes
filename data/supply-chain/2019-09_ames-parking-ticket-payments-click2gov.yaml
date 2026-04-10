@@ -1,16 +1,16 @@
 source_name: Ames parking ticket payments Third-Party Breach (September 2019)
-source_url: https://businessrecord.com/Content/Default/All-Latest-News/Article/Ames-parking-ticket-payments-hit-by-second-national-Click2Gov-data-breach/-3/248/88111
-date_of_breach: '2019-09-01'
-date_of_disclosure: '2019-09-01'
-date_of_customer_notification: ''
+source_url: "https://businessrecord.com/Content/Default/All-Latest-News/Article/Ames-parking-ticket-payments-hit-by-second-national-Click2Gov-data-breach/-3/248/88111"
+date_of_breach: 2019-09-01
+date_of_disclosure: 2019-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Ames parking ticket payments.\
-  \ Data breached: 1,498 individualsâ\x80\x99 information includes encrypted credit\
-  \ or debit card numbers, first names, last names, addresses and email addresses.\
-  \ Use of third party: payment software system. Third-party company: Click2Gov."
+notes: |-
+  In 2019, Ames parking ticket payments experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Click2Gov. Source reporting:
+  https://businessrecord.com/Content/Default/All-Latest-News/Article/Ames-parking-ticket-payments-hit-by-second-national-Click2Gov-data-breach/-3/248/88111

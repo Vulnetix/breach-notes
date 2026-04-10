@@ -1,14 +1,57 @@
-source_name: Red Cross Third-Party Breach (January 2022)
-source_url: https://www.darkreading.com/attacks-breaches/red-cross-hit-via-third-party-cyberattack?utm_source=dlvr.it&utm_medium=twitter
-date_of_breach: '2022-01-01'
-date_of_disclosure: '2022-01-01'
-date_of_customer_notification: ''
+source_name: ICRC (Red Cross) Data Breach via Zoho ManageEngine Vulnerability
+source_url: "https://www.icrc.org/en/document/cyber-attack-icrc-what-we-know"
+date_of_breach: 2021-11-09
+date_of_disclosure: 2022-01-19
+date_of_customer_notification: ""
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
-cve: []
-vendor_product: Not disclosed
-software_package: ''
-malware: ''
+initial_attack_vector: Exploitation of unpatched CVE-2021-40539 in Zoho ManageEngine ADSelfService Plus, enabling unauthenticated remote code execution on ICRC servers hosted by a third-party contractor in Switzerland
+cve:
+  - CVE-2021-40539
+vendor_product: Zoho ManageEngine ADSelfService Plus
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Red Cross. Data breached:
-  Not disclosed. Use of third party: Hosting provider. Third-party company: Not disclosed.'
+notes: |-
+  On 19 January 2022, the International Committee of the Red Cross (ICRC) disclosed a sophisticated
+  cyberattack that compromised personal data on more than 515,000 highly vulnerable individuals whose
+  information was held as part of the Restoring Family Links programme — a global effort to reconnect
+  people separated by conflict, disaster, and migration. The data was hosted on servers maintained by
+  a third-party contractor in Switzerland.
+
+  The actual intrusion began on 9 November 2021, nearly two months before discovery. Attackers exploited
+  CVE-2021-40539, a critical authentication bypass and remote code execution vulnerability in Zoho
+  ManageEngine ADSelfService Plus (CVSS 9.8), which had been publicly known and patched since September
+  2021 but remained unpatched on the ICRC contractor's systems. The vulnerability allowed the threat
+  actor to achieve unauthenticated RCE and establish persistent access to ICRC's contact database
+  environment, going undetected for approximately 70 days.
+
+  Post-incident forensic analysis revealed a highly targeted operation: malicious files were crafted
+  specifically to execute only on ICRC's servers, verified using the targeted servers' MAC addresses.
+  Most of the malware was custom-built to evade existing anti-malware defenses. Detection ultimately
+  came only after ICRC deployed advanced endpoint detection and response (EDR) agents as part of a
+  planned security enhancement programme.
+
+  The compromised data covered individuals from at least 60 Red Cross and Red Crescent national
+  societies, including missing persons and their families, detainees, unaccompanied or separated
+  children, and other people receiving ICRC services following armed conflict or natural disasters.
+  Additionally, login credentials for approximately 2,000 ICRC and Red Crescent staff and volunteers
+  were exposed.
+
+  The ICRC did not formally attribute the attack, but Palo Alto Networks researchers had previously
+  linked campaigns exploiting CVE-2021-40539 to APT27 (a Chinese state-sponsored threat group), and
+  Microsoft similarly reported Chinese state actors exploiting the same flaw. The ICRC described the
+  attack as "state-sponsored" in a February 2022 update, calling it a "targeted" and "sophisticated"
+  operation rather than opportunistic. The organisation publicly appealed for the stolen data not to
+  be shared, sold, or weaponised, citing the life-threatening risks to the displaced and vulnerable
+  people involved.
+
+  The breach prompted widespread criticism of the contractor's failure to patch a months-old critical
+  vulnerability and highlighted systemic risks when humanitarian organisations entrust sensitive data
+  to third-party infrastructure providers. The ICRC was forced to temporarily shut down the Restoring
+  Family Links digital system.
+
+  Sources:
+  https://www.icrc.org/en/document/cyber-attack-icrc-what-we-know
+  https://www.bleepingcomputer.com/news/security/red-cross-state-hackers-breached-our-network-using-zoho-bug/
+  https://techcrunch.com/2022/02/16/red-cross-links-january-cyberattack-to-state-sponsored-hackers/
+  https://www.upguard.com/blog/how-did-red-cross-get-hacked

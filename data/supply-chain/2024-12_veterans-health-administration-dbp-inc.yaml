@@ -1,19 +1,16 @@
 source_name: Veterans Health Administration Third-Party Breach (December 2024)
-source_url: https://www.hipaajournal.com/colonial-behavioral-health-veterans-health-administration-ransomware/
-date_of_breach: '2024-12-01'
-date_of_disclosure: '2024-12-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/colonial-behavioral-health-veterans-health-administration-ransomware/"
+date_of_breach: 2024-12-01
+date_of_disclosure: 2024-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: DBP, Inc.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Veterans Health Administration.\
-  \ Data breached: Names, addresses, ZIP codes, dates of birth, Social Security numbers,\
-  \ driverâ\x80\x99s license numbers, and/or similar identifiers, Clinical information\
-  \ such as diagnoses/conditions, lab results, medications, and/or other treatment\
-  \ information, Insurance or claims information, and information related to guarantors\
-  \ who paid bills for others.. Use of third party: Medical transcription service\
-  \ provider. Third-party company: DBP, Inc.."
+notes: |-
+  In 2024, Veterans Health Administration experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was DBP, Inc.. Source reporting:
+  https://www.hipaajournal.com/colonial-behavioral-health-veterans-health-administration-ransomware/

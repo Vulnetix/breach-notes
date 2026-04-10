@@ -1,16 +1,13 @@
-source_name: Centene Subsidiaries (HealthNet, CHW) Third-Party Breach (April 2021)
-source_url: https://healthitsecurity.com/news/accellion-breach-tally-for-centenes-subsidiaries-1.3m-patients-impacted
+source_name: Accellion FTA Zero-Day Cl0p Mass Breach — 100+ Organizations
+source_url: https://www.fireeye.com/blog/threat-research/2021/03/accellion-fta-exploited-create-victims.html
 date_of_breach: '2021-04-01'
 date_of_disclosure: '2021-04-01'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Cl0p ransomware group exploited four zero-day vulnerabilities (CVE-2021-27101 through CVE-2021-27104) in Accellion's legacy File Transfer Appliance (FTA); the FTA was a 20-year-old product that Accellion was actively trying to migrate customers away from
 cve: []
-vendor_product: Accellion
+vendor_product: Accellion File Transfer Appliance (FTA)
 software_package: ''
-malware: ''
+malware: DEWMODE web shell
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Centene Subsidiaries (HealthNet,
-  CHW). Data breached: Contact details, dates of birth, insurance ID numbers, and
-  health information, such as treatments and medical conditions.. Use of third party:
-  File sharing application. Third-party company: Accellion.'
+notes: 'See comprehensive record: data/supply-chain/2021-01_accellion-fta-clop.yaml. The Accellion FTA breach affected 100+ organizations worldwide including Reserve Bank of New Zealand, Australian National University, QIMR Berghofer Medical Research Institute, Singtel, Transport for NSW, ASIC, Qualys, Shell, Bombardier, Stanford University, and many others. Cl0p did not encrypt data — only exfiltrated and extorted.'

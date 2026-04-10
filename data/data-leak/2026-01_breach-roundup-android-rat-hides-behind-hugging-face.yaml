@@ -1,0 +1,17 @@
+source_name: 'Breach Roundup: Android RAT Hides Behind Hugging Face (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-android-rat-hides-behind-hugging-face-a-30628
+date_of_breach: '2026-01-29'
+date_of_disclosure: '2026-01-29'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, researchers exposed an Android RAT abusing Hugging Face. Attackers
+  exploited a SmarterMail flaw. Automakers raised cyber spending. CISA flagged a VMware
+
+
+  Source: DataBreachToday article coverage.'

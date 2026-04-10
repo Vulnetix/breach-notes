@@ -1,15 +1,16 @@
 source_name: ADT Third-Party Breach (October 2024)
-source_url: https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/
-date_of_breach: '2024-10-01'
-date_of_disclosure: '2024-10-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/"
+date_of_breach: 2024-10-01
+date_of_disclosure: 2024-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party business partner
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for ADT. Data breached: Credentials.
-  Use of third party: Home and small business security provider. Third-party company:
-  Third-party business partner.'
+notes: |-
+  In 2024, ADT experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Third-party business partner. Source reporting:
+  https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/

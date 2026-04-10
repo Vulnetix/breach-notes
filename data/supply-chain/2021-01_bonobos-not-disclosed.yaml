@@ -1,17 +1,13 @@
 source_name: Bonobos Third-Party Breach (January 2021)
-source_url: https://www.tomsguide.com/news/bonobos-data-breach-7-million
-date_of_breach: '2021-01-01'
-date_of_disclosure: '2021-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.tomsguide.com/news/bonobos-data-breach-7-million"
+date_of_breach: 2021-01-01
+date_of_disclosure: 2021-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Bonobos. Data breached: Names
-  and telephone numbers associated with 7 million customers or orders, 3.5 million
-  records containing the last four digits of credit card numbers, and account information
-  for 1.8 million customers, including encrypted passwords. Use of third party: Cloud
-  service provider. Third-party company: Not disclosed.'
+notes: "In 2021, Bonobos experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.tomsguide.com/news/bonobos-data-breach-7-million"

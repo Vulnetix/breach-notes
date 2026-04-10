@@ -1,14 +1,16 @@
 source_name: Kylie Cosmetics Third-Party Breach (October 2020)
-source_url: https://www.justice4you.com/blog/shopify-data-breach.html
-date_of_breach: '2020-10-01'
-date_of_disclosure: '2020-10-01'
-date_of_customer_notification: ''
+source_url: "https://www.justice4you.com/blog/shopify-data-breach.html"
+date_of_breach: 2020-10-01
+date_of_disclosure: 2020-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Shopify
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Kylie Cosmetics. Data breached:
-  Names,. Use of third party: E-commerce platform. Third-party company: Shopify.'
+notes: |-
+  In 2020, Kylie Cosmetics experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Shopify. Source reporting:
+  https://www.justice4you.com/blog/shopify-data-breach.html

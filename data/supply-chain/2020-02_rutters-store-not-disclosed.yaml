@@ -1,15 +1,16 @@
 source_name: Rutters Store Third-Party Breach (February 2020)
-source_url: https://www.insurancebusinessmag.com/us/news/cyber/rutters-store-chain-reveals-malware-attacked-its-pos-system-214097.aspx
-date_of_breach: '2020-02-01'
-date_of_disclosure: '2020-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.insurancebusinessmag.com/us/news/cyber/rutters-store-chain-reveals-malware-attacked-its-pos-system-214097.aspx"
+date_of_breach: 2020-02-01
+date_of_disclosure: 2020-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Rutters Store. Data breached:\
-  \ Customersâ\x80\x99 names, card numbers, expiration dates, and internal verification\
-  \ codes. Use of third party: POS device. Third-party company: Not disclosed."
+notes: |-
+  In 2020, Rutters Store experienced a data security incident via a third-party vendor relationship. Source
+  reporting:
+  https://www.insurancebusinessmag.com/us/news/cyber/rutters-store-chain-reveals-malware-attacked-its-pos-system-214097.aspx

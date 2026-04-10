@@ -1,15 +1,16 @@
 source_name: Multiple U.S. agencies Third-Party Breach (April 2024)
-source_url: https://therecord.media/state-department-investigating-reports-of-data-breach-contractor
-date_of_breach: '2024-04-01'
-date_of_disclosure: '2024-04-01'
-date_of_customer_notification: ''
+source_url: "https://therecord.media/state-department-investigating-reports-of-data-breach-contractor"
+date_of_breach: 2024-04-01
+date_of_disclosure: 2024-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Acuity Consulting
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Multiple U.S. agencies. Data
-  breached: Not disclosed. Use of third party: Technology consulting provider. Third-party
-  company: Acuity Consulting.'
+notes: |-
+  In 2024, Multiple U.S. agencies experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Acuity Consulting. Source reporting:
+  https://therecord.media/state-department-investigating-reports-of-data-breach-contractor

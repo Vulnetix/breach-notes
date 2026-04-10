@@ -1,16 +1,16 @@
 source_name: Terminalen A/S Third-Party Breach (November 2025)
-source_url: https://ekstrabladet.dk/penge/bilforhandlere-i-danmark-ramt-af-alvorligt-hackerangreb/11009023
-date_of_breach: '2025-11-01'
-date_of_disclosure: '2025-11-01'
-date_of_customer_notification: ''
+source_url: "https://ekstrabladet.dk/penge/bilforhandlere-i-danmark-ramt-af-alvorligt-hackerangreb/11009023"
+date_of_breach: 2025-11-01
+date_of_disclosure: 2025-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: DocuBizz
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Terminalen A/S. Data breached:
-  Includes CPR numbers, driver''s license information and contact details, license
-  plate numbers, and account numbers.. Use of third party: IT Service provider. Third-party
-  company: DocuBizz.'
+notes: |-
+  In 2025, Terminalen A/S experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was DocuBizz. Source reporting:
+  https://ekstrabladet.dk/penge/bilforhandlere-i-danmark-ramt-af-alvorligt-hackerangreb/11009023

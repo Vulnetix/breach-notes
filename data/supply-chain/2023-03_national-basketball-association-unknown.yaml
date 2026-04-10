@@ -1,15 +1,16 @@
 source_name: National Basketball Association Third-Party Breach (March 2023)
-source_url: https://siliconangle.com/2023/03/20/nba-notifies-fans-data-breach-third-party-newsletter-provider/
-date_of_breach: '2023-03-01'
-date_of_disclosure: '2023-03-01'
-date_of_customer_notification: ''
+source_url: "https://siliconangle.com/2023/03/20/nba-notifies-fans-data-breach-third-party-newsletter-provider/"
+date_of_breach: 2023-03-01
+date_of_disclosure: 2023-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Unknown
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for National Basketball Association.
-  Data breached: Names and email addresses. Use of third party: Email marketing vendor.
-  Third-party company: Unknown.'
+notes: |-
+  In 2023, National Basketball Association experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Unknown. Source reporting:
+  https://siliconangle.com/2023/03/20/nba-notifies-fans-data-breach-third-party-newsletter-provider/

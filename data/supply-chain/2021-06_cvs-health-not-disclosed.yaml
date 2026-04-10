@@ -1,15 +1,15 @@
 source_name: CVS Health Third-Party Breach (June 2021)
-source_url: https://healthitsecurity.com/news/cvs-health-faces-data-breach1b-search-records-exposed
-date_of_breach: '2021-06-01'
-date_of_disclosure: '2021-06-01'
-date_of_customer_notification: ''
+source_url: "https://healthitsecurity.com/news/cvs-health-faces-data-breach1b-search-records-exposed"
+date_of_breach: 2021-06-01
+date_of_disclosure: 2021-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for CVS Health. Data breached:
-  COVID-19 vaccines and medications. Use of third party: Hosting vendor. Third-party
-  company: Not disclosed.'
+notes: |-
+  In 2021, CVS Health experienced a data security incident via a third-party vendor relationship. Source
+  reporting: https://healthitsecurity.com/news/cvs-health-faces-data-breach1b-search-records-exposed

@@ -1,17 +1,16 @@
-source_name: "St. Lukeâ\x80\x99s Health Third-Party Breach (December 2022)"
-source_url: https://www.scmagazine.com/brief/privacy/third-party-breach-impacts-st-lukes-health
-date_of_breach: '2022-12-01'
-date_of_disclosure: '2022-12-01'
-date_of_customer_notification: ''
+source_name: "St. Luke's Health Third-Party Breach (December 2022)"
+source_url: "https://www.scmagazine.com/brief/privacy/third-party-breach-impacts-st-lukes-health"
+date_of_breach: 2022-12-01
+date_of_disclosure: 2022-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Adelanto Healthcare Ventures
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for St. Lukeâ\x80\x99s Health.\
-  \ Data breached: Names, birthdates, addresses, Social Security numbers, Medicaid\
-  \ numbers, service dates, and medical record numbers, clinical details. Use of third\
-  \ party: Texas-based St. Lukeâ\x80\x99s Health provider. Third-party company: Adelanto\
-  \ Healthcare Ventures."
+notes: |-
+  In 2022, St. Luke's Health experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Adelanto Healthcare Ventures. Source reporting:
+  https://www.scmagazine.com/brief/privacy/third-party-breach-impacts-st-lukes-health

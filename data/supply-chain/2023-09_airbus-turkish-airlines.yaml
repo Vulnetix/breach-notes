@@ -1,15 +1,16 @@
 source_name: Airbus Third-Party Breach (September 2023)
-source_url: https://therecord.media/airbus-data-leak-suppliers-breachedforums
-date_of_breach: '2023-09-01'
-date_of_disclosure: '2023-09-01'
-date_of_customer_notification: ''
+source_url: "https://therecord.media/airbus-data-leak-suppliers-breachedforums"
+date_of_breach: 2023-09-01
+date_of_disclosure: 2023-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Turkish Airlines
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Airbus. Data breached: Names,
-  addresses, phone numbers and emails. Use of third party: Aerospace company. Third-party
-  company: Turkish Airlines.'
+notes: |-
+  In 2023, Airbus experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Turkish Airlines. Source reporting:
+  https://therecord.media/airbus-data-leak-suppliers-breachedforums

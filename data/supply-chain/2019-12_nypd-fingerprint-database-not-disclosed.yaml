@@ -1,15 +1,17 @@
 source_name: NYPD Fingerprint Database Third-Party Breach (December 2019)
-source_url: https://www.cpomagazine.com/cyber-security/nypd-fingerprint-database-infected-with-ransomware-by-third-party-contractor/?utm_source=hs_email&utm_medium=email&utm_content=80846110&_hsenc=p2ANqtz-_APcjcOTwKBP2UzWR5XpTDqQp_GXwYSyMKLLWTzxrcaBQvvvtDYyh-RVTAfmpyGjtKE1n4Tg6vIxDN6Z1gYjyiXw-nBg&_hsmi=80846110
-date_of_breach: '2019-12-01'
-date_of_disclosure: '2019-12-01'
-date_of_customer_notification: ''
+source_url: |-
+            https://www.cpomagazine.com/cyber-security/nypd-fingerprint-database-infected-with-ransomware-by-third-party-contractor/?utm_source=hs_email&utm_medium=email&utm_content=80846110&_hsenc=p2ANqtz-_APcjcOTwKBP2UzWR5XpTDqQp_GXwYSyMKLLWTzxrcaBQvvvtDYyh-RVTAfmpyGjtKE1n4Tg6vIxDN6Z1gYjyiXw-nBg&_hsmi=80846110
+date_of_breach: 2019-12-01
+date_of_disclosure: 2019-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for NYPD Fingerprint Database.
-  Data breached: fingerprint database. Use of third party: not disclosed. Third-party
-  company: not disclosed.'
+notes: |-
+  In 2019, NYPD Fingerprint Database experienced a data security incident via a third-party vendor relationship.
+  Source reporting:
+  https://www.cpomagazine.com/cyber-security/nypd-fingerprint-database-infected-with-ransomware-by-third-party-contractor/?utm_source=hs_email&utm_medium=email&utm_content=80846110&_hsenc=p2ANqtz-_APcjcOTwKBP2UzWR5XpTDqQp_GXwYSyMKLLWTzxrcaBQvvvtDYyh-RVTAfmpyGjtKE1n4Tg6vIxDN6Z1gYjyiXw-nBg&_hsmi=80846110

@@ -1,15 +1,16 @@
 source_name: Discord Third-Party Breach (May 2023)
-source_url: https://www.securityweek.com/discord-informs-users-of-data-breach-involving-customer-support-provider/
-date_of_breach: '2023-05-01'
-date_of_disclosure: '2023-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.securityweek.com/discord-informs-users-of-data-breach-involving-customer-support-provider/"
+date_of_breach: 2023-05-01
+date_of_disclosure: 2023-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Zendesk
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Discord. Data breached: User
-  email addresses, contents of customer service messages, and attachments. Use of
-  third party: VoIP and instant messaging social platform.. Third-party company: Zendesk.'
+notes: |-
+  In 2023, Discord experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Zendesk. Source reporting:
+  https://www.securityweek.com/discord-informs-users-of-data-breach-involving-customer-support-provider/

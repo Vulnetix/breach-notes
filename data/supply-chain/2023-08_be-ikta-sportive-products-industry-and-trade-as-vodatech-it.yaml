@@ -1,17 +1,16 @@
-source_name: "BeÅ\x9FiktaÅ\x9F Sportive Products Industry and Trade AS Third-Party\
-  \ Breach (August 2023)"
-source_url: http://kvkk.gov.tr/Icerik/7697/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Besiktas-Sportif-Urunleri-Sanayi-ve-Ticaret-AS
-date_of_breach: '2023-08-01'
-date_of_disclosure: '2023-08-01'
-date_of_customer_notification: ''
+source_name: BeÅiktaÅ Sportive Products Industry and Trade AS Third-Party Breach (August 2023)
+source_url: "http://kvkk.gov.tr/Icerik/7697/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Besiktas-Sportif-Urunleri-Sanayi-ve-Ticaret-AS"
+date_of_breach: 2023-08-01
+date_of_disclosure: 2023-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Vodatech IT
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for BeÅ\x9FiktaÅ\x9F Sportive\
-  \ Products Industry and Trade AS. Data breached: Identity, communication, customer\
-  \ transactions, visual and audio records. Use of third party: Sportive Products\
-  \ Company. Third-party company: Vodatech IT."
+notes: |-
+  In 2023, BeÅiktaÅ Sportive Products Industry and Trade AS experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Vodatech IT. Source reporting:
+  http://kvkk.gov.tr/Icerik/7697/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Besiktas-Sportif-Urunleri-Sanayi-ve-Ticaret-AS

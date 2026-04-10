@@ -1,16 +1,38 @@
-source_name: Western Union Third-Party Breach (January 2018)
+source_name: The Register
 source_url: https://www.theregister.com/2018/02/13/western_union_storage_hack/
 date_of_breach: '2018-01-01'
-date_of_disclosure: '2018-01-01'
-date_of_customer_notification: ''
+date_of_disclosure: '2018-02-13'
+date_of_customer_notification: '2018-01-31'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unauthorized access to external vendor system used for secure data storage
 cve: []
 vendor_product: Not disclosed
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Western Union. Data breached:\
-  \ Undisclosed # of customersâ\x80\x99 contact info, bank names, WU internal ID numbers,\
-  \ transaction amounts, times and ID numbers. Use of third party: Cloud-based or\
-  \ off-site backup storage provider. Third-party company: Not disclosed."
+notes: >-
+  Western Union disclosed in early 2018 that customer information had been accessed without
+  authorization through a computer intrusion targeting an external vendor system formerly used
+  by Western Union for secure data storage. The company sent notification letters to affected
+  customers dated January 31, 2018, and the breach was publicly reported by The Register on
+  February 13, 2018.
+
+  The compromised archive contained customer contact information, bank names, Western Union
+  internal customer ID numbers, transaction amounts, transaction times, and other
+  identification numbers. Western Union stated that no financial information, credit card
+  data, or internal payment systems were affected in the attack. The company did not disclose
+  the name of the third-party storage vendor involved nor the total number of customers
+  affected.
+
+  In response, Western Union promptly migrated its external secure storage to a different
+  vendor's system, notified law enforcement, and cooperated actively with the investigation.
+  Affected customers were enrolled in one year of complimentary identity-fraud protection
+  services. The incident highlighted the risks organizations face when entrusting sensitive
+  customer data to third-party storage providers, particularly legacy or formerly-used systems
+  that may not receive the same security attention as active infrastructure.
+
+  The breach came during a period of heightened scrutiny of third-party vendor security
+  practices across the financial services industry. Western Union, which processes billions of
+  dollars in money transfers annually and serves customers in over 200 countries, faced
+  questions about its vendor oversight and data retention practices for archived customer
+  records stored with external providers.

@@ -1,19 +1,44 @@
-source_name: "University of Manitoba, University of Strathclyde, St Aloysuisâ\x80\x99\
-  \ College, Aberdeen University and Robert Gordon University Third-Party Breach (July\
-  \ 2020)"
-source_url: https://news.umanitoba.ca/third-party-service-provider-experiences-data-breach/
-date_of_breach: '2020-07-01'
-date_of_disclosure: '2020-07-01'
-date_of_customer_notification: ''
+source_name: Blackbaud Ransomware Attack Affecting Universities Globally (May–July 2020)
+source_url: https://www.theregister.com/2020/07/24/blackbaud_uk_universities_data_breaches/
+date_of_breach: "2020-02-07"
+date_of_disclosure: "2020-07-16"
+date_of_customer_notification: "2020-07-16"
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Ransomware attack on Blackbaud cloud CRM infrastructure with prior data exfiltration; ransom paid to obtain deletion assurances
 cve: []
-vendor_product: BlackBaud
-software_package: ''
-malware: ''
+vendor_product: Blackbaud (cloud CRM and fundraising software)
+software_package: ""
+malware: ransomware
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for University of Manitoba, University\
-  \ of Strathclyde, St Aloysuisâ\x80\x99 College, Aberdeen University and Robert Gordon\
-  \ University. Data breached: Name, date of birth, contact information, and some\
-  \ information about donations regarding alumni and donors. Use of third party: Cloud-computing\
-  \ service provider. Third-party company: BlackBaud."
+notes: |-
+  In May 2020, Blackbaud — one of the world's largest providers of cloud-based CRM and fundraising
+  software for universities, hospitals, and nonprofits — suffered a ransomware attack on its
+  self-hosted data environment. The attackers first gained unauthorized access on February 7, 2020,
+  and maintained persistence until they were detected and expelled on May 20, 2020. Before deploying
+  ransomware, the attackers exfiltrated backup copies of fundraising databases belonging to many of
+  Blackbaud's clients.
+
+  Blackbaud notified affected clients on July 16, 2020. Among the early-disclosed victims were the
+  University of Manitoba, University of Strathclyde, Aberdeen University, Robert Gordon University,
+  and St Aloysius' College — but the ultimate scope was far wider. UK universities affected included
+  Aberdeen, Birmingham, Bristol, Brunel, Durham, East Anglia, Exeter, Glasgow, Heriot-Watt, Kent,
+  Leeds, Liverpool, Loughborough, Manchester, Northampton, Oxford Brookes, Reading, Robert Gordon,
+  Staffordshire, Strathclyde, Sussex, and West London, among others. Dozens of US institutions,
+  including UNC System schools, University of Alabama, and UNLV, were also impacted.
+
+  For most institutions, the breached data was limited to donor and alumni records: names, addresses,
+  dates of birth, contact information, and giving histories. Where healthcare providers were clients,
+  data also included provider names, dates of service, and treatment departments, though Blackbaud
+  stated no full medical records, Social Security numbers, bank account details, or credit card
+  information were compromised. The Identity Theft Resource Center tracked 536 affected organizations
+  and close to 13 million individuals.
+
+  Blackbaud paid the ransomware operators' demand and received assurances — which it could not
+  independently verify — that the exfiltrated data was destroyed. The company was subsequently fined
+  and entered a $49.5 million settlement with US state attorneys general over its delayed and
+  incomplete disclosure to affected organisations and individuals. The FTC also took action against
+  Blackbaud for misleading statements about the scope of data exposed.
+
+  The incident highlighted the systemic risk of centralised cloud CRM vendors serving hundreds of
+  educational and healthcare institutions: a single vendor compromise cascades into dozens of
+  simultaneous breach notifications with regulatory reporting obligations across multiple jurisdictions.

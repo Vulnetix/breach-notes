@@ -1,17 +1,16 @@
-source_name: University of Colorado Hospital Authority Third-Party Breach (January
-  2023)
-source_url: https://www.jdsupra.com/legalnews/university-of-colorado-hospital-2697397/#:~:text=On%20January%2017%2C%202023%2C%20the,the%20organization%27s%20vendors%2C%20Diligent%20Corporation.
-date_of_breach: '2023-01-01'
-date_of_disclosure: '2023-01-01'
-date_of_customer_notification: ''
+source_name: University of Colorado Hospital Authority Third-Party Breach (January 2023)
+source_url: "https://www.jdsupra.com/legalnews/university-of-colorado-hospital-2697397/#:~:text=On%20January%2017%2C%202023%2C%20the,the%20organization%27s%20vendors%2C%20Diligent%20Corporation."
+date_of_breach: 2023-01-01
+date_of_disclosure: 2023-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Diligent Corporation
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for University of Colorado Hospital
-  Authority. Data breached: Names, Social Security numbers, financial account information,
-  dates of birth, and protected health information. Use of third party: Software vendor.
-  Third-party company: Diligent Corporation.'
+notes: |-
+  In 2023, University of Colorado Hospital Authority experienced a data security incident via a third-party
+  vendor relationship. The compromised third-party vendor was Diligent Corporation. Source reporting:
+  https://www.jdsupra.com/legalnews/university-of-colorado-hospital-2697397/#:~:text=On%20January%2017%2C%202023%2C%20the,the%20organization%27s%20vendors%2C%20Diligent%20Corporation.

@@ -1,17 +1,16 @@
 source_name: 890 Schools Third-Party Breach (September 2023)
-source_url: https://www.bleepingcomputer.com/news/security/national-student-clearinghouse-data-breach-impacts-890-schools/#google_vignette
-date_of_breach: '2023-09-01'
-date_of_disclosure: '2023-09-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/national-student-clearinghouse-data-breach-impacts-890-schools/#google_vignette"
+date_of_breach: 2023-09-01
+date_of_disclosure: 2023-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: National Student Clearinghouse (NSC)
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for 890 Schools. Data breached:
-  Names, dates of birth, contact information, Social Security numbers, student ID
-  numbers, and some school-related records (e.g., enrollment records, degree records,
-  and course-level data).. Use of third party: School. Third-party company: National
-  Student Clearinghouse (NSC).'
+notes: |-
+  In 2023, 890 Schools experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was National Student Clearinghouse (NSC). Source reporting:
+  https://www.bleepingcomputer.com/news/security/national-student-clearinghouse-data-breach-impacts-890-schools/#google_vignette

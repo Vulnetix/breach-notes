@@ -1,16 +1,13 @@
 source_name: T-Mobile Third-Party Breach (March 2020)
-source_url: https://www.androidcentral.com/t-mobile-warns-customers-about-recent-data-breach
-date_of_breach: '2020-03-01'
-date_of_disclosure: '2020-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.androidcentral.com/t-mobile-warns-customers-about-recent-data-breach"
+date_of_breach: 2020-03-01
+date_of_disclosure: 2020-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for T-Mobile. Data breached:
-  Customer names and addresses, phone numbers, account numbers, rate plans, and features,
-  and billing information.. Use of third party: E-mail vendor. Third-party company:
-  Not disclosed.'
+notes: "In 2020, T-Mobile experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.androidcentral.com/t-mobile-warns-customers-about-recent-data-breach"

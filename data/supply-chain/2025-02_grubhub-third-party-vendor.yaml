@@ -1,17 +1,16 @@
 source_name: GrubHub Third-Party Breach (February 2025)
-source_url: https://www.bleepingcomputer.com/news/security/grubhub-data-breach-impacts-customers-drivers-and-merchants/
-date_of_breach: '2025-02-01'
-date_of_disclosure: '2025-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/grubhub-data-breach-impacts-customers-drivers-and-merchants/"
+date_of_breach: 2025-02-01
+date_of_disclosure: 2025-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Third-party vendor
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for GrubHub. Data breached: Sensitive\
-  \ personal and financial information, including Grubhub Marketplace customer passwords,\
-  \ merchant login information, full payment card numbers, bank account details, Social\
-  \ Security numbers, or driverâ\x80\x99s license numbers.. Use of third party: â\x80\
-  \x8BFood delivery provider. Third-party company: Third-party vendor."
+notes: |-
+  In 2025, GrubHub experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Third-party vendor. Source reporting:
+  https://www.bleepingcomputer.com/news/security/grubhub-data-breach-impacts-customers-drivers-and-merchants/

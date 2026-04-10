@@ -1,17 +1,17 @@
-source_name: Multiple US healthcare organizations and hospitals Third-Party Breach
-  (March 2025)
-source_url: https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/
-date_of_breach: '2025-03-01'
-date_of_disclosure: '2025-03-01'
-date_of_customer_notification: ''
+source_name: Multiple US healthcare organizations and hospitals Third-Party Breach (March 2025)
+source_url: "https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/"
+date_of_breach: 2025-03-01
+date_of_disclosure: 2025-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Oracle Health (formerly Cerner)
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Multiple US healthcare organizations
-  and hospitals. Data breached: Includes patient information from electronic health
-  records.. Use of third party: Healthcare software provider. Third-party company:
-  Oracle Health (formerly Cerner).'
+notes: |-
+  In 2025, Multiple US healthcare organizations and hospitals experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Oracle Health (formerly Cerner).
+  Source reporting:
+  https://www.bleepingcomputer.com/news/security/oracle-health-breach-compromises-patient-data-at-us-hospitals/

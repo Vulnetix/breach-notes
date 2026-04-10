@@ -1,17 +1,16 @@
-source_name: Wake Forest Baptist Health, Lexington Medical Center Third-Party Breach
-  (March 2021)
-source_url: https://www.beckershospitalreview.com/cybersecurity/wake-forest-baptist-hospital-patients-records-exposed-in-healthgrades-data-breach.html
-date_of_breach: '2021-03-01'
-date_of_disclosure: '2021-03-01'
-date_of_customer_notification: ''
+source_name: Wake Forest Baptist Health, Lexington Medical Center Third-Party Breach (March 2021)
+source_url: "https://www.beckershospitalreview.com/cybersecurity/wake-forest-baptist-hospital-patients-records-exposed-in-healthgrades-data-breach.html"
+date_of_breach: 2021-03-01
+date_of_disclosure: 2021-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Healthgrades
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Wake Forest Baptist Health,
-  Lexington Medical Center. Data breached: Patient names, addresses, LMC medical record
-  numbers, Social Security numbers and health insurance details.. Use of third party:
-  IT vendor. Third-party company: Healthgrades.'
+notes: |-
+  In 2021, Wake Forest Baptist Health, Lexington Medical Center experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Healthgrades. Source reporting:
+  https://www.beckershospitalreview.com/cybersecurity/wake-forest-baptist-hospital-patients-records-exposed-in-healthgrades-data-breach.html

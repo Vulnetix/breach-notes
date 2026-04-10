@@ -1,18 +1,16 @@
-source_name: The New York City Department of Education (NYC DOE) Third-Party Breach
-  (June 2023)
-source_url: https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-45-000-new-york-city-students-in-moveit-breach/
-date_of_breach: '2023-06-01'
-date_of_disclosure: '2023-06-01'
-date_of_customer_notification: ''
+source_name: The New York City Department of Education (NYC DOE) Third-Party Breach (June 2023)
+source_url: "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-45-000-new-york-city-students-in-moveit-breach/"
+date_of_breach: 2023-06-01
+date_of_disclosure: 2023-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Ipswitch, Inc.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for The New York City Department
-  of Education (NYC DOE). Data breached: Social Security Numbers and employee ID numbers
-  (not necessarily for all impacted individuals; for example, approximately 9,000
-  Social Security Numbers were included). Use of third party: Government department.
-  Third-party company: Ipswitch, Inc..'
+notes: |-
+  In 2023, The New York City Department of Education (NYC DOE) experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Ipswitch, Inc.. Source reporting:
+  https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-45-000-new-york-city-students-in-moveit-breach/

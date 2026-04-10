@@ -1,15 +1,16 @@
 source_name: 300 small Indian banks Third-Party Breach (July 2024)
-source_url: https://www.thehindu.com/sci-tech/technology/customers-at-several-small-sized-banks-affected-as-tech-provider-c-edge-suffers-ransomware-attack/article68470198.ece
-date_of_breach: '2024-07-01'
-date_of_disclosure: '2024-07-01'
-date_of_customer_notification: ''
+source_url: "https://www.thehindu.com/sci-tech/technology/customers-at-several-small-sized-banks-affected-as-tech-provider-c-edge-suffers-ransomware-attack/article68470198.ece"
+date_of_breach: 2024-07-01
+date_of_disclosure: 2024-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: C-Edge Technologies Ltd
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for 300 small Indian banks. Data
-  breached: Not disclosed. Use of third party: Technology service provider. Third-party
-  company: C-Edge Technologies Ltd.'
+notes: |-
+  In 2024, 300 small Indian banks experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was C-Edge Technologies Ltd. Source reporting:
+  https://www.thehindu.com/sci-tech/technology/customers-at-several-small-sized-banks-affected-as-tech-provider-c-edge-suffers-ransomware-attack/article68470198.ece

@@ -1,17 +1,16 @@
 source_name: Sutter North Surgery Center Patients Third-Party Breach (September 2023)
-source_url: https://www.hipaajournal.com/phi-of-almost-75000-individuals-exposed-in-email-incident-at-ameriben/
-date_of_breach: '2023-09-01'
-date_of_disclosure: '2023-09-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/phi-of-almost-75000-individuals-exposed-in-email-incident-at-ameriben/"
+date_of_breach: 2023-09-01
+date_of_disclosure: 2023-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: SightPath Medical
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Sutter North Surgery Center\
-  \ Patients. Data breached: Employeesâ\x80\x99 first and last names, claimants first\
-  \ and last names, case numbers, employer CERT codes, provider name, provider city,\
-  \ claim number, date(s) of service, internal INEL codes, and amounts billed and\
-  \ paid.. Use of third party: Endoscopy Center. Third-party company: SightPath Medical."
+notes: |-
+  In 2023, Sutter North Surgery Center Patients experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was SightPath Medical. Source reporting:
+  https://www.hipaajournal.com/phi-of-almost-75000-individuals-exposed-in-email-incident-at-ameriben/

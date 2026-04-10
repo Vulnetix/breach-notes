@@ -1,15 +1,52 @@
-source_name: Republican National Committee Third-Party Breach (June 2017)
-source_url: https://gizmodo.com/gop-data-firm-accidentally-leaks-personal-details-of-ne-1796211612
+source_name: UpGuard
+source_url: https://www.upguard.com/breaches/the-rnc-files
 date_of_breach: '2017-06-01'
-date_of_disclosure: '2017-06-01'
+date_of_disclosure: '2017-06-19'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unsecured Amazon S3 bucket with no access controls or authentication
 cve: []
-vendor_product: Deep Root
+vendor_product: Deep Root Analytics
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Republican National Committee.
-  Data breached: Personal info 200M voters. Use of third party: Marketing. Third-party
-  company: Deep Root.'
+notes: >-
+  On June 12, 2017, UpGuard cyber risk analyst Chris Vickery discovered a
+  publicly accessible Amazon S3 cloud storage bucket containing approximately
+  1.1 terabytes of data on 198 million American voters, representing
+  virtually every registered voter in the United States. The data belonged
+  to Deep Root Analytics (DRA), a Republican data analytics firm contracted
+  by the Republican National Committee (RNC) for voter modeling and
+  targeting during the 2016 election cycle.
+
+  The exposed database contained names, dates of birth, home addresses,
+  phone numbers, voter registration details, and sophisticated algorithmic
+  predictions about each voter's likely positions on 48 different policy
+  issues including gun ownership, stem cell research, the right to die,
+  and the Trans-Pacific Partnership. The data combined information from
+  multiple sources, including voter files, consumer data, and Reddit
+  posting histories, to build detailed psychographic profiles for political
+  targeting purposes.
+
+  The S3 bucket had no password protection, no access controls, and was
+  fully downloadable by anyone with the URL. Vickery notified federal
+  authorities and Deep Root Analytics on June 12. DRA secured the bucket
+  on June 14, and the exposure was publicly disclosed on June 19, 2017.
+  Deep Root Analytics acknowledged the misconfiguration and stated that
+  access settings had been inadvertently changed on June 1, meaning the
+  data was publicly exposed for approximately two weeks.
+
+  Deep Root Analytics issued a statement accepting responsibility and
+  confirming they had updated access settings and implemented a protocol
+  to prevent future misconfigurations. The firm was the subject of a class
+  action lawsuit filed on behalf of affected voters. The RNC stated it
+  had not been aware of the exposure and emphasized that the data was
+  maintained by the contractor, not the RNC directly.
+
+  The incident was the largest known exposure of voter data in US history
+  at the time and highlighted the security risks of concentrating massive
+  personal datasets with political data vendors. It raised significant
+  concerns about the lack of federal data protection requirements for
+  political organizations and their contractors, as voter data is not
+  covered by major privacy regulations like HIPAA or financial data
+  protection laws.

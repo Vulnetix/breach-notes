@@ -1,15 +1,15 @@
 source_name: Citrix Third-Party Breach (July 2020)
-source_url: https://searchsecurity.techtarget.com/news/252486197/Citrix-data-exposed-in-third-party-breach
-date_of_breach: '2020-07-01'
-date_of_disclosure: '2020-07-01'
-date_of_customer_notification: ''
+source_url: "https://searchsecurity.techtarget.com/news/252486197/Citrix-data-exposed-in-third-party-breach"
+date_of_breach: 2020-07-01
+date_of_disclosure: 2020-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Citrix. Data breached: E-mail
-  IDs, phone numbers, last known location, phone type and login dates. Use of third
-  party: Third-party vendor. Third-party company: Not disclosed.'
+notes: |-
+  In 2020, Citrix experienced a data security incident via a third-party vendor relationship. Source reporting:
+  https://searchsecurity.techtarget.com/news/252486197/Citrix-data-exposed-in-third-party-breach

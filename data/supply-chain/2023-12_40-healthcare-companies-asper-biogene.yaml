@@ -1,15 +1,16 @@
 source_name: 40 Healthcare Companies Third-Party Breach (December 2023)
-source_url: https://news.err.ee/1609194952/10-000-people-s-data-stolen-in-genetic-testing-company-asper-biogene-leak
-date_of_breach: '2023-12-01'
-date_of_disclosure: '2023-12-01'
-date_of_customer_notification: ''
+source_url: "https://news.err.ee/1609194952/10-000-people-s-data-stolen-in-genetic-testing-company-asper-biogene-leak"
+date_of_breach: 2023-12-01
+date_of_disclosure: 2023-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Asper Biogene
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for 40 Healthcare Companies.
-  Data breached: Not disclosed for now. Use of third party: Medical Center. Third-party
-  company: Asper Biogene.'
+notes: |-
+  In 2023, 40 Healthcare Companies experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Asper Biogene. Source reporting:
+  https://news.err.ee/1609194952/10-000-people-s-data-stolen-in-genetic-testing-company-asper-biogene-leak

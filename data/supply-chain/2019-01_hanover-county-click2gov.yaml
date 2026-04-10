@@ -1,15 +1,16 @@
 source_name: Hanover County Third-Party Breach (January 2019)
-source_url: https://www.hanovercounty.gov/DocumentCenter/View/3183/Hanover-County-Credit-Card-Notice-PDF
-date_of_breach: '2019-01-01'
-date_of_disclosure: '2019-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.hanovercounty.gov/DocumentCenter/View/3183/Hanover-County-Credit-Card-Notice-PDF"
+date_of_breach: 2019-01-01
+date_of_disclosure: 2019-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Hanover County. Data breached:
-  credit card information of citizens. Use of third party: online parking ticket payment
-  system. Third-party company: Click2Gov.'
+notes: |-
+  In 2019, Hanover County experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Click2Gov. Source reporting:
+  https://www.hanovercounty.gov/DocumentCenter/View/3183/Hanover-County-Credit-Card-Notice-PDF

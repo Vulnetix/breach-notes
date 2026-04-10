@@ -1,15 +1,17 @@
 source_name: Majorel Third-Party Breach (June 2023)
-source_url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwidq5nZ0rKAAxVGRPEDHYODAzoQFnoECAgQAQ&url=https%3A%2F%2Fsecurityaffairs.com%2F148152%2Fdata-breach%2Fdublin-airport-data-breach.html&usg=AOvVaw3PB35QC2Ok10Fk7pbsL0bR&opi=89978449
-date_of_breach: '2023-06-01'
-date_of_disclosure: '2023-06-01'
-date_of_customer_notification: ''
+source_url: |-
+            https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwidq5nZ0rKAAxVGRPEDHYODAzoQFnoECAgQAQ&url=https%3A%2F%2Fsecurityaffairs.com%2F148152%2Fdata-breach%2Fdublin-airport-data-breach.html&usg=AOvVaw3PB35QC2Ok10Fk7pbsL0bR&opi=89978449
+date_of_breach: 2023-06-01
+date_of_disclosure: 2023-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Ipswitch, Inc.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Majorel. Data breached: Not
-  disclosed for now. Use of third party: Call center. Third-party company: Ipswitch,
-  Inc..'
+notes: |-
+  In 2023, Majorel experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Ipswitch, Inc.. Source reporting:
+  https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwidq5nZ0rKAAxVGRPEDHYODAzoQFnoECAgQAQ&url=https%3A%2F%2Fsecurityaffairs.com%2F148152%2Fdata-breach%2Fdublin-airport-data-breach.html&usg=AOvVaw3PB35QC2Ok10Fk7pbsL0bR&opi=89978449

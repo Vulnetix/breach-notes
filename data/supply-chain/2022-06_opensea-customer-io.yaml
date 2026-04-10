@@ -1,14 +1,16 @@
 source_name: OpenSea Third-Party Breach (June 2022)
-source_url: https://www.engadget.com/opensea-user-emails-i-ds-leaked-in-email-vendor-data-breach-225522267.html
-date_of_breach: '2022-06-01'
-date_of_disclosure: '2022-06-01'
-date_of_customer_notification: ''
+source_url: "https://www.engadget.com/opensea-user-emails-i-ds-leaked-in-email-vendor-data-breach-225522267.html"
+date_of_breach: 2022-06-01
+date_of_disclosure: 2022-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Customer.io
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for OpenSea. Data breached: Email
-  addresses. Use of third party: Email delivery vendor. Third-party company: Customer.io.'
+notes: |-
+  In 2022, OpenSea experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Customer.io. Source reporting:
+  https://www.engadget.com/opensea-user-emails-i-ds-leaked-in-email-vendor-data-breach-225522267.html

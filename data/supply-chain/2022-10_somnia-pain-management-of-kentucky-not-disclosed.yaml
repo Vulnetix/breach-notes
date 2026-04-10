@@ -1,18 +1,15 @@
 source_name: Somnia Pain Management of Kentucky Third-Party Breach (October 2022)
-source_url: https://www.jdsupra.com/legalnews/somnia-pain-management-of-kentucky-2355330/
-date_of_breach: '2022-10-01'
-date_of_disclosure: '2022-10-01'
-date_of_customer_notification: ''
+source_url: "https://www.jdsupra.com/legalnews/somnia-pain-management-of-kentucky-2355330/"
+date_of_breach: 2022-10-01
+date_of_disclosure: 2022-10-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Somnia Pain Management of\
-  \ Kentucky. Data breached: Patientsâ\x80\x99 names, Social Security numbers, dates\
-  \ of birth, driverâ\x80\x99s license numbers, financial account information, health\
-  \ insurance policy numbers, Medical Record Numbers, Medicaid or Medicare IDs, and\
-  \ health information such as treatment and diagnosis information. Use of third party:\
-  \ Healthcare practice. Third-party company: Not disclosed."
+notes: |-
+  In 2022, Somnia Pain Management of Kentucky experienced a data security incident via a third-party vendor
+  relationship. Source reporting: https://www.jdsupra.com/legalnews/somnia-pain-management-of-kentucky-2355330/

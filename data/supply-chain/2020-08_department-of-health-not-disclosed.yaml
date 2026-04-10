@@ -1,16 +1,13 @@
 source_name: Department of Health Third-Party Breach (August 2020)
-source_url: https://www.oodaloop.com/subscribe/
-date_of_breach: '2020-08-01'
-date_of_disclosure: '2020-08-01'
-date_of_customer_notification: ''
+source_url: "https://www.oodaloop.com/subscribe/"
+date_of_breach: 2020-08-01
+date_of_disclosure: 2020-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Department of Health. Data
-  breached: Infection status, dates of birth, addresses, names, and other PII of COVID-19
-  patients in South Dakota. Use of third party: Doftware vendor. Third-party company:
-  not disclosed.'
+notes: "In 2020, Department of Health experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.oodaloop.com/subscribe/"

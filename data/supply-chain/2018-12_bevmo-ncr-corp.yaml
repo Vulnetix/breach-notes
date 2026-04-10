@@ -1,15 +1,13 @@
-source_name: BevMo Third-Party Breach (December 2018)
-source_url: https://www.scmagazine.com/home/security-news/data-breach-hits-15000-bevmo-e-commerce-customers/
-date_of_breach: '2018-12-01'
+source_name: BevMo / NCR Corp. E-Commerce Payment Breach (2018)
+source_url: https://cyberscoop.com/bevmo-online-payment-breach-ncr/
+date_of_breach: '2018-08-02'
 date_of_disclosure: '2018-12-01'
-date_of_customer_notification: ''
+date_of_customer_notification: '2018-12-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Magecart-style JavaScript skimmer injected into BevMo's e-commerce checkout page via compromise of NCR Corp.'s managed website platform; malicious code siphoned payment card data at point of entry in real time
 cve: []
 vendor_product: NCR Corp.
 software_package: ''
-malware: ''
+malware: 'JavaScript payment card skimmer (Magecart-style)'
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for BevMo. Data breached: credit
-  card data of nearly 15,000 customers. Use of third party: online payment system.
-  Third-party company: NCR Corp..'
+notes: "BevMo, a California-based alcohol retail chain, disclosed in late 2018 that its e-commerce website had been compromised by a payment card skimming attack affecting 14,579 customers. The breach window ran from August 2 to September 26, 2018 — a period of nearly two months during which malicious JavaScript code silently harvested payment data from customers completing online purchases.\n\nBevMo's website was managed and operated by NCR Corp., a major point-of-sale and e-commerce technology provider. NCR discovered the malicious code embedded in the checkout page and removed it. A third-party forensics firm was subsequently retained to assist with the investigation. The attack is consistent with the Magecart threat group's techniques, though BevMo did not formally attribute the attack to any specific actor.\n\nThe skimmer was injected into the checkout page's JavaScript, activating when customers entered payment details at the point of purchase. The data harvested included customers' full names, credit and debit card numbers, card expiration dates, CVV2 security codes, billing addresses, shipping addresses, and phone numbers. The inclusion of CVV2 codes made the stolen data particularly dangerous, as it enabled card-not-present fraud without requiring additional data.\n\nBevMo notified the California Attorney General's office and alerted affected customers, law enforcement, and payment card companies. The company advised affected customers to monitor their accounts and offered guidance on disputing fraudulent charges.\n\nThis incident fit a broader pattern of Magecart-affiliated attacks against e-commerce platforms in 2018, including high-profile compromises of British Airways and Ticketmaster in the same year. In these attacks, threat actors target third-party website management and e-commerce platform vendors rather than the retailer directly — giving attackers access to many merchants through a single point of compromise at the platform provider. NCR Corp. serves thousands of retailers, making any compromise of its managed website infrastructure potentially far-reaching."

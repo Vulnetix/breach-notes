@@ -1,18 +1,16 @@
 source_name: Nabholz Construction Third-Party Breach (February 2024)
-source_url: https://www.hipaajournal.com/february-14-2024-healthcare-data-breach-round-up/
-date_of_breach: '2024-02-01'
-date_of_disclosure: '2024-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/february-14-2024-healthcare-data-breach-round-up/"
+date_of_breach: 2024-02-01
+date_of_disclosure: 2024-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Cadence Bank
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Nabholz Construction. Data\
-  \ breached: Names, Social Security numbers, addresses, ZIP codes, driverâ\x80\x99\
-  s license numbers, dates of birth, clinical information such as diagnosis/conditions,\
-  \ lab results, medications or other treatment information, claims information and\
-  \ insurance information.. Use of third party: Construction management Provider.\
-  \ Third-party company: Cadence Bank."
+notes: |-
+  In 2024, Nabholz Construction experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Cadence Bank. Source reporting:
+  https://www.hipaajournal.com/february-14-2024-healthcare-data-breach-round-up/

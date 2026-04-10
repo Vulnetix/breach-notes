@@ -1,17 +1,17 @@
-source_name: "Kingâ\x80\x99s College Hospital, Guyâ\x80\x99s Hospital, St Thomasâ\x80\
-  \x99 Hospital and moreâ\x80¦ Third-Party Breach (June 2024)"
-source_url: https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-ransomware-attack/
-date_of_breach: '2024-06-01'
-date_of_disclosure: '2024-06-01'
-date_of_customer_notification: ''
+source_name: "King's College Hospital, Guy's Hospital, St Thomas' Hospital and moreâ¦ Third-Party Breach (June 2024)"
+source_url: "https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-ransomware-attack/"
+date_of_breach: 2024-06-01
+date_of_disclosure: 2024-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Synnovis
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Kingâ\x80\x99s College Hospital,\
-  \ Guyâ\x80\x99s Hospital, St Thomasâ\x80\x99 Hospital and moreâ\x80¦. Data breached:\
-  \ Not disclosed. Use of third party: Pathology and diagnostic services provider.\
-  \ Third-party company: Synnovis."
+notes: |-
+  In 2024, King's College Hospital, Guy's Hospital, St Thomas' Hospital and moreâ¦ experienced a data security
+  incident via a third-party vendor relationship. The compromised third-party vendor was Synnovis. Source
+  reporting:
+  https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-ransomware-attack/

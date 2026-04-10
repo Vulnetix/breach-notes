@@ -1,15 +1,16 @@
 source_name: Geisinger Third-Party Breach (June 2024)
-source_url: https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/
-date_of_breach: '2024-06-01'
-date_of_disclosure: '2024-06-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/"
+date_of_breach: 2024-06-01
+date_of_disclosure: 2024-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Nuance Communications
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Geisinger. Data breached:
-  Full name. Use of third party: IT services provider. Third-party company: Nuance
-  Communications.'
+notes: |-
+  In 2024, Geisinger experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Nuance Communications. Source reporting:
+  https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/

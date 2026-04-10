@@ -1,16 +1,16 @@
 source_name: General Electric Third-Party Breach (March 2020)
-source_url: https://www.tripwire.com/state-of-security/featured/ge-data-breach-third-party/
-date_of_breach: '2020-03-01'
-date_of_disclosure: '2020-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.tripwire.com/state-of-security/featured/ge-data-breach-third-party/"
+date_of_breach: 2020-03-01
+date_of_disclosure: 2020-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Canon Business Services
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for General Electric. Data breached:\
-  \ Direct deposit forms, driverâ\x80\x99s licenses, passports, birth certificates,\
-  \ marriage certificates. Use of third party: Business service provider. Third-party\
-  \ company: Canon Business Services."
+notes: |-
+  In 2020, General Electric experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Canon Business Services. Source reporting:
+  https://www.tripwire.com/state-of-security/featured/ge-data-breach-third-party/

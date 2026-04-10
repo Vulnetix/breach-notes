@@ -1,16 +1,16 @@
-source_name: A (probably) Mexican government healt agency Third-Party Breach (August
-  2018)
-source_url: https://www.healthcareitnews.com/news/telemedicine-vendor-breaches-data-24-million-patients-mexico
-date_of_breach: '2018-08-01'
-date_of_disclosure: '2018-08-01'
-date_of_customer_notification: ''
+source_name: A (probably) Mexican government healt agency Third-Party Breach (August 2018)
+source_url: "https://www.healthcareitnews.com/news/telemedicine-vendor-breaches-data-24-million-patients-mexico"
+date_of_breach: 2018-08-01
+date_of_disclosure: 2018-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Hova Health
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for A (probably) Mexican government
-  healt agency. Data breached: The personal data of 2M patients was left exposed online.
-  Use of third party: Telemedicine company. Third-party company: Hova Health.'
+notes: |-
+  In 2018, A (probably) Mexican government healt agency experienced a data security incident via a third-party
+  vendor relationship. The compromised third-party vendor was Hova Health. Source reporting:
+  https://www.healthcareitnews.com/news/telemedicine-vendor-breaches-data-24-million-patients-mexico

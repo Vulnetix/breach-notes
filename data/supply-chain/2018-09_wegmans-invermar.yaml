@@ -1,15 +1,16 @@
 source_name: Wegmans Third-Party Breach (September 2018)
-source_url: https://www.newyorkupstate.com/business/2018/09/wegmans_invermar_hack_lawsuit.html
-date_of_breach: '2018-09-01'
-date_of_disclosure: '2018-09-01'
-date_of_customer_notification: ''
+source_url: "https://www.newyorkupstate.com/business/2018/09/wegmans_invermar_hack_lawsuit.html"
+date_of_breach: 2018-09-01
+date_of_disclosure: 2018-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Invermar
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Wegmans. Data breached: cost
-  the grocery chain over $900,000. Use of third party: Seafood supplier. Third-party
-  company: Invermar.'
+notes: |-
+  In 2018, Wegmans experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Invermar. Source reporting:
+  https://www.newyorkupstate.com/business/2018/09/wegmans_invermar_hack_lawsuit.html

@@ -1,16 +1,17 @@
-source_name: Municipalities of Eijsden-Margraten, Gulpen-Wittem, Kerkrade, Meerssen
-  and Vaals Third-Party Breach (August 2022)
-source_url: https://datanews.knack.be/ict/nieuws/ransomware-versleutelt-data-van-vijf-nederlandse-gemeenten/article-news-1892523.html?utm_term=Autofeed&utm_medium=social_datanl&utm_source=Twitter&cookie_check=1661242906#Echobox=1660879916
-date_of_breach: '2022-08-01'
-date_of_disclosure: '2022-08-01'
-date_of_customer_notification: ''
+source_name: Municipalities of Eijsden-Margraten, Gulpen-Wittem, Kerkrade, Meerssen and Vaals Third-Party Breach (August 2022)
+source_url: |-
+            https://datanews.knack.be/ict/nieuws/ransomware-versleutelt-data-van-vijf-nederlandse-gemeenten/article-news-1892523.html?utm_term=Autofeed&utm_medium=social_datanl&utm_source=Twitter&cookie_check=1661242906#Echobox=1660879916
+date_of_breach: 2022-08-01
+date_of_disclosure: 2022-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Municipalities of Eijsden-Margraten,
-  Gulpen-Wittem, Kerkrade, Meerssen and Vaals. Data breached: Not disclosed for now.
-  Use of third party: Software vendor. Third-party company: Not disclosed.'
+notes: |-
+  In 2022, Municipalities of Eijsden-Margraten, Gulpen-Wittem, Kerkrade, Meerssen and Vaals experienced a data
+  security incident via a third-party vendor relationship. Source reporting:
+  https://datanews.knack.be/ict/nieuws/ransomware-versleutelt-data-van-vijf-nederlandse-gemeenten/article-news-1892523.html?utm_term=Autofeed&utm_medium=social_datanl&utm_source=Twitter&cookie_check=1661242906#Echobox=1660879916

@@ -1,16 +1,16 @@
-source_name: Marks & Spencer Third-Party Breach (May 2025)
-source_url: https://therecord.media/marks-spencer-confirms-customer-data-breach
-date_of_breach: '2025-05-01'
-date_of_disclosure: '2025-05-01'
-date_of_customer_notification: ''
+source_name: "Marks & Spencer Third-Party Breach (May 2025)"
+source_url: "https://therecord.media/marks-spencer-confirms-customer-data-breach"
+date_of_breach: 2025-05-01
+date_of_disclosure: 2025-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Tata Consultancy Services (TCS)
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Marks & Spencer. Data breached:
-  Includes names, home and email addresses, and phone numbers. Use of third party:
-  IT helpdesk and support services. Third-party company: Tata Consultancy Services
-  (TCS).'
+notes: |-
+  In 2025, Marks & Spencer experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Tata Consultancy Services (TCS). Source reporting:
+  https://therecord.media/marks-spencer-confirms-customer-data-breach

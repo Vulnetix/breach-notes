@@ -1,15 +1,13 @@
-source_name: gate.io (cryptocurrency exchange) Third-Party Breach (November 2018)
+source_name: Gate.io / StatCounter Supply Chain Attack (2018)
 source_url: https://www.welivesecurity.com/2018/11/06/supply-chain-attack-cryptocurrency-exchange-gate-io/
-date_of_breach: '2018-11-01'
-date_of_disclosure: '2018-11-01'
-date_of_customer_notification: ''
+date_of_breach: '2018-11-03'
+date_of_disclosure: '2018-11-06'
+date_of_customer_notification: '2018-11-06'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Compromise of StatCounter's web analytics platform; attackers injected malicious JavaScript into the StatCounter tracking script (counter.js), which silently replaced Bitcoin withdrawal destination addresses in real time on Gate.io's withdrawal page
 cve: []
-vendor_product: StatCounter
-software_package: ''
-malware: ''
+vendor_product: StatCounter (web analytics provider)
+software_package: 'StatCounter counter.js tracking script'
+malware: 'Custom JavaScript Bitcoin address-replacement skimmer'
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for gate.io (cryptocurrency exchange).
-  Data breached: potential theft of BTC from customers. Use of third party: Web Analytics.
-  Third-party company: StatCounter.'
+notes: "On November 3, 2018, attackers compromised the StatCounter web analytics platform — used by hundreds of thousands of websites worldwide — and modified the StatCounter JavaScript tracking script (counter.js) to include a malicious payload specifically designed to steal Bitcoin from users of the cryptocurrency exchange Gate.io.\n\nThe attack was discovered and publicly disclosed by ESET researchers on November 6, 2018, and immediately reported to both StatCounter and Gate.io. This was a highly targeted supply chain attack: while the modified StatCounter script would execute on every website using the service, the malicious payload only activated on pages containing a specific URI string — myaccount/withdraw/BTC — which is unique to Gate.io's Bitcoin withdrawal page. This URL-specific trigger meant the malicious code was dormant on the vast majority of sites it was loaded on, activating exclusively when a Gate.io user initiated a Bitcoin withdrawal.\n\nThe attack mechanism was elegant and effective: when a Gate.io user navigated to the Bitcoin withdrawal page, the malicious script intercepted the transaction and silently replaced the user's intended destination Bitcoin address with an address controlled by the attackers. The victim would see no indication of tampering. The replacement address was dynamically generated on each page load, fetched from a domain controlled by the attackers — statconuter[.]com — a typosquat of the legitimate StatCounter domain designed to blend into network traffic logs.\n\nThe malicious code was injected into the middle of the legitimate StatCounter script rather than appended at the beginning or end — an unusual placement that made detection harder for analysts scanning scripts for appended malicious content.\n\nThe exact amount of Bitcoin stolen from Gate.io users was not publicly disclosed. Gate.io immediately removed the StatCounter script from its website upon being notified. StatCounter confirmed the compromise and took steps to remove the malicious code.\n\nThe incident was a significant early demonstration of the JavaScript supply chain attack model that would go on to become a major threat vector: by compromising a single widely-deployed third-party script, attackers could reach users of thousands of downstream websites simultaneously, with highly targeted payload logic that minimized detection risk."

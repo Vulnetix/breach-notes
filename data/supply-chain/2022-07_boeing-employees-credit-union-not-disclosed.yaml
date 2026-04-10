@@ -1,16 +1,16 @@
-source_name: "Boeing Employeesâ\x80\x99 Credit Union Third-Party Breach (July 2022)"
-source_url: https://www.jdsupra.com/legalnews/boeing-employees-credit-union-announces-3892044/
-date_of_breach: '2022-07-01'
-date_of_disclosure: '2022-07-01'
-date_of_customer_notification: ''
+source_name: "Boeing Employees' Credit Union Third-Party Breach (July 2022)"
+source_url: "https://www.jdsupra.com/legalnews/boeing-employees-credit-union-announces-3892044/"
+date_of_breach: 2022-07-01
+date_of_disclosure: 2022-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Boeing Employeesâ\x80\x99\
-  \ Credit Union. Data breached: Names, addresses, account numbers, credit scores,\
-  \ and Social Security numbers. Use of third party: Printing vendor. Third-party\
-  \ company: Not disclosed."
+notes: |-
+  In 2022, Boeing Employees' Credit Union experienced a data security incident via a third-party vendor
+  relationship. Source reporting:
+  https://www.jdsupra.com/legalnews/boeing-employees-credit-union-announces-3892044/

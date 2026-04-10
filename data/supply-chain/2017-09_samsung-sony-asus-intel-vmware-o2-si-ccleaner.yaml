@@ -1,17 +1,13 @@
-source_name: Samsung, Sony, Asus, Intel, VMWare, O2, Singtel, Gauselmann, Dyn, Chunghwa
-  and Fujitsu, and many others Third-Party Breach (September 2017)
+source_name: CCleaner Supply Chain Backdoor — 2.27 Million Users, Stage 2 Targets Samsung/Intel/Sony
 source_url: https://www.wired.com/story/inside-the-unnerving-supply-chain-attack-that-corrupted-ccleaner/
 date_of_breach: '2017-09-01'
 date_of_disclosure: '2017-09-01'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Chinese APT (BARIUM/Winnti Group) compromised Piriform's (later acquired by Avast) build environment and injected a two-stage backdoor into the legitimate CCleaner 5.33 Windows application; the trojanized software was digitally signed with Piriform's legitimate certificate and distributed through official download channels to millions of users
 cve: []
-vendor_product: CCleaner
+vendor_product: Piriform CCleaner 5.33 (PC optimization utility, Windows)
 software_package: ''
-malware: ''
+malware: Floxif backdoor (Stage 1); Stage 2 GhostRat-variant (for high-value targets)
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Samsung, Sony, Asus, Intel,
-  VMWare, O2, Singtel, Gauselmann, Dyn, Chunghwa and Fujitsu, and many others. Data
-  breached: Unknown. Use of third party: Computer cleaner/ad removal tool. Third-party
-  company: CCleaner.'
+notes: 'Between mid-August and 12 September 2017, Piriform (a subsidiary of Avast Security) distributed a backdoored version of CCleaner 5.33 — a widely used Windows PC cleaning utility — to approximately 2.27 million users. The trojanized version contained a two-stage backdoor: Stage 1 (Floxif) collected basic system information and checked for administrative privileges, reporting to a C2 server and receiving commands. Stage 2 was delivered only to high-value targets meeting specific criteria — predominantly technology companies. Cisco Talos and Avast researchers discovered the backdoor on 11 September 2017 and disclosed it on 18 September. The malicious version had been distributed via Piriform''s official servers and was digitally signed with a valid Piriform certificate, making it indistinguishable from the legitimate software. Stage 2 was delivered to approximately 40 machines at major technology companies including Samsung, Sony, VMware, Intel, O2, Singtel, Gauselmann, Dyn, and Chunghwa Telecom — indicating the attackers specifically targeted tech supply chains for corporate espionage. Piriform had recently been acquired by Avast (August 2017). The attackers'' infrastructure was traced to China, and the malware shared code characteristics with BARIUM/Winnti Group tools. The attack illustrated how even post-acquisition security integration failures can create catastrophic supply chain vulnerabilities.'

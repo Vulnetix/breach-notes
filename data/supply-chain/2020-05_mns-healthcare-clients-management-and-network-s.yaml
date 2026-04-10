@@ -1,17 +1,16 @@
-source_name: "MNSâ\x80\x99 Healthcare Clients Third-Party Breach (May 2020)"
-source_url: https://www.hipaajournal.com/management-and-network-services-notifies-30132-patients-about-phi-breach/
-date_of_breach: '2020-05-01'
-date_of_disclosure: '2020-05-01'
-date_of_customer_notification: ''
+source_name: "MNS' Healthcare Clients Third-Party Breach (May 2020)"
+source_url: "https://www.hipaajournal.com/management-and-network-services-notifies-30132-patients-about-phi-breach/"
+date_of_breach: 2020-05-01
+date_of_disclosure: 2020-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: "Management and Network Services â\x80\x93 MNS"
-software_package: ''
-malware: ''
+vendor_product: Management and Network Services – MNS
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for MNSâ\x80\x99 Healthcare Clients.\
-  \ Data breached: Name, medical treatment information, diagnosis information/codes,\
-  \ medication information, dates of service, insurance provider, health insurance\
-  \ number, date of birth, and. Use of third party: Network Services Provider. Third-party\
-  \ company: Management and Network Services â\x80\x93 MNS."
+notes: |-
+  In 2020, MNS' Healthcare Clients experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Management and Network Services – MNS. Source reporting:
+  https://www.hipaajournal.com/management-and-network-services-notifies-30132-patients-about-phi-breach/

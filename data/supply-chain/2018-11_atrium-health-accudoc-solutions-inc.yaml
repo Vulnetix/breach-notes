@@ -1,17 +1,13 @@
-source_name: Atrium Health Third-Party Breach (November 2018)
-source_url: https://www.bizjournals.com/charlotte/news/2018/11/27/about-2-65m-patients-at-charlottes-atrium-health.html
-date_of_breach: '2018-11-01'
-date_of_disclosure: '2018-11-01'
-date_of_customer_notification: ''
+source_name: Atrium Health / AccuDoc Solutions Data Breach (2018)
+source_url: https://www.hipaajournal.com/2-65-million-atrium-health-patients-impacted-by-business-associate-data-breach/
+date_of_breach: '2018-09-22'
+date_of_disclosure: '2018-11-27'
+date_of_customer_notification: '2018-11-27'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Exploitation of security vulnerability at AccuDoc Solutions' third-party hosting vendor, enabling unauthorized access to AccuDoc databases containing Atrium Health patient billing data
 cve: []
 vendor_product: AccuDoc Solutions Inc.
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Atrium Health. Data breached:
-  2.65 M patient records including names, addresses, dates of birth, invoice numbers,
-  account balances, dates of service, insurance policy information and Social Security
-  numbers. Use of third party: billing services. Third-party company: AccuDoc Solutions
-  Inc..'
+notes: "Atrium Health, a major Charlotte, North Carolina hospital network, suffered a significant data breach affecting 2,650,000 patients through its billing services vendor AccuDoc Solutions Inc. The breach was discovered when AccuDoc notified Atrium Health on October 1, 2018, that some of its databases had been compromised. A forensic investigation established that unauthorized access had occurred between September 22 and September 29, 2018.\n\nThe root cause was a security vulnerability at a third-party vendor that AccuDoc itself relied upon for hosting services — making this a multi-tier supply chain breach. AccuDoc terminated its relationship with that vendor following the incident.\n\nExposed data for the 2.65 million affected patients included first and last names, home addresses, dates of birth, insurance policy information, medical record numbers, invoice numbers, account balances, and dates of service. Approximately 700,000 of those patients also had their Social Security numbers exposed. Notably, no clinical or medical records, bank account numbers, or payment card data were stored in the breached databases. Forensic investigators confirmed that data could only have been viewed — not downloaded — by the attackers, though the full extent of attacker access remained uncertain.\n\nAccuDoc served approximately 50 healthcare provider clients; only one other client beyond Atrium Health was confirmed affected: Baylor Medical Center in Frisco, Texas, where approximately 40,000 patient records were exposed.\n\nAtrium Health publicly disclosed the breach on November 27, 2018, and notified affected patients directly. The incident became one of the largest healthcare data breaches of 2018 and underscored the risks of downstream vendor dependencies — where a hospital's business associate itself relies on yet another vendor whose security posture is not directly visible to the upstream healthcare organization. The breach drew attention to HIPAA business associate agreement obligations and the importance of evaluating the entire vendor chain, not just direct vendors."

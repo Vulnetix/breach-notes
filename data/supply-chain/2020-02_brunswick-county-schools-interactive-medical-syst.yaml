@@ -1,16 +1,16 @@
 source_name: Brunswick County Schools Third-Party Breach (February 2020)
-source_url: https://www.wwaytv3.com/2020/02/28/data-breach-potentially-impacts-hundreds-of-brunswick-county-schools-employees/
-date_of_breach: '2020-02-01'
-date_of_disclosure: '2020-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.wwaytv3.com/2020/02/28/data-breach-potentially-impacts-hundreds-of-brunswick-county-schools-employees/"
+date_of_breach: 2020-02-01
+date_of_disclosure: 2020-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Interactive Medical Systems Corporation
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Brunswick County Schools.
-  Data breached: First and Last Name, Last Four Digits of Social Security Number,
-  Transaction Date and Amount, Plan Sponsor/Employer Name,. Use of third party: Administering
-  services. Third-party company: Interactive Medical Systems Corporation.'
+notes: |-
+  In 2020, Brunswick County Schools experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was Interactive Medical Systems Corporation. Source reporting:
+  https://www.wwaytv3.com/2020/02/28/data-breach-potentially-impacts-hundreds-of-brunswick-county-schools-employees/

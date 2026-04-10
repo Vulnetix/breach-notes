@@ -1,16 +1,16 @@
 source_name: TalkTalk Third-Party Breach (January 2025)
-source_url: https://www.bleepingcomputer.com/news/security/talktalk-investigates-breach-after-data-for-sale-on-hacking-forum/
-date_of_breach: '2025-01-01'
-date_of_disclosure: '2025-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/talktalk-investigates-breach-after-data-for-sale-on-hacking-forum/"
+date_of_breach: 2025-01-01
+date_of_disclosure: 2025-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CSG Ascendon
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for TalkTalk. Data breached:\
-  \ Includes the subscriberâ\x80\x99s name, email, last-used IP address, business\
-  \ phone number, and home phone number.. Use of third party: Telecommunications Provider.\
-  \ Third-party company: CSG Ascendon."
+notes: |-
+  In 2025, TalkTalk experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was CSG Ascendon. Source reporting:
+  https://www.bleepingcomputer.com/news/security/talktalk-investigates-breach-after-data-for-sale-on-hacking-forum/

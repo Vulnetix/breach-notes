@@ -1,16 +1,46 @@
-source_name: JPMorgan Chase & Co Third-Party Breach (October 2014)
-source_url: https://www.wsj.com/articles/j-p-morgan-found-hackers-after-finding-breach-of-race-website-1414766443
-date_of_breach: '2014-10-01'
-date_of_disclosure: '2014-10-01'
-date_of_customer_notification: ''
+source_name: JPMorgan Chase 2014 Data Breach (WSJ, NYT, SEC filings)
+source_url: https://en.wikipedia.org/wiki/2014_JPMorgan_Chase_data_breach
+date_of_breach: '2014-06-01'
+date_of_disclosure: '2014-10-02'
+date_of_customer_notification: '2014-10-02'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Stolen employee credentials from a compromised personal computer; attackers exploited a vulnerability in a web application server and escalated access due to a missing two-factor authentication token on one network server
 cve: []
-vendor_product: Not disclosed
+vendor_product: JPMorgan Chase corporate network and web applications
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for JPMorgan Chase & Co. Data
-  breached: Contact info for 76M households and 7M small business. Use of third party:
-  Management of its Corporate Challenge Race Registration. Third-party company: Not
-  disclosed.'
+notes: >-
+  In June 2014, attackers compromised a JPMorgan Chase employee's personal
+  computer and obtained login credentials, which they used to gain initial access
+  to the bank's corporate network. The attackers exploited a vulnerability in one
+  of the bank's web application servers and were able to escalate privileges
+  because one network server had not been upgraded to two-factor authentication.
+  Over the following weeks, the attackers moved laterally through the network,
+  ultimately compromising more than 90 corporate servers.
+
+  The breach was discovered by JPMorgan's security team in late July 2014, but the
+  attackers were not fully expelled until mid-August 2014. On October 2, 2014,
+  JPMorgan disclosed in an SEC filing that the breach had compromised data
+  associated with approximately 83 million accounts: 76 million households and 7
+  million small businesses, making it one of the largest bank breaches in history.
+
+  The stolen data included names, physical addresses, email addresses, and phone
+  numbers. Critically, JPMorgan stated that no account numbers, passwords, Social
+  Security numbers, or dates of birth were compromised, and no evidence of fraud
+  was detected related to the breach. No customer funds were stolen.
+
+  In November 2015, the U.S. Department of Justice unsealed a 23-count indictment
+  against three individuals: Gery Shalon and Ziv Orenstein (Israeli nationals) and
+  Joshua Samuel Aaron (a U.S. citizen living abroad). The defendants were charged
+  with computer hacking, securities fraud, wire fraud, and identity theft. The
+  hacking operation extended beyond JPMorgan to include attacks on other financial
+  institutions, brokerage firms, and financial news publishers, and was linked to a
+  broader criminal enterprise involving stock manipulation, illegal online casinos,
+  and payment processing for criminal schemes across multiple countries.
+
+  In response to the breach, JPMorgan Chase CEO Jamie Dimon committed to doubling
+  the bank's annual cybersecurity spending from $250 million in 2014 to $500
+  million, and expanding the security team to approximately 1,000 employees. The
+  incident became a catalyst for increased cybersecurity investment across the
+  entire financial services industry.

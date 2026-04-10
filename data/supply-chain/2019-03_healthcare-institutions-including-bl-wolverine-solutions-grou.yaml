@@ -1,20 +1,13 @@
-source_name: Healthcare institutions including Blue Cross Blue Shield of Michigan,
-  Health Alliance Plan, McLaren Health Care, and others Third-Party Breach (March
-  2019)
-source_url: https://www.cshub.com/attacks/articles/incident-of-the-week-malware-attack-exposes-patient-data
-date_of_breach: '2019-03-01'
-date_of_disclosure: '2019-03-01'
-date_of_customer_notification: ''
+source_name: Wolverine Solutions Group Ransomware Breach — 700+ Healthcare Clients, 1.2M Patients (2018–2019)
+source_url: https://databreaches.net/2019/03/02/more-than-5-months-after-ransomware-incident-wolverine-solutions-group-still-notifying-more-than-700-companies-and-1-2-million-patients/
+date_of_breach: '2018-09-01'
+date_of_disclosure: '2019-03-02'
+date_of_customer_notification: '2019-03-11'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Ransomware infection at Wolverine Solutions Group; attackers encrypted company records and disrupted operations, exposing patient data held on behalf of Michigan healthcare clients
 cve: []
 vendor_product: Wolverine Solutions Group
 software_package: ''
-malware: ''
+malware: Ransomware (variant not publicly identified)
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Healthcare institutions including
-  Blue Cross Blue Shield of Michigan, Health Alliance Plan, McLaren Health Care, and
-  others. Data breached: the personal and medical information of hundreds of thousands
-  of people may have been compromised. Use of third party: contractor that provides
-  mailing and other services for hospitals and healthcare companies. Third-party company:
-  Wolverine Solutions Group.'
+notes: "Wolverine Solutions Group (WSG) is a Detroit, Michigan-based company that provides mailing, printing, and administrative services to hospitals and healthcare organisations — including processing and mailing documents such as explanation-of-benefits letters, insurance cards, and other sensitive member communications on behalf of healthcare clients.\n\nIn September 2018, WSG discovered that its network had been compromised by a ransomware attack. The attackers encrypted the company's files and rendered its systems inoperable, disrupting its ability to serve its hundreds of healthcare clients. While there was no confirmed evidence that the attackers exfiltrated data, the encryption event gave attackers potential access to the personal and medical records of patients and insurance members held in WSG's systems.\n\nThe breach was not publicly disclosed until March 2019 — approximately five months after discovery — a timeline that drew scrutiny from the Michigan Attorney General and state regulators. By the time notifications were issued, WSG had been forced to notify more than 700 client organisations and potentially 1.2 million patients.\n\nAffected Michigan healthcare organisations included Blue Cross Blue Shield of Michigan, Health Alliance Plan, McLaren Health Care, Three Rivers Health, and North Ottawa Community Health System, among others. Michigan's Attorney General Dana Nessel and Department of Insurance and Financial Services (DIFS) Director Anita Fox issued a public statement on March 11, 2019 urging affected residents to take precautions.\n\nExposed information potentially included names, addresses, dates of birth, Social Security numbers, insurance contract information and numbers, phone numbers, and medical information — the full range of sensitive data typical of health insurance and provider communications.\n\nWSG arranged for affected individuals to receive identity protection services through AllClear ID. The company's prolonged notification timeline drew regulatory attention; under HIPAA's Breach Notification Rule and applicable state laws, covered entities and their business associates are generally required to notify affected individuals within 60 days of discovering a breach.\n\nThis incident illustrates how a mid-tier administrative services vendor — with no direct patient care function but holding vast quantities of PHI on behalf of dozens of healthcare organisations — can become a high-impact attack vector against the broader healthcare sector."

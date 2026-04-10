@@ -1,0 +1,17 @@
+source_name: Conduent Says Hack Now Affects at Least 25 Million Patients (DataBreachToday)
+source_url: https://www.databreachtoday.com/conduent-says-hack-now-affects-at-least-25-million-patients-a-30848
+date_of_breach: '2026-02-25'
+date_of_disclosure: '2026-02-25'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'The victim count in the 2024 hack on back-office support services vendor Conduent
+  Business Services has just ballooned again, with the Xerox-spinoff now reporting
+
+
+  Source: DataBreachToday article coverage.'

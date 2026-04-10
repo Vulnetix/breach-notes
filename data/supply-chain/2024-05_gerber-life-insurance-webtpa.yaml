@@ -1,17 +1,15 @@
 source_name: Gerber Life Insurance Third-Party Breach (May 2024)
-source_url: https://www.hipaajournal.com/webtpa-data-breach/
-date_of_breach: '2024-05-01'
-date_of_disclosure: '2024-05-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/webtpa-data-breach/"
+date_of_breach: 2024-05-01
+date_of_disclosure: 2024-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: WebTPA
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Gerber Life Insurance. Data
-  breached: Contact information, birthdate, date of death, Social Security number,
-  and insurance information. WebTPA said financial information and health information
-  were not compromised in the incident.. Use of third party: Health insurance and
-  benefit plans provider. Third-party company: WebTPA.'
+notes: |-
+  In 2024, Gerber Life Insurance experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was WebTPA. Source reporting: https://www.hipaajournal.com/webtpa-data-breach/

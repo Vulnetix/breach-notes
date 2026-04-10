@@ -1,16 +1,16 @@
 source_name: Ei2 Third-Party Breach (April 2021)
-source_url: https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/
-date_of_breach: '2021-04-01'
-date_of_disclosure: '2021-04-01'
-date_of_customer_notification: ''
+source_url: "https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/"
+date_of_breach: 2021-04-01
+date_of_disclosure: 2021-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: I-vic International
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Ei2. Data breached: Names,
-  identification number, contact information, educational qualifications, and employment
-  history. Use of third party: Contact centre solution provider. Third-party company:
-  I-vic International.'
+notes: |-
+  In 2021, Ei2 experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was I-vic International. Source reporting:
+  https://www.zdnet.com/article/third-party-security-breach-compromises-data-of-singapore-job-matching-service/

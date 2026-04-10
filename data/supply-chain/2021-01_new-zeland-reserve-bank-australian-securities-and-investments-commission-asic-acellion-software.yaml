@@ -1,17 +1,54 @@
-source_name: New Zeland Reserve Bank, Australian Securities and Investments Commission
-  (ASIC) Third-Party Breach (January 2021)
-source_url: https://www.bleepingcomputer.com/news/security/new-zealand-reserve-bank-suffers-data-breach-via-hacked-storage-partner/
-date_of_breach: '2021-01-01'
-date_of_disclosure: '2021-01-01'
-date_of_customer_notification: ''
+source_name: Accellion FTA Breach — Reserve Bank of New Zealand and ASIC (January 2021)
+source_url: "https://www.bleepingcomputer.com/news/security/global-accellion-data-breaches-linked-to-clop-ransomware-gang/"
+date_of_breach: 2020-12-23
+date_of_disclosure: 2021-01-10
+date_of_customer_notification: 2021-01-10
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
-cve: []
-vendor_product: Acellion Software
-software_package: ''
-malware: ''
+initial_attack_vector: SQL injection and OS command injection zero-days in Accellion File Transfer Appliance (FTA) legacy software
+cve:
+  - CVE-2021-27101
+  - CVE-2021-27102
+  - CVE-2021-27103
+  - CVE-2021-27104
+vendor_product: Accellion File Transfer Appliance (FTA)
+software_package: Accellion FTA
+malware: DEWMODE web shell
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for New Zeland Reserve Bank,
-  Australian Securities and Investments Commission (ASIC). Data breached: Commercially
-  and personally sensitive information. Use of third party: Third-party file transfer
-  application. Third-party company: Acellion Software.'
+notes: |-
+  The Accellion FTA (File Transfer Appliance) breach was one of the most consequential supply-chain attacks of
+  early 2021, affecting dozens of major organisations worldwide through a legacy secure file-transfer product
+  that many had deployed for years without upgrading. The Reserve Bank of New Zealand (RBNZ / Te Pūtea Matua)
+  was one of the first publicly confirmed victims, disclosing on 10 January 2021 that a third-party file-sharing
+  system had been illegally accessed. Within days, the Australian Securities and Investments Commission (ASIC)
+  confirmed it had been similarly affected, stating that a server used to transfer documents related to
+  Australian credit licence applications had been accessed.
+
+  The root cause was a chain of four zero-day vulnerabilities in Accellion FTA versions 9_12_370 and earlier.
+  CVE-2021-27101 is an SQL injection flaw exploitable via a crafted Host header against the document_root.html
+  endpoint. CVE-2021-27102 is an OS command execution flaw triggered via a local web service call.
+  CVE-2021-27103 is a server-side request forgery (SSRF) via a crafted POST request. CVE-2021-27104 is an OS
+  command execution flaw via a crafted POST request to the admin interface. Attackers chained these four
+  vulnerabilities to gain unauthenticated remote code execution, install a custom web shell named DEWMODE on
+  victim appliances, and then exfiltrate large volumes of sensitive data.
+
+  Accellion first learned of the initial vulnerability (CVE-2021-27101) on 23 December 2020 and issued an
+  emergency patch within 72 hours. However, threat actors discovered the remaining three vulnerabilities in
+  January 2021 and continued exploiting unpatched or newly-vulnerable appliances in additional waves through
+  February 2021. CISA and international partners published a joint advisory (AA21-055A) attributing the global
+  campaign to the financially motivated threat group FIN11 (also tracked as UNC2546), which subsequently
+  partnered with the CLOP ransomware operation to extort victims by threatening to publish stolen data on the
+  CL0P^_- LEAKS dark-web site.
+
+  For the RBNZ, the stolen data included commercially sensitive information and data from past and present
+  stakeholders. RBNZ confirmed it did not pay any ransom and worked with the New Zealand National Cyber
+  Security Centre (NCSC) in its response. ASIC disclosed that some limited information in document attachments
+  submitted to it had been accessed, but said it had no evidence that the breach compromised its internal
+  systems beyond the Accellion appliance. Other prominent global victims of the same campaign included the
+  Office of the Washington State Auditor, Kroger, Bombardier, the University of California, Transport for NSW,
+  Jones Day, Shell, and the Reserve Bank of Australia (via a third party).
+
+  Accellion decommissioned FTA in April 2021 and urged all remaining customers to migrate to its Kiteworks
+  platform. The incident underscored the systemic risk posed by legacy file-transfer appliances that persist in
+  enterprise environments long after vendors have ceased active development, and demonstrated how a single
+  compromised vendor product can simultaneously expose dozens of high-value organisations across multiple
+  countries.

@@ -1,16 +1,13 @@
-source_name: Nordstrom Third-Party Breach (November 2018)
-source_url: https://www.infosecurity-magazine.com/news/nordstrom-quick-to-tell-employees/
-date_of_breach: '2018-11-01'
-date_of_disclosure: '2018-11-01'
-date_of_customer_notification: ''
+source_name: Nordstrom Employee Data Breach via Contractor (2018)
+source_url: https://www.bankinfosecurity.com/nordstrom-says-contractor-mishandled-employee-data-a-11701
+date_of_breach: '2018-10-09'
+date_of_disclosure: '2018-11-09'
+date_of_customer_notification: '2018-11-09'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Insider mishandling of employee data by a contract worker with authorized system access; unauthorized exfiltration or exposure of HR and payroll data
 cve: []
-vendor_product: Not Disclosed
+vendor_product: Unnamed contractor (vendor identity not publicly disclosed)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Nordstrom. Data breached:
-  personal info of employees including names, SSNs and dates of birth, checking account
-  and routing numbers, salaries, etc.. Use of third party: management of direct deposits
-  of wages. Third-party company: Not Disclosed.'
+notes: "In October 2018, Nordstrom discovered that a contract worker had improperly handled employee personal data, resulting in the potential exposure of sensitive HR and payroll information for an undisclosed number of Nordstrom employees — with reports citing approximately 76,000 employees affected.\n\nThe anomalous activity was detected on October 9, 2018. Nordstrom notified affected employees and disclosed the breach publicly in November 2018. The contract worker involved no longer had access to Nordstrom systems by the time of disclosure.\n\nThe data potentially exposed included names, Social Security numbers, dates of birth, checking account and routing numbers, salaries, and other personally identifiable information. This combination of financial account details and SSNs created significant identity theft and financial fraud risk for affected employees.\n\nNordstrom stated it had no evidence that the data had been shared with or used by any unauthorized third party. The company offered affected employees 24 months of identity protection services through AllClear ID and implemented additional access controls to prevent recurrence.\n\nThe incident was notable for its nature: rather than an external hacker breaking into systems, a trusted insider — a contract employee — was responsible for the mishandling. The vendor providing the contract worker was not publicly named. The case illustrated the difficulty of enforcing data handling policies for contractor personnel who have been granted legitimate access to sensitive systems but whose actions may not be subject to the same level of monitoring as direct employees.\n\nNordstrom was praised for its rapid employee notification following discovery of the breach, which stood in contrast to the weeks or months of delay seen in many comparable incidents."

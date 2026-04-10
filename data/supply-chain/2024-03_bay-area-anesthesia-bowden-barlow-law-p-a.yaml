@@ -1,15 +1,16 @@
 source_name: Bay Area Anesthesia Third-Party Breach (March 2024)
-source_url: https://www.hipaajournal.com/grace-lutheran-communities-ransomware-attack/
-date_of_breach: '2024-03-01'
-date_of_disclosure: '2024-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/grace-lutheran-communities-ransomware-attack/"
+date_of_breach: 2024-03-01
+date_of_disclosure: 2024-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Bowden Barlow Law, P.A.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Bay Area Anesthesia. Data
-  breached: Tax forms and Social Security numbers (SSNs).. Use of third party: Healthcare
-  Provider. Third-party company: Bowden Barlow Law, P.A..'
+notes: |-
+  In 2024, Bay Area Anesthesia experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Bowden Barlow Law, P.A.. Source reporting:
+  https://www.hipaajournal.com/grace-lutheran-communities-ransomware-attack/

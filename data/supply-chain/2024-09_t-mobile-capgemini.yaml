@@ -1,16 +1,16 @@
 source_name: T-Mobile Third-Party Breach (September 2024)
-source_url: https://www.itpro.com/security/cyber-attacks/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach
-date_of_breach: '2024-09-01'
-date_of_disclosure: '2024-09-01'
-date_of_customer_notification: ''
+source_url: "https://www.itpro.com/security/cyber-attacks/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach"
+date_of_breach: 2024-09-01
+date_of_disclosure: 2024-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Capgemini
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for T-Mobile. Data breached:\
-  \ Including Database, Source code, Private Keys, Credentials, API Keys, Projects,\
-  \ Employee Data, T-Mobileâ\x80\x99s VM logs, and more.. Use of third party: Information\
-  \ technology provider. Third-party company: Capgemini."
+notes: |-
+  In 2024, T-Mobile experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Capgemini. Source reporting:
+  https://www.itpro.com/security/cyber-attacks/t-mobiles-vm-logs-allegedly-leaked-in-20-gb-capgemini-data-breach

@@ -1,17 +1,44 @@
-source_name: Cable One Third-Party Breach (August 2019)
-source_url: https://www.abc15.com/news/business/cable-one-email-data-breach-could-affect-employees-family-members
-date_of_breach: '2019-08-01'
+source_name: Cable ONE Employee Email Account Breach
+source_url: https://www.prnewswire.com/news-releases/cable-one-identifies-security-incident-involving-employee-email-accounts-300903126.html
+date_of_breach: '2019-05-01'
 date_of_disclosure: '2019-08-01'
-date_of_customer_notification: ''
+date_of_customer_notification: '2019-08-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unauthorized access to employee email accounts via compromised third-party vendor; approximately 14 accounts accessed
 cve: []
-vendor_product: not disclosed
+vendor_product: not disclosed (third-party email or HR vendor)
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Cable One. Data breached:
-  14 Cable One employee accounts may include addresses, Social Security numbers, government-issued
-  identification numbers, financial account numbers, digital signatures or medical
-  and health insurance information. Use of third party: not disclosed. Third-party
-  company: not disclosed.'
+notes: 'In May 2019, Cable ONE (now Sparklight), a US cable television and internet
+  provider headquartered in Phoenix, Arizona, discovered that an unauthorized individual
+  had gained access to approximately 14 employee email accounts through a third-party
+  vendor. The breach was detected in May 2019, but Cable ONE did not publicly disclose
+  it until August 2019, after completing its forensic investigation with the help of
+  an independent cybersecurity firm.
+
+  The compromised email accounts belonged to current and former employees and contained
+  sensitive personal information about those employees as well as their dependents,
+  beneficiaries, and in some cases other associated individuals. The categories of
+  data potentially exposed varied by individual but included: full names, physical
+  addresses, Social Security numbers, government-issued identification numbers (such
+  as driver''s license numbers), financial account numbers, digital signatures, and
+  medical or health insurance information.
+
+  Cable ONE did not identify the name of the third-party vendor whose compromise led
+  to the unauthorized access. Upon discovering the incident, Cable ONE took immediate
+  steps to block further access, engaged a cybersecurity forensic firm to investigate,
+  and notified federal law enforcement. The company sent notification letters to all
+  potentially affected individuals and offered identity protection services.
+
+  Importantly, Cable ONE stated it was not aware of any fraud or misuse of the exposed
+  information as a result of the incident at the time of disclosure. The relatively
+  small number of affected accounts (14 employee email accounts) limited the scale
+  of impact, though the sensitivity of the data types involved — including SSNs, financial
+  account numbers, and health information — made the exposure potentially serious for
+  the individuals affected.
+
+  This breach illustrates the risk of third-party vendors having access to corporate
+  email systems containing highly sensitive employee HR and benefits data. The attack
+  vector through a vendor rather than directly against Cable ONE systems is consistent
+  with broader trends in third-party risk seen throughout 2019.'

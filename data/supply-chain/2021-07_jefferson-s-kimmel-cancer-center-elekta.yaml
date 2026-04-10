@@ -1,18 +1,16 @@
-source_name: "Jeffersonâ\x80\x99s Kimmel Cancer Center Third-Party Breach (July 2021)"
-source_url: https://www.bizjournals.com/philadelphia/news/2021/07/26/jeffersons-kimmel-cancer-center-elekta-data-breach.html
-date_of_breach: '2021-07-01'
-date_of_disclosure: '2021-07-01'
-date_of_customer_notification: ''
+source_name: "Jefferson's Kimmel Cancer Center Third-Party Breach (July 2021)"
+source_url: "https://www.bizjournals.com/philadelphia/news/2021/07/26/jeffersons-kimmel-cancer-center-elekta-data-breach.html"
+date_of_breach: 2021-07-01
+date_of_disclosure: 2021-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Elekta
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Jeffersonâ\x80\x99s Kimmel\
-  \ Cancer Center. Data breached: Patient names, birth dates, medical record numbers,\
-  \ and clinical information related to treatment at Jefferson Health such as treatment\
-  \ plan, diagnosis, or prescription information. For some patients, Social Security\
-  \ number was also included as well.. Use of third party: Cloud provider. Third-party\
-  \ company: Elekta."
+notes: |-
+  In 2021, Jefferson's Kimmel Cancer Center experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Elekta. Source reporting:
+  https://www.bizjournals.com/philadelphia/news/2021/07/26/jeffersons-kimmel-cancer-center-elekta-data-breach.html

@@ -1,15 +1,16 @@
 source_name: Primula Third-Party Breach (January 2024)
-source_url: https://therecord.media/tietoevry-ransomware-attack-sweden-cloud-services-datacenter
-date_of_breach: '2024-01-01'
-date_of_disclosure: '2024-01-01'
-date_of_customer_notification: ''
+source_url: "https://therecord.media/tietoevry-ransomware-attack-sweden-cloud-services-datacenter"
+date_of_breach: 2024-01-01
+date_of_disclosure: 2024-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Tietoevry
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Primula. Data breached: Sensitive
-  personal data. Use of third party: Cloud hosting services provider. Third-party
-  company: Tietoevry.'
+notes: |-
+  In 2024, Primula experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Tietoevry. Source reporting:
+  https://therecord.media/tietoevry-ransomware-attack-sweden-cloud-services-datacenter

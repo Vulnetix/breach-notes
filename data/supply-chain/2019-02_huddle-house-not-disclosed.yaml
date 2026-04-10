@@ -1,15 +1,13 @@
-source_name: Huddle House Third-Party Breach (February 2019)
-source_url: https://www.nrn.com/family-dining/huddle-house-warns-possible-data-breach
-date_of_breach: '2019-02-01'
+source_name: Huddle House POS Malware Breach via Third-Party Vendor (2017–2019)
+source_url: https://www.bleepingcomputer.com/news/security/huddle-house-fast-food-chain-suffers-data-breach-in-pos-system/
+date_of_breach: '2017-08-01'
 date_of_disclosure: '2019-02-01'
-date_of_customer_notification: ''
+date_of_customer_notification: '2019-02-01'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Attackers compromised a third-party POS vendor's support tools to gain remote access to Huddle House POS systems and deploy payment card scraping malware
 cve: []
-vendor_product: not disclosed
+vendor_product: Huddle House (POS vendor not publicly named)
 software_package: ''
-malware: ''
+malware: POS RAM scraper (card track data harvesting)
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Huddle House. Data breached:
-  credit card payment information since Aug. 2017. Use of third party: Point-of-sale
-  systems. Third-party company: not disclosed.'
+notes: "Huddle House is a family-style restaurant chain headquartered in Atlanta, Georgia, with approximately 400 corporate and franchisee locations primarily across the southeastern United States. In early 2019, the company disclosed a prolonged point-of-sale (POS) compromise that had potentially exposed payment card data from customers dining at its locations since August 2017 — a window of roughly 17 months.\n\nThe attack vector was a supply chain compromise: criminals breached a third-party POS technology vendor and leveraged that vendor's remote support and assistance tools to gain unauthorised access to Huddle House's corporate and franchisee POS systems. Once inside, the attackers deployed POS RAM-scraping malware designed to harvest payment card data from the magnetic stripe at the moment of transaction processing — before the data is encrypted for transmission.\n\nThe malware captured cardholder names, credit and debit card numbers, card expiration dates, cardholder verification values (CVV), and service codes — effectively the full magnetic stripe dataset needed to clone payment cards or conduct card-not-present fraud.\n\nHuddle House was notified of the compromise on January 3, 2019 by its credit card processor, which had detected anomalous card-present fraud patterns linked to Huddle House transactions. The company retained a forensic security firm within 24 hours and deployed remediation software to affected POS systems.\n\nThe third-party vendor whose tools were exploited was not publicly identified. This is a classic indirect supply chain attack pattern: the restaurant chain itself was not initially targeted; rather, attackers found a path through the vendor's remote access infrastructure.\n\nThe total number of affected customers and the precise number of affected locations were not disclosed. Given the long dwell time (potentially 17 months) and the hundreds of locations, the potential scale is significant. Huddle House urged customers who made purchases at its restaurants between August 2017 and early 2019 to review their card statements and consider proactive card replacement."

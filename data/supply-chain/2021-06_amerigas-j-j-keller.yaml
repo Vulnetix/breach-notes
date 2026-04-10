@@ -1,17 +1,16 @@
 source_name: AmeriGas Third-Party Breach (June 2021)
-source_url: https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/
-date_of_breach: '2021-06-01'
-date_of_disclosure: '2021-06-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/"
+date_of_breach: 2021-06-01
+date_of_disclosure: 2021-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: J. J. Keller
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for AmeriGas. Data breached:\
-  \ Internal email with spreadsheet attachments containing 123 AmeriGas employeesâ\x80\
-  \x99 information, including Lab IDs, social security numbers, driverâ\x80\x99s license\
-  \ numbers, and dates of birth. Use of third party: Regulatory compliance vendor.\
-  \ Third-party company: J. J. Keller."
+notes: |-
+  In 2021, AmeriGas experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was J. J. Keller. Source reporting:
+  https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/

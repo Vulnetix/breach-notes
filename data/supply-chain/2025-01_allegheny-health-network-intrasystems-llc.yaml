@@ -1,18 +1,16 @@
 source_name: Allegheny Health Network Third-Party Breach (January 2025)
-source_url: https://www.hipaajournal.com/allegheny-health-network-ba-cyberattack/
-date_of_breach: '2025-01-01'
-date_of_disclosure: '2025-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/allegheny-health-network-ba-cyberattack/"
+date_of_breach: 2025-01-01
+date_of_disclosure: 2025-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: IntraSystems LLC
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Allegheny Health Network.
-  Data breached: Names, addresses, dates of birth, Social Security numbers, financial
-  account numbers (no access codes), health insurance information, and treatment information
-  such as diagnoses, provider information, treatments/procedures, dates of service,
-  prescription information, and medical device serial numbers.. Use of third party:
-  Cybersecurity and IT solutions provider. Third-party company: IntraSystems LLC.'
+notes: |-
+  In 2025, Allegheny Health Network experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was IntraSystems LLC. Source reporting:
+  https://www.hipaajournal.com/allegheny-health-network-ba-cyberattack/

@@ -1,22 +1,18 @@
-source_name: "Baptist Health System, Resolute Health Hospital, The Hospitals of Providence\
-  \ Memorial Campus, Valley Baptist Medical Center â\x80\x93 Brownsville, Valley Baptist\
-  \ Medical Center â\x80\x93 Harlingen Third-Party Breach (June 2022)"
-source_url: https://response.idx.us/crcs-information-texas/
-date_of_breach: '2022-06-01'
-date_of_disclosure: '2022-06-01'
-date_of_customer_notification: ''
+source_name: |-
+             Baptist Health System, Resolute Health Hospital, The Hospitals of Providence Memorial Campus, Valley Baptist Medical Center – Brownsville, Valley Baptist Medical Center – Harlingen Third-Party Breach (June 2022)
+source_url: "https://response.idx.us/crcs-information-texas/"
+date_of_breach: 2022-06-01
+date_of_disclosure: 2022-06-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Conifer Revenue Cycle Solutions
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Baptist Health System, Resolute\
-  \ Health Hospital, The Hospitals of Providence Memorial Campus, Valley Baptist Medical\
-  \ Center â\x80\x93 Brownsville, Valley Baptist Medical Center â\x80\x93 Harlingen.\
-  \ Data breached: Names, dates of birth, addresses, Social Security numbers, driverâ\x80\
-  \x99s license numbers, medical and treatment information, health insurance information,\
-  \ and billing information. Use of third party: Provider of revenue cycle management\
-  \ and other administrative services. Third-party company: Conifer Revenue Cycle\
-  \ Solutions."
+notes: |-
+  In 2022, Baptist Health System, Resolute Health Hospital, The Hospitals of Providence Memorial Campus, Valley
+  Baptist Medical Center – Brownsville, Valley Baptist Medical Center – Harlingen experienced a data security
+  incident via a third-party vendor relationship. The compromised third-party vendor was Conifer Revenue Cycle
+  Solutions. Source reporting: https://response.idx.us/crcs-information-texas/

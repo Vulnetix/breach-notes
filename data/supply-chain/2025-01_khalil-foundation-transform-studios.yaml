@@ -1,20 +1,16 @@
 source_name: Khalil Foundation Third-Party Breach (January 2025)
-source_url: https://www.hipaajournal.com/billing-support-vendor-notifies-360k-patients-about-december-2023-data-breach/
-date_of_breach: '2025-01-01'
-date_of_disclosure: '2025-01-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/billing-support-vendor-notifies-360k-patients-about-december-2023-data-breach/"
+date_of_breach: 2025-01-01
+date_of_disclosure: 2025-01-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Transform Studios
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Khalil Foundation. Data breached:\
-  \ Health insurance and billing information, debit/credit card numbers or bank account\
-  \ information, health information such as medical history, medical record number,\
-  \ or prescription information, government identification such as Social Security\
-  \ number, taxpayer ID, driverâ\x80\x99s license number, or passport number), and\
-  \ other personal information such as date of birth, email address, address, or phone\
-  \ number.. Use of third party: Practice management software provider. Third-party\
-  \ company: Transform Studios."
+notes: |-
+  In 2025, Khalil Foundation experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Transform Studios. Source reporting:
+  https://www.hipaajournal.com/billing-support-vendor-notifies-360k-patients-about-december-2023-data-breach/

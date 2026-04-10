@@ -1,15 +1,16 @@
 source_name: Yves Rocher Third-Party Breach (September 2019)
-source_url: https://threatpost.com/data-leak-impacts-millions/147908/
-date_of_breach: '2019-09-01'
-date_of_disclosure: '2019-09-01'
-date_of_customer_notification: ''
+source_url: "https://threatpost.com/data-leak-impacts-millions/147908/"
+date_of_breach: 2019-09-01
+date_of_disclosure: 2019-09-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Aliznet
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Yves Rocher. Data breached:\
-  \ 2.5 million Canadian customersâ\x80\x99 personal data. Use of third party: Consulting\
-  \ services. Third-party company: Aliznet."
+notes: |-
+  In 2019, Yves Rocher experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Aliznet. Source reporting:
+  https://threatpost.com/data-leak-impacts-millions/147908/

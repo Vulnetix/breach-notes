@@ -1,16 +1,16 @@
 source_name: Farmers Insurance Third-Party Breach (August 2025)
-source_url: https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/
-date_of_breach: '2025-08-01'
-date_of_disclosure: '2025-08-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/"
+date_of_breach: 2025-08-01
+date_of_disclosure: 2025-08-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Salesforce
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Farmers Insurance. Data breached:
-  Includes names, addresses, dates of birth, driver''s license numbers, and/or last
-  four digits of Social Security numbers.. Use of third party: CRM-SaaS provider.
-  Third-party company: Salesforce.'
+notes: |-
+  In 2025, Farmers Insurance experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Salesforce. Source reporting:
+  https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/

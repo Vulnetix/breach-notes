@@ -1,15 +1,16 @@
 source_name: SpaceX, Tesla, Boeing, Lockheed Martin Third-Party Breach (March 2020)
-source_url: https://techcrunch.com/2020/03/01/visser-breach/
-date_of_breach: '2020-03-01'
-date_of_disclosure: '2020-03-01'
-date_of_customer_notification: ''
+source_url: "https://techcrunch.com/2020/03/01/visser-breach/"
+date_of_breach: 2020-03-01
+date_of_disclosure: 2020-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Visser
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for SpaceX, Tesla, Boeing, Lockheed
-  Martin. Data breached: Non-disclosure agreements, partial schematic for a missile
-  antenna. Use of third party: Precision parts maker. Third-party company: Visser.'
+notes: |-
+  In 2020, SpaceX, Tesla, Boeing, Lockheed Martin experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Visser. Source reporting:
+  https://techcrunch.com/2020/03/01/visser-breach/

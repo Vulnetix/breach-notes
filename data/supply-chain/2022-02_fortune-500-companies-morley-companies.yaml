@@ -1,16 +1,17 @@
 source_name: Fortune 500 companies Third-Party Breach (February 2022)
-source_url: https://www.business-standard.com/article/international/hackers-hit-fortune-500-service-provider-data-of-over-500k-people-leaked-122020600340_1.html#:~:text=Photo%3A%20Bloomberg-,Morley%20Companies%20that%20provides%20services%20to%20several%20Fortune%20500%20companies,when%20Morley%27s%20data%20became%20unavailable.
-date_of_breach: '2022-02-01'
-date_of_disclosure: '2022-02-01'
-date_of_customer_notification: ''
+source_url: |-
+            https://www.business-standard.com/article/international/hackers-hit-fortune-500-service-provider-data-of-over-500k-people-leaked-122020600340_1.html#:~:text=Photo%3A%20Bloomberg-,Morley%20Companies%20that%20provides%20services%20to%20several%20Fortune%20500%20companies,when%20Morley%27s%20data%20became%20unavailable.
+date_of_breach: 2022-02-01
+date_of_disclosure: 2022-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Morley Companies
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Fortune 500 companies. Data
-  breached: Names, addresses, Social Security numbers, birthdates, client identification
-  numbers, medical diagnostic and treatment information, and health insurance information.
-  Use of third party: Business service provider. Third-party company: Morley Companies.'
+notes: |-
+  In 2022, Fortune 500 companies experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Morley Companies. Source reporting:
+  https://www.business-standard.com/article/international/hackers-hit-fortune-500-service-provider-data-of-over-500k-people-leaked-122020600340_1.html#:~:text=Photo%3A%20Bloomberg-,Morley%20Companies%20that%20provides%20services%20to%20several%20Fortune%20500%20companies,when%20Morley%27s%20data%20became%20unavailable.

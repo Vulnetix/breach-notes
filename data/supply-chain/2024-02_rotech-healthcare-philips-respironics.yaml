@@ -1,17 +1,16 @@
 source_name: Rotech Healthcare Third-Party Breach (February 2024)
-source_url: https://www.hipaajournal.com/r1-rcm-data-breach-impacts-16000-patients/
-date_of_breach: '2024-02-01'
-date_of_disclosure: '2024-02-01'
-date_of_customer_notification: ''
+source_url: "https://www.hipaajournal.com/r1-rcm-data-breach-impacts-16000-patients/"
+date_of_breach: 2024-02-01
+date_of_disclosure: 2024-02-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Philips Respironics
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Rotech Healthcare. Data breached:
-  Names, contact information, dates of birth, Social Security numbers, location of
-  services, clinical and/ or diagnosis information, and patient account and/or medical
-  record numbers.. Use of third party: Healthcare Provider. Third-party company: Philips
-  Respironics.'
+notes: |-
+  In 2024, Rotech Healthcare experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Philips Respironics. Source reporting:
+  https://www.hipaajournal.com/r1-rcm-data-breach-impacts-16000-patients/

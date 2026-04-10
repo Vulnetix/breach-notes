@@ -1,19 +1,16 @@
 source_name: Ascension Third-Party Breach (April 2025)
-source_url: https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/
-date_of_breach: '2025-04-01'
-date_of_disclosure: '2025-04-01'
-date_of_customer_notification: ''
+source_url: "https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/"
+date_of_breach: 2025-04-01
+date_of_disclosure: 2025-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Former business partner
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Ascension. Data breached:
-  Includes name, address, phone number(s), email address, date of birth, race, gender,
-  Social Security number (SSN), inpatient clinical information including place of
-  service, physician name, admission and discharge dates, diagnosis and billing codes,
-  medical record number, and insurance company name.. Use of third party: Third-party
-  software provider for healthcare IT/EHR operations. Third-party company: Former
-  business partner.'
+notes: |-
+  In 2025, Ascension experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Former business partner. Source reporting:
+  https://www.bleepingcomputer.com/news/security/ascension-discloses-new-data-breach-after-third-party-hacking-incident/

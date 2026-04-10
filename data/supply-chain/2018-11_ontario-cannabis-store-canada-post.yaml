@@ -1,15 +1,13 @@
-source_name: Ontario Cannabis Store Third-Party Breach (November 2018)
-source_url: https://www.lexology.com/library/detail.aspx?g=14b257d3-9589-45ed-ace1-2614f492a165
+source_name: Ontario Cannabis Store / Canada Post Data Breach (2018)
+source_url: https://www.cbc.ca/news/canada/toronto/ontario-cannabis-store-data-breach-canada-post-customer-orders-1.4895619
 date_of_breach: '2018-11-01'
-date_of_disclosure: '2018-11-01'
-date_of_customer_notification: ''
+date_of_disclosure: '2018-11-07'
+date_of_customer_notification: '2018-11-07'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Unauthorized access to Canada Post's online parcel delivery tracking tool by an external actor, exposing shipment metadata for Ontario Cannabis Store customer orders
 cve: []
 vendor_product: Canada Post
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Ontario Cannabis Store. Data
-  breached: names and addresses of 4500 consumers. Use of third party: Online tracking
-  tool. Third-party company: Canada Post.'
+notes: "Shortly after the Ontario Cannabis Store (OCS) launched online sales following the legalization of recreational cannabis in Canada on October 17, 2018, a data breach was disclosed affecting approximately 4,500 customers — roughly 2 percent of total orders placed during the early weeks of operation.\n\nThe breach occurred through Canada Post's online package delivery tracking portal. An unauthorized individual gained access to the tracking system and was able to view shipment records associated with OCS orders. Canada Post notified the OCS on November 1, 2018, and OCS notified affected customers by email shortly after.\n\nThe information exposed was limited to delivery metadata: postal codes, names or initials of the individuals who signed for delivery, dates of delivery, OCS order reference numbers, Canada Post tracking numbers, and OCS corporate names and business addresses. No financial data, payment card information, government identification, or detailed personal profiles were exposed.\n\nCanada Post stated it was confident the person who accessed the information shared it only with Canada Post itself and deleted it without further use. Both organizations implemented fixes to prevent further unauthorized access to the tracking portal.\n\nThe incident drew heightened public attention due to the politically sensitive nature of cannabis purchasing records at a time when legalization was brand new and many customers were concerned about privacy. The OCS directly emailed affected customers and clarified that those who did not receive a notification were not impacted.\n\nThe breach illustrated a common pattern in supply chain risk: a government-run retailer with strong security intentions can still be exposed through a third-party logistics and postal vendor's own system weaknesses, particularly during a rapid operational launch when security reviews may be incomplete."

@@ -1,16 +1,16 @@
 source_name: El Centro Regional Medical Center Third-Party Breach (November 2018)
-source_url: https://www.ivpressonline.com/news/local/ecrmc-warns-job-applicants-of-data-breach/article_e61ee9e0-ed3f-11e8-91ad-eb7e884c6340.html
-date_of_breach: '2018-11-01'
-date_of_disclosure: '2018-11-01'
-date_of_customer_notification: ''
+source_url: "https://www.ivpressonline.com/news/local/ecrmc-warns-job-applicants-of-data-breach/article_e61ee9e0-ed3f-11e8-91ad-eb7e884c6340.html"
+date_of_breach: 2018-11-01
+date_of_disclosure: 2018-11-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Jobscience, Inc.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for El Centro Regional Medical
-  Center. Data breached: Social Security numbers of thousands of individuals who applied
-  for a job. Use of third party: online employment application services. Third-party
-  company: Jobscience, Inc..'
+notes: |-
+  In 2018, El Centro Regional Medical Center experienced a data security incident via a third-party vendor
+  relationship. The compromised third-party vendor was Jobscience, Inc.. Source reporting:
+  https://www.ivpressonline.com/news/local/ecrmc-warns-job-applicants-of-data-breach/article_e61ee9e0-ed3f-11e8-91ad-eb7e884c6340.html

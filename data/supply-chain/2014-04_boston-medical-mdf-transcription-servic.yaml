@@ -1,15 +1,23 @@
-source_name: Boston Medical Third-Party Breach (April 2014)
+source_name: Boston Medical Center Patient Records Breach via MDF Transcription Services
 source_url: https://www.bostonglobe.com/business/2014/04/29/boston-medical-center-fires-vendor-after-data-breach/jboHN1Aq1x2JAE5amyEHiO/story.html
 date_of_breach: '2014-04-01'
-date_of_disclosure: '2014-04-01'
+date_of_disclosure: '2014-04-29'
 date_of_customer_notification: ''
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: MDF Transcription Services, a medical transcription vendor
+  contracted by Boston Medical Center, inadvertently posted patient records to a publicly
+  accessible website without authentication; the records were uploaded to an internet-accessible
+  server rather than a secure private system
 cve: []
 vendor_product: MDF Transcription Services
 software_package: ''
 malware: ''
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Boston Medical. Data breached:
-  Records about 15K patients posted withoout authentication. Use of third party: Transcription
-  services. Third-party company: MDF Transcription Services.'
+notes: 'Boston Medical Center said it has fired a transcription service after a health
+  care provider reported that the medical records of about 15,000 patients at the
+  hospital were posted without password protection on the vendor’s website used by
+  physicians. Boston Medical Center said it fired a transcription service after a
+  health care provider reported the records of about 15,000 patients at the hospital
+  were posted without password protection on the vendor’s website used by physicians.
+  Black Kite timeline context: Data breached: Unknown. Use of third party: Unknown.
+  Third-party company: Third-party vendor.'

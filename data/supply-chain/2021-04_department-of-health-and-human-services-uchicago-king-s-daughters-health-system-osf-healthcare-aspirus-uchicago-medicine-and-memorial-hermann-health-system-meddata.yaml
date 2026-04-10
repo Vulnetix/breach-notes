@@ -1,21 +1,17 @@
-source_name: "Department of Health and Human Services,UChicago, Kingâ\x80\x99s Daughtersâ\x80\
-  \x99 Health System, OSF HealthCare, Aspirus, UChicago Medicine, and Memorial Hermann\
-  \ Health System. Third-Party Breach (April 2021)"
-source_url: https://healthitsecurity.com/news/patient-data-from-multiple-providers-leaked-in-third-party-github-incident
-date_of_breach: '2021-04-01'
-date_of_disclosure: '2021-04-01'
-date_of_customer_notification: ''
+source_name: "Department of Health and Human Services,UChicago, King's Daughters' Health System, OSF HealthCare, Aspirus, UChicago Medicine, and Memorial Hermann Health System. Third-Party Breach (April 2021)"
+source_url: "https://healthitsecurity.com/news/patient-data-from-multiple-providers-leaked-in-third-party-github-incident"
+date_of_breach: 2021-04-01
+date_of_disclosure: 2021-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: MedData
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Department of Health and\
-  \ Human Services,UChicago, Kingâ\x80\x99s Daughtersâ\x80\x99 Health System, OSF\
-  \ HealthCare, Aspirus, UChicago Medicine, and Memorial Hermann Health System.. Data\
-  \ breached: Subscriber ID,Social Security numbers, diagnoses, conditions, claims\
-  \ data, dates of services, medical procedure codes, insurance policy numbers, provider\
-  \ names, contact details, and dates of birth.. Use of third party: Revenue cycle\
-  \ service provider. Third-party company: MedData."
+notes: |-
+  In 2021, Department of Health and Human Services,UChicago, King's Daughters' Health System, OSF HealthCare,
+  Aspirus, UChicago Medicine, and Memorial Hermann Health System. experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was MedData. Source reporting:
+  https://healthitsecurity.com/news/patient-data-from-multiple-providers-leaked-in-third-party-github-incident

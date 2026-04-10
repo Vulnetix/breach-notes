@@ -1,20 +1,17 @@
-source_name: Blue Cross Blue Shield of Arizona, Clover Health, Kaiser Permanente,
-  Point32Health, UPMC Health Plan, and 33 healthcare organizations Third-Party Breach
-  (April 2022)
-source_url: https://1touchpoint.com/notice-of-data-event
-date_of_breach: '2022-04-01'
-date_of_disclosure: '2022-04-01'
-date_of_customer_notification: ''
+source_name: Blue Cross Blue Shield of Arizona, Clover Health, Kaiser Permanente, Point32Health, UPMC Health Plan, and 33 healthcare organizations Third-Party Breach (April 2022)
+source_url: "https://1touchpoint.com/notice-of-data-event"
+date_of_breach: 2022-04-01
+date_of_disclosure: 2022-04-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: OneTouchPoint
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Blue Cross Blue Shield of
-  Arizona, Clover Health, Kaiser Permanente, Point32Health, UPMC Health Plan, and
-  33 healthcare organizations. Data breached: Names, PII, addresses, dates of birth,
-  date of service, description of service, diagnosis codes, information provided as
-  part of a health assessment, and member ID. Use of third party: Mailing and printing
-  services vendor. Third-party company: OneTouchPoint.'
+notes: |-
+  In 2022, Blue Cross Blue Shield of Arizona, Clover Health, Kaiser Permanente, Point32Health, UPMC Health Plan,
+  and 33 healthcare organizations experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was OneTouchPoint. Source reporting:
+  https://1touchpoint.com/notice-of-data-event

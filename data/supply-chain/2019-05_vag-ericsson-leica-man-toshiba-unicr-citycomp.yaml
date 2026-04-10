@@ -1,17 +1,17 @@
-source_name: VAG, Ericsson, Leica, MAN, Toshiba, UniCredit, and British Telecom (BT)
-  Third-Party Breach (May 2019)
-source_url: https://latesthackingnews.com/2019/05/03/german-it-firm-citycomp-data-breach-directly-affected-major-companies/
-date_of_breach: '2019-05-01'
-date_of_disclosure: '2019-05-01'
-date_of_customer_notification: ''
+source_name: VAG, Ericsson, Leica, MAN, Toshiba, UniCredit, and British Telecom (BT) Third-Party Breach (May 2019)
+source_url: "https://latesthackingnews.com/2019/05/03/german-it-firm-citycomp-data-breach-directly-affected-major-companies/"
+date_of_breach: 2019-05-01
+date_of_disclosure: 2019-05-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CITYCOMP
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for VAG, Ericsson, Leica, MAN,
-  Toshiba, UniCredit, and British Telecom (BT). Data breached: 312,570 files in 51,025
-  folders, over 516 Gb of data financial and private information on all clients. Use
-  of third party: IT Company. Third-party company: CITYCOMP.'
+notes: |-
+  In 2019, VAG, Ericsson, Leica, MAN, Toshiba, UniCredit, and British Telecom (BT) experienced a data security
+  incident via a third-party vendor relationship. The compromised third-party vendor was CITYCOMP. Source
+  reporting:
+  https://latesthackingnews.com/2019/05/03/german-it-firm-citycomp-data-breach-directly-affected-major-companies/

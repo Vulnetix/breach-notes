@@ -1,16 +1,16 @@
 source_name: Piedmont Health Services Third-Party Breach (March 2021)
-source_url: https://www.thetimesnews.com/story/news/2021/03/25/data-breach-reported-piedmont-health-services/6991961002/
-date_of_breach: '2021-03-01'
-date_of_disclosure: '2021-03-01'
-date_of_customer_notification: ''
+source_url: "https://www.thetimesnews.com/story/news/2021/03/25/data-breach-reported-piedmont-health-services/6991961002/"
+date_of_breach: 2021-03-01
+date_of_disclosure: 2021-03-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: PeakTPA
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Piedmont Health Services.\
-  \ Data breached: Patientsâ\x80\x99 name, date of birth, address, social security\
-  \ number and diagnosis codes.. Use of third party: Administrative services vendor.\
-  \ Third-party company: PeakTPA."
+notes: |-
+  In 2021, Piedmont Health Services experienced a data security incident via a third-party vendor relationship.
+  The compromised third-party vendor was PeakTPA. Source reporting:
+  https://www.thetimesnews.com/story/news/2021/03/25/data-breach-reported-piedmont-health-services/6991961002/

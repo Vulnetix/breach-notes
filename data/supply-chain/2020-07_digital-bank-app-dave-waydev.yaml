@@ -1,16 +1,40 @@
-source_name: Digital Bank App, Dave Third-Party Breach (July 2020)
-source_url: https://www.darkreading.com/attacks-breaches/75m-banking-customers-affected-in-dave-security-breach/d/d-id/1338464
-date_of_breach: '2020-07-01'
-date_of_disclosure: '2020-07-01'
-date_of_customer_notification: ''
+source_name: Dave Banking App via Waydev OAuth Token Theft (July 2020)
+source_url: https://www.bleepingcomputer.com/news/security/dave-data-breach-affects-75-million-users-leaked-on-hacker-forum/
+date_of_breach: "2020-06-10"
+date_of_disclosure: "2020-07-25"
+date_of_customer_notification: "2020-07-25"
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Blind SQL injection in Waydev analytics platform used to steal GitHub and GitLab OAuth tokens, enabling downstream access to Dave user database
 cve: []
-vendor_product: WayDev
-software_package: ''
-malware: ''
+vendor_product: Waydev (git analytics third-party vendor)
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for Digital Bank App, Dave. Data\
-  \ breached: 7.5 million usersâ\x80\x99 names, emails and physical addresses, birthdates,\
-  \ and phone numbers. Use of third party: Third-party service provider. Third-party\
-  \ company: WayDev."
+notes: |-
+  In July 2020, the personal data of approximately 7.5 million users of Dave — a US-based neobank and
+  personal finance app — was compromised and subsequently leaked on a public hacking forum. The breach
+  traced entirely to a third-party vendor: Waydev, a git analytics platform used by engineering teams
+  to measure developer productivity.
+
+  Attackers exploited a blind SQL injection vulnerability in Waydev's platform, executing multiple
+  automated attacks over an AJAX interface between June 10 and July 3, 2020. The SQL injection exposed
+  Waydev's internal database, where the company stored OAuth tokens issued by its customers' GitHub and
+  GitLab integrations. These tokens were used by Waydev daily to pull repository data for analytics
+  reports. By harvesting the tokens, attackers could impersonate Waydev's legitimate API access and
+  pivot into customer environments. Waydev discovered the attack on July 3, 2020, patched the
+  vulnerability the same day, and coordinated with GitHub and GitLab to revoke all compromised tokens.
+
+  Dave disclosed the breach publicly on July 25, 2020, after the threat actor — identified as
+  ShinyHunters — released the full stolen database for free on a hacker forum. The released data
+  included names, email addresses, physical addresses, dates of birth, phone numbers, and bcrypt-hashed
+  passwords of 7.5 million Dave users. Dave confirmed that no bank account numbers, credit card
+  numbers, financial transaction records, or unencrypted Social Security numbers were exposed.
+
+  Dave immediately retained CrowdStrike to assist with the investigation and notified the FBI. The
+  company forced password resets for all affected users. A class-action lawsuit was subsequently filed
+  against Dave alleging inadequate vendor security oversight. Flood.io, a software testing service,
+  was also confirmed as a secondary victim of the same Waydev token theft.
+
+  The incident is a textbook supply-chain credential attack: a smaller third-party analytics vendor
+  with broad OAuth access to customer source repositories becomes the weakest link, allowing attackers
+  to extract millions of end-user records without ever directly targeting the primary platform.

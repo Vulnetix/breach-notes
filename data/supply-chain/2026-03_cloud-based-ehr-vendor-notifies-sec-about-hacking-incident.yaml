@@ -1,0 +1,17 @@
+source_name: Cloud-Based EHR Vendor Notifies SEC About Hacking Incident (DataBreachToday)
+source_url: https://www.databreachtoday.com/cloud-based-ehr-vendor-notifies-sec-about-hacking-incident-a-31294
+date_of_breach: '2026-03-30'
+date_of_disclosure: '2026-03-30'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Electronic health records vendor CareCloud has notified the U.S. Securities
+  and Exchange Commission of a cyber incident earlier this month that temporarily
+
+
+  Source: DataBreachToday article coverage.'

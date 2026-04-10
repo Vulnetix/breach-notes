@@ -1,15 +1,50 @@
-source_name: Community Health Systems Third-Party Breach (February 2023)
-source_url: https://www.techtarget.com/searchsecurity/news/365533992/More-victims-emerge-from-Fortra-GoAnywhere-zero-day-attacks
-date_of_breach: '2023-02-01'
-date_of_disclosure: '2023-02-01'
-date_of_customer_notification: ''
+source_name: Community Health Systems GoAnywhere MFT Breach (Cl0p, CVE-2023-0669)
+source_url: "https://www.hipaajournal.com/community-health-systems-goanywhere-data-breach/"
+date_of_breach: 2023-01-28
+date_of_disclosure: 2023-02-13
+date_of_customer_notification: 2023-03-01
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
-cve: []
-vendor_product: GoAnywhere MFT
-software_package: ''
-malware: ''
+initial_attack_vector: |-
+  Cl0p exploited CVE-2023-0669, a pre-authentication remote code injection vulnerability in
+  Fortra's GoAnywhere MFT administrative interface, to exfiltrate data from Community Health
+  Systems' managed file transfer environment between January 28–30, 2023; no ransomware
+  encryption was deployed — data theft only
+cve:
+  - CVE-2023-0669
+vendor_product: Fortra GoAnywhere Managed File Transfer (MFT)
+software_package: ""
+malware: Cl0p
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Community Health Systems.
-  Data breached: Customer data was not compromised. Use of third party: Software vendor.
-  Third-party company: GoAnywhere MFT.'
+notes: |-
+  Community Health Systems (CHS), one of the largest for-profit hospital operators in the United
+  States, was among the earliest publicly disclosed victims of Cl0p's mass-exploitation campaign
+  targeting Fortra's GoAnywhere MFT platform via CVE-2023-0669.
+
+  Fortra detected suspicious activity on the evening of January 30, 2023, and took the GoAnywhere
+  system offline on January 31. It notified CHS subsidiary CHSPSC on February 2, 2023. CHS
+  disclosed the breach in a U.S. Securities and Exchange Commission (SEC) 8-K filing on
+  February 13, 2023 — one of the first public confirmations of Cl0p's GoAnywhere campaign.
+
+  The unauthorized access window was January 28–30, 2023. Cl0p exploited CVE-2023-0669, a
+  pre-authentication command injection flaw in GoAnywhere MFT's administrative console (CVSS 7.2),
+  which Fortra had privately disclosed to customers on January 30 via a security advisory in their
+  customer portal. Fortra released emergency patch version 7.1.2 on February 7, 2023.
+
+  CHS reported the incident to the HHS Office for Civil Rights as affecting 962,884 individuals —
+  approximately one million patients. Compromised data included protected health information (PHI)
+  such as names, addresses, dates of birth, phone numbers, Social Security numbers, and health
+  insurance information belonging to patients at CHS-affiliated hospitals.
+
+  CHS stated it was cooperating with law enforcement, CISA, and the FBI. Notification letters were
+  sent in mid-March 2023, and affected individuals were offered 24 months of complimentary identity
+  restoration and credit monitoring services.
+
+  Cl0p claimed responsibility for breaching more than 130 organizations over approximately ten days
+  using the same zero-day. The GoAnywhere campaign was Cl0p's proof-of-concept for the
+  MFT-exploitation strategy it would replicate far more destructively with MOVEit Transfer
+  (CVE-2023-34362, May 2023) and Cleo (CVE-2024-50623, December 2024). Healthcare organizations
+  were disproportionately represented among GoAnywhere victims due to heavy use of MFT platforms
+  for HIPAA-compliant data exchange.
+
+  A $20 million multidistrict litigation settlement against Fortra and affected healthcare
+  organizations received preliminary approval in 2025.

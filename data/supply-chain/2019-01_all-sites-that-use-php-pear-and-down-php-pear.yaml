@@ -1,17 +1,13 @@
-source_name: all sites that use PHP PEAR and downloaded PHP PEAR package manager from
-  its official website in past 6 months Third-Party Breach (January 2019)
+source_name: PHP PEAR Package Manager Supply Chain Compromise (January 2019)
 source_url: https://thehackernews.com/2019/01/php-pear-hacked.html
-date_of_breach: '2019-01-01'
-date_of_disclosure: '2019-01-01'
-date_of_customer_notification: ''
+date_of_breach: '2018-12-20'
+date_of_disclosure: '2019-01-19'
+date_of_customer_notification: '2019-01-19'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Compromise of open-source package repository web server; malicious backdoor injected into official go-pear.phar installer distributed via pear.php.net
 cve: []
 vendor_product: PHP PEAR
-software_package: ''
-malware: ''
+software_package: go-pear.phar
+malware: Perl reverse shell backdoor
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for all sites that use PHP PEAR
-  and downloaded PHP PEAR package manager from its official website in past 6 months.
-  Data breached: the extent is unknown. Use of third party: open-source library. Third-party
-  company: PHP PEAR.'
+notes: "In January 2019, the PHP PEAR (PHP Extension and Application Repository) team announced that the official pear.php.net web server had been compromised by an unknown attacker who replaced the legitimate go-pear.phar package manager installer with a backdoored version. The malicious file had been available for download from the official site since approximately December 20, 2018, meaning any developer or sysadmin who downloaded the PEAR installer from pear.php.net in the preceding month was potentially affected.\n\nThe tainted go-pear.phar contained an embedded Perl-based reverse shell backdoor that, when executed, would connect outbound to the attacker's command-and-control server at IP address 104.131.154.154. This gave the attacker remote shell access and full control over the compromised system — allowing installation of additional malware, lateral movement, credential theft, and arbitrary code execution on the affected server.\n\nThe PEAR project disclosed the incident via Twitter on January 19, 2019, immediately taking pear.php.net offline during investigation. Users who had downloaded go-pear.phar from the official website in the previous six months were advised to obtain a clean copy from the project's GitHub repository and verify file hashes.\n\nImportantly, the attack targeted only the go-pear.phar bootstrap installer, not individual PEAR packages distributed via the `pear` command-line tool. Servers that used the PEAR command to install packages from the repository were not directly affected; only those that bootstrapped a new PEAR installation from the website download were at risk.\n\nThe scope of impact is difficult to quantify. PHP powers a large fraction of the web, and system administrators routinely use the PEAR installer to set up PHP environments. Any web server, CI/CD pipeline, or development environment that ran the malicious installer during the exposure window would have given the attacker a persistent foothold.\n\nThis incident is a textbook software supply chain attack: compromising the distribution infrastructure of a widely-used open-source tool to silently deliver malware to downstream users who trust the official source. No CVE was formally assigned. The PEAR project did not release details about how the web server was compromised. Rapid7 and Help Net Security provided detailed analysis of the malicious payload."

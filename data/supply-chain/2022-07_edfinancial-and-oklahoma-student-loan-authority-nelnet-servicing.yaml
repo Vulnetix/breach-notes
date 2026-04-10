@@ -1,17 +1,16 @@
-source_name: EdFinancial and Oklahoma Student Loan Authority Third-Party Breach (July
-  2022)
-source_url: https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/
-date_of_breach: '2022-07-01'
-date_of_disclosure: '2022-07-01'
-date_of_customer_notification: ''
+source_name: EdFinancial and Oklahoma Student Loan Authority Third-Party Breach (July 2022)
+source_url: "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/"
+date_of_breach: 2022-07-01
+date_of_disclosure: 2022-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Nelnet Servicing
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for EdFinancial and Oklahoma
-  Student Loan Authority. Data breached: Names, home addresses, email addresses, phone
-  numbers and Social Security numbers. Use of third party: Servicing system and customer
-  website portal provider. Third-party company: Nelnet Servicing.'
+notes: |-
+  In 2022, EdFinancial and Oklahoma Student Loan Authority experienced a data security incident via a
+  third-party vendor relationship. The compromised third-party vendor was Nelnet Servicing. Source reporting:
+  https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/

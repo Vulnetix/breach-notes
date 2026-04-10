@@ -1,15 +1,22 @@
-source_name: TicketMaster Third-Party Breach (June 2018)
+source_name: RiskIQ / Threatpost / ICO
 source_url: https://www.riskiq.com/blog/labs/magecart-ticketmaster-breach/
-date_of_breach: '2018-06-01'
-date_of_disclosure: '2018-06-01'
-date_of_customer_notification: ''
+date_of_breach: '2017-09-01'
+date_of_disclosure: '2018-06-23'
+date_of_customer_notification: '2018-06-23'
 category: supply-chain
-initial_attack_vector: Compromise of third-party service provider / vendor relationship
+initial_attack_vector: Magecart JavaScript skimmer injected into Inbenta Technologies chatbot code running on Ticketmaster payment pages
 cve: []
-vendor_product: Inbenta
-software_package: ''
-malware: ''
+vendor_product: Inbenta Technologies
+software_package: Inbenta chatbot / customer support JavaScript
+malware: Magecart JavaScript card skimmer
 supply_chain_claimed: true
-notes: "Black Kite third-party breach timeline entry for TicketMaster. Data breached:\
-  \ 40K UK citizensâ\x80\x99 info. Use of third party: Website application. Third-party\
-  \ company: Inbenta."
+notes: >-
+  In June 2018, Ticketmaster disclosed that malicious code had been found within a customer support chatbot function on its websites, hosted by third-party AI company Inbenta Technologies. The Magecart threat group had compromised Inbenta's infrastructure and injected a JavaScript-based payment card skimmer into the chatbot code that Ticketmaster embedded on its payment pages. The skimmer captured all data submitted through the affected pages -- including names, addresses, email addresses, phone numbers, payment card numbers, expiration dates, and CVV codes -- and exfiltrated it to attacker-controlled drop servers.
+
+  RiskIQ researchers determined that the skimmer had been active on multiple Ticketmaster international websites (including Ireland, Turkey, and New Zealand) since as early as September 2017, though UK customers were primarily affected between February and June 2018. Up to 9.4 million customers across the UK and EU were potentially impacted. Warning signs emerged from mid-April 2018 onwards when multiple card issuers, including Monzo Bank and Barclaycard, reported suspicious fraud patterns among their cardholders who had used the Ticketmaster website. Barclaycard ultimately informed Ticketmaster of approximately 37,000 confirmed fraud cases, prompting the formal investigation that identified the malicious code.
+
+  Inbenta and Ticketmaster publicly disputed responsibility. Inbenta stated that Ticketmaster had directly applied the JavaScript to its payment page without notifying Inbenta, and that Inbenta would have advised against placing their code on payment-processing pages. Ticketmaster maintained that the breach originated from Inbenta's compromised infrastructure.
+
+  On November 13, 2020, the UK Information Commissioner's Office (ICO) fined Ticketmaster UK Limited 1.25 million GBP under GDPR for failing to implement appropriate security measures. The ICO found that Ticketmaster should have identified the risk of including third-party JavaScript on its payment pages and should have conducted more rigorous security assessments of its third-party integrations. The Ticketmaster/Inbenta breach became one of the defining case studies of Magecart supply chain attacks and helped drive industry adoption of Content Security Policy headers and Subresource Integrity checks for third-party scripts.
+
+  Primary sources: https://www.riskiq.com/blog/labs/magecart-ticketmaster-breach/ and https://threatpost.com/ticketmaster-fine-2018-data-breach/161198/

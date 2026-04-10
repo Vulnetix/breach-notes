@@ -1,15 +1,16 @@
 source_name: City of Marietta Third-Party Breach (December 2019)
-source_url: https://www.tribuneledgernews.com/local_news/state_and_national/marietta-utility-customer-data-found-on-dark-web-after-third/article_62bfe0ee-c926-5cf8-b84d-d8ee2aadb43a.html
-date_of_breach: '2019-12-01'
-date_of_disclosure: '2019-12-01'
-date_of_customer_notification: ''
+source_url: "https://www.tribuneledgernews.com/local_news/state_and_national/marietta-utility-customer-data-found-on-dark-web-after-third/article_62bfe0ee-c926-5cf8-b84d-d8ee2aadb43a.html"
+date_of_breach: 2019-12-01
+date_of_disclosure: 2019-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Click2Gov
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for City of Marietta. Data breached:
-  8,800 Marietta utility customers card information. Use of third party: online electric,
-  water and sanitation payment software company. Third-party company: Click2Gov.'
+notes: |-
+  In 2019, City of Marietta experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was Click2Gov. Source reporting:
+  https://www.tribuneledgernews.com/local_news/state_and_national/marietta-utility-customer-data-found-on-dark-web-after-third/article_62bfe0ee-c926-5cf8-b84d-d8ee2aadb43a.html

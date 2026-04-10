@@ -1,15 +1,16 @@
 source_name: AutoNation Third-Party Breach (July 2024)
-source_url: https://therecord.media/autonation-earnings-cdk-global-ransomware-attack
-date_of_breach: '2024-07-01'
-date_of_disclosure: '2024-07-01'
-date_of_customer_notification: ''
+source_url: "https://therecord.media/autonation-earnings-cdk-global-ransomware-attack"
+date_of_breach: 2024-07-01
+date_of_disclosure: 2024-07-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CDK Global
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for AutoNation. Data breached:
-  Not disclosed. Use of third party: A software company provider. Third-party company:
-  CDK Global.'
+notes: |-
+  In 2024, AutoNation experienced a data security incident via a third-party vendor relationship. The
+  compromised third-party vendor was CDK Global. Source reporting:
+  https://therecord.media/autonation-earnings-cdk-global-ransomware-attack

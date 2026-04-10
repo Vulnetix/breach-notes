@@ -1,15 +1,16 @@
 source_name: Sobeys Third-Party Breach (December 2022)
-source_url: https://www.cbc.ca/news/canada/nova-scotia/inside-turmoil-sobeys-ransomware-attack-1.6650636?__vfz=medium%3Dsharebar
-date_of_breach: '2022-12-01'
-date_of_disclosure: '2022-12-01'
-date_of_customer_notification: ''
+source_url: "https://www.cbc.ca/news/canada/nova-scotia/inside-turmoil-sobeys-ransomware-attack-1.6650636?__vfz=medium%3Dsharebar"
+date_of_breach: 2022-12-01
+date_of_disclosure: 2022-12-01
+date_of_customer_notification: ""
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Empire Co.
-software_package: ''
-malware: ''
+software_package: ""
+malware: ""
 supply_chain_claimed: true
-notes: 'Black Kite third-party breach timeline entry for Sobeys. Data breached: Not
-  disclosed for now. Use of third party: The second largest supermarket chain. Third-party
-  company: Empire Co..'
+notes: |-
+  In 2022, Sobeys experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Empire Co.. Source reporting:
+  https://www.cbc.ca/news/canada/nova-scotia/inside-turmoil-sobeys-ransomware-attack-1.6650636?__vfz=medium%3Dsharebar

@@ -1,4 +1,26 @@
 recent_breaches:
+    - category: data-leak
+      cve: []
+      date_of_breach: "2026-04-08"
+      date_of_disclosure: "2026-04-08"
+      malware: ""
+      notes: |-
+        Cyber operations now support military strategy rather than just acting alone. Mark Montgomery of the Foundation for Defense of Democracies warns that as militaries
+
+        Source: DataBreachToday article coverage.
+      source_name: The Expanding Role of Cyberattacks in Modern Conflicts (DataBreachToday)
+      source_url: https://www.databreachtoday.com/expanding-role-cyberattacks-in-modern-conflicts-a-31370
+    - category: data-leak
+      cve: []
+      date_of_breach: "2026-04-08"
+      date_of_disclosure: "2026-04-08"
+      malware: ""
+      notes: |-
+        AI is accelerating cyberattacks, collapsing timelines and exposing new identity risks. Okta's Brett Winterford explains how attackers are using AI to scale
+
+        Source: DataBreachToday article coverage.
+      source_name: AI Is Accelerating Cyberattacks Faster Than Defenses (DataBreachToday)
+      source_url: https://www.databreachtoday.com/ai-accelerating-cyberattacks-faster-than-defenses-a-31372
     - category: ransomware
       cve: []
       date_of_breach: "2026-04-07"
@@ -7,6 +29,36 @@ recent_breaches:
       notes: On April 7, 2026, ChipSoft — a Dutch healthcare IT company providing Electronic Patient Dossier (EPD/HiX) software to approximately 80% of all Dutch hospitals — was hit by a ransomware attack that knocked its website and cloud infrastructure offline. Z-CERT (the Netherlands healthcare CERT) confirmed the ransomware incident and advised all healthcare institutions to disconnect VPN connections to ChipSoft and monitor network traffic as a precaution. At least 11 hospitals took patient portals offline. ChipSoft confirmed a 'data incident' involving 'possible unauthorized access' and could not rule out that patient data was accessed or stolen. Hospitals affected by system outages included Sint Jans Gasthuis (Weert), Laurentius (Roermond), VieCuri (Venlo), and Flevo Hospital (Almere). Major hospitals including Rijnstate, Antoni van Leeuwenhoek, and Franciscus stated patient data remained secure. The group behind the attack was not identified at time of disclosure. The incident is a critical supply-chain-style attack affecting the majority of Dutch hospital patient record infrastructure.
       source_name: ChipSoft Ransomware Attack - Dutch Hospital Patient Records Software
       source_url: https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/
+    - category: ransomware
+      cve: []
+      date_of_breach: "2026-04-07"
+      date_of_disclosure: "2026-04-07"
+      malware: ""
+      notes: On approximately 7 April 2026, a Massachusetts healthcare system disclosed it was experiencing a cyberattack that forced the organisation to divert ambulance patients to other facilities and operate under full downtime procedures. The healthcare system's clinical and administrative IT systems were taken offline as a containment measure. Downtime procedures — the reversion to paper-based workflows for patient care documentation, medication ordering, and clinical decision-making — indicate a significant disruption to the EHR and hospital information systems. Ambulance diversion is among the most serious patient safety impacts of healthcare cyberattacks, as critically ill patients may require transport to more distant facilities, potentially worsening outcomes in time-sensitive conditions such as stroke or cardiac arrest. The healthcare organisation was working with cybersecurity firms and law enforcement to investigate and restore systems. The incident occurred on the same day (7 April 2026) as the ChipSoft Netherlands hospitals ransomware attack, illustrating the continued and intensifying targeting of healthcare infrastructure globally. The full identity of the Massachusetts healthcare system and the specific threat actor responsible had not been publicly confirmed at time of initial reporting. Massachusetts has been disproportionately affected by healthcare ransomware attacks given its concentration of major academic medical centers and community hospitals. This incident adds to a pattern of 2026 healthcare sector attacks that include Frederick Health (January), Kettering Health (May 2025), and numerous others.
+      source_name: Massachusetts Healthcare System Ransomware — Ambulance Diversion, Downtime Procedures
+      source_url: https://www.databreachtoday.com/mass-hospital-diverting-ambulances-as-deals-attack-a-31356
+    - category: data-leak
+      cve: []
+      date_of_breach: "2026-04-06"
+      date_of_disclosure: "2026-04-06"
+      malware: ""
+      notes: |-
+        Bitcoin ATM operator Bitcoin Depot has disclosed a March 23 hack in which attackers stole 50.903 BTC (~$3.67 million) from company wallets. According to the company's disclosure with the SEC, the exploiters gained access to the company's IT systems and wallet credentials, allowing them to steal the assets.Bitcoin Depot is the largest operator of crypto ATMs globally and in the United States, with approximately 8,700 kiosks in the US and 9,200 worldwide.
+
+        Total loss estimated at $3,665,000.
+      source_name: SEC Form 8-K
+      source_url: https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/btm-20260406.htm
+    - category: credential-theft
+      cve: []
+      date_of_breach: "2026-04-03"
+      date_of_disclosure: "2026-04-03"
+      malware: ""
+      notes: |-
+        A LiteLLM supply-chain compromise enabled attackers to harvest credentials and access internal environments at scale at Mercor. The firm was the first to confirm a
+
+        Source: DataBreachToday article coverage.
+      source_name: Mercor Breach Linked to LiteLLM Supply-Chain Attack (DataBreachToday)
+      source_url: https://www.databreachtoday.com/mercor-breach-linked-to-litellm-supply-chain-attack-a-31340
     - category: supply-chain
       cve: []
       date_of_breach: "2026-04-03"
@@ -15,6 +67,17 @@ recent_breaches:
       notes: In early April 2026, Cisco disclosed that attackers leveraged credentials stolen through the March 2026 Trivy supply chain compromise (attributed to TeamPCP / UNC6780) to penetrate Cisco's internal development and build environment. The malicious GitHub Action plugin from the Trivy compromise was used to steal credentials and data. More than 300 GitHub repositories were cloned, and AWS keys were allegedly stolen. Exposed material reportedly includes source code tied to AI-related projects, with some repositories allegedly connected to corporate customers. Dozens of developer and lab workstations were impacted. Cisco's Unified Intelligence Center, CSIRT, and EOC teams contained the breach. TeamPCP (also tracked by Google GTIG as UNC6780) is the same threat group behind the LiteLLM/PyPI → Mercor breach (March 2026) and the Trivy → European Commission AWS breach (March 2026). The group has been conducting a series of supply chain attacks targeting developer platforms including GitHub, PyPI, NPM, and Docker using their 'TeamPCP Cloud Stealer' infostealer.
       source_name: Cisco Source Code Stolen via Trivy Supply Chain Attack (TeamPCP)
       source_url: https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/
+    - category: data-leak
+      cve: []
+      date_of_breach: "2026-04-02"
+      date_of_disclosure: "2026-04-02"
+      malware: ""
+      notes: |-
+        This week, charges filed in Uranium Finance hack, indictment of Chinese firms in fentanyl supply case, a class action lawsuit against Nvidia, Drift Protocol
+
+        Source: DataBreachToday article coverage.
+      source_name: 'Cryptohack Roundup: Charges in Uranium Finance Case (DataBreachToday)'
+      source_url: https://www.databreachtoday.com/cryptohack-roundup-charges-in-uranium-finance-case-a-31330
     - category: other
       cve: []
       date_of_breach: "2026-04-01"
@@ -23,60 +86,15 @@ recent_breaches:
       notes: 'On April 1, 2026, UNC4736 (North Korean state-sponsored TraderTraitor group) executed a 12-minute, 31-transaction drain of $285 million from Drift Protocol, the largest Solana DeFi exploit in 2026 and second-largest in Solana history. A six-month social engineering campaign beginning fall 2025 built relationships with Drift Security Council members. Attackers leveraged Solana''s ''durable nonces'' feature to get council members to unknowingly pre-sign malicious transactions. Once admin control was obtained, attackers whitelisted a worthless fake token (CVT) as collateral, deposited 500M CVT, and withdrew $285M in USDC, SOL, and ETH. Drift''s TVL collapsed from ~$550M to under $250M within one hour. Attribution: TRM Labs and Elliptic linked the hack to DPRK with medium confidence.'
       source_name: Drift Protocol $285M DPRK Social Engineering Exploit
       source_url: https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html
-    - category: supply-chain
-      cve: []
-      date_of_breach: "2026-03-31"
-      date_of_disclosure: "2026-03-31"
-      malware: Sapphire Sleet RAT
-      notes: On March 31, 2026, Sapphire Sleet (a North Korean state-sponsored threat actor tracked by Microsoft) published two malicious versions of axios (1.14.1 and 0.30.4) to npm. Axios is one of the most widely used JavaScript HTTP client libraries with over 70 million weekly downloads. The malicious versions injected a backdoored dependency that connected to attacker-controlled C2 infrastructure (sfrclak[.]com). Upon successful C2 connection, a second-stage remote access trojan (RAT) was deployed targeting macOS, Windows, and Linux. Microsoft published detection and mitigation guidance on April 1, 2026. Safe versions are 1.14.0 and 0.30.3. Recommended response includes rotating all secrets and credentials, reviewing CI/CD pipeline logs for outbound C2 connections, and disabling postinstall scripts. The incident is attributed to the same North Korean actor responsible for TraderTraitor/UNC4736 campaigns targeting the crypto/DeFi sector.
-      source_name: Axios npm Supply Chain Compromise - Sapphire Sleet (DPRK) RAT Delivery
-      source_url: https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/
-    - category: supply-chain
-      cve: []
-      date_of_breach: "2026-03-27"
-      date_of_disclosure: "2026-03-27"
-      malware: TeamPCP Cloud Stealer
-      notes: On March 27, 2026 at 03:51 UTC, TeamPCP published two unauthorized malicious versions of the Telnyx Python SDK (4.87.1 and 4.87.2) to PyPI. Both versions were quarantined by 10:13 UTC the same day — a window of approximately 6 hours 22 minutes. The malicious packages delivered a steganographically encoded payload hidden within valid WAV audio file frames, which decoded to a multi-stage remote access tool (RAT) and credential stealer that exfiltrated data to 83[.]142[.]209[.]203. Unlike earlier TeamPCP packages, the real payload was fetched at runtime from C2 to minimize the size of the malicious package. Telnyx's platform, APIs, and infrastructure were not compromised — only the PyPI Python SDK distribution was affected. Users who installed the telnyx package between 03:51-10:13 UTC on March 27, or had dependencies that pulled in unpinned telnyx versions during that window, were potentially compromised. This attack ran concurrently with the LiteLLM/PyPI compromise on the same day. Part of the TeamPCP campaign that spanned March 19-27, 2026, also targeting Trivy (March 19), Checkmarx KICS (March 21), and LiteLLM (March 27 — Mercor downstream breach).
-      source_name: TeamPCP Telnyx Python SDK PyPI Supply Chain Compromise
-      source_url: https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026
-    - category: supply-chain
-      cve: []
-      date_of_breach: "2026-03-27"
-      date_of_disclosure: "2026-03-31"
-      malware: ""
-      notes: 'On March 27, 2026, TeamPCP (a threat group also linked to the European Commission cloud breach) compromised PyPI publishing credentials for LiteLLM, a widely used open-source library for calling AI/LLM APIs. Malicious versions were published to PyPI, enabling downstream compromise of users. Mercor (a $10B AI data training startup) was a confirmed victim: attackers exfiltrated approximately 4 TB of data including 939 GB of platform source code, a 211 GB user database, and 3 TB of storage (video interviews and identity verification passport data for candidates). Lapsus$ subsequently claimed responsibility and auctioned data on dark web forums. Meta indefinitely paused work with Mercor. Five contractors filed lawsuits. TeamPCP is also attributed to the March 2026 European Commission AWS breach via the Trivy tool compromise.'
-      source_name: LiteLLM PyPI Supply Chain Attack - Mercor AI Breach (TeamPCP / Lapsus$)
-      source_url: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
-    - category: ransomware
-      cve: []
-      date_of_breach: "2026-03-26"
-      date_of_disclosure: "2026-03-26"
-      malware: Qilin
-      notes: On March 26, 2026, the Qilin ransomware group (described as Russian-speaking and both financially and politically motivated) attacked Die Linke, a left-wing democratic socialist party in the German Bundestag. The party confirmed a 'serious cyberattack' and temporarily shut down parts of its IT infrastructure. Attackers aim to publish sensitive data from internal party operations and personal information of headquarters employees; the party's member database was not accessed. Die Linke filed a criminal complaint with German authorities. The party stated the attack 'does not appear to be coincidental' given the political context and characterized it as part of hybrid warfare tactics. Qilin has been active since 2022 targeting hospitals, government agencies, and organizations across Europe.
-      source_name: Die Linke German Political Party Qilin Ransomware Attack
-      source_url: https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/
-    - category: supply-chain
-      cve: []
-      date_of_breach: "2026-03-21"
-      date_of_disclosure: "2026-03-21"
-      malware: TeamPCP Cloud Stealer
-      notes: On March 21, 2026, as the second step in its cascading supply chain campaign, TeamPCP used PATs stolen during the March 19 Trivy/Aqua Security GitHub Actions compromise to target Checkmarx KICS (Keep Infrastructure as Code Secure), a widely-used open-source infrastructure-as-code security scanner. The attackers force-pushed malicious commits to all 35 version tags of checkmarx/kics-github-action and poisoned version 2.3.28 of checkmarx/ast-github-action. The injected payload was TeamPCP's three-stage Cloud Stealer, which subverted the official container entrypoint (setup.sh). The stealer exfiltrated credentials to the typosquat domain checkmarx[.]zone. As a failsafe, if primary C2 communications failed, the malware used the victim's own GITHUB_TOKEN to create a hidden repository named 'docs-tpcp' within the victim's GitHub organization to store stolen credentials. Any CI/CD pipeline using kics-github-action or ast-github-action during this window would have had its cloud credentials silently exfiltrated. Checkmarx published a security update and restored clean versions. Part of the TeamPCP multi-target campaign alongside Trivy (March 19), LiteLLM/PyPI (March 27), and Telnyx/PyPI (March 27).
-      source_name: TeamPCP Checkmarx KICS GitHub Actions Supply Chain Compromise
-      source_url: https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html
     - category: data-leak
       cve: []
-      date_of_breach: "2026-03-20"
-      date_of_disclosure: "2026-04-08"
+      date_of_breach: "2026-04-01"
+      date_of_disclosure: "2026-04-01"
       malware: ""
-      notes: On March 20, 2026, the WorldLeaks extortion gang breached a third-party digital system used by the Los Angeles City Attorney's Office to transfer legal discovery documents. The LA City Attorney's Office disclosed the breach on April 8, 2026. The breach resulted in the leak of 337,000 files totaling 7.7 terabytes of sensitive law enforcement and civil litigation materials. Exposed data includes unredacted LAPD personnel files, internal affairs investigation documents, witness names, witness medical records, and unredacted criminal complaints. The compromised documents consisted of materials turned over in discovery from previously resolved or settled LAPD civil litigation cases. LAPD stated that none of its own systems or networks were breached — only the third-party discovery transfer system used by the City Attorney's Office was compromised. The breach raised significant concerns about officer safety (exposed personnel files) and witness protection (unredacted witness identities). WorldLeaks is an extortion group that also claimed attacks on NAFCO and the City of Los Angeles in early 2026.
-      source_name: Los Angeles City Attorney / LAPD Police Records Breach - WorldLeaks (7.7TB)
-      source_url: https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/
-    - category: other
-      cve: []
-      date_of_breach: "2026-03-20"
-      date_of_disclosure: "2026-04-09"
-      malware: ""
-      notes: On March 20, 2026, attackers used compromised credentials to access Bitcoin Depot's digital asset settlement accounts and transfer 50.903 BTC (valued at approximately $3.665 million) from company-controlled wallets. Bitcoin Depot did not detect the unauthorized access until March 23, 2026, three days after the theft began. The breach was contained within its corporate environment — customer-facing platforms, user data, and customer environments were not affected. Bitcoin Depot operates over 25,000 Bitcoin ATMs and BDCheckout locations globally and is one of the largest Bitcoin ATM operators in the world. The company disclosed the incident publicly on April 9, 2026. In a separate prior incident (2025), Bitcoin Depot had disclosed a data breach affecting nearly 26,000 individuals whose personal information including names, addresses, and identification details was accessed.
-      source_name: Bitcoin Depot Crypto ATM Breach - $3.66M BTC Stolen
-      source_url: https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/
-updated_at: "2026-04-10 22:21:08"
+      notes: |-
+        The Solana-based Drift defi perpetual futures exchange was exploited for $285 million. The project alerted the community on social media, writing: "Drift Protocol is experiencing an active attack. ... This is not an April Fools joke."The project later described the exploit as "a novel attack involving durable nonces, resulting in a rapid takeover of Drift's Security Council administrative powers." Once the attacker had access to admin capabilities, they quickly eliminated risk management limits on the protocol and drained huge quantities of tokens, which they swapped to USDC and then ETH. The attack was attributed to extremely sophisticated social engineering, likely by North Korean hackers.Some have criticized USDC's issuer, Circle, for not freezing the stolen funds during the six hours they were held in USDC. Unlike ETH, USDC is controlled by a centralized company that can, and regularly does, freeze assets determined to have been stolen or connected to illicit activity.The theft is among the largest in defi history.
+
+        Total loss estimated at $285,000,000.
+      source_name: '"Drift says $280M exploit tied to ''sophisticated'' admin takeover; ZachXBT criticizes Circle over USDC handling"'
+      source_url: https://www.theblock.co/post/396183/drift-280m-exploit-zachxbt-circle
+updated_at: "2026-04-11 01:15:57"

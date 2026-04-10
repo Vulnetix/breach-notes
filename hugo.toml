@@ -2,6 +2,7 @@ baseURL = 'https://breachnotes.vulnetix.com/'
 languageCode = 'en-us'
 title = 'Breach Notes'
 paginate = 10
+ignoreFiles = ['/data/README\.md']
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

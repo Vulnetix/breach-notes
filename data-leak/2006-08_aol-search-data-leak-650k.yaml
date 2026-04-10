@@ -1,0 +1,13 @@
+source_name: "AOL Research Search Query Data Release (650K Users Re-Identified)"
+source_url: "https://en.wikipedia.org/wiki/AOL_search_data_leak"
+date_of_breach: "2006-08-04"
+date_of_disclosure: "2006-08-06"
+date_of_customer_notification: "2006-08-07"
+category: "data-leak"
+initial_attack_vector: "AOL's Research department intentionally released 20 million anonymized search queries from 650,000 users to the public for academic research; the 'anonymization' was trivially reversible — reporters and researchers re-identified named individuals from their search patterns within days"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On August 4, 2006, AOL's research team released a dataset of approximately 20 million search queries from 657,000 users to a public research website for academic purposes. Users were assigned random numeric IDs instead of usernames, which AOL believed constituted sufficient anonymization. Within 72 hours, New York Times reporters identified 62-year-old Thelma Arnold from Lilburn, Georgia solely from the content of her search queries (queries about 'landscapers in Shadowlake,' 'hand trembling,' multiple people with the same last name, etc.). The data was taken down on August 7 after the privacy violation became public. AOL fired the employees responsible and issued an apology. The research director and the engineer who released the data resigned. The incident demonstrated a fundamental principle of privacy: that 'anonymous' data is often trivially re-identifiable through pattern analysis, especially for search query data which reveals deeply personal information including medical concerns, financial difficulties, and personal relationships. The AOL data leak became a landmark case study in privacy engineering and is cited in virtually every data anonymization textbook."

@@ -1,0 +1,13 @@
+source_name: "WannaCry Global Ransomware Worm (150+ Countries, NSA EternalBlue)"
+source_url: "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+date_of_breach: "2017-05-12"
+date_of_disclosure: "2017-05-12"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Self-propagating worm exploiting EternalBlue (CVE-2017-0144), an NSA-developed SMBv1 exploit leaked by Shadow Brokers on April 14, 2017; required no user interaction — propagated autonomously over TCP port 445 to vulnerable Windows systems"
+cve: ["CVE-2017-0144", "CVE-2017-0145", "CVE-2017-0143"]
+vendor_product: "Microsoft Windows (SMBv1)"
+software_package: ""
+malware: "WannaCry (WannaCrypt, WannaCryptor)"
+supply_chain_claimed: false
+notes: "On May 12, 2017, WannaCry — a self-propagating ransomware worm — began spreading globally, infecting approximately 230,000 systems in 150+ countries within 24 hours. WannaCry exploited EternalBlue, an NSA exploit for the Windows SMBv1 protocol that had been leaked by the Shadow Brokers group on April 14, 2017, exactly 28 days before the attack. Microsoft had issued patch MS17-010 on March 14, 2017; systems that had not applied it remained vulnerable. The worm required no user interaction — it propagated autonomously by scanning for open SMB port 445 and exploiting the vulnerability. The most severely impacted organization was the UK National Health Service (NHS): hospitals across England and Scotland cancelled 19,494 appointments and operations, ambulances were diverted, and clinical systems were locked. Renault, FedEx/TNT, Deutsche Bahn, Telefónica, and dozens of other major organizations were affected globally. Security researcher Marcus Hutchins ('MalwareTech') discovered a 'killswitch' domain in the malware code on May 12; registering the domain (for $10.69) halted the spread. The US, UK, and Australia officially attributed WannaCry to North Korea's Lazarus Group in December 2017. Total damages estimated at $4–8 billion globally."

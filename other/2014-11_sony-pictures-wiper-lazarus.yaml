@@ -1,0 +1,13 @@
+source_name: "Sony Pictures Hack: Lazarus Group Wiper + Data Exfiltration"
+source_url: "https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack"
+date_of_breach: "2014-11-24"
+date_of_disclosure: "2014-11-24"
+date_of_customer_notification: "2015-01-01"
+category: "other"
+initial_attack_vector: "North Korea's Lazarus Group (Bureau 121) used spear-phishing to gain initial access to Sony Pictures' network, conducted months of reconnaissance, then deployed 'Destover' destructive malware (wiper) while simultaneously exfiltrating terabytes of data"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Destover (wiper/backdoor)"
+supply_chain_claimed: false
+notes: "On November 24, 2014, attackers identifying themselves as 'Guardians of Peace' (GOP) deployed the Destover destructive wiper malware across Sony Pictures' corporate network, wiping approximately 70% of Sony's laptops and computers. The attack was attributed by the FBI to North Korea's Lazarus Group (Bureau 121), believed to be motivated by Sony's planned release of 'The Interview' (a comedy depicting the assassination of Kim Jong-un). Prior to the destructive wiper deployment, attackers had spent months inside Sony's network exfiltrating massive amounts of data including: unreleased films (Fury, Annie, Still Alice, and others), executive emails (including embarrassing exchanges about Barack Obama and major actors), employee personal data for ~47,000 current and former employees (names, SSNs, salaries, medical information, performance reviews), salary information, and detailed financial data. The impact on Sony Pictures was catastrophic — complete loss of email for weeks, leaked films distributed via BitTorrent, severe reputational damage from email contents, and estimated $35 million in response costs. The attack is a landmark case demonstrating nation-state use of destructive cyber capabilities for coercive purposes short of armed conflict."

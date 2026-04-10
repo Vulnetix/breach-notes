@@ -1,0 +1,13 @@
+source_name: "NotPetya Supply Chain Wiper via M.E.Doc Update (Sandworm, $10B+ Damages)"
+source_url: "https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks"
+date_of_breach: "2017-06-27"
+date_of_disclosure: "2017-06-27"
+date_of_customer_notification: ""
+category: "supply-chain"
+initial_attack_vector: "Russian GRU Sandworm APT compromised M.E.Doc (MeDoc), a Ukrainian tax accounting software used by ~80% of Ukrainian companies, and trojanized the automatic update mechanism to deliver the NotPetya destructive wiper; lateral spread used EternalBlue + Mimikatz credential harvesting"
+cve: ["CVE-2017-0144"]
+vendor_product: "M.E.Doc (MeDoc) Ukrainian tax accounting software"
+software_package: "M.E.Doc"
+malware: "NotPetya (Petya variant / wiper)"
+supply_chain_claimed: true
+notes: "On June 27, 2017, Russian military intelligence (GRU Unit 74455 / Sandworm) deployed NotPetya — a destructive wiper disguised as ransomware — by trojanizing the automatic update mechanism of M.E.Doc, a Ukrainian accounting software package used by approximately 80% of Ukrainian companies for tax filing. NotPetya spread beyond Ukraine via multinational companies with Ukrainian operations, triggering one of the most destructive cyberattacks in history. Unlike WannaCry, NotPetya was a pure wiper — it permanently destroyed data and the ransom payment mechanism was non-functional. Spread mechanism: initial delivery via M.E.Doc update; then spread internally via EternalBlue (CVE-2017-0144) + WMIC/PsExec + Mimikatz credential harvesting. Major victims and estimated losses: Maersk ($300M, destroyed 45,000 PCs and 1,000 applications; rebuilt in 10 days by air-shipping hard drives globally), TNT Express / FedEx ($400M), Merck ($870M, destroyed 40,000 computers including vaccine manufacturing systems), Mondelez ($100M), Reckitt Benckiser ($129M), Nuance Communications ($92M). Total global damages estimated at $10+ billion. The US, UK, EU, and others officially attributed NotPetya to Russian GRU in February 2018. The NotPetya attack established the precedent of nation-state cyber operations causing catastrophic civilian and commercial collateral damage, and triggered major debates about whether such attacks constitute acts of war under international law."

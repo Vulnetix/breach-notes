@@ -1,0 +1,13 @@
+source_name: "DOGE Access to Federal Government Data Systems"
+source_url: "https://techcrunch.com/2025/02/07/doge-biggest-breach-of-united-states-government-data-under-way/"
+date_of_breach: "2025-01-20"
+date_of_disclosure: "2025-02-07"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Authorised but controversial access granted to DOGE operatives to federal systems including OPM, Treasury payment systems (handling $6T in payments), USAJOBS, and other agencies"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Starting January 20, 2025, operatives associated with the Department of Government Efficiency (DOGE), led by Elon Musk, were granted unprecedented access to sensitive federal government systems. Systems accessed included: the Office of Personnel Management (OPM, which holds records on all federal employees), the Treasury Department's payment system (handling $6 trillion in annual payments to Americans), USAJOBS, and data at multiple other agencies. TechCrunch and other outlets described this as 'the biggest breach of United States government data.' Unlike a traditional cyberattack, access was formally granted but contested as unlawful by career officials and in subsequent court proceedings. Multiple lawsuits challenged the legality of the access. Classified by security researchers as an unprecedented insider data exposure event."

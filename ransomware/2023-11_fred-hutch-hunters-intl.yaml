@@ -1,0 +1,13 @@
+source_name: "Fred Hutchinson Cancer Center Ransomware Attack (Hunters International)"
+source_url: "https://therecord.media/seattle-fred-hutch-cancer-center-ransomware-attack"
+date_of_breach: "2023-11-10"
+date_of_disclosure: "2023-12-01"
+date_of_customer_notification: "2024-01-01"
+category: "ransomware"
+initial_attack_vector: "Exploitation of a Citrix workspace software vulnerability to gain network access"
+cve: []
+vendor_product: "Citrix workspace"
+software_package: ""
+malware: "Hunters International ransomware"
+supply_chain_claimed: false
+notes: "Fred Hutchinson Cancer Center (Fred Hutch), a major Seattle-based research hospital, suffered a ransomware attack between November 10–25, 2023. The Hunters International group exploited a Citrix vulnerability and claimed to have stolen 533 GB of data on 800,000+ patients. Fred Hutch declined to pay; Hunters International then directly emailed patients threatening personal exposure for $50 payments. HHS OCR breach report listed 1,840,927 individuals affected. Exposed data included names, SSNs, phone numbers, medical history, lab results, and insurance information. Fred Hutch denied evidence of confirmed data theft but ultimately settled a class action for ~$11.5 million, with total costs exceeding $52 million including credit monitoring and security improvements. Notable as one of the first cases where a ransomware group pivoted to directly extorting individual patients after the healthcare provider refused to pay."

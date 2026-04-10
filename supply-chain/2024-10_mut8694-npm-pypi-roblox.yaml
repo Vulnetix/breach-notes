@@ -1,0 +1,13 @@
+source_name: "MUT-8694 npm and PyPI Malicious Package Campaign"
+source_url: "https://securitylabs.datadoghq.com/articles/mut-8964-an-npm-and-pypi-malicious-campaign-targeting-windows-users/"
+date_of_breach: "2024-10-10"
+date_of_disclosure: "2024-10-01"
+date_of_customer_notification: ""
+category: "supply-chain"
+initial_attack_vector: "Typosquatting: malicious packages uploaded to npm and PyPI mimicking legitimate library names to trick developers into installing them"
+cve: []
+vendor_product: "npm registry; PyPI"
+software_package: "larpexodus (PyPI); various typosquatted Roblox-related npm packages (42 PyPI + 18 npm packages total)"
+malware: "Blank Grabber infostealer; Skuld Stealer"
+supply_chain_claimed: false
+notes: "Datadog Security Labs identified a coordinated supply chain attack campaign (tracked as MUT-8694) active from at least October 10, 2024, targeting both the npm and PyPI package ecosystems — the first observed simultaneous campaign across both registries by a single threat actor. The campaign used 42 malicious PyPI packages and 18 npm packages, most typosquatting legitimate names. Packages predominantly targeted Roblox developers (stealing Roblox cookies, browser passwords, crypto wallets, Telegram sessions). Malware payloads included Blank Grabber and Skuld Stealer (open source infostealers). Targeted Windows users. The campaign highlighted the risk of cross-ecosystem coordinated supply chain attacks by a single threat actor."

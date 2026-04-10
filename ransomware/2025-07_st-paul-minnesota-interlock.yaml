@@ -1,0 +1,13 @@
+source_name: "City of St. Paul, Minnesota Interlock Ransomware Attack"
+source_url: "https://en.wikipedia.org/wiki/2025_St._Paul_cyberattack"
+date_of_breach: "2025-07-25"
+date_of_disclosure: "2025-08-11"
+date_of_customer_notification: "2025-08-15"
+category: "ransomware"
+initial_attack_vector: "Unknown; attack described as sophisticated; Interlock typically uses drive-by downloads and ClickFix social engineering"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "Interlock ransomware"
+supply_chain_claimed: false
+notes: "The City of St. Paul, Minnesota (state capital) suffered a ransomware attack beginning July 25, 2025. The city shut down all networks on August 11 after confirming it was ransomware and declining to pay. Mayor Melvin Carter declared a local emergency; Governor Walz activated the Minnesota National Guard's 177th Cyber Protection Team. Interlock published 43 GB of stolen data from Parks and Recreation Department network drives including employee ID card images and personal files. Over 3,000 employees affected; city provided identity protection to all employees. Core systems (payroll, licensing) unaffected. Recovery required weeks with gradual service restoration. Notable as a state capital government targeted by ransomware, triggering National Guard cyber response."

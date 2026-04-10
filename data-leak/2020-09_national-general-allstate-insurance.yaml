@@ -1,0 +1,13 @@
+source_name: "National General / Allstate Insurance Quoting Portal Data Breach"
+source_url: "https://ag.ny.gov/press-release/2025/attorney-general-james-sues-national-general-and-allstate-insurance-failing"
+date_of_breach: "2020-01-01"
+date_of_disclosure: "2025-03-10"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Application vulnerability in online quoting websites that displayed full driver's licence numbers in plain text with minimal user input; scraped by automated attackers"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "National General (later acquired by Allstate) suffered two sequential data breaches via its online auto insurance quoting portals. First breach (2020): exposed driver's licence numbers of ~12,000 individuals including 9,100 New Yorkers. Despite discovering the breach, National General failed to notify impacted consumers or fully remediate the underlying vulnerability. Second breach (2021): a larger attack exploited the same unpatched flaw, exposing 187,000+ consumers including 155,000 New Yorkers' driver's licence numbers. New York AG Letitia James sued National General and Allstate on March 10, 2025, seeking financial penalties and security improvements. Separate settlement: NY AG secured $975,000 from another auto insurer. Notable for the failure-to-notify after the first breach enabling the larger second breach. Insurance sector; application security failure."

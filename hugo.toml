@@ -17,6 +17,10 @@ ignoreFiles = ['/data/README\.md']
     [markup.goldmark.renderer]
       unsafe = true
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-NWBJE5RS0Q'
+
 [menus]
   [[menus.main]]
     identifier = "ransomware"

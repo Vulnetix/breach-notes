@@ -1,0 +1,13 @@
+source_name: "Quora Question-Answer Platform Breach — 100 Million Users"
+source_url: "https://quorablog.quora.com/A-Message-from-Quora-1"
+date_of_breach: "2018-12-03"
+date_of_disclosure: "2018-12-03"
+date_of_customer_notification: "2018-12-03"
+category: "data-leak"
+initial_attack_vector: "An unauthorized third party gained access to Quora's systems via unknown means; Quora stated it discovered the breach on Friday 30 November 2018 and immediately began investigation"
+cve: []
+vendor_product: "Quora user database and content systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 3 December 2018, Quora — the popular question-and-answer platform with approximately 300 million monthly unique visitors — disclosed that an unknown attacker had accessed data for approximately 100 million registered users. Quora discovered the breach on 30 November 2018. Exposed data included account information (names, email addresses, hashed passwords, data imported from linked social networks), public and private content (questions, answers, comments, upvotes, private messages between users), and data on requested questions and topics users followed. The exposure of private messages and the record of questions users had privately requested (anonymously) was particularly concerning from a privacy perspective — some users had asked sensitive questions they intended to keep anonymous. Quora logged out all affected accounts and invalidated passwords. The company stated it was working with law enforcement. Quora's rapid disclosure (within days of discovery) was commendable. Quora's passwords were hashed (not plaintext), reducing but not eliminating the risk of credential compromise. No payment information was exposed as Quora does not store payment data for the majority of users. Class-action lawsuits were filed in California. The breach highlighted privacy risks specific to Q&A and knowledge-sharing platforms where users may engage with sensitive topics they intend to keep private."

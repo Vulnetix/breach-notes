@@ -1,0 +1,13 @@
+source_name: "Hudson's Bay / Saks Fifth Avenue / Lord & Taylor Joker's Stash POS — 5 Million Cards"
+source_url: "https://krebsonsecurity.com/2018/04/saks-lord-taylor-stores-hacked/"
+date_of_breach: "2017-05-01"
+date_of_disclosure: "2018-04-01"
+date_of_customer_notification: "2018-04-01"
+category: "data-leak"
+initial_attack_vector: "FIN7 cybercriminal group (JokerStash/Carbanak) installed POS RAM-scraping malware on point-of-sale systems across Saks Fifth Avenue and Lord & Taylor stores nationwide; the malware captured payment card track data from device memory during transactions for approximately 10 months"
+cve: []
+vendor_product: "Saks Fifth Avenue / Lord & Taylor POS systems (Hudson's Bay Company)"
+software_package: ""
+malware: "Carbanak POS RAM-scraping malware"
+supply_chain_claimed: false
+notes: "Between May 2017 and March 2018, the FIN7 cybercriminal group (operating the JokerStash carding shop) compromised point-of-sale systems at all Saks Fifth Avenue and Lord & Taylor luxury department stores in North America. Saks Fifth Avenue and Lord & Taylor are brands owned by Hudson's Bay Company (HBC). The attackers installed POS RAM-scraping malware and maintained access for approximately 10 months before detection. The breach was discovered when Gemini Advisory analysts found approximately 5 million stolen payment cards being sold on the JokerStash dark web marketplace in April 2018. The stolen cards were advertised as the 'BIGBADABOOM-2' database, advertised as the 'largest card dump in history' at that time. HBC confirmed the breach on 1 April 2018. Exposed data included Track 1 and Track 2 payment card data (card numbers, expiration dates, cardholder names). HBC confirmed that personal information beyond card data may also have been exposed. All Saks and Lord & Taylor retail store locations in North America were affected. HBC worked with law enforcement and payment card companies to address the breach. FIN7 was responsible for hundreds of POS malware attacks against US businesses in the restaurant, hotel, and retail sectors, collectively stealing hundreds of millions of dollars worth of payment card data."

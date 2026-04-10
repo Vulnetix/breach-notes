@@ -1,0 +1,13 @@
+source_name: "NewYork-Presbyterian / Columbia University Hospital Shared Network Exposure — 6,800 Patients"
+source_url: "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/enforcement/examples/nyp-agreement.pdf"
+date_of_breach: "2010-09-01"
+date_of_disclosure: "2010-09-27"
+date_of_customer_notification: "2010-09-27"
+category: "data-leak"
+initial_attack_vector: "Network misconfiguration — a physician employed by Columbia University attempted to deactivate a personal computer server on the shared network; instead the misconfiguration exposed an application database, making patient records accessible on the internet"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2010, NewYork-Presbyterian Hospital (NYP) and Columbia University Medical Center (CUMC) disclosed that approximately 6,800 patient records had been exposed on the internet due to a network misconfiguration. The two institutions shared a data network; a physician affiliated with Columbia attempted to decommission a personally owned computer server on the shared network, and the resulting misconfiguration caused patient data — including names, vital signs, diagnoses, medications, and lab results — to become accessible via the internet. A patient discovered the breach by searching the internet and finding their own medical records. The incident resulted in the largest HIPAA enforcement action to date at the time: in May 2014, HHS OCR announced that NewYork-Presbyterian Hospital agreed to pay $3.3 million and Columbia University agreed to pay $1.5 million — a combined $4.8 million — plus corrective action plans. HHS found that neither entity had conducted a thorough risk analysis, had adequate technical safeguards on their network, or had policies addressing the authorization of network servers. The case established important precedent: both the hospital (as a covered entity) and the affiliated university (as a business associate) were held accountable. It highlighted risks inherent in shared network environments between academic medical centers and affiliated research institutions, and the obligation to inventory all systems with access to PHI."

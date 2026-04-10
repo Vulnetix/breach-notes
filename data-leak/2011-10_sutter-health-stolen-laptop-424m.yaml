@@ -1,0 +1,13 @@
+source_name: "Sutter Health Stolen Laptop Breach — 4.24 Million Patients"
+source_url: "https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/sutter-health/index.html"
+date_of_breach: "2011-10-14"
+date_of_disclosure: "2011-11-15"
+date_of_customer_notification: "2011-11-15"
+category: "data-leak"
+initial_attack_vector: "Physical theft — an unencrypted desktop computer was stolen from a Sutter Physicians Services administrative office in Sacramento, California; the computer contained an unencrypted database file with patient information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 14, 2011, a desktop computer was stolen from a Sutter Physicians Services administrative office in Sacramento, California. The computer contained an unencrypted Microsoft Access database file with patient information for approximately 4.24 million patients of Sutter Health, one of the largest healthcare systems in Northern California. The exposed data included patient names, addresses, dates of birth, phone numbers, dates of service, and in many cases diagnoses and medical procedures — representing a significant exposure of protected health information (PHI) under HIPAA. Financial and Social Security information was reportedly not included for most records. Sutter Health notified affected patients and filed the required breach report with the U.S. Department of Health and Human Services (HHS) Office for Civil Rights (OCR). The breach triggered multiple class-action lawsuits in California and state legislative attention, as California had proposed (and was considering) a healthcare data breach notification law. The Sutter Health breach represented one of the largest single HIPAA breach incidents in the United States at the time, and is a prominent example of the persistent problem of unencrypted healthcare data on portable or desktop devices. The incident reinforced HHS OCR guidance that encryption of PHI at rest is a key HIPAA security standard addressable specification that organizations should implement."

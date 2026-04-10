@@ -1,0 +1,13 @@
+source_name: "TRICARE Military Health Backup Tape Theft — 4.9 Million Beneficiaries"
+source_url: "https://www.militarytimes.com/news/your-military/2011/09/15/tricare-data-breach-affects-4-9-million-military-families/"
+date_of_breach: "2011-09-14"
+date_of_disclosure: "2011-09-29"
+date_of_customer_notification: "2011-09-29"
+category: "data-leak"
+initial_attack_vector: "Physical theft — backup tapes were stolen from a Science Applications International Corporation (SAIC) employee's vehicle in San Antonio, Texas while the employee was transporting them; the tapes were unencrypted"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On September 14, 2011, backup tapes containing TRICARE (the U.S. military health insurance program) data were stolen from a car belonging to an employee of Science Applications International Corporation (SAIC), a defense contractor that managed healthcare data systems for the military. The tapes were stolen from the employee's vehicle in San Antonio, Texas. Approximately 4.9 million current and former military personnel and their families were affected. The exposed data potentially included Social Security numbers, addresses, phone numbers, and in some cases clinical notes, laboratory tests, and prescriptions — representing highly sensitive protected health information and personally identifiable information for active duty service members and veterans. TRICARE and SAIC reported the breach to the Department of Defense and notified affected beneficiaries. This was one of the largest HIPAA breaches in 2011 and one of the largest government health data breaches to that point. The incident spawned numerous class-action lawsuits; plaintiffs alleged that SAIC was negligent in allowing backup tapes containing unencrypted sensitive data to be transported in an employee's personal vehicle. SAIC ultimately paid $7.5 million in 2015 to settle a class-action lawsuit. The breach highlighted persistent vulnerabilities in backup tape management — including transport outside secure facilities and failure to encrypt tape media — and the particular sensitivity of military health data."

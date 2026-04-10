@@ -1,0 +1,13 @@
+source_name: "Disqus Comment Platform Breach — 17.5 Million Users (2012 Data Disclosed 2017)"
+source_url: "https://blog.disqus.com/security-alert-user-info-breach"
+date_of_breach: "2012-07-01"
+date_of_disclosure: "2017-10-05"
+date_of_customer_notification: "2017-10-05"
+category: "data-leak"
+initial_attack_vector: "Unknown attacker gained access to a snapshot of Disqus's user database dating from July 2012; the specific intrusion mechanism was not disclosed; the breach data sat dormant for over five years before being shared with security researcher Troy Hunt who alerted Disqus"
+cve: []
+vendor_product: "Disqus commenting platform user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Disqus — the widely-used blog comment hosting service embedded across millions of websites — disclosed in October 2017 that a database snapshot from July 2012 containing data for 17.5 million users had been obtained by an unknown attacker. The breach data was shared with security researcher Troy Hunt who added it to Have I Been Pwned and alerted Disqus. Exposed data included email addresses, Disqus usernames, sign-up dates, last login dates, and hashed passwords. Approximately one-third of accounts had SHA1-hashed passwords (the default for accounts created before mid-2012); two-thirds had SHA256-hashed passwords (the post-2012 scheme). The breach data went undiscovered for five years before surfacing — illustrating how breached data can remain in criminal circulation for extended periods before public disclosure. Disqus disclosed the breach the day after being notified by Troy Hunt, reset all passwords of potentially affected users, and noted that Disqus had migrated to bcrypt password hashing since the breach. The 5-year gap between breach and disclosure raised questions about data breach detection capabilities. Disqus is used as a commenting system by major publications including The Washington Post, The Atlantic, and many others — potentially exposing commenting behaviour and email addresses of a diverse population of news readers."

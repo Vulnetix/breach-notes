@@ -142,3 +142,41 @@ These sources have been validated to yield high-quality, verifiable breach data:
 - Purely speculative or unconfirmed breach claims
 - Breaches where the only source is a threat actor claim with no corroboration
 - Duplicate entries for the same incident (consolidate into the richer record)
+
+## Current Repository Status (Updated 2026-04-10)
+
+- **Total records**: 1,221 breach incidents documented
+- **Coverage**: 1996–2026, all major categories
+- **By category**: data-leak (263+), supply-chain (750+), ransomware (95+), credential-theft (64+), other (46+)
+- **Sources used**: BlackKite third-party breach timeline (687 supply-chain stubs via automated import), manually curated comprehensive records for major incidents, OAIC NDB, PDPC Singapore, ICO UK, HHS OCR, OPC Canada, SEC 8-K filings, KrebsOnSecurity, UpGuard, Wiz.io, vpnMentor, SafetyDetectives
+
+## Analyzer Usage
+
+Run from repo root to update README.md with correct stats:
+```bash
+./analyze/analyze data
+cp data/README.md README.md
+```
+
+## Quality Tiers
+
+Records fall into two quality tiers:
+
+**Tier 1 — Comprehensive** (manually curated, ~530 records):
+- Full narrative notes (300–600 words)
+- Verified attack vector, impact, and regulatory response
+- Cross-referenced with primary sources
+
+**Tier 2 — Stub** (automated BlackKite import, ~687 records):
+- Brief notes from BlackKite's third-party breach timeline
+- Basic metadata (date, category, vendor, data type)
+- Suitable for coverage; may lack regulatory/legal details
+
+**Promotion path**: Tier 2 stubs for high-impact incidents should be promoted to Tier 1 by adding comprehensive notes from primary sources.
+
+## Next Priorities for Tier 1 Promotion
+
+1. All BlackKite healthcare provider stubs (multiple hospitals and health plans)
+2. All BlackKite financial sector stubs (banks, insurance, payment processors)
+3. Government/critical infrastructure stubs
+4. Any stubs where the source_url returns a 404 or paywalled article — find a better primary source

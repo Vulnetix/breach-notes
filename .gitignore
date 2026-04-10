@@ -30,3 +30,7 @@ Thumbs.db
 # Compiled binaries
 analyze/analyze
 update-breaches
+
+# Vulnetix plugin data (SBOMs, PoCs, memory)
+.vulnetix/
+.claude/

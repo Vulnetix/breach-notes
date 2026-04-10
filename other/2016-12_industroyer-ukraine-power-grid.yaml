@@ -1,0 +1,13 @@
+source_name: "Industroyer/CrashOverride: Ukraine Power Grid Attack (Kyiv Blackout, Sandworm)"
+source_url: "https://attack.mitre.org/campaigns/C0025/"
+date_of_breach: "2016-12-17"
+date_of_disclosure: "2016-12-17"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Sandworm (GRU Unit 74455) deployed Industroyer malware that natively spoke industrial communication protocols (IEC 60870-5-101/104, IEC 61850, OPC DA) to directly communicate with and manipulate power grid SCADA/ICS equipment without requiring attackers to understand specific OT configurations"
+cve: []
+vendor_product: "IEC 60870-5-101/104 SCADA; Siemens SIPROTEC relays (CVE-2015-5374)"
+software_package: ""
+malware: "Industroyer (CrashOverride); KillDisk"
+supply_chain_claimed: false
+notes: "On December 17, 2016, exactly one year after the first Ukraine power grid attack (BlackEnergy 2015), Russian military intelligence (GRU Sandworm team) deployed Industroyer against Ukraine's Pivnichna (Northern) transmission substation in Kyiv, cutting power to approximately 20% of the city (200,000+ customers) for approximately one hour. Unlike the 2015 attack which required manual operator manipulation, Industroyer (also known as CrashOverride) was the first ICS-native malware capable of directly speaking industrial communication protocols (IEC 60870-5-101, IEC 60870-5-104, IEC 61850, OPC DA) — enabling fully automated, scalable attacks against power grid equipment without requiring prior knowledge of specific configurations. Industroyer also targeted Siemens SIPROTEC protection relay modules to prevent automatic fault recovery after the blackout. A KillDisk wiper was deployed simultaneously to destroy workstations and prevent incident response. In April 2022, Sandworm attempted an upgraded attack ('Industroyer2') against Ukraine's high-voltage transmission infrastructure — detected and blocked by Ukraine's CERT-UA and ESET before it could cause a blackout. Industroyer is considered the most sophisticated grid-attack malware ever discovered and represents the evolution from the targeted manual approach of BlackEnergy 2015 to fully automated, protocol-native grid disruption capability."

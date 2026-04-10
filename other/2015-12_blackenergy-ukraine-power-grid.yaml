@@ -1,0 +1,13 @@
+source_name: "BlackEnergy/KillDisk: First Cyberattack Causing a Power Outage (Ukraine, Sandworm)"
+source_url: "https://www.cisa.gov/news-events/ics-alerts/ir-alert-h-16-056-01"
+date_of_breach: "2015-12-23"
+date_of_disclosure: "2016-01-07"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Sandworm (GRU) sent spear-phishing emails with malicious Microsoft Word documents containing BlackEnergy3 macros to Ukrainian energy company employees; gaining access to IT networks before pivoting to SCADA systems; operators were locked out via KillDisk wiping workstations while attackers opened breakers via VPN"
+cve: []
+vendor_product: "Microsoft Office (macro); ICS SCADA systems"
+software_package: ""
+malware: "BlackEnergy3; KillDisk"
+supply_chain_claimed: false
+notes: "On December 23, 2015, coordinated cyberattacks against three Ukrainian electricity distribution companies — Prykarpattyaoblenergo, Chernivtsioblenergo, and Kyivoblenergo — caused the first confirmed power outages attributed to a cyberattack in history. Approximately 230,000 consumers lost power for 1–6 hours during a Ukrainian winter evening. The attack used BlackEnergy3 malware delivered via spear-phishing emails with malicious Word documents to electric company employees. After establishing persistent access for months, on December 23 the attackers simultaneously: (1) opened breakers via remote SCADA access to cut power; (2) deployed KillDisk to wipe SCADA workstation operating systems, preventing quick recovery; (3) conducted telephone denial-of-service attacks against customer call centers to delay public awareness. The attackers also manipulated UPS systems and serial-to-Ethernet converters at substations. Recovery required field engineers to manually restore each breaker. The attack was attributed to Sandworm (GRU Unit 74455). US-CERT and CISA issued joint advisories. This attack was a watershed moment in ICS/OT security, demonstrating that cyber operations could achieve kinetic (physical world) effects against civilian infrastructure — and preceded the more sophisticated Industroyer attack one year later."

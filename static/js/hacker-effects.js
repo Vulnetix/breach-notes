@@ -115,7 +115,7 @@ function scheduleGlitch(span, totalDuration) {
 
 // ── Terminal cursor ───────────────────────────────────────────
 function addTerminalCursors() {
-    const els = document.querySelectorAll('.site-title, .section-title, .breach-title');
+    const els = document.querySelectorAll('.site-title');
     els.forEach(el => {
         const cursor = document.createElement('span');
         cursor.className = 'terminal-cursor';

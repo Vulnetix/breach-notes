@@ -1,0 +1,13 @@
+source_name: "Rite Aid RansomHub Data Breach"
+source_url: "https://www.securityweek.com/rite-aid-says-hack-impacts-2-2m-people-as-ransomware-gang-threatens-to-leak-data/"
+date_of_breach: "2024-06-06"
+date_of_disclosure: "2024-07-16"
+date_of_customer_notification: "2024-07-16"
+category: "ransomware"
+initial_attack_vector: "RansomHub threat actor impersonated a Rite Aid employee to obtain business credentials; gained access to certain business systems; incident detected within 12 hours"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "RansomHub"
+supply_chain_claimed: false
+notes: "Rite Aid (third-largest US pharmacy chain) was breached on 6 June 2024 with 2.2 million customers' names, dates of birth, addresses, and driver's license/government ID numbers exposed. RansomHub claimed to have stolen 10 GB of data and threatened to leak it after ransom negotiations failed. Customer purchase data from June 2017 through July 2018 was also in scope. No SSNs or financial information were compromised. Rite Aid settled a class action lawsuit for $6.8 million. Rite Aid was already in Chapter 11 bankruptcy at the time of the attack."

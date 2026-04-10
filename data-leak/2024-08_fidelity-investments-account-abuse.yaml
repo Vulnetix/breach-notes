@@ -1,0 +1,13 @@
+source_name: "Fidelity Investments Data Breach"
+source_url: "https://techcrunch.com/2024/10/10/fidelity-says-data-breach-exposed-personal-data-of-77000-customers/"
+date_of_breach: "2024-08-17"
+date_of_disclosure: "2024-10-09"
+date_of_customer_notification: "2024-10-09"
+category: "data-leak"
+initial_attack_vector: "Attackers created two new fraudulent customer accounts and used them to access other customers' personal information via an internal document management system; no MFA gap on account creation process"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between 17-19 August 2024, unauthorized third parties exploited two newly created Fidelity customer accounts to access personal data of 77,099 customers including Social Security numbers and driver's license numbers. Customer account balances and investments were not accessed. Fidelity offered 24 months of free credit monitoring. This was Fidelity's second breach in 2024; approximately 30,000 Fidelity life insurance customers were also exposed earlier via the Infosys McCamish Systems LockBit breach."

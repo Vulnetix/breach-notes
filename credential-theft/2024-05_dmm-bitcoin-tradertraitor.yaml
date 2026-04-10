@@ -1,0 +1,13 @@
+source_name: "DMM Bitcoin Hack - TraderTraitor (North Korea)"
+source_url: "https://www.fbi.gov/news/press-releases/fbi-dc3-and-npa-identification-of-north-korean-cyber-actors-tracked-as-tradertraitor-responsible-for-theft-of-308-million-from-bitcoindmmcom"
+date_of_breach: "2024-05-31"
+date_of_disclosure: "2024-05-31"
+date_of_customer_notification: "2024-06-01"
+category: "credential-theft"
+initial_attack_vector: "TraderTraitor (North Korean) social engineering of an employee at crypto wallet company Ginco; attackers gained access to Ginco communications systems and intercepted a legitimate DMM Bitcoin transaction"
+cve: []
+vendor_product: "Ginco (crypto wallet provider)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "North Korean TraderTraitor hackers stole 4,502.9 BTC (~$308 million) from Japanese crypto exchange DMM Bitcoin on 31 May 2024 — the third-largest crypto theft in history. FBI, DC3, and Japan NPA jointly attributed the attack in December 2024. The compromise flowed through Ginco, a third-party wallet provider. DMM Bitcoin was unable to recover and shut down in December 2024, transferring accounts to SBI VC Trade."

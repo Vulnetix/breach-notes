@@ -1,0 +1,13 @@
+source_name: "Toyota 240GB Data Leak"
+source_url: "https://www.darkreading.com/cyberattacks-data-breaches/toyota-confirms-breach-third-party"
+date_of_breach: "2022-12-25"
+date_of_disclosure: "2024-08-01"
+date_of_customer_notification: "2024-08-01"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to a third-party contractor's environment; 240 GB of Toyota internal data surfaced on a hacking forum in August 2024, believed stolen as far back as December 2022"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Toyota confirmed a data breach in August 2024 after threat actor ZeroSevenGroup posted 240 GB of data on a hacking forum. Data included employee and customer PII, contracts, financial records, network infrastructure details, and database credentials. Toyota said the breach was limited to a third-party contractor and did not affect Toyota systems broadly. Separate from the 2023 cloud misconfiguration exposing 2.15 million customers' vehicle location data."

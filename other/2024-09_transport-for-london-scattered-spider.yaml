@@ -1,0 +1,13 @@
+source_name: "Transport for London (TfL) Scattered Spider Attack"
+source_url: "https://www.theregister.com/2026/03/06/tfl_2024_breach_numbers/"
+date_of_breach: "2024-08-31"
+date_of_disclosure: "2024-09-02"
+date_of_customer_notification: "2024-09-05"
+category: "credential-theft"
+initial_attack_vector: "Social engineering / MFA bypass by Scattered Spider members; attacker gained internal access via compromised employee credentials"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Scattered Spider attacked Transport for London on 31 August 2024, ultimately exposing data of approximately 10 million customers — one of the largest breaches in British history. Stolen data included names, email addresses, phone numbers, and home addresses. Two UK teenagers, Thalha Jubair (19) and Owen Flowers (18), were arrested by the NCA and charged. The breach caused an estimated £39 million in damages and was not fully disclosed publicly until early 2026, 18 months after the incident."

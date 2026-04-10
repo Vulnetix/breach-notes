@@ -1,0 +1,13 @@
+source_name: "Sprint Customer Data Exposure via Samsung 'Add a Line' Website Vulnerability"
+source_url: "https://www.engadget.com/2019-07-16-sprint-samsung-account-data-breach.html"
+date_of_breach: "2019-06-01"
+date_of_disclosure: "2019-07-16"
+date_of_customer_notification: "2019-07-16"
+category: "data-leak"
+initial_attack_vector: "Third-party website vulnerability — hackers exploited a security flaw in Samsung's 'Add a Line' webpage (a retail portal used to add new Sprint lines), which allowed unauthorized access to Sprint customer account data"
+cve: []
+vendor_product: "Samsung 'Add a Line' retail portal for Sprint"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In June/July 2019, Sprint discovered that hackers had exploited a vulnerability on Samsung's 'Add a Line' promotional webpage — a co-branded retail portal used to add new Sprint lines to existing accounts — to access Sprint customer account information. Sprint reset all affected account PIN codes within three days of discovery and notified state attorneys general. Exposed data included phone numbers, device types, device IDs, customer names, billing addresses, monthly recurring charges, subscriber IDs, account numbers, account creation dates, upgrade eligibility status, and add-on services. This was Sprint's second known customer data breach in 2019, following the March 2019 Boost Mobile credential stuffing incident. Sprint was acquired by T-Mobile in 2020 for $26 billion."

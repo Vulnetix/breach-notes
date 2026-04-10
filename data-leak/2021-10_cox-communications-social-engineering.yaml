@@ -1,0 +1,13 @@
+source_name: "Cox Communications Data Breach via Social Engineering (Impersonated Support Agent)"
+source_url: "https://www.bleepingcomputer.com/news/security/cox-discloses-data-breach-after-hacker-impersonates-support-agent/"
+date_of_breach: "2021-10-11"
+date_of_disclosure: "2021-12-01"
+date_of_customer_notification: "2021-12-01"
+category: "data-leak"
+initial_attack_vector: "Social engineering — an attacker impersonated a Cox Communications support representative to gain access to internal Cox systems and then accessed customer account information"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On October 11, 2021, Cox Communications discovered that a hacker had impersonated a Cox support agent to gain access to internal systems, then accessed a small number of customer accounts. Cox notified affected customers via letters filed with state attorneys general in late 2021. Exposed data included customer names, addresses, telephone numbers, Cox account numbers, usernames, account PINs, email addresses, security question answers, and subscribed service information. No financial or payment data was confirmed compromised. Cox notified law enforcement and took steps to prevent similar social engineering attacks. Cox Communications is one of the largest cable and broadband providers in the United States, serving approximately 5.2 million residential and commercial customers."

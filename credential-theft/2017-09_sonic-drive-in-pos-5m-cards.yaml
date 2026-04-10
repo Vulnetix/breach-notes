@@ -1,0 +1,13 @@
+source_name: "Sonic Drive-In POS Malware Breach (~5M Payment Cards)"
+source_url: "https://krebsonsecurity.com/2017/09/breach-at-sonic-drive-in-may-have-impacted-millions-of-credit-debit-cards/"
+date_of_breach: "2017-01-01"
+date_of_disclosure: "2017-10-05"
+date_of_customer_notification: "2017-10-05"
+category: "credential-theft"
+initial_attack_vector: "POS malware deployed across Sonic Drive-In restaurant locations; malware copied payment card data at each swipe from magnetic stripe readers and exfiltrated it to attacker infrastructure"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "POS malware"
+supply_chain_claimed: false
+notes: "In September 2017, security journalist Brian Krebs reported that a large batch of approximately 5 million stolen payment cards linked to Sonic Drive-In locations had appeared on the Joker's Stash dark web carding marketplace. The cards (nicknamed 'Firetigerz') began appearing on the market around September 15–18, 2017. Sonic Drive-In officially confirmed the breach on October 5, 2017, acknowledging that malware had been installed on POS systems and had been copying card data as customers paid. Sonic stated it was working with law enforcement and third-party forensic experts. Exposed data included payment card numbers, expiration dates, and other magnetic stripe data. Sonic offered 24 months of free fraud monitoring services to affected customers. American Airlines Federal Credit Union filed suit seeking $5 million in damages for the cost of reissuing affected cards. Sonic operates approximately 3,500 drive-in locations across the United States, serving approximately 3 million customers daily."

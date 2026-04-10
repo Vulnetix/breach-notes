@@ -1,0 +1,13 @@
+source_name: "Choice Hotels Vendor MongoDB Exposure (700K Guest Records)"
+source_url: "https://www.infosecurity-magazine.com/news/choice-hotels-breach-hackers/"
+date_of_breach: "2019-07-02"
+date_of_disclosure: "2019-08-01"
+date_of_customer_notification: "2019-08-01"
+category: "data-leak"
+initial_attack_vector: "Third-party vendor misconfigured an unauthenticated MongoDB database, publicly exposing 5.6 million guest records copied from Choice Hotels' systems for use in testing a security product — without authorization; automated scripts also left a ransom note demanding 0.4 BTC"
+cve: []
+vendor_product: "MongoDB (third-party vendor deployment)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On approximately July 2, 2019, security researcher Bob Diachenko (working with Comparitech) discovered a publicly accessible, unauthenticated MongoDB database containing approximately 5.6 million records, of which approximately 700,000 belonged to actual Choice Hotels guests. The database had been exposed for approximately 4 days. The data had been copied from Choice Hotels' systems by a third-party vendor that was testing a security product — without proper authorization or security controls. Automated scripts that scan for exposed databases had already accessed the database and left a ransom note demanding 0.4 BTC (approximately $3,856). Exposed data included guest names, email addresses, and phone numbers. Choice Hotels was not directly breached — the exposure occurred entirely on the unauthorized third-party vendor's infrastructure. Choice Hotels terminated the vendor relationship upon discovery. The incident was one of many in 2019 demonstrating the risk of MongoDB databases left without authentication by contractors and developers."

@@ -1,0 +1,13 @@
+source_name: "CareFirst BlueCross BlueShield APT Breach (1.1M Members)"
+source_url: "https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/"
+date_of_breach: "2014-06-01"
+date_of_disclosure: "2015-05-20"
+date_of_customer_notification: "2015-05-20"
+category: "data-leak"
+initial_attack_vector: "Chinese APT intrusion (same infrastructure as Anthem and Premera breaches); attackers first compromised CareFirst's network in April 2014, but that incursion was identified and contained; attackers re-entered via backdoors in June 2014 and maintained access until April 2015 when Mandiant detected the intrusion"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "CareFirst BlueCross BlueShield, the dominant health insurer for the Washington D.C./Maryland/Virginia region, disclosed on May 20, 2015 that approximately 1.1 million members had their data accessed in an APT breach attributed to the same Chinese state-linked infrastructure used in the contemporaneous Anthem (78.8M records) and Premera Blue Cross (11M records) attacks. CareFirst had detected what it believed was a contained attack in April 2014, but attackers had already planted backdoors enabling re-entry. The June 2014 intrusion went undetected until April 2015 when CareFirst proactively engaged Mandiant for a forensic assessment (prompted by the Anthem breach in February 2015). Exposed data included names, dates of birth, email addresses, and subscriber identification numbers — but notably NOT Social Security numbers, credit card data, passwords, or medical/claims information (a narrower scope than Anthem and Premera). The breach was part of a larger apparent Chinese intelligence operation targeting U.S. health insurance companies, possibly to build comprehensive profiles of federal government workers and contractors who have employer-provided health coverage through BCBS plans."

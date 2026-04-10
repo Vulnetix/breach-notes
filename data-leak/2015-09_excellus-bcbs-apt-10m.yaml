@@ -1,0 +1,13 @@
+source_name: "Excellus BlueCross BlueShield APT Breach (10.5M Members, 20 Months Undetected)"
+source_url: "https://www.healthcareitnews.com/news/excellus-bluecross-blueshield-cyberattack-impacts-105m-people"
+date_of_breach: "2013-12-01"
+date_of_disclosure: "2015-09-10"
+date_of_customer_notification: "2015-09-10"
+category: "data-leak"
+initial_attack_vector: "Sophisticated APT intrusion (consistent with Chinese state-linked APT campaign that also targeted Anthem, Premera Blue Cross, and CareFirst BCBS in the same period); attackers maintained undetected access for approximately 20 months; Excellus engaged Mandiant after sister organizations were breached, which revealed the compromise"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Excellus BlueCross BlueShield, a Rochester, New York-based health insurer covering approximately 3.5 million members in upstate New York, disclosed on September 10, 2015 that attackers had gained access to its IT systems as early as December 2013 — remaining undetected for approximately 20 months until Excellus engaged Mandiant to conduct a proactive forensic assessment in August 2015 (prompted by the high-profile Anthem and Premera breaches earlier in 2015). Approximately 10.5 million individuals were affected, including current and former Excellus plan members, employees, and individuals whose employers use Excellus as their health plan. Exposed data included names, dates of birth, Social Security numbers, member identification numbers, financial account information, claims data, and health plan enrollment information. The same China-linked domain registrant infrastructure identified in the Anthem, Premera, and CareFirst breaches was also identified in the Excellus intrusion, suggesting a coordinated multi-target APT campaign against U.S. health insurers. Breach investigation and notification costs exceeded $17.3 million. Excellus settled a multistate investigation for approximately $5.1 million."

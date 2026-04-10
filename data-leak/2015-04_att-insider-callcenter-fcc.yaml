@@ -1,0 +1,13 @@
+source_name: "AT&T Insider Breach — Outsourced Call Center Employees Sold Customer Data (FCC $25M Fine)"
+source_url: "https://www.fcc.gov/document/att-settles-fcc-investigation-25-million-largest-ever-data-security-action"
+date_of_breach: "2013-11-01"
+date_of_disclosure: "2015-04-08"
+date_of_customer_notification: "2014-01-01"
+category: "data-leak"
+initial_attack_vector: "Insider threat — employees at AT&T's outsourced call centers in Colombia, Mexico, and the Philippines improperly accessed and sold customer data (names and partial/full Social Security numbers) to unauthorized third parties to facilitate unauthorized phone unlocking for profit"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between approximately November 2013 and April 2014, employees at AT&T's outsourced call centers in Colombia, Mexico, and the Philippines improperly accessed records of approximately 280,000 U.S. customers and provided their names and full or partial Social Security numbers to unauthorized third parties. The third parties used this data to submit fraudulent unlock requests for AT&T mobile devices, enabling phones to be used with other carriers. AT&T became aware of some employee misconduct and terminated the employees, but failed to adequately notify affected customers promptly. The FCC launched an investigation and in April 2015 announced a $25 million settlement — the largest FCC data security enforcement action at that time. AT&T was required to notify all affected customers, appoint a compliance manager, conduct employee training, and improve its data security practices. The incident highlighted the risks of sharing sensitive customer data with outsourced service providers and demonstrated that carriers' CPNI (Customer Proprietary Network Information) protections must extend to their contractors."

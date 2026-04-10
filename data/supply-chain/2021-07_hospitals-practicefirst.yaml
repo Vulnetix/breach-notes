@@ -1,16 +1,18 @@
 source_name: Hospitals Third-Party Breach (July 2021)
-source_url: "https://www.govinfosecurity.com/supply-chain-ransomware-breach-affects-12-million-a-17062?&web_view=true"
+source_url: https://www.govinfosecurity.com/supply-chain-ransomware-breach-affects-12-million-a-17062?&web_view=true
 date_of_breach: 2021-07-01
 date_of_disclosure: 2021-07-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: PracticeFirst
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Hospitals experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was PracticeFirst. Source reporting:
-  https://www.govinfosecurity.com/supply-chain-ransomware-breach-affects-12-million-a-17062?&web_view=true
+notes: 'Supply Chain Ransomware Breach Affects 1.2 Million. A supply chain ransomware
+  attack affecting more than 1.2 million individuals is among the largest health data
+  breaches reported to federal regulators so far this. Data Breach Notification ,
+  Fraud Management & Cybercrime , Incident & Breach Response. Practicefirst , an Amherst,
+  New York-based medical management services provider, on July 1 reported to federal
+  regulators a breach that occurred late last year. Third-party company: PracticeFirst.'

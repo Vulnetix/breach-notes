@@ -1,13 +1,21 @@
 source_name: Celcius Third-Party Breach (April 2021)
-source_url: "https://finance.yahoo.com/news/celsius-suffers-third-party-data-163132336.html"
+source_url: https://finance.yahoo.com/news/celsius-suffers-third-party-data-163132336.html
 date_of_breach: 2021-04-01
-date_of_disclosure: 2021-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-04-15'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2021, Celcius experienced a data security incident via a third-party vendor relationship. Source reporting: https://finance.yahoo.com/news/celsius-suffers-third-party-data-163132336.html"
+notes: Celsius Suffers Third-Party Data Breach, Customers Report Phishing Texts, Emails.
+  The crypto lender's data leak comes almost a year to the date after a similar data
+  leak hit BlockFi. Crypto lending service Celsius has discovered a data breach with
+  one of its third-party service providers has exposed the personal information of
+  its customers, an email sent to Celsius customers and shared with CoinDesk confirms.
+  Hackers gained access to a “third-party email distribution system” Celsius uses,
+  according to the email. The hackers have used this information to send fraudulent
+  emails and text messages to Celsius to trick them into revealing the private keys
+  to their funds.

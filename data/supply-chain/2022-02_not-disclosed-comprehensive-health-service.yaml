@@ -1,16 +1,19 @@
 source_name: Not disclosed Third-Party Breach (February 2022)
-source_url: "https://www.govinfosecurity.com/2-vendor-hacking-incidents-affect-over-600000-individuals-a-18538"
+source_url: https://www.govinfosecurity.com/2-vendor-hacking-incidents-affect-over-600000-individuals-a-18538
 date_of_breach: 2022-02-01
 date_of_disclosure: 2022-02-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Comprehensive Health Services
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Not disclosed experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Comprehensive Health Services. Source reporting:
-  https://www.govinfosecurity.com/2-vendor-hacking-incidents-affect-over-600000-individuals-a-18538
+notes: '2 Vendor Hacking Incidents Affect Over 600,000 Individuals. Two recent hacking
+  breaches affecting hundreds of thousands of individuals - one reported by a firm
+  that provides services to health plans and the other by a. 3rd Party Risk Management
+  , Business Email Compromise (BEC) , Fraud Management & Cybercrime. The breaches
+  involve a 2021 ransomware incident affecting more than 521,000 individuals that
+  was reported to federal and state regulators on Feb. 1 by Michigan-based Morley
+  Companies. Third-party company: Comprehensive Health Services.'

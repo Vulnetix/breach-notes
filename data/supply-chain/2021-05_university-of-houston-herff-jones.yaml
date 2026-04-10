@@ -1,16 +1,18 @@
 source_name: University of Houston Third-Party Breach (May 2021)
-source_url: "http://thedailycougar.com/2021/05/10/herff-jones-breach-bank-information/"
+source_url: http://thedailycougar.com/2021/05/10/herff-jones-breach-bank-information/
 date_of_breach: 2021-05-01
-date_of_disclosure: 2021-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-05-10'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Herff Jones
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, University of Houston experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Herff Jones. Source reporting:
-  http://thedailycougar.com/2021/05/10/herff-jones-breach-bank-information/
+notes: 'Herff Jones data breach leaves students'' bank information compromised - The
+  Cougar. A data breach at UH graduation cap and gown vendor, Herff Jones, has students''
+  bank information compromised. Herff Jones, a graduation cap and gown vendor for
+  UH, experienced a data breach that has compromised students’ banking information
+  | File Photo. A data breach at UH graduation cap and gown vendor, Herff Jones, has
+  some students’ bank information compromised. Third-party company: Herff Jones.'

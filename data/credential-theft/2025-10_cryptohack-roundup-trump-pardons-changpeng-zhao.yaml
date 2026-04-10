@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: Trump Pardons Changpeng Zhao (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-trump-pardons-changpeng-zhao-a-29808
+date_of_breach: '2025-10-23'
+date_of_disclosure: '2025-10-23'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, U.S. President Donald Trump pardoned Changpeng Zhao, Astra Nova
+  RVV token plummeted, an investor lost $3M in a wallet breach linked to Huione Group,
+
+
+  Source: DataBreachToday article coverage.'

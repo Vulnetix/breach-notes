@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup: Authorities Shutter Cryptomixer (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-authorities-shutter-cryptomixer-a-30192
+date_of_breach: '2025-12-04'
+date_of_disclosure: '2025-12-04'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, authorities shutter Cryptomixer, Anthropic warns about autonomous
+  AI exploits, U.K. plans ban on crypto political donations, Do Kwon seeks leniency,
+
+
+  Source: DataBreachToday article coverage.'

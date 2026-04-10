@@ -1,16 +1,22 @@
 source_name: Priority Health Third-Party Breach (June 2022)
-source_url: "https://healthitsecurity.com/news/120k-priority-health-members-impacted-by-third-party-data-breach"
+source_url: https://healthitsecurity.com/news/120k-priority-health-members-impacted-by-third-party-data-breach
 date_of_breach: 2022-06-01
-date_of_disclosure: 2022-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-08-10'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
-vendor_product: "Warner Norcross & Judd"
-software_package: ""
-malware: ""
+vendor_product: Warner Norcross & Judd
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Priority Health experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Warner Norcross & Judd. Source reporting:
-  https://healthitsecurity.com/news/120k-priority-health-members-impacted-by-third-party-data-breach
+notes: '120K Priority Health Members Impacted By Third-Party Data Breach | TechTarget.
+  Michigan-based health plan Priority Health notified 120,000 individuals of a third-party
+  data breach that originated at the law firm Warner Norcross &amp; Judd. Priority
+  Health issued a notice about a third-party data breach that originated at the law
+  firm Warner Norcross & Judd (WNJ) in October 2021. Priority Health is Michigan’s
+  second-largest health plan and serves more than one million members per year. According
+  to Priority Health’s notice, WNJ discovered unauthorized activity on some of its
+  systems on October 22, 2021. WNJ took steps to secure its network and notified Priority
+  Health of the incident on June 6, 2022. The incident impacted approximately 120,000
+  Priority Health members. Third-party company: Warner Norcross & Judd.'

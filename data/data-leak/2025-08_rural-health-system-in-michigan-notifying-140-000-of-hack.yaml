@@ -1,0 +1,18 @@
+source_name: Rural Health System in Michigan Notifying 140,000 of Hack (DataBreachToday)
+source_url: https://www.databreachtoday.com/rural-health-system-in-michigan-notifying-140000-hack-a-29279
+date_of_breach: '2025-08-22'
+date_of_disclosure: '2025-08-22'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A health system in rural Michigan is notifying nearly 140,000 people that
+  their information was potentially compromised in a data theft incident occurring
+  between
+
+
+  Source: DataBreachToday article coverage.'

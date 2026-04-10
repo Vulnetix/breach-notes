@@ -1,0 +1,18 @@
+source_name: Court Finalizes HCA Data Breach Class Action Settlement (DataBreachToday)
+source_url: https://www.databreachtoday.com/court-finalizes-hca-data-breach-class-action-settlement-a-29908
+date_of_breach: '2025-10-31'
+date_of_disclosure: '2025-10-31'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A Tennessee federal court has approved a multimillion dollar settlement in
+  consolidated class action litigation against HCA Healthcare in the wake of a 2023
+  email
+
+
+  Source: DataBreachToday article coverage.'

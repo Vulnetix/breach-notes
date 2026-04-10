@@ -1,16 +1,20 @@
 source_name: Memorial Health System Third-Party Breach (February 2022)
-source_url: "https://www.khou.com/article/news/local/memorial-hermann-cyberattack-security-breach/285-1cc8295d-48a4-452e-a6f2-1b4fd059f201"
+source_url: https://www.khou.com/article/news/local/memorial-hermann-cyberattack-security-breach/285-1cc8295d-48a4-452e-a6f2-1b4fd059f201
 date_of_breach: 2022-02-01
 date_of_disclosure: 2022-02-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Advent Health Partners
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Memorial Health System experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was Advent Health Partners. Source reporting:
-  https://www.khou.com/article/news/local/memorial-hermann-cyberattack-security-breach/285-1cc8295d-48a4-452e-a6f2-1b4fd059f201
+notes: 'Information for over 6,000 Memorial Hermann patients accessed in security
+  breach. A contracted vendor with Memorial Hermann is looking into the security breach.
+  Hackers could access social security numbers, financial information and more. HOUSTON
+  — The Memorial Hermann Health System is notifying patients of a cyberattack that
+  could impact thousands. One of their contracted vendors, Advent Health Partners
+  , announced a cybersecurity issue Tuesday. According to the health system, the protected
+  health information (PHI) for 6,260 patients have been breached. Third-party company:
+  Advent Health Partners.'

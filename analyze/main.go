@@ -77,6 +77,11 @@ func loadBreaches(root string) ([]Breach, error) {
 			if b.Category == "" {
 				b.Category = cat
 			}
+			// Skip editorial stubs (DataBreachToday/ISMG article titles, not breach records)
+			if strings.Contains(b.SourceName, "(DataBreachToday)") ||
+				strings.Contains(b.SourceName, "(ISMG") {
+				continue
+			}
 			breaches = append(breaches, b)
 		}
 	}

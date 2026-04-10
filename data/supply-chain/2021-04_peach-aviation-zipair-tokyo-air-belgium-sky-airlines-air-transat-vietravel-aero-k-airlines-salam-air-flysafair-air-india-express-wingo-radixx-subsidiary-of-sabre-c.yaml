@@ -1,18 +1,21 @@
-source_name: Peach Aviation, ZIPAIR Tokyo, Air Belgium, Sky Airlines, Air Transat, Vietravel, Aero K Airlines, Salam Air, FlySafair, Air India Express, Wingo Third-Party Breach (April 2021)
-source_url: "https://www.databreaches.net/malware-attack-on-radixx-res-disrupts-20-airlines-ticket-reservation-systems/"
+source_name: Peach Aviation, ZIPAIR Tokyo, Air Belgium, Sky Airlines, Air Transat,
+  Vietravel, Aero K Airlines, Salam Air, FlySafair, Air India Express, Wingo Third-Party
+  Breach (April 2021)
+source_url: https://www.databreaches.net/malware-attack-on-radixx-res-disrupts-20-airlines-ticket-reservation-systems/
 date_of_breach: 2021-04-01
-date_of_disclosure: 2021-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-04-24'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Radixx (subsidiary of Sabre Corporation)
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Peach Aviation, ZIPAIR Tokyo, Air Belgium, Sky Airlines, Air Transat, Vietravel, Aero K Airlines,
-  Salam Air, FlySafair, Air India Express, Wingo experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Radixx (subsidiary of Sabre Corporation). Source
-  reporting:
-  https://www.databreaches.net/malware-attack-on-radixx-res-disrupts-20-airlines-ticket-reservation-systems/
+notes: 'Malware attack on Radixx Res disrupts 20 airlines'' ticket reservation systems
+  - DataBreaches.Net. Radixx , a subsidiary of Sabre Corporation, provides an air
+  passenger ticket reservation system for low-cost airline carriers. On April 22,
+  Radixx announced tha. Despite their best efforts, however, systems were still impacted,
+  and on April 23, Radixx provided an update:. We want to further update you on Radixx’s
+  recent incident as part of our ongoing communication efforts and the following information
+  is subject to update. Third-party company: Radixx (subsidiary of Sabre Corporation).'

@@ -1,0 +1,17 @@
+source_name: Unpatched Windows Flaw a Boon for Nation-State Hackers (DataBreachToday)
+source_url: https://www.databreachtoday.com/unpatched-windows-flaw-boon-for-nation-state-hackers-a-29941
+date_of_breach: '2025-11-05'
+date_of_disclosure: '2025-11-05'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Chinese nation-state hackers are exploiting a Windows vulnerability to hack
+  European diplomatic outposts, say security researchers - but operating system giant
+
+
+  Source: DataBreachToday article coverage.'

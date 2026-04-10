@@ -1,16 +1,17 @@
 source_name: Celsius Third-Party Breach (July 2022)
-source_url: "https://blockworks.co/celsius-admits-customer-emails-leaked-in-third-party-data-breach/"
+source_url: https://blockworks.co/celsius-admits-customer-emails-leaked-in-third-party-data-breach/
 date_of_breach: 2022-07-01
 date_of_disclosure: 2022-07-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Customer.io
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Celsius experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was Customer.io. Source reporting:
-  https://blockworks.co/celsius-admits-customer-emails-leaked-in-third-party-data-breach/
+notes: 'Blockworks. $72.1K $72,120.00 $2.2K $2,214.14 $602.5 $602.46 $84 $83.95 $41.4
+  $41.37. 24hr Spot DEX Volume $6.03B -0.75%24hr App Revenue $11.81M -0.01%24hr Blockchain
+  REV $229.96M +12.99%. 7d DAT Flows $323.14M -0.65%5d ETF Flows -$339.9M -0.05%24hr
+  Spot DEX Volume $6.03B -0.75%24hr App Revenue $11.81M -0.01%24hr Blockchain REV
+  $229.96M +12.99%. Third-party company: Customer.io.'

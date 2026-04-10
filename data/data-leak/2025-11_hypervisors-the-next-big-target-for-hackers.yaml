@@ -1,0 +1,18 @@
+source_name: Hypervisors, the Next Big Target for Hackers (DataBreachToday)
+source_url: https://www.databreachtoday.com/hypervisors-next-big-target-for-hackers-a-29922
+date_of_breach: '2025-11-04'
+date_of_disclosure: '2025-11-04'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'The virtualized layer of technology underpinning modern IT deployments is
+  transforming from a strength to a cybersecurity vulnerability, warns Google in a
+  report
+
+
+  Source: DataBreachToday article coverage.'

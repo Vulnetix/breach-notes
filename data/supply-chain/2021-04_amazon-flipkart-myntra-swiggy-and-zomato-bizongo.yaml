@@ -1,16 +1,22 @@
-source_name: Amazon, Flipkart, Myntra, Swiggy, and Zomato Third-Party Breach (April 2021)
-source_url: "https://thetechportal.com/2021/04/13/digital-supply-chain-giant-bizongo-suffers-massive-data-breach-sensitive-customer-info-exposed-report/"
+source_name: Amazon, Flipkart, Myntra, Swiggy, and Zomato Third-Party Breach (April
+  2021)
+source_url: https://thetechportal.com/2021/04/13/digital-supply-chain-giant-bizongo-suffers-massive-data-breach-sensitive-customer-info-exposed-report/
 date_of_breach: 2021-04-01
-date_of_disclosure: 2021-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-04-13'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Bizongo
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Amazon, Flipkart, Myntra, Swiggy, and Zomato experienced a data security incident via a third-party
-  vendor relationship. The compromised third-party vendor was Bizongo. Source reporting:
-  https://thetechportal.com/2021/04/13/digital-supply-chain-giant-bizongo-suffers-massive-data-breach-sensitive-customer-info-exposed-report/
+notes: 'Digital supply chain giant Bizongo suffers massive data breach, sensitive
+  customer info exposed: Report - The Tech Portal. Digital supply-chain platform Bizongo
+  reportedly became the victim of a security breach, putting data of 100s of thousands
+  of users at risk. Data theft is an increasingly persistent problem these days, and
+  with data’s applications in all sectors of life, it is understandable that a case
+  of a data breach is a matter of grave concern. Indian start-ups have been hit with
+  a string of data breaches in recent days, and Mumbai-based digital supply-chain
+  giant Bizongo reportedly became the latest name in the list on Tuesday. Third-party
+  company: Bizongo.'

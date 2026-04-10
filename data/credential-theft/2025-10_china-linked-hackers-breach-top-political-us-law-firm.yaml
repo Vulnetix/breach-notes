@@ -1,0 +1,18 @@
+source_name: China-Linked Hackers Breach Top Political US Law Firm (DataBreachToday)
+source_url: https://www.databreachtoday.com/china-linked-hackers-breach-top-political-us-law-firm-a-29694
+date_of_breach: '2025-10-09'
+date_of_disclosure: '2025-10-09'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A zero-day vulnerability was used to breach email accounts at the elite D.C.
+  law firm Williams & Connolly, with officials reportedly suspecting the hack is part
+  of
+
+
+  Source: DataBreachToday article coverage.'

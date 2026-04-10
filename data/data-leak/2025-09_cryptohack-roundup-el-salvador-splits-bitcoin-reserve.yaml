@@ -1,0 +1,17 @@
+source_name: 'Cryptohack Roundup:  El Salvador Splits Bitcoin Reserve (DataBreachToday)'
+source_url: https://www.databreachtoday.com/cryptohack-roundup-el-salvador-splits-bitcoin-reserve-a-29362
+date_of_breach: '2025-09-04'
+date_of_disclosure: '2025-09-04'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, El Salvador split its bitcoin reserve, an Indian court jailed cops
+  for crypto kidnapping, a PowerShell-based cryptojacking attack, a malvertising
+
+
+  Source: DataBreachToday article coverage.'

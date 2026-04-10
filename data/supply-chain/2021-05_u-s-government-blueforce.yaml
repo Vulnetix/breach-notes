@@ -1,16 +1,20 @@
 source_name: U.S. Government Third-Party Breach (May 2021)
-source_url: "https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware"
+source_url: https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware
 date_of_breach: 2021-05-01
-date_of_disclosure: 2021-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-05-06'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: BlueForce
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, U.S. Government experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was BlueForce. Source reporting:
-  https://searchsecurity.techtarget.com/news/252500356/US-defense-contractor-BlueForce-apparently-hit-by-ransomware
+notes: 'US defense contractor BlueForce apparently hit by ransomware | TechTarget.
+  A Virginia-based U.S. defense contractor has apparently been hit by ransomware,
+  according to a ransomware negotiation chat and Hatching Triage page. U.S. defense
+  contractor BlueForce has apparently been hit in a ransomware attack, according to
+  a Conti ransomware chat and Hatching Triage sample. The Hatching Triage page for
+  the ransomware sample included a ransom note claiming to be from a threat actor
+  who infected the victim with the Conti ransomware strain . The sample was shared
+  with SearchSecurity by TechTarget sister site LeMagIT. Third-party company: BlueForce.'

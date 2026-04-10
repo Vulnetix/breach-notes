@@ -1,0 +1,17 @@
+source_name: Farmers Insurance, Aflac Report Data Breaches to Regulators (DataBreachToday)
+source_url: https://www.databreachtoday.com/farmers-insurance-aflac-report-data-breaches-to-regulators-a-29289
+date_of_breach: '2025-08-25'
+date_of_disclosure: '2025-08-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Two major U.S.-based insurers - Farmers Insurance and Aflac Inc. - have reported
+  data breaches in two separate cyberattacks. The breaches follow a spree of data
+
+
+  Source: DataBreachToday article coverage.'

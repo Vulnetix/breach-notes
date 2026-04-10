@@ -1,0 +1,17 @@
+source_name: ShinyHunters Hack Salesforce Instances Via Gainsight Apps (DataBreachToday)
+source_url: https://www.databreachtoday.com/shinyhunters-hack-salesforce-instances-via-gainsight-apps-a-30087
+date_of_breach: '2025-11-20'
+date_of_disclosure: '2025-11-20'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Customer relationship management giant Salesforce is again notifying customers
+  that hackers may be stealing their data through a third-party app. The San Francisco
+
+
+  Source: DataBreachToday article coverage.'

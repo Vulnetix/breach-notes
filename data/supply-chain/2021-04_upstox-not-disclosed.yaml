@@ -1,15 +1,20 @@
 source_name: Upstox Third-Party Breach (April 2021)
-source_url: "https://www.livemint.com/market/stock-market-news/upstox-alerts-its-users-of-data-breach-funds-securities-safe-11618169444669.html"
+source_url: https://www.livemint.com/market/stock-market-news/upstox-alerts-its-users-of-data-breach-funds-securities-safe-11618169444669.html
 date_of_breach: 2021-04-01
-date_of_disclosure: 2021-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-04-12'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Upstox experienced a data security incident via a third-party vendor relationship. Source reporting:
-  https://www.livemint.com/market/stock-market-news/upstox-alerts-its-users-of-data-breach-funds-securities-safe-11618169444669.html
+notes: Upstox alerts its users of data breach; funds, securities safe. On receipt
+  of e-mails claiming unauthorized access into Upstox database, the company has appointed
+  a cyber-security firm to investigate possibilities of breach of some KYC data stored
+  in third-party data warehouse systems. Retail broking firm Upstox has alerted customers
+  of a security breach that included contact data and KYC details of customers, but
+  assured users that their funds and securities remain safe. The development comes
+  close on the heels of reports of data breaches at organizations like MobiKwik, Facebook
+  and LinkedIn.

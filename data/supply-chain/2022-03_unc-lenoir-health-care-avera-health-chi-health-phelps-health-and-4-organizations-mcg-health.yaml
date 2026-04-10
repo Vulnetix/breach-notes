@@ -1,17 +1,23 @@
-source_name: UNC Lenoir Health Care, Avera Health, CHI Health, Phelps Health, and 4 organizations Third-Party Breach (March 2022)
-source_url: "https://healthitsecurity.com/news/mcg-health-data-breach-impacts-8-organizations-793k-individuals"
+source_name: UNC Lenoir Health Care, Avera Health, CHI Health, Phelps Health, and
+  4 organizations Third-Party Breach (March 2022)
+source_url: https://healthitsecurity.com/news/mcg-health-data-breach-impacts-8-organizations-793k-individuals
 date_of_breach: 2022-03-01
-date_of_disclosure: 2022-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-06-24'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: MCG Health
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, UNC Lenoir Health Care, Avera Health, CHI Health, Phelps Health, and 4 organizations experienced a
-  data security incident via a third-party vendor relationship. The compromised third-party vendor was MCG
-  Health. Source reporting:
-  https://healthitsecurity.com/news/mcg-health-data-breach-impacts-8-organizations-793k-individuals
+notes: 'MCG Health Data Breach Impacts 8 Organizations, 793K Individuals | TechTarget.
+  About 793,283 individuals and at least 8 organizations were impacted by a third-party
+  data breach stemming from MCG Health. As previously reported, Seattle-based company
+  MCG Health suffered a data breach in March resulting from unauthorized access. The
+  Seattle-based software company provides patient care guidelines to providers and
+  health plans using artificial intelligence and technology solutions. According to
+  a recent entry to the HHS Office for Civil Rights (OCR) data breach portal, the
+  incident impacted 793,283 individuals in total. Since MCG disclosed the breach on
+  June 10, at least eight organizations have come forward and said that they were
+  impacted by the breach. Third-party company: MCG Health.'

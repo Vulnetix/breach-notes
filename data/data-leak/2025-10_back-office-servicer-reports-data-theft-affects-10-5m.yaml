@@ -1,0 +1,17 @@
+source_name: Back-Office Servicer Reports Data Theft Affects 10.5M (DataBreachToday)
+source_url: https://www.databreachtoday.com/back-office-servicer-reports-data-theft-affects-105m-a-29845
+date_of_breach: '2025-10-27'
+date_of_disclosure: '2025-10-27'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Conduent Business Solutions LLC has told state regulators that a hacking incident
+  discovered in January has affected more than 10.5 million patients. Clients
+
+
+  Source: DataBreachToday article coverage.'

@@ -1,0 +1,18 @@
+source_name: 'Breach Roundup: Chinese Chopper Hackers Attack US Agency (DataBreachToday)'
+source_url: https://www.databreachtoday.com/breach-roundup-chinese-chopper-hackers-attack-us-agency-a-29562
+date_of_breach: '2025-09-25'
+date_of_disclosure: '2025-09-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'This week, China Chopper, a U.S. DHS high value system and a global cybercrime
+  crackdown. Stellantis disclosed a breach. SolarWinds tried again. Auto insurance
+  data
+
+
+  Source: DataBreachToday article coverage.'

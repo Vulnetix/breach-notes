@@ -1,13 +1,17 @@
 source_name: DataHEALTH Third-Party Breach (March 2022)
-source_url: "https://www.jdsupra.com/legalnews/data-breach-alert-datahealth-inc-8923506/"
+source_url: https://www.jdsupra.com/legalnews/data-breach-alert-datahealth-inc-8923506/
 date_of_breach: 2022-03-01
 date_of_disclosure: 2022-03-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: "In 2022, DataHEALTH experienced a data security incident via a third-party vendor relationship. Source reporting: https://www.jdsupra.com/legalnews/data-breach-alert-datahealth-inc-8923506/"
+notes: 'Data Breach Alert: DataHEALTH, Inc. | JD Supra. Recently, DataHEALTH, Inc.
+  confirmed that certain consumer data was compromised as a result of the company
+  being the target of a ransomware attack. If you received a data breach notification,
+  it is essential you understand what is at risk. More about our investigation into
+  this breach, and what you can do if your data was stolen, is available here.'

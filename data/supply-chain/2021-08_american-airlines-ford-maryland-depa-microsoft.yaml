@@ -1,17 +1,25 @@
-source_name: American Airlines, Ford, Maryland Department of Health, New York City Municipal Transportation Authority, and the state of Indiana. Third-Party Breach (August 2021)
-source_url: "https://healthitsecurity.com/news/microsoft-data-breach-exposes-38m-records-containing-pii"
+source_name: American Airlines, Ford, Maryland Department of Health, New York City
+  Municipal Transportation Authority, and the state of Indiana. Third-Party Breach
+  (August 2021)
+source_url: https://healthitsecurity.com/news/microsoft-data-breach-exposes-38m-records-containing-pii
 date_of_breach: 2021-08-01
-date_of_disclosure: 2021-08-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-08-24'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Microsoft
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, American Airlines, Ford, Maryland Department of Health, New York City Municipal Transportation
-  Authority, and the state of Indiana. experienced a data security incident via a third-party vendor
-  relationship. The compromised third-party vendor was Microsoft. Source reporting:
-  https://healthitsecurity.com/news/microsoft-data-breach-exposes-38m-records-containing-pii
+notes: 'Microsoft Data Breach Exposes 38M Records Containing PII | TechTarget. A Microsoft
+  Power Apps data breach exposed 38M records containing PII and impacted 47 organizations,
+  including some governmental public health agencies. A Microsoft Power Apps data
+  breach exposed 38 million records containing personally identifiable information
+  (PII), according to a report from cybersecurity company UpGuard. The data breach
+  impacted 47 organizations across multiple industries, including some governmental
+  public health agencies. On May 24, 2021, an UpGuard analyst discovered that the
+  Open Data Protocols (OData) API for an organization’s Power Apps portal that contained
+  an anonymously accessible list of data. The exposed PII included names, COVID-19
+  contact tracing information, vaccination appointments, Social Security numbers,
+  employee IDs, and email addresses. Third-party company: Microsoft.'

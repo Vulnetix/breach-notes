@@ -1,16 +1,19 @@
 source_name: Samsung, Qualcomm Third-Party Breach (March 2022)
-source_url: "https://nypost.com/2022/03/07/samsung-data-breach-hackers-steal-200-gigabytes-of-info/"
+source_url: https://nypost.com/2022/03/07/samsung-data-breach-hackers-steal-200-gigabytes-of-info/
 date_of_breach: 2022-03-01
-date_of_disclosure: 2022-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-03-07'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Nvidia
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Samsung, Qualcomm experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Nvidia. Source reporting:
-  https://nypost.com/2022/03/07/samsung-data-breach-hackers-steal-200-gigabytes-of-info/
+notes: 'Samsung data breach: Hackers steal data from microchip giant Nvidia. Samsung
+  has confirmed that a hacking group which stole data from microchip giant Nvidia
+  last week has also infiltrated its systems. Samsung has confirmed that a hacking
+  group that stole data from microchip giant Nvidia last week has also infiltrated
+  its systems and leaked confidential source code and algorithms of its various technologies.
+  Lapsus$, an organization of hackers, claimed responsibility for the data breach
+  in a post on the encryption messaging platform Telegram. Third-party company: Nvidia.'

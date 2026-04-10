@@ -1,17 +1,14 @@
-source_name: Subsidiaries of Personal Touch, Personal Touch Retirement Solutions, Personal Touch Mortgage Administration Services Third-Party Breach (April 2021)
-source_url: "https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-affects-750-000-personal-touch-patients-employees-across-u-s.html"
+source_name: Subsidiaries of Personal Touch, Personal Touch Retirement Solutions,
+  Personal Touch Mortgage Administration Services Third-Party Breach (April 2021)
+source_url: https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-affects-750-000-personal-touch-patients-employees-across-u-s.html
 date_of_breach: 2021-04-01
 date_of_disclosure: 2021-04-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Personal Touch Holding Corp.
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Subsidiaries of Personal Touch, Personal Touch Retirement Solutions, Personal Touch Mortgage
-  Administration Services experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Personal Touch Holding Corp.. Source reporting:
-  https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-affects-750-000-personal-touch-patients-employees-across-u-s.html
+notes: 'Third-party company: Personal Touch Holding Corp..'

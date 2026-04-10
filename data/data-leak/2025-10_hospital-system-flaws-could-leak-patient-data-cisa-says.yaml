@@ -1,0 +1,17 @@
+source_name: Hospital System Flaws Could Leak Patient Data, CISA Says (DataBreachToday)
+source_url: https://www.databreachtoday.com/hospital-system-flaws-could-leak-patient-data-cisa-says-a-29880
+date_of_breach: '2025-10-29'
+date_of_disclosure: '2025-10-29'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'U.S. federal authorities are warning about vulnerabilities in hospital information
+  management systems from Romanian firm Vertikal Systems that could allow hackers
+
+
+  Source: DataBreachToday article coverage.'

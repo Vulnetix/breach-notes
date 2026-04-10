@@ -1,16 +1,19 @@
 source_name: AmeriGas Third-Party Breach (June 2021)
-source_url: "https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/"
+source_url: https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/
 date_of_breach: 2021-06-01
-date_of_disclosure: 2021-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-06-15'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: J. J. Keller
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, AmeriGas experienced a data security incident via a third-party vendor relationship. The compromised
-  third-party vendor was J. J. Keller. Source reporting:
-  https://www.bleepingcomputer.com/news/security/largest-us-propane-distributor-discloses-8-second-data-breach/
+notes: 'Largest US propane distributor discloses ''8-second'' data breach. America''s
+  largest propane provider, AmeriGas, has disclosed a data breach that lasted ephemerally
+  but impacted 123 employees. AmeriGas servers over 2 million customers in all 50
+  U.S. states and has over 2,500 distribution locations. This month''s data breach
+  was reported by the propane giant to the Office of the New Hampshire Attorney General.
+  This month, AmeriGas has issued a data breach notification letter to the New Hampshire
+  Attorney General''s Office. Third-party company: J. J. Keller.'

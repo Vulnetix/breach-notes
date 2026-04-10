@@ -1,16 +1,17 @@
-source_name: CallX Customers (possibly Lendingtree, Liberty Mutual Insurance and Vivint among the clients) Third-Party Breach (April 2021)
-source_url: "https://www.infosecurity-magazine.com/news/telemarketing-biz-exposes-114000/"
+source_name: CallX Customers (possibly Lendingtree, Liberty Mutual Insurance and Vivint
+  among the clients) Third-Party Breach (April 2021)
+source_url: https://www.infosecurity-magazine.com/news/telemarketing-biz-exposes-114000/
 date_of_breach: 2021-04-01
-date_of_disclosure: 2021-04-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-03-03'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CallX
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, CallX Customers (possibly Lendingtree, Liberty Mutual Insurance and Vivint among the clients)
-  experienced a data security incident via a third-party vendor relationship. The compromised third-party vendor
-  was CallX. Source reporting: https://www.infosecurity-magazine.com/news/telemarketing-biz-exposes-114000/
+notes: 'US Telemarketing Biz Exposes 114,000 in Cloud Config Error. Call recordings
+  of clients and customers on unsecured bucket. A US telemarketing company has leaked
+  the personal details of potentially tens of thousands of consumers after misconfiguring
+  a cloud storage bucket, Infosecurity can reveal. Third-party company: CallX.'

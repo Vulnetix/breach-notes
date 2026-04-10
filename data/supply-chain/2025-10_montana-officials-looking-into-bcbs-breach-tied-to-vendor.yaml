@@ -1,0 +1,18 @@
+source_name: Montana Officials Looking Into BCBS Breach Tied to Vendor (DataBreachToday)
+source_url: https://www.databreachtoday.com/montana-officials-looking-into-bcbs-breach-tied-to-vendor-a-29810
+date_of_breach: '2025-10-23'
+date_of_disclosure: '2025-10-23'
+date_of_customer_notification: ''
+category: supply-chain
+initial_attack_vector: Third-party / vendor compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Montana regulators are investigating a breach affecting 462,000 Blue Cross
+  Blue Shield of Montana members involving one of the insurer''s service providers.
+  The
+
+
+  Source: DataBreachToday article coverage.'

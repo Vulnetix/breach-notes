@@ -1,16 +1,19 @@
 source_name: Canada Post Third-Party Breach (May 2021)
-source_url: "https://www.bleepingcomputer.com/news/security/canada-post-hit-by-data-breach-after-supplier-ransomware-attack/"
+source_url: https://www.bleepingcomputer.com/news/security/canada-post-hit-by-data-breach-after-supplier-ransomware-attack/
 date_of_breach: 2021-05-01
-date_of_disclosure: 2021-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-05-27'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CommPort Communications
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Canada Post experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was CommPort Communications. Source reporting:
-  https://www.bleepingcomputer.com/news/security/canada-post-hit-by-data-breach-after-supplier-ransomware-attack/
+notes: 'Canada Post hit by data breach after supplier ransomware attack. Canada Post
+  has informed 44 of its large commercial customers that a ransomware attack on a
+  third-party service provider exposed shipping information for their customers. ​Canada
+  Post has informed 44 of its large commercial customers that a ransomware attack
+  on a third-party service provider exposed shipping information for their customers.
+  Canada Post is the primary postal operator in Canada, serving 16.5 million Canadian
+  residential and business addresses. Third-party company: CommPort Communications.'

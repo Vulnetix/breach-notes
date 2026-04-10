@@ -1,0 +1,17 @@
+source_name: US Warns of Ongoing Pro-Russia Critical Infrastructure Hacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/us-warns-ongoing-pro-russia-critical-infrastructure-hacks-a-30263
+date_of_breach: '2025-12-11'
+date_of_disclosure: '2025-12-11'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'U.S. and allied agencies warned of low-skill Russian-linked hacktivists breaching
+  critical infrastructure by exploiting weak remote access tools, as federal
+
+
+  Source: DataBreachToday article coverage.'

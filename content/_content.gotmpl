@@ -1,11 +1,16 @@
 {{- $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
 {{- range $cat := $cats }}
   {{- range $key, $breach := index site.Data $cat }}
+    {{- $sn := $breach.source_name | default "" }}
+    {{- if not (strings.Contains $sn "(DataBreachToday)") }}
+    {{- if not (strings.Contains $sn "(ISMG") }}
     {{- $.AddPage (dict
       "path"   (printf "%s/%s" $cat $key)
       "title"  $breach.source_name
       "type"   "breach"
       "params" $breach
     )}}
+    {{- end }}
+    {{- end }}
   {{- end }}
 {{- end }}

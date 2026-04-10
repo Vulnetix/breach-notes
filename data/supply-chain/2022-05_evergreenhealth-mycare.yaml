@@ -1,16 +1,22 @@
 source_name: EvergreenHealth Third-Party Breach (May 2022)
-source_url: "https://healthitsecurity.com/news/illinois-gastroenterology-group-data-breach-impacts-228k"
+source_url: https://healthitsecurity.com/news/illinois-gastroenterology-group-data-breach-impacts-228k
 date_of_breach: 2022-05-01
-date_of_disclosure: 2022-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-05-09'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: MyCare
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, EvergreenHealth experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was MyCare. Source reporting:
-  https://healthitsecurity.com/news/illinois-gastroenterology-group-data-breach-impacts-228k
+notes: 'Illinois Gastroenterology Group Data Breach Impacts 228K | TechTarget. Optima
+  Dermatology, EvergreenHealth, and SAC Health also faced healthcare data breaches
+  recently. Illinois Gastroenterology Group (IGG) suffered a data security incident
+  that potentially impacted 227,943 individuals. IGG discovered unusual network activity
+  on October 22, 2021. On November 18, IGG determined that an unauthorized actor had
+  gained access to its systems and that “information contained in those systems may
+  have been viewed or taken.”. The systems contained names, birth dates, Social Security
+  numbers, driver’s license numbers, passport information, financial account information,
+  addresses, payment card information, biometric data, employer-assigned identification
+  numbers, and medical information. Third-party company: MyCare.'

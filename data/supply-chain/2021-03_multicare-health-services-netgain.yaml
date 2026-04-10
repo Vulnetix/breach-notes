@@ -1,16 +1,13 @@
 source_name: Multicare Health Services Third-Party Breach (March 2021)
-source_url: "https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-exposed-info-of-210k-multicare-patients-providers-workers.html"
+source_url: https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-exposed-info-of-210k-multicare-patients-providers-workers.html
 date_of_breach: 2021-03-01
 date_of_disclosure: 2021-03-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Netgain
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Multicare Health Services experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was Netgain. Source reporting:
-  https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-exposed-info-of-210k-multicare-patients-providers-workers.html
+notes: 'Third-party company: Netgain.'

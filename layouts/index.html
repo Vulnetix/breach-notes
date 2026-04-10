@@ -19,7 +19,13 @@
             {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
             {{ range $cats }}
                 {{ with index hugo.Data . }}
-                    {{ $total = add $total (len .) }}
+                    {{ range $k, $b := . }}
+                        {{ if not (strings.Contains ($b.source_name | default "") "(DataBreachToday)") }}
+                        {{ if not (strings.Contains ($b.source_name | default "") "(ISMG") }}
+                        {{ $total = add $total 1 }}
+                        {{ end }}
+                        {{ end }}
+                    {{ end }}
                 {{ end }}
             {{ end }}
             <div class="stat-card">
@@ -32,9 +38,13 @@
             {{ range $cats }}
                 {{ with index hugo.Data . }}
                     {{ range $k, $b := . }}
+                        {{ if not (strings.Contains ($b.source_name | default "") "(DataBreachToday)") }}
+                        {{ if not (strings.Contains ($b.source_name | default "") "(ISMG") }}
                         {{ with $b.cve }}{{ $cveCount = add $cveCount 1 }}{{ end }}
                         {{ with $b.malware }}{{ $malwareCount = add $malwareCount 1 }}{{ end }}
                         {{ if $b.supply_chain_claimed }}{{ $supplyChainCount = add $supplyChainCount 1 }}{{ end }}
+                        {{ end }}
+                        {{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}
@@ -67,6 +77,8 @@
                 {{ $cat := . }}
                 {{ with index hugo.Data $cat }}
                     {{ range $key, $breach := . }}
+                        {{ if not (strings.Contains ($breach.source_name | default "") "(DataBreachToday)") }}
+                        {{ if not (strings.Contains ($breach.source_name | default "") "(ISMG") }}
                         {{ with $breach.date_of_breach }}
                             {{ $recent = $recent | append (dict
                                 "breach" $breach
@@ -74,6 +86,8 @@
                                 "key" $key
                                 "date" $breach.date_of_breach
                             ) }}
+                        {{ end }}
+                        {{ end }}
                         {{ end }}
                     {{ end }}
                 {{ end }}

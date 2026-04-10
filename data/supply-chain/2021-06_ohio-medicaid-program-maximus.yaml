@@ -1,16 +1,20 @@
 source_name: Ohio Medicaid Program Third-Party Breach (June 2021)
-source_url: "https://www.jdsupra.com/legalnews/ohio-medicaid-providers-personal-5860743/"
+source_url: https://www.jdsupra.com/legalnews/ohio-medicaid-providers-personal-5860743/
 date_of_breach: 2021-06-01
 date_of_disclosure: 2021-06-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Maximus
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Ohio Medicaid Program experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Maximus. Source reporting:
-  https://www.jdsupra.com/legalnews/ohio-medicaid-providers-personal-5860743/
+notes: 'Ohio Medicaid Providers’ Personal Information Exposed by Vendor | JD Supra.
+  Maximus, a contractor of the State of Ohio’s Medicaid program reported this week
+  that it experienced a data breach that exposed Medicaid health. The incident involved
+  unauthorized access to Maximus’s application that housed Ohio providers’ credentialing
+  and licensing data. The Medicaid health care providers were notified of the incident
+  by Maximus on June 18, and were offered two years of credit monitoring. After everything
+  health care providers have gone through in the last year with COVID, this is the
+  last piece of news they want to hear. Third-party company: Maximus.'

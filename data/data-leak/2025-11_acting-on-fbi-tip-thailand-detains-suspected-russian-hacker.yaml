@@ -1,0 +1,18 @@
+source_name: Acting on FBI Tip, Thailand Detains Suspected Russian Hacker (DataBreachToday)
+source_url: https://www.databreachtoday.com/acting-on-fbi-tip-thailand-detains-suspected-russian-hacker-a-30047
+date_of_breach: '2025-11-17'
+date_of_disclosure: '2025-11-17'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Police in Thailand have arrested a Russian citizen suspected of launching
+  hack attacks against targets around the world, who''s wanted by the FBI. While the
+  suspect
+
+
+  Source: DataBreachToday article coverage.'

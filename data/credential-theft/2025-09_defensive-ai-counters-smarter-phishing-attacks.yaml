@@ -1,0 +1,17 @@
+source_name: Defensive AI Counters Smarter Phishing Attacks (DataBreachToday)
+source_url: https://www.databreachtoday.com/defensive-ai-counters-smarter-phishing-attacks-a-29547
+date_of_breach: '2025-09-25'
+date_of_disclosure: '2025-09-25'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Attackers now exploit AI to design phishing emails that appear flawless. Kevin
+  Leusing of Proofpoint outlines how anomaly detection, strong policies and user
+
+
+  Source: DataBreachToday article coverage.'

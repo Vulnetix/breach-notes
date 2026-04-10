@@ -3,7 +3,11 @@
 {{ $breaches := slice }}
 {{ with index hugo.Data $section }}
     {{ range $key, $b := . }}
+        {{ if not (strings.Contains ($b.source_name | default "") "(DataBreachToday)") }}
+        {{ if not (strings.Contains ($b.source_name | default "") "(ISMG") }}
         {{ $breaches = $breaches | append (dict "key" $key "breach" $b "date" $b.date_of_breach) }}
+        {{ end }}
+        {{ end }}
     {{ end }}
 {{ end }}
 {{ $sorted := sort $breaches "date" "desc" }}

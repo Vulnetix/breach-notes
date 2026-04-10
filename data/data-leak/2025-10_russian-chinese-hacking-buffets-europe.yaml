@@ -1,0 +1,17 @@
+source_name: Russian, Chinese Hacking Buffets Europe (DataBreachToday)
+source_url: https://www.databreachtoday.com/russian-chinese-hacking-buffets-europe-a-29616
+date_of_breach: '2025-10-01'
+date_of_disclosure: '2025-10-01'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Nearly every member government of the European Union experienced a cyberattack
+  from a nation-state hacker in the 12 months ending in July, primarily from Russian
+
+
+  Source: DataBreachToday article coverage.'

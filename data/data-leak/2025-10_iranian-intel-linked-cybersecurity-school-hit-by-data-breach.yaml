@@ -1,0 +1,17 @@
+source_name: Iranian Intel-Linked Cybersecurity School Hit by Data Breach (DataBreachToday)
+source_url: https://www.databreachtoday.com/iranian-intel-linked-cybersecurity-school-hit-by-data-breach-a-29846
+date_of_breach: '2025-10-27'
+date_of_disclosure: '2025-10-27'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A public database of internal records from Iran''s Ravin Academy - a cyber
+  school linked to the Ministry of Intelligence - has been published online, exposing
+
+
+  Source: DataBreachToday article coverage.'

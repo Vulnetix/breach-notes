@@ -1,0 +1,18 @@
+source_name: New Chinese Espionage Hacking Group Uncovered (DataBreachToday)
+source_url: https://www.databreachtoday.com/new-chinese-espionage-hacking-group-uncovered-a-29569
+date_of_breach: '2025-09-25'
+date_of_disclosure: '2025-09-25'
+date_of_customer_notification: ''
+category: data-leak
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'A hacking group associated with widespread compromise of edge devices is a
+  Chinese-state-aligned group, says cybersecurity firm Recorded Future. The firm says
+  the
+
+
+  Source: DataBreachToday article coverage.'

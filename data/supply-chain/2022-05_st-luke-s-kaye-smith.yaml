@@ -1,16 +1,20 @@
-source_name: "St. Luke's Third-Party Breach (May 2022)"
-source_url: "https://boisedev.com/news/2022/07/27/st-lukes-data-breach/"
+source_name: St. Luke's Third-Party Breach (May 2022)
+source_url: https://boisedev.com/news/2022/07/27/st-lukes-data-breach/
 date_of_breach: 2022-05-01
-date_of_disclosure: 2022-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-07-28'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Kaye-Smith
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, St. Luke's experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Kaye-Smith. Source reporting:
-  https://boisedev.com/news/2022/07/27/st-lukes-data-breach/
+notes: 'St. Luke''s says customers hit with data breach that may have exposed personal,
+  financial, medical information. St. Luke’s Health System issued a news release Wednesday
+  saying an unknown number of patients were impacted by a data breach. The hospital
+  system said a breach at vendor Kaye-Smith may have exposed a wide array of information,
+  including patient name, insured name, address, phone number, ID number, date of
+  birth, last five digits of […]. St. Luke’s said the breach happened in late May,
+  and impacted customers billed in that same month. The vendor discovered the breach
+  in June and informed St. Luke’s on July 6th. Third-party company: Kaye-Smith.'

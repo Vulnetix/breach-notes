@@ -1,17 +1,19 @@
 source_name: Harbor Regional Health Third-Party Breach (June 2021)
-source_url: |-
-            https://www.kxro.com/data-breach-with-harbor-regional-health-vendor-potentially-affected-patients-contacted/#:~:text=Harbor%20Regional%20Health%20has%20announced,by%20the%20local%20medical%20group.&text=The%20medical%20group%20says%20that,certain%20of%20its%20electronic%20files
+source_url: https://www.kxro.com/data-breach-with-harbor-regional-health-vendor-potentially-affected-patients-contacted/#:~:text=Harbor%20Regional%20Health%20has%20announced,by%20the%20local%20medical%20group.&text=The%20medical%20group%20says%20that,certain%20of%20its%20electronic%20files
 date_of_breach: 2021-06-01
-date_of_disclosure: 2021-06-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-06-03'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: CaptureRX
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Harbor Regional Health experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was CaptureRX. Source reporting:
-  https://www.kxro.com/data-breach-with-harbor-regional-health-vendor-potentially-affected-patients-contacted/#:~:text=Harbor%20Regional%20Health%20has%20announced,by%20the%20local%20medical%20group.&text=The%20medical%20group%20says%20that,certain%20of%20its%20electronic%20files
+notes: 'Data breach with Harbor Regional Health vendor; potentially affected patients
+  contacted. [](http://www.kxro.com/#facebook)[](http://www.kxro.com/#twitter)Share.
+  Harbor Regional Health has announced that they were made aware of a data breach
+  within CaptureRx, a vendor used by the local medical group. According to the release,
+  CaptureRx is is used to handle tasks associated with 340B compliance, and helps
+  HRH’s Medicare and Medicaid patients access reduced drug prices on eligible prescriptions.
+  Third-party company: CaptureRX.'

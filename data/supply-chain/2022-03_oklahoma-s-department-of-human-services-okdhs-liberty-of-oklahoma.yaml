@@ -1,16 +1,16 @@
-source_name: "Oklahoma's Department of Human Services (OKDHS) Third-Party Breach (March 2022)"
-source_url: "https://thecyberwire.com/newsletters/privacy-briefing/4/42"
+source_name: Oklahoma's Department of Human Services (OKDHS) Third-Party Breach (March
+  2022)
+source_url: https://thecyberwire.com/newsletters/privacy-briefing/4/42
 date_of_breach: 2022-03-01
-date_of_disclosure: 2022-03-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-03-03'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Liberty of Oklahoma
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Oklahoma's Department of Human Services (OKDHS) experienced a data security incident via a
-  third-party vendor relationship. The compromised third-party vendor was Liberty of Oklahoma. Source reporting:
-  https://thecyberwire.com/newsletters/privacy-briefing/4/42
+notes: 'Report shows pandemic increased risk to Telco employee data. Third-party breach
+  exposes data of Oklahoma''s Department of Human Services clients. Third-party company:
+  Liberty of Oklahoma.'

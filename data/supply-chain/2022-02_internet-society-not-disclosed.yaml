@@ -1,15 +1,21 @@
 source_name: Internet Society Third-Party Breach (February 2022)
-source_url: "https://securityboulevard.com/2022/02/80000-isoc-members-affected-in-third-party-data-breach/"
+source_url: https://securityboulevard.com/2022/02/80000-isoc-members-affected-in-third-party-data-breach/
 date_of_breach: 2022-02-01
-date_of_disclosure: 2022-02-01
-date_of_customer_notification: ""
+date_of_disclosure: '2022-02-17'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Not disclosed
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2022, Internet Society experienced a data security incident via a third-party vendor relationship. Source
-  reporting: https://securityboulevard.com/2022/02/80000-isoc-members-affected-in-third-party-data-breach/
+notes: Recently, the Internet Society, a non-profit organization dedicated to keeping
+  the internet open and secure, experienced an extensive third party The post 80,000+
+  ISOC Members Affected in Third Party Data Breach appeared first on Sonrai Security.
+  Home » Cybersecurity » Data Security » 80,000+ ISOC Members Affected in Third Party
+  Data Breach. It is uncertain how long this data was publicly available, but after
+  the security firm, Clairo, made the discovery, the repository was secured a week
+  later. The Internet Society reportedly took action immediately to investigate the
+  situation. Furthermore, they report no evidence of malicious access to member data,
+  but the incident remains monitored.

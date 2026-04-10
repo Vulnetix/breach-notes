@@ -1,17 +1,25 @@
-source_name: AC Health Systems and San Diego Family Care (SDFC), CareSouth Carolina, Health Center Partners of Southern California Third-Party Breach (May 2021)
-source_url: "https://healthitsecurity.com/news/ransomware-hits-scripps-health-disrupting-critical-care-online-portal"
+source_name: AC Health Systems and San Diego Family Care (SDFC), CareSouth Carolina,
+  Health Center Partners of Southern California Third-Party Breach (May 2021)
+source_url: https://healthitsecurity.com/news/ransomware-hits-scripps-health-disrupting-critical-care-online-portal
 date_of_breach: 2021-05-01
-date_of_disclosure: 2021-05-01
-date_of_customer_notification: ""
+date_of_disclosure: '2021-05-03'
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Netgain
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, AC Health Systems and San Diego Family Care (SDFC), CareSouth Carolina, Health Center Partners of
-  Southern California experienced a data security incident via a third-party vendor relationship. The
-  compromised third-party vendor was Netgain. Source reporting:
-  https://healthitsecurity.com/news/ransomware-hits-scripps-health-disrupting-critical-care-online-portal
+notes: 'Ransomware Hits Scripps Health, Disrupting Critical Care, Online Portal |
+  TechTarget. This week&#039;s breach roundup is led by a ransomware attack on Scripps
+  Health. The cyberattack over the weekend has resulted in EHR downtime procedures
+  and the diversion of trauma patients. Scripps Health in San Diego was hit by a ransomware
+  attack over the weekend, forcing the health system into EHR downtime. Some critical
+  care patients were diverted and the online patient portal has been taken offline,
+  according to local news outlet San Diego Union-Tribune. Monday appointments were
+  also postponed due to the cyberattack, which disrupted operations at two of Scripps’
+  four main hospitals and backup servers that reside in Arizona. Providers and other
+  clinicians are leveraging paper records, as telemetry has been impacted at most
+  care sites. Access to medical imaging also appears to be down. Third-party company:
+  Netgain.'

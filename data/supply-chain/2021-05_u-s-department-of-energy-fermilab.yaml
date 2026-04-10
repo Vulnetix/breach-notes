@@ -1,16 +1,18 @@
 source_name: U.S. Department of Energy Third-Party Breach (May 2021)
-source_url: "https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536"
+source_url: https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536
 date_of_breach: 2021-05-01
 date_of_disclosure: 2021-05-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: Fermilab
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, U.S. Department of Energy experienced a data security incident via a third-party vendor relationship.
-  The compromised third-party vendor was Fermilab. Source reporting:
-  https://www.govinfosecurity.com/us-physics-laboratory-exposed-documents-credentials-a-16536
+notes: 'US Physics Laboratory Exposed Documents, Credentials. The Fermilab physics
+  laboratory in the U.S. has tidied up its systems after security researchers found
+  weaknesses exposing documents, proprietary applications,. Critical Infrastructure
+  Security , Governance & Risk Management , IT Risk Management. See Also: Unlocking
+  the Power of Cyber Threat Intelligence (CTI): A Practical Guide with Bitsight. Third-party
+  company: Fermilab.'

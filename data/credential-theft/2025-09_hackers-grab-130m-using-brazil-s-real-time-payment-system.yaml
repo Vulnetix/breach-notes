@@ -1,0 +1,17 @@
+source_name: Hackers Grab $130M Using Brazil's Real-Time Payment System (DataBreachToday)
+source_url: https://www.databreachtoday.com/hackers-grab-130m-using-brazils-real-time-payment-system-a-29352
+date_of_breach: '2025-09-03'
+date_of_disclosure: '2025-09-03'
+date_of_customer_notification: ''
+category: credential-theft
+initial_attack_vector: Credential theft or account compromise
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Attackers used valid credentials for financial technology provider Sinqia
+  to steal $130 million from two financial services firms in Brazil, using the country''s
+
+
+  Source: DataBreachToday article coverage.'

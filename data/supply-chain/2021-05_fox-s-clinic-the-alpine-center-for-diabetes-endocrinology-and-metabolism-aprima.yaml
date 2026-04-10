@@ -1,16 +1,20 @@
-source_name: "Fox's clinic, the Alpine Center for Diabetes, Endocrinology and Metabolism Third-Party Breach (May 2021)"
-source_url: "https://www.healthcareitnews.com/news/reported-ransomware-attack-leads-weeks-aprima-ehr-outages"
+source_name: Fox's clinic, the Alpine Center for Diabetes, Endocrinology and Metabolism
+  Third-Party Breach (May 2021)
+source_url: https://www.healthcareitnews.com/news/reported-ransomware-attack-leads-weeks-aprima-ehr-outages
 date_of_breach: 2021-05-01
 date_of_disclosure: 2021-05-01
-date_of_customer_notification: ""
+date_of_customer_notification: ''
 category: supply-chain
 initial_attack_vector: Compromise of third-party service provider / vendor relationship
 cve: []
 vendor_product: APRIMA
-software_package: ""
-malware: ""
+software_package: ''
+malware: ''
 supply_chain_claimed: true
-notes: |-
-  In 2021, Fox's clinic, the Alpine Center for Diabetes, Endocrinology and Metabolism experienced a data
-  security incident via a third-party vendor relationship. The compromised third-party vendor was APRIMA. Source
-  reporting: https://www.healthcareitnews.com/news/reported-ransomware-attack-leads-weeks-aprima-ehr-outages
+notes: 'Reported ransomware attack leads to weeks of Aprima EHR outages. Some customers
+  describe being unable to access their clinic schedules, chart notes, refill requests
+  or incoming test results, among other issues. [This piece has been updated to include
+  additional user experiences with the outage.]. A reported ransomware attack on the
+  CompuGroup Medical data center partner, MedNetwoRX, has impeded some customers''
+  access to their Aprima electronic health record systems for more than two weeks.
+  Third-party company: APRIMA.'

@@ -1,8 +1,8 @@
 // Hacker-themed JavaScript effects
 document.addEventListener('DOMContentLoaded', function() {
     createBinaryRain();
-    addTerminalCursors();
     addGlitchEffects();
+    addTerminalCursors();
     addLinkHoverEffects();
 });
 
@@ -126,7 +126,7 @@ function addTerminalCursors() {
 
 // ── CSS glitch on headings ────────────────────────────────────
 function addGlitchEffects() {
-    const headings = document.querySelectorAll('.home-title, .section-title, .breach-title');
+    const headings = document.querySelectorAll('.site-title, .section-title, .breach-title');
     headings.forEach(h => {
         h.setAttribute('data-text', h.textContent.trim());
         h.classList.add('glitch');

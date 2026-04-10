@@ -29,6 +29,11 @@ a:hover {
 }
 
 /* Header Styles */
+main {
+    position: relative;
+    z-index: 1;
+}
+
 .site-header {
     background: rgba(0, 0, 0, 0.8);
     padding: 1.5rem 0;

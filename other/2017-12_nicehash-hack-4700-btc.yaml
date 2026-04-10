@@ -1,0 +1,13 @@
+source_name: "NiceHash Cryptocurrency Mining Marketplace Hack — ~4,736 BTC (~$64M)"
+source_url: "https://www.bleepingcomputer.com/news/security/nicehash-hacked-bitcoin-payment-service-loses-around-64-million-in-bitcoin/"
+date_of_breach: "2017-12-06"
+date_of_disclosure: "2017-12-07"
+date_of_customer_notification: "2017-12-07"
+category: "other"
+initial_attack_vector: "Social engineering of a NiceHash employee; attackers obtained the employee's credentials (likely via spearphishing), used them to access NiceHash internal systems, and ultimately gained access to the payment system's Bitcoin wallet private keys, draining the entire contents of the company's payment wallet in a single transaction"
+cve: []
+vendor_product: "NiceHash (Slovenian cryptocurrency mining marketplace)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On December 6, 2017, NiceHash — a platform where users sell their computing power for cryptocurrency mining — halted operations after discovering that its internal payment system had been compromised and approximately 4,736.42 BTC (worth approximately $64 million at the time) had been drained from its Bitcoin payment wallet in a single transaction to an external address. NiceHash CEO Marko Kobal confirmed the breach the following day, attributing it to a compromised employee laptop or credentials. The stolen funds represented the entire contents of NiceHash's payment wallet, which held funds belonging to both mining sellers awaiting payment and mining buyers. NiceHash promised to repay affected users and launched an investigation in conjunction with Slovenian authorities and the FBI. NiceHash ultimately reimbursed 100% of affected users by February 2018 using company funds. The attack was later attributed to Lazarus Group (North Korea) by US and European security researchers based on bitcoin transaction patterns and infrastructure overlaps with other Lazarus operations. The UK's National Cyber Security Centre (NCSC) and other agencies attributed the theft to Lazarus in broader 2019 and 2020 reports on North Korean cryptocurrency theft. The NiceHash hack was part of a broad pattern of Lazarus Group cryptocurrency exchange hacks during 2017-2018 that collectively netted North Korea hundreds of millions of dollars used to fund weapons programs."

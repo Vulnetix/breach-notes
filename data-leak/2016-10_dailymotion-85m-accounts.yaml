@@ -1,0 +1,13 @@
+source_name: "Dailymotion Data Breach — 85.2M Email Addresses and Hashed Passwords"
+source_url: "https://www.leakedsource.com/blog/dailymotion"
+date_of_breach: "2016-10-20"
+date_of_disclosure: "2016-12-06"
+date_of_customer_notification: "2016-12-06"
+category: "data-leak"
+initial_attack_vector: "Database compromise of Dailymotion's user account database; the specific initial access vector was not publicly disclosed"
+cve: []
+vendor_product: "Dailymotion (French video-sharing platform, owned by Vivendi)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On December 6, 2016, data breach tracking service LeakedSource reported that a dataset containing 85.2 million Dailymotion user records had been offered for sale and contained data from a breach believed to have occurred on or around October 20, 2016. The dataset contained email addresses for all 85.2 million records, and approximately 18.3 million of those records also included bcrypt-hashed passwords. The remaining accounts did not have passwords in the dataset, suggesting those users had registered via social login (Facebook, Google, etc.) rather than using a Dailymotion-native password. Dailymotion acknowledged the breach and began resetting passwords for affected users. The company stated it had strengthened its security systems following discovery. The precise attack vector was not disclosed. At the time, Dailymotion was one of the world's largest video platforms, competing with YouTube and Vimeo, making this one of the larger media platform breaches of the era. The use of bcrypt for password hashing was considered a positive security practice compared to many contemporaneous breaches."

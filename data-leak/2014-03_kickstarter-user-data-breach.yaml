@@ -1,0 +1,13 @@
+source_name: "Kickstarter User Data Breach — Usernames, Emails, Hashed Passwords"
+source_url: "https://www.kickstarter.com/blog/important-kickstarter-security-notice"
+date_of_breach: "2014-02-12"
+date_of_disclosure: "2014-02-15"
+date_of_customer_notification: "2014-02-15"
+category: "data-leak"
+initial_attack_vector: "SQL injection attack against Kickstarter's database; law enforcement notified Kickstarter of the unauthorized access on February 12, 2014"
+cve: []
+vendor_product: "Kickstarter (crowdfunding platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On February 12, 2014, Kickstarter was notified by law enforcement that its database had been accessed by unauthorized attackers via a SQL injection vulnerability. Kickstarter disclosed the breach to its users on February 15, 2014. The compromised data included usernames, email addresses, mailing addresses, phone numbers, and encrypted passwords. Kickstarter used bcrypt for most passwords but older accounts had SHA-1 hashed passwords without salting. Kickstarter stated that no credit card data was compromised (payment processing was handled by third parties outside the compromised database). The company did not disclose the exact number of accounts affected. Two Kickstarter accounts were found to have been accessed using stolen credentials, and Kickstarter immediately reset those accounts. The company required all users to create new passwords on their next login. Kickstarter's relatively quick disclosure (within days of receiving law enforcement notification) and its use of bcrypt for password hashing were noted as positive security practices, in contrast to many contemporaneous breaches. The incident prompted Kickstarter to implement additional security measures including two-factor authentication options."

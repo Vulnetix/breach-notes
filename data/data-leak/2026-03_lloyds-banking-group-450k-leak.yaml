@@ -1,0 +1,13 @@
+source_name: "Lloyds Banking Group Data Leak — 450,000 Customer Records Exposed"
+source_url: "https://www.databreachtoday.com/breach-roundup-feds-confirm-major-hack-fbi-system-a-31329"
+date_of_breach: "2026-03-01"
+date_of_disclosure: "2026-04-02"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Customer data belonging to Lloyds Banking Group was exposed or leaked; the specific mechanism — whether a direct breach of Lloyds systems, a third-party vendor incident, or an insider leak — was not confirmed at time of initial reporting; approximately 450,000 customer records were involved"
+cve: []
+vendor_product: "Lloyds Banking Group customer data systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early April 2026, a data leak affecting approximately 450,000 Lloyds Banking Group customers was reported, with details emerging in DataBreachToday's weekly breach roundup. Lloyds Banking Group is the UK's largest domestic bank by assets, serving approximately 30 million customers across its brands including Lloyds Bank, Halifax, and Bank of Scotland. The exposed records contained personal and financial customer information; exact data types were not confirmed at time of initial reporting. Lloyds Banking Group is regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority (PRA) in the UK, and is required to notify the UK ICO under GDPR/UK GDPR within 72 hours of becoming aware of a breach likely to result in risk to individuals. The incident occurred during a period of heightened UK financial sector cyber activity in 2026. Previous notable UK banking incidents include the TSB IT migration disaster (2018), and various credential stuffing attacks against online banking platforms. A breach at Lloyds — as the UK's largest retail bank — carries significant systemic risk concerns given the institution's scale and the sensitivity of financial data for nearly a quarter of the UK population."

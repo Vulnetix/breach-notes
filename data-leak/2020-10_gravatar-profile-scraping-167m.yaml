@@ -1,0 +1,13 @@
+source_name: "Gravatar Profile Data Scraping — 167M User Records"
+source_url: "https://www.bleepingcomputer.com/news/security/167-million-user-gravatar-data-breach-added-to-have-i-been-pwned/"
+date_of_breach: "2020-10-03"
+date_of_disclosure: "2020-10-07"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Systematic API/web scraping of Gravatar's public-facing user profile API endpoint; Gravatar's service is designed to return publicly accessible profile information (username, display name, avatar, location, biographical info) for any user by querying their MD5-hashed email address — attackers enumerated MD5 hashes of email addresses to harvest profiles at scale, then cracked the weak MD5 email hashes to obtain the original email addresses"
+cve: []
+vendor_product: "Gravatar (Globally Recognized Avatar service, operated by Automattic)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In October 2020, security researcher Carlo di Dato published details of a dataset containing 167 million Gravatar user records obtained by systematically scraping Gravatar's public API. Gravatar is a service operated by Automattic (makers of WordPress.com) that provides universally recognized avatar images and profile information; when a user signs up for any website that supports Gravatar, their avatar and profile are associated with the MD5 hash of their email address. The dataset included usernames, display names, and MD5-hashed email addresses — all technically public information by Gravatar's design. However, security researchers demonstrated that MD5 hashes of email addresses are trivially reversible (MD5 is cryptographically broken and email address space is limited enough to brute-force), effectively exposing the underlying email addresses. Troy Hunt added the dataset to Have I Been Pwned in October 2020 after determining it had been widely distributed. Automattic disputed calling it a 'breach,' arguing all data was publicly accessible by design. The incident highlighted the privacy risks of services that expose public profile data without rate limiting or scraping protections, and the weakness of using MD5-hashed email addresses as 'pseudonymous' identifiers. The dataset was subsequently used in credential stuffing attacks and phishing campaigns targeting WordPress site administrators and bloggers whose email addresses were newly exposed."

@@ -1,0 +1,13 @@
+source_name: "Tumblr Breach — 65.5M Email Addresses and Passwords (2013, Discovered 2016)"
+source_url: "https://staff.tumblr.com/post/144263069415/a-note-about-privacy"
+date_of_breach: "2013-05-01"
+date_of_disclosure: "2016-05-12"
+date_of_customer_notification: "2016-05-12"
+category: "data-leak"
+initial_attack_vector: "Database compromise; the breach occurred in early 2013 but was not disclosed until the dataset appeared for sale on dark web markets in May 2016 — Tumblr was notified by threat intelligence company Mapbox subsidiary Haveibeenpwned/Troy Hunt; the original attack vector was not publicly identified due to the three-year delay"
+cve: []
+vendor_product: "Tumblr (microblogging and social media platform, owned by Yahoo at time of disclosure)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In May 2016, a dataset containing 65.5 million Tumblr user email addresses and hashed passwords appeared for sale on dark web markets, offered by the same seller ('peace_of_mind') who was simultaneously selling data from LinkedIn (117M), MySpace (360M), and other major platforms. The data was traced to a breach that had occurred in early 2013 — approximately three years before discovery. Tumblr (then owned by Yahoo, which had acquired it in 2013) disclosed the breach on May 12, 2016. The passwords were hashed using SHA-1, a weak hashing algorithm, though Tumblr stated that many passwords were salted. Tumblr required affected users to set new passwords upon next login. Yahoo/Tumblr did not disclose the precise initial attack vector due to the multi-year delay before discovery. The breach was part of a wave of 2013-era social media breaches surfacing simultaneously in 2016 from the same seller, collectively affecting hundreds of millions of users. The incident illustrated the lasting consequences of 2013-era password storage practices and the difficulty of determining breach timelines years after the fact."

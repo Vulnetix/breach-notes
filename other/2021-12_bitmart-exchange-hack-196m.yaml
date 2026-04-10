@@ -1,0 +1,13 @@
+source_name: "BitMart Exchange Hack — $196M Hot Wallet Theft"
+source_url: "https://bitmart.com/en/blog/en-bit-mart-security-breach-update"
+date_of_breach: "2021-12-04"
+date_of_disclosure: "2021-12-05"
+date_of_customer_notification: "2021-12-05"
+category: "other"
+initial_attack_vector: "Theft of private keys for two of BitMart's hot wallets — one on Ethereum and one on Binance Smart Chain; the exact method of key compromise was not publicly disclosed by BitMart"
+cve: []
+vendor_product: "BitMart (cryptocurrency exchange, Cayman Islands)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On December 4, 2021, security firm PeckShield identified large unauthorized outflows from BitMart's hot wallets totaling approximately $196 million — approximately $100 million from its Ethereum hot wallet and $96 million from its Binance Smart Chain hot wallet. BitMart CEO Sheldon Xia initially described the breach as a 'small-scale security breach' on Twitter, but later acknowledged the full $196 million figure. The attacker used 1inch (a DEX aggregator) to convert the stolen tokens into Ethereum before mixing them through Tornado Cash. BitMart suspended withdrawals and deposits while conducting an investigation and security audit. Xia announced that BitMart would use its own funds to compensate all affected users — a significant commitment given the scale of the loss. The exchange resumed deposits and withdrawals for most tokens by December 10, 2021. The precise method by which the private keys were stolen was never publicly disclosed. No public attribution to a specific threat actor was made. The BitMart hack occurred during a period of intense cryptocurrency exchange and DeFi hacking activity in late 2021, underscoring the persistent risk of centralized exchange hot wallet custody."

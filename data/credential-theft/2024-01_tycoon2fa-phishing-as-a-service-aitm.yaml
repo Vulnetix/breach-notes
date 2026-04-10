@@ -1,0 +1,13 @@
+source_name: "Tycoon2FA Phishing-as-a-Service Platform — AiTM MFA Bypass, Rebound 2026"
+source_url: "https://www.databreachtoday.com/breach-roundup-tycoon2fa-phishing-platform-rebounds-a-31220"
+date_of_breach: "2024-01-01"
+date_of_disclosure: "2024-03-01"
+date_of_customer_notification: ""
+category: "credential-theft"
+initial_attack_vector: "Tycoon2FA is a phishing-as-a-service (PhaaS) platform that implements adversary-in-the-middle (AiTM) techniques using reverse proxy infrastructure to intercept and steal session cookies from Microsoft 365 and Google Workspace users, bypassing multi-factor authentication in real time"
+cve: []
+vendor_product: "Microsoft 365 and Google Workspace tenants (targeted via Tycoon2FA phishing kit)"
+software_package: ""
+malware: "Tycoon2FA phishing kit"
+supply_chain_claimed: false
+notes: "Tycoon2FA is a sophisticated phishing-as-a-service platform discovered in 2023 and analysed in depth by Sekoia.io in March 2024. The platform operates as a reverse proxy between victims and legitimate Microsoft 365 or Google Workspace login pages, using adversary-in-the-middle (AiTM) techniques to capture session tokens after MFA authentication is completed — effectively stealing already-authenticated sessions that bypass MFA protection entirely. Unlike traditional phishing that steals credentials, Tycoon2FA captures the session cookie that Microsoft or Google issues after a successful MFA authentication, allowing the attacker to impersonate the victim immediately without needing their password or MFA device. The platform was sold as a subscription service ($120/month) on Telegram criminal marketplaces and included anti-bot mechanisms, Cloudflare Turnstile CAPTCHA bypass, and ongoing evasion updates. Tycoon2FA targeted organisations across financial services, healthcare, legal, and technology sectors globally. Microsoft and Google implemented detection and blocking measures. Law enforcement and CISA issued guidance on AiTM phishing. In March 2026, Tycoon2FA was reported to have 'rebounded' — meaning the platform had resumed or expanded operations after prior disruption attempts, with new evasion techniques and infrastructure. The platform's resilience mirrors other PhaaS platforms including EvilProxy, Modlishka, and Evilginx2 which similarly implement AiTM techniques against cloud identity providers."

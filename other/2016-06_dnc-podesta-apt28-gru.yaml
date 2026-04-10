@@ -1,0 +1,13 @@
+source_name: "DNC / Podesta Email Hack — APT28/GRU, Russian Election Interference 2016"
+source_url: "https://www.justice.gov/file/1080281/download"
+date_of_breach: "2016-03-19"
+date_of_disclosure: "2016-06-14"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "APT28 (GRU Unit 26165 / Fancy Bear) spearphishing via Google OAuth credential-harvesting pages; John Podesta clicked a link in a fake Google security alert email on March 19, 2016; DNC compromise involved separate APT28 intrusion beginning in approximately March 2016 alongside APT29 (Cozy Bear) intrusion from mid-2015"
+cve: []
+vendor_product: "Democratic National Committee (DNC) IT infrastructure; Hillary Clinton Campaign Chair John Podesta's Gmail"
+software_package: ""
+malware: "X-Agent (Sofacy) keylogger/credential harvester; X-Tunnel network tunneling tool; Mimikatz credential dumper"
+supply_chain_claimed: false
+notes: "In 2016, two separate Russian GRU units conducted coordinated cyber intrusions against the Democratic Party and Clinton presidential campaign. APT29 (GRU Unit 29155 / Cozy Bear) first breached the DNC network in mid-2015 and remained undetected for nearly a year. APT28 (GRU Unit 26165 / Fancy Bear) separately breached the DNC beginning in approximately March 2016. APT28 also compromised the Gmail account of Hillary Clinton campaign chairman John Podesta on March 19, 2016, after Podesta aide Charles Delavan mistakenly told him a phishing email was 'legitimate' rather than 'illegitimate.' CrowdStrike was engaged by the DNC in April 2016 and disclosed the breach publicly on June 14, 2016. The GRU transferred stolen DNC emails and Podesta emails to WikiLeaks via the online persona 'Guccifer 2.0' — the DNC emails were published on July 22, 2016 (days before the Democratic convention), and the Podesta emails were released in batches starting October 7, 2016 (the same day the Access Hollywood tape was published). The FBI and ODNI issued a joint statement on October 7, 2016 formally attributing the hacks to Russia. The January 2017 Intelligence Community Assessment (ICA) concluded with high confidence that Russia directed the campaign. Special Counsel Robert Mueller's July 2018 indictment charged 12 named GRU officers (including Aleksey Lukashev and Ivan Yermakov) with specific criminal counts related to the intrusions. Approximately 50,000 Podesta emails and over 19,000 DNC emails were ultimately published by WikiLeaks. The operation became the defining example of state-sponsored cyber operations used to influence a democratic election, prompting significant changes to US election security policy and triggering years of Congressional investigation."

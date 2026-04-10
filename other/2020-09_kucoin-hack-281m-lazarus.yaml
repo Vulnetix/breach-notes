@@ -1,0 +1,13 @@
+source_name: "KuCoin Exchange Hack — $281M Stolen, Attributed to Lazarus Group (DPRK)"
+source_url: "https://www.kucoin.com/news/en-kucoin-ceo-livestream-recap-latest-updates-on-the-security-incident"
+date_of_breach: "2020-09-25"
+date_of_disclosure: "2020-09-26"
+date_of_customer_notification: "2020-09-26"
+category: "other"
+initial_attack_vector: "Theft of private keys for KuCoin's hot wallets; the precise method of initial access was not disclosed, but the private keys for hot wallets holding Bitcoin, Ethereum, ERC-20 tokens, and other cryptocurrencies were compromised, enabling mass unauthorized withdrawals"
+cve: []
+vendor_product: "KuCoin (Seychelles-based global cryptocurrency exchange)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On September 25, 2020, KuCoin detected large unauthorized outflows from its hot wallets across multiple blockchains including Bitcoin, Ethereum, Litecoin, XRP, Stellar, TRON, and Polkadot. The exchange suspended deposits and withdrawals immediately and CEO Johnny Lyu publicly confirmed the hack on September 26, 2020. Total stolen funds were estimated at approximately $281 million, making it one of the largest exchange hacks at the time. However, KuCoin recovered approximately $204 million of the stolen funds through a combination of methods: (1) working with blockchain projects to freeze or roll back the stolen tokens at the smart contract level (several ERC-20 token projects froze the attacker's stolen holdings), (2) law enforcement cooperation to seize funds, and (3) OTC market tracking. KuCoin covered remaining losses through its insurance fund and did not pass losses to users. In November 2020, KuCoin and Chainalysis publicly attributed the hack to Lazarus Group (North Korea) based on on-chain transaction analysis showing patterns consistent with previous Lazarus Group operations, including the use of specific crypto mixing services and fund flow patterns. The US Department of Justice and CISA subsequently corroborated North Korean attribution for this and similar exchange hacks. The KuCoin hack was part of a larger pattern of Lazarus cryptocurrency theft totaling an estimated $1.3 billion in 2020-2021 alone, used to fund North Korea's weapons and sanctions-evasion programs."

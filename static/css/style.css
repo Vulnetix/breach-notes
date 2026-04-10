@@ -263,6 +263,27 @@ main {
     font-size: 0.9rem;
 }
 
+.breach-card-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem 1rem;
+    gap: 0.5rem;
+}
+
+.breach-card-actions .breach-card-link {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.breach-card-source {
+    font-size: 0.85rem;
+    color: rgba(0, 255, 0, 0.6);
+    font-family: 'Share Tech Mono', 'Courier New', monospace;
+    white-space: nowrap;
+}
+
 /* Homepage Styles */
 .home-hero {
     text-align: center;

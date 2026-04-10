@@ -1,0 +1,11 @@
+{{- $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+{{- range $cat := $cats }}
+  {{- range $key, $breach := index site.Data $cat }}
+    {{- $.AddPage (dict
+      "path"   (printf "%s/%s" $cat $key)
+      "title"  $breach.source_name
+      "type"   "breach"
+      "params" $breach
+    )}}
+  {{- end }}
+{{- end }}

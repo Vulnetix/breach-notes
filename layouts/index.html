@@ -32,6 +32,7 @@
                             {{ $recent = $recent | append (dict
                                 "breach" $breach
                                 "category" $cat
+                                "key" $key
                                 "date" $breach.date_of_breach
                             ) }}
                         {{ end }}
@@ -41,9 +42,10 @@
             {{ range first 10 (sort $recent "date" "desc") }}
                 {{ $breach := .breach }}
                 {{ $category := .category }}
+                {{ $url := printf "/%s/%s/" .category .key }}
                 <article class="breach-card recent">
                     <h2 class="breach-card-title">
-                        {{ $breach.source_name }}
+                        <a href="{{ $url }}">{{ $breach.source_name }}</a>
                     </h2>
                     <div class="breach-card-meta">
                         <span class="breach-date">{{ $breach.date_of_breach }}</span>
@@ -53,6 +55,10 @@
                     <p class="breach-card-excerpt">
                         {{ $breach.notes | plainify | truncate 150 }}
                     </p>
+                    <div class="breach-card-actions">
+                        <a href="{{ $url }}" class="breach-card-link">Full details →</a>
+                        {{ with $breach.source_url }}<a href="{{ . }}" class="breach-card-source" target="_blank" rel="noopener">Source ↗</a>{{ end }}
+                    </div>
                 </article>
             {{ end }}
         </div>

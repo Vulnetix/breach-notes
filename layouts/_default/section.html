@@ -22,8 +22,11 @@
         <div class="breach-grid">
             {{ range $sorted }}
             {{ $b := .breach }}
+            {{ $url := printf "/%s/%s/" $section .key }}
             <article class="breach-card">
-                <h2 class="breach-card-title">{{ $b.source_name }}</h2>
+                <h2 class="breach-card-title">
+                    <a href="{{ $url }}">{{ $b.source_name }}</a>
+                </h2>
                 <div class="breach-card-meta">
                     <span class="breach-date">{{ $b.date_of_breach }}</span>
                     {{ with $b.malware }}<span class="breach-malware-tag">{{ . }}</span>{{ end }}
@@ -32,9 +35,10 @@
                 <p class="breach-card-excerpt">
                     {{ $b.notes | plainify | truncate 200 }}
                 </p>
-                {{ with $b.source_url }}
-                <a href="{{ . }}" class="breach-card-link" target="_blank" rel="noopener">Source →</a>
-                {{ end }}
+                <div class="breach-card-actions">
+                    <a href="{{ $url }}" class="breach-card-link">Full details →</a>
+                    {{ with $b.source_url }}<a href="{{ . }}" class="breach-card-source" target="_blank" rel="noopener">Source ↗</a>{{ end }}
+                </div>
             </article>
             {{ end }}
         </div>

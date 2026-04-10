@@ -1,0 +1,13 @@
+source_name: "Zomato Food Delivery Platform Breach — 17 Million User Records"
+source_url: "https://blog.zomato.com/hacking-incident"
+date_of_breach: "2017-05-17"
+date_of_disclosure: "2017-05-18"
+date_of_customer_notification: "2017-05-18"
+category: "data-leak"
+initial_attack_vector: "An unknown attacker (who later reached out to Zomato directly) gained access to Zomato's database and exfiltrated user records; Zomato's engineering team determined that an internal vulnerability allowed the attacker access; the attacker offered to sell the data and then agreed to delete it after Zomato engaged with them"
+cve: []
+vendor_product: "Zomato user database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 17-18 May 2017, Zomato — India's largest food delivery and restaurant discovery platform, operating in 24 countries with approximately 120 million monthly visitors — disclosed that approximately 17 million user records had been stolen. The attacker listed the data for sale on a darknet marketplace. Zomato's security team reached out to the attacker who, after negotiations, agreed to delete the stolen data and cooperate with Zomato's security investigation after Zomato acknowledged a 'bounty' and agreed to create a responsible disclosure policy. Exposed data included user email addresses and hashed passwords (bcrypt hashing). No payment card data or financial information was compromised as Zomato stores this separately. Zomato logged out all users and initiated a password reset for all 17 million affected accounts. The company also implemented additional security measures. The incident was notable for the unusual resolution: the attacker (who went by the handle 'nclay') publicly stated they were deleting the data after Zomato agreed to their demands. Zomato's transparent public disclosure and relatively swift response were praised. Payment information was stored in PCI-compliant systems separate from the compromised database. The breach exposed the risks of large consumer internet platforms in rapidly growing markets where security investment may lag behind feature development."

@@ -1,0 +1,13 @@
+source_name: "HBO Game of Thrones Hack — 1.5TB Data, Scripts, Unreleased Episodes"
+source_url: "https://www.bbc.com/news/entertainment-arts-40851047"
+date_of_breach: "2017-07-31"
+date_of_disclosure: "2017-08-01"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "A hacker group (later identified as Behzad Mesri, an Iranian national) gained access to HBO's internal network via unknown means and exfiltrated approximately 1.5 terabytes of data including scripts, episodes, and internal company documents; the attacker demanded $6 million in Bitcoin ransom"
+cve: []
+vendor_product: "HBO internal content management and production systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In late July/early August 2017, a hacker exfiltrated approximately 1.5 terabytes of data from HBO's internal systems including unreleased episodes of Game of Thrones (the most watched show on television at the time), scripts for upcoming episodes, internal company documents, executive email, and full episodes of other HBO shows. The attacker emailed media outlets identifying themselves as 'Mr. Smith' and claimed to have obtained materials from 30 HBO servers. The hacker began leaking materials online and demanded a $6 million Bitcoin ransom, threatening to release all stolen content weekly. HBO refused to pay (though reportedly offered $250,000 as a 'bug bounty'). The FBI investigated. In November 2017, the US Department of Justice indicted Iranian national Behzad Mesri — a member of the hacker group Turk Black Hat — charging him with computer fraud, wire fraud, extortion, and aggravated identity theft. Mesri remained in Iran and was not extradited. The hack cost HBO significant reputational damage and undermined the climax of the show's penultimate season by leaking scripts and episodes. Game of Thrones Season 7 episodes were leaked including 'The Spoils of War' (episode 4), which was also separately pirated via the India HBO NOW distributor Star India. The incident highlighted the extreme value of entertainment IP and the sophisticated targeting of premium content studios."

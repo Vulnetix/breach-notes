@@ -1,0 +1,13 @@
+source_name: "Philippine COMELEC Voter Database Leak — 55 Million Registered Voters"
+source_url: "https://www.rappler.com/technology/news/128541-comelec-database-leak-impact/"
+date_of_breach: "2016-03-27"
+date_of_disclosure: "2016-04-01"
+date_of_customer_notification: ""
+category: "data-leak"
+initial_attack_vector: "Hacktivist group 'LulzSec Pilipinas' defaced the Commission on Elections (COMELEC) website and dumped the entire voter database; a second group called 'Anonymous Philippines' also separately published the database; the initial defacement was carried out by exploiting a vulnerability in the COMELEC website"
+cve: []
+vendor_product: "Philippine Commission on Elections (COMELEC) voter database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 27 March 2016, hacktivist group LulzSec Pilipinas defaced and dumped the Philippines Commission on Elections (COMELEC) entire voter database — weeks before the 9 May 2016 Philippine general elections. The leak exposed the personal data of approximately 55 million registered Filipino voters — representing essentially the entire eligible voting population of the Philippines. A second hacktivist group, Anonymous Philippines, subsequently released the same data in a more searchable format. The exposed data included names, addresses, birthdays, genders, and biometric data including fingerprints for approximately 15.8 million voters who had registered for an automated voting system. Passport numbers were also included for overseas voters. This represented one of the largest government data breaches in history by percentage of national population affected. The breach occurred during the sensitive election period, raising concerns about electoral manipulation and targeted harassment of voters. The Philippine National Privacy Commission (NPC), established just months before the breach, immediately launched its first major investigation. COMELEC chair Andres Bautista was criticised for initially downplaying the breach. The NPC found COMELEC liable for multiple violations of the Data Privacy Act and ordered it to implement security improvements. The exposed fingerprint data was particularly concerning as biometric data cannot be changed if compromised."

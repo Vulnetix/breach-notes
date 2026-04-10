@@ -1,0 +1,13 @@
+source_name: "Experian / T-Mobile Data Breach — 15 Million T-Mobile Customer Applications"
+source_url: "https://www.experian.com/blogs/news/2015/10/01/experian-data-breach/"
+date_of_breach: "2015-09-01"
+date_of_disclosure: "2015-10-01"
+date_of_customer_notification: "2015-10-01"
+category: "supply-chain"
+initial_attack_vector: "An unknown attacker accessed Experian's server that stored personal information on behalf of T-Mobile; the server processed T-Mobile's credit application data and was accessed via a compromised credential that provided administrative access"
+cve: []
+vendor_product: "Experian Decision Analytics (T-Mobile credit check server)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In September 2015, Experian — a major US credit bureau — suffered a breach of a server it operated on behalf of T-Mobile for processing mobile phone service credit applications. The attack exposed personal data for approximately 15 million people who had applied for T-Mobile postpaid service from September 2013 through September 2015. Exposed data included names, addresses, Social Security numbers, dates of birth, driver's license and passport numbers, and additional identification numbers (e.g., military IDs). T-Mobile's own systems were not breached — only Experian's server that stored T-Mobile customer application data. T-Mobile CEO John Legere publicly and forcefully criticised Experian for the breach in unusually direct terms, stating he was 'incredibly angry' and calling on Experian to be held accountable. Experian offered 2 years of free credit monitoring. Multiple class-action lawsuits were filed against both companies. The Connecticut AG opened an investigation. The breach was notable because Experian — a company that itself holds sensitive financial data for hundreds of millions of Americans — was breached through its own systems while handling data for a client. Experian's breach came in the same year as the massive OPM breach, both highlighting vulnerabilities in institutions that aggregate sensitive national identity data."

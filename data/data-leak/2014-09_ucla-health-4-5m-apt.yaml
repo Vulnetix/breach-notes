@@ -1,0 +1,13 @@
+source_name: "UCLA Health System Breach — 4.5 Million Patients, China APT"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2014-09-01"
+date_of_disclosure: "2015-07-17"
+date_of_customer_notification: "2015-07-17"
+category: "data-leak"
+initial_attack_vector: "A sophisticated cyberattacker (assessed as China-linked APT, consistent with the wave of health insurer breaches in 2014-2015) gained access to UCLA Health's network and accessed parts of the network containing personal and medical information for approximately 4.5 million individuals"
+cve: []
+vendor_product: "UCLA Health System patient network"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2014, a sophisticated cyberattacker accessed portions of the UCLA Health network containing protected health information. UCLA Health — one of California's largest academic medical centers, affiliated with UCLA and operating four hospitals and approximately 150 clinics — discovered the breach through a proactive FBI tip in May 2015. Approximately 4.5 million individuals were affected including patients, former patients, and potentially people who had received care at UCLA facilities or participated in research studies. Exposed data included names, addresses, dates of birth, Social Security numbers, Medicare/Medicaid numbers, health plan IDs, and medical information including diagnoses, procedures, medications, and lab results. UCLA Health disclosed the breach on 17 July 2015 and offered one year of free identity protection services. HHS OCR opened a HIPAA investigation. A class-action lawsuit was filed and settled in 2019 for $7.5 million. The breach is consistent with the same China-linked APT campaign that targeted Anthem (78.8M, February 2015), Premera Blue Cross (11M, March 2015), Excellus BCBS (10.5M), and CareFirst BCBS (1.1M) — all occurring within a similar timeframe and attributed to the same threat group. The collective targeting of US health insurance and medical providers in 2014-2015 represented one of the largest coordinated nation-state data collection operations against US civilian health data."

@@ -1,0 +1,13 @@
+source_name: "Betterment Data Breach - ShinyHunters Vishing (1.4M Customers)"
+source_url: "https://www.americanbanker.com/news/1-4-million-data-breach-betterment-shinyhunters-salesforce"
+date_of_breach: "2026-01-09"
+date_of_disclosure: "2026-01-23"
+date_of_customer_notification: "2026-01-23"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters used vishing (voice phishing) to compromise IT support at a third-party vendor (believed to be Salesforce) used by Betterment for marketing and customer communications, gaining access to third-party software platforms"
+cve: []
+vendor_product: "Salesforce (third-party marketing/CRM platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On January 9, 2026, Betterment (a major US robo-advisor and investment platform) suffered a data breach after ShinyHunters used vishing to compromise IT support at a third-party vendor believed to be Salesforce, which Betterment uses for marketing and customer communications. After Betterment declined to pay ransom, data was publicly dumped on January 23, 2026. Betterment confirmed exposure of personal information for approximately 1.4 million customers, though ShinyHunters claimed over 2 million records. Exposed data included names, email addresses, physical addresses, phone numbers, and birthdates. The leaked files also reportedly contained retirement plan details, financial interests, internal meeting notes, and pipeline data. Following the breach, fraudulent messages were sent to Betterment customers urging cryptocurrency transfers. The breach is part of ShinyHunters' broader Salesforce/Okta vishing campaign targeting dozens of financial and technology companies through 2025–2026."

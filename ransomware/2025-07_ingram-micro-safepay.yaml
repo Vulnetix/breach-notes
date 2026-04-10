@@ -1,0 +1,13 @@
+source_name: "Ingram Micro SafePay Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/"
+date_of_breach: "2025-07-02"
+date_of_disclosure: "2025-07-05"
+date_of_customer_notification: "2025-09-01"
+category: "ransomware"
+initial_attack_vector: "SafePay ransomware gained initial access via Ingram Micro's GlobalProtect VPN platform, likely through leaked credentials or password-spraying"
+cve: []
+vendor_product: "Palo Alto GlobalProtect (VPN)"
+software_package: ""
+malware: "SafePay"
+supply_chain_claimed: false
+notes: "On July 2–3, 2025, the SafePay ransomware group exfiltrated files from Ingram Micro's internal repositories. Ingram Micro (a leading global IT distributor processing ~$15B in transactions annually) identified ransomware on certain systems on July 5 and suffered an approximately 48-hour operational outage disrupting global supply chain operations. SafePay listed Ingram Micro on its leak site claiming 3.5 TB of stolen data. Ingram Micro notified the Maine AG that 42,521 individuals were affected, with exposed data including names, dates of birth, Social Security numbers, passport numbers, driver's license numbers, and employment-related information. Operations fully restored by July 9, 2025. SafePay emerged as a new ransomware group in late 2024."

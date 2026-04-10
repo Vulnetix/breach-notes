@@ -1,0 +1,13 @@
+source_name: "Navia Benefit Solutions BOLA Vulnerability Data Breach"
+source_url: "https://www.hipaajournal.com/navia-benefit-solutions-data-breach/"
+date_of_breach: "2025-12-22"
+date_of_disclosure: "2026-01-23"
+date_of_customer_notification: "2026-02-20"
+category: "data-leak"
+initial_attack_vector: "Broken Object Level Authorization (BOLA) vulnerability in Navia's systems allowed unauthorized access to benefit plan data"
+cve: []
+vendor_product: "Navia Benefit Solutions (employee benefits administration platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Navia Benefit Solutions, an employee benefits administration company, suffered a data breach due to a BOLA (Broken Object Level Authorization) API vulnerability. An unknown threat actor accessed Navia's systems between December 22, 2025 and January 15, 2026. Navia became aware on January 23, 2026. The breach affected 2,697,540 individuals whose data was held by Navia as a benefits third-party processor. Exposed information included names, dates of birth, Social Security numbers, phone numbers, email addresses, and health plan information. Downstream victims included employees of numerous companies, including 287 HackerOne employees. Notification letters were dated February 20, 2026 but received delayed by some companies."

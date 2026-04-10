@@ -1,0 +1,13 @@
+source_name: "Starbucks Partner Central Phishing Breach - 889 Employees"
+source_url: "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/"
+date_of_breach: "2026-01-19"
+date_of_disclosure: "2026-02-06"
+date_of_customer_notification: "2026-02-06"
+category: "credential-theft"
+initial_attack_vector: "Attackers used phishing — fake websites mimicking the Starbucks Partner Central employee portal — to steal employee login credentials, then used those credentials to access the portal and exfiltrate employee PII"
+cve: []
+vendor_product: "Starbucks Partner Central (employee HR/payroll portal)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Between January 19 and February 11, 2026, attackers used phishing pages cloning the Starbucks Partner Central portal to steal employee credentials. Starbucks detected the unauthorized access on February 6, 2026. Approximately 889 employees were affected. Compromised data includes names, Social Security numbers, dates of birth, and bank account and routing numbers. Starbucks launched an investigation, notified law enforcement, and strengthened security controls for Partner Central accounts. Affected employees were offered 24 months of identity protection and restoration services through Experian IdentityWorks, including identity theft detection, recovery assistance, and $1 million in coverage."

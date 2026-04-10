@@ -1,0 +1,13 @@
+source_name: "Cegedim Santé MonLogicielMedical Breach - 15.8M French Patient Records"
+source_url: "https://www.theregister.com/2026/03/03/french_medical_leak"
+date_of_breach: "2025-12-01"
+date_of_disclosure: "2026-02-27"
+date_of_customer_notification: "2026-03-01"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access via abnormal API/application requests on doctor accounts in Cegedim Santé's MonLogicielMedical (MLM) cloud healthcare platform; initial access vector not publicly disclosed"
+cve: []
+vendor_product: "Cegedim Santé MonLogicielMedical (cloud EHR/practice management platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Cegedim Santé (French healthcare software provider) confirmed on March 3, 2026, that attackers stole 15.8 million administrative patient records from its MonLogicielMedical platform, used by 3,800 doctors. The breach was detected at end of 2025 when abnormal application requests on doctor accounts were identified. Approximately 1,500 of 3,800 practices were affected. Exposed data included patient names, genders, dates of birth, phone numbers, email addresses, and postal addresses. Critically, 165,000–169,000 free-text doctor notes were also exfiltrated, including sensitive content such as HIV status, religious identity, and family details. Politicians and French security officials are among the victims. This is one of the largest healthcare data breaches in European history. Cegedim Santé had been fined €800,000 by French data regulator CNIL on September 5, 2024, for separate data protection violations."

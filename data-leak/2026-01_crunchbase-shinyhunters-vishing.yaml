@@ -1,0 +1,13 @@
+source_name: "Crunchbase Data Breach - ShinyHunters Vishing (2M Records)"
+source_url: "https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/"
+date_of_breach: "2026-01-09"
+date_of_disclosure: "2026-01-26"
+date_of_customer_notification: "2026-01-26"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters used vishing (voice phishing) to impersonate employees calling IT/help desk and obtain Okta SSO credentials, gaining unauthorized access to Crunchbase systems"
+cve: []
+vendor_product: "Okta SSO"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2026, ShinyHunters breached Crunchbase (a major business intelligence and startup data platform) via vishing — attackers impersonated internal employees to social-engineer IT support into resetting Okta SSO credentials. After Crunchbase declined to pay ransom, the group publicly leaked a 402 MB compressed archive on January 26, 2026, containing approximately 2 million records including personally identifiable information (names, email addresses, phone numbers) alongside corporate data such as signed contracts and internal documents. Security researcher Alon Gal verified portions of the leaked data. Crunchbase stated that operations were not affected and that the breach was contained. The incident is part of ShinyHunters' broader 2025–2026 campaign targeting companies via Salesforce/Okta vishing, alongside breaches of Qantas, Vietnam Airlines, CarGurus, Betterment, SoundCloud, and dozens of others."

@@ -1,0 +1,13 @@
+source_name: "PayPal Working Capital Loan Application Data Exposure - Code Error"
+source_url: "https://cybernews.com/security/paypal-six-month-breach-ssn-working-capital-app/"
+date_of_breach: "2025-07-01"
+date_of_disclosure: "2026-02-10"
+date_of_customer_notification: "2026-02-10"
+category: "data-leak"
+initial_attack_vector: "Routine code update to the PayPal Working Capital (PPWC) loan application contained a programming error that left customer PII accessible without authorization for approximately six months"
+cve: []
+vendor_product: "PayPal Working Capital (PPWC loan application)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "A code update error in PayPal's Working Capital loan application exposed approximately 100 customers' personally identifiable information from July 1 to December 13, 2025 — approximately six months. PayPal discovered the issue on December 12, rolled back the code on December 13, 2025, and sent breach notifications on February 10, 2026. Exposed data included business contact information (name, email, phone, address), Social Security numbers, and dates of birth. A small number of customers experienced unauthorized transactions on their accounts and received refunds. PayPal reset affected account passwords, implemented enhanced security controls, and offered two years of complimentary three-bureau credit monitoring via Equifax."

@@ -1,0 +1,13 @@
+source_name: "SK Telecom BPFDoor Malware Breach - 27 Million SIM Records"
+source_url: "https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/"
+date_of_breach: "2025-04-18"
+date_of_disclosure: "2025-04-19"
+date_of_customer_notification: "2025-05-01"
+category: "other"
+initial_attack_vector: "Multiple strains of malware (including 27 variants of BPFDoor backdoor, Tiny Shell, and other tools) installed on SK Telecom's internal servers; went undetected for approximately 3 years (2022–2025)"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: "BPFDoor; Tiny Shell"
+supply_chain_claimed: false
+notes: "SK Telecom (South Korea's largest mobile carrier, ~27 million subscribers) officially confirmed a breach on April 19, 2025, after detecting malware on April 18 targeting its Home Subscriber Server (HSS). A joint public-private forensic investigation of 42,605 servers found 28 servers infected with 33 malware strains, including 27 BPFDoor variants, 3 Tiny Shell variants, and additional tools. The breach traced back to approximately 2022, meaning attackers had persistent covert access for nearly 3 years. Exfiltrated data included USIM records with phone numbers and IMSI (International Mobile Subscriber Identity) values for approximately 27 million subscribers — sufficient to theoretically clone SIM cards or intercept SMS-based 2FA. South Korean regulators imposed a record 134 billion won ($96.5M USD) fine and ordered a cybersecurity overhaul. Breach costs caused a 90% drop in SK Telecom's operating profit. Threat actor and initial access method not publicly attributed."

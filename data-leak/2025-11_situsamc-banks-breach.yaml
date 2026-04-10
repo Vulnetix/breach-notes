@@ -1,0 +1,13 @@
+source_name: "SitusAMC Real Estate Finance Tech Breach - JPMorgan/Citi/Morgan Stanley Affected"
+source_url: "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/"
+date_of_breach: "2025-11-12"
+date_of_disclosure: "2025-11-22"
+date_of_customer_notification: "2025-11-22"
+category: "data-leak"
+initial_attack_vector: "Unknown; no encrypting malware was involved; SitusAMC described it as a contained data exfiltration incident"
+cve: []
+vendor_product: "SitusAMC (real estate debt/equity origination, transaction, and management platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "SitusAMC (a financial technology provider serving 1,500+ clients including major US banks, real estate firms, and insurers) became aware of a breach on November 12, 2025, and notified all clients on November 22. Compromised data included corporate information such as accounting records, legal agreements, and potentially customer data of SitusAMC's clients. Major affected institutions include JPMorgan Chase, Citigroup, and Morgan Stanley. No encrypting malware was involved; the incident was described as contained. No ransomware group claimed responsibility and no ransom demands were disclosed. The FBI stated no operational impact to banking services was identified. SitusAMC processes billions of documents related to real estate loans annually."

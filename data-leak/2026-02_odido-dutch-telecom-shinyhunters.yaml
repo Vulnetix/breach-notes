@@ -1,0 +1,13 @@
+source_name: "Odido (Netherlands) ShinyHunters Telecom Data Breach - 6.2M Customers"
+source_url: "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/"
+date_of_breach: "2026-02-07"
+date_of_disclosure: "2026-02-12"
+date_of_customer_notification: "2026-02-12"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters used phishing and social engineering to gain access to Odido's customer contact/CRM system used by customer service representatives"
+cve: []
+vendor_product: "Odido customer contact/CRM system"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On the weekend of February 7–8, 2026, ShinyHunters breached Odido's (Netherlands' largest mobile network operator) customer contact system and downloaded records for approximately 6.2 million customers — roughly one-third of the Netherlands' population. Affected customers include both Odido subscribers and those of Ben (another Odido-owned carrier), plus customers within the past two years. Stolen data included names, phone numbers, postal/email addresses, dates of birth, IBAN bank account numbers, and government-issued ID details (passport/driver's license numbers and validity dates). Odido confirmed passwords, call records, billing data, location data, and ID document scans were not accessed. ShinyHunters demanded €1 million ransom by February 26; when Odido declined, the full dataset was leaked to the dark web on March 1, 2026. The Dutch Public Prosecutor's Office launched a criminal investigation."

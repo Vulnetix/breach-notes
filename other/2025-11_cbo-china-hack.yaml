@@ -1,0 +1,13 @@
+source_name: "US Congressional Budget Office China-Suspected Cyberattack"
+source_url: "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/"
+date_of_breach: "2025-11-01"
+date_of_disclosure: "2025-11-06"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Suspected exploitation of an outdated Cisco ASA firewall (last patched 2024) — vulnerable to newly discovered bugs actively exploited by suspected Chinese state-sponsored hackers; suspected PRC/China state-backed actor"
+cve: []
+vendor_product: "Cisco ASA (firewall)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early November 2025, the US Congressional Budget Office (CBO) detected and confirmed a cyberattack by a suspected foreign actor. US officials briefed CNN that Chinese state-backed hackers are suspected. Security researcher Kevin Beaumont noted CBO had an outdated Cisco ASA firewall last patched in 2024, vulnerable to bugs being exploited by suspected PRC actors. CBO officials were concerned that hackers accessed internal emails, chat logs, and communications between lawmakers' offices and CBO researchers. CBO confirmed the incident on November 6, stated immediate containment, and implemented additional security controls. The CBO was a high-value target as its data contains detailed economic projections, budget analyses, and policy impact assessments revealing US government legislative priorities."

@@ -1,0 +1,13 @@
+source_name: "Aura Identity Protection Data Breach - ShinyHunters Vishing (900K Records)"
+source_url: "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"
+date_of_breach: "2026-03-17"
+date_of_disclosure: "2026-03-17"
+date_of_customer_notification: "2026-03-17"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters used targeted vishing (voice phishing) against a single Aura employee to obtain credentials, gaining approximately one hour of unauthorized access before being detected and removed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On March 17, 2026, identity protection firm Aura disclosed a data breach after ShinyHunters used targeted vishing to compromise a single employee's account. The attacker had access for approximately one hour before Aura's security team detected and removed the unauthorized session. The breach primarily exposed data from a marketing tool Aura acquired in 2021: approximately 900,000 records consisting mostly of names and email addresses. More detailed contact information (names, emails, phone numbers, and physical addresses) was exposed for up to 35,000 current and former customers. No Social Security numbers, passwords, or financial information were compromised. ShinyHunters claimed to have exfiltrated approximately 12 GB of data including PII and corporate data. The irony of an identity protection company being breached via the same social engineering techniques it warns customers about was widely noted in security reporting."

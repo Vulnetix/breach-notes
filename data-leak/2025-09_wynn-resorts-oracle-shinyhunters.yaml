@@ -1,0 +1,13 @@
+source_name: "Wynn Resorts Data Breach - ShinyHunters Oracle PeopleSoft (21K Employees)"
+source_url: "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/"
+date_of_breach: "2025-09-01"
+date_of_disclosure: "2026-02-26"
+date_of_customer_notification: "2026-02-26"
+category: "data-leak"
+initial_attack_vector: "ShinyHunters exploited a vulnerability in Wynn Resorts' Oracle PeopleSoft HR platform to gain unauthorized access and exfiltrate employee data"
+cve: []
+vendor_product: "Oracle PeopleSoft"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In September 2025, ShinyHunters exploited a vulnerability in Wynn Resorts' Oracle PeopleSoft platform to access employee records. The breach was discovered in February 2026. ShinyHunters demanded a $1.5 million ransom with a February 23, 2026 deadline, threatening to leak data. Wynn Resorts confirmed the breach affected 21,775 employees, with Social Security numbers, names, phone numbers, and dates of birth compromised. After the company declined to comment on ransom payment, the hackers removed Wynn from their leak site — strongly suggesting a ransom was paid. Two federal lawsuits were filed against Wynn Resorts following disclosure. Affected individuals were offered free credit monitoring and identity theft protection services. The breach is part of ShinyHunters' broader 2025–2026 campaign targeting major enterprises via multiple attack vectors."

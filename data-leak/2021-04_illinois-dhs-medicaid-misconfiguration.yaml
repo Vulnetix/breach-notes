@@ -1,0 +1,13 @@
+source_name: "Illinois Department of Human Services Medicaid Data Exposure - 700K Residents"
+source_url: "https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/"
+date_of_breach: "2021-04-01"
+date_of_disclosure: "2025-09-22"
+date_of_customer_notification: "2026-01-08"
+category: "data-leak"
+initial_attack_vector: "Misconfigured internal mapping website — IDHS planning maps intended for internal use were inadvertently made accessible via the public internet; no malicious actor involved"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "The Illinois Department of Human Services (IDHS) exposed sensitive personal data of more than 700,000 state residents for approximately four years, from April 2021 to September 2025. On September 22, 2025, IDHS discovered that an internal resource planning/mapping website had been publicly accessible due to misconfigured privacy settings. Two groups were affected: (1) 672,616 Medicaid and Medicare Savings Program recipients — addresses, case numbers, and demographic data (names not included); (2) 32,401 Division of Rehabilitation Services recipients — names, addresses, case statuses, and service details. IDHS immediately secured the website, notified HHS Office for Civil Rights, and mailed notification letters. IDHS was unable to determine who viewed the maps; no evidence of misuse was identified."

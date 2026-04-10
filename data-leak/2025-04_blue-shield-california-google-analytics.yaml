@@ -1,0 +1,13 @@
+source_name: "Blue Shield of California Google Analytics/Ads PHI Exposure - 4.7M Members"
+source_url: "https://www.hipaajournal.com/blue-shield-of-california-google-ads-data-breach/"
+date_of_breach: "2021-04-01"
+date_of_disclosure: "2025-04-09"
+date_of_customer_notification: "2026-01-05"
+category: "data-leak"
+initial_attack_vector: "Misconfigured Google Analytics integration on Blue Shield member websites inadvertently shared protected health information with Google Ads for advertising targeting purposes"
+cve: []
+vendor_product: "Google Analytics; Google Ads"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Blue Shield of California disclosed on April 9, 2025, that a misconfigured Google Analytics integration had been sharing member protected health information (PHI) with Google Ads from approximately April 2021 to January 2024 — nearly 3 years. Approximately 4.7 million members were affected, making it one of the largest healthcare data exposures of 2025. Exposed data included member names, insurance plan name/type/group number, city, zip code, gender, family size, Blue Shield member account identifiers, medical claim service dates and provider names, and patient financial responsibility amounts. No malicious actor accessed the data; it was used for advertising targeting by Google. The connection was severed in January 2024. Blue Shield sent notification letters to affected members beginning January 5, 2026 and notified HHS on April 9, 2025. Class action lawsuits were filed alleging HIPAA violations."

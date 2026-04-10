@@ -1,0 +1,13 @@
+source_name: "BridgePay Network Solutions Ransomware Attack"
+source_url: "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/"
+date_of_breach: "2026-02-06"
+date_of_disclosure: "2026-02-06"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Unknown; ransomware deployed against BridgePay's payment processing infrastructure"
+cve: []
+vendor_product: "BridgePay Network Solutions (payment gateway platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On February 6, 2026 (starting at ~03:29 AM EST), a ransomware attack hit BridgePay Network Solutions, a payment gateway serving merchants, municipalities, and integrators. The attack knocked offline BridgePay Gateway API (BridgeComm), Pay Guardian Cloud API, virtual terminals, hosted payment pages, and Pathway Link gateways — forcing many customers into cash-only operations for at least four days. BridgePay engaged the FBI, U.S. Secret Service, and external forensic teams. Initial investigation indicated no payment card data was compromised (any potentially accessed data was encrypted). The specific ransomware family and initial access vector were not publicly identified."

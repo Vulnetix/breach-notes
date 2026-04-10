@@ -1,0 +1,13 @@
+source_name: "University of Phoenix Data Breach - Oracle EBS Zero-Day CVE-2025-61882 (3.5M)"
+source_url: "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/"
+date_of_breach: "2025-08-01"
+date_of_disclosure: "2026-01-01"
+date_of_customer_notification: "2026-01-01"
+category: "data-leak"
+initial_attack_vector: "Attackers exploited CVE-2025-61882, a zero-day vulnerability in Oracle E-Business Suite (EBS), to access the university's network and exfiltrate sensitive data; attack tactics consistent with Clop ransomware gang"
+cve: ["CVE-2025-61882"]
+vendor_product: "Oracle E-Business Suite (EBS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Beginning in August 2025, attackers exploited CVE-2025-61882 (a zero-day in Oracle E-Business Suite) to breach the University of Phoenix's network and steal sensitive data. The university detected the intrusion on November 21, 2025 — after attackers listed the university on a public leak site. Notification letters filed with Maine's Attorney General indicate 3,489,274 individuals were affected, including current and former students, faculty, staff, and suppliers. Compromised data includes names, dates of birth, Social Security numbers, and bank account and routing numbers. Security researchers attributed the attack to tactics consistent with the Clop ransomware gang, which has previously exploited file transfer and enterprise software zero-days in bulk exploitation campaigns (MOVEit, GoAnywhere, Cleo). Affected individuals were offered 12 months of identity protection through IDX with a $1 million identity fraud reimbursement policy."

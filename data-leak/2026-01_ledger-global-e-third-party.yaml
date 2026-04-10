@@ -1,0 +1,13 @@
+source_name: "Ledger Customer Data Breach via Global-e Third-Party Ecommerce Platform"
+source_url: "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/"
+date_of_breach: "2025-12-01"
+date_of_disclosure: "2026-01-05"
+date_of_customer_notification: "2026-01-05"
+category: "data-leak"
+initial_attack_vector: "Unauthorized access to Global-e's cloud system storing order data for multiple brands including Ledger; initial access vector not publicly disclosed"
+cve: []
+vendor_product: "Global-e (international ecommerce and payments platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Ledger (hardware crypto wallet manufacturer) disclosed in January 2026 that an unnamed unauthorized party accessed a Global-e cloud system used to process international orders. Global-e detected unusual activity, implemented controls, and launched a forensic investigation. Exposed data included customer names and contact information along with order details (products and prices). Payment data, passwords, wallet recovery phrases, and cryptocurrency holdings were not affected. The number of impacted customers was not disclosed. Global-e serves multiple brands, so Ledger was not the only company affected. This is the second major data breach involving Ledger customer data, following the 2020 Ledger database breach."

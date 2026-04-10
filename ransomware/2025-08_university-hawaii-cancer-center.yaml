@@ -1,0 +1,13 @@
+source_name: "University of Hawaii Cancer Center Ransomware Attack - 1.2M Records"
+source_url: "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/"
+date_of_breach: "2025-08-31"
+date_of_disclosure: "2025-10-01"
+date_of_customer_notification: "2025-10-01"
+category: "ransomware"
+initial_attack_vector: "Ransomware attack targeting servers supporting the UH Cancer Center's Epidemiology Division research operations; initial access vector not publicly disclosed"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On August 31, 2025, an unknown ransomware group attacked the University of Hawaii Cancer Center's Epidemiology Division, compromising research servers (clinical operations were not affected). Approximately 1,150,000 individuals were affected — primarily from historical driver's license and voter registration records with Social Security identifiers dating back over 30 years held for research purposes, plus approximately 87,493 study participants. Exposed data included names, Social Security numbers, driver's license information, voter registration details, and health-related research data. The university paid a ransom to prevent data release and decrypt files, though payment details were not disclosed. 12 months of credit monitoring and $1M identity theft insurance were offered to affected individuals."

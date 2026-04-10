@@ -1,0 +1,13 @@
+source_name: "Jaguar Land Rover Scattered Lapsus$ Hunters Cyberattack"
+source_url: "https://securityaffairs.com/184742/security/jaguar-land-rover-confirms-major-disruption-and-196m-cost-from-september-cyberattack.html"
+date_of_breach: "2025-08-31"
+date_of_disclosure: "2025-09-01"
+date_of_customer_notification: ""
+category: "ransomware"
+initial_attack_vector: "Vishing (voice phishing) campaign weeks before the attack tricked employees into disclosing credentials; attackers posing as internal IT staff. Subsequent credential abuse and lateral movement into production and manufacturing systems."
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Beginning August 31, 2025, the 'Scattered Lapsus$ Hunters' alliance — a cybercrime consortium of Scattered Spider (initial access/social engineering), LAPSUS$ (extortion/amplification), and ShinyHunters (data harvesting) — attacked Jaguar Land Rover. JLR paused production on September 1; manufacturing plants across UK, Slovakia, Brazil, and India were shut down for approximately five weeks. The group claimed responsibility via Telegram and leaked screenshots of internal systems including the jlrint.com domain. The attack is estimated to be the most costly cyberattack in British history, with estimated economic damage of £1.9 billion and confirmed costs of £196 million. The attack originated from social engineering and credential abuse rather than zero-day exploits, exploiting weak network segmentation and inadequate detection."

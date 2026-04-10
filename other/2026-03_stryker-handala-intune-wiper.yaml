@@ -1,0 +1,13 @@
+source_name: "Stryker Handala Iran-Linked MDM Wiper Attack"
+source_url: "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/"
+date_of_breach: "2026-03-11"
+date_of_disclosure: "2026-03-11"
+date_of_customer_notification: ""
+category: "other"
+initial_attack_vector: "Handala (Void Manticore, MOIS-affiliated Iran) compromised a Microsoft Intune admin account at Stryker, then used the MDM platform to issue remote wipe commands against the entire enrolled device fleet across 79 countries"
+cve: []
+vendor_product: "Microsoft Intune (mobile device management)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On March 11, 2026, the Iran-linked hacktivist group Handala (a persona of Void Manticore, affiliated with Iran's Ministry of Intelligence and Security) wiped between 80,000 and 200,000 employee devices at Stryker Corporation (US medical device manufacturer) across 79 countries. Attackers gained access to a single Microsoft Intune admin account and issued mass remote wipe commands, resetting corporate and personal BYOD devices including photos, eSIMs, and personal authenticator apps. Handala claimed 50 TB of data was also exfiltrated; no patient-related services or connected medical devices were affected. CISA issued an advisory urging organizations to secure MDM/Intune admin accounts. The attack was framed as retaliation for a missile strike. Stryker confirmed full operational recovery. This is a notable example of weaponizing legitimate MDM infrastructure for destructive purposes."

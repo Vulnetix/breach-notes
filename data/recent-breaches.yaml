@@ -34,19 +34,19 @@ recent_breaches:
     - category: supply-chain
       cve: []
       date_of_breach: "2026-03-27"
-      date_of_disclosure: "2026-03-31"
-      malware: ""
-      notes: 'On March 27, 2026, TeamPCP (a threat group also linked to the European Commission cloud breach) compromised PyPI publishing credentials for LiteLLM, a widely used open-source library for calling AI/LLM APIs. Malicious versions were published to PyPI, enabling downstream compromise of users. Mercor (a $10B AI data training startup) was a confirmed victim: attackers exfiltrated approximately 4 TB of data including 939 GB of platform source code, a 211 GB user database, and 3 TB of storage (video interviews and identity verification passport data for candidates). Lapsus$ subsequently claimed responsibility and auctioned data on dark web forums. Meta indefinitely paused work with Mercor. Five contractors filed lawsuits. TeamPCP is also attributed to the March 2026 European Commission AWS breach via the Trivy tool compromise.'
-      source_name: LiteLLM PyPI Supply Chain Attack - Mercor AI Breach (TeamPCP / Lapsus$)
-      source_url: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
-    - category: supply-chain
-      cve: []
-      date_of_breach: "2026-03-27"
       date_of_disclosure: "2026-03-27"
       malware: TeamPCP Cloud Stealer
       notes: On March 27, 2026 at 03:51 UTC, TeamPCP published two unauthorized malicious versions of the Telnyx Python SDK (4.87.1 and 4.87.2) to PyPI. Both versions were quarantined by 10:13 UTC the same day — a window of approximately 6 hours 22 minutes. The malicious packages delivered a steganographically encoded payload hidden within valid WAV audio file frames, which decoded to a multi-stage remote access tool (RAT) and credential stealer that exfiltrated data to 83[.]142[.]209[.]203. Unlike earlier TeamPCP packages, the real payload was fetched at runtime from C2 to minimize the size of the malicious package. Telnyx's platform, APIs, and infrastructure were not compromised — only the PyPI Python SDK distribution was affected. Users who installed the telnyx package between 03:51-10:13 UTC on March 27, or had dependencies that pulled in unpinned telnyx versions during that window, were potentially compromised. This attack ran concurrently with the LiteLLM/PyPI compromise on the same day. Part of the TeamPCP campaign that spanned March 19-27, 2026, also targeting Trivy (March 19), Checkmarx KICS (March 21), and LiteLLM (March 27 — Mercor downstream breach).
       source_name: TeamPCP Telnyx Python SDK PyPI Supply Chain Compromise
       source_url: https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026
+    - category: supply-chain
+      cve: []
+      date_of_breach: "2026-03-27"
+      date_of_disclosure: "2026-03-31"
+      malware: ""
+      notes: 'On March 27, 2026, TeamPCP (a threat group also linked to the European Commission cloud breach) compromised PyPI publishing credentials for LiteLLM, a widely used open-source library for calling AI/LLM APIs. Malicious versions were published to PyPI, enabling downstream compromise of users. Mercor (a $10B AI data training startup) was a confirmed victim: attackers exfiltrated approximately 4 TB of data including 939 GB of platform source code, a 211 GB user database, and 3 TB of storage (video interviews and identity verification passport data for candidates). Lapsus$ subsequently claimed responsibility and auctioned data on dark web forums. Meta indefinitely paused work with Mercor. Five contractors filed lawsuits. TeamPCP is also attributed to the March 2026 European Commission AWS breach via the Trivy tool compromise.'
+      source_name: LiteLLM PyPI Supply Chain Attack - Mercor AI Breach (TeamPCP / Lapsus$)
+      source_url: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
     - category: ransomware
       cve: []
       date_of_breach: "2026-03-26"
@@ -79,4 +79,4 @@ recent_breaches:
       notes: On March 20, 2026, attackers used compromised credentials to access Bitcoin Depot's digital asset settlement accounts and transfer 50.903 BTC (valued at approximately $3.665 million) from company-controlled wallets. Bitcoin Depot did not detect the unauthorized access until March 23, 2026, three days after the theft began. The breach was contained within its corporate environment — customer-facing platforms, user data, and customer environments were not affected. Bitcoin Depot operates over 25,000 Bitcoin ATMs and BDCheckout locations globally and is one of the largest Bitcoin ATM operators in the world. The company disclosed the incident publicly on April 9, 2026. In a separate prior incident (2025), Bitcoin Depot had disclosed a data breach affecting nearly 26,000 individuals whose personal information including names, addresses, and identification details was accessed.
       source_name: Bitcoin Depot Crypto ATM Breach - $3.66M BTC Stolen
       source_url: https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/
-updated_at: "2026-04-10 19:31:15"
+updated_at: "2026-04-10 22:21:08"

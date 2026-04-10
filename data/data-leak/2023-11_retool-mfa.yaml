@@ -1,0 +1,16 @@
+source_name: Retool MFA (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/retool-mfa/
+date_of_breach: '2023-11-10'
+date_of_disclosure: '2023-11-10'
+category: data-leak
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'An engineer at Retool fell victim to a social engineering attack that led
+  to the compromise of an engineer&rsquo;s MFA tokens and the account takeover of
+  a small number of Retool customers.
+
+
+  Sourced from breaches.cloud'

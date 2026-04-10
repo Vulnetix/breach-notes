@@ -1,0 +1,19 @@
+source_name: Drizly (2020) (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/drizly/
+date_of_breach: '2023-04-13'
+date_of_disclosure: '2023-04-13'
+category: credential-theft
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In July 2020, Drizly, an on-demand alcohol delivery service, suffered a data
+  breach that exposed the personal information of over 2 million users data. The source
+  of the breach was an executive&rsquo;s GitHub account that was the victim of a credential-stuffing
+  attack. With access to GitHub, the attacker could find AWS credentials, reconfigure
+  AWS security settings, and access a customer database, leading to the leak of 2
+  million user records.
+
+
+  Sourced from breaches.cloud'

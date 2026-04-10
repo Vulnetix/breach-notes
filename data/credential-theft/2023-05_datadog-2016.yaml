@@ -1,0 +1,18 @@
+source_name: DataDog (2016) (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/datadog-2016/
+date_of_breach: '2023-05-25'
+date_of_disclosure: '2023-05-25'
+category: credential-theft
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In July 2016, SaaS provider DataDog suffered a breach affecting its AWS customers.
+  The breach stemmed from an attacker targeting production infrastructure servers
+  and a database that stores user credentials. AWS users who attempted to use AWS
+  credentials shared with Datadog also reported issues. DataDog immediately mitigated
+  and notified users of the breach and ensured any precautions needed to be taken.
+
+
+  Sourced from breaches.cloud'

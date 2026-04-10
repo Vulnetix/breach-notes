@@ -1,0 +1,17 @@
+source_name: LastPass (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/lastpass/
+date_of_breach: '2023-03-18'
+date_of_disclosure: '2023-03-18'
+category: credential-theft
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In 2022, LastPass suffered a series of breaches, eventually leading to customer
+  password vaults being taken. This incident is notable because it is the first time
+  we&rsquo;ve seen evidence that a threat actor targeted a specific employee&rsquo;s
+  home network to capture privileged cloud credentials.
+
+
+  Sourced from breaches.cloud'

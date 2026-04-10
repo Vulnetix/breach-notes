@@ -80,8 +80,21 @@ Continuously discover and document cybersecurity breach incidents from public so
 - Use consistent date formats (YYYY-MM-DD)
 - Categorize correctly based on primary attack type
 
-## Automation Goals
-This process should eventually be automated to reduce manual effort.
+## Automation Goals & Scripts
+This process is being automated to reduce manual effort. We have developed Python scripts that fetch feeds from specific data sources and generate properly formatted YAML files.
+
+- `scripts/import-breaches-cloud.py`: Scrapes the `breaches.cloud` RSS feed and automatically generates YAML files into the `data/` directory.
+
+To run the import scripts, use `uv` to automatically handle dependencies:
+```bash
+uv run --with pyyaml python scripts/import-breaches-cloud.py
+```
+
+### Expanding Automation
+Future scripts should be created for:
+- DataBreachToday sitemap parsing (`https://www.databreachtoday.com/sitemap.html`)
+- BlackKite Third-Party Breaches JSON API/DOM parsing
+- Parsing mandatory notification registries (e.g. OAIC NDB exports)
 
 ## Commit & Push Workflow
 After each batch of new YAML files and README updates:

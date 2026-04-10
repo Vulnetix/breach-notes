@@ -1,0 +1,13 @@
+source_name: "Advocate Aurora Health Web Tracking Pixel Disclosure — 3 Million Patients"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2022-10-14"
+date_of_disclosure: "2022-10-14"
+date_of_customer_notification: "2022-10-14"
+category: "data-leak"
+initial_attack_vector: "Third-party web tracking pixels (Meta Pixel and Google Analytics) embedded in Advocate Aurora Health's patient-facing web portals transmitted protected health information to Meta and Google; the pixels were present on patient scheduling, billing, and MyChart portal pages"
+cve: []
+vendor_product: "Advocate Aurora Health patient web portals (Meta Pixel / Google Analytics)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Advocate Aurora Health — an integrated health system with 26 hospitals across Wisconsin and Illinois — disclosed in October 2022 that it had notified approximately 3 million patients that their protected health information (PHI) may have been transmitted to Meta (Facebook) and Google through advertising tracking pixels embedded in patient-facing web portals. The pixels were present on the MyChart patient portal, scheduling pages, and other patient-facing applications. Transmitted data included IP addresses, appointment types, physician names, and in some cases, medical record numbers and proximity to treatment locations. The health system deployed the pixels as part of standard web analytics and advertising practices without fully considering HIPAA implications. Advocate Aurora Health subsequently removed all tracking pixels from patient portals and notified HHS OCR. This was one of the largest and highest-profile disclosures of what became a widespread issue: HHS OCR's guidance on web tracking technologies and HIPAA (issued December 2022) identified that embedding tracking pixels in patient portals constitutes a potential HIPAA violation. Hundreds of hospitals and health systems subsequently reviewed their use of web tracking technologies. Multiple class-action lawsuits were filed against Advocate Aurora and other health systems using similar tracking pixels."

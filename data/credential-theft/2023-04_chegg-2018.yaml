@@ -1,0 +1,16 @@
+source_name: Chegg (2018) (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/chegg/
+date_of_breach: '2023-04-14'
+date_of_disclosure: '2023-04-14'
+category: credential-theft
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In April 2018, the educational platform Chegg Inc. suffered a breach leading
+  to the exposure of sensitive data on over 40 million users. A former contractor
+  used AWS root credentials to exfiltrate the data.
+
+
+  Sourced from breaches.cloud'

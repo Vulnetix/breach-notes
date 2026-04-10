@@ -1,0 +1,19 @@
+source_name: BrowserStack (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/browserstack/
+date_of_breach: '2023-05-25'
+date_of_disclosure: '2023-05-25'
+category: data-leak
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In November 2014 BrowserStack, a cloud testing platform for cross-platform
+  testing of different applications, was breached through an old prototype machine
+  that had not been updated and was vulnerable to the shellshock exploit. The attacker
+  created an IAM user and generated a keypair. The attacker accessed the email list
+  and used AWS Simple Email Service to send emails to 5,000 users falsely stating
+  BrowserStack was shutting down.
+
+
+  Sourced from breaches.cloud'

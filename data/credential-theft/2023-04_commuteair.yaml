@@ -1,0 +1,21 @@
+source_name: CommuteAir (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/commuteair/
+date_of_breach: '2023-04-28'
+date_of_disclosure: '2023-04-28'
+category: credential-theft
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In January of 2023, CommuteAir suffered a breach that exposed the US Department
+  of Homeland Security&rsquo;s &ldquo;No Fly&rdquo; and Selective Screening lists
+  containing over 1.5 million records, along with CommuteAir employee information.
+  The attacker found an exposed Jenkins server and was able to access different build
+  workspaces containing repositories for the build jobs. On the Jenkins server, the
+  attacker found access keys that offered access to the CommuteAir environment. After
+  investigating the AWS Infrastructure, the attacker found the No Fly List among test
+  data on the Jenkins server.
+
+
+  Sourced from breaches.cloud'

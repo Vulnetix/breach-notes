@@ -1,0 +1,13 @@
+source_name: "Uber Eats Data Exposed via Third Party — 820,000 Delivery Drivers' Data"
+source_url: "https://www.bleepingcomputer.com/news/security/uber-eats-data-breach-third-party-vendor-exposed-820000-driver-records/"
+date_of_breach: "2021-11-01"
+date_of_disclosure: "2022-01-12"
+date_of_customer_notification: "2022-01-12"
+category: "supply-chain"
+initial_attack_vector: "A third-party vendor contracted by Uber to provide marketing services to Uber Eats experienced a data security incident that exposed Uber Eats driver data stored in the vendor's systems"
+cve: []
+vendor_product: "Uber Eats third-party marketing vendor systems"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In early 2022, Uber disclosed that data for approximately 820,000 Uber Eats delivery driver accounts had been exposed through a third-party vendor that provided marketing services for Uber Eats. The vendor experienced its own data security incident that resulted in Uber Eats driver data stored in the vendor's systems being compromised. Exposed data included driver names, email addresses, phone numbers, and account information. Uber notified affected drivers and reported the breach to relevant regulatory authorities. The incident added to Uber's troubled data security history (the 2016 cover-up of the 57M-record breach, the 2022 Scattered Spider network breach, and now this third-party vendor incident). Uber notified authorities in multiple jurisdictions given its global driver network. The breach highlighted the risks of sharing contractor/driver personal data with third-party marketing vendors without adequate contractual data security requirements."

@@ -1,0 +1,18 @@
+source_name: Ubiquiti (2020) (Cloud Breach)
+source_url: https://www.breaches.cloud/incidents/ubiquiti/
+date_of_breach: '2023-04-13'
+date_of_disclosure: '2023-04-13'
+category: data-leak
+initial_attack_vector: Cloud misconfiguration or credential leak
+cve: []
+vendor_product: Cloud Provider
+malware: ''
+supply_chain_claimed: false
+notes: 'In December of 2020, Ubiquiti suffered a breach at the hands of an employee.
+  This employee masked his presence via a VPN and was able to clone the company&rsquo;s
+  GitHub repository and alter logs in AWS to hide their presence and evidence of the
+  breach. After the attacker leaked false details of the attack to a well-known security
+  blogger, Ubiquiti&rsquo;s stock lost 4 billion dollars in value.
+
+
+  Sourced from breaches.cloud'

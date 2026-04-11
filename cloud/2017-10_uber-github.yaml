@@ -1,0 +1,51 @@
+source_name: Uber 2016 Data Breach and Cover-Up (57 Million Users)
+source_url: https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-convicted-federal-charges-covering-data-breach
+date_of_breach: '2016-10-13'
+date_of_disclosure: '2017-11-21'
+date_of_customer_notification: '2017-11-21'
+category: cloud
+initial_attack_vector: Credential stuffing attack on Uber engineers' GitHub accounts using passwords from prior breaches; AWS access keys found in private repositories
+cve: []
+vendor_product: GitHub
+software_package: Amazon S3
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  In October 2016, two hackers used credential stuffing to access Uber engineers'
+  private GitHub repositories, leveraging passwords exposed in previous data breaches.
+  Uber did not require multi-factor authentication on GitHub accounts, making this
+  attack trivial. Within the repositories, the hackers discovered AWS access keys
+  stored in plaintext that granted full administrative privileges to Uber's Amazon S3
+  data stores.
+
+  Between October 13 and November 15, 2016, the attackers downloaded 16 unencrypted
+  database backup files from S3 containing approximately 25.6 million names and email
+  addresses, 22.1 million names and mobile phone numbers, and 607,000 names and
+  driver's license numbers, totaling roughly 57 million Uber users and drivers
+  worldwide.
+
+  On November 14, 2016, the hackers contacted Uber's Chief Security Officer Joe
+  Sullivan directly via email, demanding a ransom. Rather than reporting the breach
+  to regulators or affected users, Sullivan orchestrated a cover-up. He told a
+  subordinate "we can't let this get out" and arranged to pay the hackers $100,000
+  in Bitcoin in December 2016, disguising the payment as a bug bounty reward and
+  requiring the hackers to sign non-disclosure agreements, despite the fact that
+  they refused to provide their real names. Sullivan also concealed the breach from
+  the Federal Trade Commission, which was actively investigating Uber over a separate
+  2014 data breach at the time.
+
+  The cover-up unraveled in November 2017 when new Uber CEO Dara Khosrowshahi,
+  who had replaced Travis Kalanick, disclosed the breach publicly. Sullivan was
+  fired and subsequently indicted by federal prosecutors. In October 2022, a federal
+  jury convicted Sullivan of obstruction of FTC proceedings and misprision of a
+  felony, making him the first corporate security executive to face criminal
+  conviction for a breach cover-up. In May 2023, Sullivan was sentenced to three
+  years of probation and a $50,000 fine. His conviction was upheld on appeal by the
+  Ninth Circuit in 2025.
+
+  The two hackers, Brandon Glover and Vasile Mereacre, pleaded guilty in 2019. The
+  case became a landmark in cybersecurity governance, establishing that security
+  executives bear personal criminal liability for concealing breaches from regulators.
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

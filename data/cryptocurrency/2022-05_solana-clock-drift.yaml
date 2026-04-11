@@ -1,0 +1,12 @@
+source_name: '"Solana''s blockchain clock loses track of time, now running 30 minutes behind"'
+source_url: https://www.theblockcrypto.com/post/149112/solanas-blockchain-clock-loses-track-of-time-now-running-30-minutes-behind
+date_of_breach: '2022-05-26'
+date_of_disclosure: '2022-05-26'
+category: cryptocurrency
+vendor_product: Solana clock drift
+blockchain: solana
+notes: The Solana blockchain clock drifted about 30 minutes behind real-world time on May 26, as a result of slower-than-usual
+  slot times. Solana's status page read that "this has no impact on performance or network operations", though The Block noted
+  that this time drift could result in smaller staking payouts.Blockchain timekeeping is also selling point of Solana, which
+  talks up its "proof of history" algorithm in a blog post where Solana Labs co-founder Anatoly Yakovenko says, "our clocks
+  never drift".

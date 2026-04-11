@@ -1,0 +1,25 @@
+source_name: '"QANX Bridge wallet disclosure analysis [continuously updated]"'
+source_url: https://medium.com/qanplatform/qanx-bridge-wallet-disclosure-analysis-continuously-updated-724121bbbf9a
+date_of_breach: '2022-10-11'
+date_of_disclosure: '2022-10-11'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: QANX bridge
+blockchain: ethereum, bsc
+financial_loss_usd: 1163964
+notes: 'On September 15, a blockchain security firm disclosed a vulnerability affecting Profanity, a tool that allowed people
+  to generate "vanity" crypto wallet addresses: addresses containing specified strings of characters. This affected some individuals
+  with vanity addresses, but has also enabled subsequent attacks on projects that used vanity addresses, such as the Wintermute
+  exploit on September 20.On October 11, the QANX Bridge''s deployer wallet was compromised thanks to the vanity address generator
+  bug. Although QAN had not directly used the Profanity project to generate the address, they used a project called vanity-eth-gpu,
+  which had derived its code from Profanity and so inherited the bug. QAN is a layer 1 blockchain that claims to be quantum-resistant.The
+  thief stole 1.44 billion QANX from QANX''s BNB Chain bridge, which they traded for 3,090 BNB (~$837,000) and tumbled through
+  Tornado Cash. One minute later, they drained 1.43 billion QANX from QANX''s Ethereum bridge, traded it for 255.4 ETH (~$327,000),
+  and tumbled it as well. In total, $1.16 million was cashed out via Tornado. News of the attack, and the attacker''s sell-off,
+  caused the QANX price to plummet by 94%.The attacker still holds more than 1 million QANX, nominally worth $608,000. However,
+  QAN withdrew liquidity for the project on Uniswap and Pancakeswap, which will make it more difficult for the attacker to
+  sell off their remaining tokens.This was the second theft affecting the QAN platform this year. In May, an attacker stole
+  4.4 million QANX, which they traded for 370 ETH (valued at ~$707,000 at the time).
+
+
+  Total loss estimated at $1,163,964.'

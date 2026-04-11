@@ -1,0 +1,16 @@
+source_name: "Cisco Salesforce ShinyHunters Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/cisco-confirms-salesforce-data-breach-via-shinyhunters-campaign/"
+date_of_breach: "2025-07-01"
+date_of_disclosure: "2025-08-20"
+date_of_customer_notification: "2025-08-20"
+category: cloud
+initial_attack_vector: "ShinyHunters compromised Cisco's Salesforce CRM environment through social engineering / vishing of a Salesforce-privileged employee, part of the broader 2025 ShinyHunters Salesforce campaign"
+cve: []
+vendor_product: "Salesforce"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Cisco confirmed in August 2025 that it had been affected by the ShinyHunters Salesforce social engineering campaign. Exposed data included names, addresses, user IDs, email addresses, phone numbers, and account metadata for Cisco customers and partners. This is a separate incident from the April 2026 TeamPCP/Trivy supply chain attack that targeted Cisco's developer environment. Part of the broader 2025 Salesforce campaign affecting TransUnion (44M+), Air France-KLM, Pandora, Chanel, Stellantis, and Farmers Insurance."
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

@@ -1,0 +1,18 @@
+source_name: Tweet thread by Geist Finance
+source_url: https://twitter.com/GeistFinance/status/1679827762444378114
+date_of_breach: '2023-07-14'
+date_of_disclosure: '2023-07-14'
+category: cryptocurrency
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Geist Finance
+blockchain: ethereum, fantom
+notes: Defi lending project Geist Finance announced they would be shutting down after more than $200 million was drained from
+  the Multichain project in two separate events in early July. Geist Finance had previously allowed people to borrow against
+  assets bridged via Multichain, and had over $29 million TVL. However, price oracles are no longer reporting accurate prices
+  of the bridged equivalents of tokens, which are now largely unbacked thanks to the missing assets, and trading at a massive
+  discount to the original tokens.Geist paused their smart contracts on July 6, then reenabled the withdraw and repay functions
+  on July 9, while waiting for news from Multichain. Now that Multichain has confirmed that the missing hundreds of millions
+  will not be recovered, Geist has announced they will not reopen. If they were to do so, the platform would almost immediately
+  take on bad debt as people exploited the price discrepancies.Multichain added, "Just to be clear this is in no way an attempt
+  to blame Chainlink oracles which worked as they should. There are no oracles for the Multichain assets themselves because
+  there was the expectation to exchange them 1:1. Nobody is to blame except Multichain here."

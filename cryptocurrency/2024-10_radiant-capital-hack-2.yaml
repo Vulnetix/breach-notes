@@ -1,0 +1,18 @@
+source_name: '"Radiant Capital Loses $50M to Second Blockchain Exploit This Year"'
+source_url: https://www.coindesk.com/tech/2024/10/16/radiant-capital-loses-50m-to-blockchain-exploit/
+date_of_breach: '2024-10-16'
+date_of_disclosure: '2024-10-16'
+category: cryptocurrency
+initial_attack_vector: Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise
+vendor_product: Radiant Capital
+blockchain: ethereum
+financial_loss_usd: 50000000
+notes: 'The cryptocurrency lending project Radiant Capital was hacked for the second time in under a year, this time for more
+  than $50 million in the USDC stablecoin, wBNB, ETH, and other tokens. An attacker successfully gained access to three of
+  eleven private keys controlling a multisignature wallet, which enabled them to upgrade the project''s smart contracts in
+  such a way as to drain funds.This is the second Radiant Capital exploit this year, after a $4.5 million theft in January
+  that was enabled by an unaddressed vulnerability in the underlying Compound Finance code.The US and South Korean governments
+  later attributed this attack on Radiant to North Korean state-sponsored attackers.
+
+
+  Total loss estimated at $50,000,000.'

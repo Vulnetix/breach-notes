@@ -1,0 +1,16 @@
+source_name: Tweet thread by BlockSec
+source_url: https://twitter.com/BlockSecTeam/status/1520350965274386433
+date_of_breach: '2022-04-30'
+date_of_disclosure: '2022-04-30'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Fei Protocol
+blockchain: ethereum
+financial_loss_usd: 80000000
+notes: 'A hacker attacked multiple Rari liquidity pools relating to the Fei Protocol, exploiting a known re-entrancy vulnerability
+  that exists on forks of the Compound protocol. The attacker stole more than $80 million from the projects.Fei Protocol tweeted
+  that they had paused borrowing to avoid further thefts, and offered a $10 million bug bounty if the hacker returned the
+  money.
+
+
+  Total loss estimated at $80,000,000.'

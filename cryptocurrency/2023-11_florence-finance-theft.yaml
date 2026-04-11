@@ -1,0 +1,14 @@
+source_name: Tweet by PeckShieldAlert
+source_url: https://twitter.com/PeckShieldAlert/status/1730045158509727968
+date_of_breach: '2023-11-30'
+date_of_disclosure: '2023-11-30'
+category: cryptocurrency
+initial_attack_vector: Address poisoning attack
+vendor_product: Florence Finance theft
+blockchain: ethereum
+financial_loss_usd: 1450000
+notes: 'An apparent address poisoning attack on the Florence Finance real-world asset lending protocol led to the loss of
+  $1.45 million in the USDC stablecoin.As of December 4, Florence Finance had not publicly acknowledged the theft.
+
+
+  Total loss estimated at $1,450,000.'

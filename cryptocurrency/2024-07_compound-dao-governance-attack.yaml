@@ -1,0 +1,20 @@
+source_name: '"Compound DAO asleep at the wheel as $25M governance ''attack'' passes"'
+source_url: https://protos.com/compound-dao-asleep-at-the-wheel-as-25m-governance-attack-passes/
+date_of_breach: '2024-07-28'
+date_of_disclosure: '2024-07-28'
+category: cryptocurrency
+initial_attack_vector: Governance attack / malicious on-chain proposal
+vendor_product: Compound DAO governance attack
+blockchain: ethereum
+notes: A controversial proposal in front of the Compound Finance DAO has narrowly passed, granting 499,000 COMP (~$24 million,
+  and amounting to 5% of the project's treasury) to an outside group. A Compound Finance whale, "Humpy", proposed the vote
+  to allocate the tokens to a protocol created by a group called the "Golden Boys", which Humpy also leads. The vote was the
+  third attempt to allocate tokens to the Golden Boys' group, after two unsuccessful votes in May and earlier in July.Humpy
+  has previously been accused of governance attacks on other protocols, including Balancer and SushiSwap.Prior to the proposal's
+  passage, some Compound Finance DAO members raised objections. "In my personal opinion, the actions of Humpy and the Golden
+  Boys can be considered a governance attack if they persist in their attempts to take funds from the protocol in clear opposition
+  to the will of all other Compound DAO delegates," stated Compound Finance security adviser Michael Lewellen, who also described
+  the proposal as "a malicious attempt to steal funds from the protocol".Afterwards, Lewellen wrote that "OpenZeppelin is
+  working with all active delegates and Compound contributors to assess our options for protecting the protocol. We see serious
+  risks to the future decentralization of the DAO as a result of Proposal 289 passing and so we are exploring options to mitigate
+  or reverse this outcome."

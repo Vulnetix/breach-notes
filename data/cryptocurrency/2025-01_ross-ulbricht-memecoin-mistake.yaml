@@ -1,0 +1,17 @@
+source_name: Tweet thread by Arkham
+source_url: https://x.com/arkham/status/1884976064717365367
+date_of_breach: '2025-01-30'
+date_of_disclosure: '2025-01-30'
+category: cryptocurrency
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Ross Ulbricht memecoin mistake
+blockchain: solana
+notes: Ross Ulbricht, the founder of the Silk Road darknet market place, earned a presidential pardon on January 21 as an
+  apparent thank you by President Trump to the Libertarian Party. When fans created a token called $ROSS to celebrate his
+  release, they sent a substantial number of the tokens — 50% of the supply — to donation wallets that his family have operated
+  for years, used to raise money to campaign for his release.It's not clear whether Ulbricht has taken over control of these
+  wallets, or if they are still being operated on his behalf. Either way, whoever does control the wallets made a big mistake
+  when they tried to cash out on their memecoin stash by adding single-sided liquidity on Meteora. They accidentally initialized
+  the liquidity pool at too low a price, allowing a MEV bot to snap up 5% of the token supply (notionally ~$1.5 million) at
+  a discount and resell them.The wallet operator then made the same error again with a larger quantity of tokens, selling
+  off another 35% of the supply and losing out on around $10.5 million in notional value.

@@ -1,0 +1,13 @@
+source_name: '"Top DEXs Aerodrome, Velodrome hit with front-end compromise, urge users to avoid main domains"'
+source_url: https://www.theblock.co/post/380037/top-dexs-aerodrome-velodrome-hit-with-front-end-compromise-urge-users-to-avoid-main-domains
+date_of_breach: '2025-11-22'
+date_of_disclosure: '2025-11-22'
+category: cryptocurrency
+initial_attack_vector: DNS hijacking / domain takeover (front-end compromise)
+vendor_product: Aerodrome and Velodrome
+blockchain: ethereum
+notes: Attackers redirected users intending to visit the websites for the decentralized exchanges Aerodrome and Velodrome
+  to their own fraudulent versions using DNS hijacking, after taking control of the websites' domains. The platforms urged
+  users not to visit the websites as they worked to regain control.This is the second time such an attack has happened to
+  these same platforms, with another DNS hijacking incident occurring almost exactly two years ago. In that instance, users
+  lost around $100,000 when submitting transactions via the scam websites.

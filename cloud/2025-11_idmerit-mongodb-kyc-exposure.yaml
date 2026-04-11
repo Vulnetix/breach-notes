@@ -1,0 +1,16 @@
+source_name: "IDMerit MongoDB KYC Data Exposure - 1 Billion Records"
+source_url: "https://cybernews.com/security/global-data-leak-exposes-billion-records/"
+date_of_breach: "2025-11-11"
+date_of_disclosure: "2026-02-18"
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: "Misconfiguration: IDMerit left a MongoDB database containing KYC identity verification records publicly accessible on the internet without authentication"
+cve: []
+vendor_product: "MongoDB (cloud database)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Cybernews researchers discovered on November 11, 2025, that IDMerit (a US identity verification and KYC/AML services provider) had left a MongoDB database publicly exposed without authentication. The database was secured November 12, 2025. Disclosure occurred February 18, 2026 (99 days after discovery). The exposed database contained approximately 1 billion personally identifiable records across 26 countries, including full names, addresses, national ID numbers, dates of birth, phone numbers, email addresses, telecom metadata, and KYC/AML verification logs. The US accounted for 203 million records, Mexico 124 million. No confirmed malicious access was reported, and no regulatory enforcement actions were announced as of February 2026."
+cloud_provider: "MongoDB"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

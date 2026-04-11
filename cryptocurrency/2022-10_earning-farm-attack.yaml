@@ -1,0 +1,18 @@
+source_name: Tweet by MevRefund
+source_url: https://twitter.com/MevRefund/status/1580917351217627136
+date_of_breach: '2022-10-14'
+date_of_disclosure: '2022-10-14'
+category: cryptocurrency
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Earning.Farm attack
+blockchain: ethereum
+financial_loss_usd: 971248
+notes: 'The defi project Earning.Farm lost 748 ETH (~$971,000) to a hacker using a flash loan attack. The project contract
+  was missing a check that a flash loan was initiated by the protocol, so the attacker was able to instruct the project to
+  withdraw large amounts of funds, which they then were able to transfer to themselves.Amusingly, one of the transactions
+  by the hacker was frontrun by a MEV bot known as 0xa57, which made a tidy 480 ETH (~$623,000) from the attack. The second
+  transaction succeeded, landing the attacker 268 ETH (~$348,000). According to a MEV researcher, 0xa57 has been known to
+  return funds that were obtained as a result of a hack.
+
+
+  Total loss estimated at $971,248.'

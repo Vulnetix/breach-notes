@@ -1,0 +1,16 @@
+source_name: "Microsoft Azure ChaosDB Cosmos DB Vulnerability — All Azure Customers at Risk"
+source_url: "https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough"
+date_of_breach: "2021-08-09"
+date_of_disclosure: "2021-08-26"
+date_of_customer_notification: "2021-08-26"
+category: cloud
+initial_attack_vector: "Wiz.io researchers discovered a chain of vulnerabilities in Azure Cosmos DB's Jupyter Notebook integration that allowed complete access to any Azure Cosmos DB customer's database — without any action required from the victim; the vulnerability enabled attackers to read, write, and delete data in Cosmos DB accounts belonging to any Azure customer"
+cve: []
+vendor_product: "Microsoft Azure Cosmos DB (globally distributed cloud database)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 9 August 2021, Wiz.io security researchers discovered a critical vulnerability chain in Microsoft Azure Cosmos DB — Microsoft's flagship globally distributed database service used by thousands of major companies. The researchers called it 'ChaosDB.' The vulnerability chain exploited a feature called Jupyter Notebook integrated into Cosmos DB, which allowed privilege escalation to gain access to other customers' Cosmos DB primary keys, database contents, and connection strings — with no action required by the victim. An attacker with a Cosmos DB account could potentially access any other customer's data. Microsoft was notified on 9 August 2021 and disabled the Jupyter Notebook feature within 48 hours. Microsoft sent notifications on 26 August 2021 to approximately 3,300 Azure customers whose primary keys may have been accessible — though the researchers noted the vulnerability had existed since at least 2019 and potentially could have been exploited by anyone with an Azure account during that two-year period. Microsoft offered a $40,000 bug bounty for the discovery. Microsoft stated it found no evidence that external parties had discovered or exploited the vulnerability. The case highlighted the severity of cloud provider vulnerabilities — where a single flaw in a shared platform can potentially expose all customers simultaneously — and the difficulty for customers to detect or prevent such exposures."
+cloud_provider: "Azure"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

@@ -1,0 +1,16 @@
+source_name: '"Thodex CEO Denies Rug-Pull, Discloses Cyberattacks, Says ''Funds Are Safe''"'
+source_url: https://decrypt.co/68894/thodex-ceo-denies-rug-pull-discloses-cyberattacks-says-funds-are-safe
+date_of_breach: '2021-04-21'
+date_of_disclosure: '2021-04-21'
+category: cryptocurrency
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Thodex exit
+blockchain: bitcoin
+financial_loss_usd: 2000000000
+notes: 'Turkish Bitcoin exchange Thodex halted trading and limited customers'' access to their investments, claiming it was
+  to investigate suspicious activity and swearing it was not an exit scam. With an international manhunt now underway for
+  the Thodex CEO, and no sign of the approximately $2 billion that was invested in the platform, it seems awfully likely it
+  was a rug pull.
+
+
+  Total loss estimated at $2,000,000,000.'

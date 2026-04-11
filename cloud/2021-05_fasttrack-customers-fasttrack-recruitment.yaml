@@ -1,0 +1,26 @@
+source_name: Fasttrack Customers Third-Party Breach (May 2021)
+source_url: https://www.hackread.com/uk-recruitment-firm-exposed-applicants-data/
+date_of_breach: 2021-05-01
+date_of_disclosure: '2021-05-20'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Fasttrack Recruitment
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'A UK recruitment firm exposed sensitive applicants data for months. FastTrack
+  Reflex Recruitment firm recently joined the ranks of other companies that have been
+  affected by data leaks due to misconfigured AWS S3 buckets . This data breach majorly
+  affected the applicants whose CVs containing personal information were leaked, reports
+  the research team at Website Planet. Attached to numerous CVs were the personal
+  IDs of applicants, including passports, citizen ID cards, driver’s licenses, and
+  skilled worker IDs. All of these constitute direct and indirect applicant PII. Examples
+  of directly identifiable PII include the following:. It is worth noting that the
+  configuration of the server is not the responsibility of Amazon but rather the company,
+  FastTrack, that is using it as a public cloud storage resource. Third-party company:
+  Fasttrack Recruitment.'
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

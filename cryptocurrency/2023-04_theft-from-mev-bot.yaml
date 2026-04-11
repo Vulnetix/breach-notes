@@ -1,0 +1,21 @@
+source_name: '"Ethereum Bot Gets Attacked for $20M as Validator Strikes Back"'
+source_url: https://www.coindesk.com/business/2023/04/03/ethereum-mev-bot-gets-attacked-for-20m-as-validator-strikes-back/
+date_of_breach: '2023-04-03'
+date_of_disclosure: '2023-04-03'
+category: cryptocurrency
+initial_attack_vector: MEV / sandwich attack
+vendor_product: Theft from MEV bot
+blockchain: ethereum
+financial_loss_usd: 25389731
+notes: 'It''s a dog-eat dog-world in the crypto universe, where everyone''s trying to steal money from everyone else.MEV bots
+  are a phenomenon that became popular in recent times: bots that use various techniques to extract value by inspecting pending
+  blockchain transactions and then sending advantageous transactions of their own. In this case, a bot was performing a "sandwich
+  attack": sending transactions just before and just after a pending transaction, which manipulate the price of the underlying
+  asset, allowing the bot operator to "steal" value from the victim — "steal" in quotes, because there is some debate over
+  whether MEV bots are really stealing, or are operating within the rules laid out for them.In order to manipulate prices
+  in this way, they have to put a substantial amount of money at risk. A "rogue" Ethereum validator appeared to replace some
+  of the transactions that were being executed by the bot, leading to a loss of WBTC, USDT, Dai, and WETH totaling a bit over
+  $25 million.
+
+
+  Total loss estimated at $25,389,731.'

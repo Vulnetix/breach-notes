@@ -1,0 +1,19 @@
+source_name: '"Aave hacked via periphery contract — $56K stolen from ''tip jar''"'
+source_url: https://protos.com/aave-hacked-via-periphery-contract-56k-stolen-from-tip-jar/
+date_of_breach: '2024-08-28'
+date_of_disclosure: '2024-08-28'
+category: cryptocurrency
+initial_attack_vector: Smart contract vulnerability exploit
+vendor_product: '"Peripheral" Aave smart contract'
+blockchain: ethereum, polygon, avalanche
+financial_loss_usd: 56000
+notes: 'The popular defi lending platform, Aave, suffered a smart contract exploit that allowed an attacker to steal around
+  $56,000. A smart contract outside of the core Aave protocol, which is used to allow people to use existing collateral to
+  repay their loans, had gradually accrued a balance of tokens leftover from slippage. These small leftover token amounts
+  are sometimes called "dust". Altogether, these tokens amounted to around $70,000 across several blockchain networks.An exploiter
+  was able to take advantage of an arbitrary call error that allowed them to steal funds from these various contracts, amounting
+  to around $56,000. Various people associated with Aave emphasized that there was no risk to user funds or flaw in the core
+  Aave protocol, and one described the hack as "raiding the tip jar".
+
+
+  Total loss estimated at $56,000.'

@@ -1,0 +1,14 @@
+source_name: '"Once-hacked for $77M, Beanstalk''s algo stablecoin protocol relaunches"'
+source_url: https://cointelegraph.com/news/once-hacked-for-77m-beanstalk-s-algo-stablecoin-protocol-relaunches
+date_of_breach: '2022-08-06'
+date_of_disclosure: '2022-08-06'
+category: cryptocurrency
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Beanstalk Farms tries a relaunch
+blockchain: ethereum
+notes: The algorithmic stablecoin project Beanstalk Farms suffered a devastating hack in April 2022, suffering $182 million
+  in losses from a governance attack and flash loan exploit on the project. The project tried a fundraiser to restore the
+  stolen money, but only raised $10 million.Now, Beanstalk is re-launching, saying they've made changes to their governance
+  model and security practices, and have received audits from two major firms.In June, the project creator stated that "The
+  thing about a system like Beanstalk is that it works until it doesn't. You can never actually know if it works, only that
+  it has worked so far."

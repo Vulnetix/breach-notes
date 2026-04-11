@@ -1,0 +1,17 @@
+source_name: '"Justin Sun Confirms HTX, Heco Chain Exploited After $100M in Suspicious Transfers"'
+source_url: https://www.coindesk.com/tech/2023/11/22/justin-sun-confirms-htx-heco-chain-exploited-after-100m-in-suspicious-transfers/
+date_of_breach: '2023-11-22'
+date_of_disclosure: '2023-11-22'
+category: cryptocurrency
+initial_attack_vector: Private key compromise
+vendor_product: HTX and Heco Chain
+blockchain: ethereum
+financial_loss_usd: 115000000
+notes: 'Justin Sun confirmed that HTX (formerly Huobi) and its related Heco Chain protocol were hacked for a combined $115
+  million. It''s been a rough few weeks for Sun, whose Poloniex exchange was hacked for around $120 million on November 10,
+  and a rough few months for HTX, which was hacked for $8 million in late September.HTX suspended withdrawals as they investigated
+  the hack, and wrote that the company would "fully compensate for HTX''s hot wallet losses". Security firm Cyvers said they
+  believed the theft was enabled by a private key leak.
+
+
+  Total loss estimated at $115,000,000.'

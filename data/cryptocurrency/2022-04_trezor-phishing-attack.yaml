@@ -1,0 +1,22 @@
+source_name: '"I fell victim to the Trezor phishing scam"'
+source_url: https://www.reddit.com/r/Bitcoin/comments/tvhu4n/i_fell_victim_to_the_trezor_phishing_scam/
+date_of_breach: '2022-04-03'
+date_of_disclosure: '2022-04-03'
+category: cryptocurrency
+initial_attack_vector: Seed phrase / wallet compromise
+vendor_product: Trezor phishing attack
+blockchain: bitcoin
+financial_loss_usd: 72000
+notes: 'A Bitcoin holder using a Trezor hardware wallet fell victim to a phishing scam after attackers stole email lists from
+  a third-party vendor use by Trezor. The user wrote on Reddit that they were "not paying attention and was on autopilot,
+  just doing what it said. Was arguing with my gf via Telegram at the time... had not slept enough, was a bit hungover and
+  was distracted" when they received the email.The email in question appeared to be from Trezor, and claimed that users''
+  funds were in jeopardy. It prompted them to download a new (fake) version of the Trezor wallet software, and when users
+  entered their seed phrase to restore their wallet from a backup, it drained their crypto. "What a mug I am," wrote the affected
+  user. "Had been building up my BTC for seven years and lost it in a few minutes'' utter stupidity."The Reddit post also
+  included two follow-up edits, displaying the victim blaming that is common when users are hit with phishing scams and other
+  attacks. The user wrote "Edit: yes I entered my keys, because I''m a twat Edit 2: a lot of people saying they''d never fall
+  for it. I hope they''re right."
+
+
+  Total loss estimated at $72,000.'

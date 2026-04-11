@@ -1,0 +1,15 @@
+source_name: '"Federal Court Orders South African CEO to Pay Over $3.4 Billion for Forex Fraud"'
+source_url: https://www.cftc.gov/PressRoom/PressReleases/8696-23
+date_of_breach: '2023-04-27'
+date_of_disclosure: '2023-04-27'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Steynberg CFTC fine
+blockchain: bitcoin
+notes: After finding that the South African businessman Cornelius Johannes Steynberg had run Mirror Trading International
+  as a multi-level marketing scheme, in which he accepted 29,421 Bitcoin from at least 23,000 Americans, the CFTC has imposed
+  a record fine. Those 29,421 BTC were priced at $1.7 billion in March 2021 — around the end of Steynberg's multi-year scam.
+  Today they're priced at around $863 million, but unfortunately for Steynberg, the CFTC isn't using today's prices to calculate
+  their penalties.Steynberg has been ordered to pay a total of $3.4 billion — $1.7 billion in restitution and another $1.7
+  billion penalty. Steynberg was arrested in Brazil in December 2021 on an INTERPOL arrest warrant, where he has remained
+  since pending extradition.

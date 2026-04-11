@@ -1,0 +1,15 @@
+source_name: '"Bitcoin custodian Nostr Assets pauses deposits after reaching ''maximum capacity''"'
+source_url: https://cointelegraph.com/news/bitcoin-custodian-nostr-assets-pauses-deposits-after-reaching-maximum-capacity
+date_of_breach: '2023-12-05'
+date_of_disclosure: '2023-12-05'
+category: cryptocurrency
+vendor_product: Nostr Assets gets clogged up
+blockchain: bitcoin
+notes: The Nostr Assets bitcoin platform has had to ask people to stop depositing into their platform because it's all clogged
+  up. The project uses the bitcoin Lightning Network, which itself is an attempt to overcome the slowness and high cost of
+  the bitcoin network. However, it too has limited capacity, and Nostr Assets has announced that the "inbound capacity of
+  lightning channels" was depleted.Meanwhile, the founder of the Nostr social media platform has accused Nostr Assets of being
+  an "affinity scam" by falsely suggesting in their platform name and $NOSTR token naming they are affiliated with the Nostr
+  project. Nostr Assets has described the allegations as "unfounded", saying that their use of the Nostr network means the
+  name is "pertinent", and suggesting that Nostr's founder has no basis to dictate who can use the Nostr name as it is a decentralized
+  and open source project.

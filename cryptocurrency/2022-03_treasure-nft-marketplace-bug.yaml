@@ -1,0 +1,22 @@
+source_name: Tweet by KeyboardMonkey3
+source_url: https://twitter.com/KeyboardMonkey3/status/1499181590186008577
+date_of_breach: '2022-03-02'
+date_of_disclosure: '2022-03-02'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Treasure NFT marketplace bug
+blockchain: ethereum
+financial_loss_usd: 1400000
+notes: 'The Treasure NFT marketplace on Arbitrum (a layer 2 network built atop Ethereum) apparently experienced a bug that
+  allowed someone to "buy" NFTs in transactions where they sent 0 currency. The attacker particularly seemed to target the
+  "Smol Brains" NFT project, likely because of its relatively high value — the project has a floor price of almost $10,000.
+  Some of the NFTs that were transferred at no cost to the attacker had been listed for several times that floor price, including
+  one gold-colored Smol Brain (pictured) that had been put of for sale for the equivalent of $560,000.At least 17 Smol Brains
+  NFTs were stolen, which were listed for a combined total of around $1.4 million. PeckShield reported that more than 100
+  NFTs from multiple collections had been stolen. They reported that the exploit was due to a bug in their contract that allowed
+  an attacker to set a quantity of 0 in a transaction, which when multiplied by the item price resulted in a total price of
+  0.TreasureDAO co-founder John Patten wrote in a tweet while the hack was ongoing that "We will cover the costs of the exploit
+  — I will personally give up all of my Smols to repair this."
+
+
+  Total loss estimated at $1,400,000.'

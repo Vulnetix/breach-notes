@@ -1,0 +1,18 @@
+source_name: '"Venus Protocol Official Statement regarding LUNA"'
+source_url: https://blog.venus.io/venus-protocol-official-statement-regarding-luna-6eb45c3cb058
+date_of_breach: '2022-05-12'
+date_of_disclosure: '2022-05-12'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Terra oracle attacks
+blockchain: terra, avalanche, bsc
+financial_loss_usd: 21800000
+notes: 'Earlier today, Terra halted their blockchain after a devastating few days. Subsequently, Chainlink''s oracle paused
+  the price feed, causing it to fall out of sync with the apparent market price of the token. This enabled multiple attacks
+  on various platforms.$13.5 million was fraudulently borrowed from the Venus protocol on BSC. Blizz Finance on Avalanche
+  reported their protocol had been entirely drained, amounting to around $8.3 million. Blizz subsequently announced in a post-mortem
+  that "Blizz has no treasury or development fund and a significant portion of the stolen assets belonged to our team. As
+  such we regret to announce the protocol has been paused and we do not intend to resume operations."
+
+
+  Total loss estimated at $21,800,000.'

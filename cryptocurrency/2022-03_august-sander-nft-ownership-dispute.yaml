@@ -1,0 +1,25 @@
+source_name: '"Cologne Foundation Challenges Hauser &amp; Wirth Over August Sander Estate"'
+source_url: https://news.artnet.com/art-world/cologne-foundation-challenges-hauser-wirth-august-sander-864383
+date_of_breach: '2022-03-07'
+date_of_disclosure: '2022-03-07'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: August Sander NFT ownership dispute
+blockchain: ethereum
+notes: An NFT project called the August Sander 10K Collection launched on February 11, offering NFTs of all 10,700 photographs
+  by German portrait and documentary photographer August Sander (1876–1964). The project website described a "groundbreaking
+  partnership between Fellowship and the August Sander family estate", apparently referring to their partnership with August
+  Sander's great-grandson Julian. The NFTs were all distributed for free to the Fellowship community, which the project website
+  boasted "speaks volumes about the commitment of both Fellowship and the August Sander family estate to creating a new standard
+  of visibility and public access to large photography collections, an issue that has historically burdened museums". The
+  website does not appear to mention that they take a 10% cut of all secondary sales, which so far appears to have netted
+  them around 7 ETH ($20,000).The problem with this whole scheme is that Julian Sanders does not actually control the Sander
+  estate — it was sold in 1992 by Gerd Sander (August's grandson, and Julian's father) to the Cultural Foundation of the Stadtsparkasse
+  Cologne. That group was surprised to see all of Sander's work suddenly being sold as NFTs without their permission, and
+  submitted a legal notice to have it taken down from OpenSea. OpenSea complied with the request on March 7. After almost
+  two weeks of stalling and deflecting questions about the delisting without even acknowledging the cause, Fellowship and
+  Julian Sander finally released a statement on the issue on March 18. Sander wrote that "a third party... claims to have
+  certain rights in August Sanders' photographs" but that he "believe[s] the complaint is not valid" and would be working
+  with his lawyers to have the collection reinstated. As best as I can tell, it seems that Sander is trying to argue he is
+  entitled to sell his great-grandfather's work as NFTs because he physically possesses the negatives, despite the fact that
+  the Cultural Foundation owns the usage rights to all of Sander's work.

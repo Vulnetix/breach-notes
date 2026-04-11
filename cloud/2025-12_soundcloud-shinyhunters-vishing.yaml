@@ -1,0 +1,16 @@
+source_name: "SoundCloud Data Breach - ShinyHunters Vishing (29.8M Accounts)"
+source_url: "https://www.helpnetsecurity.com/2025/12/16/soundcloud-breach-dos-vpn/"
+date_of_breach: "2025-12-15"
+date_of_disclosure: "2025-12-15"
+date_of_customer_notification: "2025-12-15"
+category: cloud
+initial_attack_vector: "ShinyHunters used vishing (voice phishing) to trick SoundCloud employees into providing access credentials to an ancillary service dashboard rather than the company's core production systems"
+cve: []
+vendor_product: ""
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In December 2025, ShinyHunters breached SoundCloud via vishing — attackers convinced employees to provide access to an ancillary service dashboard. SoundCloud confirmed the breach on December 15, 2025. After the company declined to pay ransom, ShinyHunters began leaking data on January 22, 2026, via Telegram and .onion links. The breach affected approximately 29.8 million accounts, roughly 20% of SoundCloud's user base. Exposed data included names, email addresses, usernames, avatars, follower/following counts, and select users' countries. Passwords, payment card numbers, and financial information were not accessed. Have I Been Pwned indexed the dataset. The breach is part of ShinyHunters' broader 2025–2026 campaign targeting companies via Salesforce/Okta vishing, alongside Qantas, Vietnam Airlines, CarGurus, Crunchbase, Betterment, and dozens of others."
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

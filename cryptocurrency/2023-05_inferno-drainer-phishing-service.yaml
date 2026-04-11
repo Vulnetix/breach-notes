@@ -1,0 +1,20 @@
+source_name: '"$5.9 Million Stolen By Scam as a Service Provider Called Inferno Drainer"'
+source_url: https://drops.scamsniffer.io/post/5-9-million-stolen-by-scam-as-a-service-provider-called-inferno-drainer/
+date_of_breach: '2023-05-19'
+date_of_disclosure: '2023-05-19'
+category: cryptocurrency
+initial_attack_vector: Phishing attack
+vendor_product: Inferno Drainer phishing service
+blockchain: ethereum, bsc, polygon
+financial_loss_usd: 5923380
+notes: 'A scam-as-a-service company identified by ScamSniffer and dubbed "Inferno Drainer" has stolen assets nominally worth
+  around $5.9 million since mid-February. The vendor sells phishing scam software that is then used by phishers to target
+  victims, who believe that they are interacting with an established crypto project. Inferno Drainer takes 20–30% of the stolen
+  funds as "payment" for the scam software.One Inferno Drainer victim lost assets worth around $417,000. They later sent an
+  on-chain message to the thief, writing: "you are ruining my life and for me this money was a lifetime''s work, I won''t
+  have enough my family..." They asked the attacker to return 50% of the funds stolen from them, offering to not report the
+  scammer to Interpol and other authorities in return, and even offering to "sign a contract allowing you to use legally the
+  stolen crypto".
+
+
+  Total loss estimated at $5,923,380.'

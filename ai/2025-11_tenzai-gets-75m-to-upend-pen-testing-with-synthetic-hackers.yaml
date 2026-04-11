@@ -1,0 +1,21 @@
+source_name: Tenzai Gets $75M to Upend Pen Testing With Synthetic Hackers (DataBreachToday)
+source_url: https://www.databreachtoday.com/tenzai-gets-75m-to-upend-pen-testing-synthetic-hackers-a-29991
+date_of_breach: '2025-11-14'
+date_of_disclosure: '2025-11-14'
+date_of_customer_notification: ''
+category: ai
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Tenzai has emerged from stealth with $75 million to develop AI agents capable
+  of performing autonomous penetration tests. Co-founder and CEO Pavel Gurvich says
+  the
+
+
+  Source: DataBreachToday article coverage.'
+ai_model_name: ""
+ai_model_provider: "Tenzai"
+ai_attack_vector: "AI-assisted cyberattack"

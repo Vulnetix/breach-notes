@@ -1,0 +1,12 @@
+source_name: '"Crypto platform hit by $600 million heist asks hacker to become its chief security advisor"'
+source_url: https://www.cnbc.com/2021/08/17/poly-network-cryptocurrency-hack-latest.html
+date_of_breach: '2021-08-11'
+date_of_disclosure: '2021-08-11'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Poly Network
+blockchain: ethereum, bsc
+financial_recovered_usd: 611000000
+notes: Hackers stole approximately $611 million from the decentralized finance platform Poly Network in the largest cryptocurrency
+  theft against a single platform to date. In a bizarre twist, the hacker returned the funds, and Poly Network offered them
+  a position as a chief security advisor (though it is not clear if they accepted).

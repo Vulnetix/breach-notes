@@ -1,0 +1,18 @@
+source_name: Fastly Third-Party Breach (September 2025)
+source_url: "https://www.fastlystatus.com/incident/377884"
+date_of_breach: 2025-09-01
+date_of_disclosure: 2025-09-01
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Drift (Salesloft)
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  In 2025, Fastly experienced a data security incident via a third-party vendor relationship. The compromised
+  third-party vendor was Drift (Salesloft). Source reporting: https://www.fastlystatus.com/incident/377884
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

@@ -1,0 +1,18 @@
+source_name: '"Uprise lost 99% of client funds while shorting LUNA during its price crash: SE Daily"'
+source_url: https://www.theblock.co/post/156031/uprise-lost-99-of-client-funds-while-shorting-luna-during-its-price-crash
+date_of_breach: '2022-07-06'
+date_of_disclosure: '2022-07-06'
+category: cryptocurrency
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Uprise
+blockchain: terra
+financial_loss_usd: 23500000
+notes: 'According to Seoul Economic Daily, the Korean cryptocurrency investment fund Uprise lost 99% of its customer funds
+  when they tried to short Luna during its collapse in May. Although Luna crashed in price from around $90 to fractions of
+  a cent, brief price spikes were enough to wipe out Uprise''s positions. The firm lost 99% of its customers'' funds, or ₩26.7
+  billion ($20.5 million), as well as an additional ₩3.9 billion ($3 million) of its own money.The firm advertised its AI-enabled
+  automatic trading strategies, which it said would reduce the risk involved with leveraged crypto trading.A spokesperson
+  for Uprise stated, "It is true that damage to customer assets has occurred due to unexpected great volatility in the market."
+
+
+  Total loss estimated at $23,500,000.'

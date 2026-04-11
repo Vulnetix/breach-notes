@@ -1,0 +1,19 @@
+source_name: '"Disgraced NRL star Hayne allegedly loses $780k in prison Bitcoin scam"'
+source_url: https://www.news.com.au/sport/nrl/disgraced-nrl-star-hayne-allegedly-loses-780k-in-prison-bitcoin-scam/news-story/7b4f7da4b6e3ddcd0a90e885d5646d54
+date_of_breach: '2023-06-26'
+date_of_disclosure: '2023-06-26'
+category: cryptocurrency
+initial_attack_vector: Ponzi / pyramid scheme
+vendor_product: Ishan Seenar Sappideen's Bitcoin
+blockchain: bitcoin
+financial_loss_usd: 1335000
+notes: 'Quick tip: if you''re in jail and a fellow inmate who is serving twelve years for running a Ponzi scheme asks you
+  to invest in a Bitcoin scheme, don''t do it. Then again, on the list of "things Jarryd Hayne shouldn''t have done", this
+  ranks fairly low.Jarryd Hayne is a convicted rapist once known for his careers in rugby league and, briefly, American football.
+  He''s serving several years in jail, after being convicted of rape, winning an appeal, being retried, and once again being
+  found guilty.Hayne is one of several inmates apparently convinced by the Ponzi schemer inmate, Ishan Seenar Sappidee, that
+  he could make them massive returns. Hayne provided around AU$780,000 (~US$521,000) in Bitcoin to the enterprising inmate,
+  who apparently amassed more than AU$2 million (~US$1.3 million)from at least seven inmates.
+
+
+  Total loss estimated at $1,335,000.'

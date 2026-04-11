@@ -1,0 +1,16 @@
+source_name: "Walt Disney Company Internal Slack Data Breach (NullBulge)"
+source_url: "https://www.bleepingcomputer.com/news/security/hacker-nullbulge-pleads-guilty-to-stealing-disneys-slack-data/"
+date_of_breach: "2024-04-01"
+date_of_disclosure: "2024-07-12"
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: "Malicious file (trojanised AI art program) distributed via GitHub; credential theft from victim's 1Password password manager"
+cve: []
+vendor_product: "Slack"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Ryan Mitchell Kramer (alias 'NullBulge'), a 25-year-old from Santa Clarita, California, distributed a malicious AI art generation tool on GitHub. When a Disney employee downloaded it, Kramer stole credentials from the employee's 1Password password manager, then accessed approximately 10,000 internal Disney Slack channels. The breach occurred April–May 2024 and was publicly announced July 12, 2024, when 1.1 TB of data was posted on BreachForums. Stolen data included internal project details, messages, code, SSNs, login credentials, unreleased game assets, and personal photos. Disney subsequently moved away from Slack. Kramer agreed to plead guilty to two felony charges (unauthorized computer access and threatening to damage a protected computer). Initially presented as a Russian hacktivist group attack; later confirmed as a single US individual."
+cloud_provider: "Slack"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

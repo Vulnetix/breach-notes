@@ -1,0 +1,14 @@
+source_name: '"Terraform Labs and founder Do Kwon found liable in US civil fraud trial"'
+source_url: https://www.reuters.com/legal/terraform-labs-make-final-pitch-jury-civil-fraud-trial-wraps-2024-04-05/
+date_of_breach: '2024-04-05'
+date_of_disclosure: '2024-04-05'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Do Kwon and Terraform Labs found liable for $40 billion fraud
+blockchain: terra
+notes: After hearing arguments that Terraform Labs was "built on lies" during a two-week-long trial, the jury in the civil
+  case against the company and its founder Do Kwon found that both were liable for fraud.Kwon and his company were behind
+  the algorithmic stablecoin, Terra, which dramatically collapsed in May 2022, sending huge ripple effects throughout the
+  ecosystem. He and his company had lied about the stability of the token, ultimately causing massive financial damage to
+  the tune of around $40 billion.Kwon is in custody in Montenegro after attempting to flee criminal cases in both the United
+  States and South Korea. The civil case in the US proceeded without him.

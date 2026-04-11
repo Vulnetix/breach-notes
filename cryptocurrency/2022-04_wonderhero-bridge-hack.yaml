@@ -1,0 +1,15 @@
+source_name: '"[IMPORTANT] — Community Update: WonderHero BNB Chain Bridging Withdrawal Compromised"'
+source_url: https://wonderhero.medium.com/community-update-wonderhero-bnb-chain-bridging-withdrawal-compromised-84327a4fd79
+date_of_breach: '2022-04-07'
+date_of_disclosure: '2022-04-07'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: WonderHero bridge
+blockchain: bsc
+financial_loss_usd: 325000
+notes: 'WonderHero is a mobile play-to-earn turn-based strategy game. Attackers were able to mint 80 million $WND after successfully
+  exploiting the bridge linking the WonderHero play-to-earn sidechain and the BNB chain. The attacker was able to swap their
+  stolen $WND for 750 BNB ($325,000), tanking the price of $WND to near zero in the process.
+
+
+  Total loss estimated at $325,000.'

@@ -1,0 +1,16 @@
+source_name: "DataDog AWS Access Keys Exposed in Breach"
+source_url: "https://www.datadoghq.com/blog/2016-07-08-security-notice/"
+date_of_breach: "2016-07-07"
+date_of_disclosure: "2016-07-08"
+date_of_customer_notification: "2016-07-08"
+category: cloud
+initial_attack_vector: "An attacker gained access to DataDog's internal systems and obtained AWS access keys, which could have been used to access customer AWS environments where the DataDog agent was installed"
+cve: []
+vendor_product: "Amazon Web Services (AWS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On July 7-8, 2016, DataDog, a cloud monitoring and analytics platform, detected unauthorized access to its internal systems and discovered that AWS access keys had been exposed. DataDog immediately rotated all credentials and notified customers. Because DataDog agents run with IAM permissions inside customer AWS environments, the potential exposure of these keys raised concerns about downstream access to customer cloud infrastructure. DataDog stated it found no evidence that customer data was accessed. The company's rapid response — detection and notification within approximately 24 hours — was noted as a positive example of breach response."
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:iam::{account}:access-key"

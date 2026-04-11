@@ -1,0 +1,16 @@
+source_name: "Okta / Critical Start / Hunters Security"
+source_url: "https://www.criticalstart.com/okta-breach-%E2%80%93-lapsus-hacker-group"
+date_of_breach: "2022-01-16"
+date_of_disclosure: "2022-03-22"
+date_of_customer_notification: "2022-03-22"
+category: cloud
+initial_attack_vector: "CWE-1391: Use of Weak Credentials (third-party support contractor workstation compromise via RDP + credential harvesting)"
+cve: []
+vendor_product: "Okta Identity Platform"
+software_package: ""
+malware: "Mimikatz"
+supply_chain_claimed: false
+notes: "Lapsus$ accessed Okta's network via compromised Sitel/Sykes contractor support workstation starting Jan 16 2022. Attacker used RDP lateral movement, accessed DomAdmins-LastPass.xlsx via Office 365, used Mimikatz, Sysinternals tools. Gained potential access to 366 Okta customers. Okta's public disclosure was delayed ~2 months until Lapsus$ posted screenshots March 22 2022. Impacted customers included Cloudflare and Twilio."
+cloud_provider: "Okta"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

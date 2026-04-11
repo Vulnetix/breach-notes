@@ -1,0 +1,17 @@
+source_name: '" ''The Monerun'' scheduled for April 18th, Monero''s 8th birthday"'
+source_url: https://www.monero.observer/the-monerun-scheduled-april-18-2022-monero-8th-birthday/
+date_of_breach: '2022-04-14'
+date_of_disclosure: '2022-04-14'
+category: cryptocurrency
+vendor_product: Monero holders plan bank run
+blockchain: monero
+notes: 'Monero is a privacycoin that attempts to address some of the privacy issues with more popular currencies (like Bitcoin
+  or Ethereum) — namely, that anyone can see that wallet A sent a transaction of X amount to wallet B. However, privacy cuts
+  both ways, and this feature also means that, without cooperation from the exchanges, the Monero community can''t verify
+  that exchanges actually hold the amounts of Monero they''re allowing their users to buy. Some in the community have become
+  increasingly suspicious that exchanges are selling "paper Monero": fake Monero that''s not actually backed by reserves.To
+  try to test this theory, Monero users have scheduled what is basically a bank run: they are encouraging all users to try
+  to move their Monero out of exchanges on April 18. Some have claimed that exchanges including Binance and Huobi have frozen
+  withdrawals of Monero in anticipation of the mass-withdrawal, in an effort to prevent their lack of reserves from being
+  discovered. Indeed, Huobi suspended XMR deposits and withdrawals 10 days ago and has yet to restore the functionality, which
+  they say is due to a wallet upgrade. Binance also shows "withdrawal suspended" on its status page as of April 14.'

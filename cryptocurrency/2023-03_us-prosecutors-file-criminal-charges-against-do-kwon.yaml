@@ -1,0 +1,14 @@
+source_name: '"Do Kwon Now Faces Criminal Fraud Charges From U.S. Prosecutors"'
+source_url: https://www.coindesk.com/policy/2023/03/23/do-kwon-now-faces-criminal-fraud-charges/
+date_of_breach: '2023-03-23'
+date_of_disclosure: '2023-03-23'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: US prosecutors file criminal charges against Do Kwon
+blockchain: terra
+notes: 'Only hours after Do Kwon was arrested in Montenegro, federal prosecutors in New York filed eight criminal charges
+  against him: conspiracy to defraud, conspiracy to defraud and engage in market manipulation, and two counts each of commodities
+  fraud, securities fraud, and wire fraud. Prosecutors accuse Kwon of defrauding people by selling LUNA and UST (Terra) based
+  on false claims about the technology, degree of adoption, and effectiveness of the algorithm intended to maintain Terra''s
+  stability.The criminal charges out of the US add to civil charges he''s facing from the SEC, as well as an investigation
+  out of South Korea.'

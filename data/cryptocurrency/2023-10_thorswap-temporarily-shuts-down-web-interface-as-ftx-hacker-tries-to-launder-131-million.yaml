@@ -1,0 +1,18 @@
+source_name: '"How FTX hacker''s $131m ''laundering'' spree caused DeFi exchange to shut off"'
+source_url: https://www.dlnews.com/articles/defi/thorswap-shut-off-after-ftx-hacker-laundering-spree/
+date_of_breach: '2023-10-06'
+date_of_disclosure: '2023-10-06'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: THORSwap temporarily
+blockchain: ethereum
+notes: The THORSwap decentralized exchange has put its web interface into "maintenance mode" in hopes of thwarting the thief
+  who stole over $400 million from the FTX exchange as it was mid-collapse in November 2022. Those funds have remained largely
+  for almost a year, until the thief began moving funds recently — interestingly, coinciding with the start of Sam Bankman-Fried's
+  criminal trial.The attacker tried to launder around $131 million of the stolen assets by routing them through services including
+  Railgun and THORSwap. After "consultation with advisors, legal counsel, and law enforcement", THORSwap decided to pause
+  its web interface in hopes of making money laundering more challenging for the attacker — although the thief could still
+  interact with the THORSwap smart contracts directly, if they so chose.Some criticized THORSwap for apparently caving on
+  its censorship-resistant, decentralized ethos. Others, however, saw the move as understandable given the THORSwap developers
+  reside in the United States, which has recently cracked down on mixing services that facilitate the laundering of illicit
+  funds.

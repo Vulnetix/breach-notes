@@ -1,0 +1,11 @@
+source_name: '"The world''s first ''NFT restaurant'' is a members only club that has raised $14 million"'
+source_url: https://fortune.com/2022/01/13/nft-restaurant-new-york/
+date_of_breach: '2022-01-07'
+date_of_disclosure: '2022-01-07'
+category: cryptocurrency
+vendor_product: Flyfish Club NFT restaurant announced
+blockchain: ethereum
+notes: Gary Vaynerchuk announced plans for his New York City "NFT restaurant", Flyfish Club. The cheapest NFT, giving access
+  to only parts of the restaurant, was listed at 2.5 ETH (at the time around $8,000); a full-access membership was listed
+  at 4.25 ETH (around $14,400). However, the NFT only grants access to the restaurant. Patrons will still pay for their food
+  and drink — and in real money, not crypto.

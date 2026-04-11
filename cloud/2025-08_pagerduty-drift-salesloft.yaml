@@ -1,0 +1,21 @@
+source_name: PagerDuty Third-Party Breach (August 2025)
+source_url: https://www.pagerduty.com/blog/news-announcements/salesloft-drift-data-breach-update-to-our-customers/
+date_of_breach: 2025-08-01
+date_of_disclosure: '2025-09-04'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Drift (Salesloft)
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Update: Salesloft’s Drift Integration Security Incident Impacting Some PagerDuty
+  Salesforce Data. Per our August 29 post, we were notified in late August that PagerDuty
+  (and our customers) were affected by the Salesloft-Drift breach. We shared what
+  we. Learn how strategic technology investments powered FOX''s digital and operational
+  transformation. We''re empowering teams with the time and efficiency to build the
+  future. Third-party company: Drift (Salesloft).'
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

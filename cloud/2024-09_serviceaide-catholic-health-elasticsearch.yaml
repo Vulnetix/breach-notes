@@ -1,0 +1,16 @@
+source_name: "Serviceaide Unsecured Elasticsearch Database - 483K Catholic Health Patients"
+source_url: "https://www.hipaajournal.com/serviceaide-data-breach/"
+date_of_breach: "2024-09-19"
+date_of_disclosure: "2025-05-09"
+date_of_customer_notification: "2025-05-09"
+category: cloud
+initial_attack_vector: "Misconfiguration: Serviceaide left an Elasticsearch database containing Catholic Health patient PHI publicly accessible on the internet without authentication for approximately six weeks"
+cve: []
+vendor_product: "Elasticsearch (cloud database)"
+software_package: "Elasticsearch"
+malware: ""
+supply_chain_claimed: false
+notes: "Between September 19 and November 5, 2024, Serviceaide (an agentic AI-powered IT and workflow management platform based in Santa Clara, CA) left an Elasticsearch database containing Catholic Health patient records publicly accessible without authentication. Serviceaide discovered the exposure on November 15, 2024, but did not notify the HHS Office for Civil Rights until May 9, 2025 — approximately 175 days after discovery. Approximately 483,000 patients of Catholic Health (a six-hospital healthcare system in Buffalo, New York) were affected. Exposed data includes names, dates of birth, Social Security numbers, medical and health information, treatment details, health insurance information, and email addresses/usernames. Six class action lawsuits were filed in federal court in California on May 19, 2025."
+cloud_provider: "Elasticsearch"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

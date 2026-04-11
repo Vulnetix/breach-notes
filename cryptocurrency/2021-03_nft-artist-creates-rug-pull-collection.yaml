@@ -1,0 +1,15 @@
+source_name: '"OpenSea collector ''pulls the rug'' on NFTs to highlight arbitrary value"'
+source_url: https://cointelegraph.com/news/opensea-collector-pulls-the-rug-on-nfts-to-highlight-arbitrary-value
+date_of_breach: '2021-03-09'
+date_of_disclosure: '2021-03-09'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: NFT artist creates
+blockchain: ethereum
+notes: NFT artist "neitherconfirm" created a collection of 26 NFTs of stained glass-style computer-generated art. After release,
+  they changed the art for each NFT to a picture of a rug, an apparent reference to "rug pulls". The artist wrote on Twitter,
+  "Nobody got hurt. It is pretty easy to change the jpg, even if it does not belong to me or it is on auction. I am the artist,
+  my decision, right? A thread from somebody making his living with art irl about the value of NFTs... All discussions about
+  the value of NFTs are meaningless as long as the token is not inseparable from the artwork itself... What is the meaning
+  of creating an unforgeable token on a highly secured network if somebody can alter, relink or destroy your possession? As
+  long as the value of your artwork is reliable on a central service you do not own anything."

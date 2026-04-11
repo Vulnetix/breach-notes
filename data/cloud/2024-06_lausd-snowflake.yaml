@@ -1,0 +1,16 @@
+source_name: "Los Angeles Unified School District (LAUSD) Snowflake Credential Breach"
+source_url: "https://www.bleepingcomputer.com/news/security/los-angeles-unified-confirms-student-data-stolen-in-snowflake-account-hack/"
+date_of_breach: "2024-04-01"
+date_of_disclosure: "2024-06-01"
+date_of_customer_notification: "2024-07-01"
+category: cloud
+initial_attack_vector: "Stolen credentials (via infostealer malware) used to access LAUSD vendor Snowflake account with no MFA configured; part of the broader UNC5537 Snowflake credential campaign"
+cve: []
+vendor_product: "Snowflake (cloud data platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Los Angeles Unified School District had student and teacher data stored in Snowflake accounts maintained by one or more third-party vendors. As part of the UNC5537 / ShinyHunters credential campaign targeting 160+ Snowflake customers, threat actor 'Sp1d3r' accessed LAUSD vendor accounts. In June 2024, the attacker posted ~11 GB of data for sale on dark web forums for $1,000, allegedly containing 26+ million student records, 24,000 teacher records, and ~500 staff records. Exposed data included student names, addresses, financials, grades, performance scores, disability status, discipline details, parent information, and physical location data. LAUSD stated no direct compromise of its own systems; the breach was entirely via a third-party vendor's unsecured Snowflake instance. Notable as the largest US K-12 breach linked to the Snowflake campaign."
+cloud_provider: "Snowflake"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

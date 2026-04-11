@@ -1,0 +1,16 @@
+source_name: Tweet by FTM Ecologist
+source_url: https://twitter.com/ftm_ecologist/status/1689070014446673924
+date_of_breach: '2023-08-09'
+date_of_disclosure: '2023-08-09'
+category: cryptocurrency
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: SpiritSwap to
+blockchain: fantom
+notes: SpiritSwap announced on its Discord that the project will be shutting down on September 1 unless they can find a new
+  team to take over the project by that time. SpiritSwap lost their entire project treasury in the collapse of Multichain,
+  and announced that they have "run out of funds to cover the necessary operational costs." The project plans to remain operational
+  until September 1 to remove their liquidity.SpiritSwap was previously one of the most popular DEXes on Fantom, boasting
+  an all-time-high TVL of $374 million in January. It now has less than $3 million TVL, thanks in part to the Multichain collapse
+  and to the broader cryptocurrency bear market.SpiritSwap is only the most recent project to announce its closure as a result
+  of the Multichain fiasco. In July, Geist Finance and Hector Network also announced they would be shutting down due to Multichain
+  contagion.

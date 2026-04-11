@@ -1,0 +1,16 @@
+source_name: "PageUp HR SaaS Breach — Australia, Used by Telstra, NAB, Coles, Australian Government"
+source_url: "https://www.abc.net.au/news/2018-06-06/pageup-data-breach-what-we-know/9839618"
+date_of_breach: "2018-05-23"
+date_of_disclosure: "2018-06-01"
+date_of_customer_notification: "2018-06-01"
+category: cloud
+initial_attack_vector: "Malware infection of PageUp's systems; PageUp detected unusual activity on May 23, 2018 and confirmed malware had compromised some of its infrastructure; the precise initial intrusion vector (e.g., spearphishing, unpatched vulnerability) was not publicly disclosed"
+cve: []
+vendor_product: "PageUp (Australian HR and recruitment SaaS platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "On June 1, 2018, PageUp — an Australian HR software company whose recruitment platform is used by over 100 Australian and international enterprises — disclosed that it had detected unauthorized access and malware on its systems on May 23, 2018. PageUp's platform is used for recruitment and HR management by major Australian organizations including Telstra, National Australia Bank (NAB), Coles, Australia Post, Linfox, Medibank, and numerous Australian government departments. The malware potentially exposed data of hundreds of thousands of current and former job applicants, including names, email addresses, physical addresses, phone numbers, employment history, and potentially referee details. PageUp stated that employee records and data stored in its HR management modules beyond the recruitment system were not believed to have been affected. Numerous major employers — including Telstra, NAB, Coles, and the Australian government — suspended use of PageUp's services or issued precautionary notifications to applicants. The Australian Cyber Security Centre (ACSC) issued an alert. PageUp's global client base extended to the UK, USA, and other countries. The company engaged external forensic firm KPMG and stated it found no evidence that data had been exfiltrated, though this could not be definitively confirmed given the nature of the malware. PageUp resumed services after implementing remediation measures. The breach was significant as an early high-profile example of an HR SaaS supply chain incident affecting multiple large organizations through a single vendor compromise."
+cloud_provider: "PageUp"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

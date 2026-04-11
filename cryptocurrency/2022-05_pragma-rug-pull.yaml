@@ -1,0 +1,18 @@
+source_name: Tweet by CertiK Alert
+source_url: https://twitter.com/CertiKAlert/status/1522323459367448576
+date_of_breach: '2022-05-05'
+date_of_disclosure: '2022-05-05'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Pragma
+blockchain: fantom
+financial_loss_usd: 1503506
+notes: 'The Pragma defi project on the Fantom blockchain announced that their treasury and project wallets had been drained
+  for around $1.5 million in $FTM.The rug pull appeared to have been perpetrated by one team member, although several other
+  team members had to sign off on the transaction in order for it to go through.The team had had their real-life identities
+  verified by Obsidian, and remaining team members said they were working with Obsidian to try to investigate those behind
+  the theft. Third-party KYC verification like the service Obsidian provides is often used by crypto projects to increase
+  trust, though Pragma is hardly the first project with this kind of verification that stole funds anyway.
+
+
+  Total loss estimated at $1,503,506.'

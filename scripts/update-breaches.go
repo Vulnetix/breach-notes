@@ -37,6 +37,16 @@ type Breach struct {
 	FinancialLossUSD     float64 `yaml:"financial_loss_usd"`
 	FinancialRecoveredUSD float64 `yaml:"financial_recovered_usd"`
 	AffectedCount        int64   `yaml:"affected_count"`
+
+	// AI
+	AIModelName     string `yaml:"ai_model_name"`
+	AIModelProvider string `yaml:"ai_model_provider"`
+	AIAttackVector  string `yaml:"ai_attack_vector"`
+
+	// Cloud / SaaS
+	CloudProvider             string `yaml:"cloud_provider"`
+	CloudSharedResponsibility string `yaml:"cloud_shared_responsibility"`
+	CloudResourceCRIT         string `yaml:"cloud_resource_crit"`
 }
 
 type record struct {
@@ -45,7 +55,7 @@ type record struct {
 	date   time.Time
 }
 
-var dirs = []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "other"}
+var dirs = []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cloud", "cryptocurrency", "other"}
 
 func main() {
 	records, err := loadAll()
@@ -139,6 +149,12 @@ func writeRecentBreaches(records []record) error {
 			"financial_loss_usd":     b.FinancialLossUSD,
 			"financial_recovered_usd": b.FinancialRecoveredUSD,
 			"affected_count":         b.AffectedCount,
+			"ai_model_name":          b.AIModelName,
+			"ai_model_provider":      b.AIModelProvider,
+			"ai_attack_vector":       b.AIAttackVector,
+			"cloud_provider":         b.CloudProvider,
+			"cloud_shared_responsibility": b.CloudSharedResponsibility,
+			"cloud_resource_crit":    b.CloudResourceCRIT,
 			"notes":                  b.Notes,
 		}
 	}
@@ -239,6 +255,14 @@ func buildREADMEBody(records []record) string {
 	totalRecovered := sumFloat(records, func(r record) float64 { return r.breach.FinancialRecoveredUSD })
 	sb.WriteString(fmt.Sprintf("| Total financial recovered (USD) | %s |\n", formatUSD(totalRecovered)))
 
+	// AI incidents
+	withAI := countWhere(records, func(r record) bool { return r.breach.AIModelName != "" || r.breach.AIAttackVector != "" })
+	sb.WriteString(fmt.Sprintf("| AI-related incidents | %d (%s) |\n", withAI, pctOf(withAI, total)))
+
+	// Cloud incidents
+	withCloud := countWhere(records, func(r record) bool { return r.breach.CloudProvider != "" })
+	sb.WriteString(fmt.Sprintf("| Cloud / SaaS incidents | %d (%s) |\n", withCloud, pctOf(withCloud, total)))
+
 	// Blockchain / crypto
 	withBlockchain := countWhere(records, func(r record) bool { return r.breach.Blockchain != "" })
 	sb.WriteString(fmt.Sprintf("| Crypto / Web3 incidents | %d (%s) |\n", withBlockchain, pctOf(withBlockchain, total)))
@@ -260,7 +284,7 @@ func buildREADMEBody(records []record) string {
 	sb.WriteString("## Incidents by Category\n\n")
 	sb.WriteString("| Category | Count | % |\n|----------|-------|---|\n")
 	catCounts := groupBy(records, func(r record) string { return r.breach.Category })
-	catOrder := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "other"}
+	catOrder := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cloud", "cryptocurrency", "other"}
 	for _, cat := range catOrder {
 		n := catCounts[cat]
 		sb.WriteString(fmt.Sprintf("| %s | %d | %s |\n", cat, n, pctOf(n, total)))
@@ -358,6 +382,100 @@ func buildREADMEBody(records []record) string {
 		}
 		sb.WriteString("\n")
 	}
+
+	// ── Top AI Model Providers ────────────────────────────────────────────────
+	if withAI > 0 {
+		sb.WriteString("## Top AI Model Providers\n\n")
+		sb.WriteString("| Provider | Incidents |\n|----------|----------|\n")
+		providerCounts := map[string]int{}
+		for _, r := range records {
+			if r.breach.AIModelProvider != "" {
+				providerCounts[r.breach.AIModelProvider]++
+			}
+		}
+		for _, row := range topN(providerCounts, 15) {
+			sb.WriteString(fmt.Sprintf("| %s | %d |\n", row.key, row.count))
+		}
+		sb.WriteString("\n")
+
+		sb.WriteString("## Top AI Attack Vectors\n\n")
+		sb.WriteString("| AI Attack Vector | Incidents |\n|-----------------|----------|\n")
+		aiVectorCounts := map[string]int{}
+		for _, r := range records {
+			if r.breach.AIAttackVector != "" {
+				aiVectorCounts[r.breach.AIAttackVector]++
+			}
+		}
+		for _, row := range topN(aiVectorCounts, 15) {
+			sb.WriteString(fmt.Sprintf("| %s | %d |\n", row.key, row.count))
+		}
+		sb.WriteString("\n")
+	}
+
+	// ── Top Cloud Providers ──────────────────────────────────────────────────
+	if withCloud > 0 {
+		sb.WriteString("## Top Cloud Providers\n\n")
+		sb.WriteString("| Provider | Incidents |\n|----------|----------|\n")
+		cloudCounts := map[string]int{}
+		for _, r := range records {
+			if r.breach.CloudProvider != "" {
+				cloudCounts[r.breach.CloudProvider]++
+			}
+		}
+		for _, row := range topN(cloudCounts, 15) {
+			sb.WriteString(fmt.Sprintf("| %s | %d |\n", row.key, row.count))
+		}
+		sb.WriteString("\n")
+	}
+
+	// ── Schema ──────────────────────────────────────────────────────────────
+	sb.WriteString("## Schema\n\n")
+	sb.WriteString("Each YAML file captures (see [`schema.yaml`](schema.yaml) for the canonical definition):\n\n")
+	sb.WriteString("```yaml\n")
+	sb.WriteString("# ── Core fields (always present) ───────────────────────────────────────────────\n")
+	sb.WriteString("source_name: \"Publication or organization reporting the breach\"\n")
+	sb.WriteString("source_url: \"https://example.com/direct-link-to-report\"\n")
+	sb.WriteString("date_of_breach: \"YYYY-MM-DD\"          # also accepts YYYY-MM or YYYY\n")
+	sb.WriteString("date_of_disclosure: \"YYYY-MM-DD\"      # empty string \"\" if unknown\n")
+	sb.WriteString("category: \"ransomware | data-leak | supply-chain | credential-theft | ai | cloud | cryptocurrency | other\"\n")
+	sb.WriteString("notes: \"Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact.\"\n")
+	sb.WriteString("\n")
+	sb.WriteString("# ── Traditional breach fields ───────────────────────────────────────────────────\n")
+	sb.WriteString("date_of_customer_notification: \"\"     # YYYY-MM-DD or \"\" if unknown\n")
+	sb.WriteString("initial_attack_vector: \"CWE-NNN: Short description, or free-text description of the attack method\"\n")
+	sb.WriteString("cve: []                               # list of CVE/GHSA IDs, e.g. [\"CVE-2024-3094\"], empty if none\n")
+	sb.WriteString("vendor_product: \"Vendor Product Name\" # affected vendor or product\n")
+	sb.WriteString("software_package: \"\"                  # package name for software supply chain incidents, \"\" otherwise\n")
+	sb.WriteString("malware: \"\"                           # malware family name if identified, \"\" otherwise\n")
+	sb.WriteString("supply_chain_claimed: false           # true if a third-party vendor relationship was the attack vector\n")
+	sb.WriteString("\n")
+	sb.WriteString("# ── Crypto / Web3 fields ───────────────────────────────────────────────────────\n")
+	sb.WriteString("blockchain: \"ethereum\"                # blockchain(s) involved, e.g. \"ethereum, solana\"; omit if not applicable\n")
+	sb.WriteString("financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable\n")
+	sb.WriteString("financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable\n")
+	sb.WriteString("affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable\n")
+	sb.WriteString("\n")
+	sb.WriteString("# ── AI fields ─────────────────────────────────────────────────────────────────\n")
+	sb.WriteString("ai_model_name: \"\"                    # AI model involved, e.g. \"ChatGPT\", \"Claude\", \"Gemini\"; omit if not applicable\n")
+	sb.WriteString("ai_model_provider: \"\"                # organization behind the model, e.g. \"OpenAI\", \"Anthropic\"; omit if not applicable\n")
+	sb.WriteString("ai_attack_vector: \"\"                 # AI-specific attack method, e.g. \"prompt injection\", \"deepfake\"; omit if not applicable\n")
+	sb.WriteString("\n")
+	sb.WriteString("# ── Cloud / SaaS fields ───────────────────────────────────────────────────────\n")
+	sb.WriteString("cloud_provider: \"\"                   # cloud provider, e.g. \"AWS\", \"Azure\", \"GCP\", \"Snowflake\"; omit if not applicable\n")
+	sb.WriteString("cloud_shared_responsibility: \"\"      # \"vendor\" | \"customer\" | \"shared\" | \"unknown\"\n")
+	sb.WriteString("cloud_resource_crit: \"\"              # CRIT identifier, e.g. \"arn:aws:s3:::{bucket}\"; omit if not applicable\n")
+	sb.WriteString("```\n\n")
+
+	// ── Folders ─────────────────────────────────────────────────────────────
+	sb.WriteString("## Folders\n\n")
+	sb.WriteString("- `ransomware/` — ransomware incidents\n")
+	sb.WriteString("- `data-leak/` — customer data exposure\n")
+	sb.WriteString("- `supply-chain/` — supply chain attacks\n")
+	sb.WriteString("- `credential-theft/` — credential compromise\n")
+	sb.WriteString("- `ai/` — AI-related cybersecurity incidents\n")
+	sb.WriteString("- `cloud/` — cloud and SaaS security incidents\n")
+	sb.WriteString("- `cryptocurrency/` — cryptocurrency, DeFi, and Web3 incidents\n")
+	sb.WriteString("- `other/` — uncategorized or multi-category\n")
 
 	return sb.String()
 }

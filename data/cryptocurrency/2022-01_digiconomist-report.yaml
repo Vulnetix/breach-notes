@@ -1,0 +1,10 @@
+source_name: '"Bitcoin Historic Sustainability Performance"'
+source_url: https://digiconomist.net/bitcoin-historic-sustainability-performance/
+date_of_breach: '2022-01-01'
+date_of_disclosure: '2022-01-01'
+category: cryptocurrency
+vendor_product: Digiconomist report
+blockchain: bitcoin
+notes: Digiconomist released numbers for 2021, showing that during 2021, Bitcoin consumed 134 TWh in total — comparable to
+  the energy consumption of Argentina. The report also claims that Bitcoin was responsible for 0.54% of global electricity
+  consumption, and consumed about 89% more energy in 2021 than in the previous year.

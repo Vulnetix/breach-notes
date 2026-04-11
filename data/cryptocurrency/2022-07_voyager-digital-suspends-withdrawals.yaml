@@ -1,0 +1,15 @@
+source_name: '"Voyager Digital Provides Market Update"'
+source_url: https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html
+date_of_breach: '2022-07-01'
+date_of_disclosure: '2022-07-01'
+category: cryptocurrency
+initial_attack_vector: Withdrawal halt / insolvency
+vendor_product: Voyager Digital suspends withdrawals
+blockchain: bitcoin
+notes: Voyager Digital announced that they had suspended trading, deposits, withdrawals, and loyalty rewards. This came after
+  it was revealed that Voyager had issued a notice of default to the bankrupt Three Arrows Capital on a loan of more than
+  $670 million worth of USDC and Bitcoin. On June 22, Voyager had reduced their withdrawal limit, suggesting they were having
+  trouble meeting customer demand for withdrawals. The week before that, Voyager had secured a large loan from FTX to try
+  to help them stay afloat.Voyager announced that they were making the decision "given current market conditions", and that
+  it "gives us additional time to continue exploring strategic alternatives with various interested parties". They also released
+  some financial and balance sheet updates that painted a pretty grim picture.

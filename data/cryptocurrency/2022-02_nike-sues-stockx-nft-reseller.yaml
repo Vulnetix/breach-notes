@@ -1,0 +1,18 @@
+source_name: '"Nike cries foul over virtual shoes, suing retailer that sells sneaker NFTs"'
+source_url: https://www.reuters.com/technology/nike-cries-foul-over-virtual-shoes-suing-retailer-that-sells-sneaker-nfts-2022-02-04/
+date_of_breach: '2022-02-03'
+date_of_disclosure: '2022-02-03'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Nike sues StockX NFT reseller
+blockchain: ethereum
+notes: Nike filed a lawsuit in New York federal court against StockX, an online reseller that decided to get in on NFTs in
+  January. StockX started selling "NFTs tied to physical products", and say that buyers are also purchasing the "opportunity
+  to take possession of [the corresponding physical item]" at any time". Nike has objected to this, stating that the NFTs
+  infringe their copyright, are likely to cause confusion among customers, and have hurt their reputation. According to the
+  complaint, StockX has already sold more than 500 NFTs of Nike products. The StockX site shows that some Nike NFTs have traded
+  for thousands of dollars. Amusingly, although the NFTs exist on the Ethereum blockchain, "cryptocurrencies are not an acceptable
+  payment method for NFTs at this time" and NFTs can't be transferred or traded outside of the StockX platform. According
+  to their FAQ, "StockX maintains custodial authority of all NFTs traded on the platform".This lawsuit is somewhat similar
+  to the January lawsuit by Hermés against artist Mason Rothschild, who has been selling "MetaBirkin" NFTs (though MetaBirkins
+  describes itself as an art project, and promises no physical items).

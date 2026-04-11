@@ -1,0 +1,17 @@
+source_name: Tweet by BoredApeYC
+source_url: https://twitter.com/BoredApeYC/status/1509770607759540229
+date_of_breach: '2022-04-01'
+date_of_disclosure: '2022-04-01'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Multiple Discord compromises
+blockchain: ethereum
+notes: 'Another day, another Discord compromise — or in this case, many Discord compromises. Bored Apes wrote on their Twitter
+  account in the early hours of the morning, "STAY SAFE. Do not mint anything from any Discord right now. A webhook in our
+  Discord was briefly compromised. We caught it immediately but please know: we are not doing any April Fools stealth mints
+  / airdrops etc. Other Discords are also being attacked right now."Other Discords reported to be compromised include several
+  other big-name projects including Doodles, which had previously endured a Discord compromise in late February. This particular
+  compromise appeared to stem from a series of compromised Discord bots, including a very popular CAPTCHA bot used to fight
+  spammers. It''s unclear if anyone lost money to the fake links posted by seemingly-official Discord accounts, or how much,
+  but these types of attacks often lure in at least some victims, and the higher-priced NFT projects like Bored Apes and Doodles
+  enable scammers to ask for quite a lot of money without raising an eyebrow.'

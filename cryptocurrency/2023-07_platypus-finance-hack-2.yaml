@@ -1,0 +1,18 @@
+source_name: Tweet by PeckShield
+source_url: https://twitter.com/peckshield/status/1678800450303164431
+date_of_breach: '2023-07-11'
+date_of_disclosure: '2023-07-11'
+category: cryptocurrency
+initial_attack_vector: Flash loan attack on smart contract
+vendor_product: Platypus Finance
+blockchain: avalanche
+financial_loss_usd: 157000
+notes: 'Platypus Finance paused their pools after they were alerted to what they described as "suspicious activities". Security
+  firm PeckShield was apparently the first to notice the activity, sending them a dreaded "hi, you might want to take a look"
+  tweet that has become their signature way of alerting protocols that something bad has just happened. The CertiK security
+  project also tweeted that they''d observed multiple suspicious  flash loans involving the project.This is the second apparent
+  hack of Platypus Finance, following an $8.5 million hack only ten days after it launched in February 2023. The first hack
+  also involved flash loans.
+
+
+  Total loss estimated at $157,000.'

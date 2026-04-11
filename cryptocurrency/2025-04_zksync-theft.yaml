@@ -1,0 +1,17 @@
+source_name: '"ZKsync discloses $5 million attack from compromised airdrop admin account, triggering 20% price drop"'
+source_url: https://www.theblock.co/post/350839/zksync-discloses-5-million-attack-compromised-airdrop-contract-admin-account
+date_of_breach: '2025-04-15'
+date_of_disclosure: '2025-04-15'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: ZKsync theft
+blockchain: ethereum
+financial_loss_usd: 500000
+financial_recovered_usd: 4500000
+notes: 'An attacker compromised an admin account belonging to the ZKsync Ethereum layer-2 project, which is built by Matter
+  Labs. By doing so, they were able to steal approximately $5 million worth of the ZK token, which the project said were "the
+  remaining unclaimed tokens from the ZKsync airdrop".ZK Sync offered a 10% "bug bounty" to the thief, who accepted and returned
+  90% of the stolen funds.
+
+
+  Total loss estimated at $500,000.'

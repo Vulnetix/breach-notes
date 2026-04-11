@@ -1,0 +1,16 @@
+source_name: '"Randstorm: You Can’t Patch a House of Cards"'
+source_url: https://www.unciphered.com/blog/randstorm-you-cant-patch-a-house-of-cards
+date_of_breach: '2023-11-14'
+date_of_disclosure: '2023-11-14'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: randstorm
+blockchain: bitcoin, litecoin
+notes: While trying to help a Bitcoin holder who lost their password, researchers at Unciphered discovered a major flaw in
+  the way early Bitcoin wallets had been created. Thanks to a flaw in an open source software library called BitcoinJS, which
+  was later incorporated into many wallet software projects to generate Bitcoin wallets with random keys, wallets created
+  prior to 2016 may be vulnerable to cracking. Wallets created before March 2012 are at particular risk, as the roughly 6%
+  of those that are vulnerable (and which hold a combined ~55,000 BTC, or ~$100 million) could be cracked without requiring
+  major computing resources.Unciphered worked with various wallet providers to contact people whose wallets may be vulnerable,
+  though ultimately it is up to those wallet holders to secure their funds by creating new wallets and transferring their
+  tokens. Unciphered also noted that some Dogecoin, Litecoin, and Zcash wallets may be vulnerable due to shared code.

@@ -1,0 +1,18 @@
+source_name: '"Avalanche’s first memecoin SDOG ends in a $30M possible rugpull"'
+source_url: https://cryptoslate.com/avalanches-first-memecoin-sdog-ends-in-a-30m-rugpull/
+date_of_breach: '2021-11-26'
+date_of_disclosure: '2021-11-26'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: SnowdogDAO crash
+blockchain: avalanche
+financial_loss_usd: 30000000
+notes: 'SnowdogDAO creators say they didn''t rugpull, but that the coin plummeting over 90% was a "game-theory experiment"
+  that went wrong. The project was intended to only last for eight days, and when the developers began the planned buyback
+  of SDOG tokens, value crashed. The developers never made it clear to the community that only 7% of tokens could be sold
+  above market price before the buyback, and hundreds of people lost most of their funds. Three addresses made between $3.3
+  and $10 million from the buyback, and many believe they belong to people who are connected to the development team. In total,
+  about $30 million was lost.
+
+
+  Total loss estimated at $30,000,000.'

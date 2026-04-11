@@ -1,0 +1,17 @@
+source_name: Tweet by Cyvers Alerts
+source_url: https://twitter.com/CyversAlerts/status/1787407808024940865
+date_of_breach: '2024-05-05'
+date_of_disclosure: '2024-05-05'
+category: cryptocurrency
+initial_attack_vector: AI-assisted attack or AI-generated exploit
+vendor_product: GNUS.ai exploi
+blockchain: ethereum, fantom, polygon
+financial_loss_usd: 1270000
+notes: 'An exploiter was able to create a fake version of the $GNUS token on the Fantom blockchain, then bridge the tokens
+  to Ethereum and Polygon where they were then sold as though they were authentic. They were able to drain $1.27 million from
+  the project''s liquidity pools.GNUS.ai (short for "Genius", not a reference to the animal) is one of many AI-related blockchain
+  projects that has sprung out of the recent AI hype. This particular one promises to allow people to "utiliz[e] unused cycles"
+  on various computing devices for computation-intensive AI systems, using cryptocurrency for payments.
+
+
+  Total loss estimated at $1,270,000.'

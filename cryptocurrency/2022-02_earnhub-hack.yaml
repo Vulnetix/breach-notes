@@ -1,0 +1,16 @@
+source_name: Tweet from earnhubBSC
+source_url: https://twitter.com/earnhubBSC/status/1490747714816004097
+date_of_breach: '2022-02-07'
+date_of_disclosure: '2022-02-07'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: EarnHub
+blockchain: bsc
+financial_loss_usd: 284000
+notes: 'EarnHub, a DeFi platform with its own rap song, suddenly saw 660 wBNB (around $284,000) disappear from their project.
+  EarnHub wrote on Twitter that "A hacker was able to exploit our contracts and steal most of the tokens in certain pools,
+  then sell them, draining our LP." However, blockchain security firm CertiK found in their analysis that the "hack" was likely
+  to be a rug pull.
+
+
+  Total loss estimated at $284,000.'

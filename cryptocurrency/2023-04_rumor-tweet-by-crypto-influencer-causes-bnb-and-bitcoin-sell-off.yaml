@@ -1,0 +1,17 @@
+source_name: '"Binance''s BNB, Bitcoin Tumble After Crypto Twitter Personality Cobie''s Wild Guess"'
+source_url: https://www.coindesk.com/policy/2023/04/03/unverified-rumor-of-interpol-red-notice-for-binance-ceo-changpeng-zhao-sends-bnb-bitcoin-lower/
+date_of_breach: '2023-04-03'
+date_of_disclosure: '2023-04-03'
+category: cryptocurrency
+vendor_product: Rumor tweet by crypto influencer causes BNB and Bitcoin sell-off
+blockchain: bitcoin, bsc
+notes: Crypto influencer Cobie made a wild guess on April 3 that an Interpol red notice might be issued for Changpeng "CZ"
+  Zhao, the CEO of Binance. Binance has recently been hit with a civil complaint out of the US CFTC, whose contents are causing
+  many to reasonably speculate that CZ might face criminal charges from the US in the near future.Cobie decided he wanted
+  to make a record of his prediction, so he tweeted the SHA-256 hash of the string "Interpol Red Notice for CZ". Typically,
+  this would allow him to later reveal the seed, allowing him to prove after the fact that he had indeed made a correct prediction.
+  Why? I don't know. Bragging rights I guess?Anyway, according to Cobie, one of Cobie's inner circle leaked the seed, and
+  the contents of Cobie's prediction were widely circulated on Twitter. Some thought the prediction was inside knowledge of
+  events that had already transpired. Someone else began circulating a doctored screenshot of the Interpol website, purporting
+  to show a red notice. People began offloading their BNB tokens (the native token for Binance and Binance's blockchain),
+  causing a sudden 3% dip in the token price. Bitcoin also fell on the news.

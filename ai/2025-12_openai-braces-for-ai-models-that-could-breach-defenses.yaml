@@ -1,0 +1,20 @@
+source_name: OpenAI Braces for AI Models That Could Breach Defenses (DataBreachToday)
+source_url: https://www.databreachtoday.com/openai-braces-for-ai-models-that-could-breach-defenses-a-30264
+date_of_breach: '2025-12-11'
+date_of_disclosure: '2025-12-11'
+date_of_customer_notification: ''
+category: ai
+initial_attack_vector: Unauthorized access / data exposure
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'OpenAI said Wednesday it is preparing for artificial intelligence models to
+  reach &quot;high&quot; cybersecurity risk levels, marking an escalation in the dual-use
+
+
+  Source: DataBreachToday article coverage.'
+ai_model_name: ""
+ai_model_provider: "OpenAI"
+ai_attack_vector: "AI-assisted cyberattack"

@@ -1,0 +1,25 @@
+source_name: Tribune Media, Times Media Grup Third-Party Breach (September 2020)
+source_url: https://cybernews.com/security/online-marketing-company-exposes-data-of-millions-americans/?web_view=true
+date_of_breach: 2020-09-01
+date_of_disclosure: '2020-09-03'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: View Media
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Online marketing company exposes 38+ million US citizen records. The user
+  record files contained full names, addresses, zip codes, emails, and phone numbers
+  of people based in the US. The CyberNews research team discovered an unsecured data
+  bucket that belongs to View Media, an online marketing company. The bucket contains
+  close to 39 million US user records, including their full names, email and street
+  addresses, phone numbers and ZIP codes. The database was left on a publicly accessible
+  Amazon Web Services (AWS) server, allowing anyone to access and download the data.
+  Following the 350 million email leak covered by CyberNews earlier in August, this
+  is the second time this summer we encountered an unsecured Amazon bucket containing
+  such massive amounts of user data. Third-party company: View Media.'
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

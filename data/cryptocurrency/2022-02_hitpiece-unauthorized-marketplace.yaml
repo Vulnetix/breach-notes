@@ -1,0 +1,16 @@
+source_name: Tweet by Choke Chain
+source_url: https://twitter.com/choke_chain_ebm/status/1488617923912605701
+date_of_breach: '2022-02-01'
+date_of_disclosure: '2022-02-01'
+category: cryptocurrency
+vendor_product: HitPiece unauthorized marketplace
+blockchain: ethereum
+notes: 'The industrial band Choke Chain tweeted, "Yo a bunch of industrial scene acts (including me) have NFTs for sale on
+  the site hitpiece.com I did not put it online and I assume you probably didn''t either, fucked up". A look through the site
+  shows that it is chock full of almost certainly unauthorized NFTs of music not just from industrial bands, but from contemporary
+  pop music artists, k-pop groups, Disney, and many others. The group appears to be simply scraping Spotify and publishing
+  everything as NFT auctions.The project''s website writes, "Each time an artist''s NFT is purchased or sold, a royalty from
+  each transaction is accounted to the rights holders account." They do not write about how this is supposed to work when
+  the artists have had zero involvement in the NFT being created to begin with, or have no cryptocurrency wallets at all.
+  The FAQ also includes a hilariously handwavy answer to the question most people learning about NFTs have: "What utility
+  does owning an NFT give me?" HitPiece writes, "Artists provide NFT owners access and experiences."'

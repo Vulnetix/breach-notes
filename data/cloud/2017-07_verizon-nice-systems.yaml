@@ -1,0 +1,48 @@
+source_name: Verizon Customer Records Exposed via NICE Systems Misconfigured S3 Bucket
+source_url: https://www.upguard.com/breaches/verizon-cloud-leak
+date_of_breach: '2017-06-08'
+date_of_disclosure: '2017-07-12'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Misconfigured Amazon S3 bucket left publicly accessible without authentication
+cve: []
+vendor_product: NICE Systems
+software_package: Amazon S3
+malware: ''
+supply_chain_claimed: true
+notes: >-
+  On June 8, 2017, UpGuard cyber risk analyst Chris Vickery discovered a publicly
+  accessible Amazon S3 storage bucket owned and operated by NICE Systems, an Israeli
+  telephonic software and data analytics firm that served as a third-party vendor for
+  Verizon's customer service operations. The repository contained up to 14 million
+  Verizon customer records, though Verizon disputed this figure and claimed only
+  6 million customers were affected.
+
+  The S3 bucket was configured to allow public access and was downloadable by anyone
+  who could guess the relatively simple URL. The exposed data included customer names,
+  addresses, phone numbers, account details, and critically, account PIN codes that
+  customers used to verify their identity when calling Verizon's phone-based customer
+  service. The exposure of PINs was particularly dangerous because it could allow
+  attackers to impersonate customers and take over their accounts.
+
+  Vickery notified Verizon of the exposure on June 13, 2017, but the bucket was not
+  secured until June 22, leaving a nine-day window after notification during which
+  the data remained publicly accessible. The total period of exposure before discovery
+  is unknown. The incident was publicly reported on July 12, 2017, by multiple news
+  outlets after UpGuard published its findings.
+
+  NICE Systems had been collecting the data as part of its work providing customer
+  service analytics for Verizon. The data appeared to have been generated as part of
+  logging and analytics for Verizon's customer call center operations, capturing
+  information from customer interactions.
+
+  The incident became one of the most prominent examples of third-party cloud
+  misconfiguration risk in 2017, a year that saw numerous high-profile S3 bucket
+  exposures. It demonstrated that even large enterprises with mature security programs
+  could have their customer data exposed through vendor misconfigurations over which
+  they had no direct control. The exposure of account PINs alongside personal
+  information elevated this beyond a typical data leak, creating a direct path to
+  account takeover for any of the millions of affected Verizon subscribers.
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

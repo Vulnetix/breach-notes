@@ -1,0 +1,15 @@
+source_name: '"Andrew Yang''s Web3 Lobbying Group Wants to End Poverty With Vote-Buying"'
+source_url: https://www.vice.com/en/article/bvn5am/andrew-yangs-web3-lobbying-group-wants-to-end-poverty-with-vote-buying
+date_of_breach: '2022-02-17'
+date_of_disclosure: '2022-02-17'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: Lobby3
+blockchain: ethereum
+notes: Perennial political candidate Andrew Yang, perhaps in a desperate bid to stay relevant, announced his plans to create
+  "Lobby3". Lobby3 is a DAO which he says will push for crypto-friendly regulation and "eradicate poverty". Like many DAOs,
+  the voting power is allocated based on how many tokens a member owns, meaning that those who pay more have more votes. A
+  single token, representing one vote, costs 0.07 ETH (about $200). The "Founder" tier of participation in the DAO, which
+  appears to offer access to Yang more than anything particularly lobbying-related, costs 40 ETH (about $125,000).Interestingly,
+  one of the people credited as a "contributing artist" to Lobby3 is "Robness", who had the previous day minted an NFT of
+  a photo of a journalist as a child in an attempt to harass her.

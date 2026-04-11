@@ -1,0 +1,16 @@
+source_name: Tweet thread by PeckShield
+source_url: https://twitter.com/peckshield/status/1712113960508612766
+date_of_breach: '2023-10-11'
+date_of_disclosure: '2023-10-11'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Black Hole Token
+blockchain: bsc
+financial_loss_usd: 1280000
+notes: 'The Black Hole Token project suffered a $1.28 million apparent exploit, according to security firm PeckShield, though
+  it''s hard not to wonder if it might have been a rug pull.Black Hole Token is a Chinese project built on BNB Chain, which
+  promises an original mechanism that only goes up. "The more you sell, the more the price goes up", promises their website.Sounds
+  legit.
+
+
+  Total loss estimated at $1,280,000.'

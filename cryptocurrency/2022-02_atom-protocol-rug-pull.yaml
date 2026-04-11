@@ -1,0 +1,15 @@
+source_name: '"Avalanche-based protocol reportedly rug-pulled within hours of launch"'
+source_url: https://ambcrypto.com/avalanche-based-protocol-reportedly-rug-pulled-within-hours-of-launch/
+date_of_breach: '2022-02-20'
+date_of_disclosure: '2022-02-20'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Atom Protocol
+blockchain: avalanche
+notes: Atom Protocol, a project built on the Avalanche blockchain (and not to be confused with the Atom/Cosmos project on
+  Binance), rug pulled within a day of launching. The developers posted a tweet reading, "There is a problem/mistake in contracts,
+  we can't do anything. We have to close the project, sorry". Shortly afterwards, they deleted their Twitter account and Discord.Some
+  users directed their anger at Assure DeFi, a project that claims to "privately verify the identity" of various projects.
+  The group had reportedly verified the identities of those behind Atom Protocol, lending the project credibility to some
+  who bought in. Assure later tweeted that "many people are still misunderstanding the role of KYC/verification. KYC is a
+  deterrent and not a scam prevention and if anyone says otherwise they are misleading you."

@@ -1,0 +1,16 @@
+source_name: Tweet by Banana Gun
+source_url: https://twitter.com/BananaGunBot/status/1701322684313817459
+date_of_breach: '2023-09-11'
+date_of_disclosure: '2023-09-11'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: Banana Gun bot flubbed token launch
+blockchain: ethereum
+notes: The team behind Banana Gun, a Telegram bot to help "snipe" token launches, launched a token associated with the project
+  on September 11. Only hours later, they announced in a tweet that they'd uncovered a bug in their smart contract that meant
+  that when people sold tokens, the 4% tax that was meant to go to the project was also kept in individuals' wallets.The team
+  wrote in an announcement that they had no choice but to sell the treasury wallet to drain the liquidity pool, which is locked
+  to... well, stop the project team from draining the project and rug-pulling. At the time of announcement, the project team
+  had around 950 ETH (~$1.5 million) in the treasury wallet.Some pointed out that they could simply set the tax to 0% and
+  carry on without the hefty sales tax, but that didn't seem to appeal to the project's creators. Some also speculated that
+  the team might just take the money and run after draining the LP.

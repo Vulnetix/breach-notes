@@ -1,0 +1,17 @@
+source_name: '"How Attackers Made $15M From Staking Platform Helio After Ankr Exploit"'
+source_url: https://www.coindesk.com/tech/2022/12/02/how-attackers-made-15m-from-staking-platform-helio-after-ankr-exploit/
+date_of_breach: '2022-12-01'
+date_of_disclosure: '2022-12-01'
+category: cryptocurrency
+initial_attack_vector: Oracle price manipulation
+vendor_product: Helio attack
+blockchain: bsc
+financial_loss_usd: 15000000
+notes: 'Attackers were able to take advantage of an exploit on the Ankr protocol to obtain around 183,000 aBNBc tokens for
+  only 10 BNB (~$2,900). Before the Ankr exploit, which crashed the price of aBNBc, this many aBNBc tokens would have had
+  a notional value of around $55.5 million. An issue with the price oracle on the staking platform Helio allowed attackers
+  to borrow 16,444,740 HAY, a stablecoin intended to be pegged to the US dollar. The attackers then swapped those HAY for
+  around $15 million in the BUSD stablecoin. Meanwhile, the HAY stablecoin lost its peg, crashing as low as $0.20.
+
+
+  Total loss estimated at $15,000,000.'

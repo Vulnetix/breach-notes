@@ -1,0 +1,20 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1510968226963992577
+date_of_breach: '2021-12-14'
+date_of_disclosure: '2021-12-14'
+category: cryptocurrency
+vendor_product: Laurent Correia
+blockchain: ethereum
+financial_loss_usd: 960000
+notes: 'Laurent Correia, a French influencer and the creator of "Billionaire Tips" sports betting app, launched an NFT project
+  called "Billionaire Dogs" in December. Promising perks including large cash giveaways and rare NFTs that would also grant
+  luxury cars to their owners, the project launched on December 12. Buyers were invited to purchase NFTs for 0.1 ETH (~$400)
+  in the presale, or 0.2 ETH (~$800) in the public sale.The project had an underwhelming reception, and the team quickly decided
+  to reduce the supply of available NFTs from 6,500 to 2,000. Two days after launch, the funds were transferred out of the
+  project wallet and to various addresses, including $400,000 which went to Correia. The project also deleted their website,
+  Discord, and Twitter account that week.Correia, for his part, has continued to post on his "Laurent BILLIONAIRE" Instagram
+  account, where he shows off his private jet and tropical vacations with no mention of the Billionaire Dogs Club. His "NFT"
+  Instagram story shows his pricey NFT purchases beginning on January 14.
+
+
+  Total loss estimated at $960,000.'

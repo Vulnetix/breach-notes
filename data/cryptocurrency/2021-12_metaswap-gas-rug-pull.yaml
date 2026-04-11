@@ -1,0 +1,14 @@
+source_name: '"Metaswap Gas incommunicado as experts link MGAS price drop to rug pull"'
+source_url: https://cointelegraph.com/news/metaswap-gas-incommunicado-as-experts-link-mgas-price-drop-to-rug-pull
+date_of_breach: '2021-12-27'
+date_of_disclosure: '2021-12-27'
+category: cryptocurrency
+vendor_product: MetaSwap Gas
+blockchain: ethereum, polygon, bsc
+financial_loss_usd: 600000
+notes: '1,100 BNB, or around $600,000, were transferred out of the MetaSwap token MGAS, dropping the price of the token nearly
+  50%. The funds went to a Tornado Cash account, a popular cryptocurrency tumbler. After the transfer, MetaSwap Gas social
+  media accounts were deactivated.
+
+
+  Total loss estimated at $600,000.'

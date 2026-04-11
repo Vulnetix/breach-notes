@@ -1,0 +1,12 @@
+source_name: Tweet by Laine
+source_url: https://twitter.com/laine_sa_/status/1576006308179759104
+date_of_breach: '2022-09-30'
+date_of_disclosure: '2022-09-30'
+category: cryptocurrency
+vendor_product: Solana outage
+blockchain: solana
+notes: In the latest illustration of our marvelous new decentralized, resilient blockchain future, one single Solana node
+  apparently was able to take down the entire Solana network. Solana outages are nothing new, and tend to end (as this one
+  did) with Solana issuing instructions to the people who run their validators, asking them all to turn them off and on again.A
+  validator operator reported that "It appears a misconfigured node caused an unrecoverable partition in the network." It's
+  a bit startling that, in a supposedly decentralized network, one single node can bring the entire network offline.

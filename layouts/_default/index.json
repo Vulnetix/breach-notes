@@ -1,4 +1,4 @@
-{{- $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" -}}
+{{- $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "ai" "cloud" "cryptocurrency" "other" -}}
 {{- $records := slice -}}
 {{- range $cat := $cats -}}
   {{- range $key, $b := index hugo.Data $cat -}}

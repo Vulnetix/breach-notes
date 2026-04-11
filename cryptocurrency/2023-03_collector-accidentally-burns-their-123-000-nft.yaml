@@ -1,0 +1,12 @@
+source_name: Tweet thread by NFTstatistics.eth
+source_url: https://twitter.com/punk9059/status/1639375139547795456
+date_of_breach: '2023-03-24'
+date_of_disclosure: '2023-03-24'
+category: cryptocurrency
+vendor_product: Collector accidentally burns their $123,000 NFT
+blockchain: ethereum
+notes: The new owner of a CryptoPunk, one of the most popular early NFT projects, accidentally burned the NFT they had only
+  just purchased. After spending 77 ETH ($123,434) on the NFT, the owner tried to wrap it so they could borrow against it.However,
+  some confusing instructions resulted in the owner sending the punk to the burn address, effectively destroying the NFT.
+  "I was trying to wrap it and don't know what I was doing... Thought I was following the directions exactly..." they later
+  wrote. They also later shared that they had borrowed money in order to purchase the CryptoPunk.

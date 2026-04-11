@@ -1,0 +1,15 @@
+source_name: Tweet thread by 0xQuit
+source_url: https://twitter.com/0xQuit/status/1649631148178305024
+date_of_breach: '2023-04-21'
+date_of_disclosure: '2023-04-21'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Blur bid acceptance bug
+blockchain: ethereum
+notes: The Blur NFT marketplace appeared to become vulnerable to a bug in which old, canceled bids could still be accepted.
+  This meant that people who had placed bids on NFTs when they were selling for higher prices, then canceled them, suddenly
+  found those purchases going through — in some cases on NFTs that were selling for considerably less.Blur disabled bid acceptance
+  functionality while investigating the bug. Amusingly, this led people to begin placing huge bids they knew couldn't be accepted
+  in order to farm Blur points, some kinds of which are awarded based on bids rather than purchases.It's not clear how much
+  money was lost due to the bug, but Blur cofounder "Pacman" announced that "any losses will be refunded once the issue is
+  resolved".

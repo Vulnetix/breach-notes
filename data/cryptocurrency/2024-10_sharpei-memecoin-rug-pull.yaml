@@ -1,0 +1,16 @@
+source_name: '"Solana Meme Coin Sharpei Plunges 96% in Seconds in Epic Rug Pull"'
+source_url: https://decrypt.co/288160/solana-meme-coin-sharpei-epic-rug-pull
+date_of_breach: '2024-10-23'
+date_of_disclosure: '2024-10-23'
+category: cryptocurrency
+vendor_product: Sharpei memecoin
+blockchain: solana
+financial_loss_usd: 3400000
+notes: 'A dog-themed memecoin project called Sharpei abruptly cashed out $3.4 million, tanking the token price by more than
+  96% in seconds. The project had been promoted by crypto influencers, but hit a snag when a pitch deck for the project leaked.
+  The deck contained multiple lies, including claims to have hired multiple "KOLs" who later denied involvement, and false
+  claims of partnerships with various platforms and projects.As the token price stuttered along with these revelations, insiders
+  apparently decided to quit while they were ahead, and cashed out in a quick and coordinated sale.
+
+
+  Total loss estimated at $3,400,000.'

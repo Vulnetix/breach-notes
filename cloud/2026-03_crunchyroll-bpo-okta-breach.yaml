@@ -1,0 +1,16 @@
+source_name: "Crunchyroll Data Breach via BPO Okta Compromise"
+source_url: "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/"
+date_of_breach: "2026-03-12"
+date_of_disclosure: "2026-03-24"
+date_of_customer_notification: "2026-03-24"
+category: cloud
+initial_attack_vector: "Threat actor compromised an Okta SSO account belonging to a support agent at Telus (Crunchyroll's BPO partner); malware on the employee's device harvested credentials used to access Crunchyroll's support ticket system"
+cve: []
+vendor_product: "Okta (identity/SSO); Telus (BPO/outsourcing)"
+software_package: ""
+malware: "infostealer (unspecified)"
+supply_chain_claimed: true
+notes: "On March 12, 2026, a threat actor gained access to Crunchyroll's customer support ticketing system after compromising an Okta account belonging to an employee of Telus Digital, Crunchyroll's business process outsourcing (BPO) partner. The attacker exfiltrated over 8 million customer support tickets containing data for approximately 6.8 million unique users. Exposed data included names, login names, email addresses, IP addresses, geographic location, and contents of support tickets (some of which contained partial or full payment card numbers). The attacker demanded a $5 million extortion payment from Crunchyroll, which did not respond. A class action lawsuit was filed in March 2026 alleging Crunchyroll failed to implement adequate security controls for its BPO partners. This breach is likely related to the simultaneous large-scale ShinyHunters campaign against Telus Digital itself (see 2026-03_telus-digital-shinyhunters.yaml), which occurred on the same date and also involved compromised Okta SSO accounts at Telus."
+cloud_provider: "Okta"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

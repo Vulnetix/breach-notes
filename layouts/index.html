@@ -2,7 +2,7 @@
 <section class="home-hero">
     <div class="container">
         <p class="home-tagline">Every breach is a lesson. This is the record.</p>
-        <p class="home-sub-subtitle">Attackers share tactics. Defenders should too. Browse {{ len (index hugo.Data "ransomware") | add (len (index hugo.Data "data-leak")) | add (len (index hugo.Data "supply-chain")) | add (len (index hugo.Data "credential-theft")) | add (len (index hugo.Data "other")) }} documented incidents — attack vectors, malware families, CVEs, and what actually happened.</p>
+        <p class="home-sub-subtitle">Attackers share tactics. Defenders should too. Browse {{ len (index hugo.Data "ransomware") | add (len (index hugo.Data "data-leak")) | add (len (index hugo.Data "supply-chain")) | add (len (index hugo.Data "credential-theft")) | add (len (index hugo.Data "ai")) | add (len (index hugo.Data "cloud")) | add (len (index hugo.Data "cryptocurrency")) | add (len (index hugo.Data "other")) }} documented incidents — attack vectors, malware families, CVEs, and what actually happened.</p>
         {{ if .Site.Params.hacker_imagery }}
         <div class="hero-hacker-background">
             <div class="binary-rain"></div>
@@ -15,13 +15,14 @@
 <section class="home-stats">
     <div class="container">
         <div class="stats-grid">
-            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "ai" "cloud" "cryptocurrency" "other" }}
             {{ $total := 0 }}
             {{ $cveCount := 0 }}
             {{ $malwareCount := 0 }}
             {{ $supplyChainCount := 0 }}
             {{ $totalLoss := 0 }}
             {{ $withVector := 0 }}
+            {{ $aiCount := 0 }}
             {{ range $cats }}
                 {{ with index hugo.Data . }}
                     {{ range $k, $b := . }}
@@ -33,6 +34,7 @@
                         {{ if $b.supply_chain_claimed }}{{ $supplyChainCount = add $supplyChainCount 1 }}{{ end }}
                         {{ with $b.financial_loss_usd }}{{ $totalLoss = add $totalLoss (. | int) }}{{ end }}
                         {{ with $b.initial_attack_vector }}{{ $withVector = add $withVector 1 }}{{ end }}
+                        {{ with $b.ai_model_name }}{{ $aiCount = add $aiCount 1 }}{{ end }}
                         {{ end }}
                         {{ end }}
                     {{ end }}
@@ -50,7 +52,19 @@
                 {{ else }}
                 <h3>${{ mul (float $totalLoss) 0.000001 | printf "%.0f" }}M+</h3>
                 {{ end }}
-                <p>Total Financial Loss (tracked)</p>
+                <p>Total Financial Loss</p>
+            </div>
+            <div class="stat-card stat-card--ai">
+                {{ $aiTotal := 0 }}
+                {{ with index hugo.Data "ai" }}{{ range $k, $b := . }}{{ $aiTotal = add $aiTotal 1 }}{{ end }}{{ end }}
+                <h3>{{ $aiTotal }}</h3>
+                <p>AI Incidents</p>
+            </div>
+            <div class="stat-card stat-card--cloud">
+                {{ $cloudTotal := 0 }}
+                {{ with index hugo.Data "cloud" }}{{ range $k, $b := . }}{{ $cloudTotal = add $cloudTotal 1 }}{{ end }}{{ end }}
+                <h3>{{ $cloudTotal }}</h3>
+                <p>Cloud Incidents</p>
             </div>
             <div class="stat-card">
                 <h3>{{ $withVector }}</h3>
@@ -64,15 +78,25 @@
     </div>
 </section>
 
-<section class="home-recent">
+<section class="home-recent" id="home-recent">
     <div class="container">
         <header class="section-header">
-            <h2 class="section-title">Latest Breaches</h2>
+            <h2 class="section-title">Breaches</h2>
         </header>
 
-        <div class="breach-grid recent-breaches">
+        <div class="browse-controls" id="browse-controls">
+            <div class="sort-controls">
+                <span class="sort-label">Sort:</span>
+                <button class="sort-btn sort-btn--active" data-sort="recent" aria-pressed="true">Recent</button>
+                <button class="sort-btn" data-sort="name-asc" aria-pressed="false">Name A-Z</button>
+                <button class="sort-btn" data-sort="name-desc" aria-pressed="false">Name Z-A</button>
+                <button class="sort-btn" data-sort="category" aria-pressed="false">Category</button>
+            </div>
+        </div>
+
+        <div class="breach-grid recent-breaches" id="breach-grid">
             {{ $recent := slice }}
-            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "other" }}
+            {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "ai" "cloud" "cryptocurrency" "other" }}
             {{ range $cats }}
                 {{ $cat := . }}
                 {{ with index hugo.Data $cat }}
@@ -92,12 +116,19 @@
                     {{ end }}
                 {{ end }}
             {{ end }}
-            {{ range first 12 (sort $recent "date" "desc") }}
+            {{ range sort $recent "date" "desc" }}
+                <div class="breach-card-wrapper" data-date="{{ .date }}" data-name="{{ .breach.source_name }}" data-category="{{ .category }}">
                 {{ partial "breach-card.html" (dict
                     "breach" .breach
                     "url"    (printf "/%s/%s/" .category .key)
                 ) }}
+                </div>
             {{ end }}
+        </div>
+
+        <div class="load-more-container" id="load-more-container">
+            <button class="btn-hacker load-more-btn" id="load-more-btn">Load More</button>
+            <p class="load-more-hint" id="load-more-hint"></p>
         </div>
     </div>
 </section>
@@ -115,7 +146,7 @@
             <div class="contribute-step">
                 <span class="contribute-step-num">1</span>
                 <h3>Pick a category</h3>
-                <p>Each breach lives in one of five folders: <code>ransomware/</code>, <code>data-leak/</code>, <code>supply-chain/</code>, <code>credential-theft/</code>, or <code>other/</code>.</p>
+                <p>Each breach lives in one of eight folders: <code>ransomware/</code>, <code>data-leak/</code>, <code>supply-chain/</code>, <code>credential-theft/</code>, <code>ai/</code>, <code>cloud/</code>, <code>cryptocurrency/</code>, or <code>other/</code>.</p>
             </div>
             <div class="contribute-step">
                 <span class="contribute-step-num">2</span>
@@ -136,7 +167,7 @@ source_name: "Publication or organization reporting the breach"
 source_url: "https://example.com/direct-link-to-report"
 date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
 date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
-category: "ransomware | data-leak | supply-chain | credential-theft | other"
+category: "ransomware | data-leak | supply-chain | credential-theft | ai | cloud | cryptocurrency | other"
 notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
 
 # ── Traditional breach fields ───────────────────────────────────────────────────
@@ -152,7 +183,17 @@ supply_chain_claimed: false           # true if a third-party vendor relationshi
 blockchain: "ethereum"                # blockchain(s) involved, e.g. "ethereum, solana"; omit if not applicable
 financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable
 financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable
-affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable</code></pre>
+affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable
+
+# ── AI fields ─────────────────────────────────────────────────────────────────
+ai_model_name: ""                    # AI model involved, e.g. "ChatGPT", "Claude", "Gemini"; omit if not applicable
+ai_model_provider: ""                # organization behind the model, e.g. "OpenAI", "Anthropic"; omit if not applicable
+ai_attack_vector: ""                 # AI-specific attack method, e.g. "prompt injection", "deepfake"; omit if not applicable
+
+# ── Cloud / SaaS fields ──────────────────────────────────────────────────────
+cloud_provider: ""                   # cloud provider, e.g. "AWS", "Azure", "GCP", "Snowflake"; omit if not applicable
+cloud_shared_responsibility: ""      # "vendor" | "customer" | "shared" | "unknown"
+cloud_resource_crit: ""              # CRIT identifier, e.g. "arn:aws:s3:::{bucket}"; omit if not applicable</code></pre>
         </div>
 
         <div class="contribute-cta">

@@ -1,0 +1,20 @@
+source_name: Tweet thread by zachxbt
+source_url: https://twitter.com/zachxbt/status/1752694489905528943
+date_of_breach: '2024-01-31'
+date_of_disclosure: '2024-01-31'
+category: cryptocurrency
+initial_attack_vector: On-chain theft (attributed by zachxbt)
+vendor_product: Chris Larsen XRP theft
+blockchain: ripple
+financial_loss_usd: 108300000
+financial_recovered_usd: 4200000
+notes: 'Blockchain sleuth zachxbt noticed the strange movement of around 213 million XRP, the native token for the Ripple
+  project. These tokens were priced at around $112.5 million at the time of the theft. He originally identified the source
+  of funds as Ripple itself, though Ripple CEO Chris Larsen later went on Twitter to claim that the funds that were stolen
+  had come from his personal wallets and not from wallets belonging to the Ripple project.Larsen attempted to downplay the
+  massive theft, claiming repeatedly that the theft did not represent a threat to Ripple itself, and trying to reassure people
+  that Ripple wallets are still safe. However, fears over a threat to Ripple itself and the true separation between Larsen''s
+  wallets and those belonging to the Ripple project continued, and XRP dipped around 5% on the news.
+
+
+  Total loss estimated at $108,300,000.'

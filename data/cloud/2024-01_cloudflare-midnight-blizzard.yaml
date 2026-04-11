@@ -1,0 +1,16 @@
+source_name: "Cloudflare breach via stolen Okta credentials (nation-state, Thanksgiving 2023)"
+source_url: "https://blog.cloudflare.com/thanksgiving-2023-security-incident/"
+date_of_breach: "2023-11-14"
+date_of_disclosure: "2024-02-01"
+date_of_customer_notification: "2024-02-01"
+category: cloud
+initial_attack_vector: "CWE-287: Improper Authentication (stolen access tokens and service account credentials from Okta October 2023 breach reused; Cloudflare failed to rotate them)"
+cve: []
+vendor_product: "Cloudflare internal systems (Atlassian Confluence wiki, Jira bug tracker, Bitbucket source code)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Nation-state threat actor (attributed to Midnight Blizzard / Cozy Bear / APT29 in some reporting) used one access token and three service account credentials stolen during the Okta support case management breach (October 2023) to access Cloudflare's internal systems. Reconnaissance November 14–17 2023; returned November 20–21 and accessed source code management systems. Cloudflare failed to rotate the credentials assuming they were unused. Limited source code and internal documentation on global network architecture exfiltrated. No customer data or Cloudflare services impacted. Zero-trust architecture and hard security keys limited lateral movement. Disclosed publicly 1 February 2024. This was a downstream consequence of the Okta supply chain."
+cloud_provider: "Cloudflare"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

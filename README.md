@@ -22,6 +22,8 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 | Incidents with financial loss data | 830 (21%) |
 | Total financial loss (USD) | $80.9B |
 | Total financial recovered (USD) | $53.3B |
+| AI-related incidents | 45 (1%) |
+| Cloud / SaaS incidents | 177 (5%) |
 | Crypto / Web3 incidents | 1090 (28%) |
 | Incidents with affected-count data | 75 (2%) |
 | Total affected (wallets / users) | 43.4M |
@@ -30,11 +32,14 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 
 | Category | Count | % |
 |----------|-------|---|
-| ransomware | 227 | 6% |
-| data-leak | 1384 | 36% |
-| supply-chain | 793 | 20% |
-| credential-theft | 156 | 4% |
-| other | 1333 | 34% |
+| ransomware | 218 | 6% |
+| data-leak | 809 | 21% |
+| supply-chain | 722 | 19% |
+| credential-theft | 106 | 3% |
+| ai | 45 | 1% |
+| cloud | 183 | 5% |
+| cryptocurrency | 1086 | 28% |
+| other | 724 | 19% |
 
 ## Incidents by Year
 
@@ -214,12 +219,64 @@ CVE-2026-33634
 | hyperliquid | 4 | $38.9M |
 | litecoin | 4 | $281.3M |
 
+## Top AI Model Providers
 
-<!-- END GENERATED -->
+| Provider | Incidents |
+|----------|----------|
+| OpenAI | 7 |
+| Microsoft | 4 |
+| Anthropic | 3 |
+| BerriAI | 2 |
+| Google | 2 |
+| GitLab | 1 |
+| Griffin AI | 1 |
+| McKinsey | 1 |
+| Mercor | 1 |
+| Tenzai | 1 |
+
+## Top AI Attack Vectors
+
+| AI Attack Vector | Incidents |
+|-----------------|----------|
+| AI-assisted cyberattack | 11 |
+| AI-generated malware | 8 |
+| data exposure | 6 |
+| deepfake | 4 |
+| prompt injection | 3 |
+| supply chain attack | 3 |
+| training data exposure | 2 |
+| AI platform breach | 1 |
+| AI-assisted malware | 1 |
+| AI-generated vulnerable code | 1 |
+| AI-themed fraud | 1 |
+| adversarial input | 1 |
+| jailbreak | 1 |
+| malicious LLM | 1 |
+| smart contract exploit | 1 |
+
+## Top Cloud Providers
+
+| Provider | Incidents |
+|----------|----------|
+| AWS | 48 |
+| Salesforce | 27 |
+| Snowflake | 18 |
+| Okta | 10 |
+| Elasticsearch | 9 |
+| LastPass | 6 |
+| Ivanti | 5 |
+| Atlassian | 3 |
+| Codecov | 3 |
+| Mailchimp | 3 |
+| Microsoft | 3 |
+| Oracle Cloud | 3 |
+| SolarWinds | 3 |
+| Twilio | 3 |
+| Zendesk | 3 |
 
 ## Schema
 
-Each YAML file captures:
+Each YAML file captures (see [`schema.yaml`](schema.yaml) for the canonical definition):
 
 ```yaml
 # ── Core fields (always present) ───────────────────────────────────────────────
@@ -227,7 +284,7 @@ source_name: "Publication or organization reporting the breach"
 source_url: "https://example.com/direct-link-to-report"
 date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
 date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
-category: "ransomware | data-leak | supply-chain | credential-theft | other"
+category: "ransomware | data-leak | supply-chain | credential-theft | ai | cloud | cryptocurrency | other"
 notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
 
 # ── Traditional breach fields ───────────────────────────────────────────────────
@@ -244,6 +301,16 @@ blockchain: "ethereum"                # blockchain(s) involved, e.g. "ethereum, 
 financial_loss_usd: 0                 # numeric USD value of funds lost; omit if not applicable
 financial_recovered_usd: 0           # numeric USD value recovered after the incident; omit if not applicable
 affected_count: 0                    # number of affected wallets, users, or individuals; omit if not applicable
+
+# ── AI fields ─────────────────────────────────────────────────────────────────
+ai_model_name: ""                    # AI model involved, e.g. "ChatGPT", "Claude", "Gemini"; omit if not applicable
+ai_model_provider: ""                # organization behind the model, e.g. "OpenAI", "Anthropic"; omit if not applicable
+ai_attack_vector: ""                 # AI-specific attack method, e.g. "prompt injection", "deepfake"; omit if not applicable
+
+# ── Cloud / SaaS fields ───────────────────────────────────────────────────────
+cloud_provider: ""                   # cloud provider, e.g. "AWS", "Azure", "GCP", "Snowflake"; omit if not applicable
+cloud_shared_responsibility: ""      # "vendor" | "customer" | "shared" | "unknown"
+cloud_resource_crit: ""              # CRIT identifier, e.g. "arn:aws:s3:::{bucket}"; omit if not applicable
 ```
 
 ## Folders
@@ -252,4 +319,9 @@ affected_count: 0                    # number of affected wallets, users, or ind
 - `data-leak/` — customer data exposure
 - `supply-chain/` — supply chain attacks
 - `credential-theft/` — credential compromise
+- `ai/` — AI-related cybersecurity incidents
+- `cloud/` — cloud and SaaS security incidents
+- `cryptocurrency/` — cryptocurrency, DeFi, and Web3 incidents
 - `other/` — uncategorized or multi-category
+
+<!-- END GENERATED -->

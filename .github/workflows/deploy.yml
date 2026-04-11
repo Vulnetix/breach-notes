@@ -35,7 +35,7 @@ jobs:
 
       - name: Sync root category dirs from data/ (data/ is canonical)
         run: |
-          for cat in ransomware data-leak supply-chain credential-theft other; do
+          for cat in ransomware data-leak supply-chain credential-theft ai cloud cryptocurrency other; do
             mkdir -p "$cat"
             # Copy any files in data/$cat not already in root $cat
             rsync -a "data/$cat/" "$cat/" 2>/dev/null || cp -rn "data/$cat/." "$cat/"

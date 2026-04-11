@@ -1,0 +1,16 @@
+source_name: '"Kazakhstan internet shutdown sheds light on a big Bitcoin mining mystery"'
+source_url: https://fortune.com/2022/01/05/kazakhstan-internet-bitcoin-mining-mystery-crypto/
+date_of_breach: '2022-01-05'
+date_of_disclosure: '2022-01-05'
+category: cryptocurrency
+vendor_product: Kazakhstan Internet shutdown impacts Bitcoin hashrate
+blockchain: bitcoin
+notes: 'Fuel shortages and spiking electricity costs in Kazakhstan have contributed to protests and a governmental crisis
+  in the country. The electricity issue is partially thanks to cryptocurrency mining to begin with, with about 8% of electricity
+  generation in the country going towards crypto mining (as of last year — it''s likely to be higher now). During the crisis,
+  the Kazakh president ordered the nation''s largest telecom provider to shut down Internet service in the country to try
+  to quash communications among his opponents. On doing so, the total amount of Bitcoin mining taking place in the country
+  was revealed: at least 12% of Bitcoin''s computational power disappeared, though the numbers could swell closer to 18%.
+  This has extremely concerning implications as far as Bitcoin''s environmental impact (which we already knew was bad): Kazakhstan''s
+  electricity generation relies heavily on "hard" coal being burned in old and inefficient power plants, producing comparably
+  enormous amounts of CO&#x2082;.'

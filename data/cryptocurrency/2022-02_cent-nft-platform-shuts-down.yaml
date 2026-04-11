@@ -1,0 +1,11 @@
+source_name: NFT marketplace shuts, citing 'rampant' fakes, plagiarism problem
+source_url: https://www.reuters.com/business/finance/nft-marketplace-shuts-citing-rampant-fakes-plagiarism-problem-2022-02-11/
+date_of_breach: '2022-02-06'
+date_of_disclosure: '2022-02-06'
+category: cryptocurrency
+vendor_product: Cent NFT platform
+blockchain: ethereum
+notes: Cent, the NFT marketplace which sold Jack Dorsey's NFT of his first tweet for $2.9 million, stopped transactions on
+  February 6. The founder explained that people selling NFTs of content they didn't own, copies of other NFT projects, and
+  NFTs resembling securities were "rampant" problems on the platform. "We would ban offending accounts but it was like we're
+  playing a game of whack-a-mole... Every time we would ban one, another one would come up, or three more would come up."

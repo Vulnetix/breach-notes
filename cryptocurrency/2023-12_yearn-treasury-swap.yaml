@@ -1,0 +1,25 @@
+source_name: '"Incident disclosure - 2023-12-11"'
+source_url: https://github.com/yearn/yearn-security/blob/master/disclosures/2023-12-11.md
+date_of_breach: '2023-12-11'
+date_of_disclosure: '2023-12-11'
+category: cryptocurrency
+initial_attack_vector: Software bug / unintentional loss
+vendor_product: Yearn treasury swap
+blockchain: ethereum
+financial_loss_usd: 1495600
+financial_recovered_usd: 4400
+notes: 'Periodically, Yearn Finance converts a small quantity of its treasury tokens into stablecoins to spend on operations.
+  However, something went terribly wrong during this process when they went to perform the swap and erroneously converted
+  the entire amount — nearly 3.8 million Ip-yCRVv2 tokens — into a stablecoin. According to one Yearn Finance employee, this
+  pool of tokens comprised around 3% of the project''s treasury.Because there was not sufficient liquidity for such a large
+  trade at the going price, the trade was ultimately fulfilled, but at a 63% loss. Before the trade, that quantity of tokens
+  was priced at around $2.28 million; however, Yearn received only around $780,000 in stablecoins because of the slippage.Yearn
+  quickly identified the issue and embarked on a campaign to ask nicely for the counterparties in the trade to please give
+  some of their profits back. In on-chain messages, Yearn wrote: "one of yearns multisigs made a costly mistake last night
+  that affected a critical source of yCRVs liquidity. we identified you as having made a profit off of this and are kindly
+  requesting that you return as much as you see reasonable to yearns main multisig: ychad.eth. sorry we have to ask this,
+  but hope you can understand." Doesn''t hurt to ask, I guess. So far, only one wallet has taken them up on the offer, returning
+  2 ETH (~$4,400).
+
+
+  Total loss estimated at $1,495,600.'

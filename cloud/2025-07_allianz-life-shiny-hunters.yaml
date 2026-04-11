@@ -1,0 +1,16 @@
+source_name: "Allianz Life Insurance Data Breach (ShinyHunters/Scattered Spider)"
+source_url: "https://therecord.media/allianz-life-social-engineering-data-breach"
+date_of_breach: "2025-07-16"
+date_of_disclosure: "2025-07-01"
+date_of_customer_notification: "2025-08-01"
+category: cloud
+initial_attack_vector: "Vishing / social engineering: attackers impersonated IT helpdesk to trick an employee or vendor into granting access to a cloud-based Salesforce CRM system; Salesforce Data Loader used to bulk-exfiltrate data"
+cve: []
+vendor_product: "Salesforce CRM"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On July 16, 2025, threat actors gained access to a third-party cloud CRM (Salesforce) used by Allianz Life Insurance of North America via social engineering/vishing. Attackers used Salesforce Data Loader to bulk-exfiltrate approximately 2.8 million records. Allianz Life has ~1.4 million customers; the breach is reported to have affected the majority of them. Have I Been Pwned listed 1.1 million affected accounts. Stolen data includes names, addresses, phone numbers, birth dates, Tax IDs, insurance licence details, and firm affiliations. Attack attributed to a ShinyHunters/ScatteredLapsuSp1d3rHunters Telegram channel (alliance of ShinyHunters, Scattered Spider, Lapsus$). Part of a broader insurance industry targeting campaign in 2025."
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

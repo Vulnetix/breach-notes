@@ -1,0 +1,14 @@
+source_name: '"Latest Solana Clog Causes Liquidation Bloodbath"'
+source_url: https://cryptobriefing.com/latest-solana-clog-causes-liquidation-bloodbath/
+date_of_breach: '2022-01-21'
+date_of_disclosure: '2022-01-21'
+category: cryptocurrency
+vendor_product: Solana outage
+blockchain: solana
+notes: Solana was so overloaded with bot transactions that users couldn't transact. As the cryptocurrency market in general
+  continued to tank, users rushed to top up the collateral they had provided to keep their loans from being liquidated and
+  found they couldn't get the transfers to go through. One user reported spending eight hours trying unsuccessfully to add
+  collateral, before eventually getting liquidated and losing 500 SOL (about $47,500). It took Solana 24 hours to even identify
+  the cause of the issue, and another 24 before they were able to resolve it. Traders watching their loans get liquidated
+  were not impressed when Solana Labs co-founder tweeted "lol", with a screenshot of a Solana node showing high amounts of
+  duplicate packets.

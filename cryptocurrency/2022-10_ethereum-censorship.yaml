@@ -1,0 +1,13 @@
+source_name: '"Censored Ethereum Blocks Hit the 51% Threshold Over the Past 24 Hours"'
+source_url: https://www.coindesk.com/tech/2022/10/14/censored-ethereum-blocks-hit-the-51-threshold-over-the-past-24-hours/
+date_of_breach: '2022-10-14'
+date_of_disclosure: '2022-10-14'
+category: cryptocurrency
+vendor_product: Ethereum censorship
+blockchain: ethereum
+notes: On October 14, Ethereum reached a milestone that alarms many who have pushed for blockchains as "censorship-proof"
+  technology. More than 51% of blocks produced in the preceding 24 hours were processed by relays that filtered out transactions
+  involving Tornado Cash, a crypto mixing service that was added to the U.S. sanctions list in August.This 51% threshold doesn't
+  pose an immediate threat to Tornado Cash users, because even validators that censor transactions will still attest to the
+  validity of blocks created by non-censoring validators. However, if 51% or more of validators were to also stop attesting
+  to non-censored blocks, they would no longer be able to be added to the chain.

@@ -1,0 +1,18 @@
+source_name: '"Animoca Brands'' Gamee Token Plunges 60% After Exploit"'
+source_url: https://decrypt.co/213929/animoca-brands-gmee-token-plunges-60-percent-after-exploit
+date_of_breach: '2024-01-22'
+date_of_disclosure: '2024-01-22'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Animoca Brands-owned Gamee tokens stolen
+blockchain: polygon
+financial_loss_usd: 6000000
+notes: 'An attacker was able to gain access to the Gamee (GMEE) token''s source code repository, then exploit a vulnerability
+  in the code to transfer 600 million GMEE tokens to their own wallets. At the token''s market price of $0.025 before the
+  hack, these tokens were ostensibly priced at $15 million, though the token value plunged around 60% to below $0.01 following
+  the theft as the attacker began selling the tokens.GMEE is the token belonging to the Gamee blockchain-based gaming platform,
+  which was acquired by the Animoca Brands company in 2020. Animoca is mostly known for its crypto-metaverse project, The
+  Sandbox.
+
+
+  Total loss estimated at $6,000,000.'

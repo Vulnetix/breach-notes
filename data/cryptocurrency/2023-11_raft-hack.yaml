@@ -1,0 +1,19 @@
+source_name: '"Raft Suffers $3.3M Exploit That Drove Down Stablecoin 50%, but Hacker Likely Lost Money on Attack"'
+source_url: https://www.coindesk.com/tech/2023/11/10/defi-platform-raft-suffers-33m-exploit-but-hacker-likely-takes-a-loss-on-the-attack/
+date_of_breach: '2023-11-11'
+date_of_disclosure: '2023-11-11'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Raft
+blockchain: ethereum
+financial_loss_usd: 3300000
+notes: 'An attacker exploited the Raft defi project after finding a vulnerability that allowed them to mint 6.7 million of
+  Raft''s R stablecoin without any backing.The attacker then went to convert the R into ETH, which they would then be able
+  to launder and cash out. However, an error in the attacker''s code caused 1,570 ETH ($3.25 million) to be sent to the burn
+  address, rendering it permanently inaccessible to everyone including the hacker. Only 7 ETH remained. However, because they
+  had to spend ETH to fund the attack, the hack ultimately resulted in a loss of 4 ETH (~$8,000) for the perpetrator. Oops.As
+  a result of the hack, the R stablecoin lost its dollar peg, plummeting down to around $0.70. Raft acknowledged the attack
+  and announced that they had paused minting.
+
+
+  Total loss estimated at $3,300,000.'

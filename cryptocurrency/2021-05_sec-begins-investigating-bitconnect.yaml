@@ -1,0 +1,13 @@
+source_name: '"
+
+  SEC Charges U.S. Promoters of $2 Billion Global Crypto Lending Securities Offering"'
+source_url: https://www.sec.gov/news/press-release/2021-90
+date_of_breach: '2021-05-28'
+date_of_disclosure: '2021-05-28'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: SEC begins investigating BitConnect
+blockchain: bitcoin
+notes: The SEC filed an action against five individuals that they alleged promoted unregistered securities in a $2 billion
+  investment scheme, which they described as a "lending program". In September, the SEC also charged BitConnect's founder,
+  Satish Kumbhani, for his role in the scheme, as well as an additional promoter.

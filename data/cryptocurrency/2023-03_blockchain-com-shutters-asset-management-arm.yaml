@@ -1,0 +1,11 @@
+source_name: '"Blockchain.com to Sunset London-Based Crypto Asset Management Arm"'
+source_url: https://www.bloomberg.com/news/articles/2023-03-09/blockchain-com-to-wind-down-uk-based-crypto-asset-management-arm-bcam
+date_of_breach: '2023-03-09'
+date_of_disclosure: '2023-03-09'
+category: cryptocurrency
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Blockchain.com shutters asset management arm
+blockchain: bitcoin
+notes: After launching an asset management business less than a year ago, Blockchain.com has announced they will be shuttering
+  it. They blamed the ongoing "crypto winter" as contributing to the decision. The UK-based firm had planned to offer "algorithm-based
+  risk-managed exposure" to Bitcoin, which may have proven challenging in a year of declining Bitcoin prices.

@@ -1,0 +1,20 @@
+source_name: Ransomware Group Debuts Salesforce Customer Data Leak Site (DataBreachToday)
+source_url: https://www.databreachtoday.com/ransomware-group-debuts-salesforce-customer-data-leak-site-a-29636
+date_of_breach: '2025-10-03'
+date_of_disclosure: '2025-10-03'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Continuing its ongoing extortion of Salesforce customers, the Scattered Lapsus$
+  Hunters ransomware operation has launched a data leak site, claiming to have stolen
+
+
+  Source: DataBreachToday article coverage.'
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

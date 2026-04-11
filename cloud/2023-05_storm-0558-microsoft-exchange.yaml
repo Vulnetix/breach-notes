@@ -1,0 +1,16 @@
+source_name: "Storm-0558 Microsoft Exchange Online hack — US State Department and 22 organisations"
+source_url: "https://www.microsoft.com/en-us/security/blog/2023/07/14/analysis-of-storm-0558-techniques-for-unauthorized-email-access/"
+date_of_breach: "2023-05-15"
+date_of_disclosure: "2023-07-11"
+date_of_customer_notification: "2023-07-11"
+category: cloud
+initial_attack_vector: "CWE-287: Improper Authentication (forged authentication tokens using a stolen Microsoft MSA consumer signing key; used to access Exchange Online accounts across enterprise and personal tenants)"
+cve: []
+vendor_product: "Microsoft Exchange Online / Microsoft Azure AD (Entra ID)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Storm-0558, a Chinese state-sponsored threat actor (attributed to MSS), acquired a Microsoft MSA consumer token signing key (method of acquisition still unclear as of CSRB review) and used it to forge authentication tokens granting access to Exchange Online mailboxes at 22 organisations and 503+ individuals globally. Attack began 15 May 2023. US State Department discovered the intrusion 15 June 2023 via anomaly detection and alerted Microsoft. Approximately 60,000 State Department emails downloaded. US Commerce Department Secretary Gina Raimondo's email also compromised. CSRB review (March 2024) concluded the breach was 'entirely preventable' and cited a 'cascade of Microsoft security failures.' Separate from the November 2023 Midnight Blizzard/Cozy Bear attack on Microsoft."
+cloud_provider: "Azure"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

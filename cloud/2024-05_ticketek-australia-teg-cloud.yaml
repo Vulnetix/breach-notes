@@ -1,0 +1,16 @@
+source_name: "Ticketek Australia / TEG Cloud Data Breach"
+source_url: "https://www.computerweekly.com/news/366587532/Ticketek-Australia-hit-by-data-breach"
+date_of_breach: "2024-04-01"
+date_of_disclosure: "2024-05-31"
+date_of_customer_notification: "2024-06-01"
+category: cloud
+initial_attack_vector: "Third-party cloud platform compromise; likely Snowflake credential theft via infostealer malware (not officially confirmed by TEG); ShinyHunters linked"
+cve: []
+vendor_product: "Snowflake (suspected third-party cloud platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Ticketek Australia (operated by TEG, Ticket Entertainment Group) disclosed a data breach in May/June 2024 involving a third-party cloud platform. A ShinyHunters-linked actor posted ~30 million rows of data on BreachForums, containing 17.6 million unique email addresses plus names, genders, dates of birth, usernames, and hashed passwords. TEG confirmed customer names, dates of birth, and email addresses were impacted but did not confirm the specific cloud provider (Snowflake suspected). Passwords and credit card numbers were not exposed. This is separate from Ticketmaster's Snowflake breach (a different entity). Have I Been Pwned added the breach to their database. Entertainment/ticketing sector breach; part of the broader 2024 cloud credential theft campaign."
+cloud_provider: ""
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

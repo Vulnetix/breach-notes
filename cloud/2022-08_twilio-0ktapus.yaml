@@ -1,0 +1,16 @@
+source_name: "TechCrunch / The Register / Group-IB (0ktapus research)"
+source_url: "https://techcrunch.com/2022/08/08/twilio-breach-customer-data/"
+date_of_breach: "2022-06-01"
+date_of_disclosure: "2022-08-07"
+date_of_customer_notification: "2022-08-11"
+category: cloud
+initial_attack_vector: "CWE-1021: Improper Restriction of Rendered UI Layers (SMS phishing / smishing with real-time OTP relay to fake login page)"
+cve: []
+vendor_product: "Twilio Communications Platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "Twilio employees received smishing SMS impersonating IT dept claiming password expiry. Employees entered credentials on fake Twilio login page with real-time MFA relay bypassing TOTP. 209 Twilio customers and 93 Authy users affected. Part of larger '0ktapus' campaign hitting 130+ organizations including Cloudflare, DoorDash, Signal (via Twilio). Attackers had sophisticated employee phone-to-name matching. Also revealed Twilio was breached earlier in June 2022 via same method."
+cloud_provider: "Twilio"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

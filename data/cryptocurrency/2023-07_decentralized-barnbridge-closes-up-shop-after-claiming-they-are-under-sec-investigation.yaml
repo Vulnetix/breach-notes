@@ -1,0 +1,18 @@
+source_name: Tweet by BarnBridge
+source_url: https://twitter.com/Barn_Bridge/status/1677110787780018176
+date_of_breach: '2023-07-06'
+date_of_disclosure: '2023-07-06'
+category: cryptocurrency
+initial_attack_vector: Regulatory / legal action
+vendor_product: '"Decentralized" BarnBridge closes up shop after claiming they are under SEC investigation'
+blockchain: ethereum
+notes: 'A small and rather unknown project called BarnBridge aimed to build a variety of defi yield projects. BarnBridge claimed
+  to be decentralized and governed by a DAO. On July 6, an attorney posted in the project''s Discord server to say that BarnBridge
+  and "individuals associated with the DAO" were under investigation by the U.S. Securities and Exchange Commission. The attorney
+  wrote: "To reduce potential further legal liability, existing liquidity pools should be closed, and no more liquidity pools
+  should be started. All work on Barnbridge related products should stop, and individuals should no longer be compensated
+  for any work they do related to Barnbridge until further notice." Decentralized!It''s not terribly surprising that BarnBridge
+  chose to drop the facade of decentralization when the SEC came knocking, however. A recent case by the CFTC against the
+  Ooki DAO suggests that the mere veil of "decentralization" will not be sufficient to avoid legal liability for the actions
+  of a DAO. However, it is interesting to see the SEC now (at least allegedly) going after a relatively small player in the
+  defi world.'

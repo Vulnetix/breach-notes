@@ -1,0 +1,16 @@
+source_name: '"On the LSM Module"'
+source_url: https://github.com/allinbits/announcements/blob/main/2024_10_15_lsmnk.md
+date_of_breach: '2024-10-15'
+date_of_disclosure: '2024-10-15'
+category: cryptocurrency
+initial_attack_vector: Nation-state attack (Lazarus/DPRK) — private key or social engineering compromise
+vendor_product: Cosmos LSM
+blockchain: cosmos
+notes: Cosmos creator Jae Kwon has raised concerns about a portion of the Cosmos protocol called the "Liquid Staking Module"
+  after learning it was developed by North Korean agents. Although a contributor to the protocol, Zaki Manian, learned of
+  the developers' links to North Korea after contact from the FBI in March 2023, Kwon claims that Manian ignored known flaws
+  in their code, failed to fully audit their code, and did not report the issue to the project team or the Cosmos community.
+  According to Kwon, the code contained a vulnerability that would allow stakers to avoid having their stakes slashed, which
+  "contradicts the fundamental principles of staking security."Kwon urged the Cosmos governance team to perform a full audit
+  of the code written by these developers, and develop more protocols to prevent issues like this going forward. He also called
+  for the governance team to blacklist Zaki Manian.

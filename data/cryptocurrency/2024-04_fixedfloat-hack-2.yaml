@@ -1,0 +1,11 @@
+source_name: Tweet by FixedFloat
+source_url: https://twitter.com/FixedFloat/status/1775172224216875223
+date_of_breach: '2024-04-01'
+date_of_disclosure: '2024-04-01'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: FixedFloat
+blockchain: ethereum
+notes: The FixedFloat cryptocurrency exchange was exploited again, this time for around $2.8 million. This follows shortly
+  after a February 18 hack in which attackers made off with $26 million.FixedFloat acknowledged the theft in a Twitter post,
+  and blamed the same thieves. They claimed that this theft was enabled by a vulnerability in a third-party service.

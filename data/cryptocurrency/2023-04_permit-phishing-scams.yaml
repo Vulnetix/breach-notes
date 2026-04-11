@@ -1,0 +1,19 @@
+source_name: Tweets about "permit phishing" by ScamSniffer
+source_url: https://twitter.com/search?q=permit%20from%3Arealscamsniffer&src=typed_query&f=live
+date_of_breach: '2023-04-30'
+date_of_disclosure: '2023-04-30'
+category: cryptocurrency
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: '"Permit phishing"'
+blockchain: ethereum
+financial_loss_usd: 7769000
+notes: 'Between March and April 2023, the Scam Sniffer organization has identified at least $7.7 million stolen by so-called
+  "permit phishers". These attackers convince their victims to sign malicious crypto transactions that use the "permit" functionality,
+  which allows the attackers to siphon funds from the crypto wallets. This type of attack has existed for over a year, but
+  there have been some high-value instances of the attack lately.On March 11, ScamSniffer tweeted that they had detected 162
+  instances of the scam, totaling almost $4 million stolen, over the prior two days. On March 24, an individual wallet lost
+  $4 million. Similar attacks on April 19, April 21, and April 30 saw individual wallets lose $449,000, $1.04 million, and
+  $2.28 million, respectively.
+
+
+  Total loss estimated at $7,769,000.'

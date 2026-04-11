@@ -1,0 +1,22 @@
+source_name: '"QuadrigaCX Has Had an Improbable Week"'
+source_url: https://www.coindesk.com/policy/2022/12/23/quadrigacx-has-had-an-improbable-week/
+date_of_breach: '2022-12-16'
+date_of_disclosure: '2022-12-16'
+category: cryptocurrency
+initial_attack_vector: Exit scam / rug pull
+vendor_product: QuadrigaCX "unauthorized" transfer
+blockchain: bitcoin
+financial_loss_usd: 1750000
+notes: 'QuadrigaCX was a Canadian crypto exchange that shut down and filed for bankruptcy in  early 2019, with hundreds of
+  millions more in liabilities than in assets. It later became apparent that the exchange''s founder, Gerald Cotten, had taken
+  customer funds for his own personal use. Cotten reportedly died shortly before the exchange''s collapse, though there have
+  been questions around whether he may have faked his own death to pull off an exit scam. Poor accounting processes have made
+  the bankruptcy process — which is still ongoing — a nightmare for those in charge of trying to locate and recover assets.Now,
+  someone has moved 104 BTC (priced at $1.75 million today) from what is supposed to be a Quadriga cold wallet. In 2019, Quadriga''s
+  bankruptcy trustee Ernst &amp; Young revealed they had erroneously transferred these roughly 100 Bitcoin to that wallet,
+  which they could not access. Oops.Most of the stolen BTC was transferred to a privacy service to obfuscate its ultimate
+  destination. Ernst &amp; Young subsequently confirmed the transfers were "unauthorized transactions" and not performed by
+  them.
+
+
+  Total loss estimated at $1,750,000.'

@@ -1,0 +1,14 @@
+source_name: '"Notice on Indefinite Suspension of Bexplus Project"'
+source_url: https://web.archive.org/web/20220719235618/https://www.bexplus.com/
+date_of_breach: '2022-07-18'
+date_of_disclosure: '2022-07-18'
+category: cryptocurrency
+initial_attack_vector: Protocol collapse / insolvency
+vendor_product: Bexplus
+blockchain: bitcoin
+notes: The cryptocurrency exchange Bexplus announced that "due to force majeure, Bexplus will stop service from now on". Users
+  were told to close their open positions and withdraw any funds within only a 24-hour period, before positions would be automatically
+  closed and the withdrawal service would become unavailable.Only four days prior, on July 14, Bexplus had published a press
+  release offering "rewards worth up to $5,000 to new users who sign up and make their first deposit". The project also promised
+  its users up to 21% interest on bitcoin kept with the exchange. Bexplus had also promised a 100% match on deposits to the
+  platform, up to 10 BTC (currently priced at $235,550).

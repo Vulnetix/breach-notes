@@ -1,0 +1,24 @@
+source_name: Tweet by MM.Finance
+source_url: https://twitter.com/MMFcrypto/status/1521943206333542401
+date_of_breach: '2022-05-04'
+date_of_disclosure: '2022-05-04'
+category: cryptocurrency
+initial_attack_vector: DNS hijacking / domain takeover (front-end compromise)
+vendor_product: MM.Finance
+blockchain: cosmos, ethereum
+financial_loss_usd: 2000000
+notes: 'MM.Finance, a group of crypto projects based on the Cronos blockchain, suffered an attack that allowed a hacker to
+  redirect more than $2 million worth of crypto assets that were being exchanged through the project''s website to their own
+  wallet. Although MM.Finance described the attack as "DNS hijacking", it seems unlikely this is an accurate description of
+  the attack, which seems more likely to involve phished credentials to their domain service providers."Please do not perform
+  any transactions or your funds will be sent to the exploiter wallet," MM.Finance tweeted shortly before taking the website
+  offline. Three days earlier, MM.Finance had published a blog post to address "FUD" in their ecosystem stemming from a popular
+  Reddit post that described MMF as an "inverse pyramid of derivatives" that the author believed would "topple", and outlined
+  the project''s "rosy future".The project promised to try to compensate users, with its developers foregoing 45 days of trading
+  fees to reimburse users. They also appealed to the OKC crypto exchange to intervene to help recover funds from someone they
+  believed to be the attacker, and threatened the attacker with the FBI. "With all these information, we have more than what
+  we need to bring this information to the FBI," they wrote on Twitter. "So here''s the deal, return 90% of the funds you
+  stole and we will let this go, no questions asked. You have 48 hours to return these funds."
+
+
+  Total loss estimated at $2,000,000.'

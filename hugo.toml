@@ -43,7 +43,22 @@ ignoreFiles = ['/data/README\.md']
     url = "/credential-theft/"
     weight = 4
   [[menus.main]]
+    identifier = "ai"
+    name = "AI"
+    url = "/ai/"
+    weight = 5
+  [[menus.main]]
+    identifier = "cloud"
+    name = "Cloud"
+    url = "/cloud/"
+    weight = 6
+  [[menus.main]]
+    identifier = "cryptocurrency"
+    name = "Cryptocurrency"
+    url = "/cryptocurrency/"
+    weight = 7
+  [[menus.main]]
     identifier = "other"
     name = "Other"
     url = "/other/"
-    weight = 5
+    weight = 8

@@ -1,0 +1,16 @@
+source_name: Tweet by Suji Yan
+source_url: https://x.com/suji_yan/status/1895103068808642811
+date_of_breach: '2025-02-27'
+date_of_disclosure: '2025-02-27'
+category: cryptocurrency
+initial_attack_vector: Private key compromise
+vendor_product: Suji Yan wallet
+blockchain: ethereum
+financial_loss_usd: 4000000
+notes: 'Suji Yan, the founder of the Mask Network, suffered the loss of more than $4 million in various cryptocurrency assets
+  to an apparent wallet hack. According to Yan, the theft happened on his birthday while he was at a party. "[E]ither the
+  private key was leaked same day as my birthday and hacker manual[ly transferred assets] out or it might be an offline attack.
+  I was in a private gathering with dozen friends and my phone was away for some minutes when I using the restroom etc."
+
+
+  Total loss estimated at $4,000,000.'

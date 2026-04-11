@@ -20,6 +20,13 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+    {{- with .OutputFormats.Get "RSS" }}
+    {{ printf `<link rel="alternate" type=%q href=%q title=%q />` .MediaType .Permalink $.Site.Title | safeHTML }}
+    {{- else }}
+    {{- with $.Site.Home.OutputFormats.Get "RSS" }}
+    {{ printf `<link rel="alternate" type=%q href=%q title=%q />` .MediaType .Permalink $.Site.Title | safeHTML }}
+    {{- end }}
+    {{- end }}
     {{ hugo.Generator }}
     {{ partial "google-analytics.html" . }}
 </head>

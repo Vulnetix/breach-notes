@@ -1,0 +1,122 @@
+{{- /* Custom RSS 2.0 template for Breach Notes.
+       Extends standard RSS with a breach: namespace carrying all schema.yaml fields. */ -}}
+{{- $pages := slice -}}
+{{- if .IsHome -}}
+  {{- $pages = where site.RegularPages "Type" "breach" -}}
+{{- else -}}
+  {{- $pages = .RegularPages -}}
+{{- end -}}
+{{- $limit := site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+  {{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- $title := .Title -}}
+{{- if .IsHome -}}{{ $title = site.Title }}{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:breach="https://breachnotes.vulnetix.com/xmlns/breach/1.0">
+  <channel>
+    <title>{{ $title | htmlEscape }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ with .Description }}{{ . | htmlEscape }}{{ else }}{{ site.Params.description | htmlEscape }}{{ end }}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    {{- with site.LanguageCode }}
+    <language>{{ . }}</language>
+    {{- end }}
+    {{- with site.Params.author }}
+    <managingEditor>{{ . | htmlEscape }}</managingEditor>
+    {{- end }}
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{- with .OutputFormats.Get "RSS" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end }}
+    {{- range $pages }}
+    {{- $p := .Params }}
+    <item>
+      <title>{{ .Title | htmlEscape }}</title>
+      <link>{{ .Permalink }}</link>
+      {{- if not .Date.IsZero }}
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      {{- end }}
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      {{- with $p.notes }}
+      <description>{{ . | plainify | truncate 300 | htmlEscape }}</description>
+      <content:encoded><![CDATA[{{ . | markdownify }}]]></content:encoded>
+      {{- end }}
+
+      {{- /* ── Standard RSS category ── */ -}}
+      {{ with $p.category }}<category>{{ . | htmlEscape }}</category>{{ end }}
+
+      {{- /* ── Core fields ── */ -}}
+      {{ with $p.source_url }}<breach:sourceUrl>{{ . | htmlEscape }}</breach:sourceUrl>{{ end }}
+      {{- with $p.date_of_breach }}
+      <breach:dateOfBreach>{{ . }}</breach:dateOfBreach>
+      {{- end }}
+      {{- with $p.date_of_disclosure }}
+      <breach:dateOfDisclosure>{{ . }}</breach:dateOfDisclosure>
+      {{- end }}
+
+      {{- /* ── Traditional breach fields ── */ -}}
+      {{- with $p.date_of_customer_notification }}
+      <breach:dateOfCustomerNotification>{{ . }}</breach:dateOfCustomerNotification>
+      {{- end }}
+      {{- with $p.initial_attack_vector }}
+      <breach:initialAttackVector>{{ . | htmlEscape }}</breach:initialAttackVector>
+      {{- end }}
+      {{- with $p.cve }}{{ range . }}
+      <breach:cve>{{ . }}</breach:cve>
+      {{- end }}{{ end }}
+      {{- with $p.vendor_product }}
+      <breach:vendorProduct>{{ . | htmlEscape }}</breach:vendorProduct>
+      {{- end }}
+      {{- with $p.software_package }}
+      <breach:softwarePackage>{{ . | htmlEscape }}</breach:softwarePackage>
+      {{- end }}
+      {{- with $p.malware }}
+      <breach:malware>{{ . | htmlEscape }}</breach:malware>
+      {{- end }}
+      {{- if $p.supply_chain_claimed }}
+      <breach:supplyChainClaimed>true</breach:supplyChainClaimed>
+      {{- end }}
+
+      {{- /* ── Crypto / Web3 fields ── */ -}}
+      {{- with $p.blockchain }}
+      <breach:blockchain>{{ . | htmlEscape }}</breach:blockchain>
+      {{- end }}
+      {{- with $p.financial_loss_usd }}
+      <breach:financialLossUsd>{{ . }}</breach:financialLossUsd>
+      {{- end }}
+      {{- with $p.financial_recovered_usd }}
+      <breach:financialRecoveredUsd>{{ . }}</breach:financialRecoveredUsd>
+      {{- end }}
+      {{- with $p.affected_count }}
+      <breach:affectedCount>{{ . }}</breach:affectedCount>
+      {{- end }}
+
+      {{- /* ── AI fields ── */ -}}
+      {{- with $p.ai_model_name }}
+      <breach:aiModelName>{{ . | htmlEscape }}</breach:aiModelName>
+      {{- end }}
+      {{- with $p.ai_model_provider }}
+      <breach:aiModelProvider>{{ . | htmlEscape }}</breach:aiModelProvider>
+      {{- end }}
+      {{- with $p.ai_attack_vector }}
+      <breach:aiAttackVector>{{ . | htmlEscape }}</breach:aiAttackVector>
+      {{- end }}
+
+      {{- /* ── Cloud / SaaS fields ── */ -}}
+      {{- with $p.cloud_provider }}
+      <breach:cloudProvider>{{ . | htmlEscape }}</breach:cloudProvider>
+      {{- end }}
+      {{- with $p.cloud_shared_responsibility }}
+      <breach:cloudSharedResponsibility>{{ . }}</breach:cloudSharedResponsibility>
+      {{- end }}
+      {{- with $p.cloud_resource_crit }}
+      <breach:cloudResourceCrit>{{ . | htmlEscape }}</breach:cloudResourceCrit>
+      {{- end }}
+    </item>
+    {{- end }}
+  </channel>
+</rss>

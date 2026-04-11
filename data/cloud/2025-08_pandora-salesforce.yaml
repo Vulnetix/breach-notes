@@ -1,0 +1,22 @@
+source_name: Pandora Third-Party Breach (August 2025)
+source_url: https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/
+date_of_breach: 2025-08-01
+date_of_disclosure: '2025-08-05'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Compromise of third-party service provider / vendor relationship
+cve: []
+vendor_product: Salesforce
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'Pandora confirms data breach amid ongoing Salesforce data theft attacks. Danish
+  jewelry giant Pandora has disclosed a data breach after its customer information
+  was stolen in the ongoing Salesforce data theft attacks. Pandora is one of the largest
+  jewellery brands in the world, with 2,700 locations and over 37,000 employees. "We
+  are writing to inform you that your contact information was accessed by an unauthorized
+  party through a third-party platform we use," reads a Pandora data breach notification
+  sent to customers. Third-party company: Salesforce.'
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

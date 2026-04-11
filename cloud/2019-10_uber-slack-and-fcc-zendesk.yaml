@@ -1,0 +1,49 @@
+source_name: Zendesk 2016 Breach Disclosed 2019 (Uber, Slack, FCC Affected)
+source_url: https://www.bleepingcomputer.com/news/security/zendesk-security-breach-may-impact-orgs-like-uber-slack-and-fcc/
+date_of_breach: '2016-11-01'
+date_of_disclosure: '2019-10-02'
+date_of_customer_notification: '2019-10-02'
+category: cloud
+initial_attack_vector: Unauthorized access to Zendesk Support and Chat customer account databases; breach originated in 2016 and disclosed to affected customers in October 2019
+cve: []
+vendor_product: Zendesk Support and Chat
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: 'In October 2019, Zendesk — a major customer service software platform used
+  by over 145,000 organizations — disclosed a security breach that affected customer
+  accounts created before November 2016. The underlying incident itself had occurred
+  in 2016, making this a significant case of delayed breach discovery and notification,
+  with a gap of roughly three years between breach and disclosure.
+
+  On September 24, 2019, Zendesk determined — after being alerted by a third party
+  — that information belonging to a subset of its customers had been accessed without
+  authorization. Approximately 10,000 Zendesk Support and Chat accounts were affected,
+  including expired trial accounts and accounts no longer active.
+
+  The data accessed included: email addresses, names, and phone numbers of agents
+  and end-users associated with affected accounts, as well as hashed and salted passwords
+  for agents and end-users from before November 2016. Zendesk found no evidence that
+  actual support ticket content was accessed in connection with this incident.
+
+  The impact extended far beyond Zendesk itself because its customer support platform
+  is used by high-profile organizations that store sensitive support interactions.
+  Affected customers included Uber, Slack, Shopify, Airbnb, and government entities
+  such as the FCC (Federal Communications Commission). These downstream organizations
+  were notified and in turn had to assess whether their own customers and end-users
+  were at risk from the agent/end-user data that had been accessed.
+
+  Zendesk published a security update at zendesk.com/blog/security-update-2019/
+  confirming the breach related to the 2016 incident and encouraged affected customers
+  to require password resets for users whose credentials may have been included in
+  the exposed data.
+
+  This incident illustrates a compounding supply-chain risk: a single breach at a
+  SaaS customer-service provider exposed agent and user databases of thousands of
+  downstream enterprise clients simultaneously, many of which handled sensitive
+  customer interactions through the platform. The three-year gap before disclosure
+  raised questions about how quickly breaches of this type are discovered in
+  multi-tenant SaaS environments.'
+cloud_provider: "Zendesk"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

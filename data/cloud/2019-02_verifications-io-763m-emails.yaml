@@ -1,0 +1,16 @@
+source_name: "Verifications.io Elasticsearch Exposure — 763 Million Email Records"
+source_url: "https://www.bleepingcomputer.com/news/security/hacker-finds-763-million-records-of-us-citizens-left-exposed-online/"
+date_of_breach: "2019-02-01"
+date_of_disclosure: "2019-03-01"
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: "Verifications.io, an email verification service, left an Elasticsearch database containing 763 million records exposed publicly on the internet without authentication; the database was discovered by security researchers Bob Diachenko and Vinny Troia"
+cve: []
+vendor_product: "Verifications.io Elasticsearch database"
+software_package: "Elasticsearch"
+malware: ""
+supply_chain_claimed: false
+notes: "In March 2019, security researchers Bob Diachenko and Vinny Troia discovered a massive publicly accessible Elasticsearch database belonging to Verifications.io — an email verification service that businesses use to validate email addresses in their marketing lists. The database contained approximately 763 million unique email addresses along with associated personal data including: names, IP addresses, dates of birth, geographic data, employer information, job titles, phone numbers, genders, and credit scores for a significant portion of records. The database totaled approximately 150GB of data. Verifications.io took the database offline after being notified by security researchers. Verifications.io also shut down their website (verifications.io), removing it completely. The scale of the exposure — 763 million email records — made it one of the largest single data exposures ever discovered at that time. The data appeared to be a compilation of information from numerous sources for email marketing and lead generation purposes. The individuals whose data was exposed had not knowingly provided it to Verifications.io. The exposure was added to Have I Been Pwned, making it one of the largest additions in that service's history. The incident highlighted the risks of 'data broker' and email marketing services that aggregate personal data at massive scale without direct consumer consent."
+cloud_provider: "Elasticsearch"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

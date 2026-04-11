@@ -1,0 +1,16 @@
+source_name: "Orange Romania HellCat/Rey Data Breach - 600K Records"
+source_url: "https://www.bleepingcomputer.com/news/security/orange-group-confirms-breach-after-hacker-leaks-company-documents/"
+date_of_breach: "2024-12-01"
+date_of_disclosure: "2025-02-01"
+date_of_customer_notification: "2025-02-01"
+category: cloud
+initial_attack_vector: "Compromised credentials and vulnerabilities in Orange Romania's Jira software and internal portals; attacker had access for over one month"
+cve: []
+vendor_product: "Atlassian Jira (project management platform)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In early 2025, the HellCat-affiliated threat actor 'Rey' exfiltrated 6.5 GB of data (12,000 files) from Orange Romania's back-office systems, resulting in exposure of over 600,000 records including approximately 380,000 unique email addresses, source code, invoices, contracts, customer data, and partial payment card details. Rey claimed the breach stemmed from compromised credentials and Jira vulnerabilities and maintained access for over a month. After Orange declined ransom negotiations, Rey leaked the data on BreachForums. Orange characterized the breach as affecting a non-critical system with no impact on customer operations. Have I Been Pwned indexed the breach."
+cloud_provider: "Atlassian"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

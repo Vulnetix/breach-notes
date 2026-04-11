@@ -1,0 +1,16 @@
+source_name: "20/20 Eye Care Network Breach — 3.25 Million Patients via AWS S3 Deletion"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+date_of_breach: "2021-01-11"
+date_of_disclosure: "2021-04-28"
+date_of_customer_notification: "2021-04-28"
+category: cloud
+initial_attack_vector: "Unknown attacker gained access to 20/20 Eye Care Network's AWS environment and accessed and deleted files stored in S3 buckets containing member information; 20/20 discovered the deletion and was unable to determine whether data was exfiltrated prior to deletion"
+cve: []
+vendor_product: "20/20 Eye Care Network AWS S3 storage"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 11 January 2021, 20/20 Eye Care Network — a managed vision care benefits company providing administration services to health plans — discovered that an unauthorized actor had accessed and deleted files stored in AWS S3 buckets containing member information. Because the attacker deleted the files rather than simply copying them, 20/20 was unable to definitively determine whether data had been exfiltrated prior to deletion. 20/20 notified members as a precaution based on the access to the S3 environment. Approximately 3.25 million health plan members were affected. Exposed data included member IDs, names, dates of birth, addresses, Social Security numbers, and health insurance account information. 20/20 serves as a third-party administrator for vision benefits for multiple major health insurance plans. HHS OCR opened an investigation. Multiple class-action lawsuits were filed alleging inadequate security and breach notification failures. 20/20 Eye Care Network subsequently filed for bankruptcy in early 2021, making it one of the few cases where a healthcare data breach directly contributed to a company's insolvency — joining American Medical Collection Agency (AMCA) in this rare category. The deletion of files rather than exfiltration represented an unusual attack pattern, possibly a ransomware-like extortion attempt or deliberate data destruction."
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

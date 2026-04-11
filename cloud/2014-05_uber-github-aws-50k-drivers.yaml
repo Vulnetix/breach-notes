@@ -1,0 +1,16 @@
+source_name: "Uber Canada GitHub Credentials — 2014 AWS S3 Breach of 50,000 Driver Records"
+source_url: "https://www.uber.com/en-CA/newsroom/update-on-data-security/"
+date_of_breach: "2014-05-12"
+date_of_disclosure: "2015-02-27"
+date_of_customer_notification: "2015-02-27"
+category: cloud
+initial_attack_vector: "An Uber software engineer stored AWS credentials in a private GitHub repository; the repository was accessed by a third party who used the credentials to access an Amazon S3 bucket containing the driver database backup; the third party used the AWS access to download approximately 50,000 driver names and licence numbers"
+cve: []
+vendor_product: "Uber private GitHub / AWS S3 driver database"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In May 2014, a third party accessed an Uber software engineer's private GitHub repository that contained AWS credentials stored in code. Using these credentials, the attacker accessed an Amazon S3 bucket containing a database backup with names and driver's licence numbers for approximately 50,000 Uber drivers — primarily in the US and Canada. Uber discovered the breach in September 2014 and notified the state attorneys general and affected drivers in February 2015 — approximately nine months after the breach and five months after discovery. Uber sent notification letters to approximately 50,000 current and former Uber drivers. The New York State Attorney General and California Attorney General both opened investigations into Uber's delayed notification. The California AG reached a $25,000 settlement with Uber for the breach notification delay. This 2014 Uber breach is separate from the more famous 2016 Uber breach (where 57 million users and drivers were affected and Uber paid a ransom and concealed the breach for over a year). The 2014 incident established an early pattern of inadequate security practices at Uber, particularly around credential management in developer environments — a practice subsequently recognised as the same attack vector used in countless other breaches."
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

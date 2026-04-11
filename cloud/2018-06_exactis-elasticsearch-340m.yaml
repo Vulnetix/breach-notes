@@ -1,0 +1,16 @@
+source_name: "Exactis Unprotected Elasticsearch Database (340M Consumer and Business Records)"
+source_url: "https://www.wired.com/story/exactis-database-leaked-340-million-records/"
+date_of_breach: "2018-06-01"
+date_of_disclosure: "2018-06-27"
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: "Exactis, a data broker, left a 2TB Elasticsearch database publicly accessible on the open internet with no authentication required; discovered by security researcher Vinnie Troia"
+cve: []
+vendor_product: "Elasticsearch"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "Security researcher Vinnie Troia discovered in June 2018 that Exactis, a Florida-based data broker and marketing aggregation company, had left a 2-terabyte Elasticsearch database publicly accessible on the open internet with no authentication whatsoever. The database contained approximately 340 million records — approximately 230 million US consumers and 110 million US businesses. While the database did not contain Social Security numbers or financial data, it contained extraordinarily detailed personal profiles compiled from public and commercial data sources: name, address, phone number, email address, age, estimated income, homeowner status, number of children and their ages, religious affiliation, political affiliation, interests and hobbies (hundreds of attributes per person), and hundreds of other personal characteristics. Troia notified Exactis and the database was secured. No evidence of prior unauthorized access was found, but the incident highlighted the privacy risks posed by the data broker industry — collecting and exposing detailed behavioral profiles on virtually every US adult without their knowledge or consent."
+cloud_provider: "Elasticsearch"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: ""

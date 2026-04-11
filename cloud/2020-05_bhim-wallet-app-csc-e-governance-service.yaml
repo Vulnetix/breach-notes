@@ -1,0 +1,44 @@
+source_name: BHIM App / CSC e-Governance Services AWS S3 Misconfiguration (May 2020)
+source_url: https://www.vpnmentor.com/blog/report-csc-bhim-leak/
+date_of_breach: "2019-02-01"
+date_of_disclosure: "2020-05-29"
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: Misconfigured AWS S3 bucket publicly exposing 409 GB of sensitive financial and identity data
+cve: []
+vendor_product: CSC e-Governance Services Ltd (cscbhim.in)
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: |-
+  In late May 2020, researchers at vpnMentor discovered that CSC e-Governance Services Ltd — the
+  government-mandated third party operating the merchant onboarding portal for India's Bharat Interface
+  for Money (BHIM) unified payments platform — had left an Amazon Web Services S3 bucket completely
+  open and publicly accessible. The misconfigured bucket, hosted under the cscbhim.in domain, contained
+  approximately 409 GB of highly sensitive financial and personal data belonging to an estimated 7.26
+  million Indian citizens. The records dated back to at least February 2019.
+
+  Data exposed included Aadhaar card numbers and scanned images, Permanent Account Number (PAN) card
+  data, biometric details, caste and religion certificates, residential addresses, professional degree
+  certificates, user photographs, UPI IDs, and bank account details. The breadth of exposure was
+  particularly severe because BHIM is deeply integrated with India's national digital identity
+  infrastructure; compromised Aadhaar numbers combined with financial identifiers create a high-risk
+  vector for identity fraud and targeted phishing.
+
+  The National Payments Corporation of India (NPCI), which operates BHIM, initially denied any
+  compromise at the app level, stating the breach was not within BHIM's own systems. This was technically
+  accurate — the data sat in CSC's infrastructure rather than NPCI's — but critics argued the distinction
+  did little to protect affected users. India's Computer Emergency Response Team (CERT-In) was notified
+  twice by vpnMentor before the bucket was eventually secured.
+
+  The incident illustrates a recurring pattern in government-linked digital payment ecosystems:
+  national-scale identity data is funneled through third-party contractor portals that may not be subject
+  to the same security oversight as the core platform. No CVE applied as the root cause was a
+  configuration failure rather than a software vulnerability. The breach prompted calls for mandatory
+  cloud security audits of all entities handling Aadhaar-linked data. No threat actor was identified;
+  the data appears to have been passively exposed rather than actively exfiltrated, though it is unknown
+  whether malicious parties downloaded data before the bucket was secured. No customer notification
+  programme was publicly announced by CSC or NPCI.
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

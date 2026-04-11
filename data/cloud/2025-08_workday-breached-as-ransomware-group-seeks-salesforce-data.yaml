@@ -1,0 +1,20 @@
+source_name: Workday Breached as Ransomware Group Seeks Salesforce Data (DataBreachToday)
+source_url: https://www.databreachtoday.com/workday-breached-as-ransomware-group-seeks-salesforce-data-a-29242
+date_of_breach: '2025-08-18'
+date_of_disclosure: '2025-08-18'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Ransomware intrusion
+cve: []
+vendor_product: ''
+software_package: ''
+malware: ''
+supply_chain_claimed: false
+notes: 'Cloud software giant Workday said its customer relationship management software
+  has been breached and customer data has been stolen. The alert comes as attackers
+
+
+  Source: DataBreachToday article coverage.'
+cloud_provider: "Salesforce"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

@@ -16,12 +16,12 @@ recent_breaches:
       initial_attack_vector: Unauthorized access / data exposure
       malware: ""
       notes: |-
-        Cyber operations now support military strategy rather than just acting alone. Mark Montgomery of the Foundation for Defense of Democracies warns that as militaries
+        AI is accelerating cyberattacks, collapsing timelines and exposing new identity risks. Okta's Brett Winterford explains how attackers are using AI to scale
 
         Source: DataBreachToday article coverage.
       software_package: ""
-      source_name: The Expanding Role of Cyberattacks in Modern Conflicts (DataBreachToday)
-      source_url: https://www.databreachtoday.com/expanding-role-cyberattacks-in-modern-conflicts-a-31370
+      source_name: AI Is Accelerating Cyberattacks Faster Than Defenses (DataBreachToday)
+      source_url: https://www.databreachtoday.com/ai-accelerating-cyberattacks-faster-than-defenses-a-31372
       supply_chain_claimed: false
       vendor_product: ""
     - affected_count: 0
@@ -41,36 +41,14 @@ recent_breaches:
       initial_attack_vector: Unauthorized access / data exposure
       malware: ""
       notes: |-
-        AI is accelerating cyberattacks, collapsing timelines and exposing new identity risks. Okta's Brett Winterford explains how attackers are using AI to scale
+        Cyber operations now support military strategy rather than just acting alone. Mark Montgomery of the Foundation for Defense of Democracies warns that as militaries
 
         Source: DataBreachToday article coverage.
       software_package: ""
-      source_name: AI Is Accelerating Cyberattacks Faster Than Defenses (DataBreachToday)
-      source_url: https://www.databreachtoday.com/ai-accelerating-cyberattacks-faster-than-defenses-a-31372
+      source_name: The Expanding Role of Cyberattacks in Modern Conflicts (DataBreachToday)
+      source_url: https://www.databreachtoday.com/expanding-role-cyberattacks-in-modern-conflicts-a-31370
       supply_chain_claimed: false
       vendor_product: ""
-    - affected_count: 0
-      ai_attack_vector: ""
-      ai_model_name: ""
-      ai_model_provider: ""
-      blockchain: ""
-      category: ransomware
-      cloud_provider: ""
-      cloud_resource_crit: ""
-      cloud_shared_responsibility: ""
-      cve: []
-      date_of_breach: "2026-04-07"
-      date_of_disclosure: "2026-04-07"
-      financial_loss_usd: 0
-      financial_recovered_usd: 0
-      initial_attack_vector: Ransomware or destructive cyberattack on the Massachusetts healthcare system's IT infrastructure; the attack forced the organisation to take clinical systems offline and revert to paper-based downtime procedures; emergency services were diverted to protect patient safety
-      malware: ""
-      notes: On approximately 7 April 2026, a Massachusetts healthcare system disclosed it was experiencing a cyberattack that forced the organisation to divert ambulance patients to other facilities and operate under full downtime procedures. The healthcare system's clinical and administrative IT systems were taken offline as a containment measure. Downtime procedures — the reversion to paper-based workflows for patient care documentation, medication ordering, and clinical decision-making — indicate a significant disruption to the EHR and hospital information systems. Ambulance diversion is among the most serious patient safety impacts of healthcare cyberattacks, as critically ill patients may require transport to more distant facilities, potentially worsening outcomes in time-sensitive conditions such as stroke or cardiac arrest. The healthcare organisation was working with cybersecurity firms and law enforcement to investigate and restore systems. The incident occurred on the same day (7 April 2026) as the ChipSoft Netherlands hospitals ransomware attack, illustrating the continued and intensifying targeting of healthcare infrastructure globally. The full identity of the Massachusetts healthcare system and the specific threat actor responsible had not been publicly confirmed at time of initial reporting. Massachusetts has been disproportionately affected by healthcare ransomware attacks given its concentration of major academic medical centers and community hospitals. This incident adds to a pattern of 2026 healthcare sector attacks that include Frederick Health (January), Kettering Health (May 2025), and numerous others.
-      software_package: ""
-      source_name: Massachusetts Healthcare System Ransomware — Ambulance Diversion, Downtime Procedures
-      source_url: https://www.databreachtoday.com/mass-hospital-diverting-ambulances-as-deals-attack-a-31356
-      supply_chain_claimed: false
-      vendor_product: Massachusetts healthcare system IT infrastructure (identity not disclosed at time of reporting)
     - affected_count: 0
       ai_attack_vector: ""
       ai_model_name: ""
@@ -97,6 +75,28 @@ recent_breaches:
       ai_attack_vector: ""
       ai_model_name: ""
       ai_model_provider: ""
+      blockchain: ""
+      category: ransomware
+      cloud_provider: ""
+      cloud_resource_crit: ""
+      cloud_shared_responsibility: ""
+      cve: []
+      date_of_breach: "2026-04-07"
+      date_of_disclosure: "2026-04-07"
+      financial_loss_usd: 0
+      financial_recovered_usd: 0
+      initial_attack_vector: Ransomware or destructive cyberattack on the Massachusetts healthcare system's IT infrastructure; the attack forced the organisation to take clinical systems offline and revert to paper-based downtime procedures; emergency services were diverted to protect patient safety
+      malware: ""
+      notes: On approximately 7 April 2026, a Massachusetts healthcare system disclosed it was experiencing a cyberattack that forced the organisation to divert ambulance patients to other facilities and operate under full downtime procedures. The healthcare system's clinical and administrative IT systems were taken offline as a containment measure. Downtime procedures — the reversion to paper-based workflows for patient care documentation, medication ordering, and clinical decision-making — indicate a significant disruption to the EHR and hospital information systems. Ambulance diversion is among the most serious patient safety impacts of healthcare cyberattacks, as critically ill patients may require transport to more distant facilities, potentially worsening outcomes in time-sensitive conditions such as stroke or cardiac arrest. The healthcare organisation was working with cybersecurity firms and law enforcement to investigate and restore systems. The incident occurred on the same day (7 April 2026) as the ChipSoft Netherlands hospitals ransomware attack, illustrating the continued and intensifying targeting of healthcare infrastructure globally. The full identity of the Massachusetts healthcare system and the specific threat actor responsible had not been publicly confirmed at time of initial reporting. Massachusetts has been disproportionately affected by healthcare ransomware attacks given its concentration of major academic medical centers and community hospitals. This incident adds to a pattern of 2026 healthcare sector attacks that include Frederick Health (January), Kettering Health (May 2025), and numerous others.
+      software_package: ""
+      source_name: Massachusetts Healthcare System Ransomware — Ambulance Diversion, Downtime Procedures
+      source_url: https://www.databreachtoday.com/mass-hospital-diverting-ambulances-as-deals-attack-a-31356
+      supply_chain_claimed: false
+      vendor_product: Massachusetts healthcare system IT infrastructure (identity not disclosed at time of reporting)
+    - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
       blockchain: bitcoin
       category: cryptocurrency
       cloud_provider: ""
@@ -118,6 +118,28 @@ recent_breaches:
       source_url: https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/btm-20260406.htm
       supply_chain_claimed: false
       vendor_product: Bitcoin Depot
+    - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
+      blockchain: ""
+      category: cloud
+      cloud_provider: AWS
+      cloud_resource_crit: ""
+      cloud_shared_responsibility: customer
+      cve: []
+      date_of_breach: "2026-04-03"
+      date_of_disclosure: "2026-04-03"
+      financial_loss_usd: 0
+      financial_recovered_usd: 0
+      initial_attack_vector: TeamPCP (UNC6780) leveraged credentials stolen via the March 2026 Trivy vulnerability scanner supply chain compromise to breach Cisco's internal development and build environment via a malicious GitHub Action plugin
+      malware: TeamPCP Cloud Stealer
+      notes: In early April 2026, Cisco disclosed that attackers leveraged credentials stolen through the March 2026 Trivy supply chain compromise (attributed to TeamPCP / UNC6780) to penetrate Cisco's internal development and build environment. The malicious GitHub Action plugin from the Trivy compromise was used to steal credentials and data. More than 300 GitHub repositories were cloned, and AWS keys were allegedly stolen. Exposed material reportedly includes source code tied to AI-related projects, with some repositories allegedly connected to corporate customers. Dozens of developer and lab workstations were impacted. Cisco's Unified Intelligence Center, CSIRT, and EOC teams contained the breach. TeamPCP (also tracked by Google GTIG as UNC6780) is the same threat group behind the LiteLLM/PyPI → Mercor breach (March 2026) and the Trivy → European Commission AWS breach (March 2026). The group has been conducting a series of supply chain attacks targeting developer platforms including GitHub, PyPI, NPM, and Docker using their 'TeamPCP Cloud Stealer' infostealer.
+      software_package: Trivy
+      source_name: Cisco Source Code Stolen via Trivy Supply Chain Attack (TeamPCP)
+      source_url: https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/
+      supply_chain_claimed: true
+      vendor_product: Trivy (open-source vulnerability scanner); GitHub Actions
     - affected_count: 0
       ai_attack_vector: supply chain attack
       ai_model_name: ""
@@ -148,28 +170,6 @@ recent_breaches:
       ai_model_name: ""
       ai_model_provider: ""
       blockchain: ""
-      category: supply-chain
-      cloud_provider: ""
-      cloud_resource_crit: ""
-      cloud_shared_responsibility: ""
-      cve: []
-      date_of_breach: "2026-04-03"
-      date_of_disclosure: "2026-04-03"
-      financial_loss_usd: 0
-      financial_recovered_usd: 0
-      initial_attack_vector: TeamPCP (UNC6780) leveraged credentials stolen via the March 2026 Trivy vulnerability scanner supply chain compromise to breach Cisco's internal development and build environment via a malicious GitHub Action plugin
-      malware: TeamPCP Cloud Stealer
-      notes: In early April 2026, Cisco disclosed that attackers leveraged credentials stolen through the March 2026 Trivy supply chain compromise (attributed to TeamPCP / UNC6780) to penetrate Cisco's internal development and build environment. The malicious GitHub Action plugin from the Trivy compromise was used to steal credentials and data. More than 300 GitHub repositories were cloned, and AWS keys were allegedly stolen. Exposed material reportedly includes source code tied to AI-related projects, with some repositories allegedly connected to corporate customers. Dozens of developer and lab workstations were impacted. Cisco's Unified Intelligence Center, CSIRT, and EOC teams contained the breach. TeamPCP (also tracked by Google GTIG as UNC6780) is the same threat group behind the LiteLLM/PyPI → Mercor breach (March 2026) and the Trivy → European Commission AWS breach (March 2026). The group has been conducting a series of supply chain attacks targeting developer platforms including GitHub, PyPI, NPM, and Docker using their 'TeamPCP Cloud Stealer' infostealer.
-      software_package: Trivy
-      source_name: Cisco Source Code Stolen via Trivy Supply Chain Attack (TeamPCP)
-      source_url: https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/
-      supply_chain_claimed: true
-      vendor_product: Trivy (open-source vulnerability scanner); GitHub Actions
-    - affected_count: 0
-      ai_attack_vector: ""
-      ai_model_name: ""
-      ai_model_provider: ""
-      blockchain: ""
       category: data-leak
       cloud_provider: ""
       cloud_resource_crit: ""
@@ -190,28 +190,6 @@ recent_breaches:
       source_url: https://www.databreachtoday.com/cryptohack-roundup-charges-in-uranium-finance-case-a-31330
       supply_chain_claimed: false
       vendor_product: ""
-    - affected_count: 0
-      ai_attack_vector: ""
-      ai_model_name: ""
-      ai_model_provider: ""
-      blockchain: ""
-      category: other
-      cloud_provider: ""
-      cloud_resource_crit: ""
-      cloud_shared_responsibility: ""
-      cve: []
-      date_of_breach: "2026-04-01"
-      date_of_disclosure: "2026-04-01"
-      financial_loss_usd: 0
-      financial_recovered_usd: 0
-      initial_attack_vector: Six-month DPRK social engineering operation (UNC4736/TraderTraitor) targeted Drift Security Council members; attackers built relationships with team members and used Solana's 'durable nonces' feature to trick council members into pre-signing malicious transactions that transferred admin control
-      malware: ""
-      notes: 'On April 1, 2026, UNC4736 (North Korean state-sponsored TraderTraitor group) executed a 12-minute, 31-transaction drain of $285 million from Drift Protocol, the largest Solana DeFi exploit in 2026 and second-largest in Solana history. A six-month social engineering campaign beginning fall 2025 built relationships with Drift Security Council members. Attackers leveraged Solana''s ''durable nonces'' feature to get council members to unknowingly pre-sign malicious transactions. Once admin control was obtained, attackers whitelisted a worthless fake token (CVT) as collateral, deposited 500M CVT, and withdrew $285M in USDC, SOL, and ETH. Drift''s TVL collapsed from ~$550M to under $250M within one hour. Attribution: TRM Labs and Elliptic linked the hack to DPRK with medium confidence.'
-      software_package: ""
-      source_name: Drift Protocol $285M DPRK Social Engineering Exploit
-      source_url: https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html
-      supply_chain_claimed: false
-      vendor_product: Drift Protocol (Solana DeFi perpetual futures DEX)
     - affected_count: 0
       ai_attack_vector: ""
       ai_model_name: ""
@@ -237,4 +215,26 @@ recent_breaches:
       source_url: https://www.theblock.co/post/396183/drift-280m-exploit-zachxbt-circle
       supply_chain_claimed: false
       vendor_product: Drift
-updated_at: "2026-04-11 00:27:17"
+    - affected_count: 0
+      ai_attack_vector: ""
+      ai_model_name: ""
+      ai_model_provider: ""
+      blockchain: ""
+      category: other
+      cloud_provider: ""
+      cloud_resource_crit: ""
+      cloud_shared_responsibility: ""
+      cve: []
+      date_of_breach: "2026-04-01"
+      date_of_disclosure: "2026-04-01"
+      financial_loss_usd: 0
+      financial_recovered_usd: 0
+      initial_attack_vector: Six-month DPRK social engineering operation (UNC4736/TraderTraitor) targeted Drift Security Council members; attackers built relationships with team members and used Solana's 'durable nonces' feature to trick council members into pre-signing malicious transactions that transferred admin control
+      malware: ""
+      notes: 'On April 1, 2026, UNC4736 (North Korean state-sponsored TraderTraitor group) executed a 12-minute, 31-transaction drain of $285 million from Drift Protocol, the largest Solana DeFi exploit in 2026 and second-largest in Solana history. A six-month social engineering campaign beginning fall 2025 built relationships with Drift Security Council members. Attackers leveraged Solana''s ''durable nonces'' feature to get council members to unknowingly pre-sign malicious transactions. Once admin control was obtained, attackers whitelisted a worthless fake token (CVT) as collateral, deposited 500M CVT, and withdrew $285M in USDC, SOL, and ETH. Drift''s TVL collapsed from ~$550M to under $250M within one hour. Attribution: TRM Labs and Elliptic linked the hack to DPRK with medium confidence.'
+      software_package: ""
+      source_name: Drift Protocol $285M DPRK Social Engineering Exploit
+      source_url: https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html
+      supply_chain_claimed: false
+      vendor_product: Drift Protocol (Solana DeFi perpetual futures DEX)
+updated_at: "2026-04-11 00:56:19"

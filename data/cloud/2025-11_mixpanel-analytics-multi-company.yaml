@@ -1,0 +1,16 @@
+source_name: "Mixpanel Product Analytics Platform Breach (Multiple Companies)"
+source_url: "https://www.bleepingcomputer.com/news/security/mixpanel-data-breach-exposes-customer-data-from-dozens-of-companies/"
+date_of_breach: "2025-10-15"
+date_of_disclosure: "2025-11-10"
+date_of_customer_notification: "2025-11-10"
+category: cloud
+initial_attack_vector: "Threat actors compromised Mixpanel's product analytics platform infrastructure, gaining access to customer behavioral and analytics data that dozens of companies had shared with Mixpanel for product improvement and user analytics purposes"
+cve: []
+vendor_product: "Mixpanel (product analytics SaaS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: true
+notes: "In late 2025, Mixpanel, a widely-used product analytics SaaS platform, suffered a breach that exposed user behavioral data from dozens of customer companies. Confirmed affected organizations include OpenAI, PornHub, Pinterest (Shuffles app), CoinDCX, SoundCloud, SwissBorg, and CoinLedger. Exposed data categories varied by company but typically included user names, email addresses, device information, browser/OS metadata, geographic location data, and in some cases sensitive behavioral data such as video viewing histories, search terms, and financial transaction types. The breach highlighted the risk of sensitive behavioral and usage data flowing to third-party analytics vendors without adequate data minimization or contractual security controls. Multiple European DPAs opened investigations into the incident."
+cloud_provider: "Mixpanel"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

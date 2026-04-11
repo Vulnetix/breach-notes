@@ -23,7 +23,7 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 | Total financial loss (USD) | $80.9B |
 | Total financial recovered (USD) | $53.3B |
 | AI-related incidents | 45 (1%) |
-| Cloud / SaaS incidents | 30 (1%) |
+| Cloud / SaaS incidents | 177 (5%) |
 | Crypto / Web3 incidents | 1090 (28%) |
 | Incidents with affected-count data | 75 (2%) |
 | Total affected (wallets / users) | 43.4M |
@@ -32,14 +32,14 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 
 | Category | Count | % |
 |----------|-------|---|
-| ransomware | 225 | 6% |
-| data-leak | 856 | 22% |
-| supply-chain | 787 | 20% |
-| credential-theft | 127 | 3% |
+| ransomware | 218 | 6% |
+| data-leak | 809 | 21% |
+| supply-chain | 722 | 19% |
+| credential-theft | 106 | 3% |
 | ai | 45 | 1% |
-| cloud | 34 | 1% |
+| cloud | 183 | 5% |
 | cryptocurrency | 1086 | 28% |
-| other | 733 | 19% |
+| other | 724 | 19% |
 
 ## Incidents by Year
 
@@ -258,11 +258,21 @@ CVE-2026-33634
 
 | Provider | Incidents |
 |----------|----------|
-| AWS | 13 |
-| Snowflake | 13 |
-| Dropbox | 2 |
-| CircleCI | 1 |
-| GitHub | 1 |
+| AWS | 48 |
+| Salesforce | 27 |
+| Snowflake | 18 |
+| Okta | 10 |
+| Elasticsearch | 9 |
+| LastPass | 6 |
+| Ivanti | 5 |
+| Atlassian | 3 |
+| Codecov | 3 |
+| Mailchimp | 3 |
+| Microsoft | 3 |
+| Oracle Cloud | 3 |
+| SolarWinds | 3 |
+| Twilio | 3 |
+| Zendesk | 3 |
 
 ## Schema
 

@@ -1,0 +1,21 @@
+source_name: '"Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach"'
+source_url: https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/
+date_of_breach: '2023-09-05'
+date_of_disclosure: '2023-09-05'
+category: cloud
+initial_attack_vector: Smart contract exploit / hack
+vendor_product: Stolen LastPass vaults possibly cracked
+financial_loss_usd: 35000000
+affected_count: 25000000
+notes: 'In November 2022, popular password management tool LastPass disclosed that hackers had stolen "password vaults" containing
+  data belonging to more than 25 million users. Although the vaults themselves are encrypted, some experts now believe that
+  these vaults are being cracked to enable access to crypto credentials stored within.A report by cybersecurity expert Brian
+  Krebs outlines how various experts have come to this conclusion after analyzing a long string of crypto thefts perpetrated
+  against people with otherwise strong security practices. Altogether, the thefts suspected to have been enabled by the LastPass
+  breach amount to more than $35 million.
+
+
+  Total loss estimated at $35,000,000.'
+cloud_provider: "LastPass"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

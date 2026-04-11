@@ -4,12 +4,26 @@
     {{- $sn := $breach.source_name | default "" }}
     {{- if not (strings.Contains $sn "(DataBreachToday)") }}
     {{- if not (strings.Contains $sn "(ISMG") }}
-    {{- $.AddPage (dict
+    {{- /* Normalize flexible date (YYYY, YYYY-MM, YYYY-MM-DD) for Hugo .Date */ -}}
+    {{- $rawDate := $breach.date_of_breach | default "" -}}
+    {{- $dateStr := "" -}}
+    {{- if ge (len $rawDate) 10 -}}
+      {{- $dateStr = $rawDate -}}
+    {{- else if ge (len $rawDate) 7 -}}
+      {{- $dateStr = printf "%s-01" $rawDate -}}
+    {{- else if ge (len $rawDate) 4 -}}
+      {{- $dateStr = printf "%s-01-01" $rawDate -}}
+    {{- end -}}
+    {{- $pageDict := dict
       "path"   (printf "%s/%s" $cat $key)
       "title"  $breach.source_name
       "type"   "breach"
       "params" $breach
-    )}}
+    -}}
+    {{- with $dateStr -}}
+      {{- $pageDict = merge $pageDict (dict "dates" (dict "date" (time .))) -}}
+    {{- end -}}
+    {{- $.AddPage $pageDict -}}
     {{- end }}
     {{- end }}
   {{- end }}

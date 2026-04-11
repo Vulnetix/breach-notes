@@ -324,4 +324,78 @@ cloud_resource_crit: ""              # CRIT identifier, e.g. "arn:aws:s3:::{buck
 - `cryptocurrency/` — cryptocurrency, DeFi, and Web3 incidents
 - `other/` — uncategorized or multi-category
 
+## RSS Feeds
+
+The site publishes RSS 2.0 feeds with full incident metadata via a custom
+`breach:` XML namespace (`https://breachnotes.vulnetix.com/xmlns/breach/1.0`).
+
+### Available feeds
+
+| Feed | URL | Contents |
+|------|-----|----------|
+| All incidents | `/index.xml` | Latest incidents across every category |
+| Ransomware | `/ransomware/index.xml` | Ransomware incidents only |
+| Data Leaks | `/data-leak/index.xml` | Data leak incidents only |
+| Supply Chain | `/supply-chain/index.xml` | Supply chain incidents only |
+| Credential Theft | `/credential-theft/index.xml` | Credential theft incidents only |
+| AI | `/ai/index.xml` | AI-related incidents only |
+| Cloud | `/cloud/index.xml` | Cloud / SaaS incidents only |
+| Cryptocurrency | `/cryptocurrency/index.xml` | Crypto / Web3 incidents only |
+| Other | `/other/index.xml` | Uncategorized incidents |
+
+### Custom XML elements
+
+Each `<item>` includes standard RSS elements (`<title>`, `<link>`,
+`<pubDate>`, `<guid>`, `<description>`, `<category>`) plus
+`<content:encoded>` for full HTML notes, and namespaced `breach:*` elements
+for every field defined in [`schema.yaml`](schema.yaml):
+
+| Element | Schema field | Type |
+|---------|-------------|------|
+| `breach:sourceUrl` | `source_url` | string |
+| `breach:dateOfBreach` | `date_of_breach` | date |
+| `breach:dateOfDisclosure` | `date_of_disclosure` | date |
+| `breach:dateOfCustomerNotification` | `date_of_customer_notification` | date |
+| `breach:initialAttackVector` | `initial_attack_vector` | string |
+| `breach:cve` | `cve` | repeated per ID |
+| `breach:vendorProduct` | `vendor_product` | string |
+| `breach:softwarePackage` | `software_package` | string |
+| `breach:malware` | `malware` | string |
+| `breach:supplyChainClaimed` | `supply_chain_claimed` | boolean |
+| `breach:blockchain` | `blockchain` | string |
+| `breach:financialLossUsd` | `financial_loss_usd` | number |
+| `breach:financialRecoveredUsd` | `financial_recovered_usd` | number |
+| `breach:affectedCount` | `affected_count` | integer |
+| `breach:aiModelName` | `ai_model_name` | string |
+| `breach:aiModelProvider` | `ai_model_provider` | string |
+| `breach:aiAttackVector` | `ai_attack_vector` | string |
+| `breach:cloudProvider` | `cloud_provider` | string |
+| `breach:cloudSharedResponsibility` | `cloud_shared_responsibility` | enum |
+| `breach:cloudResourceCrit` | `cloud_resource_crit` | string |
+
+Elements are only present when the field has a non-empty value.
+
+### Configuration
+
+RSS behaviour is controlled in `hugo.toml`:
+
+```toml
+# Which page types produce an RSS feed
+[outputs]
+  home    = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+# Maximum number of items per feed (most recent first)
+[services.rss]
+  limit = 200     # set to -1 for unlimited
+```
+
+To change the feed size, edit `services.rss.limit`. Setting `limit = -1`
+removes the cap and includes every incident. To disable RSS for section
+pages, remove `"RSS"` from `outputs.section`.
+
+The feed template lives at `layouts/_default/rss.xml` and applies to all
+feeds (home and per-category). To customise the output, edit that template
+directly.
+
 <!-- END GENERATED -->

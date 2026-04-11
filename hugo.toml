@@ -6,6 +6,7 @@ ignoreFiles = ['/data/README\.md']
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
 
 [params]
   description = "An open record of real-world cyberattacks — who got hit, how, and what it cost them."
@@ -18,6 +19,8 @@ ignoreFiles = ['/data/README\.md']
       unsafe = true
 
 [services]
+  [services.rss]
+    limit = 200
   [services.googleAnalytics]
     ID = 'G-NWBJE5RS0Q'
 

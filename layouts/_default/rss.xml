@@ -1,5 +1,7 @@
 {{- /* Custom RSS 2.0 template for Breach Notes.
-       Extends standard RSS with a breach: namespace carrying all schema.yaml fields. */ -}}
+       Extends standard RSS with a breach: namespace carrying all schema.yaml fields.
+       Uses transform.XMLEscape (not htmlEscape) so only the five XML-safe entities
+       (&amp; &lt; &gt; &quot; &apos;) appear — no HTML named entities like &rsquo;. */ -}}
 {{- $pages := slice -}}
 {{- if .IsHome -}}
   {{- $pages = where site.RegularPages "Type" "breach" -}}
@@ -18,15 +20,15 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:breach="https://breachnotes.vulnetix.com/xmlns/breach/1.0">
   <channel>
-    <title>{{ $title | htmlEscape }}</title>
+    <title>{{ $title | transform.XMLEscape | safeHTML }}</title>
     <link>{{ .Permalink }}</link>
-    <description>{{ with .Description }}{{ . | htmlEscape }}{{ else }}{{ site.Params.description | htmlEscape }}{{ end }}</description>
+    <description>{{ with .Description }}{{ . | transform.XMLEscape | safeHTML }}{{ else }}{{ site.Params.description | transform.XMLEscape | safeHTML }}{{ end }}</description>
     <generator>Hugo -- gohugo.io</generator>
     {{- with site.LanguageCode }}
     <language>{{ . }}</language>
     {{- end }}
     {{- with site.Params.author }}
-    <managingEditor>{{ . | htmlEscape }}</managingEditor>
+    <managingEditor>{{ . | transform.XMLEscape | safeHTML }}</managingEditor>
     {{- end }}
     <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
     {{- with .OutputFormats.Get "RSS" }}
@@ -35,22 +37,22 @@
     {{- range $pages }}
     {{- $p := .Params }}
     <item>
-      <title>{{ .Title | htmlEscape }}</title>
+      <title>{{ .Title | transform.XMLEscape | safeHTML }}</title>
       <link>{{ .Permalink }}</link>
       {{- if not .Date.IsZero }}
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
       {{- end }}
       <guid isPermaLink="true">{{ .Permalink }}</guid>
       {{- with $p.notes }}
-      <description>{{ . | plainify | truncate 300 | htmlEscape }}</description>
-      <content:encoded><![CDATA[{{ . | markdownify }}]]></content:encoded>
+      <description>{{ . | plainify | truncate 300 | transform.XMLEscape | safeHTML }}</description>
+      {{ printf "<content:encoded><![CDATA[%s]]></content:encoded>" (. | markdownify) | safeHTML }}
       {{- end }}
 
       {{- /* ── Standard RSS category ── */ -}}
-      {{ with $p.category }}<category>{{ . | htmlEscape }}</category>{{ end }}
+      {{ with $p.category }}<category>{{ . | transform.XMLEscape | safeHTML }}</category>{{ end }}
 
       {{- /* ── Core fields ── */ -}}
-      {{ with $p.source_url }}<breach:sourceUrl>{{ . | htmlEscape }}</breach:sourceUrl>{{ end }}
+      {{ with $p.source_url }}<breach:sourceUrl>{{ . | transform.XMLEscape | safeHTML }}</breach:sourceUrl>{{ end }}
       {{- with $p.date_of_breach }}
       <breach:dateOfBreach>{{ . }}</breach:dateOfBreach>
       {{- end }}
@@ -63,19 +65,19 @@
       <breach:dateOfCustomerNotification>{{ . }}</breach:dateOfCustomerNotification>
       {{- end }}
       {{- with $p.initial_attack_vector }}
-      <breach:initialAttackVector>{{ . | htmlEscape }}</breach:initialAttackVector>
+      <breach:initialAttackVector>{{ . | transform.XMLEscape | safeHTML }}</breach:initialAttackVector>
       {{- end }}
       {{- with $p.cve }}{{ range . }}
       <breach:cve>{{ . }}</breach:cve>
       {{- end }}{{ end }}
       {{- with $p.vendor_product }}
-      <breach:vendorProduct>{{ . | htmlEscape }}</breach:vendorProduct>
+      <breach:vendorProduct>{{ . | transform.XMLEscape | safeHTML }}</breach:vendorProduct>
       {{- end }}
       {{- with $p.software_package }}
-      <breach:softwarePackage>{{ . | htmlEscape }}</breach:softwarePackage>
+      <breach:softwarePackage>{{ . | transform.XMLEscape | safeHTML }}</breach:softwarePackage>
       {{- end }}
       {{- with $p.malware }}
-      <breach:malware>{{ . | htmlEscape }}</breach:malware>
+      <breach:malware>{{ . | transform.XMLEscape | safeHTML }}</breach:malware>
       {{- end }}
       {{- if $p.supply_chain_claimed }}
       <breach:supplyChainClaimed>true</breach:supplyChainClaimed>
@@ -83,7 +85,7 @@
 
       {{- /* ── Crypto / Web3 fields ── */ -}}
       {{- with $p.blockchain }}
-      <breach:blockchain>{{ . | htmlEscape }}</breach:blockchain>
+      <breach:blockchain>{{ . | transform.XMLEscape | safeHTML }}</breach:blockchain>
       {{- end }}
       {{- with $p.financial_loss_usd }}
       <breach:financialLossUsd>{{ . }}</breach:financialLossUsd>
@@ -97,24 +99,24 @@
 
       {{- /* ── AI fields ── */ -}}
       {{- with $p.ai_model_name }}
-      <breach:aiModelName>{{ . | htmlEscape }}</breach:aiModelName>
+      <breach:aiModelName>{{ . | transform.XMLEscape | safeHTML }}</breach:aiModelName>
       {{- end }}
       {{- with $p.ai_model_provider }}
-      <breach:aiModelProvider>{{ . | htmlEscape }}</breach:aiModelProvider>
+      <breach:aiModelProvider>{{ . | transform.XMLEscape | safeHTML }}</breach:aiModelProvider>
       {{- end }}
       {{- with $p.ai_attack_vector }}
-      <breach:aiAttackVector>{{ . | htmlEscape }}</breach:aiAttackVector>
+      <breach:aiAttackVector>{{ . | transform.XMLEscape | safeHTML }}</breach:aiAttackVector>
       {{- end }}
 
       {{- /* ── Cloud / SaaS fields ── */ -}}
       {{- with $p.cloud_provider }}
-      <breach:cloudProvider>{{ . | htmlEscape }}</breach:cloudProvider>
+      <breach:cloudProvider>{{ . | transform.XMLEscape | safeHTML }}</breach:cloudProvider>
       {{- end }}
       {{- with $p.cloud_shared_responsibility }}
       <breach:cloudSharedResponsibility>{{ . }}</breach:cloudSharedResponsibility>
       {{- end }}
       {{- with $p.cloud_resource_crit }}
-      <breach:cloudResourceCrit>{{ . | htmlEscape }}</breach:cloudResourceCrit>
+      <breach:cloudResourceCrit>{{ . | transform.XMLEscape | safeHTML }}</breach:cloudResourceCrit>
       {{- end }}
     </item>
     {{- end }}

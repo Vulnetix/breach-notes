@@ -399,3 +399,29 @@ feeds (home and per-category). To customise the output, edit that template
 directly.
 
 <!-- END GENERATED -->
+
+## Contributing
+
+Submit a new breach by opening a pull request that adds a YAML file to the
+appropriate category directory. When you create a PR, select one of the
+templates below to get a pre-filled checklist and YAML skeleton.
+
+| Template | Category | Directory | Required fields (beyond core) |
+|----------|----------|-----------|-------------------------------|
+| **Cloud Breach** | `cloud` | `cloud/` | `cloud_provider`, `cloud_resource_crit`, `cloud_shared_responsibility` |
+| **AI Breach** | `ai` | `ai/` | `ai_model_provider` |
+| **Crypto Breach** | `cryptocurrency` | `cryptocurrency/` | `financial_loss_usd` |
+| **Traditional Breach** | `ransomware`, `data-leak`, `supply-chain`, `credential-theft`, `other` | matching category folder | *(none beyond core)* |
+
+### Quick start
+
+1. Fork this repository.
+2. Create a file named `YYYY-MM_slug.yaml` in the correct category directory.
+3. Fill in the required fields — use an existing record in the same directory as
+   a reference.
+4. Open a pull request and choose the matching template (`cloud_breach.md`,
+   `ai_breach.md`, `crypto_breach.md`, or `traditional_breach.md`).
+
+Every record requires these **core fields**: `source_name`, `source_url`,
+`date_of_breach`, `date_of_disclosure`, `category`, and `notes`. See
+[Schema](#schema) above for the full field reference.

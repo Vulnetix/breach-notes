@@ -32,6 +32,9 @@ type Breach struct {
 	AIModelName              string   `yaml:"ai_model_name"`
 	AIModelProvider          string   `yaml:"ai_model_provider"`
 	AIAttackVector           string   `yaml:"ai_attack_vector"`
+	CloudProvider            string   `yaml:"cloud_provider"`
+	CloudSharedResponsibility string  `yaml:"cloud_shared_responsibility"`
+	CloudResourceCRIT        string   `yaml:"cloud_resource_crit"`
 	FilePath                 string
 }
 
@@ -59,7 +62,7 @@ func main() {
 
 func loadBreaches(root string) ([]Breach, error) {
 	var breaches []Breach
-	categories := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cryptocurrency", "other"}
+	categories := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cloud", "cryptocurrency", "other"}
 	for _, cat := range categories {
 		dir := filepath.Join(root, cat)
 		entries, err := os.ReadDir(dir)
@@ -198,7 +201,7 @@ func generateREADME(breaches []Breach) string {
 
 	sb.WriteString("## Incidents by Category\n\n")
 	sb.WriteString("| Category | Count | % |\n|----------|-------|---|\n")
-	cats := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cryptocurrency", "other"}
+	cats := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cloud", "cryptocurrency", "other"}
 	for _, cat := range cats {
 		n := catCount[cat]
 		sb.WriteString(fmt.Sprintf("| %s | %d | %.0f%% |\n", cat, n, pct(n, total)))
@@ -245,7 +248,7 @@ func generateREADME(breaches []Breach) string {
 	sb.WriteString("source_url: \"https://example.com/direct-link-to-report\"\n")
 	sb.WriteString("date_of_breach: \"YYYY-MM-DD\"          # also accepts YYYY-MM or YYYY\n")
 	sb.WriteString("date_of_disclosure: \"YYYY-MM-DD\"      # empty string \"\" if unknown\n")
-	sb.WriteString("category: \"ransomware | data-leak | supply-chain | credential-theft | ai | cryptocurrency | other\"\n")
+	sb.WriteString("category: \"ransomware | data-leak | supply-chain | credential-theft | ai | cloud | cryptocurrency | other\"\n")
 	sb.WriteString("notes: \"Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact.\"\n")
 	sb.WriteString("\n")
 	sb.WriteString("# ── Traditional breach fields ───────────────────────────────────────────────────\n")
@@ -267,6 +270,11 @@ func generateREADME(breaches []Breach) string {
 	sb.WriteString("ai_model_name: \"\"                    # AI model involved, e.g. \"ChatGPT\", \"Claude\", \"Gemini\"; omit if not applicable\n")
 	sb.WriteString("ai_model_provider: \"\"                # organization behind the model, e.g. \"OpenAI\", \"Anthropic\"; omit if not applicable\n")
 	sb.WriteString("ai_attack_vector: \"\"                 # AI-specific attack method, e.g. \"prompt injection\", \"deepfake\"; omit if not applicable\n")
+	sb.WriteString("\n")
+	sb.WriteString("# ── Cloud / SaaS fields ───────────────────────────────────────────────────────\n")
+	sb.WriteString("cloud_provider: \"\"                   # cloud provider, e.g. \"AWS\", \"Azure\", \"GCP\", \"Snowflake\"; omit if not applicable\n")
+	sb.WriteString("cloud_shared_responsibility: \"\"      # \"vendor\" | \"customer\" | \"shared\" | \"unknown\"\n")
+	sb.WriteString("cloud_resource_crit: \"\"              # CRIT identifier, e.g. \"arn:aws:s3:::{bucket}\"; omit if not applicable\n")
 	sb.WriteString("```\n\n")
 
 	sb.WriteString("## Folders\n\n")
@@ -275,6 +283,7 @@ func generateREADME(breaches []Breach) string {
 	sb.WriteString("- `supply-chain/` — supply chain attacks\n")
 	sb.WriteString("- `credential-theft/` — credential compromise\n")
 	sb.WriteString("- `ai/` — AI-related cybersecurity incidents\n")
+	sb.WriteString("- `cloud/` — cloud and SaaS security incidents\n")
 	sb.WriteString("- `cryptocurrency/` — cryptocurrency, DeFi, and Web3 incidents\n")
 	sb.WriteString("- `other/` — uncategorized or multi-category\n")
 

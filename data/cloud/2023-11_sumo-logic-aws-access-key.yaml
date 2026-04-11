@@ -1,0 +1,16 @@
+source_name: "Sumo Logic AWS Access Key Compromise"
+source_url: "https://www.bleepingcomputer.com/news/security/sumo-logic-discloses-security-breach-via-compromised-aws-credentials/"
+date_of_breach: "2023-11-03"
+date_of_disclosure: "2023-11-07"
+date_of_customer_notification: "2023-11-07"
+category: cloud
+initial_attack_vector: "A threat actor used a compromised AWS access key credential belonging to Sumo Logic to gain unauthorized access to Sumo Logic's AWS infrastructure"
+cve: []
+vendor_product: "Amazon Web Services (AWS)"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On November 3, 2023, Sumo Logic, a cloud-native security analytics and log management platform, discovered that a compromised AWS access key had been used to gain unauthorized access to their AWS environment. Sumo Logic immediately rotated the compromised credentials, locked down API access, and began an investigation. The company notified customers on November 7 and recommended they rotate their Sumo Logic API access keys and third-party credentials stored in Sumo Logic as a precaution. The attacker did not appear to exfiltrate customer data, but the incident highlighted the risk of long-lived AWS access keys and the importance of timely credential rotation."
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:iam::{account}:access-key"

@@ -1,0 +1,16 @@
+source_name: "CommuteAir Jenkins Misconfiguration Exposes AWS Credentials and No-Fly List"
+source_url: "https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-hacking-forum-exposes-security-lapses/"
+date_of_breach: "2022-12-01"
+date_of_disclosure: "2023-01-19"
+date_of_customer_notification: ""
+category: cloud
+initial_attack_vector: "A publicly accessible Jenkins CI/CD server misconfiguration at CommuteAir exposed AWS credentials, which a security researcher used to access multiple S3 buckets — including one containing the TSA's No Fly List"
+cve: []
+vendor_product: "Jenkins (CI/CD); Amazon S3"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "In January 2023, a security researcher discovered that CommuteAir, a US regional airline, had a publicly exposed Jenkins build server with no authentication required. The Jenkins environment contained hardcoded AWS access keys in pipeline configurations. Using these credentials, the researcher accessed multiple CommuteAir S3 buckets and discovered one containing a 2019 version of the TSA No Fly List — a sensitive government document listing individuals prohibited from boarding commercial aircraft in the US. The researcher shared the No Fly List on a hacking forum, leading to the public exposure. The incident demonstrated the systemic risk of hardcoded cloud credentials in CI/CD pipelines and the chain of consequences when airline/government data is co-mingled with inadequately secured infrastructure."
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

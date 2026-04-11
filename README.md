@@ -23,6 +23,7 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 | Total financial loss (USD) | $80.9B |
 | Total financial recovered (USD) | $53.3B |
 | AI-related incidents | 45 (1%) |
+| Cloud / SaaS incidents | 30 (1%) |
 | Crypto / Web3 incidents | 1090 (28%) |
 | Incidents with affected-count data | 75 (2%) |
 | Total affected (wallets / users) | 43.4M |
@@ -32,10 +33,11 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 | Category | Count | % |
 |----------|-------|---|
 | ransomware | 225 | 6% |
-| data-leak | 864 | 22% |
-| supply-chain | 788 | 20% |
-| credential-theft | 152 | 4% |
+| data-leak | 856 | 22% |
+| supply-chain | 787 | 20% |
+| credential-theft | 127 | 3% |
 | ai | 45 | 1% |
+| cloud | 34 | 1% |
 | cryptocurrency | 1086 | 28% |
 | other | 733 | 19% |
 
@@ -252,12 +254,19 @@ CVE-2026-33634
 | malicious LLM | 1 |
 | smart contract exploit | 1 |
 
+## Top Cloud Providers
 
-<!-- END GENERATED -->
+| Provider | Incidents |
+|----------|----------|
+| AWS | 13 |
+| Snowflake | 13 |
+| Dropbox | 2 |
+| CircleCI | 1 |
+| GitHub | 1 |
 
 ## Schema
 
-Each YAML file captures:
+Each YAML file captures (see [`schema.yaml`](schema.yaml) for the canonical definition):
 
 ```yaml
 # ── Core fields (always present) ───────────────────────────────────────────────
@@ -265,7 +274,7 @@ source_name: "Publication or organization reporting the breach"
 source_url: "https://example.com/direct-link-to-report"
 date_of_breach: "YYYY-MM-DD"          # also accepts YYYY-MM or YYYY
 date_of_disclosure: "YYYY-MM-DD"      # empty string "" if unknown
-category: "ransomware | data-leak | supply-chain | credential-theft | ai | cryptocurrency | other"
+category: "ransomware | data-leak | supply-chain | credential-theft | ai | cloud | cryptocurrency | other"
 notes: "Narrative summary of the incident including timeline, scope, threat actor attribution, and any known impact."
 
 # ── Traditional breach fields ───────────────────────────────────────────────────
@@ -287,6 +296,11 @@ affected_count: 0                    # number of affected wallets, users, or ind
 ai_model_name: ""                    # AI model involved, e.g. "ChatGPT", "Claude", "Gemini"; omit if not applicable
 ai_model_provider: ""                # organization behind the model, e.g. "OpenAI", "Anthropic"; omit if not applicable
 ai_attack_vector: ""                 # AI-specific attack method, e.g. "prompt injection", "deepfake"; omit if not applicable
+
+# ── Cloud / SaaS fields ───────────────────────────────────────────────────────
+cloud_provider: ""                   # cloud provider, e.g. "AWS", "Azure", "GCP", "Snowflake"; omit if not applicable
+cloud_shared_responsibility: ""      # "vendor" | "customer" | "shared" | "unknown"
+cloud_resource_crit: ""              # CRIT identifier, e.g. "arn:aws:s3:::{bucket}"; omit if not applicable
 ```
 
 ## Folders
@@ -296,5 +310,8 @@ ai_attack_vector: ""                 # AI-specific attack method, e.g. "prompt i
 - `supply-chain/` — supply chain attacks
 - `credential-theft/` — credential compromise
 - `ai/` — AI-related cybersecurity incidents
+- `cloud/` — cloud and SaaS security incidents
 - `cryptocurrency/` — cryptocurrency, DeFi, and Web3 incidents
 - `other/` — uncategorized or multi-category
+
+<!-- END GENERATED -->

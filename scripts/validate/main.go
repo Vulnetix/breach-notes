@@ -76,7 +76,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	dirs := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cryptocurrency", "other"}
+	dirs := []string{"ransomware", "data-leak", "supply-chain", "credential-theft", "ai", "cloud", "cryptocurrency", "other"}
 	res := &result{}
 	total := 0
 

@@ -48,12 +48,17 @@ ignoreFiles = ['/data/README\.md']
     url = "/ai/"
     weight = 5
   [[menus.main]]
+    identifier = "cloud"
+    name = "Cloud"
+    url = "/cloud/"
+    weight = 6
+  [[menus.main]]
     identifier = "cryptocurrency"
     name = "Cryptocurrency"
     url = "/cryptocurrency/"
-    weight = 6
+    weight = 7
   [[menus.main]]
     identifier = "other"
     name = "Other"
     url = "/other/"
-    weight = 7
+    weight = 8

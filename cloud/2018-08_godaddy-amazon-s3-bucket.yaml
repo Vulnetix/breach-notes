@@ -1,0 +1,16 @@
+source_name: GoDaddy server configuration data exposed via misconfigured AWS S3 bucket (June–August 2018)
+source_url: https://www.darkreading.com/cyberattacks-data-breaches/aws-employee-flub-exposes-s3-bucket-containing-godaddy-server-configuration-and-pricing-models
+date_of_breach: '2018-06-19'
+date_of_disclosure: '2018-08-11'
+date_of_customer_notification: ''
+category: cloud
+initial_attack_vector: Misconfigured Amazon S3 bucket created by an AWS salesperson with public read permissions — the bucket named "abbottgodaddy" was created to store pricing proposal documents for a GoDaddy AWS engagement and was not locked down to account-owner-only access as required by best practice
+cve: []
+vendor_product: Amazon Web Services S3
+software_package: ''
+malware: ''
+supply_chain_claimed: true
+notes: "On June 19, 2018, researchers from UpGuard's Cyber Risk Team discovered a publicly accessible Amazon S3 bucket named \"abbottgodaddy\" that contained sensitive configuration and pricing data belonging to GoDaddy. The bucket had not been created by GoDaddy itself but by an AWS employee — specifically a salesperson — who had assembled the files while preparing prospective pricing scenarios for a GoDaddy cloud migration engagement.\n\nAlthough Amazon S3 buckets default to private access restricted to the account owner, the salesperson failed to follow AWS best practices, leaving the bucket publicly readable. The exposure was discovered before any known malicious actor accessed the data, and UpGuard reported it to AWS, which secured the bucket.\n\nThe contents of the bucket included spreadsheets documenting the configurations of approximately 31,000 GoDaddy systems hosted on AWS infrastructure. The spreadsheet columns covered hostname, operating system, workload type, AWS region, memory, CPU specifications, and related technical details across 41 distinct fields per system entry. Additionally, the files contained detailed AWS pricing information, including the specific discounts and rates GoDaddy had negotiated — commercially sensitive data that could provide competitors with a negotiating advantage in their own AWS contract discussions.\n\nWhile no customer personal data or credentials were exposed, the configuration map represented a detailed blueprint of GoDaddy's cloud infrastructure. An attacker who obtained this data could have used it to select high-value targets based on workload type, probable data classifications, system role, region, and scale — substantially reducing the reconnaissance effort required for a targeted intrusion.\n\nThe incident was notable because the misconfiguration originated with an AWS employee acting in a sales capacity, not with GoDaddy's own IT team. It illustrated how cloud vendor relationships and pre-sales activities can inadvertently create exposure points entirely outside the customer's visibility or control. GoDaddy was not directly responsible for the misconfiguration but bore the reputational and competitive risk from the disclosure."
+cloud_provider: "AWS"
+cloud_shared_responsibility: "customer"
+cloud_resource_crit: "arn:aws:s3:::{bucket}"

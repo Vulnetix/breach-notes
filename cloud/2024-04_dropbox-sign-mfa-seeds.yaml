@@ -1,0 +1,16 @@
+source_name: "Dropbox Sign (HelloSign) Breach — Customer Data, API Keys, MFA, OAuth Tokens"
+source_url: "https://sign.dropbox.com/security-incident"
+date_of_breach: "2024-04-24"
+date_of_disclosure: "2024-05-01"
+date_of_customer_notification: "2024-05-01"
+category: cloud
+initial_attack_vector: "Attacker gained access to a Dropbox Sign automated system configuration tool, using it to execute code in the context of the Sign application; this provided access to the customer database and to application-related secrets including API keys, OAuth tokens, and MFA keys/seeds"
+cve: []
+vendor_product: "Dropbox Sign (formerly HelloSign) e-signature platform"
+software_package: ""
+malware: ""
+supply_chain_claimed: false
+notes: "On 24 April 2024, Dropbox discovered that a threat actor had accessed Dropbox Sign's (formerly HelloSign's) production environment. Dropbox Sign is an e-signature service used by businesses and individuals to sign documents legally online. The attacker accessed the customer database containing all users of Dropbox Sign, as well as API customers (those who integrate Dropbox Sign via API). Exposed data for all Dropbox Sign customers included: email addresses, usernames, phone numbers, hashed passwords, general account settings, and authentication information (API keys, OAuth tokens, multi-factor authentication information including TOTP seeds). The exposure of MFA seeds was particularly serious — TOTP seeds allow an attacker to generate any current or future MFA code for affected accounts, effectively bypassing MFA. Dropbox reset all user passwords, MFA settings, and API keys globally for Dropbox Sign customers. Dropbox stated the breach was limited to Dropbox Sign's infrastructure and that no Dropbox accounts, documents, or file data were accessed. Users who only used Dropbox Sign via a third-party integration had their third-party account data (not Dropbox data) exposed. The breach prompted concerns about document confidentiality for users of the e-signature platform, as signed documents in the system were not confirmed to be secure."
+cloud_provider: "Dropbox"
+cloud_shared_responsibility: "vendor"
+cloud_resource_crit: ""

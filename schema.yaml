@@ -5,6 +5,8 @@
 #   core              – present in every record
 #   traditional       – traditional breach / ransomware / supply-chain records
 #   crypto            – crypto / Web3 / DeFi incident records
+#   ai                – AI-related incident records
+#   cloud             – cloud / SaaS incident records
 #
 # Fields absent from a record are treated as omitted (not an error) unless
 # required: true.
@@ -51,6 +53,7 @@ fields:
       - supply-chain
       - credential-theft
       - ai
+      - cloud
       - cryptocurrency
       - other
     description: "Incident category"
@@ -166,3 +169,41 @@ fields:
       (e.g. "prompt injection", "deepfake", "AI-generated malware",
       "model poisoning", "training data exposure", "jailbreak",
       "adversarial input", "AI-assisted cyberattack"). Omit if not applicable.
+
+  # ── Cloud / SaaS fields ─────────────────────────────────────────────────────
+
+  cloud_provider:
+    group: cloud
+    type: string
+    required: false
+    description: >
+      Cloud service provider name
+      (e.g. "AWS", "Azure", "GCP", "Snowflake", "Dropbox", "GitHub").
+      Omit if not a cloud/SaaS incident.
+
+  cloud_shared_responsibility:
+    group: cloud
+    type: string
+    required: false
+    enum:
+      - vendor
+      - customer
+      - shared
+      - unknown
+    description: >
+      Which side of the shared responsibility model the weakness falls on.
+      "vendor" = provider-side flaw (e.g. platform vulnerability);
+      "customer" = customer misconfiguration or credential mismanagement;
+      "shared" = both sides contributed; "unknown" if unclear.
+
+  cloud_resource_crit:
+    group: cloud
+    type: string
+    required: false
+    description: >
+      Cloud Resource Identifier Template (CRIT) for the affected resource,
+      using the provider's native identifier format with parameterised slots
+      (e.g. "arn:aws:s3:::{bucket}", "arn:aws:ec2:{region}:{account}:instance/{id}",
+      "subscriptions/{sub}/resourceGroups/{rg}/providers/Microsoft.Storage/storageAccounts/{name}",
+      "projects/{project}/buckets/{bucket}").
+      See draft-vulnetix-crit for the full specification. Omit if not applicable.

@@ -1,0 +1,94 @@
+name: Validate RSS Feeds
+
+on:
+  pull_request:
+    paths:
+      - 'layouts/**'
+      - 'hugo.toml'
+      - 'content/_content.gotmpl'
+      - 'data/**'
+      - 'schema.yaml'
+  push:
+    branches: [main]
+    paths:
+      - 'layouts/**'
+      - 'hugo.toml'
+      - 'content/_content.gotmpl'
+      - 'data/**'
+      - 'schema.yaml'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Install xmllint
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq libxml2-utils
+
+      - name: Sync root category dirs from data/
+        run: |
+          for cat in ransomware data-leak supply-chain credential-theft ai cloud cryptocurrency other; do
+            mkdir -p "$cat"
+            rsync -a "data/$cat/" "$cat/" 2>/dev/null || cp -rn "data/$cat/." "$cat/"
+          done
+
+      - name: Generate recent breaches
+        run: go run ./scripts/update-breaches.go
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Validate XML well-formedness
+        run: |
+          errors=0
+          checked=0
+          for xml_file in $(find public -name '*.xml'); do
+            checked=$((checked + 1))
+            if ! xmllint --noout "$xml_file" 2>/tmp/rss-err; then
+              echo "::error file=$xml_file::XML validation failed"
+              cat /tmp/rss-err
+              errors=$((errors + 1))
+            fi
+          done
+          echo "Checked $checked XML file(s) — $errors error(s)"
+          [ "$errors" -eq 0 ]
+
+      - name: Verify RSS feed structure
+        run: |
+          echo "── Home feed ──"
+          xmllint --xpath 'count(//*[local-name()="item"])' public/index.xml
+          echo " items in home feed"
+
+          echo "── Checking breach namespace elements ──"
+          # Verify at least one breach:dateOfBreach element exists
+          count=$(xmllint --xpath 'count(//*[local-name()="dateOfBreach"])' public/index.xml)
+          echo "$count items with dateOfBreach"
+          if [ "$count" -eq 0 ]; then
+            echo "::error::No breach:dateOfBreach elements found in home feed"
+            exit 1
+          fi
+
+          echo "── Section feeds ──"
+          for cat in ransomware data-leak supply-chain credential-theft ai cloud cryptocurrency other; do
+            if [ -f "public/$cat/index.xml" ]; then
+              items=$(xmllint --xpath 'count(//*[local-name()="item"])' "public/$cat/index.xml")
+              echo "  $cat: $items items"
+            else
+              echo "  $cat: no feed found"
+            fi
+          done

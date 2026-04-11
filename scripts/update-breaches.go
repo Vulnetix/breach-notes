@@ -247,6 +247,10 @@ func buildREADMEBody(records []record) string {
 	totalRecovered := sumFloat(records, func(r record) float64 { return r.breach.FinancialRecoveredUSD })
 	sb.WriteString(fmt.Sprintf("| Total financial recovered (USD) | %s |\n", formatUSD(totalRecovered)))
 
+	// AI incidents
+	withAI := countWhere(records, func(r record) bool { return r.breach.AIModelName != "" || r.breach.AIAttackVector != "" })
+	sb.WriteString(fmt.Sprintf("| AI-related incidents | %d (%s) |\n", withAI, pctOf(withAI, total)))
+
 	// Blockchain / crypto
 	withBlockchain := countWhere(records, func(r record) bool { return r.breach.Blockchain != "" })
 	sb.WriteString(fmt.Sprintf("| Crypto / Web3 incidents | %d (%s) |\n", withBlockchain, pctOf(withBlockchain, total)))
@@ -363,6 +367,35 @@ func buildREADMEBody(records []record) string {
 				lossStr = formatUSD(loss)
 			}
 			sb.WriteString(fmt.Sprintf("| %s | %d | %s |\n", row.key, row.count, lossStr))
+		}
+		sb.WriteString("\n")
+	}
+
+	// ── Top AI Model Providers ────────────────────────────────────────────────
+	if withAI > 0 {
+		sb.WriteString("## Top AI Model Providers\n\n")
+		sb.WriteString("| Provider | Incidents |\n|----------|----------|\n")
+		providerCounts := map[string]int{}
+		for _, r := range records {
+			if r.breach.AIModelProvider != "" {
+				providerCounts[r.breach.AIModelProvider]++
+			}
+		}
+		for _, row := range topN(providerCounts, 15) {
+			sb.WriteString(fmt.Sprintf("| %s | %d |\n", row.key, row.count))
+		}
+		sb.WriteString("\n")
+
+		sb.WriteString("## Top AI Attack Vectors\n\n")
+		sb.WriteString("| AI Attack Vector | Incidents |\n|-----------------|----------|\n")
+		aiVectorCounts := map[string]int{}
+		for _, r := range records {
+			if r.breach.AIAttackVector != "" {
+				aiVectorCounts[r.breach.AIAttackVector]++
+			}
+		}
+		for _, row := range topN(aiVectorCounts, 15) {
+			sb.WriteString(fmt.Sprintf("| %s | %d |\n", row.key, row.count))
 		}
 		sb.WriteString("\n")
 	}

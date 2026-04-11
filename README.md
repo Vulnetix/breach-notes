@@ -3,7 +3,7 @@
 Structured YAML records of breach reports, advisories, and cyber incidents.
 
 <!-- BEGIN GENERATED -->
-**Last updated:** 2026-04-10  **Total records:** 3893
+**Last updated:** 2026-04-11  **Total records:** 3893
 
 ---
 
@@ -22,6 +22,7 @@ Structured YAML records of breach reports, advisories, and cyber incidents.
 | Incidents with financial loss data | 830 (21%) |
 | Total financial loss (USD) | $80.9B |
 | Total financial recovered (USD) | $53.3B |
+| AI-related incidents | 45 (1%) |
 | Crypto / Web3 incidents | 1090 (28%) |
 | Incidents with affected-count data | 75 (2%) |
 | Total affected (wallets / users) | 43.4M |
@@ -215,6 +216,41 @@ CVE-2026-33634
 | cardano | 4 | $6.0M |
 | hyperliquid | 4 | $38.9M |
 | litecoin | 4 | $281.3M |
+
+## Top AI Model Providers
+
+| Provider | Incidents |
+|----------|----------|
+| OpenAI | 7 |
+| Microsoft | 4 |
+| Anthropic | 3 |
+| BerriAI | 2 |
+| Google | 2 |
+| GitLab | 1 |
+| Griffin AI | 1 |
+| McKinsey | 1 |
+| Mercor | 1 |
+| Tenzai | 1 |
+
+## Top AI Attack Vectors
+
+| AI Attack Vector | Incidents |
+|-----------------|----------|
+| AI-assisted cyberattack | 11 |
+| AI-generated malware | 8 |
+| data exposure | 6 |
+| deepfake | 4 |
+| prompt injection | 3 |
+| supply chain attack | 3 |
+| training data exposure | 2 |
+| AI platform breach | 1 |
+| AI-assisted malware | 1 |
+| AI-generated vulnerable code | 1 |
+| AI-themed fraud | 1 |
+| adversarial input | 1 |
+| jailbreak | 1 |
+| malicious LLM | 1 |
+| smart contract exploit | 1 |
 
 
 <!-- END GENERATED -->

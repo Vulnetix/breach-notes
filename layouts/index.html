@@ -22,6 +22,7 @@
             {{ $supplyChainCount := 0 }}
             {{ $totalLoss := 0 }}
             {{ $withVector := 0 }}
+            {{ $aiCount := 0 }}
             {{ range $cats }}
                 {{ with index hugo.Data . }}
                     {{ range $k, $b := . }}
@@ -33,6 +34,7 @@
                         {{ if $b.supply_chain_claimed }}{{ $supplyChainCount = add $supplyChainCount 1 }}{{ end }}
                         {{ with $b.financial_loss_usd }}{{ $totalLoss = add $totalLoss (. | int) }}{{ end }}
                         {{ with $b.initial_attack_vector }}{{ $withVector = add $withVector 1 }}{{ end }}
+                        {{ with $b.ai_model_name }}{{ $aiCount = add $aiCount 1 }}{{ end }}
                         {{ end }}
                         {{ end }}
                     {{ end }}
@@ -42,15 +44,11 @@
                 <h3>{{ $total }}</h3>
                 <p>Total Incidents</p>
             </div>
-            <div class="stat-card stat-card--loss">
-                {{ if ge $totalLoss 1000000000000 }}
-                <h3>${{ mul (float $totalLoss) 0.000000000001 | printf "%.0f" }}T+</h3>
-                {{ else if ge $totalLoss 1000000000 }}
-                <h3>${{ mul (float $totalLoss) 0.000000001 | printf "%.0f" }}B+</h3>
-                {{ else }}
-                <h3>${{ mul (float $totalLoss) 0.000001 | printf "%.0f" }}M+</h3>
-                {{ end }}
-                <p>Total Financial Loss (tracked)</p>
+            <div class="stat-card stat-card--ai">
+                {{ $aiTotal := 0 }}
+                {{ with index hugo.Data "ai" }}{{ range $k, $b := . }}{{ $aiTotal = add $aiTotal 1 }}{{ end }}{{ end }}
+                <h3>{{ $aiTotal }}</h3>
+                <p>AI Incidents</p>
             </div>
             <div class="stat-card">
                 <h3>{{ $withVector }}</h3>
@@ -64,13 +62,23 @@
     </div>
 </section>
 
-<section class="home-recent">
+<section class="home-recent" id="home-recent">
     <div class="container">
         <header class="section-header">
-            <h2 class="section-title">Latest Breaches</h2>
+            <h2 class="section-title">Breaches</h2>
         </header>
 
-        <div class="breach-grid recent-breaches">
+        <div class="browse-controls" id="browse-controls">
+            <div class="sort-controls">
+                <span class="sort-label">Sort:</span>
+                <button class="sort-btn sort-btn--active" data-sort="recent" aria-pressed="true">Recent</button>
+                <button class="sort-btn" data-sort="name-asc" aria-pressed="false">Name A-Z</button>
+                <button class="sort-btn" data-sort="name-desc" aria-pressed="false">Name Z-A</button>
+                <button class="sort-btn" data-sort="category" aria-pressed="false">Category</button>
+            </div>
+        </div>
+
+        <div class="breach-grid recent-breaches" id="breach-grid">
             {{ $recent := slice }}
             {{ $cats := slice "ransomware" "data-leak" "supply-chain" "credential-theft" "ai" "cryptocurrency" "other" }}
             {{ range $cats }}
@@ -92,12 +100,19 @@
                     {{ end }}
                 {{ end }}
             {{ end }}
-            {{ range first 12 (sort $recent "date" "desc") }}
+            {{ range sort $recent "date" "desc" }}
+                <div class="breach-card-wrapper" data-date="{{ .date }}" data-name="{{ .breach.source_name }}" data-category="{{ .category }}">
                 {{ partial "breach-card.html" (dict
                     "breach" .breach
                     "url"    (printf "/%s/%s/" .category .key)
                 ) }}
+                </div>
             {{ end }}
+        </div>
+
+        <div class="load-more-container" id="load-more-container">
+            <button class="btn-hacker load-more-btn" id="load-more-btn">Load More</button>
+            <p class="load-more-hint" id="load-more-hint"></p>
         </div>
     </div>
 </section>

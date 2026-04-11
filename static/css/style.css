@@ -522,8 +522,78 @@ main {
 .timeline-event--notification .timeline-date { color: #60d060; }
 .timeline-event--notification::before        { background: #60d060; box-shadow: 0 0 6px #60d060; }
 
-/* ── Homepage stat card variant for loss total ───────────────────────────── */
+/* ── Homepage stat card variants ──────────────────────────────────────────── */
 .stat-card--loss h3 { color: #ff8080; }
+.stat-card--ai h3 { color: #b43cff; }
+
+/* ── Browse controls (sort + load more) ──────────────────────────────────── */
+.browse-controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.sort-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.sort-label {
+    color: #888;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.sort-btn {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 255, 0, 0.2);
+    color: #888;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.8rem;
+    padding: 0.35rem 0.75rem;
+    cursor: pointer;
+    transition: border-color 0.05s, color 0.05s;
+}
+
+.sort-btn:hover {
+    border-color: rgba(0, 255, 0, 0.5);
+    color: #ccc;
+}
+
+.sort-btn--active {
+    border-color: #00ff00;
+    color: #00ff00;
+    background: rgba(0, 255, 0, 0.08);
+}
+
+.load-more-container {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1rem 0;
+}
+
+.load-more-btn {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.9rem;
+    padding: 0.6rem 2rem;
+    cursor: pointer;
+}
+
+.load-more-hint {
+    color: #666;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+
+.breach-card-wrapper {
+    display: block;
+}
 
 /* Homepage Styles */
 .home-hero {

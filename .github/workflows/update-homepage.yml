@@ -14,7 +14,7 @@ env:
 
 jobs:
   validate-and-rebuild:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, X64, vulnetix-local]
 
     steps:
       - uses: actions/checkout@v4
